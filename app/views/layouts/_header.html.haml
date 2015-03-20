@@ -1,9 +1,9 @@
 %header
-  %nav.navbar.navbar-inverse
+  %nav.navbar
     .navbar-inner
       .container-fluid
         %ul.nav.navbar-nav
-          = link_to "Base Web App", root_path, class: "navbar-brand"
+          = link_to "Match Vote", root_path, class: "navbar-brand"
         %ul.nav.navbar-nav.navbar-right
           %li
             = link_to "Account", edit_user_registration_path(current_user)
