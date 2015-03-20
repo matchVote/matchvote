@@ -41,7 +41,7 @@ feature "Editing account settings" do
     context "with valid input" do
       scenario "successfully updates password" do
         update_user(options)
-        expect(subject).to have_content("Build a profile page to test here")
+        expect(subject).to have_content("Your account has been updated successfully")
       end
     end
 

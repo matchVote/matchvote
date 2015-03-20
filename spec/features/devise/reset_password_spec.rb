@@ -3,6 +3,7 @@ require "support/authentication"
 
 feature "Reseting password" do
   given(:user) { create(:user) }
+  given(:mail) { ActionMailer::Base.deliveries.first } 
   subject { page }
 
   background do
