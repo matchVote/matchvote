@@ -3,10 +3,11 @@
 This app does stuff.
 
 Models
-* Users
+* Users  
   has one Profile
-* Profiles
-  has many PostalAddresses
+
+* Profiles  
+  has many PostalAddresses  
   * title
   * bio
   * first_name
@@ -17,7 +18,7 @@ Models
   * twitter_url
   * approval_rating
   * user_id
-  * type # citizen or representative
+  * profile_type # citizen or representative
 
 * PostalAddresses
   * street_number
