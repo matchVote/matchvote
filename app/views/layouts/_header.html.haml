@@ -3,10 +3,10 @@
     .navbar-inner
       .container-fluid
         %ul.nav.navbar-nav
-          = link_to "matchVote", root_path, class: "navbar-brand"
+          = link_to root_path do
+            = image_tag "http://matchvote.com/wp-content/uploads/2015/01/mv.png", class: "mvlogo"
         %ul.nav.navbar-nav.navbar-right
           %li
             = link_to "Account", edit_user_registration_path(current_user)
           %li
             = link_to "Sign Out", destroy_user_session_path, method: :delete
-    
