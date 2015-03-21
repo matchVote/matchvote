@@ -7,7 +7,7 @@ default: &default
 
 development:
   <<: *default
-  database: match_vote_development
+  database: matchvote_development
   host: localhost
 
   # Schema search path. The server defaults to $user,public
@@ -21,7 +21,7 @@ development:
 
 test:
   <<: *default
-  database: match_vote_test
+  database: matchvote_test
 
 # As with config/secrets.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
