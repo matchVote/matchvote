@@ -40,6 +40,7 @@ GEM
     autoprefixer-rails (5.1.7.1)
       execjs
       json
+    awesome_print (1.6.1)
     bcrypt (3.1.10)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
@@ -79,6 +80,8 @@ GEM
     factory_girl_rails (4.5.0)
       factory_girl (~> 4.5.0)
       railties (>= 3.0.0)
+    faker (1.4.3)
+      i18n (~> 0.5)
     globalid (0.3.3)
       activesupport (>= 4.1.0)
     haml (4.0.6)
@@ -209,6 +212,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  awesome_print (~> 1.6.1)
   bcrypt (~> 3.1.10)
   bootstrap-sass (~> 3.3.4)
   byebug (~> 4.0.2)
@@ -216,6 +220,7 @@ DEPENDENCIES
   coffee-rails (~> 4.1.0)
   devise (~> 3.4.0)
   factory_girl_rails (~> 4.5.0)
+  faker (~> 1.4.3)
   haml-rails (~> 0.9)
   jquery-rails (~> 4.0.3)
   pg (~> 0.18.1)

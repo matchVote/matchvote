@@ -11,10 +11,38 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140912102346) do
+ActiveRecord::Schema.define(version: 20150321151957) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+  enable_extension "hstore"
+  enable_extension "uuid-ossp"
+
+  create_table "profiles", id: :uuid, default: "uuid_generate_v4()", force: :cascade do |t|
+    t.string  "type"
+    t.text    "title"
+    t.text    "first_name",                        null: false
+    t.text    "last_name",                         null: false
+    t.text    "middle_names"
+    t.text    "suffix"
+    t.text    "birthday"
+    t.string  "gender"
+    t.text    "government_role"
+    t.string  "state"
+    t.text    "district"
+    t.text    "party"
+    t.text    "email",                default: [],              array: true
+    t.text    "phone",                default: [],              array: true
+    t.text    "biography"
+    t.text    "religion"
+    t.hstore  "external_credentials"
+    t.integer "user_id"
+  end
+
+  add_index "profiles", ["first_name", "last_name"], name: "index_profiles_on_first_name_and_last_name", unique: true, using: :btree
+  add_index "profiles", ["first_name"], name: "index_profiles_on_first_name", using: :btree
+  add_index "profiles", ["last_name"], name: "index_profiles_on_last_name", using: :btree
+  add_index "profiles", ["user_id"], name: "index_profiles_on_user_id", using: :btree
 
   create_table "users", force: :cascade do |t|
     t.string   "email",                  default: "", null: false
@@ -37,10 +65,12 @@ ActiveRecord::Schema.define(version: 20140912102346) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.string   "username"
+    t.integer  "profile_id"
   end
 
   add_index "users", ["confirmation_token"], name: "index_users_on_confirmation_token", unique: true, using: :btree
   add_index "users", ["email"], name: "index_users_on_email", unique: true, using: :btree
+  add_index "users", ["profile_id"], name: "index_users_on_profile_id", using: :btree
   add_index "users", ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true, using: :btree
   add_index "users", ["unlock_token"], name: "index_users_on_unlock_token", unique: true, using: :btree
 

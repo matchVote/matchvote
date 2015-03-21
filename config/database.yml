@@ -7,7 +7,7 @@ default: &default
 
 development:
   <<: *default
-  database: matchvote_development
+  database: matchvote_dev
   host: localhost
 
   # Schema search path. The server defaults to $user,public
