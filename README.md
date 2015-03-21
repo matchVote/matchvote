@@ -3,14 +3,14 @@
 matchVote keeps you up-to-date with what's happening in politics by finding the politicians that agree and disagree with what's important to you.
 
 Models
-* Users  
+* Users - devise  
   has one Profile
+  * username
 
 * Profiles  
-  has many PostalAddresses  
-  has one ExternalCredential  
+  has one Contact
   belongs to User  
-  * type # STI
+  * type # STI ex: Representative, Citizen
   * title
   * first_name
   * last_name
@@ -24,6 +24,7 @@ Models
   * phone, array
   * biography
   * religion
+  * profile_image_url
   * external_credentials  
     * bioguide_id
     * thomas_id 
@@ -47,7 +48,16 @@ Models
     * instagram_id
     * instagram_username
 
+* Representatives < Profiles
+
+* Contact
+  has many PostalAddresses
+  belongs to Profile
+  * emails # Array
+  * phone_numbers # Array
+
 * PostalAddresses
+  belongs to Contact
   * street_number
   * street_name
   * city

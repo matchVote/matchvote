@@ -6,5 +6,5 @@ class User < ActiveRecord::Base
 
   validates :username, presence: true
 
-  has_many :profiles
+  has_one :profile, dependent: :destroy, inverse_of: :user
 end

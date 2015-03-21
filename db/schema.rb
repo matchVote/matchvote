@@ -11,12 +11,31 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150321151957) do
+ActiveRecord::Schema.define(version: 20150321225843) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
   enable_extension "hstore"
   enable_extension "uuid-ossp"
+
+  create_table "contacts", force: :cascade do |t|
+    t.text    "emails",        default: [], array: true
+    t.text    "phone_numbers", default: [], array: true
+    t.integer "profile_id"
+  end
+
+  add_index "contacts", ["profile_id"], name: "index_contacts_on_profile_id", using: :btree
+
+  create_table "postal_addresses", force: :cascade do |t|
+    t.text    "street_number"
+    t.text    "street_name"
+    t.text    "city"
+    t.text    "state"
+    t.text    "zip"
+    t.integer "contact_id"
+  end
+
+  add_index "postal_addresses", ["contact_id"], name: "index_postal_addresses_on_contact_id", using: :btree
 
   create_table "profiles", id: :uuid, default: "uuid_generate_v4()", force: :cascade do |t|
     t.string  "type"
@@ -37,6 +56,7 @@ ActiveRecord::Schema.define(version: 20150321151957) do
     t.text    "religion"
     t.hstore  "external_credentials"
     t.integer "user_id"
+    t.text    "profile_image_url"
   end
 
   add_index "profiles", ["first_name", "last_name"], name: "index_profiles_on_first_name_and_last_name", unique: true, using: :btree
