@@ -1,15 +1,42 @@
-# Base App
+# matchVote
 
-This foundation app can be used to build other apps on top of.
+This app does stuff.
 
-It provides for the following:
+Models
+* Users
+  has one Profile
+* Profiles
+  has many PostalAddresses
+  * title
+  * bio
+  * first_name
+  * last_name
+  * email # Array?
+  * phone # Array?
+  * facebook_url
+  * twitter_url
+  * approval_rating
+  * user_id
+  * type # citizen or representative
 
-* Devise
-  * Signup
-  * Signin/out
-* PostgreSQL
-* Rspec
-* Bootstrap-sass
+* PostalAddresses
+  * street_number
+  * street_name
+  * city
+  * state
+  * zip
 
-Authentication is fully tested.
+* Stances
+  * issue_name
+  * quote_url
+  Track skipped questions from quiz
+  -3 to 3
+  Privacy controls; From profile account, show stance.
 
+
+
+Profile Page
+
+
+APIs
+OpenSecrets.org
