@@ -15,12 +15,12 @@
         class: "profile_pic"
       .profile_name
         %button.btn.btn-md.btn-default.pull-right
-          Follow #{@rep.first_name}
+          Follow #{@rep.nickname}
         %h2
           = @rep.full_name
         = @rep.title
         %br
-        = @rep.party.capitalize
+        = @rep.party
         | #{@rep.state}
       .profile_bio
         %p
@@ -97,12 +97,12 @@
       %h2 Recent News
 
     .whitecard
-      %h2 #{@rep.first_name}'s Demographics
+      %h2 #{@rep.nickname ? @rep.nickname : @rep.first_name}'s Demographics
       %br
       %table.table.table-hover
         %tr
           %td.col-md-6 Gender
-          %td #{@rep.gender.capitalize}
+          %td #{@rep.gender}
         %tr
           %td Birthday
           %td #{@rep.birthday}
@@ -119,7 +119,7 @@
         = "#{Random.rand(100)}%"
         Approval Rating
       %div
-        %i Based on #{number_with_delimiter(Random.rand(10000), :delimiter => ',')} citizen ratings
+        %i Based on #{number_with_delimiter(Random.rand(10000), delimiter: ',')} citizen ratings
       %br
       %button.btn.btn-danger
         Rate
@@ -128,7 +128,7 @@
     .well.widget
       %h3
         Connect with
-        = @rep.first_name
+        #{@rep.nickname ? @rep.nickname : @rep.first_name}
       - @rep.contact.postal_addresses.each do |address|
         %span= address.full_street
         %br
@@ -154,6 +154,16 @@
 
     .well.widget
       %h3 Top Donors
+      %br
+      %table.table.table-striped
+        %tr
+          %td.col-md-6 University of California
+          %td.col-md-6 $1,500,000
+        %tr
+          %td.col-md-6 Goldman Sachs
+          %td.col-md-6 $1,034,615
+
+
 
     .well.widget
       %h3 Interest Group Ratings
