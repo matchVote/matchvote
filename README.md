@@ -110,6 +110,7 @@ Profile
 * View Profile - hyphen weirdness
 * Follow profile functionality
 * Rep profile photos
+* Sort reps in Directory
 * Data:
   * Normalize rep names
   * Parse postal address from file
