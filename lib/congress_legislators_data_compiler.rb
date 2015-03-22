@@ -30,7 +30,7 @@ class CongressLegislatorsDataCompiler
     { birthday: rep_data["bio"]["birthday"],
       gender:   genderize(rep_data["bio"]["gender"]),
       biography: "To Be Added...",
-      religion: rep_data["bio"]["religion"].capitalize }
+      religion: rep_data["bio"]["religion"] }
   end
 
   def terms

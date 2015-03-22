@@ -7,4 +7,7 @@ class Representative < Profile
     "#{first_name}-#{last_name}"
   end
 
+  def religion
+    religion ? religion.capitalize : "N/A"
+  end
 end
