@@ -7,6 +7,8 @@
             = image_tag "http://matchvote.com/wp-content/uploads/2015/01/mv.png", class: "mvlogo"
         %ul.nav.navbar-nav.navbar-right
           %li
-            = link_to "Account", edit_user_registration_path(current_user)
+            = link_to "@#{current_user.username}", edit_user_registration_path(current_user)
+          %li
+            = image_tag "http://bradhankins.com/wp-content/uploads/2014/10/brad.jpg", class: "menupic"
           %li
             = link_to "Sign Out", destroy_user_session_path, method: :delete

@@ -9,6 +9,12 @@
       >
       =link_to "/?=Executive" do
         Executive
+      >
+      =link_to "#" do
+        #{@rep.government_role}
+      >
+      =link_to "#" do
+        #{@rep.nickname_or_first_name} #{@rep.last_name}
 
     .whitecard
       = image_tag @rep.profile_image_url,
