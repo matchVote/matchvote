@@ -15,7 +15,7 @@
         class: "profile_pic"
       .profile_name
         %button.btn.btn-md.btn-default.pull-right
-          Follow #{@rep.nickname}
+          Follow #{@rep.nickname_or_first_name}
         %h2
           = @rep.full_name
         = @rep.title
@@ -97,7 +97,7 @@
       %h2 Recent News
 
     .whitecard
-      %h2 #{@rep.nickname ? @rep.nickname : @rep.first_name}'s Demographics
+      %h2 #{@rep.nickname_or_first_name}'s Demographics
       %br
       %table.table.table-hover
         %tr
@@ -122,13 +122,11 @@
         %i Based on #{number_with_delimiter(Random.rand(10000), delimiter: ',')} citizen ratings
       %br
       %button.btn.btn-danger
-        Rate
-        =@rep.first_name
+        Rate #{@rep.nickname_or_first_name}
 
     .well.widget
       %h3
-        Connect with
-        #{@rep.nickname ? @rep.nickname : @rep.first_name}
+        Connect with #{@rep.nickname_or_first_name}
       - @rep.contact.postal_addresses.each do |address|
         %span= address.full_street
         %br
