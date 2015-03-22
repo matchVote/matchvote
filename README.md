@@ -104,17 +104,22 @@ Profile
   * Congress Legistators - https://github.com/unitedstates/congress-legislators
 
 ### TODO
-* Setup email for forgotten password
-* Sign in with facebook/twitter (omniauth)
-* Directory filter
-* View Profile - hyphen weirdness
-* Follow profile functionality
-* Rep profile photos
-* Sort reps in Directory
-* Data:
-  * Normalize rep names
-  * Parse postal address from file
-  * Present capitalized gender, party
-  * Wikipedia bios
-  * Donor data
+* Backend
+    * Setup email for forgotten password
+    * Sign in with facebook/twitter (omniauth)
+    * Directory filter
+    * Follow profile functionality
+    * Sort reps in Directory
+    * Data:
+        * Normalize rep names
+        * Parse postal address from file
+        * Present capitalized gender, party
+        * Wikipedia bios
+        * Donor data
+* Frontend
+    * View Profile - hyphen weirdness
+    * Rep profile photos
+    * Style create account page
+
+
 
