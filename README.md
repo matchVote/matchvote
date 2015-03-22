@@ -11,12 +11,12 @@ the politicians that agree and disagree with what's important to you.
 Models
 * Users - devise  
   has one Profile
-  * username
+  * username  
 
 * Profiles  
-  has one Contact
-  has man Stances
-  belongs to User  
+  has one Contact  
+  has many Stances  
+  belongs to User
   * type # STI ex: Representative, Citizen
   * title --notdone:data_import
   * first_name
@@ -59,13 +59,14 @@ Models
 
 * Representatives < Profiles
 
-* Contact
-  has many PostalAddresses
+* Contact  
+  has many PostalAddresses  
   belongs to Profile
   * emails # Array
   * phone_numbers # Array
 
-* PostalAddresses
+
+* PostalAddresses  
   belongs to Contact
   * street_number
   * street_name
@@ -73,11 +74,12 @@ Models
   * state
   * zip
 
-* Issues
+
+* Issues  
   has many Stances
   * name
 
-* Stances
+* Stances  
   has_many StanceQuotes
   belongs to Issue
   belongs to Profile
@@ -87,9 +89,9 @@ Models
   * skipped
 
 * StanceQuotes
-  belongs to Stance
-  * quote
-  * quote_url
+  * belongs to Stance
+    * quote
+    * quote_url
 
 
 #### Rep Hierarchy
@@ -104,8 +106,14 @@ Profile
 ### TODO
 * Setup email for forgotten password
 * Sign in with facebook/twitter (omniauth)
+* Directory filter
+* View Profile - hyphen weirdness
+* Follow profile functionality
+* Rep profile photos
 * Data:
   * Normalize rep names
   * Parse postal address from file
   * Present capitalized gender, party
+  * Wikipedia bios
+  * Donor data
 
