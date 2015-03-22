@@ -1,6 +1,6 @@
 .row
   .col-md-8
-    .profile_main
+    .profile_card
       = image_tag "http://matchvote.com/wp-content/uploads/2015/01/obama.png",
         class: "profile_pic"
       .profile_name
@@ -9,19 +9,39 @@
         = @rep.title
         %br
         = @rep.party.capitalize
-    .profile_main
-      %h1 How your views compare
+      .profile_bio
+        %p
+          = @rep.biography
+        %button.btn.btn-sm.btn-default.pull-right
+          Read Full Bio
 
+    .profile_card
+      %h2 How your views compare
+      %table.table.table-hover
+        %tr
+          %td Taxes
+        %tr
+          %td Spending
 
   .col-md-4
     .well.approval_widget
       %h4
+        = "#{Random.rand(100)}%"
         Approval Rating
+      %button.btn.btn-danger
+        Rate
+        =@rep.first_name
 
     .well.contact_widget
       %h4
         Connect with
         = @rep.first_name
+      - @rep.contact.emails.each do |email|
+        %span= email
+        %br
+      - @rep.contact.phone_numbers.each do |number|
+        %span= number
+        %br
 
     .well.donor_widget
       %h4
