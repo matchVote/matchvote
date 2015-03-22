@@ -4,7 +4,7 @@ class Representative < Profile
   end
 
   def profile_id
-    "#{first_name}-#{last_name}"
+    "#{nickname_or_first_name}-#{last_name}"
   end
 
   def nickname_or_first_name
