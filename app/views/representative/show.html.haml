@@ -1,5 +1,15 @@
 .row
   .col-md-8
+    .profile_breadcrumbs
+      =link_to root_path do
+        Directory
+      >
+      =link_to "/?=Federal" do
+        Federal
+      >
+      =link_to "/?=Executive" do
+        Executive
+
     .whitecard
       = image_tag "http://matchvote.com/wp-content/uploads/2015/01/obama.png",
         class: "profile_pic"
@@ -23,16 +33,75 @@
       %br
       %table.table.table-hover
         %tr
-          %td Taxes
+          %td.col-md-6
+            %strong Economy
+          %td.col-md-5= "#{Random.rand(100)}% match"
+          %td
+            %button.btn.btn-xs.btn-default View Stances
         %tr
-          %td Spending
+          %td
+            %strong Immigration
+          %td.col-md-5= "#{Random.rand(100)}% match"
+          %td
+            %button.btn.btn-xs.btn-default View Stances
+        %tr
+          %td
+            %strong Gun Control
+          %td.col-md-5= "#{Random.rand(100)}% match"
+          %td
+            %button.btn.btn-xs.btn-default View Stances
+        %tr
+          %td
+            %strong Healthcare
+          %td.col-md-5= "#{Random.rand(100)}% match"
+          %td
+            %button.btn.btn-xs.btn-default View Stances
+        %tr
+          %td
+            %strong Partisanship
+          %td.col-md-5= "#{Random.rand(100)}% match"
+          %td
+            %button.btn.btn-xs.btn-default View Stances
+        %tr
+          %td
+            %strong Same-sex Marriage
+          %td.col-md-5= "#{Random.rand(100)}% match"
+          %td
+            %button.btn.btn-xs.btn-default View Stances
+        %tr
+          %td
+            %strong Drugs
+          %td.col-md-5= "#{Random.rand(100)}% match"
+          %td
+            %button.btn.btn-xs.btn-default View Stances
+        %tr
+          %td
+            %strong Voting
+          %td.col-md-5= "#{Random.rand(100)}% match"
+          %td
+            %button.btn.btn-xs.btn-default View Stances
+        %tr
+          %td
+            %strong Environment
+          %td.col-md-5= "#{Random.rand(100)}% match"
+          %td
+            %button.btn.btn-xs.btn-default View Stances
+        %tr
+          %td
+            %strong Foreign Policy
+          %td.col-md-5= "#{Random.rand(100)}% match"
+          %td
+            %button.btn.btn-xs.btn-default View Stances
+
+    .whitecard
+      %h2 Recent News
 
     .whitecard
       %h2 #{@rep.first_name}'s Demographics
       %br
       %table.table.table-hover
         %tr
-          %td.col-md-4 Gender
+          %td.col-md-6 Gender
           %td #{@rep.gender.capitalize}
         %tr
           %td Birthday
@@ -45,16 +114,19 @@
           %td
 
   .col-md-4
-    .well.approval_widget
-      %h4
+    .well.firstwidget
+      %h3
         = "#{Random.rand(100)}%"
         Approval Rating
+      %div
+        %i Based on #{number_with_delimiter(Random.rand(10000), :delimiter => ',')} citizen ratings
+      %br
       %button.btn.btn-danger
         Rate
         =@rep.first_name
 
-    .well.contact_widget
-      %h4
+    .well.widget
+      %h3
         Connect with
         = @rep.first_name
       - @rep.contact.postal_addresses.each do |address|
@@ -73,15 +145,15 @@
         = number
         %br
       %br
-      %button.btn.btn-default.btn-xs
+      %button.btn.btn-default.btn-sm
         Facebook
-      %button.btn.btn-default.btn-xs
+      %button.btn.btn-default.btn-sm
         Twitter
-      %button.btn.btn-default.btn-xs
+      %button.btn.btn-default.btn-sm
         YouTube
 
-    .well.donor_widget
-      %h4 Top Donors
+    .well.widget
+      %h3 Top Donors
 
-    .well.groupratings_widget
-      %h4 Interest Group Ratings
+    .well.widget
+      %h3 Interest Group Ratings
