@@ -6,7 +6,8 @@
   %div
     - @reps.each do |rep|
       .directory_block
-        = image_tag "http://matchvote.com/wp-content/uploads/2015/01/obama.png", class: "directory_pic"
+        = image_tag "http://matchvote.com/wp-content/uploads/2015/01/obama.png", 
+          class: "directory_pic"
         %h4= rep.full_name
         = link_to rep_path(rep.rep_id) do
           %button.btn.btn-sm.btn-default View Profile
