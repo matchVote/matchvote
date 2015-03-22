@@ -4,14 +4,14 @@
       = image_tag "http://matchvote.com/wp-content/uploads/2015/01/obama.png",
         class: "profile_pic"
       .profile_name
-        %button.btn.btn-sm.btn-primary.pull-right
-          Follow
-          = @rep.first_name
+        %button.btn.btn-md.btn-default.pull-right
+          Follow #{@rep.first_name}
         %h2
           = @rep.full_name
         = @rep.title
         %br
         = @rep.party.capitalize
+        | #{@rep.state}
       .profile_bio
         %p
           = @rep.biography
@@ -20,11 +20,29 @@
 
     .whitecard
       %h2 How your views compare
+      %br
       %table.table.table-hover
         %tr
           %td Taxes
         %tr
           %td Spending
+
+    .whitecard
+      %h2 #{@rep.first_name}'s Demographics
+      %br
+      %table.table.table-hover
+        %tr
+          %td.col-md-4 Gender
+          %td #{@rep.gender.capitalize}
+        %tr
+          %td Birthday
+          %td #{@rep.birthday}
+        %tr
+          %td Religion
+          %td #{@rep.religion.capitalize}
+        %tr
+          %td Orientation
+          %td
 
   .col-md-4
     .well.approval_widget
@@ -39,13 +57,31 @@
       %h4
         Connect with
         = @rep.first_name
+      - @rep.contact.postal_addresses.each do |address|
+        %span= address.full_street
+        %br
+        %span= address.city_state_zip
+        %br
+      %br
       - @rep.contact.emails.each do |email|
-        %span= email
+        = mail_to email, target: "_blank" do
+          %span= email
         %br
+      %br
       - @rep.contact.phone_numbers.each do |number|
-        %span= number
+        %strong Phone:
+        = number
         %br
+      %br
+      %button.btn.btn-default.btn-xs
+        Facebook
+      %button.btn.btn-default.btn-xs
+        Twitter
+      %button.btn.btn-default.btn-xs
+        YouTube
 
     .well.donor_widget
-      %h4
-        Top Donors
+      %h4 Top Donors
+
+    .well.groupratings_widget
+      %h4 Interest Group Ratings
