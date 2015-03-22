@@ -9,5 +9,7 @@ class DirectoryController < ApplicationController
       ["Sort by Seniority", "seniority"]
 
     ]
+
+    @filter_count = Representative.count
   end
 end

@@ -2,7 +2,8 @@
   .filter_menu
     .col-md-8
       %h4
-        435 elected officials meet your search criteria.
+        = @filter_count
+        elected officials meet your search criteria.
         Add more filters to refine your search.
       %button.btn.btn-default
         Federal
@@ -21,7 +22,7 @@
   %div
     - @reps.each do |rep|
       .directory_block
-        = image_tag "http://matchvote.com/wp-content/uploads/2015/01/obama.png",
+        = image_tag rep.profile_image_url,
           class: "directory_pic"
         %h4= rep.full_name
         %div= "#{Random.rand(100)}% match"
