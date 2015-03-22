@@ -1,7 +1,8 @@
 .row
   .filter_menu
     .col-md-8
-      %h4
+      %h2 Find elected officials to follow
+      %h5
         = @filter_count
         elected officials meet your search criteria.
         Add more filters to refine your search.
@@ -12,6 +13,8 @@
         Add Filter
         .glyphicon.glyphicon-plus-sign
     .col-md-4
+      %br
+      %br
       %br
       %strong
         = select_tag "Sort", options_for_select(@sort_list),
