@@ -1,0 +1,2 @@
+class StancesController < ApplicationController
+end
