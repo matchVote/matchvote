@@ -10,6 +10,7 @@ gem "haml-rails", "~> 0.9"
 gem "jquery-rails", "~> 4.0.3"
 gem "pg", "~> 0.18.1"
 gem "rails", "4.2.0"
+gem "rails_12factor", "~> 0.0.3"
 gem "rails-html-sanitizer", "~> 1.0.1"
 gem "sass-rails", "~> 5.0.1"
 gem "sdoc", "~> 0.4.0", group: :doc
