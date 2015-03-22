@@ -3,10 +3,10 @@
 matchVote keeps you up-to-date with what's happening in politics by finding 
 the politicians that agree and disagree with what's important to you.
 
-# Development Setup  
+#### Development Setup  
     bin/setup
 
-### NOTES
+#### Notes
 
 Models
 * Users - devise  
@@ -92,12 +92,20 @@ Models
   * quote_url
 
 
-# Rep Hierarchy
-All |> 
-Levels: Federal, State, Municipal |>
-Branches: Executive, Judicial, Legislative |>
+#### Rep Hierarchy
+All ->  
+Levels: Federal, State, Municipal ->  
+Branches: Executive, Judicial, Legislative ->  
 Profile
 
-# Rep Data Sources:  
+#### Rep Data Sources:  
   * Congress Legistators - https://github.com/unitedstates/congress-legislators
+
+### TODO
+* Setup email for forgotten password
+* Sign in with facebook/twitter (omniauth)
+* Data:
+  * Normalize rep names
+  * Parse postal address from file
+  * Present capitalized gender, party
 
