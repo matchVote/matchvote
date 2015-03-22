@@ -1,6 +1,12 @@
 .row
-  %div.filter_menu
-    %button.btn.btn-lg.btn-default Add Filter
+  .filter_menu
+    .col-md-9
+      %h5
+        435 elected officials meet your search criteria. Add more filters to refine your search.
+      %button.btn.btn-danger
+        Add Filter
+    .col-md-3
+      = select_tag "Sort", options_for_select(@sort_list), class: "form-control"
 
 .row
   %div
@@ -8,6 +14,9 @@
       .directory_block
         = image_tag "http://matchvote.com/wp-content/uploads/2015/01/obama.png", class: "directory_pic"
         %h4= rep.full_name
+        .directory_match
+          = "#{Random.rand(100)}% match"
+        %br
         = link_to rep_path(rep.rep_id) do
           %button.btn.btn-sm.btn-default View Profile
         %button.btn.btn-sm.btn-default Follow
