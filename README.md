@@ -1,6 +1,12 @@
 # matchVote
 
-matchVote keeps you up-to-date with what's happening in politics by finding the politicians that agree and disagree with what's important to you.
+matchVote keeps you up-to-date with what's happening in politics by finding 
+the politicians that agree and disagree with what's important to you.
+
+# Development Setup  
+    bin/setup
+
+### NOTES
 
 Models
 * Users - devise  
