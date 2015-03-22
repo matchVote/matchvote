@@ -14,6 +14,7 @@ class CongressLegislatorsDataCompiler
 
   def name
     { middle_names: rep_data["name"]["middle"], 
+      nickname: rep_data["name"]["nickname"],
       suffix: rep_data["name"]["suffix"] }
   end
 

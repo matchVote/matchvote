@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150322064533) do
+ActiveRecord::Schema.define(version: 20150322070821) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -61,6 +61,7 @@ ActiveRecord::Schema.define(version: 20150322064533) do
     t.text    "state_rank"
     t.string  "branch"
     t.text    "orientation"
+    t.text    "nickname"
   end
 
   add_index "profiles", ["first_name", "last_name"], name: "index_profiles_on_first_name_and_last_name", unique: true, using: :btree

@@ -22,6 +22,7 @@ Models
   * last_name
   * middle_names
   * suffix
+  * nick_name
   * birthday
   * gender
   * government_role # senator, representative, president, etc...
