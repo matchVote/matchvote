@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150321225843) do
+ActiveRecord::Schema.define(version: 20150322060504) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -19,9 +19,10 @@ ActiveRecord::Schema.define(version: 20150321225843) do
   enable_extension "uuid-ossp"
 
   create_table "contacts", force: :cascade do |t|
-    t.text    "emails",        default: [], array: true
-    t.text    "phone_numbers", default: [], array: true
+    t.text    "emails",           default: [], array: true
+    t.text    "phone_numbers",    default: [], array: true
     t.integer "profile_id"
+    t.text    "contact_form_url"
   end
 
   add_index "contacts", ["profile_id"], name: "index_contacts_on_profile_id", using: :btree
@@ -40,8 +41,8 @@ ActiveRecord::Schema.define(version: 20150321225843) do
   create_table "profiles", id: :uuid, default: "uuid_generate_v4()", force: :cascade do |t|
     t.string  "type"
     t.text    "title"
-    t.text    "first_name",                        null: false
-    t.text    "last_name",                         null: false
+    t.text    "first_name",           null: false
+    t.text    "last_name",            null: false
     t.text    "middle_names"
     t.text    "suffix"
     t.text    "birthday"
@@ -50,13 +51,14 @@ ActiveRecord::Schema.define(version: 20150321225843) do
     t.string  "state"
     t.text    "district"
     t.text    "party"
-    t.text    "email",                default: [],              array: true
-    t.text    "phone",                default: [],              array: true
     t.text    "biography"
     t.text    "religion"
     t.hstore  "external_credentials"
     t.integer "user_id"
     t.text    "profile_image_url"
+    t.text    "status"
+    t.boolean "verified"
+    t.text    "state_rank"
   end
 
   add_index "profiles", ["first_name", "last_name"], name: "index_profiles_on_first_name_and_last_name", unique: true, using: :btree

@@ -17,20 +17,21 @@ Models
   has one Contact
   belongs to User  
   * type # STI ex: Representative, Citizen
-  * title
+  * title --notdone:data_import
   * first_name
   * last_name
+  * middle_names
+  * suffix
   * birthday
   * gender
   * government_role # senator, representative, president, etc...
   * state
-  * district
+  * district --notdone:data_import
   * party
-  * email, array
-  * phone, array
-  * biography
+  * biography --notdone:data_import
   * religion
-  * profile_image_url
+  * status  EX: In Office, Running For Office, Out of Office
+  * profile_image_url --notdone:data_import
   * external_credentials  
     * bioguide_id
     * thomas_id 
