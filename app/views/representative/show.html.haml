@@ -1,9 +1,12 @@
 .row
   .col-md-8
-    .profile_card
+    .whitecard
       = image_tag "http://matchvote.com/wp-content/uploads/2015/01/obama.png",
         class: "profile_pic"
       .profile_name
+        %button.btn.btn-sm.btn-primary.pull-right
+          Follow
+          = @rep.first_name
         %h2
           = @rep.full_name
         = @rep.title
@@ -12,10 +15,10 @@
       .profile_bio
         %p
           = @rep.biography
-        %button.btn.btn-sm.btn-default.pull-right
+        %button.btn.btn-sm.btn-default
           Read Full Bio
 
-    .profile_card
+    .whitecard
       %h2 How your views compare
       %table.table.table-hover
         %tr
