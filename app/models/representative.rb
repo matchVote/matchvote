@@ -3,7 +3,7 @@ class Representative < Profile
     "#{first_name} #{last_name}"
   end
 
-  def rep_id
+  def profile_id
     "#{first_name}-#{last_name}"
   end
 end
