@@ -20,7 +20,7 @@ class CongressLegislatorsDataCompiler
   def contact
     { contact: Contact.create(
         contact_form_url: latest_term["contact_form"],
-        phone_numbers:    Array(latest_term["phone"])
+        phone_numbers:    Array(latest_term["phone"]))
     }
         # postal_addresses: Array(PostalAddress.parse(latest_term["address"]))) }
   end
