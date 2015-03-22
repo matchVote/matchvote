@@ -7,8 +7,6 @@ namespace :db do
       last_name: "Obama",
       government_role: "president",
       party: "democrat",
-      email: ["bo@whitehouse.gob"],
-      phone: ["123-123-1234"],
       biography: "Hey there",
       religion: "Atheist",
       birthday: "11-12-1958",
