@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150322070821) do
+ActiveRecord::Schema.define(version: 20150322155310) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -19,55 +19,93 @@ ActiveRecord::Schema.define(version: 20150322070821) do
   enable_extension "uuid-ossp"
 
   create_table "contacts", force: :cascade do |t|
-    t.text    "emails",           default: [], array: true
-    t.text    "phone_numbers",    default: [], array: true
-    t.integer "profile_id"
-    t.text    "contact_form_url"
+    t.text     "emails",           default: [], array: true
+    t.text     "phone_numbers",    default: [], array: true
+    t.integer  "profile_id"
+    t.text     "contact_form_url"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   add_index "contacts", ["profile_id"], name: "index_contacts_on_profile_id", using: :btree
 
+  create_table "issues", force: :cascade do |t|
+    t.text     "name"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "issues", ["name"], name: "index_issues_on_name", unique: true, using: :btree
+
   create_table "postal_addresses", force: :cascade do |t|
-    t.text    "street_number"
-    t.text    "street_name"
-    t.text    "city"
-    t.text    "state"
-    t.text    "zip"
-    t.integer "contact_id"
+    t.text     "street_number"
+    t.text     "street_name"
+    t.text     "city"
+    t.text     "state"
+    t.text     "zip"
+    t.integer  "contact_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   add_index "postal_addresses", ["contact_id"], name: "index_postal_addresses_on_contact_id", using: :btree
 
   create_table "profiles", id: :uuid, default: "uuid_generate_v4()", force: :cascade do |t|
-    t.string  "type"
-    t.text    "title"
-    t.text    "first_name",           null: false
-    t.text    "last_name",            null: false
-    t.text    "middle_names"
-    t.text    "suffix"
-    t.text    "birthday"
-    t.string  "gender"
-    t.text    "government_role"
-    t.string  "state"
-    t.text    "district"
-    t.text    "party"
-    t.text    "biography"
-    t.text    "religion"
-    t.hstore  "external_credentials"
-    t.integer "user_id"
-    t.text    "profile_image_url"
-    t.text    "status"
-    t.boolean "verified"
-    t.text    "state_rank"
-    t.string  "branch"
-    t.text    "orientation"
-    t.text    "nickname"
+    t.string   "type"
+    t.text     "title"
+    t.text     "first_name",           null: false
+    t.text     "last_name",            null: false
+    t.text     "middle_names"
+    t.text     "suffix"
+    t.text     "birthday"
+    t.string   "gender"
+    t.text     "government_role"
+    t.string   "state"
+    t.text     "district"
+    t.text     "party"
+    t.text     "biography"
+    t.text     "religion"
+    t.hstore   "external_credentials"
+    t.integer  "user_id"
+    t.text     "profile_image_url"
+    t.text     "status"
+    t.boolean  "verified"
+    t.text     "state_rank"
+    t.string   "branch"
+    t.text     "orientation"
+    t.text     "nickname"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   add_index "profiles", ["first_name", "last_name"], name: "index_profiles_on_first_name_and_last_name", unique: true, using: :btree
   add_index "profiles", ["first_name"], name: "index_profiles_on_first_name", using: :btree
   add_index "profiles", ["last_name"], name: "index_profiles_on_last_name", using: :btree
   add_index "profiles", ["user_id"], name: "index_profiles_on_user_id", using: :btree
+
+  create_table "stance_quotes", force: :cascade do |t|
+    t.text     "quote"
+    t.text     "quote_url"
+    t.integer  "stance_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "stance_quotes", ["stance_id"], name: "index_stance_quotes_on_stance_id", using: :btree
+
+  create_table "stances", force: :cascade do |t|
+    t.text     "description"
+    t.integer  "agreeance_value"
+    t.integer  "importance_value"
+    t.boolean  "skipped"
+    t.integer  "profile_id"
+    t.integer  "issue_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "stances", ["issue_id"], name: "index_stances_on_issue_id", using: :btree
+  add_index "stances", ["profile_id"], name: "index_stances_on_profile_id", using: :btree
 
   create_table "users", force: :cascade do |t|
     t.string   "email",                  default: "", null: false

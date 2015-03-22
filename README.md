@@ -15,6 +15,7 @@ Models
 
 * Profiles  
   has one Contact
+  has man Stances
   belongs to User  
   * type # STI ex: Representative, Citizen
   * title --notdone:data_import
@@ -72,12 +73,23 @@ Models
   * state
   * zip
 
+* Issues
+  has many Stances
+  * name
+
 * Stances
-  * issue_name
+  has_many StanceQuotes
+  belongs to Issue
+  belongs to Profile
+  * description
+  * agreeance_value (-3..3)
+  * importance_value (1..7)
+  * skipped
+
+* StanceQuotes
+  belongs to Stance
+  * quote
   * quote_url
-  Track skipped questions from quiz
-  -3 to 3
-  Privacy controls; From profile account, show stance.
 
 
 # Rep Hierarchy
@@ -86,6 +98,6 @@ Levels: Federal, State, Municipal |>
 Branches: Executive, Judicial, Legislative |>
 Profile
 
-APIs  
-OpenSecrets.org
+# Rep Data Sources:  
+  * Congress Legistators - https://github.com/unitedstates/congress-legislators
 

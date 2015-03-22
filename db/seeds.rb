@@ -3,3 +3,9 @@
 # The data can then be loaded with the rake db:seed (or created alongside the 
 # db with db:setup).
 
+require "csv"
+
+CSV.read("#{Rails.root}/db/data/issues.csv").flatten.each do |issue|
+  Issue.create(name: issue)
+end
+
