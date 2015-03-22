@@ -30,7 +30,7 @@ class CongressLegislatorsDataCompiler
     { birthday: rep_data["bio"]["birthday"],
       gender:   genderize(rep_data["bio"]["gender"]),
       biography: "To Be Added...",
-      religion: rep_data["bio"]["religion"] }
+      religion: sanitize(rep_data["bio"]["religion"]) }
   end
 
   def terms
@@ -69,6 +69,10 @@ class CongressLegislatorsDataCompiler
 
   private
     attr_reader :rep_data, :external_ids, :latest_term
+
+    def sanitize(value)
+      value.nil? ? "N/A" : value
+    end
 
     def find_external_ids(social_ids, rep_ids)
       hash = social_ids.find do |id| 

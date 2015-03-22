@@ -6,8 +6,4 @@ class Representative < Profile
   def profile_id
     "#{first_name}-#{last_name}"
   end
-
-  def religion
-    religion ? religion.capitalize : "N/A"
-  end
 end
