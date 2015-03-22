@@ -6,4 +6,8 @@ class Representative < Profile
   def profile_id
     "#{first_name}-#{last_name}"
   end
+
+  def nickname_or_first_name
+    nickname ? nickname : first_name
+  end
 end
