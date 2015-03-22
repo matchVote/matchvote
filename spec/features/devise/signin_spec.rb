@@ -6,7 +6,6 @@ feature "Signing in with an existing account" do
   subject { page }
   background { visit root_path }
 
-  it { should have_content("Sign In") }
   it { should have_field("Email") }
   it { should have_field("Password") }
 

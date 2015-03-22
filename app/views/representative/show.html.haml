@@ -1,28 +1,87 @@
 .row
   .col-md-8
-    .profile_main
+    .whitecard
       = image_tag "http://matchvote.com/wp-content/uploads/2015/01/obama.png",
         class: "profile_pic"
       .profile_name
+        %button.btn.btn-md.btn-default.pull-right
+          Follow #{@rep.first_name}
         %h2
           = @rep.full_name
         = @rep.title
         %br
         = @rep.party.capitalize
-    .profile_main
-      %h1 How your views compare
+        | #{@rep.state}
+      .profile_bio
+        %p
+          = @rep.biography
+        %button.btn.btn-sm.btn-default
+          Read Full Bio
 
+    .whitecard
+      %h2 How your views compare
+      %br
+      %table.table.table-hover
+        %tr
+          %td Taxes
+        %tr
+          %td Spending
+
+    .whitecard
+      %h2 #{@rep.first_name}'s Demographics
+      %br
+      %table.table.table-hover
+        %tr
+          %td.col-md-4 Gender
+          %td #{@rep.gender.capitalize}
+        %tr
+          %td Birthday
+          %td #{@rep.birthday}
+        %tr
+          %td Religion
+          %td #{@rep.religion.capitalize}
+        %tr
+          %td Orientation
+          %td
 
   .col-md-4
     .well.approval_widget
       %h4
+        = "#{Random.rand(100)}%"
         Approval Rating
+      %button.btn.btn-danger
+        Rate
+        =@rep.first_name
 
     .well.contact_widget
       %h4
         Connect with
         = @rep.first_name
+      - @rep.contact.postal_addresses.each do |address|
+        %span= address.full_street
+        %br
+        %span= address.city_state_zip
+        %br
+      %br
+      - @rep.contact.emails.each do |email|
+        = mail_to email, target: "_blank" do
+          %span= email
+        %br
+      %br
+      - @rep.contact.phone_numbers.each do |number|
+        %strong Phone:
+        = number
+        %br
+      %br
+      %button.btn.btn-default.btn-xs
+        Facebook
+      %button.btn.btn-default.btn-xs
+        Twitter
+      %button.btn.btn-default.btn-xs
+        YouTube
 
     .well.donor_widget
-      %h4
-        Top Donors
+      %h4 Top Donors
+
+    .well.groupratings_widget
+      %h4 Interest Group Ratings

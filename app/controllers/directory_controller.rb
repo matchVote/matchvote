@@ -2,8 +2,12 @@ class DirectoryController < ApplicationController
   def index
     @reps = Representative.all
     @sort_list = [
-      ["Alphabetically", "alphabetically"],
-      ["Similarity", "similarity"]
+      ["Sort by Name Recognition", "populatity"],
+      ["Sort Alphabetically", "alphabetically"],
+      ["Sort by Most Similar Views", "similarity"],
+      ["Sort by Least Similar Views", "difference"],
+      ["Sort by Seniority", "seniority"]
+
     ]
   end
 end

@@ -36,6 +36,7 @@ class CongressLegislatorsDataCompiler
       state: latest_term["state"],
       status: "In Office",
       state_rank: latest_term["state_rank"],
+      branch: "Legislative",
       government_role: expand_type(latest_term["type"]) }
   end
 
