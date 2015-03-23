@@ -8,10 +8,10 @@ feature "Editing account settings" do
   background do
     visit root_path
     sign_in_with email: user.email, password: user.password
-    click_link "Account"
+    click_link "@#{user.username}"
   end
 
-  it { should have_content("Edit Account") }
+  it { should have_content("Edit Email & Password") }
   it { should have_field("Email") }
   it { should have_field("Current password") }
 
@@ -67,7 +67,7 @@ feature "Editing account settings" do
 
     scenario "redirects back to home page" do
       click_button "Cancel my account"
-      expect(subject).to have_content("Sign In")
+      expect(subject).to have_content("Sign Up")
     end
   end
 end
