@@ -111,8 +111,6 @@ Profile
     * Follow profile functionality
     * Sort reps in Directory
     * Data:
-        * Normalize rep names
-        * Parse postal address from file
         * Present capitalized gender, party
         * Wikipedia bios
         * Donor data
@@ -120,6 +118,8 @@ Profile
     * View Profile - hyphen weirdness
     * Rep profile photos
     * Style create account page
+* Test
+    * CongressLegislatorsDataCompiler
 
 
 
