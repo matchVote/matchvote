@@ -2,16 +2,16 @@ require "#{Rails.root}/lib/congress_legislators_data_compiler"
 
 namespace :import do
   task default_data: :environment do
-    Rake::Task["import:default_rep_data"].invoke
-    Rake::Task["import:default_app_data"].invoke
+    Rake::Task["reps:import_default_data"].invoke
+    Rake::Task["app:import_default_data"].invoke
   end
 end
 
-namespace :rep do
+namespace :reps do
   task import_default_data: :environment do
-    Rake::Task["import:bioguide_ids"].invoke
-    Rake::Task["import:rep_image_urls"].invoke
-    Rake::Task["import:rep_profile_data"].invoke
+    Rake::Task["reps:bioguide_ids"].invoke
+    Rake::Task["reps:rep_profile_data"].invoke
+    Rake::Task["reps:rep_image_urls"].invoke
   end
 
   task bioguide_ids: :environment do
@@ -66,7 +66,7 @@ end
 
 namespace :app do
   task import_default_data: :environment do
-    Rake::Task["import:issues"].invoke
+    Rake::Task["app:import_issues"].invoke
   end
 
   task import_issues: :environment do
