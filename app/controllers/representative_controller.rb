@@ -1,8 +1,7 @@
 class RepresentativeController < ApplicationController
   def show
     name = params[:full_name].split("-")
-    @rep = Representative.find_by(first_name: name.first.capitalize,
-                                  last_name: name.last.capitalize)
+    @rep = Representative.find_by(first_name: name.first, last_name: name.last)
   end
 
   private

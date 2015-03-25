@@ -2,8 +2,7 @@ require_relative "null_object"
 require_relative "address_parser"
 
 class CongressLegislatorsDataCompiler
-  def initialize(bioguide, rep_data, social_ids)
-    @bioguide = bioguide
+  def initialize(rep_data, social_ids)
     @rep_data = rep_data
     @external_ids = extract_ids(social_ids)
     @latest_term = find_latest_term(rep_data["terms"])
@@ -50,7 +49,6 @@ class CongressLegislatorsDataCompiler
 
   def external_credentials
     { external_credentials: { 
-        bioguide_id: rep_data["id"]["bioguide"],
         thomas_id: rep_data["id"]["thomas"],
         lis_id: rep_data["id"]["lis"],
         govtrack_id: rep_data["id"]["govtrack"],
@@ -75,7 +73,7 @@ class CongressLegislatorsDataCompiler
   end
 
   private
-    attr_reader :rep_data, :external_ids, :latest_term, :bioguide
+    attr_reader :rep_data, :external_ids, :latest_term
 
     def extract_ids(social_ids)
       social_ids.reduce({}) { |hash, id| hash.merge!(id["social"]) }

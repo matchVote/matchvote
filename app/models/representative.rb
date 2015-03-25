@@ -1,6 +1,6 @@
 class Representative < Profile
   def full_name
-    "#{nickname ? nickname : first_name} #{last_name}"
+    "#{nickname_or_first_name.capitalize} #{last_name.capitalize}"
   end
 
   def profile_id
@@ -8,6 +8,6 @@ class Representative < Profile
   end
 
   def nickname_or_first_name
-    nickname ? nickname : first_name
+    nickname.blank? ? first_name : nickname
   end
 end
