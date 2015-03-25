@@ -25,13 +25,13 @@ class CongressLegislatorsDataCompiler
 
   def bio
     { birthday: rep_data["bio"]["birthday"],
-      gender:   genderize(rep_data["bio"]["gender"]),
+      gender: genderize(rep_data["bio"]["gender"]),
       biography: "To Be Added...",
       religion: sanitize(rep_data["bio"]["religion"]) }
   end
 
   def terms
-    { party: latest_term["party"], 
+    { party: latest_term["party"].downcase, 
       state: latest_term["state"],
       status: :in_office,
       state_rank: latest_term["state_rank"],
@@ -42,7 +42,7 @@ class CongressLegislatorsDataCompiler
   def contact
     { contact: Contact.create(
         contact_form_url: latest_term["contact_form"],
-        phone_numbers:    Array(latest_term["phone"]),
+        phone_numbers: Array(latest_term["phone"]),
         emails: [],
         website_url: latest_term["url"],
         postal_addresses: Array(create_postal_address(latest_term["address"]))) }
@@ -56,7 +56,7 @@ class CongressLegislatorsDataCompiler
         govtrack_id: rep_data["id"]["govtrack"],
         opensecrets_id: rep_data["id"]["opensecrets"],
         votesmart_id: rep_data["id"]["votesmart"],
-        fec_ids: Array(rep_data["id"]["fec"]),
+        fec_ids: rep_data["id"]["fec"].join(","),
         cspan_id: rep_data["id"]["cspan"],
         wikipedia_id: rep_data["id"]["wikipedia"],
         house_history_id: rep_data["id"]["house_history"],
@@ -86,7 +86,7 @@ class CongressLegislatorsDataCompiler
     end
 
     def sanitize(value)
-      value.nil? ? "N/A" : value
+      value.nil? ? "N/A" : value.downcase
     end
 
     def genderize(gender)
