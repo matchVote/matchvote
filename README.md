@@ -5,6 +5,7 @@ the politicians that agree and disagree with what's important to you.
 
 #### Development Setup  
     bin/setup
+    bundle exec rake import:default_data
 
 #### Notes
 
@@ -13,27 +14,33 @@ Models
   has one Profile
   * username  
 
-* Profiles  
+* Representatives  
   has one Contact  
   has many Stances  
   belongs to User
-  * type # STI ex: Representative, Citizen
+  * bioguide_id
   * title --notdone:data_import
   * first_name
   * last_name
-  * middle_names
+  * middle_name
   * suffix
-  * nick_name
+  * official_full_name
+  * nickname
   * birthday
   * gender
+  * orientation
   * government_role # senator, representative, president, etc...
   * state
+  * state_rank
   * district --notdone:data_import
   * party
-  * biography --notdone:data_import
+  * branch
   * religion
   * status  EX: In Office, Running For Office, Out of Office
-  * profile_image_url --notdone:data_import
+  * verified - boolean
+  * profile_image_url
+  * slug
+  * biography --notdone:data_import
   * external_credentials  
     * bioguide_id
     * thomas_id 
@@ -57,14 +64,21 @@ Models
     * instagram_id
     * instagram_username
 
-* Representatives < Profiles
+* Citizens
+  has many Stances  
+  belongs to User
+  * first_name
+  * last_name
+  * birthday
+  * gender
+  * party
+  * religion
 
 * Contact  
   has many PostalAddresses  
-  belongs to Profile
+  belongs to Representative
   * emails # Array
   * phone_numbers # Array
-
 
 * PostalAddresses  
   belongs to Contact
@@ -74,7 +88,6 @@ Models
   * state
   * zip
 
-
 * Issues  
   has many Stances
   * name
@@ -82,7 +95,8 @@ Models
 * Stances  
   has_many StanceQuotes
   belongs to Issue
-  belongs to Profile
+  belongs to Representative
+  belongs to Citizen
   * description
   * agreeance_value (-3..3)
   * importance_value (1..7)
@@ -111,6 +125,7 @@ Profile
     * Follow profile functionality
     * Sort reps in Directory
     * Data:
+        * Fix Stances data model
         * Present capitalized gender, party
         * Wikipedia bios
         * Donor data
@@ -120,6 +135,8 @@ Profile
     * Style create account page
 * Test
     * CongressLegislatorsDataCompiler
+    * Directory feature specs
+    * Rep profile feature specs
 
 
 

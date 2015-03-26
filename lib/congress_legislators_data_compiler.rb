@@ -17,7 +17,7 @@ class CongressLegislatorsDataCompiler
 
   def name
     { official_full_name: rep_data["name"]["official_full"],
-      middle_names: nullify(rep_data["name"]["middle"]).downcase, 
+      middle_name: nullify(rep_data["name"]["middle"]).downcase, 
       nickname: nullify(rep_data["name"]["nickname"]).downcase,
       suffix: nullify(rep_data["name"]["suffix"]).downcase }
   end

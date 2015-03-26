@@ -5,6 +5,4 @@ class User < ActiveRecord::Base
          :recoverable, :rememberable, :trackable, :validatable
 
   validates :username, presence: true
-
-  has_one :profile, dependent: :destroy, inverse_of: :user
 end

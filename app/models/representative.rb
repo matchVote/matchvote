@@ -1,4 +1,9 @@
-class Representative < Profile
+class Representative < ActiveRecord::Base
+  has_one :contact, dependent: :destroy, inverse_of: :representative
+  belongs_to :user
+
+  validates :first_name, :last_name, presence: true
+
   def full_name
     "#{nickname_or_first_name.capitalize} #{last_name.capitalize}"
   end
