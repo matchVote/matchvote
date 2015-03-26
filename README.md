@@ -126,6 +126,7 @@ Profile
     * Sort reps in Directory
     * Data:
         * Fix Stances data model
+        * 3 senators don't match image url (casey, menedez, sessions)
         * Present capitalized gender, party
         * Wikipedia bios
         * Donor data

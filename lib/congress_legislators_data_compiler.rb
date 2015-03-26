@@ -17,9 +17,9 @@ class CongressLegislatorsDataCompiler
 
   def name
     { official_full_name: rep_data["name"]["official_full"],
-      middle_name: nullify(rep_data["name"]["middle"]).downcase, 
-      nickname: nullify(rep_data["name"]["nickname"]).downcase,
-      suffix: nullify(rep_data["name"]["suffix"]).downcase }
+      middle_name: NullObject.nullify(rep_data["name"]["middle"]).downcase, 
+      nickname: find_nickname.downcase,
+      suffix: NullObject.nullify(rep_data["name"]["suffix"]).downcase }
   end
 
   def bio
@@ -87,6 +87,15 @@ class CongressLegislatorsDataCompiler
       value.nil? ? "N/A" : value.downcase
     end
 
+    def find_nickname
+      nickname = rep_data["name"]["nickname"]
+      if nickname.blank?
+        NullObject.nullify(rep_data["id"]["wikipedia"]).split.first
+      else
+        nickname
+      end
+    end
+
     def genderize(gender)
       case gender
       when /M/i then "male"
@@ -105,10 +114,6 @@ class CongressLegislatorsDataCompiler
 
     def create_postal_address(address_string)
       PostalAddress.create(AddressParser.parse_attributes(address_string))
-    end
-
-    def nullify(object)
-      object ? object : NullObject.new("")
     end
 end
 

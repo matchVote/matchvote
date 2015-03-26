@@ -9,7 +9,6 @@ end
 
 namespace :reps do
   task import_default_data: :environment do
-    Rake::Task["reps:bioguide_ids"].invoke
     Rake::Task["reps:rep_profile_data"].invoke
     Rake::Task["reps:rep_image_urls"].invoke
   end
@@ -20,9 +19,8 @@ namespace :reps do
     bioguide_hash = legislators.reduce({}) do |hash, rep_data|
       hash.merge!({ 
         "#{rep_data["id"]["bioguide"]}" => { 
-          "first"    => "#{rep_data["name"]["first"].downcase}", 
-          "last"     => "#{rep_data["name"]["last"].downcase}" }})
-          # "nickname" => "#{rep_data["name"]["nickname"].downcase}" } })
+          "first" => "#{rep_data["name"]["first"].downcase}", 
+          "last"  => "#{rep_data["name"]["last"].downcase}" } })
     end
 
     File.open("db/data/rep_bioguide_ids.yml", "w") do |f|
@@ -49,19 +47,28 @@ namespace :reps do
 
   task rep_image_urls: :environment do
     urls = File.readlines("db/data/SenatorProfileImageURLs.txt").map(&:chomp)
-    bioguides = YAML.load_file("db/data/rep_bioguide_ids.yml")
 
-    bioguides.each do |bioguide_id, name|
-      url = urls.find do |url|
-        first, last = url.split("/").last.split(".").first.split("_")
-        name["first"].match(Regexp.new(first.downcase)) && 
-          name["last"].match(Regexp.new(last.downcase))
-      end
-      rep = Representative.find_by(bioguide_id: bioguide_id)
+    Representative.all.each do |rep|
+      url = find_image_url(rep, urls)
       rep.update_attribute(:profile_image_url, url)
     end
   end
 
+  def find_image_url(rep, urls)
+    urls.find do |url|
+      url_name = url.split("/").last.split(".").first.split("_")
+      first_or_nickname_matches(rep, url_name) && last_name_matches(rep, url_name)
+    end
+  end
+
+  def first_or_nickname_matches(rep, url_name)
+    rep.first_name.match(url_name.first.downcase) ||
+      rep.nickname.match(url_name.first.downcase)
+  end
+
+  def last_name_matches(rep, url_name)
+    rep.last_name.match(url_name.last.downcase)
+  end
 end
 
 namespace :app do

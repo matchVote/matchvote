@@ -1,5 +1,9 @@
 class NullObject
-  def initialize(default_value)
+  def self.nullify(object)
+    object ? object : new
+  end
+
+  def initialize(default_value = "")
     @default_value = default_value
   end
 
