@@ -1,19 +1,24 @@
 .row
   .filter_menu
-    .col-md-8
+    .col-md-7
       %h2 Find elected officials to follow
       %h5
         = @filter_count
         elected officials meet your search criteria.
-        Add more filters to refine your search.
-      %button.btn.btn-default
-        Federal
-        .glyphicon.glyphicon-remove-sign
-      %button.btn.btn-danger
-        Add Filter
-        .glyphicon.glyphicon-plus-sign
-    .col-md-4
-      %br
+        Add more filters to refine your search
+      .well.well-sm.filter-well
+        %button.btn.btn-default
+          .glyphicon.glyphicon-remove
+          Federal
+
+        %button.btn.btn-danger.pull-right
+          .glyphicon.glyphicon-plus
+          Add Filter
+    .col-md-1
+    .col-md-4.filter-search
+      %input.search-field{type: "text", required: "true", value: "Search by name"}
+      %button.btn.btn-primary.pull-right.search-btn
+        %span.glyphicon.glyphicon-search
       %br
       %br
       %strong

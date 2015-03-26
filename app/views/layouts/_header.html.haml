@@ -4,14 +4,15 @@
       .container-fluid
         %ul.nav.navbar-nav
           = link_to root_path do
-            = image_tag "http://matchvote.com/wp-content/uploads/2015/01/mv.png", 
+            = image_tag "http://matchvote.com/wp-content/uploads/2015/01/mv.png",
               class: "mvlogo"
         %ul.nav.navbar-nav.navbar-right
           %li
-            = link_to "@#{current_user.username}", 
-              edit_user_registration_path(current_user)
+            = link_to edit_user_registration_path(current_user) do
+              = image_tag "http://bradhankins.com/wp-content/uploads/2014/10/brad.jpg",
+                class: "navbarpic"
           %li
-            = image_tag "http://bradhankins.com/wp-content/uploads/2014/10/brad.jpg", 
-              class: "menupic"
+            = link_to "@#{current_user.username}",
+              edit_user_registration_path(current_user)
           %li
             = link_to "Sign Out", destroy_user_session_path, method: :delete

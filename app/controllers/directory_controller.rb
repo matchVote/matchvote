@@ -7,7 +7,8 @@ class DirectoryController < ApplicationController
       ["Sort Alphabetically", "alphabetically"],
       ["Sort by Most Similar Views", "similarity"],
       ["Sort by Least Similar Views", "difference"],
-      ["Sort by Seniority", "seniority"]
+      ["Sort by Seniority", "seniority"],
+      ["Sort by Age", "age"]
 
     ]
 
