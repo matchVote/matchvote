@@ -226,7 +226,7 @@ DEPENDENCIES
   byebug (~> 4.0.2)
   capybara (~> 2.4.4)
   coffee-rails (~> 4.1.0)
-  database_cleaner
+  database_cleaner (~> 1.4.1)
   devise (~> 3.4.0)
   factory_girl_rails (~> 4.5.0)
   faker (~> 1.4.3)

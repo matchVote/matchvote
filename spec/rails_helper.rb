@@ -40,6 +40,17 @@ RSpec.configure do |config|
 
   config.include FactoryGirl::Syntax::Methods
 
+  config.before(:suite) do
+    DatabaseCleaner.clean_with(:truncation)
+  end
+
+  config.before(:each) do
+    driver = Capybara.current_driver
+    strategy = driver == :rack_test ? :transaction : :truncation
+    DatabaseCleaner.strategy = strategy
+    DatabaseCleaner.start
+  end
+
   config.after(:each) do
     DatabaseCleaner.clean
   end
