@@ -100,10 +100,10 @@ Models
   * name
 
 * Stances  
-  has_many StanceQuotes
-  belongs to Issue
-  belongs to Representative
-  belongs to Citizen
+  has_many StanceQuotes  
+  belongs to Issue  
+  belongs to Representative  
+  belongs to Citizen  
   * description
   * agreeance_value (-3..3)
   * importance_value (1..7)
@@ -133,7 +133,7 @@ Profile
     * Sort reps in Directory
     * Data:
         * Fix Stances data model
-        * 3 senators don't match image url (casey, menedez, sessions)
+        * 2 senators don't match image url (sessions, ayotte); hardcoded in task
         * Present capitalized gender, party
         * Wikipedia bios
         * Donor data

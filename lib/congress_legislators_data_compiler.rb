@@ -15,6 +15,14 @@ class CongressLegislatorsDataCompiler
       merge!(external_credentials)
   end
 
+  def first_name_sanitized
+    I18n.transliterate(rep_data["name"]["first"].downcase)
+  end
+
+  def last_name_sanitized
+    I18n.transliterate(rep_data["name"]["last"].downcase)
+  end
+
   def name
     { official_full_name: rep_data["name"]["official_full"],
       middle_name: NullObject.nullify(rep_data["name"]["middle"]).downcase, 
@@ -90,7 +98,8 @@ class CongressLegislatorsDataCompiler
     def find_nickname
       nickname = rep_data["name"]["nickname"]
       if nickname.blank?
-        NullObject.nullify(rep_data["id"]["wikipedia"]).split.first
+        value = rep_data["id"]["wikipedia"] || rep_data["name"]["official_full"]
+        NullObject.nullify(value).split.first
       else
         nickname
       end

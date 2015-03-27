@@ -1,4 +1,5 @@
 require "#{Rails.root}/lib/congress_legislators_data_compiler"
+require "#{Rails.root}/lib/image_url_parser"
 
 namespace :import do
   task default_data: :environment do
@@ -9,26 +10,26 @@ end
 
 namespace :reps do
   task import_default_data: :environment do
-    Rake::Task["reps:rep_profile_data"].invoke
-    Rake::Task["reps:rep_image_urls"].invoke
+    Rake::Task["reps:load_profile_data"].invoke
+    Rake::Task["reps:load_image_urls"].invoke
   end
 
-  task bioguide_ids: :environment do
-    legislators = YAML.load_file("db/data/legislators-current.yaml")
+  # task bioguide_ids: :environment do
+  #   legislators = YAML.load_file("db/data/legislators-current.yaml")
 
-    bioguide_hash = legislators.reduce({}) do |hash, rep_data|
-      hash.merge!({ 
-        "#{rep_data["id"]["bioguide"]}" => { 
-          "first" => "#{rep_data["name"]["first"].downcase}", 
-          "last"  => "#{rep_data["name"]["last"].downcase}" } })
-    end
+  #   bioguide_hash = legislators.reduce({}) do |hash, rep_data|
+  #     hash.merge!({ 
+  #       "#{rep_data["id"]["bioguide"]}" => { 
+  #         "first" => "#{rep_data["name"]["first"].downcase}", 
+  #         "last"  => "#{rep_data["name"]["last"].downcase}" } })
+  #   end
 
-    File.open("db/data/rep_bioguide_ids.yml", "w") do |f|
-      f.write bioguide_hash.to_yaml
-    end
-  end
+  #   File.open("db/data/rep_bioguide_ids.yml", "w") do |f|
+  #     f.write bioguide_hash.to_yaml
+  #   end
+  # end
 
-  task rep_profile_data: :environment do
+  task load_profile_data: :environment do
     legislators = YAML.load_file("db/data/legislators-current.yaml")
     social_ids = YAML.load_file("db/data/legislators-social-media.yaml")
 
@@ -39,35 +40,28 @@ namespace :reps do
       compiler = CongressLegislatorsDataCompiler.new(rep_data, rep_social_ids)
       rep = Representative.find_or_create_by(
         bioguide_id: bioguide_id,
-        first_name:  rep_data["name"]["first"].downcase,
-        last_name:   rep_data["name"]["last"].downcase)
+        first_name:  compiler.first_name_sanitized,
+        last_name:   compiler.last_name_sanitized)
       rep.update_attributes(compiler.compile_attributes)
     end
   end
 
-  task rep_image_urls: :environment do
-    urls = File.readlines("db/data/SenatorProfileImageURLs.txt").map(&:chomp)
-
+  task load_image_urls: :environment do
+    urls = File.readlines("#{Rails.root}/db/data/SenatorProfileImageURLs.txt")
+    parser = ImageURLParser.new(urls.map(&:chomp))
     Representative.all.each do |rep|
-      url = find_image_url(rep, urls)
-      rep.update_attribute(:profile_image_url, url)
+      rep.update_attribute(:profile_image_url, parser.find_url(rep))
     end
-  end
 
-  def find_image_url(rep, urls)
-    urls.find do |url|
-      url_name = url.split("/").last.split(".").first.split("_")
-      first_or_nickname_matches(rep, url_name) && last_name_matches(rep, url_name)
-    end
-  end
+    # hardcoded for now; these reps don't have source data that matches 
+    # names in url file
+    rep = Representative.find_by(first_name: "jefferson", last_name: "sessions")
+    rep.update_attribute(:profile_image_url, 
+      "http://data.matchvote.com/images/2015/senators/Jeffery_Sessions.png")
 
-  def first_or_nickname_matches(rep, url_name)
-    rep.first_name.match(url_name.first.downcase) ||
-      rep.nickname.match(url_name.first.downcase)
-  end
-
-  def last_name_matches(rep, url_name)
-    rep.last_name.match(url_name.last.downcase)
+    rep = Representative.find_by(first_name: "kelly", last_name: "ayotte")
+    rep.update_attribute(:profile_image_url, 
+      "http://data.matchvote.com/images/2015/senators/Kelley_Ayotte.png")
   end
 end
 
