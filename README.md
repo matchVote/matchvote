@@ -7,6 +7,13 @@ the politicians that agree and disagree with what's important to you.
     bin/setup
     bundle exec rake import:default_data
 
+#### Deployment Process
+    git push heroku master
+    heroku run rake db:migrate
+    heroku run rake import:default_data        # Full data load
+    heroku run rake reps:import_default_data   # Just representative data
+    
+
 #### Notes
 
 Models
