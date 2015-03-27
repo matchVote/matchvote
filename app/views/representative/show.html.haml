@@ -134,10 +134,9 @@
       %h3
         Connect with #{@rep.nickname_or_first_name}
       - @rep.contact.postal_addresses.each do |address|
-        %span= address.full_street
+        = address.full_street
         %br
-        %span= address.city_state_zip
-        %br
+        = address.city_state_zip
       %br
       - @rep.contact.emails.each do |email|
         = mail_to email, target: "_blank" do
@@ -145,7 +144,7 @@
         %br
       %br
       - @rep.contact.phone_numbers.each do |number|
-        %strong Phone:
+        %span.glyphicon.glyphicon-phone-alt
         = number
         %br
       %br
