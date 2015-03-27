@@ -14,21 +14,6 @@ namespace :reps do
     Rake::Task["reps:load_image_urls"].invoke
   end
 
-  # task bioguide_ids: :environment do
-  #   legislators = YAML.load_file("db/data/legislators-current.yaml")
-
-  #   bioguide_hash = legislators.reduce({}) do |hash, rep_data|
-  #     hash.merge!({ 
-  #       "#{rep_data["id"]["bioguide"]}" => { 
-  #         "first" => "#{rep_data["name"]["first"].downcase}", 
-  #         "last"  => "#{rep_data["name"]["last"].downcase}" } })
-  #   end
-
-  #   File.open("db/data/rep_bioguide_ids.yml", "w") do |f|
-  #     f.write bioguide_hash.to_yaml
-  #   end
-  # end
-
   task load_profile_data: :environment do
     legislators = YAML.load_file("db/data/legislators-current.yaml")
     social_ids = YAML.load_file("db/data/legislators-social-media.yaml")
