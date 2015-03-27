@@ -132,7 +132,6 @@ Profile
     * Follow profile functionality
     * Sort reps in Directory
     * Data:
-        * Fix Stances data model
         * 2 senators don't match image url (sessions, ayotte); hardcoded in task
         * Present capitalized gender, party
         * Wikipedia bios
