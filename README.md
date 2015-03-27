@@ -102,8 +102,8 @@ Models
 * Stances  
   has_many StanceQuotes  
   belongs to Issue  
-  belongs to Representative  
-  belongs to Citizen  
+  belongs to Representative as opinionable  
+  belongs to Citizen as opinionable  
   * description
   * agreeance_value (-3..3)
   * importance_value (1..7)

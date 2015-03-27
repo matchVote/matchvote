@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150326030628) do
+ActiveRecord::Schema.define(version: 20150327113950) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -99,14 +99,15 @@ ActiveRecord::Schema.define(version: 20150326030628) do
     t.integer  "agreeance_value"
     t.integer  "importance_value"
     t.boolean  "skipped"
-    t.integer  "profile_id"
     t.integer  "issue_id"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.uuid     "opinionable_id"
+    t.string   "opinionable_type"
   end
 
   add_index "stances", ["issue_id"], name: "index_stances_on_issue_id", using: :btree
-  add_index "stances", ["profile_id"], name: "index_stances_on_profile_id", using: :btree
+  add_index "stances", ["opinionable_type", "opinionable_id"], name: "index_stances_on_opinionable_type_and_opinionable_id", using: :btree
 
   create_table "users", force: :cascade do |t|
     t.string   "email",                  default: "", null: false

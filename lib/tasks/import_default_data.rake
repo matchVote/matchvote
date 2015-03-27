@@ -38,7 +38,7 @@ namespace :reps do
       rep.update_attribute(:profile_image_url, parser.find_url(rep))
     end
 
-    # hardcoded for now; these reps don't have source data that matches 
+    #BH hardcoded for now; these reps don't have source data that matches 
     # names in url file
     rep = Representative.find_by(first_name: "jefferson", last_name: "sessions")
     rep.update_attribute(:profile_image_url, 
