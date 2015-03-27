@@ -3,9 +3,9 @@ class DirectoryController < ApplicationController
     @reps = Representative.all
     @sort_list = [
       ["Sort by Name Recognition", "populatity"],
-      ["Sort by Approval Rating", "approval"],
       ["Sort Alphabetically", "alphabetically"],
       ["Sort by Most Similar Views", "similarity"],
+      ["Sort by Approval Rating", "approval"],
       ["Sort by Least Similar Views", "difference"],
       ["Sort by Seniority", "seniority"],
       ["Sort by Age", "age"],
