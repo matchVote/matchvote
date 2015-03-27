@@ -30,11 +30,11 @@
   %div
     - @reps.each do |rep|
       .directory_block
-        = image_tag rep.profile_image_url,
-          class: "directory_pic"
+        = link_to rep_path(rep.profile_id) do
+          = image_tag rep.profile_image_url,
+            class: "directory_pic"
         %h4= rep.full_name
         %div= "#{Random.rand(100)}% match"
-
         %br
         = link_to rep_path(rep.profile_id) do
           %button.btn.btn-sm.btn-default View Profile
