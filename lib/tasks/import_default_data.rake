@@ -32,20 +32,20 @@ namespace :reps do
   end
 
   task load_image_urls: :environment do
-    urls = File.readlines("#{Rails.root}/db/data/SenatorProfileImageURLs.txt")
+    urls = File.readlines("#{Rails.root}/db/data/2015_SenatorProfileImageURLs.txt")
     parser = ImageURLParser.new(urls.map(&:chomp))
     Representative.all.each do |rep|
       rep.update_attribute(:profile_image_url, parser.find_url(rep))
     end
 
-    #BH hardcoded for now; these reps don't have source data that matches 
+    #BH hardcoded for now; these reps don't have source data that matches
     # names in url file
     rep = Representative.find_by(first_name: "jefferson", last_name: "sessions")
-    rep.update_attribute(:profile_image_url, 
+    rep.update_attribute(:profile_image_url,
       "http://data.matchvote.com/images/2015/senators/Jeffery_Sessions.png")
 
     rep = Representative.find_by(first_name: "kelly", last_name: "ayotte")
-    rep.update_attribute(:profile_image_url, 
+    rep.update_attribute(:profile_image_url,
       "http://data.matchvote.com/images/2015/senators/Kelley_Ayotte.png")
   end
 end
@@ -61,4 +61,3 @@ namespace :app do
     end
   end
 end
-
