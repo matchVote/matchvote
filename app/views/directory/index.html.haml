@@ -39,7 +39,7 @@
           %h4= rep.full_name
         .row
           = "#{Random.rand(100)}% match"
-          = if rep.verified = true
+          = if rep.full_name == "Ben Cardin"
             = image_tag "http://data.matchvote.com/images/bluecheck.png",
               class: "verified", title: "Verified Account"
         .row
