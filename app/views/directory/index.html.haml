@@ -16,7 +16,8 @@
           Add Filter
     .col-md-1
     .col-md-4.filter-search
-      %input.search-field{type: "text", required: "true", value: "Search by name"}
+      %input.search-field{type: "text", required: "true",
+        value: "Search by name"}
       %button.btn.btn-primary.pull-right.search-btn
         %span.glyphicon.glyphicon-search
       %br
@@ -30,15 +31,19 @@
   %div
     - @reps.each do |rep|
       .directory_block
-        = link_to rep_path(rep.profile_id) do
-          = image_tag rep.profile_image_url,
-            class: "directory_pic"
-        %h4= rep.full_name
-        %div= "#{Random.rand(100)}% match"
-        = if rep.full_name == "Ben Cardin"
-          =image_tag "http://data.matchvote.com/images/bluecheck.png", class: "verified", title: "Verified Account"
-        %br
-        = link_to rep_path(rep.profile_id) do
-          %button.btn.btn-sm.btn-default View Profile
-        = link_to rep_path(rep.profile_id) do
-          %button.btn.btn-sm.btn-default Follow
+        .row
+          = link_to rep_path(rep.profile_id) do
+            = image_tag rep.profile_image_url,
+              class: "directory_pic"
+        .row
+          %h4= rep.full_name
+        .row
+          = "#{Random.rand(100)}% match"
+          = if rep.full_name == "Ben"
+            = image_tag "http://data.matchvote.com/images/bluecheck.png",
+              class: "verified", title: "Verified Account"
+        .row
+          = link_to rep_path(rep.profile_id) do
+            %button.btn.btn-sm.btn-default View Profile
+          = link_to rep_path(rep.profile_id) do
+            %button.btn.btn-sm.btn-default Follow
