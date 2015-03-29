@@ -35,7 +35,10 @@
             class: "directory_pic"
         %h4= rep.full_name
         %div= "#{Random.rand(100)}% match"
+        = if rep.full_name == "Ben Cardin"
+          =image_tag "http://data.matchvote.com/images/bluecheck.png", class: "verified", title: "Verified Account"
         %br
         = link_to rep_path(rep.profile_id) do
           %button.btn.btn-sm.btn-default View Profile
-        %button.btn.btn-sm.btn-default Follow
+        = link_to rep_path(rep.profile_id) do
+          %button.btn.btn-sm.btn-default Follow
