@@ -139,6 +139,7 @@ Profile
     * View Profile - hyphen weirdness
     * Style create account page
     * Refine Stances/Quiz views
+    * Build GUI for admins to edit Representative profiles
 * Test
     * CongressLegislatorsDataCompiler
     * Directory feature specs
