@@ -6,7 +6,7 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def full_name
-    "#{nickname_or_first_name.capitalize} #{last_name.capitalize}"
+    "#{nickname_or_first_name.capitalize} #{last_name.split.map(&:capitalize).join(' ')}"
   end
 
   def nickname_or_first_name
@@ -25,12 +25,15 @@ class RepresentativePresenter < SimpleDelegator
     rep.government_role.blank? ? "N/A" : rep.government_role.capitalize
   end
 
+  def branch
+    rep.branch.blank? ? "N/A" : rep.branch.capitalize
+  end
+
   def orientation
     rep.orientation.blank? ? "N/A" : rep.orientation.capitalize
   end
 
   def religion
-    rep.religion.blank? ? "N/A" : rep.religion.capitalize
+    rep.religion.blank? ? "N/A" : rep.religion.split.map(&:capitalize).join(' ')
   end
 end
-

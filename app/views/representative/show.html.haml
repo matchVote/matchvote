@@ -5,7 +5,7 @@
       >
       = link_to "Federal", "/?=Federal"
       >
-      = link_to "Executive", "/?=Executive"
+      = link_to @rep.branch, "#"
       >
       = link_to @rep.government_role, "#"
       >
@@ -23,8 +23,7 @@
         = @rep.party.capitalize
         | #{@rep.state}
       .profile_bio
-        %p
-          = @rep.biography
+        %p= truncate(@rep.biography, length: 80)
         %button.btn.btn-sm.btn-default
           Read Full Bio
 
