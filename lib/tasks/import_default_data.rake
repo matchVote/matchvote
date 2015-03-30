@@ -12,6 +12,7 @@ namespace :reps do
   task import_default_data: :environment do
     Rake::Task["reps:load_profile_data"].invoke
     Rake::Task["reps:load_image_urls"].invoke
+    Rake::Task["reps:load_bios"].invoke
   end
 
   task load_profile_data: :environment do
@@ -47,6 +48,13 @@ namespace :reps do
     rep = Representative.find_by(first_name: "kelly", last_name: "ayotte")
     rep.update_attribute(:profile_image_url,
       "http://data.matchvote.com/images/2015/senators/Kelley_Ayotte.png")
+  end
+
+  task load_bios: :environment do
+    Representative.all.each do |rep|
+      wiki = WikipediaService.new(rep.external_credentials["wikipedia_id"])
+      rep.update_attribute(:biography, wiki.first_paragraph)
+    end
   end
 end
 

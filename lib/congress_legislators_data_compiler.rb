@@ -34,7 +34,6 @@ class CongressLegislatorsDataCompiler
   def bio
     { birthday: rep_data["bio"]["birthday"],
       gender: genderize(rep_data["bio"]["gender"]),
-      biography: WikipediaService.new(rep_data["id"]["wikipedia"]).first_paragraph,
       religion: sanitize(rep_data["bio"]["religion"]) }
   end
 
@@ -65,7 +64,7 @@ class CongressLegislatorsDataCompiler
         votesmart_id: rep_data["id"]["votesmart"],
         fec_ids: rep_data["id"]["fec"].join(","),
         cspan_id: rep_data["id"]["cspan"],
-        wikipedia_id: rep_data["id"]["wikipedia"],
+        wikipedia_id: find_wikipedia_search_string,
         house_history_id: rep_data["id"]["house_history"],
         ballotpedia_id: rep_data["id"]["ballotpedia"],
         maplight_id: rep_data["id"]["maplight"],
@@ -103,6 +102,15 @@ class CongressLegislatorsDataCompiler
         NullObject.nullify(value).split.first
       else
         nickname
+      end
+    end
+
+    def find_wikipedia_search_string
+      search_string = rep_data["id"]["wikipedia"]
+      if search_string.blank?
+        "#{first_name_sanitized.capitalize} #{last_name_sanitized.capitalize}"
+      else
+        search_string
       end
     end
 

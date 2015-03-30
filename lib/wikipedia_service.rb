@@ -8,7 +8,7 @@ class WikipediaService
 
   def first_paragraph
     r = get("#{base_url}&prop=extracts&exintro=&explaintext=&titles=#{subject}")
-    r["query"]["pages"].first.last["extract"]
+    r["query"]["pages"].first.last["extract"] if r
   end
 
   private
@@ -17,6 +17,6 @@ class WikipediaService
     end
 
     def sanitize_for_url(string)
-      I18n.transliterate(string).tr(" ", "%20")
+      I18n.transliterate(string || "").gsub(" ", "%20")
     end
 end
