@@ -1,18 +1,8 @@
 class DirectoryController < ApplicationController
   def index
-    @reps = Representative.all
-    @sort_list = [
-      ["Sort by Name Recognition", "populatity"],
-      ["Sort Alphabetically", "alphabetically"],
-      ["Sort by Most Similar Views", "similarity"],
-      ["Sort by Least Similar Views", "difference"],
-      ["Sort by Approval Rating", "approval"],
-      ["Sort by Seniority", "seniority"],
-      ["Sort by Age", "age"],
-      ["Sort by State", "state"]
-
-    ]
-
+    @reps = Representative.all.map { |r| RepresentativePresenter.new(r) }
+    @sort_list = DirectoryPresenter.sort_list
     @filter_count = Representative.count
   end
 end
+

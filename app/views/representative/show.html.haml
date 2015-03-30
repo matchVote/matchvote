@@ -1,20 +1,15 @@
 .row
   .col-md-8
     .profile_breadcrumbs
-      =link_to root_path do
-        Directory
+      = link_to "Directory", root_path
       >
-      =link_to "/?=Federal" do
-        Federal
+      = link_to "Federal", "/?=Federal"
       >
-      =link_to "/?=Executive" do
-        Executive
+      = link_to "Executive", "/?=Executive"
       >
-      =link_to "#" do
-        #{@rep.government_role}
+      = link_to @rep.government_role, "#"
       >
-      =link_to "#" do
-        #{@rep.nickname_or_first_name} #{@rep.last_name}
+      = link_to @rep.full_name, "#"
 
     .whitecard
       = image_tag @rep.profile_image_url,
@@ -22,11 +17,10 @@
       .profile_name
         %button.btn.btn-md.btn-default.pull-right
           Follow #{@rep.nickname_or_first_name}
-        %h2
-          = @rep.full_name
+        %h2= @rep.full_name
         = @rep.title
         %br
-        = @rep.party
+        = @rep.party.capitalize
         | #{@rep.state}
       .profile_bio
         %p
@@ -34,70 +28,7 @@
         %button.btn.btn-sm.btn-default
           Read Full Bio
 
-    .whitecard
-      %h2 How your views compare
-      %br
-      %table.table.table-hover
-        %tr
-          %td.col-md-6
-            %strong Economy
-          %td.col-md-5= "#{Random.rand(100)}% match"
-          %td
-            %button.btn.btn-xs.btn-default View Stances
-        %tr
-          %td
-            %strong Immigration
-          %td.col-md-5= "#{Random.rand(100)}% match"
-          %td
-            %button.btn.btn-xs.btn-default View Stances
-        %tr
-          %td
-            %strong Gun Control
-          %td.col-md-5= "#{Random.rand(100)}% match"
-          %td
-            %button.btn.btn-xs.btn-default View Stances
-        %tr
-          %td
-            %strong Healthcare
-          %td.col-md-5= "#{Random.rand(100)}% match"
-          %td
-            %button.btn.btn-xs.btn-default View Stances
-        %tr
-          %td
-            %strong Partisanship
-          %td.col-md-5= "#{Random.rand(100)}% match"
-          %td
-            %button.btn.btn-xs.btn-default View Stances
-        %tr
-          %td
-            %strong Same-sex Marriage
-          %td.col-md-5= "#{Random.rand(100)}% match"
-          %td
-            %button.btn.btn-xs.btn-default View Stances
-        %tr
-          %td
-            %strong Drugs
-          %td.col-md-5= "#{Random.rand(100)}% match"
-          %td
-            %button.btn.btn-xs.btn-default View Stances
-        %tr
-          %td
-            %strong Voting
-          %td.col-md-5= "#{Random.rand(100)}% match"
-          %td
-            %button.btn.btn-xs.btn-default View Stances
-        %tr
-          %td
-            %strong Environment
-          %td.col-md-5= "#{Random.rand(100)}% match"
-          %td
-            %button.btn.btn-xs.btn-default View Stances
-        %tr
-          %td
-            %strong Foreign Policy
-          %td.col-md-5= "#{Random.rand(100)}% match"
-          %td
-            %button.btn.btn-xs.btn-default View Stances
+    .whitecard= render "issue_comparison"
 
     .whitecard
       %h2 Recent News
@@ -108,10 +39,10 @@
       %table.table.table-hover
         %tr
           %td.col-md-6 Gender
-          %td #{@rep.gender}
+          %td #{@rep.gender.capitalize}
         %tr
           %td Birthday
-          %td #{@rep.birthday}
+          %td #{@rep.birthday_formatted}
         %tr
           %td Religion
           %td #{@rep.religion}
@@ -125,14 +56,14 @@
         = "#{Random.rand(100)}%"
         Approval Rating
       %div
-        %i Based on #{number_with_delimiter(Random.rand(10000), delimiter: ',')} citizen ratings
+        %i Based on #{@rep.citizen_ratings_total} citizen ratings
       %br
       %button.btn.btn-danger
         Rate #{@rep.nickname_or_first_name}
 
     .well.widget
       %h3
-        Connect with #{@rep.nickname_or_first_name}
+        Connect with #{@rep.nickname_or_first_name.capitalize}
       - @rep.contact.postal_addresses.each do |address|
         = address.full_street
         %br
@@ -169,7 +100,6 @@
           %td.col-md-6 Donor 3
           %td.col-md-6 $750,000
 
-
-
     .well.widget
       %h3 Interest Group Ratings
+

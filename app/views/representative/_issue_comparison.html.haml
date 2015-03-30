@@ -1,0 +1,11 @@
+%h2 How your views compare
+%br
+%table.table.table-hover
+  - @issues.each do |issue|
+    %tr
+      %td.col-md-6
+        %strong= issue.name
+      %td.col-md-5= "#{Random.rand(100)}% match"
+      %td
+        %button.btn.btn-xs.btn-default View Stances
+

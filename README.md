@@ -127,19 +127,19 @@ Profile
 ### TODO
 * Backend
     * Setup email for forgotten password
-    * Sign in with facebook/twitter (omniauth)
     * Directory filter
     * Follow profile functionality
     * Sort reps in Directory
+    * Sign in with facebook/twitter (omniauth)
     * Data:
         * 2 senators don't match image url (sessions, ayotte); hardcoded in task
-        * Present capitalized gender, party
         * Wikipedia bios
         * Donor data
 * Frontend
     * View Profile - hyphen weirdness
     * Rep profile photos
     * Style create account page
+    * Links to social media on rep profiles
 * Test
     * CongressLegislatorsDataCompiler
     * Directory feature specs

@@ -92,7 +92,7 @@ class CongressLegislatorsDataCompiler
     end
 
     def sanitize(value)
-      value.nil? ? "N/A" : value.downcase
+      value.downcase unless value.nil?
     end
 
     def find_nickname
@@ -117,7 +117,6 @@ class CongressLegislatorsDataCompiler
       case type
       when "sen" then "senator"
       when "rep" then "representative"
-      else "N/A"
       end
     end
 
