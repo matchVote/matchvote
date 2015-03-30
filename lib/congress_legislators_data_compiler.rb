@@ -1,5 +1,6 @@
 require_relative "null_object"
 require_relative "address_parser"
+require_relative "wikipedia_service"
 
 class CongressLegislatorsDataCompiler
   def initialize(rep_data, social_ids)
@@ -33,7 +34,7 @@ class CongressLegislatorsDataCompiler
   def bio
     { birthday: rep_data["bio"]["birthday"],
       gender: genderize(rep_data["bio"]["gender"]),
-      biography: "To Be Added...",
+      biography: WikipediaService.new(rep_data["id"]["wikipedia"]).first_paragraph,
       religion: sanitize(rep_data["bio"]["religion"]) }
   end
 
