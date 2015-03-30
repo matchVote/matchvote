@@ -137,7 +137,6 @@ Profile
         * Donor data
 * Frontend
     * View Profile - hyphen weirdness
-    * Rep profile photos
     * Style create account page
     * Links to social media on rep profiles
 * Test
