@@ -138,7 +138,7 @@ Profile
 * Frontend
     * View Profile - hyphen weirdness
     * Style create account page
-    * Links to social media on rep profiles
+    * Refine Stances/Quiz views
 * Test
     * CongressLegislatorsDataCompiler
     * Directory feature specs
