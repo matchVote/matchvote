@@ -79,12 +79,15 @@
         = number
         %br
       %br
-      %button.btn.btn-default.btn-sm
-        Facebook
-      %button.btn.btn-default.btn-sm
-        Twitter
-      %button.btn.btn-default.btn-sm
-        YouTube
+      =link_to "https://facebook.com/#{@rep.external_credentials['facebook_username']}" do
+        %button.btn.btn-default.btn-sm
+          Facebook
+      =link_to "https://twitter.com/#{@rep.external_credentials['facebook_username']}" do
+        %button.btn.btn-default.btn-sm
+          Twitter
+      =link_to "https://youtube.com/#{@rep.external_credentials['facebook_username']}" do
+        %button.btn.btn-default.btn-sm
+          YouTube
 
     .well.widget
       %h3 Top Donors
@@ -102,4 +105,3 @@
 
     .well.widget
       %h3 Interest Group Ratings
-
