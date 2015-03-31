@@ -8320,6 +8320,7 @@
   name:
     first: Joseph
     last: Crowley
+    nickname: Joe
     official_full: Joseph Crowley
   bio:
     birthday: '1962-03-16'
@@ -16275,6 +16276,7 @@
     first: William
     last: Keating
     official_full: William R. Keating
+    nickname: Bill
     middle: R.
   bio:
     birthday: '1952-09-06'
@@ -18295,6 +18297,7 @@
   name:
     first: David
     last: Loebsack
+    nickname: Dave
     official_full: David Loebsack
   bio:
     birthday: '1952-12-23'
@@ -23553,6 +23556,7 @@
     first: Joseph
     middle: R.
     last: Pitts
+    nickname: Joe
     official_full: Joseph R. Pitts
   bio:
     birthday: '1939-10-10'
@@ -24238,6 +24242,7 @@
   name:
     first: Mike
     last: Quigley
+    nickname: Michael
     official_full: Mike Quigley
   bio:
     birthday: '1958-10-17'
@@ -27761,6 +27766,7 @@
     middle: James
     last: Sensenbrenner
     suffix: Jr.
+    nickname: Jim
     official_full: F. James Sensenbrenner Jr.
   bio:
     birthday: '1943-06-14'
@@ -38308,8 +38314,9 @@
     opensecrets: N00035607
     thomas: '02250'
   name:
-    first: Dave
+    first: David
     last: Trott
+    nickname: Dave
     official_full: David A. Trott
   bio:
     gender: M
@@ -39044,9 +39051,10 @@
     govtrack: 412664
     thomas: '02222'
     house_history: 15032412349
+    wikipedia: Amata Coleman Radewagen
   name:
-    first: Aumua
-    last: Amata
+    first: Amata
+    last: Coleman Radewagen
     official_full: Amata Coleman Radewagen
   bio:
     gender: F
@@ -39210,6 +39218,7 @@
     first: Bradley
     middle: Mark
     last: Walker
+    nickname: Mark
     official_full: Mark Walker
   bio:
     gender: M

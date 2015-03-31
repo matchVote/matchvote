@@ -123,6 +123,7 @@ Profile
 
 #### Rep Data Sources:  
   * Congress Legistators - https://github.com/unitedstates/congress-legislators
+  * Donor Data - https://www.opensecrets.org/resources/create/apis.php
 
 ### TODO
 * Backend

@@ -17,9 +17,8 @@ class CongressLegislatorsDataCompiler
   end
 
   def generate_slug
-    slug = "#{rep_data["name"]["nickname"] || first_name_sanitized}"+
-      "-#{last_name_sanitized}"
-    slug.downcase
+    slug = "#{find_nickname || first_name_sanitized}-#{last_name_sanitized}"
+    slug.downcase.gsub(/[\s']/, "-").tr(".", "")
   end
 
   def first_name_sanitized
@@ -34,9 +33,9 @@ class CongressLegislatorsDataCompiler
     { official_full_name: rep_data["name"]["official_full"],
       first_name: first_name_sanitized,
       last_name: last_name_sanitized,
-      middle_name: NullObject.nullify(rep_data["name"]["middle"]), 
+      middle_name: rep_data["name"]["middle"], 
       nickname: find_nickname,
-      suffix: NullObject.nullify(rep_data["name"]["suffix"])}
+      suffix: rep_data["name"]["suffix"] }
   end
 
   def bio

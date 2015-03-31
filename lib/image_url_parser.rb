@@ -22,7 +22,7 @@ class ImageURLParser
     end
 
     def last_name_matches(rep, last_name)
-      rep.last_name.downcase == last_name
+      rep.last_name.downcase.split.last == last_name
     end
 
     def suffixes

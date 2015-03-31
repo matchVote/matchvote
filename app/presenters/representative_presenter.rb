@@ -10,7 +10,7 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def nickname_or_first_name
-    nickname.blank? ? first_name.capitalize : nickname.capitalize
+    nickname.blank? ? first_name.capitalize : nickname
   end
 
   def citizen_ratings_total
