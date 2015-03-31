@@ -23,7 +23,7 @@
         = @rep.party.capitalize
         | #{@rep.state}
       .profile_bio
-        %p= truncate(@rep.biography, length: 200)
+        %p= truncate(@rep.biography, length: 800)
         %button.btn.btn-sm.btn-default.bio_btn
           Read Full Bio
 
