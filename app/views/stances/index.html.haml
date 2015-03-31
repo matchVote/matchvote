@@ -1,9 +1,11 @@
 .row
   .stances_menu
-    .col-md-7
+    .col-md-8
       %h3 Where do you stand on the following issues?
-      %p Please indicate where you fall on the statements below. Also, tell us how important it is for elected officials to agree with you on each topic. We'll need at least 10 stances to accurately find your matches.
-    .col-md-1
+      %h5 Each of the statements below is answered in two parts:
+      %ul
+        %li Whether or not you agree with the statement.
+        %li How important it is for elected officials to align with your stance.
     .col-md-4
   %span.pull-right
     =link_to "#" do
@@ -13,17 +15,16 @@
 .row
   %h2 Environment
   .col-md-10
-    .stancecard
+    .stance_card
       .row
         .col-md-6
           %h4 I believe that climate change is a real phenomenon and is caused, at least in part, by human activity and fossil fuel use.
         .col-md-3
           %strong Your Stance
-          = select_tag "Agreeance", "<option>Very Strongly Disagree</option><option>Strongly Disagree</option><option>Disagree</option><option selected=&#34;selected&#34;>Neutral</option><option>Agree</option><option>Strongly Agree</option><option>Very Strongly Agree</option>".html_safe, multiple: false, class: "form-control"
+          = select_tag "Agreeance", "<option>Very Strongly Agree</option><option>Strongly Agree</option><option>Agree</option><option selected=&#34;selected&#34;>Neutral</option><option>Disagree</option><option>Strongly Disagree</option><option>Very Strongly Disagree</option>".html_safe, multiple: false, class: "form-control"
         .col-md-3
           %strong Alignment Importance
-          = select_tag "Importance", "<option>Not Very Important</option><option>Somewhat Important</option><option selected=&#34;selected&#34;>Important</option><option>Very Important</option><option>Extremely Important</option>".html_safe, multiple: false, class: "form-control"
-          =link_to "#" do
-            %span.stancehelp.pull-right What is this?
-  .col-md-2.submitarea
-    %button.btn.btn-primary.btn-block Save Stance
+          = select_tag "Importance", "<option>Extremely Important</option><option>Very Important</option><option selected=&#34;selected&#34;>Important</option><option>Somewhat Important</option><option>Not Very Important</option>".html_safe, multiple: false, class: "form-control"
+
+  .col-md-2
+    %button.btn.btn-primary.btn-block.save_btn Save Stance

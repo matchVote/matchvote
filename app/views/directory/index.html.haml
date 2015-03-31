@@ -5,8 +5,8 @@
       %h5
         = @filter_count
         elected officials meet your search criteria.
-        Add more filters to refine your search
-      .well.well-sm.filter-well
+        Add more filters to refine your search.
+      .well.well-sm.filter_well
         %button.btn.btn-default
           .glyphicon.glyphicon-remove
           Federal
@@ -15,10 +15,10 @@
           .glyphicon.glyphicon-plus
           Add Filter
     .col-md-1
-    .col-md-4.filter-search
-      %input.search-field{type: "text", required: "true",
+    .col-md-4.filter_search
+      %input.search_field{type: "text", required: "true",
         value: "Search by name"}
-      %button.btn.btn-primary.pull-right.search-btn
+      %button.btn.btn-primary.pull-right.search_btn
         %span.glyphicon.glyphicon-search
       %br
       %br
@@ -48,4 +48,3 @@
           = if rep.verified == true
             = image_tag "http://data.matchvote.com/images/bluecheck.png",
               class: "verified", title: "Verified Account"
-

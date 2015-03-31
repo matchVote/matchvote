@@ -15,16 +15,16 @@
       = image_tag @rep.profile_image_url,
         class: "profile_pic"
       .profile_name
-        %button.btn.btn-md.btn-default.pull-right
-          Follow #{@rep.nickname_or_first_name}
+        %button.btn.btn-sm.pull-right
+          Follow
         %h2= @rep.full_name
         = @rep.title
         %br
         = @rep.party.capitalize
         | #{@rep.state}
       .profile_bio
-        %p= truncate(@rep.biography, length: 80)
-        %button.btn.btn-sm.btn-default
+        %p= truncate(@rep.biography, length: 200)
+        %button.btn.btn-sm.btn-default.bio_btn
           Read Full Bio
 
     .whitecard= render "issue_comparison"
@@ -37,8 +37,8 @@
       %br
       %table.table.table-hover
         %tr
-          %td.col-md-6 Gender
-          %td #{@rep.gender.capitalize}
+          %td.col-md-3 Age
+          %td
         %tr
           %td Birthday
           %td #{@rep.birthday_formatted}
@@ -50,7 +50,7 @@
           %td #{@rep.orientation}
 
   .col-md-4
-    .well.firstwidget
+    .well.first_widget
       %h3
         = "#{Random.rand(100)}%"
         Approval Rating
@@ -59,10 +59,14 @@
       %br
       %button.btn.btn-danger
         Rate #{@rep.nickname_or_first_name}
+      %button.btn.btn-default
+        Read Comments
 
     .well.widget
       %h3
-        Connect with #{@rep.nickname_or_first_name.capitalize}
+        Connect with #{@rep.nickname_or_first_name}
+      %strong #{@rep.government_role} #{@rep.first_name.capitalize} #{@rep.last_name.capitalize}
+      %br
       - @rep.contact.postal_addresses.each do |address|
         = address.full_street
         %br
