@@ -6,7 +6,7 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def full_name
-    "#{nickname_or_first_name.capitalize} #{last_name.split.map(&:capitalize).join(' ')}"
+    "#{nickname_or_first_name} #{last_name}"
   end
 
   def nickname_or_first_name
@@ -35,5 +35,17 @@ class RepresentativePresenter < SimpleDelegator
 
   def religion
     rep.religion.blank? ? "N/A" : rep.religion.split.map(&:capitalize).join(' ')
+  end
+
+  def facebook_url
+    "https://facebook.com/#{rep.external_credentials["facebook_username"]}"
+  end
+
+  def twitter_url
+    "https://twitter.com/#{rep.external_credentials["twitter_username"]}"
+  end
+
+  def youtube_url
+    "https://youtube.com/#{rep.external_credentials["youtube_username"]}"
   end
 end

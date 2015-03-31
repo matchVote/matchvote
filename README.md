@@ -133,17 +133,16 @@ Profile
     * Sign in with facebook/twitter (omniauth)
     * Data:
         * 2 senators don't match image url (sessions, ayotte); hardcoded in task
-        * Wikipedia bios
+        * Sanitize Wikipedia bios; add more text for bio expansion
         * Donor data
 * Frontend
     * View Profile - hyphen weirdness
     * Style create account page
     * Refine Stances/Quiz views
     * Build GUI for admins to edit Representative profiles
+    * Remove social media links if reps don't have an account
 * Test
     * CongressLegislatorsDataCompiler
     * Directory feature specs
-    * Rep profile feature specs
-
 
 

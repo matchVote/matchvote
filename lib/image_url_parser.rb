@@ -18,11 +18,11 @@ class ImageURLParser
     end
 
     def first_or_nickname_matches(rep, first_name)
-      rep.first_name == first_name || rep.nickname == first_name
+      rep.first_name.downcase == first_name || rep.nickname.downcase == first_name
     end
 
     def last_name_matches(rep, last_name)
-      rep.last_name == last_name
+      rep.last_name.downcase == last_name
     end
 
     def suffixes

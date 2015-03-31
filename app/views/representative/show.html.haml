@@ -65,7 +65,7 @@
     .well.widget
       %h3
         Connect with #{@rep.nickname_or_first_name}
-      %strong #{@rep.government_role} #{@rep.first_name.capitalize} #{@rep.last_name.capitalize}
+      %strong #{@rep.government_role} #{@rep.first_name} #{@rep.last_name}
       %br
       - @rep.contact.postal_addresses.each do |address|
         = address.full_street
@@ -82,13 +82,13 @@
         = number
         %br
       %br
-      =link_to "https://facebook.com/#{@rep.external_credentials['facebook_username']}" do
+      =link_to @rep.facebook_url, target: "_blank" do
         %button.btn.btn-default.btn-sm
           Facebook
-      =link_to "https://twitter.com/#{@rep.external_credentials['facebook_username']}" do
+      =link_to @rep.twitter_url, target: "_blank" do
         %button.btn.btn-default.btn-sm
           Twitter
-      =link_to "https://youtube.com/#{@rep.external_credentials['facebook_username']}" do
+      =link_to @rep.youtube_url, target: "_blank" do
         %button.btn.btn-default.btn-sm
           YouTube
 

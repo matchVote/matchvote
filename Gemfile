@@ -7,6 +7,7 @@ gem "bootstrap-sass", "~> 3.3.4"
 gem "coffee-rails", "~> 4.1.0"
 gem "devise", "~> 3.4.0"
 gem "haml-rails", "~> 0.9"
+gem "httparty", "~> 0.13.3"
 gem "jquery-rails", "~> 4.0.3"
 gem "pg", "~> 0.18.1"
 gem "rails", "4.2.0"
@@ -30,5 +31,6 @@ group :test do
   gem "database_cleaner", "~> 1.4.1"
   gem "factory_girl_rails", "~> 4.5.0"
   gem "rspec-rails", "~> 3.2.1"
+  gem "webmock", "~> 1.21.0"
 end
 
