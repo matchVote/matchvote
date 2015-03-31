@@ -133,7 +133,7 @@ Profile
     * Sign in with facebook/twitter (omniauth)
     * Data:
         * 2 senators don't match image url (sessions, ayotte); hardcoded in task
-        * Wikipedia bios
+        * Sanitize Wikipedia bios; add more text for bio expansion
         * Donor data
 * Frontend
     * View Profile - hyphen weirdness
@@ -143,7 +143,5 @@ Profile
 * Test
     * CongressLegislatorsDataCompiler
     * Directory feature specs
-    * Rep profile feature specs
-
 
 

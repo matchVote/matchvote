@@ -39,7 +39,7 @@
       %table.table.table-hover
         %tr
           %td.col-md-6 Gender
-          %td #{@rep.gender.capitalize}
+          %td #{@rep.gender}
         %tr
           %td Birthday
           %td #{@rep.birthday_formatted}
@@ -63,7 +63,7 @@
 
     .well.widget
       %h3
-        Connect with #{@rep.nickname_or_first_name.capitalize}
+        Connect with #{@rep.nickname_or_first_name}
       - @rep.contact.postal_addresses.each do |address|
         = address.full_street
         %br
