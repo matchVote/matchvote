@@ -126,24 +126,32 @@ Profile
   * Donor Data - https://www.opensecrets.org/resources/create/apis.php
 
 ### TODO
-* Backend
+* Directory
+    * Filter
+    * Sort
+    * Search
+    * Feature specs
+* Rep profile
+    * Follow
+    * Read full bio
+    * Rate rep
+    * Comments
+    * Recent News
+* Stances
+* News Feed
+* Misc backend
     * Setup email for forgotten password
-    * Directory filter
-    * Follow profile functionality
-    * Sort reps in Directory
     * Sign in with facebook/twitter (omniauth)
     * Data:
-        * 2 senators don't match image url (sessions, ayotte); hardcoded in task
         * Sanitize Wikipedia bios; add more text for bio expansion
         * Donor data
-* Frontend
-    * View Profile - hyphen weirdness
+* Misc frontend
+    * View Profile; social media links - hyphen weirdness
+    * Remove social media links if reps don't have an account
     * Style create account page
     * Refine Stances/Quiz views
     * Build GUI for admins to edit Representative profiles
-    * Remove social media links if reps don't have an account
 * Test
     * CongressLegislatorsDataCompiler
-    * Directory feature specs
 
 

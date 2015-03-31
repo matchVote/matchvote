@@ -17,7 +17,7 @@ class CongressLegislatorsDataCompiler
   end
 
   def generate_slug
-    slug = "#{find_nickname || first_name_sanitized}-#{last_name_sanitized}"
+    slug = "#{rep_data["name"]["nickname"] || first_name_sanitized}-#{last_name_sanitized}"
     slug.downcase.gsub(/[\s']/, "-").tr(".", "")
   end
 
