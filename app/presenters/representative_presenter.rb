@@ -6,7 +6,7 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def full_name
-    "#{nickname_or_first_name.capitalize} #{last_name.capitalize}"
+    "#{nickname_or_first_name} #{last_name}"
   end
 
   def nickname_or_first_name

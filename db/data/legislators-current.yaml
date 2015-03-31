@@ -37326,6 +37326,7 @@
     opensecrets: N00035854
     cspan: 75516
     votesmart: 148899
+    wikipedia: Curt Clawson
     fec:
     - H4FL19074
   name:
@@ -37651,6 +37652,7 @@
     opensecrets: N00033982
     thomas: '02225'
     house_history: 15032414876
+    wikipedia: Martha McSally
   name:
     first: Martha
     last: McSally
@@ -37702,6 +37704,7 @@
     govtrack: 412613
     opensecrets: N00030709
     thomas: '02227'
+    wikipedia: Mark DeSaulnier
   name:
     first: Mark
     last: DeSaulnier
@@ -38486,6 +38489,7 @@
     govtrack: 412643
     opensecrets: N00036155
     thomas: '02258'
+    wikipedia: Tom MacArthur
   name:
     first: Tom
     last: MacArthur
@@ -38513,6 +38517,7 @@
     opensecrets: N00036158
     thomas: '02259'
     house_history: 15032409972
+    wikipedia: Bonnie Watson Coleman
   name:
     first: Bonnie
     last: Watson Coleman
@@ -38853,9 +38858,11 @@
     govtrack: 412657
     opensecrets: N00036018
     thomas: '02272'
+    wikipedia: Don Beyer
   name:
     first: Donald
     last: Beyer
+    nickname: Don
     official_full: Donald S. Beyer Jr.
   bio:
     gender: M
@@ -39226,10 +39233,12 @@
     govtrack: 412671
     opensecrets: N00035544
     lis: S382
+    wikipedia: Ben Sasse
   name:
     first: Benjamin
     middle: Eric
     last: Sasse
+    nicname: Ben
     official_full: Ben Sasse
   bio:
     gender: M

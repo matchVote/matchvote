@@ -16,19 +16,26 @@ class CongressLegislatorsDataCompiler
       merge!(external_credentials)
   end
 
+  def generate_slug
+    "#{rep_data["name"]["nickname"].downcase || first_name_sanitized.downcase}"+
+      "-#{last_name_sanitized.downcase}"
+  end
+
   def first_name_sanitized
-    I18n.transliterate(rep_data["name"]["first"].downcase)
+    I18n.transliterate(rep_data["name"]["first"])
   end
 
   def last_name_sanitized
-    I18n.transliterate(rep_data["name"]["last"].downcase)
+    I18n.transliterate(rep_data["name"]["last"])
   end
 
   def name
     { official_full_name: rep_data["name"]["official_full"],
-      middle_name: NullObject.nullify(rep_data["name"]["middle"]).downcase, 
-      nickname: find_nickname.downcase,
-      suffix: NullObject.nullify(rep_data["name"]["suffix"]).downcase }
+      first_name: first_name_sanitized,
+      last_name: last_name_sanitized,
+      middle_name: NullObject.nullify(rep_data["name"]["middle"]), 
+      nickname: find_nickname,
+      suffix: NullObject.nullify(rep_data["name"]["suffix"])}
   end
 
   def bio
@@ -38,7 +45,7 @@ class CongressLegislatorsDataCompiler
   end
 
   def terms
-    { party: latest_term["party"].downcase, 
+    { party: latest_term["party"], 
       state: latest_term["state"],
       status: :in_office,
       state_rank: latest_term["state_rank"],
@@ -56,7 +63,8 @@ class CongressLegislatorsDataCompiler
   end
 
   def external_credentials
-    { external_credentials: { 
+    { bioguide_id: rep_data["id"]["bioguide"],
+      external_credentials: { 
         thomas_id: rep_data["id"]["thomas"],
         lis_id: rep_data["id"]["lis"],
         govtrack_id: rep_data["id"]["govtrack"],
@@ -98,7 +106,7 @@ class CongressLegislatorsDataCompiler
     def find_nickname
       nickname = rep_data["name"]["nickname"]
       if nickname.blank?
-        value = rep_data["id"]["wikipedia"] || rep_data["name"]["official_full"]
+        value = rep_data["id"]["wikipedia"]
         NullObject.nullify(value).split.first
       else
         nickname
@@ -116,16 +124,16 @@ class CongressLegislatorsDataCompiler
 
     def genderize(gender)
       case gender
-      when /M/i then "male"
-      when /F/i then "female"
+      when /M/i then "Male"
+      when /F/i then "Female"
       else "Unicorn"
       end
     end
 
     def expand_type(type)
       case type
-      when "sen" then "senator"
-      when "rep" then "representative"
+      when "sen" then "Senator"
+      when "rep" then "Representative"
       end
     end
 

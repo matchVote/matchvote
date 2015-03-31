@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150327113950) do
+ActiveRecord::Schema.define(version: 20150331031704) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -82,6 +82,7 @@ ActiveRecord::Schema.define(version: 20150327113950) do
   add_index "representatives", ["first_name", "last_name"], name: "index_representatives_on_first_name_and_last_name", unique: true, using: :btree
   add_index "representatives", ["first_name"], name: "index_representatives_on_first_name", using: :btree
   add_index "representatives", ["last_name"], name: "index_representatives_on_last_name", using: :btree
+  add_index "representatives", ["slug"], name: "index_representatives_on_slug", unique: true, using: :btree
   add_index "representatives", ["user_id"], name: "index_representatives_on_user_id", using: :btree
 
   create_table "stance_quotes", force: :cascade do |t|

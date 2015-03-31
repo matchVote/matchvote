@@ -6,11 +6,6 @@ class RepresentativeController < ApplicationController
 
   private
     def find_rep
-      name = params[:full_name].split("-")
-      Representative.find_by(first_name: name.first, last_name: name.last)
-    end
-
-    def rep_params
-      # params.require(:representative).permit(:full_name)
+      Representative.find_by(slug: params[:slug])
     end
 end
