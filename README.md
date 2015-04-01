@@ -132,7 +132,7 @@ Profile
     * Sort
     * Search
     * Feature specs
-* Rep profile
+* Rep profile/admin
     * Follow
     * Read full bio
     * Rate rep
@@ -140,16 +140,19 @@ Profile
     * Recent News
 * Stances
 * News Feed
+* Citizen profile/editing
 * Misc backend
     * Setup email for forgotten password
     * Sign in with facebook/twitter (omniauth)
     * Data:
-        * Sanitize Wikipedia bios; add more text for bio expansion
+        * Bio Errors: Evan Jenkins
         * Donor data
 * Misc frontend
     * View Profile; social media links - hyphen weirdness
     * Remove social media links if reps don't have an account
     * Style create account page
+    * Style forgot password form
+    * Style sign up form
     * Refine Stances/Quiz views
     * Build GUI for admins to edit Representative profiles
 * Test

@@ -1,5 +1,6 @@
 require "#{Rails.root}/lib/congress_legislators_data_compiler"
 require "#{Rails.root}/lib/image_url_parser"
+require_relative "../biography_sanitizer"
 
 namespace :import do
   task default_data: :environment do
@@ -46,7 +47,8 @@ namespace :reps do
   task load_bios: :environment do
     Representative.all.each do |rep|
       wiki = WikipediaService.new(rep.external_credentials["wikipedia_id"])
-      rep.update_attribute(:biography, wiki.first_paragraph)
+      bio = BiographySanitizer.new(wiki.first_paragraph).sanitize
+      rep.update_attribute(:biography, bio)
     end
   end
 
