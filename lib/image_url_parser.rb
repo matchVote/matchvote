@@ -1,3 +1,5 @@
+require_relative "null_object"
+
 class ImageURLParser
   def initialize(urls)
     @urls = urls
@@ -18,7 +20,8 @@ class ImageURLParser
     end
 
     def first_or_nickname_matches(rep, first_name)
-      rep.first_name.downcase == first_name || rep.nickname.downcase == first_name
+      rep.first_name.downcase == first_name || 
+        NullObject.nullify(rep.nickname).downcase == first_name
     end
 
     def last_name_matches(rep, last_name)

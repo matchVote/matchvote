@@ -1,4 +1,3 @@
-require_relative "null_object"
 require_relative "address_parser"
 require_relative "wikipedia_service"
 
@@ -17,8 +16,8 @@ class CongressLegislatorsDataCompiler
   end
 
   def generate_slug
-    slug = "#{rep_data["name"]["nickname"] || first_name_sanitized}-#{last_name_sanitized}"
-    slug.downcase.gsub(/[\s']/, "-").tr(".", "")
+    first_name = rep_data["name"]["nickname"] || first_name_sanitized
+    "#{first_name}-#{last_name_sanitized}".downcase.gsub(/[\s']/, "-").tr(".", "")
   end
 
   def first_name_sanitized
@@ -34,7 +33,7 @@ class CongressLegislatorsDataCompiler
       first_name: first_name_sanitized,
       last_name: last_name_sanitized,
       middle_name: rep_data["name"]["middle"], 
-      nickname: find_nickname,
+      nickname: rep_data["name"]["nickname"],
       suffix: rep_data["name"]["suffix"] }
   end
 
@@ -101,16 +100,6 @@ class CongressLegislatorsDataCompiler
 
     def sanitize(value)
       value.downcase unless value.nil?
-    end
-
-    def find_nickname
-      nickname = rep_data["name"]["nickname"]
-      if nickname.blank?
-        value = rep_data["id"]["wikipedia"]
-        NullObject.nullify(value).split.first
-      else
-        nickname
-      end
     end
 
     def find_wikipedia_search_string
