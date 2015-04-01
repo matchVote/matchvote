@@ -123,7 +123,8 @@ Profile
 
 #### Rep Data Sources:  
   * Congress Legistators - https://github.com/unitedstates/congress-legislators
-  * Donor Data - https://www.opensecrets.org/resources/create/apis.php
+  * Federal Donor Data - https://www.opensecrets.org/resources/create/apis.php
+  * State Donor Data - http://www.followthemoney.org/our-data/apis/
 
 ### TODO
 * Directory
