@@ -9,6 +9,7 @@ gem "devise", "~> 3.4.0"
 gem "haml-rails", "~> 0.9"
 gem "httparty", "~> 0.13.3"
 gem "jquery-rails", "~> 4.0.3"
+gem "passenger", "~> 5.0.6"
 gem "pg", "~> 0.18.1"
 gem "rails", "4.2.0"
 gem "rails_12factor", "~> 0.0.3", group: :production
