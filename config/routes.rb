@@ -3,4 +3,6 @@ Rails.application.routes.draw do
   root to: "directory#index"
   get "/representative/:slug", to: "representative#show", as: "rep"
   resources :stances
+
+  get "/directory/sort_reps", to: "directory#sort_reps"
 end

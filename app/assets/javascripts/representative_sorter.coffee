@@ -5,7 +5,14 @@ jQuery ->
 class RepresentativeSorter
   constructor: ->
     @$selectBox = $("#rep_sorter")
-    # @handleSort()
+    @handleSort()
 
   handleSort: ->
-    @$selectBox.change -> 
+    self = @
+    @$selectBox.change ->
+      $.get("/directory/sort_reps", { sort: @value }, self.showReps)
+
+  showReps: (html) ->
+    html = if html then html else "Not Implemented"
+    $("#reps_container").html(html)
+

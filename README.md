@@ -128,9 +128,9 @@ Profile
 
 ### TODO
 * Directory
-    * Filter
-    * Sort
+    * Sort: refactor/test RepSorter
     * Search
+    * Filter
     * Feature specs
 * Rep profile/admin
     * Follow
