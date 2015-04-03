@@ -1,6 +1,6 @@
 require "#{Rails.root}/lib/congress_legislators_data_compiler"
 require "#{Rails.root}/lib/image_url_parser"
-require_relative "../biography_sanitizer"
+require "#{Rails.root}/lib/biography_sanitizer"
 
 namespace :import do
   task default_data: :environment do
@@ -14,6 +14,7 @@ namespace :reps do
     Rake::Task["reps:load_profile_data"].invoke
     Rake::Task["reps:load_image_urls"].invoke
     Rake::Task["reps:load_bios"].invoke
+    Rake::Task["reps:set_name_recognition"].invoke
   end
 
   task load_profile_data: :environment do

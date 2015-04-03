@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150331031704) do
+ActiveRecord::Schema.define(version: 20150403022508) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -54,8 +54,8 @@ ActiveRecord::Schema.define(version: 20150331031704) do
   create_table "representatives", id: :uuid, default: "uuid_generate_v4()", force: :cascade do |t|
     t.text    "bioguide_id"
     t.text    "title"
-    t.text    "first_name",           null: false
-    t.text    "last_name",            null: false
+    t.text    "first_name",                     null: false
+    t.text    "last_name",                      null: false
     t.text    "middle_name"
     t.text    "suffix"
     t.text    "official_full_name"
@@ -77,6 +77,7 @@ ActiveRecord::Schema.define(version: 20150331031704) do
     t.text    "biography"
     t.hstore  "external_credentials"
     t.integer "user_id"
+    t.integer "name_recognition",     limit: 8
   end
 
   add_index "representatives", ["first_name", "last_name"], name: "index_representatives_on_first_name_and_last_name", unique: true, using: :btree
