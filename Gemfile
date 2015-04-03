@@ -9,14 +9,11 @@ gem "devise", "~> 3.4.0"
 gem "haml-rails", "~> 0.9"
 gem "httparty", "~> 0.13.3"
 gem "jquery-rails", "~> 4.0.3"
-gem "passenger", "~> 5.0.6"
 gem "pg", "~> 0.18.1"
 gem "rails", "4.2.0"
-gem "rails_12factor", "~> 0.0.3", group: :production
 gem "rails-html-sanitizer", "~> 1.0.1"
 gem "sass-rails", "~> 5.0.1"
 gem "sdoc", "~> 0.4.0", group: :doc
-gem "turbolinks", "~> 2.5.3"
 gem "uglifier", "~> 2.7.1"
 
 group :development, :test do
@@ -24,6 +21,7 @@ group :development, :test do
   gem "faker", "~> 1.4.3"
   gem "spring", "~> 1.3.3"
   gem "spring-commands-rspec", "~> 1.0.4"
+  gem "thin", "~> 1.6.3"
   gem "web-console", "~> 2.1.2"
 end
 
@@ -33,5 +31,10 @@ group :test do
   gem "factory_girl_rails", "~> 4.5.0"
   gem "rspec-rails", "~> 3.2.1"
   gem "webmock", "~> 1.21.0"
+end
+
+group :production do
+  gem "passenger", "~> 5.0.6"
+  gem "rails_12factor", "~> 0.0.3"
 end
 
