@@ -128,7 +128,12 @@ Profile
 
 ### TODO
 * Directory
-    * Sort: refactor/test RepSorter
+    * Sort: 
+        * NameRecognition (Facebook counts issue)
+        * Most Similar/Least similar
+        * Approval Rating
+        * Seniority
+        * State
     * Search
     * Filter
     * Feature specs

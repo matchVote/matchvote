@@ -10,30 +10,16 @@ class DirectoryPresenter
      ["Sort by State", "state"]]
   end
 
-  def initialize(sort_reps_by: :default)
-    # @reps = RepSorter.send(sort_reps_by)
-    @reps = present(send(sort_reps_by))
+  def initialize(sort_reps_by: :popularity)
+    @reps = present(RepSorter.send(sort_reps_by))
   end
 
   def all_reps
     @reps
   end
 
-  private
-    def present(reps)
-      reps.map { |rep| RepresentativePresenter.new(rep) }
-    end
-
-    def default
-      Representative.all
-    end
-
-    def alphabetically
-      Representative.order("last_name")
-    end
-
-    def method_missing(name, *args, &block)
-      []
-    end
+  def present(reps)
+    reps.map { |rep| RepresentativePresenter.new(rep) }
+  end
 end
 
