@@ -131,7 +131,6 @@ Profile
         * NameRecognition (Facebook counts issue)
         * Most Similar/Least similar
         * Approval Rating
-        * Seniority
         * State
     * Search
     * Filter
@@ -149,7 +148,7 @@ Profile
     * Setup email for forgotten password
     * Sign in with facebook/twitter (omniauth)
     * Data:
-        * Bio Errors: Evan Jenkins
+        * Bio Errors: Evan Jenkins, French Hill
         * Donor data
 * Misc frontend
     * Remove social media links if reps don't have an account

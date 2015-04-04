@@ -20,6 +20,6 @@ class RepSorter
   end
 
   def self.seniority
-    Representative.order(:seniority_date)
+    Representative.order(:seniority_date, :slug)
   end
 end
