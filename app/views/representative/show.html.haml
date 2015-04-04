@@ -85,15 +85,12 @@
         = number
         %br
       %br
-      =link_to @rep.facebook_url, target: "_blank" do
-        %button.btn.btn-default.btn-sm
-          Facebook
-      =link_to @rep.twitter_url, target: "_blank" do
-        %button.btn.btn-default.btn-sm
-          Twitter
-      =link_to @rep.youtube_url, target: "_blank" do
-        %button.btn.btn-default.btn-sm
-          YouTube
+      = link_to "Facebook", @rep.facebook_url, target: "_blank",
+        class: "btn btn-default btn-sm"
+      = link_to "Twitter", @rep.twitter_url, target: "_blank",
+        class: "btn btn-default btn-sm"
+      = link_to "YouTube", @rep.youtube_url, target: "_blank",
+        class: "btn btn-default btn-sm"
 
     .well.widget
       %h3 Top Donors

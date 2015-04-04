@@ -9,10 +9,8 @@
     .row
       = "#{Random.rand(100)}% match"
     .row.directory_block_btns
-      = link_to rep_path(rep.slug) do
-        %button.btn.btn-sm.btn-default View Profile
-      = link_to rep_path(rep.slug) do
-        %button.btn.btn-sm.btn-default Follow
+      = link_to "View Profile", rep_path(rep.slug), class: "btn btn-sm btn-default"
+      = link_to "Follow", rep_path(rep.slug), class: "btn btn-sm btn-default"
     .row
       - if rep.verified == true
         = image_tag "http://data.matchvote.com/images/bluecheck.png",
