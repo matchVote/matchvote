@@ -37,7 +37,10 @@ describe RepSorter do
   end
 
   describe ".seniority" do
-    pending "not implemented"
+    it "returns all reps sorted by seniority date" do
+      expect(Representative).to receive(:order).with(:seniority_date)
+      subject.seniority
+    end
   end
 
   describe ".age" do

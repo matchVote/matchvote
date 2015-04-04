@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150403022508) do
+ActiveRecord::Schema.define(version: 20150404200129) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -73,14 +73,15 @@ ActiveRecord::Schema.define(version: 20150403022508) do
     t.text    "status"
     t.boolean "verified"
     t.text    "profile_image_url"
-    t.text    "slug"
+    t.text    "slug",                           null: false
     t.text    "biography"
     t.hstore  "external_credentials"
     t.integer "user_id"
     t.integer "name_recognition",     limit: 8
+    t.text    "seniority_date"
   end
 
-  add_index "representatives", ["first_name", "last_name"], name: "index_representatives_on_first_name_and_last_name", unique: true, using: :btree
+  add_index "representatives", ["first_name", "last_name"], name: "index_representatives_on_first_name_and_last_name", using: :btree
   add_index "representatives", ["first_name"], name: "index_representatives_on_first_name", using: :btree
   add_index "representatives", ["last_name"], name: "index_representatives_on_last_name", using: :btree
   add_index "representatives", ["slug"], name: "index_representatives_on_slug", unique: true, using: :btree

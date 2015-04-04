@@ -18,4 +18,8 @@ class RepSorter
   def self.age
     Representative.order(birthday: :desc)
   end
+
+  def self.seniority
+    Representative.order(:seniority_date)
+  end
 end

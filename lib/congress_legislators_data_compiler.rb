@@ -49,6 +49,7 @@ class CongressLegislatorsDataCompiler
       status: :in_office,
       state_rank: latest_term["state_rank"],
       branch: :legislative,
+      seniority_date: find_first_term(rep_data["terms"])["start"],
       government_role: expand_type(latest_term["type"]) }
   end
 
@@ -96,6 +97,10 @@ class CongressLegislatorsDataCompiler
 
     def find_latest_term(terms)
       terms.sort { |a, b| b["start"] <=> a["start"] }.first
+    end
+
+    def find_first_term(terms)
+      terms.sort { |a, b| a["start"] <=> b["start"] }.first
     end
 
     def sanitize(value)
