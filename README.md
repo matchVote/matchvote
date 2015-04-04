@@ -152,7 +152,6 @@ Profile
         * Bio Errors: Evan Jenkins
         * Donor data
 * Misc frontend
-    * View Profile; social media links - hyphen weirdness
     * Remove social media links if reps don't have an account
     * Style create account page
     * Style forgot password form
