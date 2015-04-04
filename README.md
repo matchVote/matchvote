@@ -8,8 +8,7 @@ the politicians that agree and disagree with what's important to you.
     bundle exec rake import:default_data
 
 #### Deployment Process
-    git push heroku master
-    heroku run rake db:migrate
+    bundle exec rake deploy:heroku
     heroku run rake import:default_data        # Full data load
     heroku run rake reps:import_default_data   # Just representative data
     
