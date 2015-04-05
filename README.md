@@ -9,7 +9,7 @@ the politicians that agree and disagree with what's important to you.
 
 #### Deployment Process
     bundle exec rake deploy:heroku
-    heroku run rake import:default_data        # Full data load
+    heroku run rake import:all_default_data    # Full data load
     heroku run rake reps:import_default_data   # Just representative data
     
 
