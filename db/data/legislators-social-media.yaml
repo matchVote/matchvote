@@ -419,6 +419,7 @@
     twitter: SenJohnThune
     youtube: johnthune
     youtube_id: UCRu6lpRfxhkDGUrKDgQNZYQ
+    facebook: johnthune
 - id:
     bioguide: T000238
     thomas: '01155'
@@ -574,6 +575,7 @@
     twitter: RepAdrianSmith
     youtube: RepAdrianSmith
     youtube_id: UCIgn2z-hwxx_aeggnyhv54Q
+    facebook: AdrianSmithNE
 - id:
     bioguide: S001165
     thomas: '01818'
@@ -662,6 +664,7 @@
     twitter: SenStabenow
     youtube: senatorstabenow
     youtube_id: UCFoDKCvxSwCUfDv-4Eg4K5A
+    facebook: stabenow
 - id:
     bioguide: S000583
     thomas: '01075'
@@ -1211,6 +1214,8 @@
     twitter: RepDavidEPrice
     youtube: RepDavidPrice
     youtube_id: UCtX7bSXBLF9ge-Q955n5Vqw
+    facebook: pages/David-Price/8338225975
+    facebook_id: 8338225975
 - id:
     bioguide: P000449
     thomas: '00924'
@@ -1299,6 +1304,7 @@
     twitter: RepKristiNoem
     youtube: RepKristiNoem
     youtube_id: UCZPzuVONjRwo5TsrKzbYRVA
+    facebook: kristiforcongress
 - id:
     bioguide: N000182
     thomas: '01758'
@@ -1317,6 +1323,8 @@
     twitter: Rep_DevinNunes
     youtube: RepDevinNunes
     youtube_id: UCtbArL6CmOfFqgmpuRjLp3w
+    facebook: pages/Devin-Nunes/376470350795
+    facebook_id: 376470350795
 - id:
     bioguide: N000179
     thomas: '01602'
@@ -1604,6 +1612,7 @@
     youtube_id: UCb8jq3TvQ3AzKsexhWfFLoA
     instagram: senpattymurray
     instagram_id: 426137845
+    facebook: pattymurray
 - id:
     bioguide: M000934
     thomas: '01507'
@@ -2026,6 +2035,7 @@
     twitter: RepPeteKing
     youtube: RepPeterKing
     youtube_id: UCbyQC19DsAq01oDBfZn_diw
+    facebook: reppeteking
 - id:
     bioguide: K000188
     thomas: '01498'
@@ -2324,6 +2334,7 @@
     youtube_id: UCcoKhxad156flzPYJ8JMFOA
     instagram: maziehirono
     instagram_id: 304094084
+    facebook: mazie.hirono
 - id:
     bioguide: H001041
     thomas: '01863'
@@ -2396,6 +2407,7 @@
     twitter: SenOrrinHatch
     youtube: SenatorOrrinHatch
     youtube_id: UCQUPyPV_SR435OsPiFNIWPQ
+    facebook: OrrinHatch
 - id:
     bioguide: H000324
     thomas: '00511'
@@ -3362,6 +3374,7 @@
     twitter: CantwellPress
     youtube: SenatorCantwell
     youtube_id: UCN52UDqKgvHRk39ncySrIMw
+    facebook: senatorcantwell
 - id:
     bioguide: C000059
     thomas: '00165'
@@ -3574,6 +3587,7 @@
     twitter: SenSherrodBrown
     youtube: SherrodBrownOhio
     youtube_id: UCgy8jfERh-t_ixkKKoCmglQ
+    facebook: sherrod
 - id:
     bioguide: B000755
     thomas: '01468'
@@ -3630,6 +3644,7 @@
     twitter: BlumenauerMedia
     youtube: RepBlumenauer
     youtube_id: UCuziVoKuGn7feNA5VrpxsBQ
+    facebook: blumenauer
 - id:
     bioguide: B000490
     thomas: '00091'
@@ -3759,6 +3774,8 @@
     twitter: SenThadCochran
     youtube: sencochran
     youtube_id: UCTnKP_ye7nI5DEn_zreaa3g
+    facebook: pages/Thad-Cochran/112579798754326
+    facebook_id: 112579798754326
 - id:
     bioguide: K000383
     govtrack: 412545
@@ -4534,6 +4551,7 @@
   social:
     youtube: RepBillCassidy
     youtube_id: UCUhHeN54q6CtSpOO1AlYHTA
+    facebook: billcassidy
 - id:
     bioguide: F000372
     thomas: '00414'
@@ -4551,6 +4569,7 @@
   social:
     youtube: SenatorFranken
     youtube_id: UCMFNp5ybWmz6IlSXmPacTOw
+    facebook: Sen.Franken
 - id:
     bioguide: G000558
     thomas: '01922'
@@ -4559,6 +4578,8 @@
     youtube: BrettGuthrie
     twitter: RepGuthrie
     youtube_id: UCdJhDw-YbdH0RHfWK0sIfiw
+    facebook: pages/Brett-Guthrie/21836146886
+    facebook_id: 21836146886
 - id:
     bioguide: L000578
     thomas: '02100'
@@ -4567,6 +4588,7 @@
     twitter: RepLaMalfa
     youtube: RepLaMalfa
     youtube_id: UCUzz1XDn862fxirervSB2Yw
+    facebook: RepLaMalfa
 - id:
     bioguide: C001066
     thomas: '01839'
@@ -4584,6 +4606,7 @@
   social:
     youtube: senatorklobuchar
     youtube_id: UCvdeJsDsV51tFb_hVqvtYGA
+    facebook: amyklobuchar
 - id:
     bioguide: I000055
     thomas: '01608'
@@ -4592,6 +4615,7 @@
     twitter: SenatorIsakson
     youtube: SenatorIsakson
     youtube_id: UCO80zDwuLZHtGr-KOfl_XCQ
+    facebook: isakson
 - id:
     bioguide: C001097
     thomas: '02107'
@@ -4659,6 +4683,7 @@
     govtrack: 412212
   social:
     twitter: RepSarbanes
+    facebook: JSarbanes
 - id:
     bioguide: B001285
     govtrack: 412516
@@ -4691,6 +4716,7 @@
   social:
     youtube: KirstenEGillibrand
     youtube_id: UCVEloQogVsmnkd5vxJInmYg
+    facebook: KirstenGillibrand
 - id:
     bioguide: R000584
     govtrack: 412322
@@ -4757,6 +4783,7 @@
     twitter: SenBookerOfc
     youtube: SenCoryBooker
     youtube_id: UC6FlymqNS1VettnVZa7goPA
+    facebook: corybooker
 - id:
     bioguide: C001101
     govtrack: 412600
@@ -4792,6 +4819,7 @@
     thomas: '01914'
   social:
     youtube_id: UCWjNmgE01hGoME_jkj6VpRQ
+    facebook: alangrayson
 - id:
     bioguide: N000189
     govtrack: 412660
@@ -4839,18 +4867,21 @@
     thomas: '02235'
   social:
     twitter: RepCurbelo
+    facebook: carloslcurbelo
 - id:
     bioguide: M001193
     govtrack: 412643
     thomas: '02258'
   social:
     twitter: RepTomMacArthur
+    facebook: tmac4congress
 - id:
     bioguide: B001295
     govtrack: 412629
     thomas: '02243'
   social:
     twitter: RepBost
+    facebook: MikeBostForCongress
 - id:
     bioguide: G000570
     govtrack: 412447
@@ -4864,30 +4895,35 @@
     thomas: '02201'
   social:
     twitter: RepAdams
+    facebook: CongresswomanAdams
 - id:
     bioguide: C001105
     govtrack: 412658
     thomas: '02273'
   social:
     twitter: RepComstock
+    facebook: BarbaraComstockVA
 - id:
     bioguide: A000373
     govtrack: 412642
     thomas: '02257'
   social:
     twitter: RepBradAshford
+    facebook: AshfordForOmaha
 - id:
     bioguide: P000611
     govtrack: 412633
     thomas: '02247'
   social:
     twitter: RepPoliquin
+    facebook: BrucePoliquin
 - id:
     bioguide: M001194
     govtrack: 412634
     thomas: '02248'
   social:
     twitter: RepMoolenaar
+    facebook: JohnMoolenaarforCongress
 - id:
     bioguide: S001196
     govtrack: 412648
@@ -4909,6 +4945,7 @@
     thomas: '02256'
   social:
     twitter: RepDavidRouzer
+    facebook: electdavidrouzer
 - id:
     bioguide: P000609
     govtrack: 412608
@@ -4917,12 +4954,14 @@
     twitter: USRepGaryPalmer
     instagram: usrepgarypalmer
     instagram_id: 1551536636
+    facebook: PalmerforAlabama
 - id:
     bioguide: M001197
     govtrack: 412611
     thomas: '02225'
   social:
     twitter: RepMcSally
+    facebook: MarthaMcSally
 - id:
     bioguide: E000294
     govtrack: 412639
@@ -4931,18 +4970,21 @@
     twitter: RepTomEmmer
     instagram: reptomemmer
     instagram_id: 1565640999
+    facebook: TomEmmerGOP
 - id:
     bioguide: R000604
     govtrack: 412650
     thomas: '02265'
   social:
     twitter: USRepRussell
+    facebook: SteveRussellOK
 - id:
     bioguide: A000374
     govtrack: 412630
     thomas: '02244'
   social:
     twitter: RepAbraham
+    facebook: ralphabrahamforcongress
 - id:
     bioguide: Y000066
     govtrack: 412628
@@ -4956,42 +4998,49 @@
     thomas: '02261'
   social:
     twitter: RepLeeZeldin
+    facebook: LeeMZeldin
 - id:
     bioguide: G000575
     govtrack: 412620
     thomas: '02234'
   social:
     twitter: RepGwenGraham
+    facebook: GwenForCongress
 - id:
     bioguide: K000386
     govtrack: 412649
     thomas: '02264'
   social:
     twitter: RepJohnKatko
+    facebook: JohnKatkoForCongress
 - id:
     bioguide: Z000018
     govtrack: 412640
     thomas: '02254'
   social:
     twitter: RepRyanZinke
+    facebook: ryanzinke
 - id:
     bioguide: W000821
     govtrack: 412610
     thomas: '02224'
   social:
     twitter: RepWesterman
+    facebook: WestermanAR
 - id:
     bioguide: H001072
     govtrack: 412609
     thomas: '02223'
   social:
     twitter: RepFrenchHill
+    facebook: electfrench
 - id:
     bioguide: B001291
     govtrack: 412655
     thomas: '02270'
   social:
     twitter: RepBrianBabin
+    facebook: BabinForCongress
 - id:
     bioguide: M001195
     govtrack: 412662
@@ -5021,18 +5070,21 @@
     thomas: '02241'
   social:
     twitter: RepRodBlum
+    facebook: congressmanrodblum
 - id:
     bioguide: B001293
     govtrack: 412635
     thomas: '02249'
   social:
     twitter: RepMikeBishop
+    facebook: ElectMikeBishop
 - id:
     bioguide: R000602
     govtrack: 412647
     thomas: '02262'
   social:
     twitter: RepKathleenRice
+    facebook: KathleenRiceForCongress
 - id:
     bioguide: C001102
     govtrack: 412604
@@ -5078,12 +5130,14 @@
     twitter: SenDanSullivan
     instagram: sen_dansullivan
     instagram_id: 1660873387
+    facebook: SenDanSullivan
 - id:
     bioguide: L000584
     govtrack: 412656
     thomas: '02271'
   social:
     twitter: repmialove
+    facebook: miablove
 - id:
     bioguide: A000372
     govtrack: 412625
@@ -5092,6 +5146,7 @@
     twitter: reprickallen
     instagram: reprickallen
     instagram_id: 1666787116
+    facebook: RickAllenGA
 - id:
     bioguide: R000605
     govtrack: 412669
@@ -5108,6 +5163,7 @@
     twitter: RepMimiWalters
     instagram: rep_mimiwalters
     instagram_id: 301820337
+    facebook: RepMimiWalters
 - id:
     bioguide: B001296
     govtrack: 412652
@@ -5174,18 +5230,22 @@
     thomas: '02230'
   social:
     twitter: RepTedLieu
+    facebook: tedlieu
 - id:
     bioguide: G000577
     govtrack: 412631
     thomas: '02245'
   social:
     twitter: RepGarretGraves
+    facebook: garretngraves
 - id:
     bioguide: D000623
     govtrack: 412613
     thomas: '02227'
   social:
     twitter: RepDeSaulnier
+    facebook: pages/Mark-DeSaulnier/213999292067099
+    facebook_id: 213999292067099
 - id:
     bioguide: T000473
     govtrack: 412626
@@ -5194,6 +5254,7 @@
     twitter: RepMarkTakai
     instagram: repmarktakai
     instagram_id: 1664061527
+    facebook: MarkTakaiForHawaii
 - id:
     bioguide: W000819
     govtrack: 412670
@@ -5221,3 +5282,32 @@
     bioguide: R000600
   social:
     facebook: aumua.amata
+- id:
+    bioguide: D000613
+  social:
+    facebook: doldforcongress
+- id:
+    bioguide: H001070
+  social:
+    facebook: cresenthardyforcongress
+- id:
+    bioguide: N000188
+  social:
+    facebook: DonaldNorcrossNJ
+- id:
+    bioguide: L000581
+  social:
+    facebook: brendalawrenceforcongress
+- id:
+    bioguide: B001290
+  social:
+    facebook: davebratforcongress
+- id:
+    bioguide: P000258
+  social:
+    facebook: pages/Collin-Peterson/6595227967
+    facebook_id: 6595227967
+- id:
+    bioguide: R000409
+  social:
+    facebook: danarohrabacher
