@@ -4990,13 +4990,14 @@
   social:
     twitter: RepAlexMooney
     facebook: MooneyforWV
-    facebook: 109601955749456
+    facebook_id: 109601955749456
 - id:
     bioguide: T000475
     govtrack: 412636
     thomas: '02250'
   social:
     twitter: repdavetrott
+    facebook: TrottForCongress
 - id:
     bioguide: B001297
     govtrack: 412619
@@ -5192,7 +5193,7 @@
     facebook: FriendsofDonBeyer
     facebook_id: 1411983362382190
 - id: 
-    biguide: M001196
+    bioguide: M001196
   social:
     facebook: SethMoultonForCongress
     facebook_id: 269499756522301
