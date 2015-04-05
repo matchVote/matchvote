@@ -803,7 +803,7 @@
     govtrack: 412491
   social:
     twitter: SenRubioPress
-    facebook: SenatorMarcoRubio
+    facebook: MarcoRubio
     youtube: SenatorMarcoRubio
     facebook_id: '178910518800987'
     youtube_id: UCh8t7sV_DBKz4A-RkL9feyg
@@ -1671,7 +1671,7 @@
     govtrack: 300072
   social:
     twitter: McConnellPress
-    facebook: mitchmcconnell
+    facebook: McConnellForSenate
     facebook_id: ~
 - id:
     bioguide: M000312
@@ -3602,7 +3602,7 @@
     govtrack: 300011
   social:
     twitter: SenatorBoxer
-    facebook: senatorboxer
+    facebook: barbaraboxer
     youtube: SenatorBoxer
     facebook_id: '116513005087055'
     youtube_id: UCWDQBlCBh67UgfNvSXDvbmw
