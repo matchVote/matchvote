@@ -12,7 +12,7 @@ class RepSorter
   end
 
   def self.popularity
-    Representative.order(:name_recognition)
+    Representative.order(name_recognition: :desc)
   end
 
   def self.age

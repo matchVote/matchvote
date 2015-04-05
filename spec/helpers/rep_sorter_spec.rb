@@ -19,7 +19,7 @@ describe RepSorter do
 
   describe ".popularity" do
     it "returns all reps ordered by name recognition" do
-      expect(Representative).to receive(:order).with(:name_recognition)
+      expect(Representative).to receive(:order).with(name_recognition: :desc)
       subject.popularity
     end
   end
