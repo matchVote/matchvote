@@ -3614,7 +3614,7 @@
     govtrack: 400036
   social:
     twitter: SpeakerBoehner
-    facebook: SpeakerJohnBoehner
+    facebook: johnboehner
     youtube: johnboehner
     youtube_id: UC-cxqz-2fBOekclLlaERLJQ
     facebook_id: '175082565865743'
@@ -5265,12 +5265,12 @@
   social:
     facebook: FriendsofDonBeyer
     facebook_id: 1411983362382190
-- id: 
+- id:
     bioguide: M001196
   social:
     facebook: SethMoultonForCongress
     facebook_id: 269499756522301
-- id: 
+- id:
     bioguide: G000576
   social:
     facebook: glenngrothman
