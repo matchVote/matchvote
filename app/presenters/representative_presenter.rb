@@ -37,6 +37,10 @@ class RepresentativePresenter < SimpleDelegator
     rep.religion.blank? ? "N/A" : rep.religion.split.map(&:capitalize).join(' ')
   end
 
+  def age
+    ((Date.current - Date.parse(rep.birthday)) / 365).to_i
+  end
+
   def facebook_url
     "https://facebook.com/#{rep.external_credentials["facebook_username"]}"
   end
@@ -49,3 +53,4 @@ class RepresentativePresenter < SimpleDelegator
     "https://youtube.com/#{rep.external_credentials["youtube_username"]}"
   end
 end
+
