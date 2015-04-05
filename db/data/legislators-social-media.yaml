@@ -229,7 +229,7 @@
     govtrack: 400432
   social:
     twitter: SenatorWicker
-    facebook: SenatorWicker
+    facebook: wicker
     youtube: SenatorWicker
     facebook_id: ~
     youtube_id: UCIlKHiTjSkcQP_knBcXHWSg
@@ -751,7 +751,7 @@
     govtrack: 400365
   social:
     twitter: JimPressOffice
-    facebook: RepSensenbrenner
+    facebook: SensenbrennerforCongress
     youtube: RepSensenbrenner
     facebook_id: ~
     youtube_id: UCUNfNsc2CVsqivJ2wThQF6A
@@ -952,9 +952,9 @@
     govtrack: 400341
   social:
     twitter: RepMikeRogersAL
-    facebook: '171770326187035'
+    facebook: pages/Mike-J-Rogers/168209963203416
     youtube: MikeRogersAL03
-    facebook_id: '171770326187035'
+    facebook_id: 168209963203416
     youtube_id: UCH-WUWuY0_dlKwJDSqKTJsg
     instagram: repmikerogersal
     instagram_id: 259435765
@@ -964,9 +964,9 @@
     govtrack: 400351
   social:
     twitter: RepPaulRyan
-    facebook: reppaulryan
+    facebook: paulryanwi
     youtube: reppaulryan
-    facebook_id: '7123827676'
+    facebook_id: 155244824599302
     youtube_id: UC8nMpZAuz-gitzb2icE15Qw
 - id:
     bioguide: R000515
@@ -1108,9 +1108,9 @@
     govtrack: 412309
   social:
     twitter: CongBillPosey
-    facebook: bill.posey15
+    facebook: billposeycampaign # bill.posey15
     youtube: CongressmanPosey
-    facebook_id: '100000080395369'
+    facebook_id: 280117065340803
     youtube_id: UCoUwUkDpe1ZYd6tiaZfiMuA
 - id:
     bioguide: P000598
@@ -1148,7 +1148,7 @@
     govtrack: 412305
   social:
     twitter: RepGaryPeters
-    facebook: RepGaryPeters
+    facebook: PetersForMichigan # SenatorGaryPeters
     youtube: RepGaryPeters
     facebook_id: '88851604323'
     youtube_id: UC7LYNbnKSK2VZqQ98YROWHQ
@@ -1274,8 +1274,8 @@
     govtrack: 412302
   social:
     twitter: OlsonPressShop
-    facebook: '20718168936'
-    facebook_id: '20718168936'
+    facebook: PeteOlsonTX
+    facebook_id: 136123123091374
 - id:
     bioguide: N000186
     thomas: '02034'
@@ -1420,9 +1420,9 @@
     govtrack: 412468
   social:
     twitter: RepTomMarino
-    facebook: '144408762280226'
+    facebook: TomMarinoForCongress
     youtube: RepMarino
-    facebook_id: '144408762280226'
+    facebook_id: 354606837960207
     youtube_id: UCL8AvZKY5KuPk0T7G0jv7HA
     instagram: reptommarino
     instagram_id: 1395145806
@@ -1640,9 +1640,8 @@
     thomas: '00800'
     govtrack: 400273
   social:
-    facebook: JohnMica
+    facebook: MicaforCongress
     youtube: RepJohnMica
-    facebook_id: ~
     youtube_id: UCz0LX75a5nOW-JzZ0OYQLgQ
 - id:
     bioguide: M000639
@@ -1712,8 +1711,8 @@
     govtrack: 400251
   social:
     twitter: RepMaloney
-    facebook: RepCarolynMaloney
-    facebook_id: '397176447066236'
+    facebook: CarolynMaloney
+    facebook_id: 7835151610
 - id:
     bioguide: L000577
     thomas: '02080'
@@ -1731,9 +1730,9 @@
     thomas: '02033'
     govtrack: 412445
   social:
-    facebook: Rep.Billy.Long
+    facebook: BillyLongforCongress
     youtube: MOdistrict7
-    facebook_id: '139631049438354'
+    facebook_id: 225418785297
     twitter: USRepLong
     youtube_id: UCLQcbyxpHXXAsUJckscQY8g
 - id:
@@ -1742,7 +1741,7 @@
     govtrack: 412464
   social:
     twitter: RepLankford
-    facebook: RepLankford
+    facebook: SenatorLankford
     youtube: replankford
     facebook_id: '130873066975024'
     youtube_id: UCGoONKppCBdPUt8_yF15Waw
@@ -1888,9 +1887,8 @@
     govtrack: 400244
   social:
     twitter: RepLoBiondo
-    facebook: FrankLoBiondo
+    facebook: LoBiondoForCongress
     youtube: USRepFrankLoBiondo
-    facebook_id: ~
     youtube_id: UCXBUOE1MAEUMNIg67sivY9Q
 - id:
     bioguide: L000551
@@ -1920,9 +1918,9 @@
     govtrack: 400246
   social:
     twitter: NitaLowey
-    facebook: RepLowey
+    facebook: nitalowey
     youtube: nitalowey
-    facebook_id: '158290607551599'
+    facebook_id: 17272029685
     youtube_id: UCkmeBYqhbomcWNNWzQCqcbg
 - id:
     bioguide: L000397
@@ -2236,9 +2234,8 @@
     govtrack: 412429
   social:
     twitter: CongHuelskamp
-    facebook: congressmanhuelskamp
+    facebook: HuelskampforCongress
     youtube: congressmanhuelskamp
-    facebook_id: ~
     youtube_id: UCMMv3kTB9MRVHg8BfgKx6KQ
 - id:
     bioguide: H001056
@@ -2507,9 +2504,9 @@
     govtrack: 400653
   social:
     twitter: RepAlGreen
-    facebook: repalgreen
+    facebook: pages/Congressman-Al-Green/224027854297805
     youtube: RepAlGreen
-    facebook_id: '136237609724391'
+    facebook_id: 224027854297805
     youtube_id: UCFtgMZm1YUXaZ8OtOj-GDjA
 - id:
     bioguide: G000552
@@ -2683,7 +2680,7 @@
     govtrack: 400643
   social:
     twitter: VirginiaFoxx
-    facebook: RepVirginiaFoxx
+    facebook: virginiafoxx
     youtube: repvirginiafoxx
     facebook_id: ~
     youtube_id: UCggineJcxJn80TRXxdQbx6w
@@ -3020,9 +3017,9 @@
     govtrack: 412379
   social:
     twitter: RepJudyChu
-    facebook: RepJudyChu
+    facebook: Chu4Congress
     youtube: RepJudyChu
-    facebook_id: '41228315130'
+    facebook_id: 220821137969355
     youtube_id: UCfcbYOvdEXZNelM8T05nK-w
 - id:
     bioguide: C001078
@@ -3154,7 +3151,7 @@
     govtrack: 400618
   social:
     twitter: RepJimCosta
-    facebook: RepJimCosta
+    facebook: CostaForCongress
     youtube: RepJimCostaCA20
     youtube_id: UCVgXX23eJEai6GiBOKO6dvA
 - id:
@@ -3381,9 +3378,9 @@
     govtrack: 400057
   social:
     twitter: KenCalvert
-    facebook: '70063393423'
+    facebook: CalvertforCongress
     youtube: RepKenCalvert
-    facebook_id: '70063393423'
+    facebook_id: 9157920604
     youtube_id: UC5MEj7YOX_QdKoqD_HRxP3A
 - id:
     bioguide: B001277
@@ -3523,9 +3520,8 @@
     govtrack: 400029
   social:
     twitter: RepRobBishop
-    facebook: RepRobBishop
+    facebook: RobBishopForCongress
     youtube: CongressmanBishop
-    facebook_id: ~
     youtube_id: UCJC2BXNGQEUom7Tp7FKfxlQ
 - id:
     bioguide: B001248
@@ -3846,8 +3842,8 @@
     govtrack: 412568
   social:
     twitter: RepMullin
-    facebook: CongressmanMarkwayneMullin
-    facebook_id: '453637624684399'
+    facebook: mullinforcongress
+    facebook_id: 150763151677363
 - id:
     bioguide: K000379
     thomas: '02172'
@@ -4229,9 +4225,9 @@
     govtrack: 412513
   social:
     twitter: RepPaulCook
-    facebook: RepPaulCook
+    facebook: electpaulcook
     youtube: RepPaulCook
-    facebook_id: '464458413604093'
+    facebook_id: 84887192485
     youtube_id: UCqK--hf5cuvg7BR_oisyRiA
 - id:
     bioguide: C001096
@@ -4479,8 +4475,8 @@
     govtrack: 412523
   social:
     twitter: RepScottPeters
-    facebook: CongressmanScottPeters
-    facebook_id: '449337038470352'
+    facebook: scottpeterssandiego
+    facebook_id: 184609361596971
     youtube_id: UCQK77QJxW7Xr-S3zqeMd-0g
 - id:
     bioguide: R000598
