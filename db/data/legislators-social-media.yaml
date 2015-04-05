@@ -2072,7 +2072,7 @@
     govtrack: 412284
   social:
     twitter: RepLynnJenkins
-    facebook: replynnjenkins
+    facebook: evanjenkinswv
     youtube: RepLynnJenkins
     facebook_id: '6974973662'
     youtube_id: UCBW06VosGJtZ_wCyGKET5KQ
@@ -4795,12 +4795,16 @@
     thomas: '02275'
   social:
     twitter: RepNewhouse
+    facebook: RepNewhouse
+    facebook_id: 315798208620912
 - id:
     bioguide: J000297
     govtrack: 412663
     thomas: '02278'
   social:
     twitter: RepEvanJenkins
+    facebook: evanjenkinswv
+    facebook_id: 392689864168429
     instagram: RepEvanJenkins
 - id:
     bioguide: R000601
@@ -4808,6 +4812,8 @@
     thomas: '02268'
   social:
     twitter: RepRatcliffe
+    facebook: RatcliffeForCongress
+    facebook_id: 608511902518687
     instagram: rep_ratcliffe
     instagram_id: 1679501092
 - id:
@@ -4983,6 +4989,8 @@
     thomas: '02277'
   social:
     twitter: RepAlexMooney
+    facebook: MooneyforWV
+    facebook: 109601955749456
 - id:
     bioguide: T000475
     govtrack: 412636
@@ -4995,6 +5003,8 @@
     thomas: '02233'
   social:
     twitter: RepKenBuck
+    facebook: buckforcolorado
+    facebook_id: 74184744386
 - id:
     bioguide: B001294
     govtrack: 412627
@@ -5037,6 +5047,8 @@
     thomas: '02289'
   social:
     twitter: SenSasse
+    facebook: sassefornebraska
+    facebook_id: 207425149422656
     instagram: senatorsasse
     instagram_id: 1636974433
 - id:
@@ -5073,6 +5085,8 @@
     thomas: '02288'
   social:
     twitter: SenatorRounds
+    facebook: mikerounds
+    facebook_id: 370185306396534
 - id:
     bioguide: W000820
     govtrack: 412618
@@ -5087,6 +5101,8 @@
     thomas: '02267'
   social:
     twitter: RepBrendanBoyle
+    facebook: brendan.boyle.7165
+    facebook_id: 516725565030981
 - id:
     bioguide: H001071
     govtrack: 412623
@@ -5111,6 +5127,8 @@
     thomas: '02286'
   social:
     twitter: sendavidperdue
+    facebook: perduesenate
+    facebook_id: 159597424207730
     instagram: sendavidperdue
     instagram_id: 1650058430
 - id:
@@ -5119,6 +5137,8 @@
     thomas: '02274'
   social:
     twitter: staceyplaskett
+    facebook: pages/Plaskett-for-Congress/362717827142514
+    facebook_id: 362717827142514
 - id:
     bioguide: W000822
     govtrack: 412644
@@ -5162,5 +5182,17 @@
     govtrack: 412670
     thomas: '02255'
   social:
+    facebook: Walker4NC
+    facebook_id: 448293988592522
     instagram: repmarkwalker
     instagram_id: 1638422078
+- id:
+    bioguide: B001292
+  social:
+    facebook: FriendsofDonBeyer
+    facebook_id: 1411983362382190
+- id: 
+    biguide: M001196
+  social:
+    facebook: SethMoultonForCongress
+    facebook_id: 269499756522301
