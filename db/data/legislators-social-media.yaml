@@ -222,6 +222,7 @@
     youtube_id: UCsd3UEaoLoqX60P88BdpGGw
     instagram: wydenpress
     instagram_id: 9443881
+    facebook: wyden
 - id:
     bioguide: W000437
     thomas: '01226'
@@ -1344,6 +1345,7 @@
     twitter: SenBillNelson
     youtube: senbillnelson
     youtube_id: UC1Iir7_h98mI9-hHzrDJWpw
+    facebook: billnelson
 - id:
     bioguide: N000015
     thomas: '00854'
@@ -4524,6 +4526,7 @@
   social:
     youtube: SenatorVitter
     youtube_id: UCUZnGspUWNGGbK3FTdrciLA
+    facebook: DavidVitter
 - id:
     bioguide: C001075
     thomas: '01925'
@@ -4822,12 +4825,14 @@
     thomas: '02238'
   social:
     twitter: RepLoudermilk
+    facebook: draftLoudermilkUShouse
 - id:
     bioguide: C001103
     govtrack: 412622
     thomas: '02236'
   social:
     twitter: RepBuddyCarter
+    facebook: BuddyCarterforCongress
 - id:
     bioguide: C001107
     govtrack: 412621
@@ -4852,6 +4857,7 @@
     thomas: '02038'
   social:
     twitter: RepFrankGuinta
+    facebook: FrankGuinta
 - id:
     bioguide: A000370
     govtrack: 412607
@@ -4888,6 +4894,7 @@
     thomas: '02263'
   social:
     twitter: RepStefanik
+    facebook: EliseforCongress
 - id:
     bioguide: C001106
     govtrack: 412651
@@ -4895,6 +4902,7 @@
   social:
     twitter: RepRyanCostello
     instagram: RepRyanCostello
+    facebook: CostelloForCongress
 - id:
     bioguide: R000603
     govtrack: 412641
@@ -4941,6 +4949,7 @@
     thomas: '02242'
   social:
     twitter: RepDavidYoung
+    facebook: YoungForIowa
 - id:
     bioguide: Z000017
     govtrack: 412646
@@ -5030,18 +5039,21 @@
     thomas: '02200'
   social:
     twitter: RepCurtClawson
+    facebook: ClawsonTheOutsider
 - id:
     bioguide: D000624
     govtrack: 412637
     thomas: '02251'
   social:
     twitter: RepDebDingell
+    facebook: debbie.dingell
 - id:
     bioguide: T000474
     govtrack: 412617
     thomas: '02231'
   social:
     twitter: NormaJTorres
+    facebook: RepNormaTorres
 - id:
     bioguide: S001197
     govtrack: 412671
@@ -5110,6 +5122,7 @@
     thomas: '02237'
   social:
     twitter: congressmanhice
+    facebook: jodyhice
 - id:
     bioguide: A000371
     govtrack: 412615
@@ -5122,6 +5135,7 @@
     thomas: '02226'
   social:
     twitter: RepRubenGallego
+    facebook: GallegoforArizona
 - id:
     bioguide: P000612
     govtrack: 412666
@@ -5146,12 +5160,14 @@
     thomas: '02259'
   social:
     twitter: RepBWColeman
+    facebook: bwcforcongress
 - id:
     bioguide: H001073
     govtrack: 412654
     thomas: '02269'
   social:
     twitter: hurdonthehill
+    facebook: HurdForCongress
 - id:
     bioguide: L000582
     govtrack: 412616
@@ -5197,3 +5213,11 @@
   social:
     facebook: SethMoultonForCongress
     facebook_id: 269499756522301
+- id: 
+    bioguide: G000576
+  social:
+    facebook: glenngrothman
+- id:
+    bioguide: R000600
+  social:
+    facebook: aumua.amata
