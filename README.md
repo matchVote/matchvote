@@ -5,7 +5,7 @@ the politicians that agree and disagree with what's important to you.
 
 #### Development Setup  
     bin/setup
-    bundle exec rake import:default_data
+    bundle exec rake import:all_default_data
 
 #### Deployment Process
     bundle exec rake deploy:heroku

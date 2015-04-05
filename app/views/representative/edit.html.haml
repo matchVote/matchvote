@@ -1,0 +1,117 @@
+.row
+  .col-md-8
+    .profile_breadcrumbs
+      = link_to "Directory", root_path
+      >
+      = link_to "Federal", "/?=Federal"
+      >
+      = link_to @rep.branch, "#"
+      >
+      = link_to @rep.government_role, "#"
+      >
+      = link_to @rep.full_name, "#"
+
+    .whitecard
+      = image_tag @rep.profile_image_url,
+        class: "profile_pic"
+      .profile_name
+        %button.btn.btn-default.btn-sm.pull-right
+          Follow
+        %h2= @rep.full_name
+        = @rep.title
+        %br
+        = @rep.party.capitalize
+        | #{@rep.state}
+      .profile_bio
+        %p= truncate(@rep.biography, length: 550)
+        %button.btn.btn-sm.btn-default.bio_btn
+          Read Full Bio
+        %button.btn.btn-sm.btn-primary.bio_btn
+          Edit Bio
+
+    .whitecard= render "issue_comparison"
+
+    .whitecard
+      %h2 Recent News
+
+    .whitecard
+      %h2 #{@rep.nickname_or_first_name}'s Demographics
+      %br
+      %table.table.table-hover
+        %tr
+          %td.col-md-3 Gender
+          %td= @rep.gender
+          %td= input{:type=>"text"}
+        %tr
+          %td.col-md-3 Age
+          %td= @rep.age
+          %td= %input{:type=>"text"}
+        %tr
+          %td Birthday
+          %td= @rep.birthday_formatted
+          %td= %input{:type=>"text"}
+        %tr
+          %td Religion
+          %td= @rep.religion
+          %td= %input{:type=>"text"}
+        %tr
+          %td Orientation
+          %td= @rep.orientation
+          %td= %input{:type=>"text"}
+
+  .col-md-4
+    .well.first_widget
+      %h3
+        = "#{Random.rand(100)}%"
+        Approval Rating
+      %div
+        %i Based on #{@rep.citizen_ratings_total} citizen ratings
+      %br
+      %button.btn.btn-danger
+        Rate #{@rep.nickname_or_first_name}
+      %button.btn.btn-default
+        Read Comments
+
+    .well.widget
+      %h3
+        Connect with #{@rep.nickname_or_first_name}
+      %strong #{@rep.government_role} #{@rep.first_name} #{@rep.last_name}
+      %br
+      - @rep.contact.postal_addresses.each do |address|
+        = address.full_street
+        %br
+        = address.city_state_zip
+      %br
+      - @rep.contact.emails.each do |email|
+        = mail_to email, target: "_blank" do
+          %span= email
+        %br
+      %br
+      - @rep.contact.phone_numbers.each do |number|
+        %span.glyphicon.glyphicon-phone-alt
+        = number
+        %br
+      %br
+      = link_to "Facebook", @rep.facebook_url, target: "_blank",
+        class: "btn btn-default btn-sm"
+      = link_to "Twitter", @rep.twitter_url, target: "_blank",
+        class: "btn btn-default btn-sm"
+      = link_to "YouTube", @rep.youtube_url, target: "_blank",
+        class: "btn btn-default btn-sm"
+
+    .well.widget
+      %h3 Top Donors
+      %br
+      %table.table.table-striped
+        %tr
+          %td.col-md-6 Donor 1
+          %td.col-md-6 $1,500,000
+        %tr
+          %td.col-md-6 Donor 2
+          %td.col-md-6 $1,000,000
+        %tr
+          %td.col-md-6 Donor 3
+          %td.col-md-6 $750,000
+
+    .well.widget
+      %h3 Interest Group Ratings

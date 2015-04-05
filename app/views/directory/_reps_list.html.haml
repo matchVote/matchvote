@@ -1,18 +1,17 @@
 - reps.each do |rep|
   .directory_block
-    .row
+    %div
       = link_to rep_path(rep.slug) do
         = image_tag rep.profile_image_url,
           class: "directory_pic"
-    .row
+    %div
       %h4= rep.full_name
-    .row
+    %div
       = "#{Random.rand(100)}% match"
-    .row.directory_block_btns
+    .directory_block_btns
       = link_to "View Profile", rep_path(rep.slug), class: "btn btn-sm btn-default"
       = link_to "Follow", rep_path(rep.slug), class: "btn btn-sm btn-default"
-    .row
+    %div
       - if rep.verified == true
         = image_tag "http://data.matchvote.com/images/bluecheck.png",
           class: "verified", title: "Verified Account"
-

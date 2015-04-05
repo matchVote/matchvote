@@ -18,7 +18,7 @@
     .col-md-4.filter_search
       %input.search_field{type: "text", required: "true",
         value: "Search by name"}
-      %button.btn.btn-primary.pull-right.search_btn
+      %button.pull-right.search_btn{title: "Search by name"}
         %span.glyphicon.glyphicon-search
       %br
       %br
@@ -28,4 +28,3 @@
           id: "rep_sorter"
 
 .row#reps_container= render "reps_list", reps: @reps
-
