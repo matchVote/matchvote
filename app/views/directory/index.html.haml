@@ -16,9 +16,9 @@
           Add Filter
     .col-md-1
     .col-md-4.filter_search
-      %input.search_field{type: "text", required: "true",
-        value: "Search by name"}
-      %button.pull-right.search_btn{title: "Search by name"}
+      = text_field_tag :directory_search, nil, id: "directory_search_field", 
+        class: "search_field", placeholder: "Search by name", required: "true"
+      %button#directory_search_button.pull-right.search_btn{title: "Search by name"}
         %span.glyphicon.glyphicon-search
       %br
       %br
@@ -28,3 +28,4 @@
           id: "rep_sorter"
 
 .row#reps_container= render "reps_list", reps: @reps
+

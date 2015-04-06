@@ -5,4 +5,5 @@ Rails.application.routes.draw do
   resources :stances
 
   get "/directory/sort_reps", to: "directory#sort_reps"
+  get "/directory/search", to: "directory#search"
 end

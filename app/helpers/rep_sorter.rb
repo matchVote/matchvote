@@ -23,3 +23,4 @@ class RepSorter
     Representative.order(:seniority_date, :slug)
   end
 end
+

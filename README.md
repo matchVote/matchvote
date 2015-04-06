@@ -132,7 +132,7 @@ Profile
         * Most Similar/Least similar
         * Approval Rating
         * State
-    * Search
+    * Search: Int/Unit Test, refactor presenter
     * Filter
     * Feature specs
 * Rep profile/admin
