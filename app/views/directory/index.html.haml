@@ -18,7 +18,7 @@
     .col-md-4.filter_search
       = text_field_tag :directory_search, nil, id: "directory_search_field",
         class: "search_field", placeholder: "Search by name", required: "true"
-      %a.pull-right.search_btn{title: "Search by name"}
+      %a#directory_search_btn.pull-right.search_btn{title: "Search by name"}
         %span.glyphicon.glyphicon-search
       %br
       %br
