@@ -10,12 +10,12 @@ class DirectoryPresenter
      ["Sort by State", "state"]]
   end
 
-  def initialize(sort_reps_by: :popularity)
-    @reps = present(RepSorter.send(sort_reps_by))
+  def initialize(sort_by: :popularity)
+    @sort_by = sort_by
   end
 
-  def all_reps
-    @reps
+  def reps
+    present(RepSorter.send(@sort_by))
   end
 
   def present(reps)
