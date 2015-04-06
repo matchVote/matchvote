@@ -133,6 +133,7 @@ Profile
         * Approval Rating
         * State
     * Search: Int/Unit Test, refactor presenter
+      * Combine searching with sorting
     * Filter
     * Feature specs
 * Rep profile/admin
