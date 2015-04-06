@@ -15,7 +15,7 @@
       = image_tag @rep.profile_image_url,
         class: "profile_pic"
       .profile_name
-        %button.btn.btn-default.btn-sm.pull-right
+        %a.btn.btn-default.btn-sm.pull-right
           Follow
         %h2= @rep.full_name
         = @rep.title
@@ -24,7 +24,7 @@
         | #{@rep.state}
       .profile_bio
         %p= truncate(@rep.biography, length: 550)
-        %button.btn.btn-sm.btn-default.bio_btn
+        %a.btn.btn-sm.btn-default.bio_btn
           Read Full Bio
 
     .whitecard= render "issue_comparison"
@@ -60,9 +60,9 @@
       %div
         %i Based on #{@rep.citizen_ratings_total} citizen ratings
       %br
-      %button.btn.btn-danger
+      %a.btn.btn-danger
         Rate #{@rep.nickname_or_first_name}
-      %button.btn.btn-default
+      %a.btn.btn-default
         Read Comments
 
     .well.widget

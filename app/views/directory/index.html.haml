@@ -7,18 +7,18 @@
         elected officials meet your search criteria.
         Add more filters to refine your search.
       .well.well-sm.filter_well
-        %button.btn.btn-default
+        %a.btn.btn-default
           .glyphicon.glyphicon-remove
           Federal
 
-        %button.btn.btn-danger.pull-right
+        %a.btn.btn-danger.pull-right
           .glyphicon.glyphicon-plus
           Add Filter
     .col-md-1
     .col-md-4.filter_search
-      = text_field_tag :directory_search, nil, id: "directory_search_field", 
+      = text_field_tag :directory_search, nil, id: "directory_search_field",
         class: "search_field", placeholder: "Search by name", required: "true"
-      %button#directory_search_button.pull-right.search_btn{title: "Search by name"}
+      %a#directory_search_button.pull-right.search_btn{title: "Search by name"}
         %span.glyphicon.glyphicon-search
       %br
       %br
@@ -28,4 +28,3 @@
           id: "rep_sorter"
 
 .row#reps_container= render "reps_list", reps: @reps
-
