@@ -1,6 +1,7 @@
 jQuery ->
-  return unless $("#rep_sorter").length
-  new RepresentativeSorter()
+  return
+  # return unless $("#rep_sorter").length
+  # new RepresentativeSorter()
 
 class RepresentativeSorter
   constructor: ->

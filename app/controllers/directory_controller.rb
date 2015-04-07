@@ -11,7 +11,8 @@ class DirectoryController < ApplicationController
   end
 
   def search
-    reps = DirectoryPresenter.new.present(Representative.search(params[:search]))
+    parameters = { sort_by: params[:sort], search_name: params[:search] }
+    reps = DirectoryPresenter.new(parameters).reps
     render partial: "reps_list", locals: { reps: reps }
   end
 end

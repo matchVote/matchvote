@@ -1,11 +1,11 @@
 jQuery ->
-  button = $("#directory_search_button")
-  return unless button.length
-  new DirectorySearch(button)
+  return unless $("#directory_index").length
+  new DirectoryController()
 
-class DirectorySearch
-  constructor: (@$searchButton) ->
+class DirectoryController
+  constructor: () ->
     @$searchField = $("#directory_search_field")
+    @$searchButton = $("#directory_search_button")
     @$sortField = $("#rep_sorter")
     @bindEvents()
 
