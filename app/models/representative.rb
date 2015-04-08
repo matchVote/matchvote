@@ -5,7 +5,7 @@ class Representative < ActiveRecord::Base
 
   validates :first_name, :last_name, :slug, presence: true
 
-  def self.search(string)
+  def self.search_name(string)
     query_string = "first_name @@ :str or last_name @@ :str or nickname @@ :str "+ 
                    "or official_full_name @@ :str"
     where(query_string, str: string) if string.present?

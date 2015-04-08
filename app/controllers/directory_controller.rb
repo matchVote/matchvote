@@ -5,13 +5,9 @@ class DirectoryController < ApplicationController
     @filter_count = Representative.count
   end
 
-  def sort_reps
-    reps = DirectoryPresenter.new(sort_by: params[:sort]).reps
-    render partial: "reps_list", locals: { reps: reps }
-  end
-
-  def search
-    reps = DirectoryPresenter.new.present(Representative.search(params[:search]))
+  def filter
+    parameters = { sort_by: params[:sort], search_name: params[:search] }
+    reps = DirectoryPresenter.new(parameters).reps
     render partial: "reps_list", locals: { reps: reps }
   end
 end

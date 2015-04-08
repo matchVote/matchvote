@@ -4,6 +4,6 @@ Rails.application.routes.draw do
   get "/representative/:slug", to: "representative#show", as: "rep"
   resources :stances
 
-  get "/directory/sort_reps", to: "directory#sort_reps"
-  get "/directory/search", to: "directory#search"
+  get "/directory/filter", to: "directory#filter"
 end
+

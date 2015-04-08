@@ -5,8 +5,11 @@ feature "Viewing Representative profile" do
   include ActionView::Helpers
 
   given(:user) { create(:user) }
-  given(:rep) { create(:representative) }
   given(:address) { rep.contact.postal_addresses.first }
+  given(:rep) do
+    create(:representative, first_name: "Bob", last_name: "Buffet", nickname: "Borky")
+  end
+
   subject { page }
 
   background do

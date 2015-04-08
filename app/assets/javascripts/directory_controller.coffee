@@ -1,28 +1,32 @@
 jQuery ->
-  button = $("#directory_search_button")
-  return unless button.length
-  new DirectorySearch(button)
+  return unless $("#directory_index").length
+  new DirectoryController()
 
-class DirectorySearch
-  constructor: (@$searchButton) ->
+class DirectoryController
+  constructor: () ->
     @$searchField = $("#directory_search_field")
+    @$searchButton = $("#directory_search_button")
     @$sortField = $("#rep_sorter")
     @bindEvents()
 
   bindEvents: ->
     @clickToSearch()
     @pressEnterToSearch()
+    @selectSort()
 
   clickToSearch: ->
-    @$searchButton.click => @performSearch()
+    @$searchButton.click => @filterReps()
 
   pressEnterToSearch: ->
     $(document).on "keypress", (event) =>
       if @$searchField.is(":focus") and event.which == 13
-        @performSearch()
+        @filterReps()
 
-  performSearch: ->
-    $.get "/directory/search",
+  selectSort: ->
+    @$sortField.change => @filterReps()
+
+  filterReps: ->
+    $.get "/directory/filter",
       search: @$searchField.val(),
       sort: @$sortField.val(),
       @showReps
