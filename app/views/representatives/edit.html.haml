@@ -29,7 +29,7 @@
         %a.btn.btn-sm.btn-primary.bio_btn
           Edit Bio
 
-    .whitecard= render "issue_comparison"
+    .whitecard= render "issue_comparison", issues: @issues
 
     .whitecard
       %h2 Recent News
@@ -41,23 +41,23 @@
         %tr
           %td.col-md-3 Gender
           %td= @rep.gender
-          %td= input{:type=>"text"}
+          -# %td= input{:type=>"text"}
         %tr
           %td.col-md-3 Age
           %td= @rep.age
-          %td= %input{:type=>"text"}
+          -# %td= %input{:type=>"text"}
         %tr
           %td Birthday
           %td= @rep.birthday_formatted
-          %td= %input{:type=>"text"}
+          -# %td= %input{:type=>"text"}
         %tr
           %td Religion
           %td= @rep.religion
-          %td= %input{:type=>"text"}
+          -# %td= %input{:type=>"text"}
         %tr
           %td Orientation
           %td= @rep.orientation
-          %td= %input{:type=>"text"}
+          -# %td= %input{:type=>"text"}
 
   .col-md-4
     .well.first_widget

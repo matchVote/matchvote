@@ -15,6 +15,9 @@
       = image_tag @rep.profile_image_url,
         class: "profile_pic"
       .profile_name
+        - if current_user.admin?
+          = link_to "Edit", edit_representative_path(@rep), 
+            class: "btn btn-danger btn-sm"
         %a.btn.btn-default.btn-sm.pull-right
           Follow
         %h2= @rep.full_name
@@ -27,7 +30,7 @@
         %a.btn.btn-sm.btn-default.bio_btn
           Read Full Bio
 
-    .whitecard= render "issue_comparison"
+    .whitecard= render "issue_comparison", issues: @issues
 
     .whitecard
       %h2 Recent News
