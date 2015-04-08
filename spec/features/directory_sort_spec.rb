@@ -1,6 +1,7 @@
 require "rails_helper"
 require "support/rep_creation"
 require "support/matchers/appear_before"
+require "support/directory"
 
 feature "Sorting reps" do
   given(:user) { create(:user) }
@@ -13,8 +14,7 @@ feature "Sorting reps" do
   end
 
   scenario "remains filtered by search when a new sort is used", js: true do
-    fill_in :directory_search, with: "Carpenter"
-    click_button("directory_search_button")
+    search_for "Carpenter"
     select("Alphabetically", from: "Sort")
     expect(subject).to have_content "Alice Carpenter"
     expect(subject).to have_content "Bob Carpenter"
@@ -27,6 +27,41 @@ feature "Sorting reps" do
     expect("Bob Carpenter").to appear_before("Gene Krupa")
     expect("Gene Krupa").to appear_before("David Krusty")
     expect("David Krusty").to appear_before("Buddy Rich")
+  end
+
+  scenario "by name recognition", js: true do
+    pending "Test not written"
+    fail
+  end
+
+  scenario "by age", js: true do
+    pending "Test not written"
+    fail
+  end
+
+  scenario "by seniority", js: true do
+    pending "Test not written"
+    fail
+  end
+
+  scenario "by most similar views", js: true do
+    pending "Not implemented"
+    fail
+  end
+
+  scenario "by least similar views", js: true do
+    pending "Not implemented"
+    fail
+  end
+
+  scenario "by state", js: true do
+    pending "Not implemented"
+    fail
+  end
+
+  scenario "by approval rating", js: true do
+    pending "Not implemented"
+    fail
   end
 end
 
