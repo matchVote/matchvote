@@ -12,17 +12,21 @@ class DirectoryController
   bindEvents: ->
     @clickToSearch()
     @pressEnterToSearch()
+    @selectSort()
 
   clickToSearch: ->
-    @$searchButton.click => @performSearch()
+    @$searchButton.click => @filterReps()
 
   pressEnterToSearch: ->
     $(document).on "keypress", (event) =>
       if @$searchField.is(":focus") and event.which == 13
-        @performSearch()
+        @filterReps()
 
-  performSearch: ->
-    $.get "/directory/search",
+  selectSort: ->
+    @$sortField.change => @filterReps()
+
+  filterReps: ->
+    $.get "/directory/filter",
       search: @$searchField.val(),
       sort: @$sortField.val(),
       @showReps
