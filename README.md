@@ -128,14 +128,12 @@ Profile
 ### TODO
 * Directory
     * Sort: 
-        * NameRecognition (Facebook counts issue)
         * Most Similar/Least similar
         * Approval Rating
         * State
-    * Search: Int/Unit Test, refactor presenter
-      * Combine searching with sorting
+    * Search
+        * Add fuzzy search
     * Filter
-    * Feature specs
 * Rep profile/admin
     * Follow
     * Read full bio
@@ -146,6 +144,7 @@ Profile
 * News Feed
 * Citizen profile/editing
 * Misc backend
+    * Add TravisCI
     * Setup email for forgotten password
     * Sign in with facebook/twitter (omniauth)
     * Data:
