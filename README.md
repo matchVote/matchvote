@@ -45,6 +45,7 @@ Profile
 * Stances
   * Statement Agreeance (-3, -2, -1, 0, 1, 2, 3)
   * Supporting Quote
+  
   -Rep User Type also has
   * Supporting Quote URL
   * Inferred/Verified State
