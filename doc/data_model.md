@@ -91,7 +91,7 @@
   * skipped
 
 * StanceQuotes
-  * belongs to Stance
+  belongs to Stance
     * quote
     * quote_url
 

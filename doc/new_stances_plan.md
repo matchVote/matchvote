@@ -23,11 +23,11 @@
     * timestamp
     * added_by
 
-Ex:
-Abortion
-  Statement 1: "Abortion is bad"
-  Statement 2: "Murder of abortion doctors is good"
-Rep
-  Stance on Statement 1: agreeance(3), importance(3)
-  Stance on Statement 2: agreeance(-3), importance(7)
+Ex:  
+Abortion  
+> Statement 1: "Abortion is bad"  
+> Statement 2: "Murder of abortion doctors is good"  
 
+Rep  
+> Stance on Statement 1: agreeance(3), importance(3)  
+> Stance on Statement 2: agreeance(-3), importance(7)
