@@ -6,19 +6,19 @@ class RepSorter
   end
 
   def alphabetically
-    reps.order(:last_name, :first_name)
+    reps.reorder(:last_name, :first_name)
   end
 
   def popularity
-    reps.order(name_recognition: :desc)
+    reps.reorder(name_recognition: :desc)
   end
 
   def age
-    reps.order(birthday: :desc)
+    reps.reorder(birthday: :desc)
   end
 
   def seniority
-    reps.order(:seniority_date, :slug)
+    reps.reorder(:seniority_date, :slug)
   end
 
   def method_missing(*args)

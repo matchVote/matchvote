@@ -16,7 +16,7 @@ class DirectoryPresenter
   end
 
   def search_reps
-    Representative.search_name(@name)
+    Representative.search_by_name(@name) if @name.present?
   end
 
   def sort_reps(reps)
