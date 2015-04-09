@@ -52,7 +52,7 @@ Profile
   * Researcher name who made inferrence
   
   -Citizen User Type also has
-  * Alignment with Rep (0, 1, 2, 3, 4, 5)
+  * Alignment Importance with Rep (0, 1, 2, 3, 4, 5)
   * Agreement with Researcher Inferrence
   
 * News Feed
