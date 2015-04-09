@@ -16,7 +16,7 @@
   * importance_value (1..7)
   * skipped
 
-* StanceQuotes
+* StanceQuotes  
   belongs to Stance
     * quote
     * quote_url
