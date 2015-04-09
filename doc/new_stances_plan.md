@@ -3,8 +3,8 @@
   * name
   * keywords
 
-* Statements
-  has many Stances
+* Statements  
+  has many Stances  
   belongs to IssueCategory  
   * description
 
@@ -17,7 +17,7 @@
   * skipped
 
 * StanceQuotes
-  * belongs to Stance
+  belongs to Stance
     * quote
     * quote_url
     * timestamp
