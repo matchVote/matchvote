@@ -37,12 +37,30 @@ Profile
     * Comments
     * Recent News
 * IssueCategories
-  * Keywords
-* Stances
+  * List of Issues
+  * Related Keywords
 * Statements
-  * User acceptance: "your conclusion sounds accurate"
+  * belongs to IssueCategories?
+  * Declarative text (limit character count?)
+* Stances
+  * Statement Agreeance (-3, -2, -1, 0, 1, 2, 3)
+  * Supporting Quote
+  -Rep User Type also has
+  * Supporting Quote URL
+  * Inferred/Verified State
+  * Researcher name who made inferrence
+  
+  -Citizen User Type also has
+  * Alignment with Rep (0, 1, 2, 3, 4, 5)
+  * Agreement with Researcher Inferrence
+  
 * News Feed
   * Articles
+    * Author
+    * Date
+    * News Organization
+    * Upvote/Downvote Score
+    * Topics Covered (pulled from IssueCategories:Related Keywords)
     * Summary
     * Comments
 * Citizen profile/editing
