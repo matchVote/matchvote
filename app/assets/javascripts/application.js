@@ -14,3 +14,4 @@
 //= require jquery_ujs
 //= require bootstrap-toggle.min
 //= require_tree .
+//= require bootstrap
