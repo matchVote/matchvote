@@ -24,16 +24,17 @@ feature "Viewing Representative profile" do
   it { is_expected.to have_content "#{address.city}, #{address.state} #{address.zip}" }
 
   feature "Editing profile" do
-    scenario "when user is not an admin, the edit link is absent" do
-      expect(page).not_to have_link("Edit")
+    context "when user has permission" do
+      scenario "when user is an admin, the edit link is visible" do
+        visit rep_path(rep.slug)
+        expect(page).to have_link("Edit")
+      end
     end
 
-    scenario "when user is an admin, the edit link is visible" do
-      click_link("Log out")
-      user.update_attribute(:admin, true)
-      sign_in(user)
-      visit rep_path(rep.slug)
-      expect(page).to have_link("Edit")
+    context "when user does not have permission" do
+      scenario "the edit link is absent" do
+        expect(page).not_to have_link("Edit")
+      end
     end
   end
 
