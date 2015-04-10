@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150408114731) do
+ActiveRecord::Schema.define(version: 20150410111122) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -30,13 +30,25 @@ ActiveRecord::Schema.define(version: 20150408114731) do
 
   add_index "contacts", ["representative_id"], name: "index_contacts_on_representative_id", unique: true, using: :btree
 
-  create_table "issues", force: :cascade do |t|
-    t.text     "name"
+  create_table "inference_opinions", force: :cascade do |t|
+    t.boolean  "agrees"
+    t.integer  "stance_id"
+    t.integer  "user_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
-  add_index "issues", ["name"], name: "index_issues_on_name", unique: true, using: :btree
+  add_index "inference_opinions", ["stance_id"], name: "index_inference_opinions_on_stance_id", using: :btree
+  add_index "inference_opinions", ["user_id"], name: "index_inference_opinions_on_user_id", using: :btree
+
+  create_table "issue_categories", force: :cascade do |t|
+    t.text     "name"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.string   "keywords",   default: [], array: true
+  end
+
+  add_index "issue_categories", ["name"], name: "index_issue_categories_on_name", unique: true, using: :btree
 
   create_table "postal_addresses", force: :cascade do |t|
     t.text     "street_number"
@@ -93,24 +105,33 @@ ActiveRecord::Schema.define(version: 20150408114731) do
     t.integer  "stance_id"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.datetime "quote_timestamp"
   end
 
   add_index "stance_quotes", ["stance_id"], name: "index_stance_quotes_on_stance_id", using: :btree
 
   create_table "stances", force: :cascade do |t|
-    t.text     "description"
     t.integer  "agreeance_value"
     t.integer  "importance_value"
     t.boolean  "skipped"
-    t.integer  "issue_id"
     t.datetime "created_at"
     t.datetime "updated_at"
     t.uuid     "opinionable_id"
     t.string   "opinionable_type"
+    t.text     "inferred_by"
+    t.boolean  "verified"
   end
 
-  add_index "stances", ["issue_id"], name: "index_stances_on_issue_id", using: :btree
   add_index "stances", ["opinionable_type", "opinionable_id"], name: "index_stances_on_opinionable_type_and_opinionable_id", using: :btree
+
+  create_table "statements", force: :cascade do |t|
+    t.string   "text"
+    t.integer  "issue_category_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "statements", ["issue_category_id"], name: "index_statements_on_issue_category_id", using: :btree
 
   create_table "users", force: :cascade do |t|
     t.string   "email",                  default: "", null: false

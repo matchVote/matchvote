@@ -76,22 +76,35 @@
   * state
   * zip
 
-* Issues  
-  has many Stances
+* IssueCategories  
+  has many Statements  
   * name
+  * keywords
+
+* Statements  
+  has many Stances  
+  belongs to IssueCategory  
+  * description
 
 * Stances  
-  has_many StanceQuotes  
-  belongs to Issue  
+  has many StanceQuotes  
+  has many InferenceOpinions
   belongs to Representative as opinionable  
   belongs to Citizen as opinionable  
-  * description
   * agreeance_value (-3..3)
-  * importance_value (1..7)
-  * skipped
+  * importance_value (0..5)
+  * inferred_by
+  * verified : boolean
+  * skipped : boolean
 
-* StanceQuotes
+* InferenceOpinions
+  belongs to Stance
+  belongs to User
+  * agrees : boolean
+
+* StanceQuotes  
   belongs to Stance
     * quote
     * quote_url
+    * quote_timestamp
 

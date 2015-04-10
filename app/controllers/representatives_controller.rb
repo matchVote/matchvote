@@ -1,12 +1,12 @@
 class RepresentativesController < ApplicationController
   def show
     @rep = RepresentativePresenter.new(find_rep_by_slug)
-    @issues = Issue.all
+    @issues = IssueCategory.all
   end
 
   def edit
     @rep = RepresentativePresenter.new(find_rep_by_id)
-    @issues = Issue.all
+    @issues = IssueCategory.all
   end
 
   def update
