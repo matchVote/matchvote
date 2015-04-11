@@ -3,7 +3,6 @@ class RepresentativesController < ApplicationController
 
   def show
     @rep = RepresentativePresenter.new(find_rep_by_slug)
-    @view = RepProfileView.new(Pundit.policy!(current_user, @rep))
     @issues = IssueCategory.all
   end
 
