@@ -9,6 +9,7 @@ FactoryGirl.define do
     party { ["Republican", "Democrat"].sample }
     birthday "1967-3-8"
     branch "Executive"
+    user_id nil
     external_credentials do 
       { twitter_username:  "tweet", 
         facebook_username: "facebook", 

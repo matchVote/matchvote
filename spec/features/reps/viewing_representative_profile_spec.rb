@@ -7,7 +7,11 @@ feature "Viewing Representative profile" do
   given(:user) { create(:user) }
   given(:address) { rep.contact.postal_addresses.first }
   given(:rep) do
-    create(:representative, first_name: "Bob", last_name: "Buffet", nickname: "Borky")
+    create(:representative, 
+      first_name: "Bob", 
+      last_name: "Buffet", 
+      nickname: "Borky",
+      user: user)
   end
 
   subject { page }
@@ -24,15 +28,26 @@ feature "Viewing Representative profile" do
   it { is_expected.to have_content "#{address.city}, #{address.state} #{address.zip}" }
 
   feature "Editing profile" do
-    context "when user has permission" do
-      scenario "when user is an admin, the edit link is visible" do
+    context "when user is an admin" do
+      scenario "the edit link is visible" do
+        click_link "Log out"
+        sign_in(create(:user, admin: true, email: "hey@there.com"))
         visit rep_path(rep.slug)
+        expect(page).to have_link("Edit")
+      end
+    end
+
+    context "when the profile belongs to the user" do
+      scenario "the edit link is visible" do
         expect(page).to have_link("Edit")
       end
     end
 
     context "when user does not have permission" do
       scenario "the edit link is absent" do
+        click_link "Log out"
+        sign_in(user)
+        visit rep_path(create(:representative).slug)
         expect(page).not_to have_link("Edit")
       end
     end
