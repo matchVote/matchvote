@@ -6,11 +6,11 @@
     2
    ]
   },
-  "ocd-division/country:us/state:wy/county:goshen/precinct:18-2": {
-   "name": "GOSHEN County Precinct 18-2"
-  },
   "ocd-division/country:us/state:wy/county:laramie/school_district:wyoming_department_of_health": {
    "name": "wyoming department of health"
+  },
+  "ocd-division/country:us/state:wy/county:goshen/precinct:18-2": {
+   "name": "GOSHEN County Precinct 18-2"
   },
   "ocd-division/country:us/state:wy/county:goshen/precinct:18-1": {
    "name": "GOSHEN County Precinct 18-1"
@@ -42,11 +42,11 @@
   "ocd-division/country:us/state:wy/county:sheridan/school_district:sheridan_county_school_district_~2": {
    "name": "sheridan county school district #2"
   },
-  "ocd-division/country:us/state:wy/county:sheridan/school_district:sheridan_county_school_district_~3": {
-   "name": "sheridan county school district #3"
-  },
   "ocd-division/country:us/state:wy/county:johnson/school_district:johnson_county_school_district_~1": {
    "name": "johnson county school district #1"
+  },
+  "ocd-division/country:us/state:wy/county:sheridan/school_district:sheridan_county_school_district_~3": {
+   "name": "sheridan county school district #3"
   },
   "ocd-division/country:us/state:wy/county:sheridan/school_district:sheridan_county_school_district_~1": {
    "name": "sheridan county school district #1"
@@ -120,26 +120,26 @@
     9
    ]
   },
+  "ocd-division/country:us/state:wy/place:newcastle": {
+   "name": "Newcastle city"
+  },
   "ocd-division/country:us/state:wy/sldu:27": {
    "name": "Wyoming State Senate district 27",
    "officeIndices": [
     10
    ]
   },
-  "ocd-division/country:us/state:wy/place:newcastle": {
-   "name": "Newcastle city"
+  "ocd-division/country:us/state:wy/county:fremont/precinct:13-1": {
+   "name": "FREMONT County Precinct 13-1"
+  },
+  "ocd-division/country:us/state:wy/county:uinta/school_district:uinta_county_school_district_~1": {
+   "name": "uinta county school district #1"
   },
   "ocd-division/country:us/state:wy/sldu:28": {
    "name": "Wyoming State Senate district 28",
    "officeIndices": [
     11
    ]
-  },
-  "ocd-division/country:us/state:wy/county:uinta/school_district:uinta_county_school_district_~1": {
-   "name": "uinta county school district #1"
-  },
-  "ocd-division/country:us/state:wy/county:fremont/precinct:13-1": {
-   "name": "FREMONT County Precinct 13-1"
   },
   "ocd-division/country:us/state:wy/sldu:29": {
    "name": "Wyoming State Senate district 29",
@@ -211,11 +211,11 @@
   "ocd-division/country:us/state:wy/county:laramie/precinct:4-3": {
    "name": "LARAMIE County Precinct 4-3"
   },
-  "ocd-division/country:us/state:wy/place:opal": {
-   "name": "Opal town"
-  },
   "ocd-division/country:us/state:wy/county:laramie/precinct:4-6": {
    "name": "LARAMIE County Precinct 4-6"
+  },
+  "ocd-division/country:us/state:wy/place:opal": {
+   "name": "Opal town"
   },
   "ocd-division/country:us/state:wy/county:laramie/precinct:4-5": {
    "name": "LARAMIE County Precinct 4-5"
@@ -365,11 +365,11 @@
   "ocd-division/country:us/state:wy/county:carbon/precinct:3-1": {
    "name": "CARBON County Precinct 3-1"
   },
-  "ocd-division/country:us/state:wy/county:crook/precinct:3-3": {
-   "name": "CROOK County Precinct 3-3"
-  },
   "ocd-division/country:us/state:wy/county:carbon/precinct:3-2": {
    "name": "CARBON County Precinct 3-2"
+  },
+  "ocd-division/country:us/state:wy/county:crook/precinct:3-3": {
+   "name": "CROOK County Precinct 3-3"
   },
   "ocd-division/country:us/state:wy/county:converse": {
    "name": "Converse County",
@@ -386,11 +386,11 @@
   "ocd-division/country:us/state:wy/place:albin": {
    "name": "Albin town"
   },
-  "ocd-division/country:us/state:wy/county:sweetwater/precinct:21-1": {
-   "name": "SWEETWATER County Precinct 21-1"
-  },
   "ocd-division/country:us/state:wy/county:platte/precinct:20-1": {
    "name": "PLATTE County Precinct 20-1"
+  },
+  "ocd-division/country:us/state:wy/county:sweetwater/precinct:21-1": {
+   "name": "SWEETWATER County Precinct 21-1"
   },
   "ocd-division/country:us/state:wy/county:sweetwater/precinct:1-1": {
    "name": "SWEETWATER County Precinct 1-1"
@@ -398,11 +398,11 @@
   "ocd-division/country:us/state:wy/place:kaycee": {
    "name": "Kaycee town"
   },
-  "ocd-division/country:us/state:wy/county:sweetwater/precinct:23-1": {
-   "name": "SWEETWATER County Precinct 23-1"
-  },
   "ocd-division/country:us/state:wy/county:hot_springs/school_district:northwest_wyoming_boces": {
    "name": "northwest wyoming boces"
+  },
+  "ocd-division/country:us/state:wy/county:sweetwater/precinct:23-1": {
+   "name": "SWEETWATER County Precinct 23-1"
   },
   "ocd-division/country:us/state:wy/county:laramie/school_district:attention_homes_inc_-_administration_office": {
    "name": "attention homes inc - administration office"
@@ -550,17 +550,17 @@
     14
    ]
   },
-  "ocd-division/country:us/state:wy/sldl:5": {
-   "name": "Wyoming State House district 5",
-   "officeIndices": [
-    15
-   ]
-  },
   "ocd-division/country:us/state:wy/county:natrona/precinct:802": {
    "name": "NATRONA County Precinct 802"
   },
   "ocd-division/country:us/state:wy/county:laramie/precinct:2-5": {
    "name": "LARAMIE County Precinct 2-5"
+  },
+  "ocd-division/country:us/state:wy/sldl:5": {
+   "name": "Wyoming State House district 5",
+   "officeIndices": [
+    15
+   ]
   },
   "ocd-division/country:us/state:wy/county:natrona/precinct:805": {
    "name": "NATRONA County Precinct 805"
@@ -718,14 +718,14 @@
     24
    ]
   },
+  "ocd-division/country:us/state:wy/place:douglas": {
+   "name": "Douglas city"
+  },
   "ocd-division/country:us/state:wy/sldu:17": {
    "name": "Wyoming State Senate district 17",
    "officeIndices": [
     25
    ]
-  },
-  "ocd-division/country:us/state:wy/place:douglas": {
-   "name": "Douglas city"
   },
   "ocd-division/country:us/state:wy/sldu:19": {
    "name": "Wyoming State Senate district 19",
@@ -733,11 +733,11 @@
     26
    ]
   },
-  "ocd-division/country:us/state:wy/place:wamsutter": {
-   "name": "Wamsutter town"
-  },
   "ocd-division/country:us/state:wy/county:niobrara/precinct:4-1": {
    "name": "NIOBRARA County Precinct 4-1"
+  },
+  "ocd-division/country:us/state:wy/place:wamsutter": {
+   "name": "Wamsutter town"
   },
   "ocd-division/country:us/state:wy/county:carbon/precinct:1-2": {
    "name": "CARBON County Precinct 1-2"
@@ -1394,23 +1394,23 @@
     200
    ]
   },
+  "ocd-division/country:us/state:wy/county:park/precinct:24-2": {
+   "name": "PARK County Precinct 24-2"
+  },
   "ocd-division/country:us/state:wy/place:cheyenne/ward:1": {
    "name": "Cheyenne WY - ward 1",
    "officeIndices": [
     201
    ]
   },
-  "ocd-division/country:us/state:wy/county:park/precinct:24-2": {
-   "name": "PARK County Precinct 24-2"
-  },
-  "ocd-division/country:us/state:wy/place:mills": {
-   "name": "Mills town"
-  },
   "ocd-division/country:us/state:wy/place:cheyenne/ward:3": {
    "name": "Cheyenne WY - ward 3",
    "officeIndices": [
     202
    ]
+  },
+  "ocd-division/country:us/state:wy/place:mills": {
+   "name": "Mills town"
   },
   "ocd-division/country:us/state:wy/county:sublette/precinct:4-1": {
    "name": "SUBLETTE County Precinct 4-1"
@@ -1439,11 +1439,11 @@
   "ocd-division/country:us/state:wy/county:goshen/precinct:17-2": {
    "name": "GOSHEN County Precinct 17-2"
   },
-  "ocd-division/country:us/state:wy/place:hartville": {
-   "name": "Hartville town"
-  },
   "ocd-division/country:us/state:wy/county:goshen/precinct:17-1": {
    "name": "GOSHEN County Precinct 17-1"
+  },
+  "ocd-division/country:us/state:wy/place:hartville": {
+   "name": "Hartville town"
   },
   "ocd-division/country:us/state:wy/county:goshen/precinct:15-1": {
    "name": "GOSHEN County Precinct 15-1"
@@ -1470,11 +1470,11 @@
   "ocd-division/country:us/state:wy/county:sweetwater/precinct:4-3": {
    "name": "SWEETWATER County Precinct 4-3"
   },
-  "ocd-division/country:us/state:wy/county:sweetwater/precinct:4-4": {
-   "name": "SWEETWATER County Precinct 4-4"
-  },
   "ocd-division/country:us/state:wy/county:fremont/precinct:12-1": {
    "name": "FREMONT County Precinct 12-1"
+  },
+  "ocd-division/country:us/state:wy/county:sweetwater/precinct:4-4": {
+   "name": "SWEETWATER County Precinct 4-4"
   },
   "ocd-division/country:us/state:wy/county:sweetwater/precinct:4-1": {
    "name": "SWEETWATER County Precinct 4-1"
@@ -1569,20 +1569,17 @@
   "ocd-division/country:us/state:wy/county:laramie/precinct:1-9": {
    "name": "LARAMIE County Precinct 1-9"
   },
-  "ocd-division/country:us/state:wy/county:sweetwater/precinct:13-1": {
-   "name": "SWEETWATER County Precinct 13-1"
-  },
-  "ocd-division/country:us/state:wy/county:laramie/precinct:1-6": {
-   "name": "LARAMIE County Precinct 1-6"
-  },
   "ocd-division/country:us/state:wy/sldu:5": {
    "name": "Wyoming State Senate district 5",
    "officeIndices": [
     37
    ]
   },
-  "ocd-division/country:us/state:wy/county:laramie/precinct:1-7": {
-   "name": "LARAMIE County Precinct 1-7"
+  "ocd-division/country:us/state:wy/county:laramie/precinct:1-6": {
+   "name": "LARAMIE County Precinct 1-6"
+  },
+  "ocd-division/country:us/state:wy/county:sweetwater/precinct:13-1": {
+   "name": "SWEETWATER County Precinct 13-1"
   },
   "ocd-division/country:us/state:wy/sldu:4": {
    "name": "Wyoming State Senate district 4",
@@ -1590,17 +1587,17 @@
     38
    ]
   },
+  "ocd-division/country:us/state:wy/county:laramie/precinct:1-7": {
+   "name": "LARAMIE County Precinct 1-7"
+  },
   "ocd-division/country:us/state:wy/county:laramie/precinct:1-4": {
    "name": "LARAMIE County Precinct 1-4"
-  },
-  "ocd-division/country:us/state:wy/place:moorcroft": {
-   "name": "Moorcroft town"
   },
   "ocd-division/country:us/state:wy/county:laramie/precinct:1-5": {
    "name": "LARAMIE County Precinct 1-5"
   },
-  "ocd-division/country:us/state:wy/county:laramie/precinct:1-2": {
-   "name": "LARAMIE County Precinct 1-2"
+  "ocd-division/country:us/state:wy/place:moorcroft": {
+   "name": "Moorcroft town"
   },
   "ocd-division/country:us/state:wy/sldu:9": {
    "name": "Wyoming State Senate district 9",
@@ -1608,14 +1605,17 @@
     39
    ]
   },
-  "ocd-division/country:us/state:wy/county:laramie/precinct:1-3": {
-   "name": "LARAMIE County Precinct 1-3"
+  "ocd-division/country:us/state:wy/county:laramie/precinct:1-2": {
+   "name": "LARAMIE County Precinct 1-2"
   },
   "ocd-division/country:us/state:wy/sldu:8": {
    "name": "Wyoming State Senate district 8",
    "officeIndices": [
     40
    ]
+  },
+  "ocd-division/country:us/state:wy/county:laramie/precinct:1-3": {
+   "name": "LARAMIE County Precinct 1-3"
   },
   "ocd-division/country:us/state:wy/county:albany": {
    "name": "Albany County",
@@ -1633,11 +1633,11 @@
   "ocd-division/country:us/state:wy/county:fremont/precinct:14-1": {
    "name": "FREMONT County Precinct 14-1"
   },
-  "ocd-division/country:us/state:wy/county:fremont/precinct:16-1": {
-   "name": "FREMONT County Precinct 16-1"
-  },
   "ocd-division/country:us/state:wy/county:natrona/precinct:1301": {
    "name": "NATRONA County Precinct 1301"
+  },
+  "ocd-division/country:us/state:wy/county:fremont/precinct:16-1": {
+   "name": "FREMONT County Precinct 16-1"
   },
   "ocd-division/country:us/state:wy/county:natrona/precinct:1302": {
    "name": "NATRONA County Precinct 1302"
@@ -1648,20 +1648,20 @@
   "ocd-division/country:us/state:wy/county:weston/precinct:5-3": {
    "name": "WESTON County Precinct 5-3"
   },
-  "ocd-division/country:us/state:wy/place:buffalo": {
-   "name": "Buffalo city"
-  },
   "ocd-division/country:us/state:wy/county:weston/precinct:5-1": {
    "name": "WESTON County Precinct 5-1"
+  },
+  "ocd-division/country:us/state:wy/place:buffalo": {
+   "name": "Buffalo city"
   },
   "ocd-division/country:us/state:wy/county:weston/precinct:5-2": {
    "name": "WESTON County Precinct 5-2"
   },
-  "ocd-division/country:us/state:wy/county:uinta/precinct:3-2": {
-   "name": "UINTA County Precinct 3-2"
-  },
   "ocd-division/country:us/state:wy/county:crook/precinct:13-13": {
    "name": "CROOK County Precinct 13-13"
+  },
+  "ocd-division/country:us/state:wy/county:uinta/precinct:3-2": {
+   "name": "UINTA County Precinct 3-2"
   },
   "ocd-division/country:us/state:wy/county:crook/school_district:crook_county_school_district_~1": {
    "name": "crook county school district #1"
@@ -1672,11 +1672,11 @@
   "ocd-division/country:us/state:wy/county:fremont/precinct:21-1": {
    "name": "FREMONT County Precinct 21-1"
   },
-  "ocd-division/country:us/state:wy/place:big_piney": {
-   "name": "Big Piney town"
-  },
   "ocd-division/country:us/state:wy/county:campbell/precinct:4-1": {
    "name": "CAMPBELL County Precinct 4-1"
+  },
+  "ocd-division/country:us/state:wy/place:big_piney": {
+   "name": "Big Piney town"
   },
   "ocd-division/country:us/state:wy/county:uinta/precinct:3-1": {
    "name": "UINTA County Precinct 3-1"
@@ -1705,20 +1705,20 @@
   "ocd-division/country:us/state:wy/county:sheridan/precinct:4-2": {
    "name": "SHERIDAN County Precinct 4-2"
   },
-  "ocd-division/country:us/state:wy/place:dixon": {
-   "name": "Dixon town"
-  },
   "ocd-division/country:us/state:wy/county:sheridan/precinct:4-3": {
    "name": "SHERIDAN County Precinct 4-3"
+  },
+  "ocd-division/country:us/state:wy/place:dixon": {
+   "name": "Dixon town"
   },
   "ocd-division/country:us/state:wy/county:albany/precinct:13-3": {
    "name": "ALBANY County Precinct 13-3"
   },
-  "ocd-division/country:us/state:wy/county:sheridan/precinct:4-4": {
-   "name": "SHERIDAN County Precinct 4-4"
-  },
   "ocd-division/country:us/state:wy/county:albany/precinct:13-1": {
    "name": "ALBANY County Precinct 13-1"
+  },
+  "ocd-division/country:us/state:wy/county:sheridan/precinct:4-4": {
+   "name": "SHERIDAN County Precinct 4-4"
   },
   "ocd-division/country:us/state:wy/county:albany/precinct:13-2": {
    "name": "ALBANY County Precinct 13-2"
@@ -1735,11 +1735,11 @@
   "ocd-division/country:us/state:wy/place:mountain_view": {
    "name": "Mountain View town"
   },
-  "ocd-division/country:us/state:wy/county:sweetwater/precinct:24-1": {
-   "name": "SWEETWATER County Precinct 24-1"
-  },
   "ocd-division/country:us/state:wy/county:platte/precinct:12-1": {
    "name": "PLATTE County Precinct 12-1"
+  },
+  "ocd-division/country:us/state:wy/county:sweetwater/precinct:24-1": {
+   "name": "SWEETWATER County Precinct 24-1"
   },
   "ocd-division/country:us/state:wy/county:natrona/precinct:107": {
    "name": "NATRONA County Precinct 107"
@@ -2148,17 +2148,20 @@
     67
    ]
   },
+  "ocd-division/country:us/state:wy/county:sheridan/precinct:18-1": {
+   "name": "SHERIDAN County Precinct 18-1"
+  },
   "ocd-division/country:us/state:wy/sldl:31": {
    "name": "Wyoming State House district 31",
    "officeIndices": [
     68
    ]
   },
-  "ocd-division/country:us/state:wy/county:sheridan/precinct:18-1": {
-   "name": "SHERIDAN County Precinct 18-1"
-  },
   "ocd-division/country:us/state:wy/county:sheridan/precinct:2-1": {
    "name": "SHERIDAN County Precinct 2-1"
+  },
+  "ocd-division/country:us/state:wy/county:sheridan/precinct:2-3": {
+   "name": "SHERIDAN County Precinct 2-3"
   },
   "ocd-division/country:us/state:wy/sldl:34": {
    "name": "Wyoming State House district 34",
@@ -2166,8 +2169,8 @@
     69
    ]
   },
-  "ocd-division/country:us/state:wy/county:sheridan/precinct:2-3": {
-   "name": "SHERIDAN County Precinct 2-3"
+  "ocd-division/country:us/state:wy/county:sheridan/precinct:2-2": {
+   "name": "SHERIDAN County Precinct 2-2"
   },
   "ocd-division/country:us/state:wy/sldl:35": {
    "name": "Wyoming State House district 35",
@@ -2175,8 +2178,8 @@
     70
    ]
   },
-  "ocd-division/country:us/state:wy/county:sheridan/precinct:2-2": {
-   "name": "SHERIDAN County Precinct 2-2"
+  "ocd-division/country:us/state:wy/county:sheridan/precinct:2-5": {
+   "name": "SHERIDAN County Precinct 2-5"
   },
   "ocd-division/country:us/state:wy/sldl:32": {
    "name": "Wyoming State House district 32",
@@ -2184,17 +2187,14 @@
     71
    ]
   },
-  "ocd-division/country:us/state:wy/county:sheridan/precinct:2-5": {
-   "name": "SHERIDAN County Precinct 2-5"
+  "ocd-division/country:us/state:wy/county:sheridan/precinct:2-4": {
+   "name": "SHERIDAN County Precinct 2-4"
   },
   "ocd-division/country:us/state:wy/sldl:33": {
    "name": "Wyoming State House district 33",
    "officeIndices": [
     72
    ]
-  },
-  "ocd-division/country:us/state:wy/county:sheridan/precinct:2-4": {
-   "name": "SHERIDAN County Precinct 2-4"
   },
   "ocd-division/country:us/state:wy/sldl:28": {
    "name": "Wyoming State House district 28",
@@ -2229,14 +2229,17 @@
   "ocd-division/country:us/state:wy/county:carbon/precinct:14-1": {
    "name": "CARBON County Precinct 14-1"
   },
+  "ocd-division/country:us/state:wy/county:converse/precinct:11-11": {
+   "name": "CONVERSE County Precinct 11-11"
+  },
   "ocd-division/country:us/state:wy/sldl:47": {
    "name": "Wyoming State House district 47",
    "officeIndices": [
     78
    ]
   },
-  "ocd-division/country:us/state:wy/county:converse/precinct:11-11": {
-   "name": "CONVERSE County Precinct 11-11"
+  "ocd-division/country:us/state:wy/county:sublette/precinct:2-1": {
+   "name": "SUBLETTE County Precinct 2-1"
   },
   "ocd-division/country:us/state:wy/sldl:48": {
    "name": "Wyoming State House district 48",
@@ -2244,8 +2247,8 @@
     79
    ]
   },
-  "ocd-division/country:us/state:wy/county:sublette/precinct:2-1": {
-   "name": "SUBLETTE County Precinct 2-1"
+  "ocd-division/country:us/state:wy/county:sublette/precinct:2-2": {
+   "name": "SUBLETTE County Precinct 2-2"
   },
   "ocd-division/country:us/state:wy/sldl:49": {
    "name": "Wyoming State House district 49",
@@ -2253,11 +2256,11 @@
     80
    ]
   },
-  "ocd-division/country:us/state:wy/county:sublette/precinct:2-2": {
-   "name": "SUBLETTE County Precinct 2-2"
-  },
   "ocd-division/country:us/state:wy/county:albany/precinct:14-15": {
    "name": "ALBANY County Precinct 14-15"
+  },
+  "ocd-division/country:us/state:wy/county:albany/precinct:14-12": {
+   "name": "ALBANY County Precinct 14-12"
   },
   "ocd-division/country:us/state:wy/sldl:51": {
    "name": "Wyoming State House district 51",
@@ -2265,8 +2268,8 @@
     81
    ]
   },
-  "ocd-division/country:us/state:wy/county:albany/precinct:14-12": {
-   "name": "ALBANY County Precinct 14-12"
+  "ocd-division/country:us/state:wy/county:albany/precinct:14-11": {
+   "name": "ALBANY County Precinct 14-11"
   },
   "ocd-division/country:us/state:wy/sldl:50": {
    "name": "Wyoming State House district 50",
@@ -2274,8 +2277,8 @@
     82
    ]
   },
-  "ocd-division/country:us/state:wy/county:albany/precinct:14-11": {
-   "name": "ALBANY County Precinct 14-11"
+  "ocd-division/country:us/state:wy/county:albany/precinct:14-14": {
+   "name": "ALBANY County Precinct 14-14"
   },
   "ocd-division/country:us/state:wy/sldl:53": {
    "name": "Wyoming State House district 53",
@@ -2283,17 +2286,14 @@
     83
    ]
   },
-  "ocd-division/country:us/state:wy/county:albany/precinct:14-14": {
-   "name": "ALBANY County Precinct 14-14"
+  "ocd-division/country:us/state:wy/county:albany/precinct:14-13": {
+   "name": "ALBANY County Precinct 14-13"
   },
   "ocd-division/country:us/state:wy/sldl:52": {
    "name": "Wyoming State House district 52",
    "officeIndices": [
     84
    ]
-  },
-  "ocd-division/country:us/state:wy/county:albany/precinct:14-13": {
-   "name": "ALBANY County Precinct 14-13"
   },
   "ocd-division/country:us/state:wy/sldl:55": {
    "name": "Wyoming State House district 55",
@@ -2367,14 +2367,14 @@
   "ocd-division/country:us/state:wy/county:converse/precinct:8-8": {
    "name": "CONVERSE County Precinct 8-8"
   },
-  "ocd-division/country:us/state:wy/county:platte/precinct:9-1": {
-   "name": "PLATTE County Precinct 9-1"
+  "ocd-division/country:us/state:wy/county:big_horn/precinct:2-1": {
+   "name": "BIG HORN County Precinct 2-1"
   },
   "ocd-division/country:us/state:wy/county:big_horn/precinct:23-1": {
    "name": "BIG HORN County Precinct 23-1"
   },
-  "ocd-division/country:us/state:wy/county:big_horn/precinct:2-1": {
-   "name": "BIG HORN County Precinct 2-1"
+  "ocd-division/country:us/state:wy/county:platte/precinct:9-1": {
+   "name": "PLATTE County Precinct 9-1"
   },
   "ocd-division/country:us/state:wy/place:alpine": {
    "name": "Alpine town"
@@ -2394,14 +2394,17 @@
   "ocd-division/country:us/state:wy/county:lincoln/precinct:1-8": {
    "name": "LINCOLN County Precinct 1-8"
   },
-  "ocd-division/country:us/state:wy/county:sweetwater/precinct:20-1": {
-   "name": "SWEETWATER County Precinct 20-1"
-  },
   "ocd-division/country:us/state:wy/county:lincoln/precinct:1-7": {
    "name": "LINCOLN County Precinct 1-7"
   },
+  "ocd-division/country:us/state:wy/county:sweetwater/precinct:20-1": {
+   "name": "SWEETWATER County Precinct 20-1"
+  },
   "ocd-division/country:us/state:wy/county:lincoln/precinct:1-6": {
    "name": "LINCOLN County Precinct 1-6"
+  },
+  "ocd-division/country:us/state:wy/county:lincoln/precinct:1-4": {
+   "name": "LINCOLN County Precinct 1-4"
   },
   "ocd-division/country:us/state:wy/county:laramie": {
    "name": "Laramie County",
@@ -2415,14 +2418,11 @@
     241
    ]
   },
-  "ocd-division/country:us/state:wy/county:lincoln/precinct:1-4": {
-   "name": "LINCOLN County Precinct 1-4"
+  "ocd-division/country:us/state:wy/county:campbell/precinct:23-1": {
+   "name": "CAMPBELL County Precinct 23-1"
   },
   "ocd-division/country:us/state:wy/place:sundance": {
    "name": "Sundance town"
-  },
-  "ocd-division/country:us/state:wy/county:campbell/precinct:23-1": {
-   "name": "CAMPBELL County Precinct 23-1"
   },
   "ocd-division/country:us/state:wy/county:platte/precinct:2-1": {
    "name": "PLATTE County Precinct 2-1"
@@ -2475,11 +2475,11 @@
   "ocd-division/country:us/state:wy/county:albany/precinct:45-1": {
    "name": "ALBANY County Precinct 45-1"
   },
-  "ocd-division/country:us/state:wy/county:sheridan/school_district:normative_services_-_administration_office": {
-   "name": "normative services - administration office"
-  },
   "ocd-division/country:us/state:wy/county:albany/precinct:45-2": {
    "name": "ALBANY County Precinct 45-2"
+  },
+  "ocd-division/country:us/state:wy/county:sheridan/school_district:normative_services_-_administration_office": {
+   "name": "normative services - administration office"
   },
   "ocd-division/country:us/state:wy/county:fremont/precinct:1-6": {
    "name": "FREMONT County Precinct 1-6"
@@ -2487,11 +2487,11 @@
   "ocd-division/country:us/state:wy/county:fremont/precinct:1-5": {
    "name": "FREMONT County Precinct 1-5"
   },
-  "ocd-division/country:us/state:wy/place:granger": {
-   "name": "Granger town"
-  },
   "ocd-division/country:us/state:wy/county:fremont/precinct:1-4": {
    "name": "FREMONT County Precinct 1-4"
+  },
+  "ocd-division/country:us/state:wy/place:granger": {
+   "name": "Granger town"
   },
   "ocd-division/country:us/state:wy/county:fremont/precinct:1-3": {
    "name": "FREMONT County Precinct 1-3"
@@ -2499,11 +2499,11 @@
   "ocd-division/country:us/state:wy/county:fremont/precinct:1-2": {
    "name": "FREMONT County Precinct 1-2"
   },
-  "ocd-division/country:us/state:wy/county:fremont/precinct:1-1": {
-   "name": "FREMONT County Precinct 1-1"
-  },
   "ocd-division/country:us/state:wy/county:crook/precinct:15-15": {
    "name": "CROOK County Precinct 15-15"
+  },
+  "ocd-division/country:us/state:wy/county:fremont/precinct:1-1": {
+   "name": "FREMONT County Precinct 1-1"
   },
   "ocd-division/country:us/state:wy/place:green_river": {
    "name": "Green River city"
@@ -2511,17 +2511,17 @@
   "ocd-division/country:us/state:wy/county:sweetwater/precinct:6-2": {
    "name": "SWEETWATER County Precinct 6-2"
   },
-  "ocd-division/country:us/state:wy/county:sweetwater/precinct:6-1": {
-   "name": "SWEETWATER County Precinct 6-1"
-  },
   "ocd-division/country:us/state:wy/county:sweetwater/precinct:25-1": {
    "name": "SWEETWATER County Precinct 25-1"
   },
-  "ocd-division/country:us/state:wy/county:sweetwater/precinct:6-4": {
-   "name": "SWEETWATER County Precinct 6-4"
+  "ocd-division/country:us/state:wy/county:sweetwater/precinct:6-1": {
+   "name": "SWEETWATER County Precinct 6-1"
   },
   "ocd-division/country:us/state:wy/county:park/school_district:park_county_school_district_~6": {
    "name": "park county school district #6"
+  },
+  "ocd-division/country:us/state:wy/county:sweetwater/precinct:6-4": {
+   "name": "SWEETWATER County Precinct 6-4"
   },
   "ocd-division/country:us/state:wy/county:sweetwater/precinct:6-3": {
    "name": "SWEETWATER County Precinct 6-3"
@@ -2535,11 +2535,11 @@
   "ocd-division/country:us/state:wy/county:washakie/precinct:5-2": {
    "name": "WASHAKIE County Precinct 5-2"
   },
-  "ocd-division/country:us/state:wy/place:ranchester": {
-   "name": "Ranchester town"
-  },
   "ocd-division/country:us/state:wy/county:washakie/precinct:5-3": {
    "name": "WASHAKIE County Precinct 5-3"
+  },
+  "ocd-division/country:us/state:wy/place:ranchester": {
+   "name": "Ranchester town"
   },
   "ocd-division/country:us/state:wy/county:washakie/precinct:5-5": {
    "name": "WASHAKIE County Precinct 5-5"
@@ -2550,23 +2550,23 @@
   "ocd-division/country:us/state:wy/county:park/school_district:park_county_school_district_~1": {
    "name": "park county school district #1"
   },
-  "ocd-division/country:us/state:wy/county:weston/school_district:weston_county_school_district_~1": {
-   "name": "weston county school district #1"
+  "ocd-division/country:us/state:wy/county:carbon/precinct:5-1": {
+   "name": "CARBON County Precinct 5-1"
   },
   "ocd-division/country:us/state:wy/county:park/precinct:8-1": {
    "name": "PARK County Precinct 8-1"
   },
-  "ocd-division/country:us/state:wy/county:carbon/precinct:5-1": {
-   "name": "CARBON County Precinct 5-1"
+  "ocd-division/country:us/state:wy/county:weston/school_district:weston_county_school_district_~1": {
+   "name": "weston county school district #1"
   },
   "ocd-division/country:us/state:wy/county:park/precinct:8-2": {
    "name": "PARK County Precinct 8-2"
   },
-  "ocd-division/country:us/state:wy/county:park/precinct:8-3": {
-   "name": "PARK County Precinct 8-3"
-  },
   "ocd-division/country:us/state:wy/county:park/precinct:11-2": {
    "name": "PARK County Precinct 11-2"
+  },
+  "ocd-division/country:us/state:wy/county:park/precinct:8-3": {
+   "name": "PARK County Precinct 8-3"
   },
   "ocd-division/country:us/state:wy/place:upton": {
    "name": "Upton town"
@@ -2583,17 +2583,17 @@
   "ocd-division/country:us/state:wy/county:laramie/school_district:laramie_county_school_district_~2": {
    "name": "laramie county school district #2"
   },
-  "ocd-division/country:us/state:wy/place:jackson": {
-   "name": "Jackson town"
-  },
   "ocd-division/country:us/state:wy/county:crook/precinct:1-1": {
    "name": "CROOK County Precinct 1-1"
   },
-  "ocd-division/country:us/state:wy/county:crook/precinct:1-2": {
-   "name": "CROOK County Precinct 1-2"
+  "ocd-division/country:us/state:wy/place:jackson": {
+   "name": "Jackson town"
   },
   "ocd-division/country:us/state:wy/county:laramie/school_district:laramie_county_school_district_~1": {
    "name": "laramie county school district #1"
+  },
+  "ocd-division/country:us/state:wy/county:crook/precinct:1-2": {
+   "name": "CROOK County Precinct 1-2"
   },
   "ocd-division/country:us/state:wy/county:park/precinct:25-3": {
    "name": "PARK County Precinct 25-3"
@@ -2619,6 +2619,9 @@
   "ocd-division/country:us/state:wy/county:park/precinct:23-1": {
    "name": "PARK County Precinct 23-1"
   },
+  "ocd-division/country:us/state:wy/county:natrona/precinct:309": {
+   "name": "NATRONA County Precinct 309"
+  },
   "ocd-division/country:us/state:wy/county:teton": {
    "name": "Teton County",
    "officeIndices": [
@@ -2631,9 +2634,6 @@
     255,
     256
    ]
-  },
-  "ocd-division/country:us/state:wy/county:natrona/precinct:309": {
-   "name": "NATRONA County Precinct 309"
   },
   "ocd-division/country:us/state:wy/county:natrona/precinct:308": {
    "name": "NATRONA County Precinct 308"
@@ -2656,14 +2656,14 @@
   "ocd-division/country:us/state:wy/county:crook/precinct:23-23": {
    "name": "CROOK County Precinct 23-23"
   },
-  "ocd-division/country:us/state:wy/county:big_horn/precinct:25-1": {
-   "name": "BIG HORN County Precinct 25-1"
+  "ocd-division/country:us/state:wy/county:natrona/precinct:501": {
+   "name": "NATRONA County Precinct 501"
   },
   "ocd-division/country:us/state:wy/county:laramie/precinct:7-4": {
    "name": "LARAMIE County Precinct 7-4"
   },
-  "ocd-division/country:us/state:wy/county:natrona/precinct:501": {
-   "name": "NATRONA County Precinct 501"
+  "ocd-division/country:us/state:wy/county:big_horn/precinct:25-1": {
+   "name": "BIG HORN County Precinct 25-1"
   },
   "ocd-division/country:us/state:wy/place:cokeville": {
    "name": "Cokeville town"
@@ -2686,11 +2686,11 @@
   "ocd-division/country:us/state:wy/county:hot_springs/precinct:1-1": {
    "name": "HOT SPRINGS County Precinct 1-1"
   },
-  "ocd-division/country:us/state:wy/county:crook/precinct:26-26": {
-   "name": "CROOK County Precinct 26-26"
-  },
   "ocd-division/country:us/state:wy/county:natrona/precinct:1401": {
    "name": "NATRONA County Precinct 1401"
+  },
+  "ocd-division/country:us/state:wy/county:crook/precinct:26-26": {
+   "name": "CROOK County Precinct 26-26"
   },
   "ocd-division/country:us/state:wy/county:teton/precinct:1-8": {
    "name": "TETON County Precinct 1-8"
@@ -2701,17 +2701,17 @@
   "ocd-division/country:us/state:wy/county:teton/precinct:1-9": {
    "name": "TETON County Precinct 1-9"
   },
-  "ocd-division/country:us/state:wy/county:teton/precinct:1-4": {
-   "name": "TETON County Precinct 1-4"
-  },
   "ocd-division/country:us/state:wy/county:campbell/precinct:14-2": {
    "name": "CAMPBELL County Precinct 14-2"
   },
-  "ocd-division/country:us/state:wy/county:teton/precinct:1-3": {
-   "name": "TETON County Precinct 1-3"
+  "ocd-division/country:us/state:wy/county:teton/precinct:1-4": {
+   "name": "TETON County Precinct 1-4"
   },
   "ocd-division/country:us/state:wy/county:campbell/precinct:14-1": {
    "name": "CAMPBELL County Precinct 14-1"
+  },
+  "ocd-division/country:us/state:wy/county:teton/precinct:1-3": {
+   "name": "TETON County Precinct 1-3"
   },
   "ocd-division/country:us/state:wy/county:teton/precinct:1-6": {
    "name": "TETON County Precinct 1-6"
@@ -2719,17 +2719,17 @@
   "ocd-division/country:us/state:wy/county:teton/precinct:1-5": {
    "name": "TETON County Precinct 1-5"
   },
-  "ocd-division/country:us/state:wy/place:wheatland": {
-   "name": "Wheatland town"
-  },
   "ocd-division/country:us/state:wy/county:teton/precinct:1-2": {
    "name": "TETON County Precinct 1-2"
   },
-  "ocd-division/country:us/state:wy/county:teton/precinct:1-1": {
-   "name": "TETON County Precinct 1-1"
+  "ocd-division/country:us/state:wy/place:wheatland": {
+   "name": "Wheatland town"
   },
   "ocd-division/country:us/state:wy/county:sheridan/precinct:6-1": {
    "name": "SHERIDAN County Precinct 6-1"
+  },
+  "ocd-division/country:us/state:wy/county:teton/precinct:1-1": {
+   "name": "TETON County Precinct 1-1"
   },
   "ocd-division/country:us/state:wy/county:washakie": {
    "name": "Washakie County",
@@ -2774,20 +2774,20 @@
   "ocd-division/country:us/state:wy/county:fremont/precinct:7-1": {
    "name": "FREMONT County Precinct 7-1"
   },
-  "ocd-division/country:us/state:wy/county:sublette/precinct:5-1": {
-   "name": "SUBLETTE County Precinct 5-1"
-  },
   "ocd-division/country:us/state:wy/county:campbell/precinct:5-1": {
    "name": "CAMPBELL County Precinct 5-1"
+  },
+  "ocd-division/country:us/state:wy/county:sublette/precinct:5-1": {
+   "name": "SUBLETTE County Precinct 5-1"
   },
   "ocd-division/country:us/state:wy/place:elk_mountain": {
    "name": "Elk Mountain town"
   },
-  "ocd-division/country:us/state:wy/place:midwest": {
-   "name": "Midwest town"
-  },
   "ocd-division/country:us/state:wy/county:goshen/precinct:20-1": {
    "name": "GOSHEN County Precinct 20-1"
+  },
+  "ocd-division/country:us/state:wy/place:midwest": {
+   "name": "Midwest town"
   },
   "ocd-division/country:us/state:wy/place:lyman": {
    "name": "Lyman town"
@@ -2801,11 +2801,11 @@
   "ocd-division/country:us/state:wy/county:fremont/precinct:3-2": {
    "name": "FREMONT County Precinct 3-2"
   },
-  "ocd-division/country:us/state:wy/place:rock_springs": {
-   "name": "Rock Springs city"
-  },
   "ocd-division/country:us/state:wy/county:fremont/precinct:3-1": {
    "name": "FREMONT County Precinct 3-1"
+  },
+  "ocd-division/country:us/state:wy/place:rock_springs": {
+   "name": "Rock Springs city"
   },
   "ocd-division/country:us/state:wy/county:albany/school_district:albany_county_school_district_~1": {
    "name": "albany county school district #1"
@@ -2813,8 +2813,8 @@
   "ocd-division/country:us/state:wy/county:fremont/precinct:3-6": {
    "name": "FREMONT County Precinct 3-6"
   },
-  "ocd-division/country:us/state:wy/county:fremont/precinct:3-5": {
-   "name": "FREMONT County Precinct 3-5"
+  "ocd-division/country:us/state:wy/county:campbell/precinct:9-1": {
+   "name": "CAMPBELL County Precinct 9-1"
   },
   "ocd-division/country:us/state:wy/county:fremont": {
    "name": "Fremont County",
@@ -2828,8 +2828,8 @@
     275
    ]
   },
-  "ocd-division/country:us/state:wy/county:campbell/precinct:9-1": {
-   "name": "CAMPBELL County Precinct 9-1"
+  "ocd-division/country:us/state:wy/county:fremont/precinct:3-5": {
+   "name": "FREMONT County Precinct 3-5"
   },
   "ocd-division/country:us/state:wy/county:fremont/precinct:3-4": {
    "name": "FREMONT County Precinct 3-4"

@@ -110,14 +110,14 @@
     174
    ]
   },
+  "ocd-division/country:us/state:mt/county:phillips/precinct:16-whitewater": {
+   "name": "Phillips County MT - PCT 16 - WHITEWATER"
+  },
   "ocd-division/country:us/state:mt/county:silver_bow/council_district:5": {
    "name": "Silver Bow County District 5",
    "officeIndices": [
     175
    ]
-  },
-  "ocd-division/country:us/state:mt/county:phillips/precinct:16-whitewater": {
-   "name": "Phillips County MT - PCT 16 - WHITEWATER"
   },
   "ocd-division/country:us/state:mt/county:silver_bow/council_district:4": {
    "name": "Silver Bow County District 4",
@@ -149,14 +149,14 @@
   "ocd-division/country:us/state:mt/county:hill/precinct:22": {
    "name": "Hill County MT - PRECINCT #22"
   },
-  "ocd-division/country:us/state:mt/county:phillips/precinct:7-loring": {
-   "name": "Phillips County MT - PCT 7 - LORING"
+  "ocd-division/country:us/state:mt/place:valier": {
+   "name": "Valier town"
   },
   "ocd-division/country:us/state:mt/county:hill/precinct:21": {
    "name": "Hill County MT - PRECINCT #21"
   },
-  "ocd-division/country:us/state:mt/place:valier": {
-   "name": "Valier town"
+  "ocd-division/country:us/state:mt/county:phillips/precinct:7-loring": {
+   "name": "Phillips County MT - PCT 7 - LORING"
   },
   "ocd-division/country:us/state:mt/county:powell/school_district:avon_elem": {
    "name": "avon elem"
@@ -236,23 +236,23 @@
   "ocd-division/country:us/state:mt/place:belt": {
    "name": "Belt town"
   },
-  "ocd-division/country:us/state:mt/county:powell/precinct:11": {
-   "name": "Powell County MT - PRECINCT #11"
-  },
   "ocd-division/country:us/state:mt/county:flathead/precinct:39": {
    "name": "Flathead County MT - PRECINCT 39"
   },
-  "ocd-division/country:us/state:mt/county:powell/precinct:12": {
-   "name": "Powell County MT - PRECINCT #12"
+  "ocd-division/country:us/state:mt/county:powell/precinct:11": {
+   "name": "Powell County MT - PRECINCT #11"
   },
   "ocd-division/country:us/state:mt/county:flathead/precinct:36": {
    "name": "Flathead County MT - PRECINCT 36"
   },
-  "ocd-division/country:us/state:mt/county:powell/precinct:14": {
-   "name": "Powell County MT - PRECINCT #14"
+  "ocd-division/country:us/state:mt/county:powell/precinct:12": {
+   "name": "Powell County MT - PRECINCT #12"
   },
   "ocd-division/country:us/state:mt/county:flathead/precinct:34": {
    "name": "Flathead County MT - PRECINCT 34"
+  },
+  "ocd-division/country:us/state:mt/county:powell/precinct:14": {
+   "name": "Powell County MT - PRECINCT #14"
   },
   "ocd-division/country:us/state:mt/county:flathead/precinct:35": {
    "name": "Flathead County MT - PRECINCT 35"
@@ -263,26 +263,26 @@
   "ocd-division/country:us/state:mt/county:fergus/precinct:14": {
    "name": "Fergus County MT - PREC 14"
   },
-  "ocd-division/country:us/state:mt/county:park/precinct:7b": {
-   "name": "Park County MT - PRECINCT #7B"
-  },
   "ocd-division/country:us/state:mt/county:fergus/precinct:11": {
    "name": "Fergus County MT - PREC 11"
+  },
+  "ocd-division/country:us/state:mt/county:park/precinct:7b": {
+   "name": "Park County MT - PRECINCT #7B"
   },
   "ocd-division/country:us/state:mt/county:park/precinct:7a": {
    "name": "Park County MT - PRECINCT #7A"
   },
-  "ocd-division/country:us/state:mt/county:park/precinct:7d": {
-   "name": "Park County MT - PRECINCT #7D"
-  },
   "ocd-division/country:us/state:mt/county:fergus/precinct:17": {
    "name": "Fergus County MT - PREC 17"
   },
-  "ocd-division/country:us/state:mt/county:park/precinct:7c": {
-   "name": "Park County MT - PRECINCT #7C"
+  "ocd-division/country:us/state:mt/county:park/precinct:7d": {
+   "name": "Park County MT - PRECINCT #7D"
   },
   "ocd-division/country:us/state:mt/county:fergus/precinct:18": {
    "name": "Fergus County MT - PREC 18"
+  },
+  "ocd-division/country:us/state:mt/county:park/precinct:7c": {
+   "name": "Park County MT - PRECINCT #7C"
   },
   "ocd-division/country:us/state:mt/county:fergus/precinct:15": {
    "name": "Fergus County MT - PREC 15"
@@ -290,11 +290,11 @@
   "ocd-division/country:us/state:mt/county:fergus/precinct:16": {
    "name": "Fergus County MT - PREC 16"
   },
-  "ocd-division/country:us/state:mt/county:valley/school_district:lustre_elem": {
-   "name": "lustre elem"
-  },
   "ocd-division/country:us/state:mt/county:jefferson/school_district:whitehall_h_s": {
    "name": "whitehall h s"
+  },
+  "ocd-division/country:us/state:mt/county:valley/school_district:lustre_elem": {
+   "name": "lustre elem"
   },
   "ocd-division/country:us/state:mt/county:flathead/precinct:20": {
    "name": "Flathead County MT - PRECINCT 20"
@@ -302,11 +302,11 @@
   "ocd-division/country:us/state:mt/county:flathead/precinct:21": {
    "name": "Flathead County MT - PRECINCT 21"
   },
-  "ocd-division/country:us/state:mt/place:lodge_grass": {
-   "name": "Lodge Grass town"
-  },
   "ocd-division/country:us/state:mt/county:flathead/precinct:29": {
    "name": "Flathead County MT - PRECINCT 29"
+  },
+  "ocd-division/country:us/state:mt/place:lodge_grass": {
+   "name": "Lodge Grass town"
   },
   "ocd-division/country:us/state:mt/county:carbon/school_district:roberts_k-12_schools": {
    "name": "roberts k-12 schools"
@@ -314,26 +314,26 @@
   "ocd-division/country:us/state:mt/county:flathead/precinct:24": {
    "name": "Flathead County MT - PRECINCT 24"
   },
-  "ocd-division/country:us/state:mt/county:flathead/precinct:25": {
-   "name": "Flathead County MT - PRECINCT 25"
-  },
   "ocd-division/country:us/state:mt/county:fergus/precinct:10": {
    "name": "Fergus County MT - PREC 10"
   },
-  "ocd-division/country:us/state:mt/county:pondera/school_district:dupuyer_elem": {
-   "name": "dupuyer elem"
+  "ocd-division/country:us/state:mt/county:flathead/precinct:25": {
+   "name": "Flathead County MT - PRECINCT 25"
   },
   "ocd-division/country:us/state:mt/county:flathead/precinct:26": {
    "name": "Flathead County MT - PRECINCT 26"
   },
+  "ocd-division/country:us/state:mt/county:pondera/school_district:dupuyer_elem": {
+   "name": "dupuyer elem"
+  },
   "ocd-division/country:us/state:mt/county:park/precinct:6a": {
    "name": "Park County MT - PRECINCT #6A"
   },
-  "ocd-division/country:us/state:mt/county:lincoln/precinct:libby_north": {
-   "name": "Lincoln County MT - LIBBY NORTH"
-  },
   "ocd-division/country:us/state:mt/county:valley/school_district:hinsdale_h_s": {
    "name": "hinsdale h s"
+  },
+  "ocd-division/country:us/state:mt/county:lincoln/precinct:libby_north": {
+   "name": "Lincoln County MT - LIBBY NORTH"
   },
   "ocd-division/country:us/state:mt/county:garfield/school_district:cohagen_elem": {
    "name": "cohagen elem"
@@ -570,41 +570,41 @@
   "ocd-division/country:us/state:mt/county:richland/school_district:savage_elem": {
    "name": "savage elem"
   },
-  "ocd-division/country:us/state:mt/county:stillwater/school_district:park_city_elem": {
-   "name": "park city elem"
-  },
   "ocd-division/country:us/state:mt/county:sanders/precinct:hot_springs": {
    "name": "Sanders County MT - HOT SPRINGS"
   },
-  "ocd-division/country:us/state:mt/county:lake/school_district:arlee_elem": {
-   "name": "arlee elem"
+  "ocd-division/country:us/state:mt/county:stillwater/school_district:park_city_elem": {
+   "name": "park city elem"
   },
   "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:1": {
    "name": "Lewis And Clark County MT - PRECINCT 01"
   },
-  "ocd-division/country:us/state:mt/county:judith_basin/precinct:2": {
-   "name": "Judith Basin County MT - PRECINCT 2"
+  "ocd-division/country:us/state:mt/county:lake/school_district:arlee_elem": {
+   "name": "arlee elem"
   },
   "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:2": {
    "name": "Lewis And Clark County MT - PRECINCT 02"
   },
-  "ocd-division/country:us/state:mt/county:judith_basin/precinct:3": {
-   "name": "Judith Basin County MT - PRECINCT 3"
+  "ocd-division/country:us/state:mt/county:judith_basin/precinct:2": {
+   "name": "Judith Basin County MT - PRECINCT 2"
   },
   "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:3": {
    "name": "Lewis And Clark County MT - PRECINCT 03"
   },
-  "ocd-division/country:us/state:mt/county:musselshell/school_district:roundup_high_school": {
-   "name": "roundup high school"
+  "ocd-division/country:us/state:mt/county:judith_basin/precinct:3": {
+   "name": "Judith Basin County MT - PRECINCT 3"
   },
   "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:4": {
    "name": "Lewis And Clark County MT - PRECINCT 04"
   },
-  "ocd-division/country:us/state:mt/county:judith_basin/precinct:1": {
-   "name": "Judith Basin County MT - PRECINCT 1"
+  "ocd-division/country:us/state:mt/county:musselshell/school_district:roundup_high_school": {
+   "name": "roundup high school"
   },
   "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:5": {
    "name": "Lewis And Clark County MT - PRECINCT 05"
+  },
+  "ocd-division/country:us/state:mt/county:judith_basin/precinct:1": {
+   "name": "Judith Basin County MT - PRECINCT 1"
   },
   "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:6": {
    "name": "Lewis And Clark County MT - PRECINCT 06"
@@ -612,14 +612,14 @@
   "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:7": {
    "name": "Lewis And Clark County MT - PRECINCT 07"
   },
-  "ocd-division/country:us/state:mt/county:judith_basin/precinct:4": {
-   "name": "Judith Basin County MT - PRECINCT 4"
+  "ocd-division/country:us/state:mt/county:lincoln/school_district:troy_elem": {
+   "name": "troy elem"
   },
   "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:8": {
    "name": "Lewis And Clark County MT - PRECINCT 08"
   },
-  "ocd-division/country:us/state:mt/county:lincoln/school_district:troy_elem": {
-   "name": "troy elem"
+  "ocd-division/country:us/state:mt/county:judith_basin/precinct:4": {
+   "name": "Judith Basin County MT - PRECINCT 4"
   },
   "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:9": {
    "name": "Lewis And Clark County MT - PRECINCT 09"
@@ -627,14 +627,14 @@
   "ocd-division/country:us/state:mt/county:glacier/precinct:21c": {
    "name": "Glacier County MT - PCT 21C"
   },
-  "ocd-division/country:us/state:mt/county:flathead/precinct:13": {
-   "name": "Flathead County MT - PRECINCT 13"
+  "ocd-division/country:us/state:mt/place:st_ignatius": {
+   "name": "St. Ignatius town"
   },
   "ocd-division/country:us/state:mt/county:big_horn/precinct:3": {
    "name": "Big Horn County MT - PRECINCT #3"
   },
-  "ocd-division/country:us/state:mt/place:st_ignatius": {
-   "name": "St. Ignatius town"
+  "ocd-division/country:us/state:mt/county:flathead/precinct:13": {
+   "name": "Flathead County MT - PRECINCT 13"
   },
   "ocd-division/country:us/state:mt/county:big_horn/precinct:2": {
    "name": "Big Horn County MT - PRECINCT #2"
@@ -645,17 +645,17 @@
   "ocd-division/country:us/state:mt/county:flathead/precinct:14": {
    "name": "Flathead County MT - PRECINCT 14"
   },
-  "ocd-division/country:us/state:mt/county:flathead/precinct:17": {
-   "name": "Flathead County MT - PRECINCT 17"
-  },
   "ocd-division/country:us/state:mt/county:big_horn/precinct:7": {
    "name": "Big Horn County MT - PRECINCT #7"
   },
-  "ocd-division/country:us/state:mt/county:flathead/precinct:16": {
-   "name": "Flathead County MT - PRECINCT 16"
+  "ocd-division/country:us/state:mt/county:flathead/precinct:17": {
+   "name": "Flathead County MT - PRECINCT 17"
   },
   "ocd-division/country:us/state:mt/county:big_horn/precinct:6": {
    "name": "Big Horn County MT - PRECINCT #6"
+  },
+  "ocd-division/country:us/state:mt/county:flathead/precinct:16": {
+   "name": "Flathead County MT - PRECINCT 16"
   },
   "ocd-division/country:us/state:mt/county:big_horn/precinct:5": {
    "name": "Big Horn County MT - PRECINCT #5"
@@ -1205,11 +1205,11 @@
   "ocd-division/country:us/state:mt/county:richland/precinct:12b": {
    "name": "Richland County MT - PRECINCT 12B"
   },
-  "ocd-division/country:us/state:mt/county:dawson/precinct:6a": {
-   "name": "Dawson County MT - PRECINCT 6A"
-  },
   "ocd-division/country:us/state:mt/county:jefferson/precinct:15": {
    "name": "Jefferson County MT - PREC 15"
+  },
+  "ocd-division/country:us/state:mt/county:dawson/precinct:6a": {
+   "name": "Dawson County MT - PRECINCT 6A"
   },
   "ocd-division/country:us/state:mt/county:dawson/precinct:6c": {
    "name": "Dawson County MT - PRECINCT 6C"
@@ -1220,11 +1220,11 @@
   "ocd-division/country:us/state:mt/county:teton/school_district:fairfield_h_s": {
    "name": "fairfield h s"
   },
-  "ocd-division/country:us/state:mt/county:mccone/school_district:mccone": {
-   "name": "mccone"
-  },
   "ocd-division/country:us/state:mt/county:jefferson/precinct:12": {
    "name": "Jefferson County MT - PREC 12"
+  },
+  "ocd-division/country:us/state:mt/county:mccone/school_district:mccone": {
+   "name": "mccone"
   },
   "ocd-division/country:us/state:mt/county:golden_valley/school_district:ryegate_k-12_schools": {
    "name": "ryegate k-12 schools"
@@ -1269,6 +1269,9 @@
     229
    ]
   },
+  "ocd-division/country:us/state:mt/county:lake/school_district:arlee_h_s": {
+   "name": "arlee h s"
+  },
   "ocd-division/country:us/state:mt/county:powell": {
    "name": "Powell County",
    "officeIndices": [
@@ -1279,9 +1282,6 @@
     234,
     235
    ]
-  },
-  "ocd-division/country:us/state:mt/county:lake/school_district:arlee_h_s": {
-   "name": "arlee h s"
   },
   "ocd-division/country:us/state:mt/county:stillwater/council_district:1": {
    "name": "Stillwater County District 1",
@@ -1295,11 +1295,11 @@
     237
    ]
   },
-  "ocd-division/country:us/state:mt/county:sweet_grass/precinct:1": {
-   "name": "Sweet Grass County MT - PRECINCT 1"
-  },
   "ocd-division/country:us/state:mt/county:phillips/school_district:dodson_k12": {
    "name": "dodson k12"
+  },
+  "ocd-division/country:us/state:mt/county:sweet_grass/precinct:1": {
+   "name": "Sweet Grass County MT - PRECINCT 1"
   },
   "ocd-division/country:us/state:mt/county:sweet_grass/precinct:2": {
    "name": "Sweet Grass County MT - PRECINCT 2"
@@ -2756,17 +2756,14 @@
   "ocd-division/country:us/state:mt/county:silver_bow/precinct:2c": {
    "name": "Silver Bow County MT - CC 2C"
   },
-  "ocd-division/country:us/state:mt/county:glacier/precinct:3": {
-   "name": "Glacier County MT - PCT 03"
-  },
   "ocd-division/country:us/state:mt/sldu:33": {
    "name": "Montana State Senate district 33",
    "officeIndices": [
     46
    ]
   },
-  "ocd-division/country:us/state:mt/county:glacier/precinct:4": {
-   "name": "Glacier County MT - PCT 04"
+  "ocd-division/country:us/state:mt/county:glacier/precinct:3": {
+   "name": "Glacier County MT - PCT 03"
   },
   "ocd-division/country:us/state:mt/sldu:32": {
    "name": "Montana State Senate district 32",
@@ -2774,11 +2771,8 @@
     47
    ]
   },
-  "ocd-division/country:us/state:mt/county:gallatin/school_district:monforton_elem": {
-   "name": "monforton elem"
-  },
-  "ocd-division/country:us/state:mt/county:glacier/precinct:5": {
-   "name": "Glacier County MT - PCT 05"
+  "ocd-division/country:us/state:mt/county:glacier/precinct:4": {
+   "name": "Glacier County MT - PCT 04"
   },
   "ocd-division/country:us/state:mt/sldu:35": {
    "name": "Montana State Senate district 35",
@@ -2786,8 +2780,11 @@
     48
    ]
   },
-  "ocd-division/country:us/state:mt/county:glacier/precinct:6": {
-   "name": "Glacier County MT - PCT 06"
+  "ocd-division/country:us/state:mt/county:glacier/precinct:5": {
+   "name": "Glacier County MT - PCT 05"
+  },
+  "ocd-division/country:us/state:mt/county:gallatin/school_district:monforton_elem": {
+   "name": "monforton elem"
   },
   "ocd-division/country:us/state:mt/sldu:34": {
    "name": "Montana State Senate district 34",
@@ -2795,17 +2792,14 @@
     49
    ]
   },
+  "ocd-division/country:us/state:mt/county:glacier/precinct:6": {
+   "name": "Glacier County MT - PCT 06"
+  },
   "ocd-division/country:us/state:mt/sldu:37": {
    "name": "Montana State Senate district 37",
    "officeIndices": [
     50
    ]
-  },
-  "ocd-division/country:us/state:mt/county:glacier/precinct:8": {
-   "name": "Glacier County MT - PCT 08"
-  },
-  "ocd-division/country:us/state:mt/county:lewis_and_clark/school_district:intermtn_childrens_home": {
-   "name": "intermtn childrens home"
   },
   "ocd-division/country:us/state:mt/sldu:36": {
    "name": "Montana State Senate district 36",
@@ -2813,8 +2807,11 @@
     51
    ]
   },
-  "ocd-division/country:us/state:mt/county:glacier/precinct:9": {
-   "name": "Glacier County MT - PCT 09"
+  "ocd-division/country:us/state:mt/county:lewis_and_clark/school_district:intermtn_childrens_home": {
+   "name": "intermtn childrens home"
+  },
+  "ocd-division/country:us/state:mt/county:glacier/precinct:8": {
+   "name": "Glacier County MT - PCT 08"
   },
   "ocd-division/country:us/state:mt/sldu:39": {
    "name": "Montana State Senate district 39",
@@ -2822,17 +2819,20 @@
     52
    ]
   },
+  "ocd-division/country:us/state:mt/county:glacier/precinct:9": {
+   "name": "Glacier County MT - PCT 09"
+  },
   "ocd-division/country:us/state:mt/sldu:38": {
    "name": "Montana State Senate district 38",
    "officeIndices": [
     53
    ]
   },
-  "ocd-division/country:us/state:mt/county:ravalli/precinct:17": {
-   "name": "Ravalli County MT - PCT 17"
-  },
   "ocd-division/country:us/state:mt/county:liberty/school_district:whitlash_elem": {
    "name": "whitlash elem"
+  },
+  "ocd-division/country:us/state:mt/county:ravalli/precinct:17": {
+   "name": "Ravalli County MT - PCT 17"
   },
   "ocd-division/country:us/state:mt/county:ravalli/precinct:16": {
    "name": "Ravalli County MT - PCT 16"
@@ -3211,6 +3211,9 @@
   "ocd-division/country:us/state:mt/county:fergus/school_district:grass_range_h_s": {
    "name": "grass range h s"
   },
+  "ocd-division/country:us/state:mt/county:cascade/school_district:mont_sch_for_deaf_blind": {
+   "name": "mont sch for deaf blind"
+  },
   "ocd-division/country:us/state:mt/county:stillwater": {
    "name": "Stillwater County",
    "officeIndices": [
@@ -3220,9 +3223,6 @@
     391,
     392
    ]
-  },
-  "ocd-division/country:us/state:mt/county:cascade/school_district:mont_sch_for_deaf_blind": {
-   "name": "mont sch for deaf blind"
   },
   "ocd-division/country:us/state:mt/county:wibaux/precinct:1": {
    "name": "Wibaux County MT - PRECINCT #1"
@@ -3343,9 +3343,6 @@
     94
    ]
   },
-  "ocd-division/country:us/state:mt/place:great_falls": {
-   "name": "Great Falls city"
-  },
   "ocd-division/country:us/state:mt/sldl:14": {
    "name": "Montana State House district 14",
    "officeIndices": [
@@ -3357,6 +3354,9 @@
   },
   "ocd-division/country:us/state:mt/county:fergus/school_district:roy_k-12_schools": {
    "name": "roy k-12 schools"
+  },
+  "ocd-division/country:us/state:mt/place:great_falls": {
+   "name": "Great Falls city"
   },
   "ocd-division/country:us/state:mt/sldl:13": {
    "name": "Montana State House district 13",
@@ -4271,6 +4271,9 @@
   "ocd-division/country:us/state:mt/county:sheridan/precinct:2-medicine_lake": {
    "name": "Sheridan County MT - 2 MEDICINE LAKE"
   },
+  "ocd-division/country:us/state:mt/county:fergus/precinct:2": {
+   "name": "Fergus County MT - PREC 2"
+  },
   "ocd-division/country:us/state:mt/county:ravalli": {
    "name": "Ravalli County",
    "officeIndices": [
@@ -4280,9 +4283,6 @@
     466,
     467
    ]
-  },
-  "ocd-division/country:us/state:mt/county:fergus/precinct:2": {
-   "name": "Fergus County MT - PREC 2"
   },
   "ocd-division/country:us/state:mt/county:fergus/precinct:3": {
    "name": "Fergus County MT - PREC 3"
@@ -5139,6 +5139,12 @@
   "ocd-division/country:us/state:mt/county:missoula/precinct:lewis-clark_2": {
    "name": "Missoula County MT - LEWISCLK 2"
   },
+  "ocd-division/country:us/state:mt/county:missoula/precinct:lewis-clark_3": {
+   "name": "Missoula County MT - LEWISCLK 3"
+  },
+  "ocd-division/country:us/state:mt/county:richland/school_district:richland": {
+   "name": "richland"
+  },
   "ocd-division/country:us/state:mt/county:yellowstone": {
    "name": "Yellowstone County",
    "officeIndices": [
@@ -5149,12 +5155,6 @@
     541,
     542
    ]
-  },
-  "ocd-division/country:us/state:mt/county:missoula/precinct:lewis-clark_3": {
-   "name": "Missoula County MT - LEWISCLK 3"
-  },
-  "ocd-division/country:us/state:mt/county:richland/school_district:richland": {
-   "name": "richland"
   },
   "ocd-division/country:us/state:mt/county:gallatin/precinct:19": {
    "name": "Gallatin County MT - 19"

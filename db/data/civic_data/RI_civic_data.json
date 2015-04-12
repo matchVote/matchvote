@@ -87,11 +87,11 @@
   "ocd-division/country:us/state:ri/place:johnston/precinct:1607": {
    "name": "Johnston RI - Precinct 1607"
   },
-  "ocd-division/country:us/state:ri/place:johnston/precinct:1609": {
-   "name": "Johnston RI - Precinct 1609"
-  },
   "ocd-division/country:us/state:ri/county:providence/school_district:cumberland": {
    "name": "cumberland"
+  },
+  "ocd-division/country:us/state:ri/place:johnston/precinct:1609": {
+   "name": "Johnston RI - Precinct 1609"
   },
   "ocd-division/country:us/state:ri/place:exeter": {
    "name": "Exeter town"
@@ -102,11 +102,11 @@
   "ocd-division/country:us/state:ri/place:west_greenwich/precinct:3702": {
    "name": "West Greenwich RI - Precinct 3702"
   },
-  "ocd-division/country:us/state:ri/county:providence/school_district:democracy_prep_blackstone_valley_academy": {
-   "name": "democracy prep blackstone valley academy"
-  },
   "ocd-division/country:us/state:ri/place:west_greenwich/precinct:3701": {
    "name": "West Greenwich RI - Precinct 3701"
+  },
+  "ocd-division/country:us/state:ri/county:providence/school_district:democracy_prep_blackstone_valley_academy": {
+   "name": "democracy prep blackstone valley academy"
   },
   "ocd-division/country:us/state:ri/place:johnston/precinct:1610": {
    "name": "Johnston RI - Precinct 1610"
@@ -120,11 +120,11 @@
   "ocd-division/country:us/state:ri/place:west_greenwich/precinct:3704": {
    "name": "West Greenwich RI - Precinct 3704"
   },
-  "ocd-division/country:us/state:ri/place:johnston/precinct:1613": {
-   "name": "Johnston RI - Precinct 1613"
-  },
   "ocd-division/country:us/state:ri/county:bristol/school_district:bristol_warren": {
    "name": "bristol warren"
+  },
+  "ocd-division/country:us/state:ri/place:johnston/precinct:1613": {
+   "name": "Johnston RI - Precinct 1613"
   },
   "ocd-division/country:us/state:ri/place:johnston/precinct:1612": {
    "name": "Johnston RI - Precinct 1612"
@@ -132,23 +132,23 @@
   "ocd-division/country:us/state:ri/county:providence/school_district:learning_community": {
    "name": "learning community"
   },
-  "ocd-division/country:us/state:ri/place:foster/precinct:1202": {
-   "name": "Foster RI - Precinct 1202"
-  },
   "ocd-division/country:us/state:ri/place:cumberland/precinct:807": {
    "name": "Cumberland RI - Precinct 807"
   },
-  "ocd-division/country:us/state:ri/place:foster/precinct:1201": {
-   "name": "Foster RI - Precinct 1201"
+  "ocd-division/country:us/state:ri/place:foster/precinct:1202": {
+   "name": "Foster RI - Precinct 1202"
   },
   "ocd-division/country:us/state:ri/place:cumberland/precinct:806": {
    "name": "Cumberland RI - Precinct 806"
   },
-  "ocd-division/country:us/state:ri/place:little_compton/precinct:1801": {
-   "name": "Little Compton RI - Precinct 1801"
+  "ocd-division/country:us/state:ri/place:foster/precinct:1201": {
+   "name": "Foster RI - Precinct 1201"
   },
   "ocd-division/country:us/state:ri/place:cumberland/precinct:809": {
    "name": "Cumberland RI - Precinct 809"
+  },
+  "ocd-division/country:us/state:ri/place:little_compton/precinct:1801": {
+   "name": "Little Compton RI - Precinct 1801"
   },
   "ocd-division/country:us/state:ri/place:cumberland/precinct:808": {
    "name": "Cumberland RI - Precinct 808"
@@ -248,11 +248,11 @@
     120
    ]
   },
-  "ocd-division/country:us/state:ri/county:kent/school_district:west_warwick": {
-   "name": "west warwick"
-  },
   "ocd-division/country:us/state:ri/county:providence/school_district:paul_cuffee_charter_sch": {
    "name": "paul cuffee charter sch"
+  },
+  "ocd-division/country:us/state:ri/county:kent/school_district:west_warwick": {
+   "name": "west warwick"
   },
   "ocd-division/country:us/state:ri/place:coventry/precinct:610": {
    "name": "Coventry RI - Precinct 610"
@@ -266,44 +266,44 @@
   "ocd-division/country:us/state:ri/place:coventry/precinct:603": {
    "name": "Coventry RI - Precinct 603"
   },
-  "ocd-division/country:us/state:ri/place:coventry/precinct:602": {
-   "name": "Coventry RI - Precinct 602"
-  },
   "ocd-division/country:us/state:ri/place:cumberland/precinct:813": {
    "name": "Cumberland RI - Precinct 813"
+  },
+  "ocd-division/country:us/state:ri/place:coventry/precinct:602": {
+   "name": "Coventry RI - Precinct 602"
   },
   "ocd-division/country:us/state:ri/place:coventry/precinct:601": {
    "name": "Coventry RI - Precinct 601"
   },
-  "ocd-division/country:us/state:ri/place:coventry/precinct:608": {
-   "name": "Coventry RI - Precinct 608"
-  },
   "ocd-division/country:us/state:ri/place:cumberland/precinct:811": {
    "name": "Cumberland RI - Precinct 811"
   },
-  "ocd-division/country:us/state:ri/place:coventry/precinct:607": {
-   "name": "Coventry RI - Precinct 607"
+  "ocd-division/country:us/state:ri/place:coventry/precinct:608": {
+   "name": "Coventry RI - Precinct 608"
   },
   "ocd-division/country:us/state:ri/place:cumberland/precinct:812": {
    "name": "Cumberland RI - Precinct 812"
   },
+  "ocd-division/country:us/state:ri/place:coventry/precinct:607": {
+   "name": "Coventry RI - Precinct 607"
+  },
   "ocd-division/country:us/state:ri/place:coventry/precinct:606": {
    "name": "Coventry RI - Precinct 606"
-  },
-  "ocd-division/country:us/state:ri/place:coventry/precinct:605": {
-   "name": "Coventry RI - Precinct 605"
   },
   "ocd-division/country:us/state:ri/place:cumberland/precinct:810": {
    "name": "Cumberland RI - Precinct 810"
   },
+  "ocd-division/country:us/state:ri/place:coventry/precinct:605": {
+   "name": "Coventry RI - Precinct 605"
+  },
   "ocd-division/country:us/state:ri/place:jamestown/precinct:1502": {
    "name": "Jamestown RI - Precinct 1502"
   },
-  "ocd-division/country:us/state:ri/place:jamestown/precinct:1501": {
-   "name": "Jamestown RI - Precinct 1501"
-  },
   "ocd-division/country:us/state:ri/county:newport/school_district:little_compton": {
    "name": "little compton"
+  },
+  "ocd-division/country:us/state:ri/place:jamestown/precinct:1501": {
+   "name": "Jamestown RI - Precinct 1501"
   },
   "ocd-division/country:us/state:ri/place:coventry/precinct:609": {
    "name": "Coventry RI - Precinct 609"
@@ -311,11 +311,11 @@
   "ocd-division/country:us/state:ri/place:newport/precinct:2107": {
    "name": "Newport RI - Precinct 2107"
   },
-  "ocd-division/country:us/state:ri/place:newport/precinct:2108": {
-   "name": "Newport RI - Precinct 2108"
-  },
   "ocd-division/country:us/state:ri/place:woonsocket/precinct:3912": {
    "name": "Woonsocket RI - Precinct 3912"
+  },
+  "ocd-division/country:us/state:ri/place:newport/precinct:2108": {
+   "name": "Newport RI - Precinct 2108"
   },
   "ocd-division/country:us/state:ri/place:newport/precinct:2105": {
    "name": "Newport RI - Precinct 2105"
@@ -323,11 +323,11 @@
   "ocd-division/country:us/state:ri/place:newport/precinct:2106": {
    "name": "Newport RI - Precinct 2106"
   },
-  "ocd-division/country:us/state:ri/place:newport/precinct:2102": {
-   "name": "Newport RI - Precinct 2102"
-  },
   "ocd-division/country:us/state:ri/place:woonsocket/precinct:3910": {
    "name": "Woonsocket RI - Precinct 3910"
+  },
+  "ocd-division/country:us/state:ri/place:newport/precinct:2102": {
+   "name": "Newport RI - Precinct 2102"
   },
   "ocd-division/country:us/state:ri/place:woonsocket/precinct:3911": {
    "name": "Woonsocket RI - Precinct 3911"
@@ -446,14 +446,14 @@
   "ocd-division/country:us/state:ri/place:warwick/ward:1": {
    "name": "Warwick RI - ward 1"
   },
-  "ocd-division/country:us/state:ri/place:warwick/ward:2": {
-   "name": "Warwick RI - ward 2"
-  },
   "ocd-division/country:us/state:ri/sldu:5": {
    "name": "Rhode Island State Senate district 5",
    "officeIndices": [
     18
    ]
+  },
+  "ocd-division/country:us/state:ri/place:warwick/ward:2": {
+   "name": "Warwick RI - ward 2"
   },
   "ocd-division/country:us/state:ri/sldu:4": {
    "name": "Rhode Island State Senate district 4",
@@ -563,20 +563,20 @@
   "ocd-division/country:us/state:ri/place:north_providence/precinct:2402": {
    "name": "North Providence RI - Precinct 2402"
   },
-  "ocd-division/country:us/state:ri/place:north_providence/precinct:2405": {
-   "name": "North Providence RI - Precinct 2405"
-  },
   "ocd-division/country:us/state:ri/place:coventry/precinct:612": {
    "name": "Coventry RI - Precinct 612"
   },
   "ocd-division/country:us/state:ri/county:providence/school_district:north_providence": {
    "name": "north providence"
   },
-  "ocd-division/country:us/state:ri/place:north_providence/precinct:2404": {
-   "name": "North Providence RI - Precinct 2404"
+  "ocd-division/country:us/state:ri/place:north_providence/precinct:2405": {
+   "name": "North Providence RI - Precinct 2405"
   },
   "ocd-division/country:us/state:ri/place:coventry/precinct:613": {
    "name": "Coventry RI - Precinct 613"
+  },
+  "ocd-division/country:us/state:ri/place:north_providence/precinct:2404": {
+   "name": "North Providence RI - Precinct 2404"
   },
   "ocd-division/country:us/state:ri/county:washington/school_district:narragansett": {
    "name": "narragansett"
@@ -587,11 +587,11 @@
   "ocd-division/country:us/state:ri/place:north_smithfield/precinct:2502": {
    "name": "North Smithfield RI - Precinct 2502"
   },
-  "ocd-division/country:us/state:ri/place:north_smithfield/precinct:2501": {
-   "name": "North Smithfield RI - Precinct 2501"
-  },
   "ocd-division/country:us/state:ri/place:cranston/precinct:719": {
    "name": "Cranston RI - Precinct 719"
+  },
+  "ocd-division/country:us/state:ri/place:north_smithfield/precinct:2501": {
+   "name": "North Smithfield RI - Precinct 2501"
   },
   "ocd-division/country:us/state:ri/place:north_smithfield/precinct:2504": {
    "name": "North Smithfield RI - Precinct 2504"
@@ -635,11 +635,11 @@
   "ocd-division/country:us/state:ri/place:north_providence/precinct:2412": {
    "name": "North Providence RI - Precinct 2412"
   },
-  "ocd-division/country:us/state:ri/place:north_providence/precinct:2411": {
-   "name": "North Providence RI - Precinct 2411"
-  },
   "ocd-division/country:us/state:ri/place:richmond": {
    "name": "Richmond town"
+  },
+  "ocd-division/country:us/state:ri/place:north_providence/precinct:2411": {
+   "name": "North Providence RI - Precinct 2411"
   },
   "ocd-division/country:us/state:ri/place:north_providence/precinct:2410": {
    "name": "North Providence RI - Precinct 2410"
@@ -968,11 +968,11 @@
   "ocd-division/country:us/state:ri/place:tiverton/precinct:3301": {
    "name": "Tiverton RI - Precinct 3301"
   },
-  "ocd-division/country:us/state:ri/place:newport": {
-   "name": "Newport city"
-  },
   "ocd-division/country:us/state:ri/place:middletown/precinct:1901": {
    "name": "Middletown RI - Precinct 1901"
+  },
+  "ocd-division/country:us/state:ri/place:newport": {
+   "name": "Newport city"
   },
   "ocd-division/country:us/state:ri/place:tiverton/precinct:3307": {
    "name": "Tiverton RI - Precinct 3307"
@@ -1205,11 +1205,11 @@
   "ocd-division/country:us/state:ri/place:warwick/precinct:3504": {
    "name": "Warwick RI - Precinct 3504"
   },
-  "ocd-division/country:us/state:ri/county:washington/school_district:kingston_hill_academy": {
-   "name": "kingston hill academy"
-  },
   "ocd-division/country:us/state:ri/place:warwick/precinct:3503": {
    "name": "Warwick RI - Precinct 3503"
+  },
+  "ocd-division/country:us/state:ri/county:washington/school_district:kingston_hill_academy": {
+   "name": "kingston hill academy"
   },
   "ocd-division/country:us/state:ri/place:warwick/precinct:3506": {
    "name": "Warwick RI - Precinct 3506"
@@ -1223,11 +1223,11 @@
   "ocd-division/country:us/state:ri/place:warwick/precinct:3507": {
    "name": "Warwick RI - Precinct 3507"
   },
-  "ocd-division/country:us/state:ri/place:north_kingstown/precinct:2301": {
-   "name": "North Kingstown RI - Precinct 2301"
-  },
   "ocd-division/country:us/state:ri/county:kent/school_district:warwick": {
    "name": "warwick"
+  },
+  "ocd-division/country:us/state:ri/place:north_kingstown/precinct:2301": {
+   "name": "North Kingstown RI - Precinct 2301"
   },
   "ocd-division/country:us/state:ri/place:north_kingstown": {
    "name": "North Kingstown town"
@@ -1244,14 +1244,14 @@
   "ocd-division/country:us/state:ri/place:north_kingstown/precinct:2304": {
    "name": "North Kingstown RI - Precinct 2304"
   },
-  "ocd-division/country:us/state:ri/place:east_providence": {
-   "name": "East Providence city"
-  },
   "ocd-division/country:us/state:ri/place:north_kingstown/precinct:2307": {
    "name": "North Kingstown RI - Precinct 2307"
   },
   "ocd-division/country:us/state:ri/place:warwick/precinct:3510": {
    "name": "Warwick RI - Precinct 3510"
+  },
+  "ocd-division/country:us/state:ri/place:east_providence": {
+   "name": "East Providence city"
   },
   "ocd-division/country:us/state:ri/place:warwick/precinct:3511": {
    "name": "Warwick RI - Precinct 3511"
@@ -1412,14 +1412,14 @@
     131
    ]
   },
-  "ocd-division/country:us/state:ri/place:cranston": {
-   "name": "Cranston city"
-  },
   "ocd-division/country:us/state:ri/place:providence/ward:11": {
    "name": "Providence RI - ward 11",
    "officeIndices": [
     132
    ]
+  },
+  "ocd-division/country:us/state:ri/place:cranston": {
+   "name": "Cranston city"
   },
   "ocd-division/country:us/state:ri/place:providence/ward:14": {
    "name": "Providence RI - ward 14",
@@ -1547,14 +1547,14 @@
     44
    ]
   },
-  "ocd-division/country:us/state:ri/sldl:65": {
-   "name": "Rhode Island State House district 65",
+  "ocd-division/country:us/state:ri/sldu:15": {
+   "name": "Rhode Island State Senate district 15",
    "officeIndices": [
     46
    ]
   },
-  "ocd-division/country:us/state:ri/sldu:15": {
-   "name": "Rhode Island State Senate district 15",
+  "ocd-division/country:us/state:ri/sldl:65": {
+   "name": "Rhode Island State House district 65",
    "officeIndices": [
     45
    ]
@@ -1703,14 +1703,14 @@
     65
    ]
   },
-  "ocd-division/country:us/state:ri/sldl:75": {
-   "name": "Rhode Island State House district 75",
+  "ocd-division/country:us/state:ri/sldu:25": {
+   "name": "Rhode Island State Senate district 25",
    "officeIndices": [
     67
    ]
   },
-  "ocd-division/country:us/state:ri/sldu:25": {
-   "name": "Rhode Island State Senate district 25",
+  "ocd-division/country:us/state:ri/sldl:75": {
+   "name": "Rhode Island State House district 75",
    "officeIndices": [
     66
    ]
@@ -2171,9 +2171,6 @@
     93
    ]
   },
-  "ocd-division/country:us/state:ri/place:woonsocket": {
-   "name": "Woonsocket city"
-  },
   "ocd-division/country:us/state:ri/sldu:37": {
    "name": "Rhode Island State Senate district 37",
    "officeIndices": [
@@ -2185,6 +2182,9 @@
    "officeIndices": [
     95
    ]
+  },
+  "ocd-division/country:us/state:ri/place:woonsocket": {
+   "name": "Woonsocket city"
   },
   "ocd-division/country:us/state:ri/sldu:38": {
    "name": "Rhode Island State Senate district 38",
@@ -2252,14 +2252,14 @@
   "ocd-division/country:us/state:ri/place:providence/precinct:2816": {
    "name": "Providence RI - Precinct 2816"
   },
-  "ocd-division/country:us/state:ri/sldl:49": {
-   "name": "Rhode Island State House district 49",
+  "ocd-division/country:us/state:ri/sldu:35": {
+   "name": "Rhode Island State Senate district 35",
    "officeIndices": [
     107
    ]
   },
-  "ocd-division/country:us/state:ri/sldu:35": {
-   "name": "Rhode Island State Senate district 35",
+  "ocd-division/country:us/state:ri/sldl:49": {
+   "name": "Rhode Island State House district 49",
    "officeIndices": [
     106
    ]
@@ -2994,19 +2994,6 @@
    ]
   },
   {
-   "name": "RI State Senate District 15",
-   "divisionId": "ocd-division/country:us/state:ri/sldu:15",
-   "levels": [
-    "administrativeArea1"
-   ],
-   "roles": [
-    "legislatorUpperBody"
-   ],
-   "officialIndices": [
-    46
-   ]
-  },
-  {
    "name": "RI State House District 65",
    "divisionId": "ocd-division/country:us/state:ri/sldl:65",
    "levels": [
@@ -3014,6 +3001,19 @@
    ],
    "roles": [
     "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    46
+   ]
+  },
+  {
+   "name": "RI State Senate District 15",
+   "divisionId": "ocd-division/country:us/state:ri/sldu:15",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
    ],
    "officialIndices": [
     47
@@ -3267,19 +3267,6 @@
    ]
   },
   {
-   "name": "RI State Senate District 25",
-   "divisionId": "ocd-division/country:us/state:ri/sldu:25",
-   "levels": [
-    "administrativeArea1"
-   ],
-   "roles": [
-    "legislatorUpperBody"
-   ],
-   "officialIndices": [
-    67
-   ]
-  },
-  {
    "name": "RI State House District 75",
    "divisionId": "ocd-division/country:us/state:ri/sldl:75",
    "levels": [
@@ -3287,6 +3274,19 @@
    ],
    "roles": [
     "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    67
+   ]
+  },
+  {
+   "name": "RI State Senate District 25",
+   "divisionId": "ocd-division/country:us/state:ri/sldu:25",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
    ],
    "officialIndices": [
     68
@@ -3787,19 +3787,6 @@
    ]
   },
   {
-   "name": "RI State Senate District 35",
-   "divisionId": "ocd-division/country:us/state:ri/sldu:35",
-   "levels": [
-    "administrativeArea1"
-   ],
-   "roles": [
-    "legislatorUpperBody"
-   ],
-   "officialIndices": [
-    107
-   ]
-  },
-  {
    "name": "RI State House District 49",
    "divisionId": "ocd-division/country:us/state:ri/sldl:49",
    "levels": [
@@ -3807,6 +3794,19 @@
    ],
    "roles": [
     "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    107
+   ]
+  },
+  {
+   "name": "RI State Senate District 35",
+   "divisionId": "ocd-division/country:us/state:ri/sldu:35",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
    ],
    "officialIndices": [
     108
@@ -5535,6 +5535,34 @@
    ]
   },
   {
+   "name": "Gregg Amore",
+   "address": [
+    {
+     "line1": "73 plymouth road",
+     "city": "east providence",
+     "state": "RI",
+     "zip": "02914"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(401) 339-9378"
+   ],
+   "urls": [
+    "http://www.rilin.state.ri.us/representatives/Amore"
+   ],
+   "photoUrl": "http://www.rilin.state.ri.us/representatives/pictures/amore.jpg",
+   "emails": [
+    "rep-amore@rilin.state.ri.us"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "GreggAmore1"
+    }
+   ]
+  },
+  {
    "name": "Donna M. Nesselbush",
    "address": [
     {
@@ -5577,34 +5605,6 @@
     {
      "type": "YouTube",
      "id": "donnanesselbush"
-    }
-   ]
-  },
-  {
-   "name": "Gregg Amore",
-   "address": [
-    {
-     "line1": "73 plymouth road",
-     "city": "east providence",
-     "state": "RI",
-     "zip": "02914"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(401) 339-9378"
-   ],
-   "urls": [
-    "http://www.rilin.state.ri.us/representatives/Amore"
-   ],
-   "photoUrl": "http://www.rilin.state.ri.us/representatives/pictures/amore.jpg",
-   "emails": [
-    "rep-amore@rilin.state.ri.us"
-   ],
-   "channels": [
-    {
-     "type": "Twitter",
-     "id": "GreggAmore1"
     }
    ]
   },
@@ -6235,38 +6235,6 @@
    ]
   },
   {
-   "name": "Frank Lombardo, III",
-   "address": [
-    {
-     "line1": "State Senate",
-     "line2": "82 Smith Street",
-     "line3": "Room 314",
-     "city": "Providence",
-     "state": "RI",
-     "zip": "02903"
-    },
-    {
-     "line1": "68 Rollingwood Drive",
-     "line2": "",
-     "line3": "",
-     "city": "Johnston",
-     "state": "RI",
-     "zip": "02919-1635"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(401) 270-1379"
-   ],
-   "urls": [
-    "http://www.rilin.state.ri.us/senators/Lombardo/"
-   ],
-   "photoUrl": "http://www.rilin.state.ri.us/Senators/Pictures/lombardo.jpg",
-   "emails": [
-    "sen-lombardo@rilin.state.ri.us"
-   ]
-  },
-  {
    "name": "Lauren H. Carson",
    "address": [
     {
@@ -6297,6 +6265,38 @@
    "photoUrl": "http://www.rilin.state.ri.us/representatives/pictures/carson.jpg",
    "emails": [
     "rep-carson@rilin.state.ri.us"
+   ]
+  },
+  {
+   "name": "Frank Lombardo, III",
+   "address": [
+    {
+     "line1": "State Senate",
+     "line2": "82 Smith Street",
+     "line3": "Room 314",
+     "city": "Providence",
+     "state": "RI",
+     "zip": "02903"
+    },
+    {
+     "line1": "68 Rollingwood Drive",
+     "line2": "",
+     "line3": "",
+     "city": "Johnston",
+     "state": "RI",
+     "zip": "02919-1635"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(401) 270-1379"
+   ],
+   "urls": [
+    "http://www.rilin.state.ri.us/senators/Lombardo/"
+   ],
+   "photoUrl": "http://www.rilin.state.ri.us/Senators/Pictures/lombardo.jpg",
+   "emails": [
+    "sen-lombardo@rilin.state.ri.us"
    ]
   },
   {
@@ -7508,38 +7508,6 @@
    ]
   },
   {
-   "name": "Mark W. Gee",
-   "address": [
-    {
-     "line1": "State Senate",
-     "line2": "82 Smith Street",
-     "line3": "",
-     "city": "Providence",
-     "state": "RI",
-     "zip": "02903"
-    },
-    {
-     "line1": "99 Middle Road",
-     "line2": "",
-     "line3": "",
-     "city": "East Greenwich",
-     "state": "RI",
-     "zip": "02804"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(401) 222-9911"
-   ],
-   "urls": [
-    "http://www.rilin.state.ri.us/senators/Gee/default.aspx"
-   ],
-   "photoUrl": "http://www.rilin.state.ri.us/Senators/Pictures/gee.jpg",
-   "emails": [
-    "sen-gee@rilin.state.ri.us"
-   ]
-  },
-  {
    "name": "Michael A. Morin",
    "address": [
     {
@@ -7569,6 +7537,38 @@
    "photoUrl": "http://www.rilin.state.ri.us/representatives/morin/Pictures/RepMorin.jpg",
    "emails": [
     "rep-morin@rilin.state.ri.us"
+   ]
+  },
+  {
+   "name": "Mark W. Gee",
+   "address": [
+    {
+     "line1": "State Senate",
+     "line2": "82 Smith Street",
+     "line3": "",
+     "city": "Providence",
+     "state": "RI",
+     "zip": "02903"
+    },
+    {
+     "line1": "99 Middle Road",
+     "line2": "",
+     "line3": "",
+     "city": "East Greenwich",
+     "state": "RI",
+     "zip": "02804"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(401) 222-9911"
+   ],
+   "urls": [
+    "http://www.rilin.state.ri.us/senators/Gee/default.aspx"
+   ],
+   "photoUrl": "http://www.rilin.state.ri.us/Senators/Pictures/gee.jpg",
+   "emails": [
+    "sen-gee@rilin.state.ri.us"
    ]
   },
   {

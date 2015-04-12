@@ -25,20 +25,20 @@
   "ocd-division/country:us/state:md/place:baltimore/precinct:16-002": {
    "name": "BALTIMORE CITY Precinct 16-002"
   },
-  "ocd-division/country:us/state:md/county:kent/precinct:4-002": {
-   "name": "KENT County Precinct 4-002"
+  "ocd-division/country:us/state:md/place:baltimore/precinct:16-001": {
+   "name": "BALTIMORE CITY Precinct 16-001"
   },
   "ocd-division/country:us/state:md/county:anne_arundel/precinct:4-001": {
    "name": "ANNE ARUNDEL County Precinct 4-001"
   },
-  "ocd-division/country:us/state:md/place:baltimore/precinct:16-001": {
-   "name": "BALTIMORE CITY Precinct 16-001"
-  },
-  "ocd-division/country:us/state:md/county:kent/precinct:4-001": {
-   "name": "KENT County Precinct 4-001"
+  "ocd-division/country:us/state:md/county:kent/precinct:4-002": {
+   "name": "KENT County Precinct 4-002"
   },
   "ocd-division/country:us/state:md/county:anne_arundel/precinct:4-002": {
    "name": "ANNE ARUNDEL County Precinct 4-002"
+  },
+  "ocd-division/country:us/state:md/county:kent/precinct:4-001": {
+   "name": "KENT County Precinct 4-001"
   },
   "ocd-division/country:us/state:md/county:anne_arundel/precinct:4-003": {
    "name": "ANNE ARUNDEL County Precinct 4-003"
@@ -70,17 +70,17 @@
   "ocd-division/country:us/state:md/place:accident": {
    "name": "Accident town"
   },
-  "ocd-division/country:us/state:md/county:anne_arundel/precinct:4-010": {
-   "name": "ANNE ARUNDEL County Precinct 4-010"
-  },
   "ocd-division/country:us/state:md/place:baltimore/precinct:16-014": {
    "name": "BALTIMORE CITY Precinct 16-014"
   },
-  "ocd-division/country:us/state:md/county:anne_arundel/precinct:4-011": {
-   "name": "ANNE ARUNDEL County Precinct 4-011"
+  "ocd-division/country:us/state:md/county:anne_arundel/precinct:4-010": {
+   "name": "ANNE ARUNDEL County Precinct 4-010"
   },
   "ocd-division/country:us/state:md/place:baltimore/precinct:16-013": {
    "name": "BALTIMORE CITY Precinct 16-013"
+  },
+  "ocd-division/country:us/state:md/county:anne_arundel/precinct:4-011": {
+   "name": "ANNE ARUNDEL County Precinct 4-011"
   },
   "ocd-division/country:us/state:md/place:baltimore/precinct:16-010": {
    "name": "BALTIMORE CITY Precinct 16-010"
@@ -211,23 +211,23 @@
     136
    ]
   },
-  "ocd-division/country:us/state:md/county:frederick/precinct:1-002": {
-   "name": "FREDERICK County Precinct 1-002"
-  },
   "ocd-division/country:us/state:md/place:baltimore/council_district:7": {
    "name": "Baltimore City MD City Council District 7",
    "officeIndices": [
     137
    ]
   },
-  "ocd-division/country:us/state:md/county:frederick/precinct:1-001": {
-   "name": "FREDERICK County Precinct 1-001"
+  "ocd-division/country:us/state:md/county:frederick/precinct:1-002": {
+   "name": "FREDERICK County Precinct 1-002"
   },
   "ocd-division/country:us/state:md/place:baltimore/council_district:6": {
    "name": "Baltimore City MD City Council District 6",
    "officeIndices": [
     138
    ]
+  },
+  "ocd-division/country:us/state:md/county:frederick/precinct:1-001": {
+   "name": "FREDERICK County Precinct 1-001"
   },
   "ocd-division/country:us/state:md/county:washington/precinct:19-000": {
    "name": "WASHINGTON County Precinct 19-000"
@@ -259,11 +259,11 @@
   "ocd-division/country:us/state:md/county:montgomery/precinct:10-001": {
    "name": "MONTGOMERY County Precinct 10-001"
   },
-  "ocd-division/country:us/state:md/county:montgomery/precinct:10-002": {
-   "name": "MONTGOMERY County Precinct 10-002"
-  },
   "ocd-division/country:us/state:md/county:calvert/precinct:1-007": {
    "name": "CALVERT County Precinct 1-007"
+  },
+  "ocd-division/country:us/state:md/county:montgomery/precinct:10-002": {
+   "name": "MONTGOMERY County Precinct 10-002"
   },
   "ocd-division/country:us/state:md/county:montgomery/precinct:10-003": {
    "name": "MONTGOMERY County Precinct 10-003"
@@ -280,11 +280,11 @@
   "ocd-division/country:us/state:md/county:montgomery/precinct:10-007": {
    "name": "MONTGOMERY County Precinct 10-007"
   },
-  "ocd-division/country:us/state:md/county:montgomery/precinct:10-009": {
-   "name": "MONTGOMERY County Precinct 10-009"
-  },
   "ocd-division/country:us/state:md/county:talbot/precinct:2-003": {
    "name": "TALBOT County Precinct 2-003"
+  },
+  "ocd-division/country:us/state:md/county:montgomery/precinct:10-009": {
+   "name": "MONTGOMERY County Precinct 10-009"
   },
   "ocd-division/country:us/state:md/county:talbot/precinct:2-001": {
    "name": "TALBOT County Precinct 2-001"
@@ -325,11 +325,11 @@
   "ocd-division/country:us/state:md/place:baltimore/precinct:12-011": {
    "name": "BALTIMORE CITY Precinct 12-011"
   },
-  "ocd-division/country:us/state:md/place:aberdeen": {
-   "name": "Aberdeen city"
-  },
   "ocd-division/country:us/state:md/place:baltimore/precinct:12-012": {
    "name": "BALTIMORE CITY Precinct 12-012"
+  },
+  "ocd-division/country:us/state:md/place:aberdeen": {
+   "name": "Aberdeen city"
   },
   "ocd-division/country:us/state:md/county:wicomico/precinct:13-002": {
    "name": "WICOMICO County Precinct 13-002"
@@ -388,14 +388,14 @@
     140
    ]
   },
+  "ocd-division/country:us/state:md/place:galestown": {
+   "name": "Galestown town"
+  },
   "ocd-division/country:us/state:md/county:st_mary~s/council_district:3": {
    "name": "St. Mary's County Commissioner District 3",
    "officeIndices": [
     141
    ]
-  },
-  "ocd-division/country:us/state:md/place:galestown": {
-   "name": "Galestown town"
   },
   "ocd-division/country:us/state:md/place:baltimore/precinct:12-001": {
    "name": "BALTIMORE CITY Precinct 12-001"
@@ -442,14 +442,14 @@
     142
    ]
   },
-  "ocd-division/country:us/state:md/county:montgomery/precinct:5-018": {
-   "name": "MONTGOMERY County Precinct 5-018"
+  "ocd-division/country:us/state:md/county:somerset/precinct:10-001": {
+   "name": "SOMERSET County Precinct 10-001"
   },
   "ocd-division/country:us/state:md/county:frederick/precinct:22-002": {
    "name": "FREDERICK County Precinct 22-002"
   },
-  "ocd-division/country:us/state:md/county:somerset/precinct:10-001": {
-   "name": "SOMERSET County Precinct 10-001"
+  "ocd-division/country:us/state:md/county:montgomery/precinct:5-018": {
+   "name": "MONTGOMERY County Precinct 5-018"
   },
   "ocd-division/country:us/state:md/county:montgomery/precinct:5-019": {
    "name": "MONTGOMERY County Precinct 5-019"
@@ -457,14 +457,14 @@
   "ocd-division/country:us/state:md/county:montgomery/precinct:5-016": {
    "name": "MONTGOMERY County Precinct 5-016"
   },
-  "ocd-division/country:us/state:md/county:montgomery/precinct:5-017": {
-   "name": "MONTGOMERY County Precinct 5-017"
+  "ocd-division/country:us/state:md/county:somerset/precinct:10-002": {
+   "name": "SOMERSET County Precinct 10-002"
   },
   "ocd-division/country:us/state:md/county:frederick/precinct:22-001": {
    "name": "FREDERICK County Precinct 22-001"
   },
-  "ocd-division/country:us/state:md/county:somerset/precinct:10-002": {
-   "name": "SOMERSET County Precinct 10-002"
+  "ocd-division/country:us/state:md/county:montgomery/precinct:5-017": {
+   "name": "MONTGOMERY County Precinct 5-017"
   },
   "ocd-division/country:us/state:md/county:washington/precinct:6-001": {
    "name": "WASHINGTON County Precinct 6-001"
@@ -589,38 +589,38 @@
   "ocd-division/country:us/state:md/place:baltimore/precinct:10-004": {
    "name": "BALTIMORE CITY Precinct 10-004"
   },
-  "ocd-division/country:us/state:md/county:montgomery/precinct:5-005": {
-   "name": "MONTGOMERY County Precinct 5-005"
+  "ocd-division/country:us/state:md/county:frederick/precinct:21-004": {
+   "name": "FREDERICK County Precinct 21-004"
   },
   "ocd-division/country:us/state:md/county:allegany/precinct:29-001": {
    "name": "ALLEGANY County Precinct 29-001"
   },
-  "ocd-division/country:us/state:md/county:frederick/precinct:21-004": {
-   "name": "FREDERICK County Precinct 21-004"
-  },
-  "ocd-division/country:us/state:md/county:montgomery/precinct:5-006": {
-   "name": "MONTGOMERY County Precinct 5-006"
-  },
-  "ocd-division/country:us/state:md/county:allegany/precinct:29-002": {
-   "name": "ALLEGANY County Precinct 29-002"
+  "ocd-division/country:us/state:md/county:montgomery/precinct:5-005": {
+   "name": "MONTGOMERY County Precinct 5-005"
   },
   "ocd-division/country:us/state:md/county:frederick/precinct:21-003": {
    "name": "FREDERICK County Precinct 21-003"
   },
+  "ocd-division/country:us/state:md/county:allegany/precinct:29-002": {
+   "name": "ALLEGANY County Precinct 29-002"
+  },
+  "ocd-division/country:us/state:md/county:montgomery/precinct:5-006": {
+   "name": "MONTGOMERY County Precinct 5-006"
+  },
   "ocd-division/country:us/state:md/county:frederick/precinct:21-002": {
    "name": "FREDERICK County Precinct 21-002"
-  },
-  "ocd-division/country:us/state:md/county:montgomery/precinct:5-008": {
-   "name": "MONTGOMERY County Precinct 5-008"
   },
   "ocd-division/country:us/state:md/county:frederick/precinct:21-001": {
    "name": "FREDERICK County Precinct 21-001"
   },
-  "ocd-division/country:us/state:md/county:montgomery/precinct:5-009": {
-   "name": "MONTGOMERY County Precinct 5-009"
+  "ocd-division/country:us/state:md/county:montgomery/precinct:5-008": {
+   "name": "MONTGOMERY County Precinct 5-008"
   },
   "ocd-division/country:us/state:md/county:frederick/precinct:21-008": {
    "name": "FREDERICK County Precinct 21-008"
+  },
+  "ocd-division/country:us/state:md/county:montgomery/precinct:5-009": {
+   "name": "MONTGOMERY County Precinct 5-009"
   },
   "ocd-division/country:us/state:md/county:frederick/precinct:21-007": {
    "name": "FREDERICK County Precinct 21-007"
@@ -1009,35 +1009,35 @@
   "ocd-division/country:us/state:md/county:prince_george~s/precinct:12-015": {
    "name": "PRINCE GEORGE'S County Precinct 12-015"
   },
-  "ocd-division/country:us/state:md/county:prince_george~s/precinct:12-006": {
-   "name": "PRINCE GEORGE'S County Precinct 12-006"
-  },
   "ocd-division/country:us/state:md/sldl:42a": {
    "name": "Maryland State Legislative Subdistrict 42A"
   },
   "ocd-division/country:us/state:md/county:calvert/precinct:2-007": {
    "name": "CALVERT County Precinct 2-007"
   },
-  "ocd-division/country:us/state:md/county:prince_george~s/precinct:12-007": {
-   "name": "PRINCE GEORGE'S County Precinct 12-007"
+  "ocd-division/country:us/state:md/county:prince_george~s/precinct:12-006": {
+   "name": "PRINCE GEORGE'S County Precinct 12-006"
   },
   "ocd-division/country:us/state:md/county:calvert/precinct:2-006": {
    "name": "CALVERT County Precinct 2-006"
   },
-  "ocd-division/country:us/state:md/county:prince_george~s/precinct:12-008": {
-   "name": "PRINCE GEORGE'S County Precinct 12-008"
+  "ocd-division/country:us/state:md/county:prince_george~s/precinct:12-007": {
+   "name": "PRINCE GEORGE'S County Precinct 12-007"
   },
   "ocd-division/country:us/state:md/place:baltimore/precinct:23-001": {
    "name": "BALTIMORE CITY Precinct 23-001"
   },
-  "ocd-division/country:us/state:md/county:prince_george~s/precinct:12-009": {
-   "name": "PRINCE GEORGE'S County Precinct 12-009"
+  "ocd-division/country:us/state:md/county:prince_george~s/precinct:12-008": {
+   "name": "PRINCE GEORGE'S County Precinct 12-008"
+  },
+  "ocd-division/country:us/state:md/sldl:42b": {
+   "name": "Maryland State Legislative Subdistrict 42B"
   },
   "ocd-division/country:us/state:md/county:calvert/precinct:2-008": {
    "name": "CALVERT County Precinct 2-008"
   },
-  "ocd-division/country:us/state:md/sldl:42b": {
-   "name": "Maryland State Legislative Subdistrict 42B"
+  "ocd-division/country:us/state:md/county:prince_george~s/precinct:12-009": {
+   "name": "PRINCE GEORGE'S County Precinct 12-009"
   },
   "ocd-division/country:us/state:md/place:baltimore/precinct:23-003": {
    "name": "BALTIMORE CITY Precinct 23-003"
@@ -1072,11 +1072,11 @@
   "ocd-division/country:us/state:md/county:prince_george~s/precinct:12-017": {
    "name": "PRINCE GEORGE'S County Precinct 12-017"
   },
-  "ocd-division/country:us/state:md/county:prince_george~s/precinct:12-018": {
-   "name": "PRINCE GEORGE'S County Precinct 12-018"
-  },
   "ocd-division/country:us/state:md/county:kent/precinct:7-001": {
    "name": "KENT County Precinct 7-001"
+  },
+  "ocd-division/country:us/state:md/county:prince_george~s/precinct:12-018": {
+   "name": "PRINCE GEORGE'S County Precinct 12-018"
   },
   "ocd-division/country:us/state:md/place:baltimore/precinct:15-009": {
    "name": "BALTIMORE CITY Precinct 15-009"
@@ -1114,14 +1114,14 @@
   "ocd-division/country:us/state:md/place:baltimore/precinct:15-022": {
    "name": "BALTIMORE CITY Precinct 15-022"
   },
+  "ocd-division/country:us/state:md/place:baltimore/precinct:15-021": {
+   "name": "BALTIMORE CITY Precinct 15-021"
+  },
   "ocd-division/country:us/state:md/county:prince_george~s/council_district:1": {
    "name": "Prince George's County MD County Council District 1",
    "officeIndices": [
     157
    ]
-  },
-  "ocd-division/country:us/state:md/place:baltimore/precinct:15-021": {
-   "name": "BALTIMORE CITY Precinct 15-021"
   },
   "ocd-division/country:us/state:md/place:baltimore/precinct:15-024": {
    "name": "BALTIMORE CITY Precinct 15-024"
@@ -1132,17 +1132,17 @@
     158
    ]
   },
+  "ocd-division/country:us/state:md/sldl:44a": {
+   "name": "Maryland State Legislative Subdistrict 44A"
+  },
+  "ocd-division/country:us/state:md/place:baltimore/precinct:15-023": {
+   "name": "BALTIMORE CITY Precinct 15-023"
+  },
   "ocd-division/country:us/state:md/county:prince_george~s/council_district:3": {
    "name": "Prince George's County MD County Council District 3",
    "officeIndices": [
     159
    ]
-  },
-  "ocd-division/country:us/state:md/place:baltimore/precinct:15-023": {
-   "name": "BALTIMORE CITY Precinct 15-023"
-  },
-  "ocd-division/country:us/state:md/sldl:44a": {
-   "name": "Maryland State Legislative Subdistrict 44A"
   },
   "ocd-division/country:us/state:md/county:prince_george~s/council_district:4": {
    "name": "Prince George's County MD County Council District 4",
@@ -1150,23 +1150,23 @@
     160
    ]
   },
+  "ocd-division/country:us/state:md/place:baltimore/precinct:15-025": {
+   "name": "BALTIMORE CITY Precinct 15-025"
+  },
   "ocd-division/country:us/state:md/county:prince_george~s/council_district:5": {
    "name": "Prince George's County MD County Council District 5",
    "officeIndices": [
     161
    ]
   },
-  "ocd-division/country:us/state:md/place:baltimore/precinct:15-025": {
-   "name": "BALTIMORE CITY Precinct 15-025"
+  "ocd-division/country:us/state:md/county:somerset/precinct:4-001": {
+   "name": "SOMERSET County Precinct 4-001"
   },
   "ocd-division/country:us/state:md/county:prince_george~s/council_district:6": {
    "name": "Prince George's County MD County Council District 6",
    "officeIndices": [
     162
    ]
-  },
-  "ocd-division/country:us/state:md/county:somerset/precinct:4-001": {
-   "name": "SOMERSET County Precinct 4-001"
   },
   "ocd-division/country:us/state:md/county:prince_george~s/council_district:7": {
    "name": "Prince George's County MD County Council District 7",
@@ -1207,11 +1207,11 @@
   "ocd-division/country:us/state:md/county:somerset/precinct:13-001": {
    "name": "SOMERSET County Precinct 13-001"
   },
-  "ocd-division/country:us/state:md/county:frederick/precinct:16-001": {
-   "name": "FREDERICK County Precinct 16-001"
-  },
   "ocd-division/country:us/state:md/county:somerset/precinct:13-002": {
    "name": "SOMERSET County Precinct 13-002"
+  },
+  "ocd-division/country:us/state:md/county:frederick/precinct:16-001": {
+   "name": "FREDERICK County Precinct 16-001"
   },
   "ocd-division/country:us/state:md/county:somerset/precinct:13-003": {
    "name": "SOMERSET County Precinct 13-003"
@@ -1222,32 +1222,29 @@
   "ocd-division/country:us/state:md/county:wicomico/precinct:14-002": {
    "name": "WICOMICO County Precinct 14-002"
   },
-  "ocd-division/country:us/state:md/county:anne_arundel/precinct:1-024": {
-   "name": "ANNE ARUNDEL County Precinct 1-024"
-  },
   "ocd-division/country:us/state:md/place:baltimore/precinct:3-001": {
    "name": "BALTIMORE CITY Precinct 3-001"
+  },
+  "ocd-division/country:us/state:md/county:anne_arundel/precinct:1-024": {
+   "name": "ANNE ARUNDEL County Precinct 1-024"
   },
   "ocd-division/country:us/state:md/county:anne_arundel/precinct:1-025": {
    "name": "ANNE ARUNDEL County Precinct 1-025"
   },
-  "ocd-division/country:us/state:md/county:anne_arundel/precinct:1-022": {
-   "name": "ANNE ARUNDEL County Precinct 1-022"
-  },
   "ocd-division/country:us/state:md/place:baltimore/precinct:3-003": {
    "name": "BALTIMORE CITY Precinct 3-003"
   },
-  "ocd-division/country:us/state:md/county:anne_arundel/precinct:1-023": {
-   "name": "ANNE ARUNDEL County Precinct 1-023"
+  "ocd-division/country:us/state:md/county:anne_arundel/precinct:1-022": {
+   "name": "ANNE ARUNDEL County Precinct 1-022"
   },
   "ocd-division/country:us/state:md/place:baltimore/precinct:3-002": {
    "name": "BALTIMORE CITY Precinct 3-002"
   },
+  "ocd-division/country:us/state:md/county:anne_arundel/precinct:1-023": {
+   "name": "ANNE ARUNDEL County Precinct 1-023"
+  },
   "ocd-division/country:us/state:md/county:anne_arundel/precinct:1-026": {
    "name": "ANNE ARUNDEL County Precinct 1-026"
-  },
-  "ocd-division/country:us/state:md/county:baltimore/precinct:12-006": {
-   "name": "BALTIMORE County Precinct 12-006"
   },
   "ocd-division/country:us/state:md/cd:4": {
    "name": "Maryland's 4th congressional district",
@@ -1255,8 +1252,8 @@
     1
    ]
   },
-  "ocd-division/country:us/state:md/county:baltimore/precinct:12-005": {
-   "name": "BALTIMORE County Precinct 12-005"
+  "ocd-division/country:us/state:md/county:baltimore/precinct:12-006": {
+   "name": "BALTIMORE County Precinct 12-006"
   },
   "ocd-division/country:us/state:md/cd:5": {
    "name": "Maryland's 5th congressional district",
@@ -1264,14 +1261,17 @@
     2
    ]
   },
-  "ocd-division/country:us/state:md/county:baltimore/precinct:12-008": {
-   "name": "BALTIMORE County Precinct 12-008"
+  "ocd-division/country:us/state:md/county:baltimore/precinct:12-005": {
+   "name": "BALTIMORE County Precinct 12-005"
   },
   "ocd-division/country:us/state:md/cd:2": {
    "name": "Maryland's 2nd congressional district",
    "officeIndices": [
     3
    ]
+  },
+  "ocd-division/country:us/state:md/county:baltimore/precinct:12-008": {
+   "name": "BALTIMORE County Precinct 12-008"
   },
   "ocd-division/country:us/state:md/cd:3": {
    "name": "Maryland's 3rd congressional district",
@@ -1471,6 +1471,12 @@
   "ocd-division/country:us/state:md/county:anne_arundel/precinct:1-011": {
    "name": "ANNE ARUNDEL County Precinct 1-011"
   },
+  "ocd-division/country:us/state:md/place:baltimore/precinct:26-024": {
+   "name": "BALTIMORE CITY Precinct 26-024"
+  },
+  "ocd-division/country:us/state:md/county:anne_arundel/precinct:1-012": {
+   "name": "ANNE ARUNDEL County Precinct 1-012"
+  },
   "ocd-division/country:us/state:md/county:baltimore": {
    "name": "Baltimore County",
    "officeIndices": [
@@ -1479,12 +1485,6 @@
     166,
     167
    ]
-  },
-  "ocd-division/country:us/state:md/place:baltimore/precinct:26-024": {
-   "name": "BALTIMORE CITY Precinct 26-024"
-  },
-  "ocd-division/country:us/state:md/county:anne_arundel/precinct:1-012": {
-   "name": "ANNE ARUNDEL County Precinct 1-012"
   },
   "ocd-division/country:us/state:md/place:baltimore/precinct:26-021": {
    "name": "BALTIMORE CITY Precinct 26-021"
@@ -1591,14 +1591,14 @@
     169
    ]
   },
+  "ocd-division/country:us/state:md/place:baltimore/precinct:26-031": {
+   "name": "BALTIMORE CITY Precinct 26-031"
+  },
   "ocd-division/country:us/state:md/county:howard/council_district:5": {
    "name": "Howard County MD County Council District 5",
    "officeIndices": [
     170
    ]
-  },
-  "ocd-division/country:us/state:md/place:baltimore/precinct:26-031": {
-   "name": "BALTIMORE CITY Precinct 26-031"
   },
   "ocd-division/country:us/state:md/place:baltimore/precinct:26-030": {
    "name": "BALTIMORE CITY Precinct 26-030"
@@ -1612,14 +1612,14 @@
   "ocd-division/country:us/state:md/place:baltimore/precinct:26-032": {
    "name": "BALTIMORE CITY Precinct 26-032"
   },
+  "ocd-division/country:us/state:md/county:anne_arundel/precinct:5-010": {
+   "name": "ANNE ARUNDEL County Precinct 5-010"
+  },
   "ocd-division/country:us/state:md/county:howard/council_district:1": {
    "name": "Howard County MD County Council District 1",
    "officeIndices": [
     171
    ]
-  },
-  "ocd-division/country:us/state:md/county:anne_arundel/precinct:5-010": {
-   "name": "ANNE ARUNDEL County Precinct 5-010"
   },
   "ocd-division/country:us/state:md/county:dorchester": {
    "name": "Dorchester County",
@@ -2407,23 +2407,23 @@
   "ocd-division/country:us/state:md/county:baltimore/school_district:baltimore_county_public_schools": {
    "name": "baltimore county public schools"
   },
-  "ocd-division/country:us/state:md/county:dorchester/precinct:16-001": {
-   "name": "DORCHESTER County Precinct 16-001"
-  },
   "ocd-division/country:us/state:md/place:capitol_heights": {
    "name": "Capitol Heights town"
   },
-  "ocd-division/country:us/state:md/county:prince_george~s/precinct:17-007": {
-   "name": "PRINCE GEORGE'S County Precinct 17-007"
+  "ocd-division/country:us/state:md/county:dorchester/precinct:16-001": {
+   "name": "DORCHESTER County Precinct 16-001"
   },
   "ocd-division/country:us/state:md/county:frederick/precinct:2-008": {
    "name": "FREDERICK County Precinct 2-008"
   },
-  "ocd-division/country:us/state:md/county:prince_george~s/precinct:17-008": {
-   "name": "PRINCE GEORGE'S County Precinct 17-008"
+  "ocd-division/country:us/state:md/county:prince_george~s/precinct:17-007": {
+   "name": "PRINCE GEORGE'S County Precinct 17-007"
   },
   "ocd-division/country:us/state:md/county:frederick/precinct:2-009": {
    "name": "FREDERICK County Precinct 2-009"
+  },
+  "ocd-division/country:us/state:md/county:prince_george~s/precinct:17-008": {
+   "name": "PRINCE GEORGE'S County Precinct 17-008"
   },
   "ocd-division/country:us/state:md/county:prince_george~s/precinct:17-005": {
    "name": "PRINCE GEORGE'S County Precinct 17-005"
@@ -2446,11 +2446,11 @@
   "ocd-division/country:us/state:md/county:frederick/precinct:2-001": {
    "name": "FREDERICK County Precinct 2-001"
   },
-  "ocd-division/country:us/state:md/county:frederick/precinct:2-002": {
-   "name": "FREDERICK County Precinct 2-002"
-  },
   "ocd-division/country:us/state:md/place:new_market": {
    "name": "New Market town"
+  },
+  "ocd-division/country:us/state:md/county:frederick/precinct:2-002": {
+   "name": "FREDERICK County Precinct 2-002"
   },
   "ocd-division/country:us/state:md/county:frederick/precinct:2-003": {
    "name": "FREDERICK County Precinct 2-003"
@@ -2461,11 +2461,11 @@
   "ocd-division/country:us/state:md/county:frederick/precinct:2-005": {
    "name": "FREDERICK County Precinct 2-005"
   },
-  "ocd-division/country:us/state:md/county:prince_george~s/precinct:17-009": {
-   "name": "PRINCE GEORGE'S County Precinct 17-009"
-  },
   "ocd-division/country:us/state:md/county:frederick/precinct:2-006": {
    "name": "FREDERICK County Precinct 2-006"
+  },
+  "ocd-division/country:us/state:md/county:prince_george~s/precinct:17-009": {
+   "name": "PRINCE GEORGE'S County Precinct 17-009"
   },
   "ocd-division/country:us/state:md/county:frederick/precinct:2-007": {
    "name": "FREDERICK County Precinct 2-007"
@@ -2476,11 +2476,11 @@
   "ocd-division/country:us/state:md/county:frederick/precinct:25-001": {
    "name": "FREDERICK County Precinct 25-001"
   },
-  "ocd-division/country:us/state:md/county:prince_george~s/precinct:5-005": {
-   "name": "PRINCE GEORGE'S County Precinct 5-005"
-  },
   "ocd-division/country:us/state:md/county:charles/precinct:9-002": {
    "name": "CHARLES County Precinct 9-002"
+  },
+  "ocd-division/country:us/state:md/county:prince_george~s/precinct:5-005": {
+   "name": "PRINCE GEORGE'S County Precinct 5-005"
   },
   "ocd-division/country:us/state:md/county:prince_george~s/precinct:5-004": {
    "name": "PRINCE GEORGE'S County Precinct 5-004"
@@ -2488,23 +2488,23 @@
   "ocd-division/country:us/state:md/county:prince_george~s/precinct:5-003": {
    "name": "PRINCE GEORGE'S County Precinct 5-003"
   },
-  "ocd-division/country:us/state:md/county:prince_george~s/precinct:5-002": {
-   "name": "PRINCE GEORGE'S County Precinct 5-002"
-  },
   "ocd-division/country:us/state:md/county:charles/precinct:9-001": {
    "name": "CHARLES County Precinct 9-001"
   },
-  "ocd-division/country:us/state:md/county:prince_george~s/precinct:5-009": {
-   "name": "PRINCE GEORGE'S County Precinct 5-009"
+  "ocd-division/country:us/state:md/county:prince_george~s/precinct:5-002": {
+   "name": "PRINCE GEORGE'S County Precinct 5-002"
   },
   "ocd-division/country:us/state:md/county:prince_george~s/precinct:17-011": {
    "name": "PRINCE GEORGE'S County Precinct 17-011"
   },
-  "ocd-division/country:us/state:md/county:prince_george~s/precinct:5-008": {
-   "name": "PRINCE GEORGE'S County Precinct 5-008"
+  "ocd-division/country:us/state:md/county:prince_george~s/precinct:5-009": {
+   "name": "PRINCE GEORGE'S County Precinct 5-009"
   },
   "ocd-division/country:us/state:md/county:prince_george~s/precinct:17-010": {
    "name": "PRINCE GEORGE'S County Precinct 17-010"
+  },
+  "ocd-division/country:us/state:md/county:prince_george~s/precinct:5-008": {
+   "name": "PRINCE GEORGE'S County Precinct 5-008"
   },
   "ocd-division/country:us/state:md/county:prince_george~s/precinct:5-007": {
    "name": "PRINCE GEORGE'S County Precinct 5-007"
@@ -2536,20 +2536,20 @@
   "ocd-division/country:us/state:md/county:garrett/precinct:8-002": {
    "name": "GARRETT County Precinct 8-002"
   },
-  "ocd-division/country:us/state:md/county:garrett/precinct:8-001": {
-   "name": "GARRETT County Precinct 8-001"
-  },
   "ocd-division/country:us/state:md/county:baltimore/precinct:4-008": {
    "name": "BALTIMORE County Precinct 4-008"
+  },
+  "ocd-division/country:us/state:md/county:garrett/precinct:8-001": {
+   "name": "GARRETT County Precinct 8-001"
   },
   "ocd-division/country:us/state:md/county:baltimore/precinct:4-009": {
    "name": "BALTIMORE County Precinct 4-009"
   },
-  "ocd-division/country:us/state:md/county:baltimore/precinct:4-006": {
-   "name": "BALTIMORE County Precinct 4-006"
-  },
   "ocd-division/country:us/state:md/place:baltimore/precinct:27-051": {
    "name": "BALTIMORE CITY Precinct 27-051"
+  },
+  "ocd-division/country:us/state:md/county:baltimore/precinct:4-006": {
+   "name": "BALTIMORE County Precinct 4-006"
   },
   "ocd-division/country:us/state:md/place:baltimore/precinct:27-052": {
    "name": "BALTIMORE CITY Precinct 27-052"
@@ -3107,17 +3107,17 @@
   "ocd-division/country:us/state:md/county:st_mary~s/precinct:8-011": {
    "name": "ST. MARY'S County Precinct 8-011"
   },
-  "ocd-division/country:us/state:md/county:calvert": {
-   "name": "Calvert County",
-   "officeIndices": [
-    218
-   ]
-  },
   "ocd-division/country:us/state:md/sldl:31b": {
    "name": "Maryland State Legislative Subdistrict 31B"
   },
   "ocd-division/country:us/state:md/county:st_mary~s/precinct:8-010": {
    "name": "ST. MARY'S County Precinct 8-010"
+  },
+  "ocd-division/country:us/state:md/county:calvert": {
+   "name": "Calvert County",
+   "officeIndices": [
+    218
+   ]
   },
   "ocd-division/country:us/state:md/sldl:31a": {
    "name": "Maryland State Legislative Subdistrict 31A"
@@ -3537,6 +3537,9 @@
   "ocd-division/country:us/state:md/county:anne_arundel/precinct:7-007": {
    "name": "ANNE ARUNDEL County Precinct 7-007"
   },
+  "ocd-division/country:us/state:md/county:anne_arundel/precinct:7-008": {
+   "name": "ANNE ARUNDEL County Precinct 7-008"
+  },
   "ocd-division/country:us/state:md/county:prince_george~s": {
    "name": "Prince George's County",
    "officeIndices": [
@@ -3546,9 +3549,6 @@
     222,
     223
    ]
-  },
-  "ocd-division/country:us/state:md/county:anne_arundel/precinct:7-008": {
-   "name": "ANNE ARUNDEL County Precinct 7-008"
   },
   "ocd-division/country:us/state:md/county:anne_arundel/precinct:7-009": {
    "name": "ANNE ARUNDEL County Precinct 7-009"
@@ -4306,6 +4306,9 @@
   "ocd-division/country:us/state:md/place:baltimore/precinct:9-002": {
    "name": "BALTIMORE CITY Precinct 9-002"
   },
+  "ocd-division/country:us/state:md/place:baltimore/precinct:9-003": {
+   "name": "BALTIMORE CITY Precinct 9-003"
+  },
   "ocd-division/country:us/state:md/county:charles": {
    "name": "Charles County",
    "officeIndices": [
@@ -4313,9 +4316,6 @@
     240,
     241
    ]
-  },
-  "ocd-division/country:us/state:md/place:baltimore/precinct:9-003": {
-   "name": "BALTIMORE CITY Precinct 9-003"
   },
   "ocd-division/country:us/state:md/county:montgomery/precinct:9-012": {
    "name": "MONTGOMERY County Precinct 9-012"
@@ -4914,20 +4914,20 @@
   "ocd-division/country:us/state:md/place:baltimore/ward:21": {
    "name": "Baltimore City MD Ward 21"
   },
-  "ocd-division/country:us/state:md/place:baltimore/ward:20": {
-   "name": "Baltimore City MD Ward 20"
-  },
   "ocd-division/country:us/state:md/place:forest_heights": {
    "name": "Forest Heights town"
   },
-  "ocd-division/country:us/state:md/place:baltimore/ward:23": {
-   "name": "Baltimore City MD Ward 23"
+  "ocd-division/country:us/state:md/place:baltimore/ward:20": {
+   "name": "Baltimore City MD Ward 20"
+  },
+  "ocd-division/country:us/state:md/place:williamsport": {
+   "name": "Williamsport town"
   },
   "ocd-division/country:us/state:md/place:chesapeake_beach": {
    "name": "Chesapeake Beach town"
   },
-  "ocd-division/country:us/state:md/place:williamsport": {
-   "name": "Williamsport town"
+  "ocd-division/country:us/state:md/place:baltimore/ward:23": {
+   "name": "Baltimore City MD Ward 23"
   },
   "ocd-division/country:us/state:md/place:baltimore/ward:22": {
    "name": "Baltimore City MD Ward 22"
@@ -5992,11 +5992,11 @@
   "ocd-division/country:us/state:md/county:anne_arundel/precinct:3-002": {
    "name": "ANNE ARUNDEL County Precinct 3-002"
   },
-  "ocd-division/country:us/state:md/place:chevy_chase": {
-   "name": "Chevy Chase town"
-  },
   "ocd-division/country:us/state:md/place:eagle_harbor": {
    "name": "Eagle Harbor town"
+  },
+  "ocd-division/country:us/state:md/place:chevy_chase": {
+   "name": "Chevy Chase town"
   },
   "ocd-division/country:us/state:md/county:anne_arundel/precinct:3-005": {
    "name": "ANNE ARUNDEL County Precinct 3-005"
@@ -8149,6 +8149,9 @@
   "ocd-division/country:us/state:md/county:frederick/precinct:3-001": {
    "name": "FREDERICK County Precinct 3-001"
   },
+  "ocd-division/country:us/state:md/county:worcester/precinct:5-002": {
+   "name": "WORCESTER County Precinct 5-002"
+  },
   "ocd-division/country:us/state:md/county:anne_arundel": {
    "name": "Anne Arundel County",
    "officeIndices": [
@@ -8157,9 +8160,6 @@
     308,
     309
    ]
-  },
-  "ocd-division/country:us/state:md/county:worcester/precinct:5-002": {
-   "name": "WORCESTER County Precinct 5-002"
   },
   "ocd-division/country:us/state:md/county:worcester/precinct:5-001": {
    "name": "WORCESTER County Precinct 5-001"

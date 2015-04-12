@@ -84,32 +84,32 @@
   "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-49": {
    "name": "Ocean County Precinct Toms_River-49"
   },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-46": {
-   "name": "Ocean County Precinct Toms_River-46"
-  },
   "ocd-division/country:us/state:nj/county:mercer/precinct:pennington-2": {
    "name": "Mercer County Precinct Pennington-2"
   },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-47": {
-   "name": "Ocean County Precinct Toms_River-47"
+  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-46": {
+   "name": "Ocean County Precinct Toms_River-46"
   },
   "ocd-division/country:us/state:nj/county:mercer/precinct:pennington-3": {
    "name": "Mercer County Precinct Pennington-3"
   },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-44": {
-   "name": "Ocean County Precinct Toms_River-44"
+  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-47": {
+   "name": "Ocean County Precinct Toms_River-47"
   },
   "ocd-division/country:us/state:nj/county:somerset/precinct:franklin_twp-29": {
    "name": "Somerset County Precinct Franklin_Twp-29"
   },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-45": {
-   "name": "Ocean County Precinct Toms_River-45"
+  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-44": {
+   "name": "Ocean County Precinct Toms_River-44"
+  },
+  "ocd-division/country:us/state:nj/county:hunterdon/precinct:hampton-1": {
+   "name": "Hunterdon County Precinct Hampton-1"
   },
   "ocd-division/country:us/state:nj/county:mercer/precinct:pennington-1": {
    "name": "Mercer County Precinct Pennington-1"
   },
-  "ocd-division/country:us/state:nj/county:hunterdon/precinct:hampton-1": {
-   "name": "Hunterdon County Precinct Hampton-1"
+  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-45": {
+   "name": "Ocean County Precinct Toms_River-45"
   },
   "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-42": {
    "name": "Ocean County Precinct Toms_River-42"
@@ -117,29 +117,29 @@
   "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-43": {
    "name": "Ocean County Precinct Toms_River-43"
   },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:barnegat_twp-10": {
-   "name": "Ocean County Precinct Barnegat_Twp-10"
+  "ocd-division/country:us/state:nj/county:warren/precinct:lopatcong-5": {
+   "name": "Warren County Precinct Lopatcong-5"
   },
   "ocd-division/country:us/state:nj/county:somerset/precinct:franklin_twp-37": {
    "name": "Somerset County Precinct Franklin_Twp-37"
   },
-  "ocd-division/country:us/state:nj/county:warren/precinct:lopatcong-5": {
-   "name": "Warren County Precinct Lopatcong-5"
-  },
-  "ocd-division/country:us/state:nj/county:somerset/precinct:franklin_twp-36": {
-   "name": "Somerset County Precinct Franklin_Twp-36"
+  "ocd-division/country:us/state:nj/county:ocean/precinct:barnegat_twp-10": {
+   "name": "Ocean County Precinct Barnegat_Twp-10"
   },
   "ocd-division/country:us/state:nj/county:warren/precinct:lopatcong-4": {
    "name": "Warren County Precinct Lopatcong-4"
   },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:barnegat_twp-12": {
-   "name": "Ocean County Precinct Barnegat_Twp-12"
+  "ocd-division/country:us/state:nj/county:somerset/precinct:franklin_twp-36": {
+   "name": "Somerset County Precinct Franklin_Twp-36"
+  },
+  "ocd-division/country:us/state:nj/county:warren/precinct:lopatcong-3": {
+   "name": "Warren County Precinct Lopatcong-3"
   },
   "ocd-division/country:us/state:nj/county:somerset/precinct:franklin_twp-39": {
    "name": "Somerset County Precinct Franklin_Twp-39"
   },
-  "ocd-division/country:us/state:nj/county:warren/precinct:lopatcong-3": {
-   "name": "Warren County Precinct Lopatcong-3"
+  "ocd-division/country:us/state:nj/county:ocean/precinct:barnegat_twp-12": {
+   "name": "Ocean County Precinct Barnegat_Twp-12"
   },
   "ocd-division/country:us/state:nj/county:warren/precinct:lopatcong-2": {
    "name": "Warren County Precinct Lopatcong-2"
@@ -315,11 +315,11 @@
   "ocd-division/country:us/state:nj/county:monmouth/precinct:hazlet-4": {
    "name": "Monmouth County Precinct Hazlet-4"
   },
-  "ocd-division/country:us/state:nj/county:monmouth/precinct:hazlet-3": {
-   "name": "Monmouth County Precinct Hazlet-3"
-  },
   "ocd-division/country:us/state:nj/place:hammonton": {
    "name": "Hammonton town"
+  },
+  "ocd-division/country:us/state:nj/county:monmouth/precinct:hazlet-3": {
+   "name": "Monmouth County Precinct Hazlet-3"
   },
   "ocd-division/country:us/state:nj/county:monmouth/precinct:hazlet-2": {
    "name": "Monmouth County Precinct Hazlet-2"
@@ -336,11 +336,11 @@
   "ocd-division/country:us/state:nj/place:old_tappan": {
    "name": "Old Tappan borough"
   },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-50": {
-   "name": "Ocean County Precinct Toms_River-50"
-  },
   "ocd-division/country:us/state:nj/county:warren/precinct:phillipsburg-7-1": {
    "name": "Warren County Precinct Phillipsburg-7-1"
+  },
+  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-50": {
+   "name": "Ocean County Precinct Toms_River-50"
   },
   "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-51": {
    "name": "Ocean County Precinct Toms_River-51"
@@ -354,17 +354,17 @@
   "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-54": {
    "name": "Ocean County Precinct Toms_River-54"
   },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-55": {
-   "name": "Ocean County Precinct Toms_River-55"
-  },
   "ocd-division/country:us/state:nj/county:warren/precinct:phillipsburg-7-2": {
    "name": "Warren County Precinct Phillipsburg-7-2"
   },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-56": {
-   "name": "Ocean County Precinct Toms_River-56"
+  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-55": {
+   "name": "Ocean County Precinct Toms_River-55"
   },
   "ocd-division/country:us/state:nj/county:warren/precinct:phillipsburg-7-3": {
    "name": "Warren County Precinct Phillipsburg-7-3"
+  },
+  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-56": {
+   "name": "Ocean County Precinct Toms_River-56"
   },
   "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-57": {
    "name": "Ocean County Precinct Toms_River-57"
@@ -429,11 +429,11 @@
   "ocd-division/country:us/state:nj/county:morris/school_district:mountain_lakes": {
    "name": "mountain lakes"
   },
-  "ocd-division/country:us/state:nj/county:ocean/school_district:island_heights": {
-   "name": "island heights"
-  },
   "ocd-division/country:us/state:nj/county:union/precinct:linden-04-1": {
    "name": "Union County Precinct Linden-04-1"
+  },
+  "ocd-division/country:us/state:nj/county:ocean/school_district:island_heights": {
+   "name": "island heights"
   },
   "ocd-division/country:us/state:nj/county:union/precinct:linden-04-2": {
    "name": "Union County Precinct Linden-04-2"
@@ -441,23 +441,23 @@
   "ocd-division/country:us/state:nj/county:union/precinct:linden-04-3": {
    "name": "Union County Precinct Linden-04-3"
   },
-  "ocd-division/country:us/state:nj/county:morris/precinct:florham_park_boro-9": {
-   "name": "Morris County Precinct Florham_Park_Boro-9"
+  "ocd-division/country:us/state:nj/county:union/precinct:linden-04-4": {
+   "name": "Union County Precinct Linden-04-4"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:perth_amboy-5-3": {
    "name": "Middlesex County Precinct Perth_Amboy-5-3"
   },
-  "ocd-division/country:us/state:nj/county:union/precinct:linden-04-4": {
-   "name": "Union County Precinct Linden-04-4"
+  "ocd-division/country:us/state:nj/county:morris/precinct:florham_park_boro-9": {
+   "name": "Morris County Precinct Florham_Park_Boro-9"
   },
-  "ocd-division/country:us/state:nj/county:morris/precinct:florham_park_boro-7": {
-   "name": "Morris County Precinct Florham_Park_Boro-7"
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:e_brunswick-36": {
+   "name": "Middlesex County Precinct E_Brunswick-36"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:perth_amboy-5-1": {
    "name": "Middlesex County Precinct Perth_Amboy-5-1"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:e_brunswick-36": {
-   "name": "Middlesex County Precinct E_Brunswick-36"
+  "ocd-division/country:us/state:nj/county:morris/precinct:florham_park_boro-7": {
+   "name": "Morris County Precinct Florham_Park_Boro-7"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:e_brunswick-37": {
    "name": "Middlesex County Precinct E_Brunswick-37"
@@ -579,38 +579,38 @@
   "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-20": {
    "name": "Ocean County Precinct Toms_River-20"
   },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-23": {
-   "name": "Ocean County Precinct Toms_River-23"
-  },
   "ocd-division/country:us/state:nj/place:shiloh": {
    "name": "Shiloh borough"
+  },
+  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-23": {
+   "name": "Ocean County Precinct Toms_River-23"
   },
   "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-22": {
    "name": "Ocean County Precinct Toms_River-22"
   },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-25": {
-   "name": "Ocean County Precinct Toms_River-25"
-  },
   "ocd-division/country:us/state:nj/county:essex/precinct:s_orange_village-9": {
    "name": "Essex County Precinct S_Orange_Village-9"
+  },
+  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-25": {
+   "name": "Ocean County Precinct Toms_River-25"
   },
   "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-24": {
    "name": "Ocean County Precinct Toms_River-24"
   },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-27": {
-   "name": "Ocean County Precinct Toms_River-27"
+  "ocd-division/country:us/state:nj/county:essex/precinct:s_orange_village-7": {
+   "name": "Essex County Precinct S_Orange_Village-7"
   },
   "ocd-division/country:us/state:nj/county:hudson/school_district:jersey_city_comm_charter": {
    "name": "jersey city comm  charter"
   },
-  "ocd-division/country:us/state:nj/county:essex/precinct:s_orange_village-7": {
-   "name": "Essex County Precinct S_Orange_Village-7"
-  },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-26": {
-   "name": "Ocean County Precinct Toms_River-26"
+  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-27": {
+   "name": "Ocean County Precinct Toms_River-27"
   },
   "ocd-division/country:us/state:nj/county:essex/precinct:s_orange_village-8": {
    "name": "Essex County Precinct S_Orange_Village-8"
+  },
+  "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-26": {
+   "name": "Ocean County Precinct Toms_River-26"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:e_brunswick-20": {
    "name": "Middlesex County Precinct E_Brunswick-20"
@@ -621,11 +621,11 @@
   "ocd-division/country:us/state:nj/county:middlesex/precinct:e_brunswick-22": {
    "name": "Middlesex County Precinct E_Brunswick-22"
   },
-  "ocd-division/country:us/state:nj/county:passaic/precinct:passaic-3-10": {
-   "name": "Passaic County Precinct Passaic-3-10"
-  },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:e_brunswick-23": {
    "name": "Middlesex County Precinct E_Brunswick-23"
+  },
+  "ocd-division/country:us/state:nj/county:passaic/precinct:passaic-3-10": {
+   "name": "Passaic County Precinct Passaic-3-10"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:e_brunswick-24": {
    "name": "Middlesex County Precinct E_Brunswick-24"
@@ -633,11 +633,11 @@
   "ocd-division/country:us/state:nj/county:middlesex/precinct:e_brunswick-25": {
    "name": "Middlesex County Precinct E_Brunswick-25"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:e_brunswick-26": {
-   "name": "Middlesex County Precinct E_Brunswick-26"
-  },
   "ocd-division/country:us/state:nj/place:passaic": {
    "name": "Passaic city"
+  },
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:e_brunswick-26": {
+   "name": "Middlesex County Precinct E_Brunswick-26"
   },
   "ocd-division/country:us/state:nj/county:union/school_district:union_co_teams_charter_school": {
    "name": "union co teams charter school"
@@ -663,17 +663,17 @@
   "ocd-division/country:us/state:nj/county:ocean/precinct:toms_river-13": {
    "name": "Ocean County Precinct Toms_River-13"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:e_brunswick-10": {
-   "name": "Middlesex County Precinct E_Brunswick-10"
-  },
   "ocd-division/country:us/state:nj/county:bergen/precinct:englewood-1-1": {
    "name": "Bergen County Precinct Englewood-1-1"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:e_brunswick-11": {
-   "name": "Middlesex County Precinct E_Brunswick-11"
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:e_brunswick-10": {
+   "name": "Middlesex County Precinct E_Brunswick-10"
   },
   "ocd-division/country:us/state:nj/county:bergen/precinct:englewood-1-2": {
    "name": "Bergen County Precinct Englewood-1-2"
+  },
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:e_brunswick-11": {
+   "name": "Middlesex County Precinct E_Brunswick-11"
   },
   "ocd-division/country:us/state:nj/county:bergen/precinct:englewood-1-3": {
    "name": "Bergen County Precinct Englewood-1-3"
@@ -717,38 +717,38 @@
   "ocd-division/country:us/state:nj/county:burlington/precinct:mansfield-3": {
    "name": "Burlington County Precinct Mansfield-3"
   },
-  "ocd-division/country:us/state:nj/county:mercer/precinct:ewing-17": {
-   "name": "Mercer County Precinct Ewing-17"
+  "ocd-division/country:us/state:nj/county:union/precinct:rahway-5-3": {
+   "name": "Union County Precinct Rahway-5-3"
   },
   "ocd-division/country:us/state:nj/county:burlington/precinct:willingboro-2": {
    "name": "Burlington County Precinct Willingboro-2"
   },
-  "ocd-division/country:us/state:nj/county:union/precinct:rahway-5-3": {
-   "name": "Union County Precinct Rahway-5-3"
-  },
-  "ocd-division/country:us/state:nj/county:mercer/precinct:ewing-18": {
-   "name": "Mercer County Precinct Ewing-18"
-  },
-  "ocd-division/country:us/state:nj/county:burlington/precinct:willingboro-3": {
-   "name": "Burlington County Precinct Willingboro-3"
+  "ocd-division/country:us/state:nj/county:mercer/precinct:ewing-17": {
+   "name": "Mercer County Precinct Ewing-17"
   },
   "ocd-division/country:us/state:nj/county:union/precinct:rahway-5-4": {
    "name": "Union County Precinct Rahway-5-4"
   },
-  "ocd-division/country:us/state:nj/county:mercer/precinct:ewing-19": {
-   "name": "Mercer County Precinct Ewing-19"
+  "ocd-division/country:us/state:nj/county:burlington/precinct:willingboro-3": {
+   "name": "Burlington County Precinct Willingboro-3"
+  },
+  "ocd-division/country:us/state:nj/county:mercer/precinct:ewing-18": {
+   "name": "Mercer County Precinct Ewing-18"
   },
   "ocd-division/country:us/state:nj/county:union/precinct:rahway-5-1": {
    "name": "Union County Precinct Rahway-5-1"
   },
-  "ocd-division/country:us/state:nj/county:burlington/school_district:tabernacle_township": {
-   "name": "tabernacle township"
+  "ocd-division/country:us/state:nj/county:mercer/precinct:ewing-19": {
+   "name": "Mercer County Precinct Ewing-19"
+  },
+  "ocd-division/country:us/state:nj/county:union/precinct:rahway-5-2": {
+   "name": "Union County Precinct Rahway-5-2"
   },
   "ocd-division/country:us/state:nj/county:burlington/precinct:willingboro-1": {
    "name": "Burlington County Precinct Willingboro-1"
   },
-  "ocd-division/country:us/state:nj/county:union/precinct:rahway-5-2": {
-   "name": "Union County Precinct Rahway-5-2"
+  "ocd-division/country:us/state:nj/county:burlington/school_district:tabernacle_township": {
+   "name": "tabernacle township"
   },
   "ocd-division/country:us/state:nj/county:mercer/precinct:ewing-13": {
    "name": "Mercer County Precinct Ewing-13"
@@ -765,11 +765,11 @@
   "ocd-division/country:us/state:nj/county:mercer/precinct:ewing-10": {
    "name": "Mercer County Precinct Ewing-10"
   },
-  "ocd-division/country:us/state:nj/county:mercer/precinct:ewing-11": {
-   "name": "Mercer County Precinct Ewing-11"
-  },
   "ocd-division/country:us/state:nj/place:norwood": {
    "name": "Norwood borough"
+  },
+  "ocd-division/country:us/state:nj/county:mercer/precinct:ewing-11": {
+   "name": "Mercer County Precinct Ewing-11"
   },
   "ocd-division/country:us/state:nj/county:mercer/precinct:ewing-12": {
    "name": "Mercer County Precinct Ewing-12"
@@ -822,41 +822,41 @@
   "ocd-division/country:us/state:nj/county:camden/school_district:mount_ephraim_borough": {
    "name": "mount ephraim borough"
   },
-  "ocd-division/country:us/state:nj/county:camden/precinct:winslow_twp-4-5": {
-   "name": "Camden County Precinct Winslow_Twp-4-5"
-  },
   "ocd-division/country:us/state:nj/county:union/precinct:hillside-1-1": {
    "name": "Union County Precinct Hillside-1-1"
   },
-  "ocd-division/country:us/state:nj/county:camden/precinct:winslow_twp-4-4": {
-   "name": "Camden County Precinct Winslow_Twp-4-4"
+  "ocd-division/country:us/state:nj/county:camden/precinct:winslow_twp-4-5": {
+   "name": "Camden County Precinct Winslow_Twp-4-5"
   },
   "ocd-division/country:us/state:nj/county:union/precinct:hillside-1-2": {
    "name": "Union County Precinct Hillside-1-2"
   },
-  "ocd-division/country:us/state:nj/county:camden/precinct:winslow_twp-4-3": {
-   "name": "Camden County Precinct Winslow_Twp-4-3"
+  "ocd-division/country:us/state:nj/county:camden/precinct:winslow_twp-4-4": {
+   "name": "Camden County Precinct Winslow_Twp-4-4"
   },
   "ocd-division/country:us/state:nj/county:union/precinct:hillside-1-3": {
    "name": "Union County Precinct Hillside-1-3"
   },
-  "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_e-23": {
-   "name": "Hudson County Precinct Jersey_City_E-23"
+  "ocd-division/country:us/state:nj/county:camden/precinct:winslow_twp-4-3": {
+   "name": "Camden County Precinct Winslow_Twp-4-3"
   },
   "ocd-division/country:us/state:nj/county:camden/precinct:winslow_twp-4-2": {
    "name": "Camden County Precinct Winslow_Twp-4-2"
   },
-  "ocd-division/country:us/state:nj/county:camden/precinct:winslow_twp-4-1": {
-   "name": "Camden County Precinct Winslow_Twp-4-1"
+  "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_e-23": {
+   "name": "Hudson County Precinct Jersey_City_E-23"
   },
   "ocd-division/country:us/state:nj/place:lodi": {
    "name": "Lodi borough"
   },
-  "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_e-20": {
-   "name": "Hudson County Precinct Jersey_City_E-20"
+  "ocd-division/country:us/state:nj/county:camden/precinct:winslow_twp-4-1": {
+   "name": "Camden County Precinct Winslow_Twp-4-1"
   },
   "ocd-division/country:us/state:nj/county:bergen/school_district:rutherford": {
    "name": "rutherford"
+  },
+  "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_e-20": {
+   "name": "Hudson County Precinct Jersey_City_E-20"
   },
   "ocd-division/country:us/state:nj/county:monmouth/school_district:howell_township": {
    "name": "howell township"
@@ -864,11 +864,11 @@
   "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_e-22": {
    "name": "Hudson County Precinct Jersey_City_E-22"
   },
-  "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_e-21": {
-   "name": "Hudson County Precinct Jersey_City_E-21"
-  },
   "ocd-division/country:us/state:nj/county:sussex/place:sandyston": {
    "name": "Sandyston township"
+  },
+  "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_e-21": {
+   "name": "Hudson County Precinct Jersey_City_E-21"
   },
   "ocd-division/country:us/state:nj/county:passaic/precinct:bloomingdale-2": {
    "name": "Passaic County Precinct Bloomingdale-2"
@@ -894,17 +894,17 @@
   "ocd-division/country:us/state:nj/county:union/place:clark": {
    "name": "Clark township"
   },
-  "ocd-division/country:us/state:nj/county:passaic/precinct:hawthorne-1-3": {
-   "name": "Passaic County Precinct Hawthorne-1-3"
-  },
   "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_e-15": {
    "name": "Hudson County Precinct Jersey_City_E-15"
   },
-  "ocd-division/country:us/state:nj/county:passaic/precinct:hawthorne-1-2": {
-   "name": "Passaic County Precinct Hawthorne-1-2"
+  "ocd-division/country:us/state:nj/county:passaic/precinct:hawthorne-1-3": {
+   "name": "Passaic County Precinct Hawthorne-1-3"
   },
   "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_e-14": {
    "name": "Hudson County Precinct Jersey_City_E-14"
+  },
+  "ocd-division/country:us/state:nj/county:passaic/precinct:hawthorne-1-2": {
+   "name": "Passaic County Precinct Hawthorne-1-2"
   },
   "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_e-13": {
    "name": "Hudson County Precinct Jersey_City_E-13"
@@ -924,26 +924,26 @@
   "ocd-division/country:us/state:nj/county:atlantic/precinct:margate-4": {
    "name": "Atlantic County Precinct Margate-4"
   },
-  "ocd-division/country:us/state:nj/county:morris/precinct:boonton_town-3-1": {
-   "name": "Morris County Precinct Boonton_Town-3-1"
-  },
   "ocd-division/country:us/state:nj/county:atlantic/precinct:margate-3": {
    "name": "Atlantic County Precinct Margate-3"
   },
-  "ocd-division/country:us/state:nj/county:morris/precinct:boonton_town-3-2": {
-   "name": "Morris County Precinct Boonton_Town-3-2"
-  },
-  "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_e-18": {
-   "name": "Hudson County Precinct Jersey_City_E-18"
+  "ocd-division/country:us/state:nj/county:morris/precinct:boonton_town-3-1": {
+   "name": "Morris County Precinct Boonton_Town-3-1"
   },
   "ocd-division/country:us/state:nj/county:atlantic/precinct:margate-2": {
    "name": "Atlantic County Precinct Margate-2"
   },
-  "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_e-19": {
-   "name": "Hudson County Precinct Jersey_City_E-19"
+  "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_e-18": {
+   "name": "Hudson County Precinct Jersey_City_E-18"
+  },
+  "ocd-division/country:us/state:nj/county:morris/precinct:boonton_town-3-2": {
+   "name": "Morris County Precinct Boonton_Town-3-2"
   },
   "ocd-division/country:us/state:nj/county:atlantic/precinct:margate-1": {
    "name": "Atlantic County Precinct Margate-1"
+  },
+  "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_e-19": {
+   "name": "Hudson County Precinct Jersey_City_E-19"
   },
   "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_e-16": {
    "name": "Hudson County Precinct Jersey_City_E-16"
@@ -957,50 +957,50 @@
   "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-20": {
    "name": "Burlington County Precinct Evesham-20"
   },
-  "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-21": {
-   "name": "Burlington County Precinct Evesham-21"
-  },
   "ocd-division/country:us/state:nj/county:atlantic/precinct:galloway_twp-13": {
    "name": "Atlantic County Precinct Galloway_Twp-13"
   },
-  "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-22": {
-   "name": "Burlington County Precinct Evesham-22"
+  "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-21": {
+   "name": "Burlington County Precinct Evesham-21"
   },
   "ocd-division/country:us/state:nj/county:atlantic/precinct:galloway_twp-14": {
    "name": "Atlantic County Precinct Galloway_Twp-14"
   },
-  "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-23": {
-   "name": "Burlington County Precinct Evesham-23"
+  "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-22": {
+   "name": "Burlington County Precinct Evesham-22"
   },
   "ocd-division/country:us/state:nj/county:atlantic/precinct:galloway_twp-15": {
    "name": "Atlantic County Precinct Galloway_Twp-15"
   },
-  "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-24": {
-   "name": "Burlington County Precinct Evesham-24"
+  "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-23": {
+   "name": "Burlington County Precinct Evesham-23"
   },
   "ocd-division/country:us/state:nj/county:atlantic/precinct:galloway_twp-16": {
    "name": "Atlantic County Precinct Galloway_Twp-16"
   },
+  "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-24": {
+   "name": "Burlington County Precinct Evesham-24"
+  },
   "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-25": {
    "name": "Burlington County Precinct Evesham-25"
-  },
-  "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-26": {
-   "name": "Burlington County Precinct Evesham-26"
   },
   "ocd-division/country:us/state:nj/county:atlantic/precinct:galloway_twp-10": {
    "name": "Atlantic County Precinct Galloway_Twp-10"
   },
-  "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-27": {
-   "name": "Burlington County Precinct Evesham-27"
+  "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-26": {
+   "name": "Burlington County Precinct Evesham-26"
   },
   "ocd-division/country:us/state:nj/county:atlantic/precinct:galloway_twp-11": {
    "name": "Atlantic County Precinct Galloway_Twp-11"
   },
-  "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-28": {
-   "name": "Burlington County Precinct Evesham-28"
+  "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-27": {
+   "name": "Burlington County Precinct Evesham-27"
   },
   "ocd-division/country:us/state:nj/county:atlantic/precinct:galloway_twp-12": {
    "name": "Atlantic County Precinct Galloway_Twp-12"
+  },
+  "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-28": {
+   "name": "Burlington County Precinct Evesham-28"
   },
   "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-19": {
    "name": "Burlington County Precinct Evesham-19"
@@ -1020,17 +1020,17 @@
   "ocd-division/country:us/state:nj/county:morris/school_district:east_hanover_township": {
    "name": "east hanover township"
   },
-  "ocd-division/country:us/state:nj/county:passaic/precinct:w_milford-10": {
-   "name": "Passaic County Precinct W_Milford-10"
-  },
   "ocd-division/country:us/state:nj/county:burlington/precinct:southampton-3": {
    "name": "Burlington County Precinct Southampton-3"
   },
-  "ocd-division/country:us/state:nj/county:passaic/precinct:w_milford-11": {
-   "name": "Passaic County Precinct W_Milford-11"
+  "ocd-division/country:us/state:nj/county:passaic/precinct:w_milford-10": {
+   "name": "Passaic County Precinct W_Milford-10"
   },
   "ocd-division/country:us/state:nj/county:burlington/precinct:southampton-2": {
    "name": "Burlington County Precinct Southampton-2"
+  },
+  "ocd-division/country:us/state:nj/county:passaic/precinct:w_milford-11": {
+   "name": "Passaic County Precinct W_Milford-11"
   },
   "ocd-division/country:us/state:nj/county:burlington/precinct:southampton-5": {
    "name": "Burlington County Precinct Southampton-5"
@@ -1056,11 +1056,11 @@
   "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-10": {
    "name": "Burlington County Precinct Evesham-10"
   },
-  "ocd-division/country:us/state:nj/county:hunterdon/school_district:stockton_borough": {
-   "name": "stockton borough"
-  },
   "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-11": {
    "name": "Burlington County Precinct Evesham-11"
+  },
+  "ocd-division/country:us/state:nj/county:hunterdon/school_district:stockton_borough": {
+   "name": "stockton borough"
   },
   "ocd-division/country:us/state:nj/county:burlington/precinct:evesham-16": {
    "name": "Burlington County Precinct Evesham-16"
@@ -1089,11 +1089,11 @@
   "ocd-division/country:us/state:nj/county:ocean/precinct:jackson-22": {
    "name": "Ocean County Precinct Jackson-22"
   },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:jackson-21": {
-   "name": "Ocean County Precinct Jackson-21"
-  },
   "ocd-division/country:us/state:nj/county:morris/school_district:morris_co_ed_services_commission": {
    "name": "morris co ed services commission"
+  },
+  "ocd-division/country:us/state:nj/county:ocean/precinct:jackson-21": {
+   "name": "Ocean County Precinct Jackson-21"
   },
   "ocd-division/country:us/state:nj/county:ocean/precinct:jackson-20": {
    "name": "Ocean County Precinct Jackson-20"
@@ -1104,17 +1104,17 @@
   "ocd-division/country:us/state:nj/county:sussex/precinct:andover_twp-6": {
    "name": "Sussex County Precinct Andover_Twp-6"
   },
-  "ocd-division/country:us/state:nj/county:morris/school_district:madison": {
-   "name": "madison"
-  },
   "ocd-division/country:us/state:nj/county:sussex/precinct:andover_twp-5": {
    "name": "Sussex County Precinct Andover_Twp-5"
   },
-  "ocd-division/country:us/state:nj/county:hunterdon/precinct:glen_gardner-1": {
-   "name": "Hunterdon County Precinct Glen_Gardner-1"
+  "ocd-division/country:us/state:nj/county:morris/school_district:madison": {
+   "name": "madison"
   },
   "ocd-division/country:us/state:nj/county:sussex/precinct:andover_twp-4": {
    "name": "Sussex County Precinct Andover_Twp-4"
+  },
+  "ocd-division/country:us/state:nj/county:hunterdon/precinct:glen_gardner-1": {
+   "name": "Hunterdon County Precinct Glen_Gardner-1"
   },
   "ocd-division/country:us/state:nj/county:sussex/precinct:andover_twp-3": {
    "name": "Sussex County Precinct Andover_Twp-3"
@@ -1128,11 +1128,11 @@
   "ocd-division/country:us/state:nj/county:monmouth/school_district:atlantic_highlands": {
    "name": "atlantic highlands"
   },
-  "ocd-division/country:us/state:nj/county:passaic/precinct:prospect_park-3": {
-   "name": "Passaic County Precinct Prospect_Park-3"
-  },
   "ocd-division/country:us/state:nj/county:camden/school_district:camdens_promise_charter": {
    "name": "camdens promise charter"
+  },
+  "ocd-division/country:us/state:nj/county:passaic/precinct:prospect_park-3": {
+   "name": "Passaic County Precinct Prospect_Park-3"
   },
   "ocd-division/country:us/state:nj/county:passaic/precinct:prospect_park-4": {
    "name": "Passaic County Precinct Prospect_Park-4"
@@ -1686,77 +1686,77 @@
   "ocd-division/country:us/state:nj/county:union/precinct:elizabeth-5-1": {
    "name": "Union County Precinct Elizabeth-5-1"
   },
-  "ocd-division/country:us/state:nj/county:monmouth/precinct:upper_freehold-4": {
-   "name": "Monmouth County Precinct Upper_Freehold-4"
+  "ocd-division/country:us/state:nj/county:union/precinct:elizabeth-5-4": {
+   "name": "Union County Precinct Elizabeth-5-4"
   },
   "ocd-division/country:us/state:nj/county:union/precinct:cranford-1": {
    "name": "Union County Precinct Cranford-1"
   },
-  "ocd-division/country:us/state:nj/county:union/precinct:elizabeth-5-4": {
-   "name": "Union County Precinct Elizabeth-5-4"
-  },
-  "ocd-division/country:us/state:nj/county:monmouth/precinct:upper_freehold-3": {
-   "name": "Monmouth County Precinct Upper_Freehold-3"
+  "ocd-division/country:us/state:nj/county:monmouth/precinct:upper_freehold-4": {
+   "name": "Monmouth County Precinct Upper_Freehold-4"
   },
   "ocd-division/country:us/state:nj/county:union/precinct:elizabeth-5-3": {
    "name": "Union County Precinct Elizabeth-5-3"
   },
-  "ocd-division/country:us/state:nj/county:essex/precinct:essex_fells-1": {
-   "name": "Essex County Precinct Essex_Fells-1"
-  },
-  "ocd-division/country:us/state:nj/county:union/precinct:cranford-3": {
-   "name": "Union County Precinct Cranford-3"
+  "ocd-division/country:us/state:nj/county:monmouth/precinct:upper_freehold-3": {
+   "name": "Monmouth County Precinct Upper_Freehold-3"
   },
   "ocd-division/country:us/state:nj/county:union/precinct:elizabeth-5-6": {
    "name": "Union County Precinct Elizabeth-5-6"
   },
-  "ocd-division/country:us/state:nj/county:essex/precinct:essex_fells-2": {
-   "name": "Essex County Precinct Essex_Fells-2"
+  "ocd-division/country:us/state:nj/county:union/precinct:cranford-3": {
+   "name": "Union County Precinct Cranford-3"
   },
-  "ocd-division/country:us/state:nj/county:union/precinct:cranford-2": {
-   "name": "Union County Precinct Cranford-2"
+  "ocd-division/country:us/state:nj/county:essex/precinct:essex_fells-1": {
+   "name": "Essex County Precinct Essex_Fells-1"
   },
   "ocd-division/country:us/state:nj/county:union/precinct:elizabeth-5-5": {
    "name": "Union County Precinct Elizabeth-5-5"
   },
-  "ocd-division/country:us/state:nj/county:union/precinct:cranford-5": {
-   "name": "Union County Precinct Cranford-5"
+  "ocd-division/country:us/state:nj/county:union/precinct:cranford-2": {
+   "name": "Union County Precinct Cranford-2"
+  },
+  "ocd-division/country:us/state:nj/county:essex/precinct:essex_fells-2": {
+   "name": "Essex County Precinct Essex_Fells-2"
   },
   "ocd-division/country:us/state:nj/county:union/precinct:elizabeth-5-8": {
    "name": "Union County Precinct Elizabeth-5-8"
   },
-  "ocd-division/country:us/state:nj/county:sussex/precinct:lafayette-1": {
-   "name": "Sussex County Precinct Lafayette-1"
-  },
-  "ocd-division/country:us/state:nj/county:union/precinct:cranford-4": {
-   "name": "Union County Precinct Cranford-4"
-  },
-  "ocd-division/country:us/state:nj/county:union/precinct:elizabeth-5-7": {
-   "name": "Union County Precinct Elizabeth-5-7"
+  "ocd-division/country:us/state:nj/county:union/precinct:cranford-5": {
+   "name": "Union County Precinct Cranford-5"
   },
   "ocd-division/country:us/state:nj/place:elmer": {
    "name": "Elmer borough"
   },
-  "ocd-division/country:us/state:nj/county:monmouth/precinct:upper_freehold-2": {
-   "name": "Monmouth County Precinct Upper_Freehold-2"
+  "ocd-division/country:us/state:nj/county:union/precinct:elizabeth-5-7": {
+   "name": "Union County Precinct Elizabeth-5-7"
   },
-  "ocd-division/country:us/state:nj/county:sussex/precinct:lafayette-2": {
-   "name": "Sussex County Precinct Lafayette-2"
+  "ocd-division/country:us/state:nj/county:union/precinct:cranford-4": {
+   "name": "Union County Precinct Cranford-4"
+  },
+  "ocd-division/country:us/state:nj/county:sussex/precinct:lafayette-1": {
+   "name": "Sussex County Precinct Lafayette-1"
   },
   "ocd-division/country:us/state:nj/county:union/precinct:cranford-7": {
    "name": "Union County Precinct Cranford-7"
   },
-  "ocd-division/country:us/state:nj/county:monmouth/precinct:upper_freehold-1": {
-   "name": "Monmouth County Precinct Upper_Freehold-1"
+  "ocd-division/country:us/state:nj/county:sussex/precinct:lafayette-2": {
+   "name": "Sussex County Precinct Lafayette-2"
   },
-  "ocd-division/country:us/state:nj/county:sussex/precinct:lafayette-3": {
-   "name": "Sussex County Precinct Lafayette-3"
+  "ocd-division/country:us/state:nj/county:monmouth/precinct:upper_freehold-2": {
+   "name": "Monmouth County Precinct Upper_Freehold-2"
+  },
+  "ocd-division/country:us/state:nj/county:union/precinct:elizabeth-5-9": {
+   "name": "Union County Precinct Elizabeth-5-9"
   },
   "ocd-division/country:us/state:nj/county:union/precinct:cranford-6": {
    "name": "Union County Precinct Cranford-6"
   },
-  "ocd-division/country:us/state:nj/county:union/precinct:elizabeth-5-9": {
-   "name": "Union County Precinct Elizabeth-5-9"
+  "ocd-division/country:us/state:nj/county:sussex/precinct:lafayette-3": {
+   "name": "Sussex County Precinct Lafayette-3"
+  },
+  "ocd-division/country:us/state:nj/county:monmouth/precinct:upper_freehold-1": {
+   "name": "Monmouth County Precinct Upper_Freehold-1"
   },
   "ocd-division/country:us/state:nj/county:monmouth/precinct:neptune_twp-20": {
    "name": "Monmouth County Precinct Neptune_Twp-20"
@@ -1848,11 +1848,11 @@
   "ocd-division/country:us/state:nj/county:somerset/precinct:montgomery_twp-19": {
    "name": "Somerset County Precinct Montgomery_Twp-19"
   },
-  "ocd-division/country:us/state:nj/county:morris/school_district:butler": {
-   "name": "butler"
-  },
   "ocd-division/country:us/state:nj/county:somerset/precinct:montgomery_twp-18": {
    "name": "Somerset County Precinct Montgomery_Twp-18"
+  },
+  "ocd-division/country:us/state:nj/county:morris/school_district:butler": {
+   "name": "butler"
   },
   "ocd-division/country:us/state:nj/county:salem/school_district:pennsville_township": {
    "name": "pennsville township"
@@ -1869,47 +1869,47 @@
   "ocd-division/country:us/state:nj/county:somerset/precinct:montgomery_twp-17": {
    "name": "Somerset County Precinct Montgomery_Twp-17"
   },
-  "ocd-division/country:us/state:nj/county:essex/precinct:livingston-20": {
-   "name": "Essex County Precinct Livingston-20"
-  },
   "ocd-division/country:us/state:nj/county:somerset/precinct:montgomery_twp-14": {
    "name": "Somerset County Precinct Montgomery_Twp-14"
+  },
+  "ocd-division/country:us/state:nj/county:essex/precinct:livingston-20": {
+   "name": "Essex County Precinct Livingston-20"
   },
   "ocd-division/country:us/state:nj/county:somerset/precinct:montgomery_twp-15": {
    "name": "Somerset County Precinct Montgomery_Twp-15"
   },
-  "ocd-division/country:us/state:nj/county:bergen/school_district:carlstadt": {
-   "name": "carlstadt"
+  "ocd-division/country:us/state:nj/county:somerset/precinct:montgomery_twp-12": {
+   "name": "Somerset County Precinct Montgomery_Twp-12"
   },
   "ocd-division/country:us/state:nj/county:essex/precinct:livingston-22": {
    "name": "Essex County Precinct Livingston-22"
   },
-  "ocd-division/country:us/state:nj/county:somerset/precinct:montgomery_twp-12": {
-   "name": "Somerset County Precinct Montgomery_Twp-12"
-  },
-  "ocd-division/country:us/state:nj/county:essex/precinct:livingston-21": {
-   "name": "Essex County Precinct Livingston-21"
+  "ocd-division/country:us/state:nj/county:bergen/school_district:carlstadt": {
+   "name": "carlstadt"
   },
   "ocd-division/country:us/state:nj/county:somerset/precinct:montgomery_twp-13": {
    "name": "Somerset County Precinct Montgomery_Twp-13"
   },
-  "ocd-division/country:us/state:nj/county:essex/precinct:livingston-24": {
-   "name": "Essex County Precinct Livingston-24"
+  "ocd-division/country:us/state:nj/county:essex/precinct:livingston-21": {
+   "name": "Essex County Precinct Livingston-21"
   },
   "ocd-division/country:us/state:nj/county:somerset/precinct:montgomery_twp-10": {
    "name": "Somerset County Precinct Montgomery_Twp-10"
   },
-  "ocd-division/country:us/state:nj/county:essex/precinct:livingston-23": {
-   "name": "Essex County Precinct Livingston-23"
+  "ocd-division/country:us/state:nj/county:essex/precinct:livingston-24": {
+   "name": "Essex County Precinct Livingston-24"
   },
   "ocd-division/country:us/state:nj/county:somerset/precinct:montgomery_twp-11": {
    "name": "Somerset County Precinct Montgomery_Twp-11"
   },
-  "ocd-division/country:us/state:nj/county:ocean/school_district:tuckerton_borough": {
-   "name": "tuckerton borough"
+  "ocd-division/country:us/state:nj/county:essex/precinct:livingston-23": {
+   "name": "Essex County Precinct Livingston-23"
   },
   "ocd-division/country:us/state:nj/county:hudson/school_district:elysian_charter_school_of": {
    "name": "elysian charter school of"
+  },
+  "ocd-division/country:us/state:nj/county:ocean/school_district:tuckerton_borough": {
+   "name": "tuckerton borough"
   },
   "ocd-division/country:us/state:nj/place:ridgewood": {
    "name": "Ridgewood village"
@@ -1920,11 +1920,11 @@
   "ocd-division/country:us/state:nj/county:warren/precinct:greenwich-2": {
    "name": "Warren County Precinct Greenwich-2"
   },
-  "ocd-division/country:us/state:nj/county:warren/precinct:greenwich-3": {
-   "name": "Warren County Precinct Greenwich-3"
-  },
   "ocd-division/country:us/state:nj/place:woodstown": {
    "name": "Woodstown borough"
+  },
+  "ocd-division/country:us/state:nj/county:warren/precinct:greenwich-3": {
+   "name": "Warren County Precinct Greenwich-3"
   },
   "ocd-division/country:us/state:nj/county:monmouth": {
    "name": "Monmouth County",
@@ -1959,11 +1959,11 @@
   "ocd-division/country:us/state:nj/county:gloucester/place:east_greenwich": {
    "name": "East Greenwich township"
   },
-  "ocd-division/country:us/state:nj/county:essex/precinct:livingston-13": {
-   "name": "Essex County Precinct Livingston-13"
-  },
   "ocd-division/country:us/state:nj/county:warren/place:harmony": {
    "name": "Harmony township"
+  },
+  "ocd-division/country:us/state:nj/county:essex/precinct:livingston-13": {
+   "name": "Essex County Precinct Livingston-13"
   },
   "ocd-division/country:us/state:nj/county:essex/precinct:livingston-12": {
    "name": "Essex County Precinct Livingston-12"
@@ -2046,50 +2046,50 @@
   "ocd-division/country:us/state:nj/county:middlesex/precinct:n_brunswick-6": {
    "name": "Middlesex County Precinct N_Brunswick-6"
   },
-  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-1": {
-   "name": "Monmouth County Precinct Middletown-1"
-  },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:n_brunswick-7": {
    "name": "Middlesex County Precinct N_Brunswick-7"
   },
-  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-2": {
-   "name": "Monmouth County Precinct Middletown-2"
-  },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:n_brunswick-8": {
-   "name": "Middlesex County Precinct N_Brunswick-8"
+  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-1": {
+   "name": "Monmouth County Precinct Middletown-1"
   },
   "ocd-division/country:us/state:nj/county:cumberland/school_district:cumberland_county_vocatio": {
    "name": "cumberland county vocatio"
   },
-  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-3": {
-   "name": "Monmouth County Precinct Middletown-3"
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:n_brunswick-8": {
+   "name": "Middlesex County Precinct N_Brunswick-8"
+  },
+  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-2": {
+   "name": "Monmouth County Precinct Middletown-2"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:n_brunswick-9": {
    "name": "Middlesex County Precinct N_Brunswick-9"
   },
-  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-4": {
-   "name": "Monmouth County Precinct Middletown-4"
+  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-3": {
+   "name": "Monmouth County Precinct Middletown-3"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:n_brunswick-2": {
    "name": "Middlesex County Precinct N_Brunswick-2"
   },
-  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-5": {
-   "name": "Monmouth County Precinct Middletown-5"
+  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-4": {
+   "name": "Monmouth County Precinct Middletown-4"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:n_brunswick-3": {
    "name": "Middlesex County Precinct N_Brunswick-3"
   },
-  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-6": {
-   "name": "Monmouth County Precinct Middletown-6"
+  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-5": {
+   "name": "Monmouth County Precinct Middletown-5"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:n_brunswick-4": {
    "name": "Middlesex County Precinct N_Brunswick-4"
   },
-  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-7": {
-   "name": "Monmouth County Precinct Middletown-7"
+  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-6": {
+   "name": "Monmouth County Precinct Middletown-6"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:n_brunswick-5": {
    "name": "Middlesex County Precinct N_Brunswick-5"
+  },
+  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-7": {
+   "name": "Monmouth County Precinct Middletown-7"
   },
   "ocd-division/country:us/state:nj/place:laurel_springs": {
    "name": "Laurel Springs borough"
@@ -2106,14 +2106,14 @@
   "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-9": {
    "name": "Monmouth County Precinct Middletown-9"
   },
-  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-8": {
-   "name": "Monmouth County Precinct Middletown-8"
+  "ocd-division/country:us/state:nj/place:bridgeton": {
+   "name": "Bridgeton city"
   },
   "ocd-division/country:us/state:nj/county:camden/school_district:woodlynne_borough": {
    "name": "woodlynne borough"
   },
-  "ocd-division/country:us/state:nj/place:bridgeton": {
-   "name": "Bridgeton city"
+  "ocd-division/country:us/state:nj/county:monmouth/precinct:middletown-8": {
+   "name": "Monmouth County Precinct Middletown-8"
   },
   "ocd-division/country:us/state:nj/county:sussex/precinct:fredon-3": {
    "name": "Sussex County Precinct Fredon-3"
@@ -2130,11 +2130,11 @@
   "ocd-division/country:us/state:nj/county:bergen/precinct:fairlawn-7": {
    "name": "Bergen County Precinct Fairlawn-7"
   },
-  "ocd-division/country:us/state:nj/county:bergen/precinct:fairlawn-6": {
-   "name": "Bergen County Precinct Fairlawn-6"
-  },
   "ocd-division/country:us/state:nj/place:lebanon": {
    "name": "Lebanon borough"
+  },
+  "ocd-division/country:us/state:nj/county:bergen/precinct:fairlawn-6": {
+   "name": "Bergen County Precinct Fairlawn-6"
   },
   "ocd-division/country:us/state:nj/county:bergen/precinct:fairlawn-5": {
    "name": "Bergen County Precinct Fairlawn-5"
@@ -2166,11 +2166,11 @@
   "ocd-division/country:us/state:nj/county:warren/precinct:phillipsburg-6-1": {
    "name": "Warren County Precinct Phillipsburg-6-1"
   },
-  "ocd-division/country:us/state:nj/county:warren/precinct:phillipsburg-6-2": {
-   "name": "Warren County Precinct Phillipsburg-6-2"
-  },
   "ocd-division/country:us/state:nj/place:harvey_cedars": {
    "name": "Harvey Cedars borough"
+  },
+  "ocd-division/country:us/state:nj/county:warren/precinct:phillipsburg-6-2": {
+   "name": "Warren County Precinct Phillipsburg-6-2"
   },
   "ocd-division/country:us/state:nj/county:gloucester/precinct:clayton-5": {
    "name": "Gloucester County Precinct Clayton-5"
@@ -2199,23 +2199,23 @@
   "ocd-division/country:us/state:nj/county:ocean/place:berkeley": {
    "name": "Berkeley township"
   },
-  "ocd-division/country:us/state:nj/county:bergen/school_district:midland_park_borough": {
-   "name": "midland park borough"
-  },
   "ocd-division/country:us/state:nj/county:bergen/school_district:lyndhurst_township": {
    "name": "lyndhurst township"
   },
-  "ocd-division/country:us/state:nj/county:hudson/school_district:learning_community_charter_school": {
-   "name": "learning community charter school"
+  "ocd-division/country:us/state:nj/county:bergen/school_district:midland_park_borough": {
+   "name": "midland park borough"
   },
   "ocd-division/country:us/state:nj/place:totowa": {
    "name": "Totowa borough"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_river-11": {
-   "name": "Middlesex County Precinct S_River-11"
+  "ocd-division/country:us/state:nj/county:hudson/school_district:learning_community_charter_school": {
+   "name": "learning community charter school"
   },
   "ocd-division/country:us/state:nj/county:burlington/place:mount_holly": {
    "name": "Mount Holly township"
+  },
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_river-11": {
+   "name": "Middlesex County Precinct S_River-11"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:s_river-10": {
    "name": "Middlesex County Precinct S_River-10"
@@ -2280,11 +2280,11 @@
   "ocd-division/country:us/state:nj/county:burlington/school_district:bordentown_regional_schoo": {
    "name": "bordentown regional schoo"
   },
-  "ocd-division/country:us/state:nj/county:bergen/precinct:englewood-2-4": {
-   "name": "Bergen County Precinct Englewood-2-4"
-  },
   "ocd-division/country:us/state:nj/county:bergen/precinct:old_tappan-1": {
    "name": "Bergen County Precinct Old_Tappan-1"
+  },
+  "ocd-division/country:us/state:nj/county:bergen/precinct:englewood-2-4": {
+   "name": "Bergen County Precinct Englewood-2-4"
   },
   "ocd-division/country:us/state:nj/county:bergen/precinct:old_tappan-2": {
    "name": "Bergen County Precinct Old_Tappan-2"
@@ -2292,17 +2292,17 @@
   "ocd-division/country:us/state:nj/county:atlantic/precinct:ventnor-4": {
    "name": "Atlantic County Precinct Ventnor-4"
   },
-  "ocd-division/country:us/state:nj/county:bergen/precinct:englewood-2-1": {
-   "name": "Bergen County Precinct Englewood-2-1"
-  },
   "ocd-division/country:us/state:nj/county:atlantic/precinct:ventnor-5": {
    "name": "Atlantic County Precinct Ventnor-5"
   },
-  "ocd-division/country:us/state:nj/county:bergen/precinct:englewood-2-2": {
-   "name": "Bergen County Precinct Englewood-2-2"
+  "ocd-division/country:us/state:nj/county:bergen/precinct:englewood-2-1": {
+   "name": "Bergen County Precinct Englewood-2-1"
   },
   "ocd-division/country:us/state:nj/county:bergen/precinct:old_tappan-3": {
    "name": "Bergen County Precinct Old_Tappan-3"
+  },
+  "ocd-division/country:us/state:nj/county:bergen/precinct:englewood-2-2": {
+   "name": "Bergen County Precinct Englewood-2-2"
   },
   "ocd-division/country:us/state:nj/county:bergen/precinct:englewood-2-3": {
    "name": "Bergen County Precinct Englewood-2-3"
@@ -4057,9 +4057,6 @@
   "ocd-division/country:us/state:nj/place:paulsboro": {
    "name": "Paulsboro borough"
   },
-  "ocd-division/country:us/state:nj/county:hunterdon/school_district:union_township": {
-   "name": "union township"
-  },
   "ocd-division/country:us/state:nj/sldu:9": {
    "name": "New Jersey State Senate district 9",
    "alsoKnownAs": [
@@ -4069,6 +4066,9 @@
     13,
     14
    ]
+  },
+  "ocd-division/country:us/state:nj/county:hunterdon/school_district:union_township": {
+   "name": "union township"
   },
   "ocd-division/country:us/state:nj/sldu:8": {
    "name": "New Jersey State Senate district 8",
@@ -4100,9 +4100,6 @@
     20
    ]
   },
-  "ocd-division/country:us/state:nj/county:burlington/place:new_hanover": {
-   "name": "New Hanover township"
-  },
   "ocd-division/country:us/state:nj/sldu:1": {
    "name": "New Jersey State Senate district 1",
    "alsoKnownAs": [
@@ -4112,6 +4109,9 @@
     21,
     22
    ]
+  },
+  "ocd-division/country:us/state:nj/county:burlington/place:new_hanover": {
+   "name": "New Hanover township"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-30": {
    "name": "Middlesex County Precinct S_Brunswick-30"
@@ -4171,101 +4171,101 @@
   "ocd-division/country:us/state:nj/county:hunterdon/precinct:clinton_twp-9": {
    "name": "Hunterdon County Precinct Clinton_Twp-9"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-29": {
-   "name": "Middlesex County Precinct S_Brunswick-29"
-  },
   "ocd-division/country:us/state:nj/county:hunterdon/precinct:clinton_twp-8": {
    "name": "Hunterdon County Precinct Clinton_Twp-8"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-28": {
-   "name": "Middlesex County Precinct S_Brunswick-28"
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-29": {
+   "name": "Middlesex County Precinct S_Brunswick-29"
   },
   "ocd-division/country:us/state:nj/county:hunterdon/precinct:clinton_twp-7": {
    "name": "Hunterdon County Precinct Clinton_Twp-7"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-27": {
-   "name": "Middlesex County Precinct S_Brunswick-27"
-  },
-  "ocd-division/country:us/state:nj/county:hunterdon/precinct:clinton_twp-6": {
-   "name": "Hunterdon County Precinct Clinton_Twp-6"
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-28": {
+   "name": "Middlesex County Precinct S_Brunswick-28"
   },
   "ocd-division/country:us/state:nj/county:bergen/school_district:waldwick": {
    "name": "waldwick"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-26": {
-   "name": "Middlesex County Precinct S_Brunswick-26"
+  "ocd-division/country:us/state:nj/county:hunterdon/precinct:clinton_twp-6": {
+   "name": "Hunterdon County Precinct Clinton_Twp-6"
+  },
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-27": {
+   "name": "Middlesex County Precinct S_Brunswick-27"
   },
   "ocd-division/country:us/state:nj/county:hunterdon/precinct:clinton_twp-5": {
    "name": "Hunterdon County Precinct Clinton_Twp-5"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-25": {
-   "name": "Middlesex County Precinct S_Brunswick-25"
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-26": {
+   "name": "Middlesex County Precinct S_Brunswick-26"
   },
   "ocd-division/country:us/state:nj/county:hunterdon/precinct:clinton_twp-4": {
    "name": "Hunterdon County Precinct Clinton_Twp-4"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-23": {
-   "name": "Middlesex County Precinct S_Brunswick-23"
-  },
-  "ocd-division/country:us/state:nj/county:hunterdon/precinct:clinton_twp-2": {
-   "name": "Hunterdon County Precinct Clinton_Twp-2"
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-25": {
+   "name": "Middlesex County Precinct S_Brunswick-25"
   },
   "ocd-division/country:us/state:nj/county:essex/precinct:bloomfield-3-14": {
    "name": "Essex County Precinct Bloomfield-3-14"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-24": {
-   "name": "Middlesex County Precinct S_Brunswick-24"
+  "ocd-division/country:us/state:nj/county:hunterdon/precinct:clinton_twp-2": {
+   "name": "Hunterdon County Precinct Clinton_Twp-2"
+  },
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-23": {
+   "name": "Middlesex County Precinct S_Brunswick-23"
   },
   "ocd-division/country:us/state:nj/county:hunterdon/precinct:clinton_twp-3": {
    "name": "Hunterdon County Precinct Clinton_Twp-3"
   },
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-24": {
+   "name": "Middlesex County Precinct S_Brunswick-24"
+  },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-21": {
    "name": "Middlesex County Precinct S_Brunswick-21"
-  },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-22": {
-   "name": "Middlesex County Precinct S_Brunswick-22"
   },
   "ocd-division/country:us/state:nj/county:hunterdon/precinct:clinton_twp-1": {
    "name": "Hunterdon County Precinct Clinton_Twp-1"
   },
-  "ocd-division/country:us/state:nj/county:hudson/precinct:n_bergen-5-2": {
-   "name": "Hudson County Precinct N_Bergen-5-2"
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-22": {
+   "name": "Middlesex County Precinct S_Brunswick-22"
   },
   "ocd-division/country:us/state:nj/county:essex/precinct:bloomfield-3-10": {
    "name": "Essex County Precinct Bloomfield-3-10"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-20": {
-   "name": "Middlesex County Precinct S_Brunswick-20"
-  },
-  "ocd-division/country:us/state:nj/county:hudson/precinct:n_bergen-5-1": {
-   "name": "Hudson County Precinct N_Bergen-5-1"
+  "ocd-division/country:us/state:nj/county:hudson/precinct:n_bergen-5-2": {
+   "name": "Hudson County Precinct N_Bergen-5-2"
   },
   "ocd-division/country:us/state:nj/county:essex/precinct:bloomfield-3-11": {
    "name": "Essex County Precinct Bloomfield-3-11"
   },
-  "ocd-division/country:us/state:nj/county:hudson/precinct:n_bergen-5-4": {
-   "name": "Hudson County Precinct N_Bergen-5-4"
+  "ocd-division/country:us/state:nj/county:hudson/precinct:n_bergen-5-1": {
+   "name": "Hudson County Precinct N_Bergen-5-1"
   },
-  "ocd-division/country:us/state:nj/county:essex/precinct:bloomfield-3-12": {
-   "name": "Essex County Precinct Bloomfield-3-12"
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-20": {
+   "name": "Middlesex County Precinct S_Brunswick-20"
   },
   "ocd-division/country:us/state:nj/place:helmetta": {
    "name": "Helmetta borough"
   },
-  "ocd-division/country:us/state:nj/county:hudson/precinct:n_bergen-5-3": {
-   "name": "Hudson County Precinct N_Bergen-5-3"
+  "ocd-division/country:us/state:nj/county:essex/precinct:bloomfield-3-12": {
+   "name": "Essex County Precinct Bloomfield-3-12"
+  },
+  "ocd-division/country:us/state:nj/county:hudson/precinct:n_bergen-5-4": {
+   "name": "Hudson County Precinct N_Bergen-5-4"
   },
   "ocd-division/country:us/state:nj/county:essex/precinct:bloomfield-3-13": {
    "name": "Essex County Precinct Bloomfield-3-13"
   },
+  "ocd-division/country:us/state:nj/county:hudson/precinct:n_bergen-5-3": {
+   "name": "Hudson County Precinct N_Bergen-5-3"
+  },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:woodbridge-1-10": {
    "name": "Middlesex County Precinct Woodbridge-1-10"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:woodbridge-1-11": {
-   "name": "Middlesex County Precinct Woodbridge-1-11"
-  },
   "ocd-division/country:us/state:nj/county:bergen/precinct:alpine-1": {
    "name": "Bergen County Precinct Alpine-1"
+  },
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:woodbridge-1-11": {
+   "name": "Middlesex County Precinct Woodbridge-1-11"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:woodbridge-1-14": {
    "name": "Middlesex County Precinct Woodbridge-1-14"
@@ -4306,11 +4306,11 @@
   "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-15": {
    "name": "Middlesex County Precinct S_Brunswick-15"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-14": {
-   "name": "Middlesex County Precinct S_Brunswick-14"
-  },
   "ocd-division/country:us/state:nj/county:bergen/precinct:river_vale-1": {
    "name": "Bergen County Precinct River_Vale-1"
+  },
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-14": {
+   "name": "Middlesex County Precinct S_Brunswick-14"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-17": {
    "name": "Middlesex County Precinct S_Brunswick-17"
@@ -4330,11 +4330,11 @@
   "ocd-division/country:us/state:nj/county:middlesex/precinct:s_brunswick-13": {
    "name": "Middlesex County Precinct S_Brunswick-13"
   },
-  "ocd-division/country:us/state:nj/county:mercer/school_district:village_charter_school": {
-   "name": "village charter school"
-  },
   "ocd-division/country:us/state:nj/county:camden/place:berlin": {
    "name": "Berlin township"
+  },
+  "ocd-division/country:us/state:nj/county:mercer/school_district:village_charter_school": {
+   "name": "village charter school"
   },
   "ocd-division/country:us/state:nj/county:monmouth/precinct:freehold_twp-4": {
    "name": "Monmouth County Precinct Freehold_Twp-4"
@@ -4426,11 +4426,11 @@
   "ocd-division/country:us/state:nj/county:passaic/precinct:haledon-3": {
    "name": "Passaic County Precinct Haledon-3"
   },
-  "ocd-division/country:us/state:nj/county:passaic/precinct:haledon-2": {
-   "name": "Passaic County Precinct Haledon-2"
-  },
   "ocd-division/country:us/state:nj/county:bergen/precinct:woodcliff_lake-1": {
    "name": "Bergen County Precinct Woodcliff_Lake-1"
+  },
+  "ocd-division/country:us/state:nj/county:passaic/precinct:haledon-2": {
+   "name": "Passaic County Precinct Haledon-2"
   },
   "ocd-division/country:us/state:nj/county:passaic/precinct:haledon-1": {
    "name": "Passaic County Precinct Haledon-1"
@@ -4438,17 +4438,17 @@
   "ocd-division/country:us/state:nj/county:ocean/precinct:pt_pleasant-16": {
    "name": "Ocean County Precinct Pt_Pleasant-16"
   },
-  "ocd-division/country:us/state:nj/county:passaic/precinct:haledon-6": {
-   "name": "Passaic County Precinct Haledon-6"
-  },
   "ocd-division/country:us/state:nj/county:gloucester/place:mantua": {
    "name": "Mantua township"
   },
-  "ocd-division/country:us/state:nj/county:passaic/precinct:haledon-5": {
-   "name": "Passaic County Precinct Haledon-5"
+  "ocd-division/country:us/state:nj/county:passaic/precinct:haledon-6": {
+   "name": "Passaic County Precinct Haledon-6"
   },
   "ocd-division/country:us/state:nj/county:burlington/school_district:beverly_city": {
    "name": "beverly city"
+  },
+  "ocd-division/country:us/state:nj/county:passaic/precinct:haledon-5": {
+   "name": "Passaic County Precinct Haledon-5"
   },
   "ocd-division/country:us/state:nj/county:ocean/precinct:pt_pleasant-11": {
    "name": "Ocean County Precinct Pt_Pleasant-11"
@@ -4462,11 +4462,11 @@
   "ocd-division/country:us/state:nj/county:ocean/precinct:pt_pleasant-12": {
    "name": "Ocean County Precinct Pt_Pleasant-12"
   },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:pt_pleasant-15": {
-   "name": "Ocean County Precinct Pt_Pleasant-15"
-  },
   "ocd-division/country:us/state:nj/county:camden/school_district:berlin_borough": {
    "name": "berlin borough"
+  },
+  "ocd-division/country:us/state:nj/county:ocean/precinct:pt_pleasant-15": {
+   "name": "Ocean County Precinct Pt_Pleasant-15"
   },
   "ocd-division/country:us/state:nj/county:ocean/precinct:pt_pleasant-14": {
    "name": "Ocean County Precinct Pt_Pleasant-14"
@@ -4486,11 +4486,11 @@
   "ocd-division/country:us/state:nj/county:essex/precinct:e_orange_city-5-13": {
    "name": "Essex County Precinct E_Orange_City-5-13"
   },
-  "ocd-division/country:us/state:nj/county:ocean/precinct:surf_city-1": {
-   "name": "Ocean County Precinct Surf_City-1"
-  },
   "ocd-division/country:us/state:nj/place:hoboken": {
    "name": "Hoboken city"
+  },
+  "ocd-division/country:us/state:nj/county:ocean/precinct:surf_city-1": {
+   "name": "Ocean County Precinct Surf_City-1"
   },
   "ocd-division/country:us/state:nj/county:bergen/place:wyckoff": {
    "name": "Wyckoff township"
@@ -4507,29 +4507,29 @@
   "ocd-division/country:us/state:nj/county:middlesex/precinct:perth_amboy-6-4": {
    "name": "Middlesex County Precinct Perth_Amboy-6-4"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:perth_amboy-6-7": {
-   "name": "Middlesex County Precinct Perth_Amboy-6-7"
-  },
   "ocd-division/country:us/state:nj/county:essex/precinct:newark_city_n-1": {
    "name": "Essex County Precinct Newark_City_N-1"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:perth_amboy-6-6": {
-   "name": "Middlesex County Precinct Perth_Amboy-6-6"
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:perth_amboy-6-7": {
+   "name": "Middlesex County Precinct Perth_Amboy-6-7"
   },
   "ocd-division/country:us/state:nj/county:essex/precinct:newark_city_n-2": {
    "name": "Essex County Precinct Newark_City_N-2"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:perth_amboy-6-9": {
-   "name": "Middlesex County Precinct Perth_Amboy-6-9"
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:perth_amboy-6-6": {
+   "name": "Middlesex County Precinct Perth_Amboy-6-6"
   },
   "ocd-division/country:us/state:nj/county:essex/precinct:newark_city_n-3": {
    "name": "Essex County Precinct Newark_City_N-3"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:perth_amboy-6-8": {
-   "name": "Middlesex County Precinct Perth_Amboy-6-8"
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:perth_amboy-6-9": {
+   "name": "Middlesex County Precinct Perth_Amboy-6-9"
   },
   "ocd-division/country:us/state:nj/county:essex/precinct:newark_city_n-4": {
    "name": "Essex County Precinct Newark_City_N-4"
+  },
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:perth_amboy-6-8": {
+   "name": "Middlesex County Precinct Perth_Amboy-6-8"
   },
   "ocd-division/country:us/state:nj/county:essex/precinct:newark_city_n-5": {
    "name": "Essex County Precinct Newark_City_N-5"
@@ -4606,11 +4606,11 @@
   "ocd-division/country:us/state:nj/county:middlesex/precinct:woodbridge-3-6": {
    "name": "Middlesex County Precinct Woodbridge-3-6"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:woodbridge-3-5": {
-   "name": "Middlesex County Precinct Woodbridge-3-5"
-  },
   "ocd-division/country:us/state:nj/county:bergen/precinct:englewood_cliff-4": {
    "name": "Bergen County Precinct Englewood_Cliff-4"
+  },
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:woodbridge-3-5": {
+   "name": "Middlesex County Precinct Woodbridge-3-5"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:woodbridge-3-8": {
    "name": "Middlesex County Precinct Woodbridge-3-8"
@@ -4621,11 +4621,11 @@
   "ocd-division/country:us/state:nj/county:middlesex/precinct:woodbridge-3-2": {
    "name": "Middlesex County Precinct Woodbridge-3-2"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:woodbridge-3-1": {
-   "name": "Middlesex County Precinct Woodbridge-3-1"
-  },
   "ocd-division/country:us/state:nj/place:northvale": {
    "name": "Northvale borough"
+  },
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:woodbridge-3-1": {
+   "name": "Middlesex County Precinct Woodbridge-3-1"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:woodbridge-3-4": {
    "name": "Middlesex County Precinct Woodbridge-3-4"
@@ -4675,11 +4675,11 @@
   "ocd-division/country:us/state:nj/county:somerset/precinct:hillsborough-33": {
    "name": "Somerset County Precinct Hillsborough-33"
   },
-  "ocd-division/country:us/state:nj/county:mercer/precinct:hopewell_twp-1": {
-   "name": "Mercer County Precinct Hopewell_Twp-1"
-  },
   "ocd-division/country:us/state:nj/county:salem/school_district:upper_pittsgrove_township": {
    "name": "upper pittsgrove township"
+  },
+  "ocd-division/country:us/state:nj/county:mercer/precinct:hopewell_twp-1": {
+   "name": "Mercer County Precinct Hopewell_Twp-1"
   },
   "ocd-division/country:us/state:nj/county:mercer/precinct:hopewell_twp-2": {
    "name": "Mercer County Precinct Hopewell_Twp-2"
@@ -4693,29 +4693,29 @@
   "ocd-division/country:us/state:nj/county:mercer/precinct:hopewell_twp-5": {
    "name": "Mercer County Precinct Hopewell_Twp-5"
   },
-  "ocd-division/country:us/state:nj/county:ocean/place:lacey": {
-   "name": "Lacey township"
-  },
   "ocd-division/country:us/state:nj/county:mercer/precinct:hopewell_twp-6": {
    "name": "Mercer County Precinct Hopewell_Twp-6"
   },
-  "ocd-division/country:us/state:nj/county:mercer/precinct:hopewell_twp-7": {
-   "name": "Mercer County Precinct Hopewell_Twp-7"
+  "ocd-division/country:us/state:nj/county:ocean/place:lacey": {
+   "name": "Lacey township"
   },
   "ocd-division/country:us/state:nj/county:burlington/place:bordentown": {
    "name": "Bordentown township"
   },
-  "ocd-division/country:us/state:nj/county:mercer/precinct:hopewell_twp-8": {
-   "name": "Mercer County Precinct Hopewell_Twp-8"
+  "ocd-division/country:us/state:nj/county:mercer/precinct:hopewell_twp-7": {
+   "name": "Mercer County Precinct Hopewell_Twp-7"
   },
-  "ocd-division/country:us/state:nj/county:burlington/school_district:moorestown_township": {
-   "name": "moorestown township"
+  "ocd-division/country:us/state:nj/county:bergen/precinct:hackensack-2-5": {
+   "name": "Bergen County Precinct Hackensack-2-5"
   },
   "ocd-division/country:us/state:nj/county:bergen/place:lyndhurst": {
    "name": "Lyndhurst township"
   },
-  "ocd-division/country:us/state:nj/county:bergen/precinct:hackensack-2-5": {
-   "name": "Bergen County Precinct Hackensack-2-5"
+  "ocd-division/country:us/state:nj/county:burlington/school_district:moorestown_township": {
+   "name": "moorestown township"
+  },
+  "ocd-division/country:us/state:nj/county:mercer/precinct:hopewell_twp-8": {
+   "name": "Mercer County Precinct Hopewell_Twp-8"
   },
   "ocd-division/country:us/state:nj/county:bergen/precinct:hackensack-2-4": {
    "name": "Bergen County Precinct Hackensack-2-4"
@@ -9262,11 +9262,11 @@
   "ocd-division/country:us/state:nj/county:atlantic/school_district:hammonton_town": {
    "name": "hammonton town"
   },
-  "ocd-division/country:us/state:nj/county:burlington/precinct:riverside-1": {
-   "name": "Burlington County Precinct Riverside-1"
-  },
   "ocd-division/country:us/state:nj/place:milltown": {
    "name": "Milltown borough"
+  },
+  "ocd-division/country:us/state:nj/county:burlington/precinct:riverside-1": {
+   "name": "Burlington County Precinct Riverside-1"
   },
   "ocd-division/country:us/state:nj/county:burlington/precinct:riverside-2": {
    "name": "Burlington County Precinct Riverside-2"
@@ -9277,11 +9277,11 @@
   "ocd-division/country:us/state:nj/county:burlington/precinct:riverside-4": {
    "name": "Burlington County Precinct Riverside-4"
   },
-  "ocd-division/country:us/state:nj/county:morris/precinct:pequannock-12": {
-   "name": "Morris County Precinct Pequannock-12"
-  },
   "ocd-division/country:us/state:nj/county:burlington/precinct:riverside-5": {
    "name": "Burlington County Precinct Riverside-5"
+  },
+  "ocd-division/country:us/state:nj/county:morris/precinct:pequannock-12": {
+   "name": "Morris County Precinct Pequannock-12"
   },
   "ocd-division/country:us/state:nj/county:burlington/precinct:riverside-6": {
    "name": "Burlington County Precinct Riverside-6"
@@ -9307,11 +9307,11 @@
   "ocd-division/country:us/state:nj/county:monmouth/precinct:marlboro-28": {
    "name": "Monmouth County Precinct Marlboro-28"
   },
-  "ocd-division/country:us/state:nj/county:monmouth/precinct:marlboro-23": {
-   "name": "Monmouth County Precinct Marlboro-23"
-  },
   "ocd-division/country:us/state:nj/place:rumson": {
    "name": "Rumson borough"
+  },
+  "ocd-division/country:us/state:nj/county:monmouth/precinct:marlboro-23": {
+   "name": "Monmouth County Precinct Marlboro-23"
   },
   "ocd-division/country:us/state:nj/county:monmouth/precinct:marlboro-24": {
    "name": "Monmouth County Precinct Marlboro-24"
@@ -9334,11 +9334,11 @@
   "ocd-division/country:us/state:nj/county:hudson/school_district:bayonne": {
    "name": "bayonne"
   },
-  "ocd-division/country:us/state:nj/county:monmouth/precinct:lake_como_boro-1": {
-   "name": "Monmouth County Precinct Lake_Como_Boro-1"
-  },
   "ocd-division/country:us/state:nj/place:riverton": {
    "name": "Riverton borough"
+  },
+  "ocd-division/country:us/state:nj/county:monmouth/precinct:lake_como_boro-1": {
+   "name": "Monmouth County Precinct Lake_Como_Boro-1"
   },
   "ocd-division/country:us/state:nj/county:passaic/school_district:little_falls_township": {
    "name": "little falls township"
@@ -9379,20 +9379,20 @@
   "ocd-division/country:us/state:nj/county:hudson/precinct:bayonne-3-8": {
    "name": "Hudson County Precinct Bayonne-3-8"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:perth_amboy-3-1": {
-   "name": "Middlesex County Precinct Perth_Amboy-3-1"
-  },
   "ocd-division/country:us/state:nj/county:hudson/precinct:bayonne-3-5": {
    "name": "Hudson County Precinct Bayonne-3-5"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:perth_amboy-3-2": {
-   "name": "Middlesex County Precinct Perth_Amboy-3-2"
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:perth_amboy-3-1": {
+   "name": "Middlesex County Precinct Perth_Amboy-3-1"
+  },
+  "ocd-division/country:us/state:nj/county:sussex/precinct:green-1": {
+   "name": "Sussex County Precinct Green-1"
   },
   "ocd-division/country:us/state:nj/county:hudson/precinct:bayonne-3-6": {
    "name": "Hudson County Precinct Bayonne-3-6"
   },
-  "ocd-division/country:us/state:nj/county:sussex/precinct:green-1": {
-   "name": "Sussex County Precinct Green-1"
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:perth_amboy-3-2": {
+   "name": "Middlesex County Precinct Perth_Amboy-3-2"
   },
   "ocd-division/country:us/state:nj/county:hudson/precinct:bayonne-3-9": {
    "name": "Hudson County Precinct Bayonne-3-9"
@@ -9427,11 +9427,11 @@
   "ocd-division/country:us/state:nj/county:sussex/school_district:andover_regional": {
    "name": "andover regional"
   },
-  "ocd-division/country:us/state:nj/county:morris/precinct:denville_twp-3-3": {
-   "name": "Morris County Precinct Denville_Twp-3-3"
-  },
   "ocd-division/country:us/state:nj/county:cumberland/precinct:lawrence-1": {
    "name": "Cumberland County Precinct Lawrence-1"
+  },
+  "ocd-division/country:us/state:nj/county:morris/precinct:denville_twp-3-3": {
+   "name": "Morris County Precinct Denville_Twp-3-3"
   },
   "ocd-division/country:us/state:nj/county:ocean/precinct:pine_beach-2": {
    "name": "Ocean County Precinct Pine_Beach-2"
@@ -9448,41 +9448,41 @@
   "ocd-division/country:us/state:nj/county:somerset/precinct:bernards_twp-7": {
    "name": "Somerset County Precinct Bernards_Twp-7"
   },
-  "ocd-division/country:us/state:nj/county:essex/precinct:irvington_w-1": {
-   "name": "Essex County Precinct Irvington_W-1"
-  },
   "ocd-division/country:us/state:nj/county:somerset/precinct:bernards_twp-8": {
    "name": "Somerset County Precinct Bernards_Twp-8"
   },
-  "ocd-division/country:us/state:nj/county:somerset/precinct:bernards_twp-5": {
-   "name": "Somerset County Precinct Bernards_Twp-5"
+  "ocd-division/country:us/state:nj/county:essex/precinct:irvington_w-1": {
+   "name": "Essex County Precinct Irvington_W-1"
   },
   "ocd-division/country:us/state:nj/county:sussex/place:lafayette": {
    "name": "Lafayette township"
   },
+  "ocd-division/country:us/state:nj/county:somerset/precinct:bernards_twp-5": {
+   "name": "Somerset County Precinct Bernards_Twp-5"
+  },
   "ocd-division/country:us/state:nj/county:somerset/precinct:bernards_twp-6": {
    "name": "Somerset County Precinct Bernards_Twp-6"
-  },
-  "ocd-division/country:us/state:nj/county:essex/precinct:irvington_w-4": {
-   "name": "Essex County Precinct Irvington_W-4"
   },
   "ocd-division/country:us/state:nj/county:somerset/precinct:bernards_twp-3": {
    "name": "Somerset County Precinct Bernards_Twp-3"
   },
+  "ocd-division/country:us/state:nj/county:essex/precinct:irvington_w-4": {
+   "name": "Essex County Precinct Irvington_W-4"
+  },
   "ocd-division/country:us/state:nj/county:somerset/precinct:bernards_twp-4": {
    "name": "Somerset County Precinct Bernards_Twp-4"
-  },
-  "ocd-division/country:us/state:nj/county:essex/precinct:irvington_w-2": {
-   "name": "Essex County Precinct Irvington_W-2"
   },
   "ocd-division/country:us/state:nj/county:somerset/precinct:bernards_twp-1": {
    "name": "Somerset County Precinct Bernards_Twp-1"
   },
-  "ocd-division/country:us/state:nj/county:essex/precinct:irvington_w-3": {
-   "name": "Essex County Precinct Irvington_W-3"
+  "ocd-division/country:us/state:nj/county:essex/precinct:irvington_w-2": {
+   "name": "Essex County Precinct Irvington_W-2"
   },
   "ocd-division/country:us/state:nj/county:somerset/precinct:bernards_twp-2": {
    "name": "Somerset County Precinct Bernards_Twp-2"
+  },
+  "ocd-division/country:us/state:nj/county:essex/precinct:irvington_w-3": {
+   "name": "Essex County Precinct Irvington_W-3"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:spotswood-4": {
    "name": "Middlesex County Precinct Spotswood-4"
@@ -9496,17 +9496,17 @@
   "ocd-division/country:us/state:nj/county:middlesex/precinct:spotswood-5": {
    "name": "Middlesex County Precinct Spotswood-5"
   },
-  "ocd-division/country:us/state:nj/county:monmouth/school_district:spring_lake": {
-   "name": "spring lake"
-  },
   "ocd-division/country:us/state:nj/county:somerset/precinct:bernards_twp-9": {
    "name": "Somerset County Precinct Bernards_Twp-9"
   },
-  "ocd-division/country:us/state:nj/county:middlesex/precinct:spotswood-2": {
-   "name": "Middlesex County Precinct Spotswood-2"
+  "ocd-division/country:us/state:nj/county:monmouth/school_district:spring_lake": {
+   "name": "spring lake"
   },
   "ocd-division/country:us/state:nj/county:sussex/school_district:byram_township": {
    "name": "byram township"
+  },
+  "ocd-division/country:us/state:nj/county:middlesex/precinct:spotswood-2": {
+   "name": "Middlesex County Precinct Spotswood-2"
   },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:spotswood-1": {
    "name": "Middlesex County Precinct Spotswood-1"
@@ -9520,14 +9520,14 @@
   "ocd-division/country:us/state:nj/county:hudson/precinct:bayonne-3-2": {
    "name": "Hudson County Precinct Bayonne-3-2"
   },
-  "ocd-division/country:us/state:nj/county:burlington/school_district:palmyra_borough": {
-   "name": "palmyra borough"
+  "ocd-division/country:us/state:nj/county:hudson/precinct:bayonne-3-1": {
+   "name": "Hudson County Precinct Bayonne-3-1"
   },
   "ocd-division/country:us/state:nj/county:bergen/school_district:park_ridge": {
    "name": "park ridge"
   },
-  "ocd-division/country:us/state:nj/county:hudson/precinct:bayonne-3-1": {
-   "name": "Hudson County Precinct Bayonne-3-1"
+  "ocd-division/country:us/state:nj/county:burlington/school_district:palmyra_borough": {
+   "name": "palmyra borough"
   },
   "ocd-division/country:us/state:nj/county:hudson/precinct:bayonne-3-4": {
    "name": "Hudson County Precinct Bayonne-3-4"
@@ -9559,38 +9559,38 @@
   "ocd-division/country:us/state:nj/county:bergen/precinct:maywood-6": {
    "name": "Bergen County Precinct Maywood-6"
   },
-  "ocd-division/country:us/state:nj/county:bergen/precinct:maywood-5": {
-   "name": "Bergen County Precinct Maywood-5"
-  },
   "ocd-division/country:us/state:nj/county:bergen/precinct:wood-ridge-1": {
    "name": "Bergen County Precinct Wood-Ridge-1"
+  },
+  "ocd-division/country:us/state:nj/county:bergen/precinct:maywood-5": {
+   "name": "Bergen County Precinct Maywood-5"
   },
   "ocd-division/country:us/state:nj/county:bergen/precinct:wood-ridge-2": {
    "name": "Bergen County Precinct Wood-Ridge-2"
   },
-  "ocd-division/country:us/state:nj/county:bergen/precinct:wood-ridge-3": {
-   "name": "Bergen County Precinct Wood-Ridge-3"
-  },
   "ocd-division/country:us/state:nj/county:warren/school_district:alpha": {
    "name": "alpha"
   },
-  "ocd-division/country:us/state:nj/county:burlington/school_district:medford_lakes_borough": {
-   "name": "medford lakes borough"
-  },
-  "ocd-division/country:us/state:nj/county:bergen/precinct:maywood-2": {
-   "name": "Bergen County Precinct Maywood-2"
+  "ocd-division/country:us/state:nj/county:bergen/precinct:wood-ridge-3": {
+   "name": "Bergen County Precinct Wood-Ridge-3"
   },
   "ocd-division/country:us/state:nj/county:bergen/precinct:wood-ridge-4": {
    "name": "Bergen County Precinct Wood-Ridge-4"
   },
-  "ocd-division/country:us/state:nj/county:bergen/precinct:maywood-1": {
-   "name": "Bergen County Precinct Maywood-1"
+  "ocd-division/country:us/state:nj/county:bergen/precinct:maywood-2": {
+   "name": "Bergen County Precinct Maywood-2"
+  },
+  "ocd-division/country:us/state:nj/county:burlington/school_district:medford_lakes_borough": {
+   "name": "medford lakes borough"
+  },
+  "ocd-division/country:us/state:nj/place:pine_hill": {
+   "name": "Pine Hill borough"
   },
   "ocd-division/country:us/state:nj/county:bergen/precinct:wood-ridge-5": {
    "name": "Bergen County Precinct Wood-Ridge-5"
   },
-  "ocd-division/country:us/state:nj/place:pine_hill": {
-   "name": "Pine Hill borough"
+  "ocd-division/country:us/state:nj/county:bergen/precinct:maywood-1": {
+   "name": "Bergen County Precinct Maywood-1"
   },
   "ocd-division/country:us/state:nj/county:atlantic/precinct:somers_point-2-3": {
    "name": "Atlantic County Precinct Somers_Point-2-3"
@@ -11284,11 +11284,11 @@
   "ocd-division/country:us/state:nj/county:mercer/precinct:trenton_w-7": {
    "name": "Mercer County Precinct Trenton_W-7"
   },
-  "ocd-division/country:us/state:nj/county:ocean/place:manchester": {
-   "name": "Manchester township"
-  },
   "ocd-division/country:us/state:nj/county:mercer/precinct:trenton_w-8": {
    "name": "Mercer County Precinct Trenton_W-8"
+  },
+  "ocd-division/country:us/state:nj/county:ocean/place:manchester": {
+   "name": "Manchester township"
   },
   "ocd-division/country:us/state:nj/county:mercer/precinct:trenton_w-9": {
    "name": "Mercer County Precinct Trenton_W-9"
@@ -12745,11 +12745,11 @@
   "ocd-division/country:us/state:nj/county:union/precinct:mountainside-8": {
    "name": "Union County Precinct Mountainside-8"
   },
-  "ocd-division/country:us/state:nj/county:mercer/place:robbinsville": {
-   "name": "Robbinsville township"
-  },
   "ocd-division/country:us/state:nj/county:union/precinct:mountainside-7": {
    "name": "Union County Precinct Mountainside-7"
+  },
+  "ocd-division/country:us/state:nj/county:mercer/place:robbinsville": {
+   "name": "Robbinsville township"
   },
   "ocd-division/country:us/state:nj/county:passaic/precinct:wayne-5-1": {
    "name": "Passaic County Precinct Wayne-5-1"
@@ -17750,11 +17750,11 @@
   "ocd-division/country:us/state:nj/place:lake_como": {
    "name": "Lake Como borough"
   },
-  "ocd-division/country:us/state:nj/county:passaic/place:west_milford": {
-   "name": "West Milford township"
-  },
   "ocd-division/country:us/state:nj/county:middlesex/precinct:s_plainfield-9": {
    "name": "Middlesex County Precinct S_Plainfield-9"
+  },
+  "ocd-division/country:us/state:nj/county:passaic/place:west_milford": {
+   "name": "West Milford township"
   },
   "ocd-division/country:us/state:nj/county:warren/precinct:hackettstown-3": {
    "name": "Warren County Precinct Hackettstown-3"
@@ -18851,11 +18851,11 @@
   "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_d-26": {
    "name": "Hudson County Precinct Jersey_City_D-26"
   },
-  "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_d-27": {
-   "name": "Hudson County Precinct Jersey_City_D-27"
-  },
   "ocd-division/country:us/state:nj/county:hudson/precinct:hoboken-5-1": {
    "name": "Hudson County Precinct Hoboken-5-1"
+  },
+  "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_d-27": {
+   "name": "Hudson County Precinct Jersey_City_D-27"
   },
   "ocd-division/country:us/state:nj/county:hudson/precinct:jersey_city_d-28": {
    "name": "Hudson County Precinct Jersey_City_D-28"
@@ -18899,20 +18899,20 @@
   "ocd-division/country:us/state:nj/county:monmouth/school_district:little_silver_borough": {
    "name": "little silver borough"
   },
-  "ocd-division/country:us/state:nj/county:camden/precinct:clementon-2": {
-   "name": "Camden County Precinct Clementon-2"
+  "ocd-division/country:us/state:nj/place:carlstadt": {
+   "name": "Carlstadt borough"
   },
   "ocd-division/country:us/state:nj/county:atlantic/precinct:buena_boro-2": {
    "name": "Atlantic County Precinct Buena_Boro-2"
   },
-  "ocd-division/country:us/state:nj/place:carlstadt": {
-   "name": "Carlstadt borough"
-  },
-  "ocd-division/country:us/state:nj/county:camden/precinct:clementon-1": {
-   "name": "Camden County Precinct Clementon-1"
+  "ocd-division/country:us/state:nj/county:camden/precinct:clementon-2": {
+   "name": "Camden County Precinct Clementon-2"
   },
   "ocd-division/country:us/state:nj/place:haddonfield": {
    "name": "Haddonfield borough"
+  },
+  "ocd-division/country:us/state:nj/county:camden/precinct:clementon-1": {
+   "name": "Camden County Precinct Clementon-1"
   },
   "ocd-division/country:us/state:nj/county:camden/precinct:clementon-3": {
    "name": "Camden County Precinct Clementon-3"
@@ -18926,17 +18926,17 @@
   "ocd-division/country:us/state:nj/county:morris/precinct:rockaway_twp-5-1": {
    "name": "Morris County Precinct Rockaway_Twp-5-1"
   },
-  "ocd-division/country:us/state:nj/county:morris/precinct:rockaway_twp-5-2": {
-   "name": "Morris County Precinct Rockaway_Twp-5-2"
-  },
   "ocd-division/country:us/state:nj/county:atlantic/precinct:buena_boro-1": {
    "name": "Atlantic County Precinct Buena_Boro-1"
   },
-  "ocd-division/country:us/state:nj/county:mercer/precinct:trenton_n-10": {
-   "name": "Mercer County Precinct Trenton_N-10"
+  "ocd-division/country:us/state:nj/county:morris/precinct:rockaway_twp-5-2": {
+   "name": "Morris County Precinct Rockaway_Twp-5-2"
   },
   "ocd-division/country:us/state:nj/county:passaic/school_district:totowa": {
    "name": "totowa"
+  },
+  "ocd-division/country:us/state:nj/county:mercer/precinct:trenton_n-10": {
+   "name": "Mercer County Precinct Trenton_N-10"
   },
   "ocd-division/country:us/state:nj/county:mercer/precinct:trenton_n-11": {
    "name": "Mercer County Precinct Trenton_N-11"

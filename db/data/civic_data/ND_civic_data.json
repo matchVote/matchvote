@@ -27,11 +27,11 @@
   "ocd-division/country:us/state:nd/county:sargent/place:whitestone_hill": {
    "name": "Whitestone Hill township"
   },
-  "ocd-division/country:us/state:nd/county:pembina/school_district:drayton_19": {
-   "name": "drayton 19"
-  },
   "ocd-division/country:us/state:nd/county:stutsman/school_district:jamestown_special_ed_unit": {
    "name": "jamestown special ed unit"
+  },
+  "ocd-division/country:us/state:nd/county:pembina/school_district:drayton_19": {
+   "name": "drayton 19"
   },
   "ocd-division/country:us/state:nd/county:mckenzie/place:sioux": {
    "name": "Sioux township"
@@ -66,14 +66,14 @@
   "ocd-division/country:us/state:nd/county:pierce/place:ness": {
    "name": "Ness township"
   },
-  "ocd-division/country:us/state:nd/county:ramsey/school_district:lake_area_career_and_technical_center": {
-   "name": "lake area career & technical center"
-  },
   "ocd-division/country:us/state:nd/county:benson/place:esmond": {
    "name": "Esmond township"
   },
   "ocd-division/country:us/state:nd/county:griggs/place:rosendal": {
    "name": "Rosendal township"
+  },
+  "ocd-division/country:us/state:nd/county:ramsey/school_district:lake_area_career_and_technical_center": {
+   "name": "lake area career & technical center"
   },
   "ocd-division/country:us/state:nd/county:bottineau/place:blaine": {
    "name": "Blaine township"
@@ -143,9 +143,6 @@
   "ocd-division/country:us/state:nd/county:emmons/precinct:3": {
    "name": "Emmons County Precinct 3"
   },
-  "ocd-division/country:us/state:nd/county:mountrail/place:manitou": {
-   "name": "Manitou township"
-  },
   "ocd-division/country:us/state:nd/county:ward/precinct:17-minot_b": {
    "name": "Ward County Precinct 17-Minot B"
   },
@@ -155,11 +152,14 @@
   "ocd-division/country:us/state:nd/county:barnes/place:alta": {
    "name": "Alta township"
   },
-  "ocd-division/country:us/state:nd/county:emmons/precinct:1": {
-   "name": "Emmons County Precinct 1"
+  "ocd-division/country:us/state:nd/county:mountrail/place:manitou": {
+   "name": "Manitou township"
   },
   "ocd-division/country:us/state:nd/county:steele/place:easton": {
    "name": "Easton township"
+  },
+  "ocd-division/country:us/state:nd/county:emmons/precinct:1": {
+   "name": "Emmons County Precinct 1"
   },
   "ocd-division/country:us/state:nd/county:hettinger/place:wagendorf": {
    "name": "Wagendorf township"
@@ -330,11 +330,11 @@
   "ocd-division/country:us/state:nd/county:lamoure/place:bluebird": {
    "name": "Bluebird township"
   },
-  "ocd-division/country:us/state:nd/county:eddy/place:pleasant_prairie": {
-   "name": "Pleasant Prairie township"
-  },
   "ocd-division/country:us/state:nd/place:cayuga": {
    "name": "Cayuga city"
+  },
+  "ocd-division/country:us/state:nd/county:eddy/place:pleasant_prairie": {
+   "name": "Pleasant Prairie township"
   },
   "ocd-division/country:us/state:nd/county:burleigh/place:morton": {
    "name": "Morton township"
@@ -604,6 +604,9 @@
   "ocd-division/country:us/state:nd/county:mclean/place:lake_williams": {
    "name": "Lake Williams township"
   },
+  "ocd-division/country:us/state:nd/county:bottineau/place:antler": {
+   "name": "Antler township"
+  },
   "ocd-division/country:us/state:nd": {
    "name": "North Dakota",
    "alsoKnownAs": [
@@ -625,9 +628,6 @@
     147
    ]
   },
-  "ocd-division/country:us/state:nd/county:bottineau/place:antler": {
-   "name": "Antler township"
-  },
   "ocd-division/country:us/state:nd/county:stutsman/place:midway": {
    "name": "Midway township"
   },
@@ -637,14 +637,14 @@
   "ocd-division/country:us/state:nd/county:cass/place:ayr": {
    "name": "Ayr township"
   },
-  "ocd-division/country:us/state:nd/county:nelson/place:central": {
-   "name": "Central township"
-  },
   "ocd-division/country:us/state:nd/place:tappen": {
    "name": "Tappen city"
   },
   "ocd-division/country:us/state:nd/county:stutsman/precinct:5-p5": {
    "name": "Stutsman County Precinct 5-P5"
+  },
+  "ocd-division/country:us/state:nd/county:nelson/place:central": {
+   "name": "Central township"
   },
   "ocd-division/country:us/state:nd/county:dunn/precinct:12-manning": {
    "name": "Dunn County Precinct 12-Manning"
@@ -4929,19 +4929,19 @@
     311
    ]
   },
-  "ocd-division/country:us/state:nd/county:sargent": {
-   "name": "Sargent County",
-   "officeIndices": [
-    312,
-    313,
-    314,
-    315,
-    316
-   ]
-  },
   "ocd-division/country:us/state:nd/county:emmons/council_district:2": {
    "name": "Emmons County District 2",
    "officeIndices": [
+    312
+   ]
+  },
+  "ocd-division/country:us/state:nd/county:sargent": {
+   "name": "Sargent County",
+   "officeIndices": [
+    313,
+    314,
+    315,
+    316,
     317
    ]
   },
@@ -11289,47 +11289,47 @@
    ]
   },
   {
-   "name": "Auditor",
-   "divisionId": "ocd-division/country:us/state:nd/county:sargent",
+   "name": "County Commission, District 2",
+   "divisionId": "ocd-division/country:us/state:nd/county:emmons/council_district:2",
    "officialIndices": [
     440
    ]
   },
   {
-   "name": "Sheriff",
+   "name": "Auditor",
    "divisionId": "ocd-division/country:us/state:nd/county:sargent",
    "officialIndices": [
     441
    ]
   },
   {
-   "name": "State's Attorney",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:nd/county:sargent",
    "officialIndices": [
     442
    ]
   },
   {
+   "name": "State's Attorney",
+   "divisionId": "ocd-division/country:us/state:nd/county:sargent",
+   "officialIndices": [
+    443
+   ]
+  },
+  {
    "name": "County Commission",
    "divisionId": "ocd-division/country:us/state:nd/county:sargent",
    "officialIndices": [
-    443,
     444,
     445,
     446,
-    447
+    447,
+    448
    ]
   },
   {
    "name": "Treasurer/Recorder/Clerk of Court",
    "divisionId": "ocd-division/country:us/state:nd/county:sargent",
-   "officialIndices": [
-    448
-   ]
-  },
-  {
-   "name": "County Commission, District 2",
-   "divisionId": "ocd-division/country:us/state:nd/county:emmons/council_district:2",
    "officialIndices": [
     449
    ]
@@ -21029,6 +21029,16 @@
    ]
   },
   {
+   "name": "Francis \"Pork\" Lawler",
+   "party": "Nonpartisan",
+   "phones": [
+    "(701) 254-4403"
+   ],
+   "urls": [
+    "http://emmonscounty.tripod.com/commission.html"
+   ]
+  },
+  {
    "name": "Sherry Hosford",
    "address": [
     {
@@ -21191,16 +21201,6 @@
    ],
    "emails": [
     "ghillest@nd.gov"
-   ]
-  },
-  {
-   "name": "Francis \"Pork\" Lawler",
-   "party": "Nonpartisan",
-   "phones": [
-    "(701) 254-4403"
-   ],
-   "urls": [
-    "http://emmonscounty.tripod.com/commission.html"
    ]
   },
   {

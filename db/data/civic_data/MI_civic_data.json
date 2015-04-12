@@ -54,17 +54,17 @@
   "ocd-division/country:us/state:mi/county:st_joseph/school_district:centreville_public_schools": {
    "name": "centreville public schools"
   },
-  "ocd-division/country:us/state:mi/county:alger/place:munising": {
-   "name": "Munising township"
-  },
   "ocd-division/country:us/state:mi/county:alcona/place:mitchell": {
    "name": "Mitchell township"
   },
-  "ocd-division/country:us/state:mi/county:mason/place:eden": {
-   "name": "Eden township"
+  "ocd-division/country:us/state:mi/county:alger/place:munising": {
+   "name": "Munising township"
   },
   "ocd-division/country:us/state:mi/county:mackinac/school_district:three_lakes_academy": {
    "name": "three lakes academy"
+  },
+  "ocd-division/country:us/state:mi/county:mason/place:eden": {
+   "name": "Eden township"
   },
   "ocd-division/country:us/state:mi/county:berrien/place:coloma_charter": {
    "name": "Coloma charter township"
@@ -99,14 +99,14 @@
   "ocd-division/country:us/state:mi/county:cheboygan/school_district:cheboygan_area_schools": {
    "name": "cheboygan area schools"
   },
+  "ocd-division/country:us/state:mi/place:wixom": {
+   "name": "Wixom city"
+  },
   "ocd-division/country:us/state:mi/county:gladwin/council_district:5": {
    "name": "Gladwin County Commissioner District 5",
    "officeIndices": [
     172
    ]
-  },
-  "ocd-division/country:us/state:mi/place:wixom": {
-   "name": "Wixom city"
   },
   "ocd-division/country:us/state:mi/county:gladwin/council_district:4": {
    "name": "Gladwin County Commissioner District 4",
@@ -153,6 +153,9 @@
   "ocd-division/country:us/state:mi/county:livingston/school_district:kensington_woods_high_school": {
    "name": "kensington woods high school"
   },
+  "ocd-division/country:us/state:mi/county:kalamazoo/school_district:youth_advancement_academy": {
+   "name": "youth advancement academy"
+  },
   "ocd-division/country:us/state:mi/county:alcona": {
    "name": "Alcona County",
    "officeIndices": [
@@ -163,9 +166,6 @@
     181,
     182
    ]
-  },
-  "ocd-division/country:us/state:mi/county:kalamazoo/school_district:youth_advancement_academy": {
-   "name": "youth advancement academy"
   },
   "ocd-division/country:us/state:mi/county:wayne/school_district:michigan_technical_academy": {
    "name": "michigan technical academy"
@@ -380,11 +380,11 @@
   "ocd-division/country:us/state:mi/county:roscommon/place:nester": {
    "name": "Nester township"
   },
-  "ocd-division/country:us/state:mi/county:isabella/place:gilmore": {
-   "name": "Gilmore township"
-  },
   "ocd-division/country:us/state:mi/place:highland_park": {
    "name": "Highland Park city"
+  },
+  "ocd-division/country:us/state:mi/county:isabella/place:gilmore": {
+   "name": "Gilmore township"
   },
   "ocd-division/country:us/state:mi/place:mount_clemens": {
    "name": "Mount Clemens city"
@@ -395,11 +395,11 @@
   "ocd-division/country:us/state:mi/county:clinton/school_district:bath_community_schools": {
    "name": "bath community schools"
   },
-  "ocd-division/country:us/state:mi/county:midland/place:lincoln": {
-   "name": "Lincoln township"
-  },
   "ocd-division/country:us/state:mi/place:lathrup_village": {
    "name": "Lathrup Village city"
+  },
+  "ocd-division/country:us/state:mi/county:midland/place:lincoln": {
+   "name": "Lincoln township"
   },
   "ocd-division/country:us/state:mi/county:st_clair/place:clay": {
    "name": "Clay township"
@@ -416,14 +416,14 @@
     186
    ]
   },
+  "ocd-division/country:us/state:mi/place:leslie": {
+   "name": "Leslie city"
+  },
   "ocd-division/country:us/state:mi/county:montcalm/council_district:8": {
    "name": "Montcalm County Commissioner District 8",
    "officeIndices": [
     187
    ]
-  },
-  "ocd-division/country:us/state:mi/place:leslie": {
-   "name": "Leslie city"
   },
   "ocd-division/country:us/state:mi/county:montcalm/council_district:5": {
    "name": "Montcalm County Commissioner District 5",
@@ -443,14 +443,14 @@
     190
    ]
   },
+  "ocd-division/country:us/state:mi/county:benzie/place:benzonia": {
+   "name": "Benzonia township"
+  },
   "ocd-division/country:us/state:mi/county:montcalm/council_district:6": {
    "name": "Montcalm County Commissioner District 6",
    "officeIndices": [
     191
    ]
-  },
-  "ocd-division/country:us/state:mi/county:benzie/place:benzonia": {
-   "name": "Benzonia township"
   },
   "ocd-division/country:us/state:mi/county:sanilac/school_district:brown_city_community_schools": {
    "name": "brown city community schools"
@@ -493,14 +493,14 @@
     200
    ]
   },
+  "ocd-division/country:us/state:mi/county:hillsdale/place:woodbridge": {
+   "name": "Woodbridge township"
+  },
   "ocd-division/country:us/state:mi/county:schoolcraft/council_district:2": {
    "name": "Schoolcraft County Commissioner District 2",
    "officeIndices": [
     201
    ]
-  },
-  "ocd-division/country:us/state:mi/county:hillsdale/place:woodbridge": {
-   "name": "Woodbridge township"
   },
   "ocd-division/country:us/state:mi/place:rockwood": {
    "name": "Rockwood city"
@@ -508,11 +508,11 @@
   "ocd-division/country:us/state:mi/county:oakland/school_district:bradford_academy": {
    "name": "bradford academy"
   },
-  "ocd-division/country:us/state:mi/county:shiawassee/school_district:morrice_area_schools": {
-   "name": "morrice area schools"
-  },
   "ocd-division/country:us/state:mi/county:allegan/school_district:outlook_academy": {
    "name": "outlook academy"
+  },
+  "ocd-division/country:us/state:mi/county:shiawassee/school_district:morrice_area_schools": {
+   "name": "morrice area schools"
   },
   "ocd-division/country:us/state:mi/county:shiawassee/place:fairfield": {
    "name": "Fairfield township"
@@ -541,11 +541,11 @@
   "ocd-division/country:us/state:mi/county:ottawa/school_district:grand_haven_area_public_schools": {
    "name": "grand haven area public schools"
   },
-  "ocd-division/country:us/state:mi/county:huron/place:gore": {
-   "name": "Gore township"
-  },
   "ocd-division/country:us/state:mi/county:iosco/place:sherman": {
    "name": "Sherman township"
+  },
+  "ocd-division/country:us/state:mi/county:huron/place:gore": {
+   "name": "Gore township"
   },
   "ocd-division/country:us/state:mi/county:van_buren/place:paw_paw": {
    "name": "Paw Paw township"
@@ -559,23 +559,23 @@
   "ocd-division/country:us/state:mi/place:sterling": {
    "name": "Sterling village"
   },
+  "ocd-division/country:us/state:mi/county:kalamazoo/place:texas_charter": {
+   "name": "Texas charter township"
+  },
   "ocd-division/country:us/state:mi/county:st_clair/council_district:6": {
    "name": "St. Clair County Commissioner District 6",
    "officeIndices": [
     203
    ]
   },
-  "ocd-division/country:us/state:mi/county:kalamazoo/place:texas_charter": {
-   "name": "Texas charter township"
-  },
-  "ocd-division/country:us/state:mi/place:cadillac": {
-   "name": "Cadillac city"
-  },
   "ocd-division/country:us/state:mi/county:st_clair/council_district:7": {
    "name": "St. Clair County Commissioner District 7",
    "officeIndices": [
     204
    ]
+  },
+  "ocd-division/country:us/state:mi/place:cadillac": {
+   "name": "Cadillac city"
   },
   "ocd-division/country:us/state:mi/county:st_clair/council_district:4": {
    "name": "St. Clair County Commissioner District 4",
@@ -628,11 +628,11 @@
   "ocd-division/country:us/state:mi/county:hillsdale/school_district:hillsdale_preparatory_school": {
    "name": "hillsdale preparatory school"
   },
-  "ocd-division/country:us/state:mi/county:barry/place:hope": {
-   "name": "Hope township"
-  },
   "ocd-division/country:us/state:mi/county:bay/place:beaver": {
    "name": "Beaver township"
+  },
+  "ocd-division/country:us/state:mi/county:barry/place:hope": {
+   "name": "Hope township"
   },
   "ocd-division/country:us/state:mi/county:clare/place:garfield": {
    "name": "Garfield township"
@@ -679,14 +679,14 @@
     212
    ]
   },
+  "ocd-division/country:us/state:mi/place:sylvan_lake": {
+   "name": "Sylvan Lake city"
+  },
   "ocd-division/country:us/state:mi/county:roscommon/council_district:2": {
    "name": "Roscommon County Commissioner District 2",
    "officeIndices": [
     213
    ]
-  },
-  "ocd-division/country:us/state:mi/place:sylvan_lake": {
-   "name": "Sylvan Lake city"
   },
   "ocd-division/country:us/state:mi/county:hillsdale/place:hillsdale": {
    "name": "Hillsdale township"
@@ -694,11 +694,11 @@
   "ocd-division/country:us/state:mi/county:schoolcraft/place:seney": {
    "name": "Seney township"
   },
-  "ocd-division/country:us/state:mi/county:wayne/school_district:hope_of_detroit_academy": {
-   "name": "hope of detroit academy"
-  },
   "ocd-division/country:us/state:mi/county:delta/school_district:big_bay_de_noc_school_district": {
    "name": "big bay de noc school district"
+  },
+  "ocd-division/country:us/state:mi/county:wayne/school_district:hope_of_detroit_academy": {
+   "name": "hope of detroit academy"
   },
   "ocd-division/country:us/state:mi/place:mount_morris": {
    "name": "Mount Morris city"
@@ -811,17 +811,17 @@
     16
    ]
   },
-  "ocd-division/country:us/state:mi/place:hart": {
-   "name": "Hart city"
-  },
-  "ocd-division/country:us/state:mi/place:portage": {
-   "name": "Portage city"
-  },
   "ocd-division/country:us/state:mi/sldu:3": {
    "name": "Michigan State Senate district 3",
    "officeIndices": [
     17
    ]
+  },
+  "ocd-division/country:us/state:mi/place:portage": {
+   "name": "Portage city"
+  },
+  "ocd-division/country:us/state:mi/place:hart": {
+   "name": "Hart city"
   },
   "ocd-division/country:us/state:mi/sldu:4": {
    "name": "Michigan State Senate district 4",
@@ -841,14 +841,14 @@
     20
    ]
   },
-  "ocd-division/country:us/state:mi/county:allegan/school_district:wayland_union_schools": {
-   "name": "wayland union schools"
-  },
   "ocd-division/country:us/state:mi/sldu:7": {
    "name": "Michigan State Senate district 7",
    "officeIndices": [
     21
    ]
+  },
+  "ocd-division/country:us/state:mi/county:allegan/school_district:wayland_union_schools": {
+   "name": "wayland union schools"
   },
   "ocd-division/country:us/state:mi/sldu:8": {
    "name": "Michigan State Senate district 8",
@@ -883,11 +883,11 @@
   "ocd-division/country:us/state:mi/place:grand_rapids/ward:1/precinct:5": {
    "name": "Grand Rapids MI ward 1 - precinct 5"
   },
-  "ocd-division/country:us/state:mi/county:montcalm/school_district:greenville_public_schools": {
-   "name": "greenville public schools"
-  },
   "ocd-division/country:us/state:mi/place:grand_rapids/ward:1/precinct:6": {
    "name": "Grand Rapids MI ward 1 - precinct 6"
+  },
+  "ocd-division/country:us/state:mi/county:montcalm/school_district:greenville_public_schools": {
+   "name": "greenville public schools"
   },
   "ocd-division/country:us/state:mi/place:grand_rapids/ward:1/precinct:7": {
    "name": "Grand Rapids MI ward 1 - precinct 7"
@@ -895,11 +895,11 @@
   "ocd-division/country:us/state:mi/place:grand_rapids/ward:1/precinct:1": {
    "name": "Grand Rapids MI ward 1 - precinct 1"
   },
-  "ocd-division/country:us/state:mi/county:iron/place:stambaugh": {
-   "name": "Stambaugh township"
-  },
   "ocd-division/country:us/state:mi/place:grand_rapids/ward:1/precinct:2": {
    "name": "Grand Rapids MI ward 1 - precinct 2"
+  },
+  "ocd-division/country:us/state:mi/county:iron/place:stambaugh": {
+   "name": "Stambaugh township"
   },
   "ocd-division/country:us/state:mi/place:grand_rapids/ward:1/precinct:3": {
    "name": "Grand Rapids MI ward 1 - precinct 3"
@@ -916,14 +916,14 @@
   "ocd-division/country:us/state:mi/place:grand_rapids/ward:1/precinct:8": {
    "name": "Grand Rapids MI ward 1 - precinct 8"
   },
-  "ocd-division/country:us/state:mi/county:wayne/place:plymouth_charter": {
-   "name": "Plymouth charter township"
-  },
   "ocd-division/country:us/state:mi/county:emmet/council_district:3": {
    "name": "Emmet County Commissioner District 3",
    "officeIndices": [
     215
    ]
+  },
+  "ocd-division/country:us/state:mi/county:wayne/place:plymouth_charter": {
+   "name": "Plymouth charter township"
   },
   "ocd-division/country:us/state:mi/county:emmet/council_district:4": {
    "name": "Emmet County Commissioner District 4",
@@ -937,14 +937,14 @@
     217
    ]
   },
+  "ocd-division/country:us/state:mi/county:ingham/place:meridian_charter": {
+   "name": "Meridian charter township"
+  },
   "ocd-division/country:us/state:mi/county:emmet/council_district:2": {
    "name": "Emmet County Commissioner District 2",
    "officeIndices": [
     218
    ]
-  },
-  "ocd-division/country:us/state:mi/county:ingham/place:meridian_charter": {
-   "name": "Meridian charter township"
   },
   "ocd-division/country:us/state:mi/county:gladwin/place:hay": {
    "name": "Hay township"
@@ -982,11 +982,11 @@
   "ocd-division/country:us/state:mi/county:washtenaw/place:sharon": {
    "name": "Sharon township"
   },
-  "ocd-division/country:us/state:mi/county:sanilac/place:washington": {
-   "name": "Washington township"
-  },
   "ocd-division/country:us/state:mi/county:houghton/school_district:adams_township_school_district": {
    "name": "adams township school district"
+  },
+  "ocd-division/country:us/state:mi/county:sanilac/place:washington": {
+   "name": "Washington township"
   },
   "ocd-division/country:us/state:mi/place:flint/ward:5": {
    "name": "Flint MI City Council ward 5"
@@ -994,41 +994,41 @@
   "ocd-division/country:us/state:mi/place:flint/ward:6": {
    "name": "Flint MI City Council ward 6"
   },
-  "ocd-division/country:us/state:mi/county:branch/place:union": {
-   "name": "Union township"
+  "ocd-division/country:us/state:mi/place:flint/ward:3": {
+   "name": "Flint MI City Council ward 3"
   },
   "ocd-division/country:us/state:mi/county:genesee/school_district:academy_of_flint": {
    "name": "academy of flint"
   },
-  "ocd-division/country:us/state:mi/place:flint/ward:3": {
-   "name": "Flint MI City Council ward 3"
+  "ocd-division/country:us/state:mi/county:branch/place:union": {
+   "name": "Union township"
   },
   "ocd-division/country:us/state:mi/place:flint/ward:4": {
    "name": "Flint MI City Council ward 4"
   },
-  "ocd-division/country:us/state:mi/county:wayne/school_district:detroit_enterprise_academy": {
-   "name": "detroit enterprise academy"
-  },
   "ocd-division/country:us/state:mi/place:flint/ward:9": {
    "name": "Flint MI City Council ward 9"
+  },
+  "ocd-division/country:us/state:mi/county:wayne/school_district:detroit_enterprise_academy": {
+   "name": "detroit enterprise academy"
   },
   "ocd-division/country:us/state:mi/place:flint/ward:7": {
    "name": "Flint MI City Council ward 7"
   },
-  "ocd-division/country:us/state:mi/place:flint/ward:8": {
-   "name": "Flint MI City Council ward 8"
-  },
   "ocd-division/country:us/state:mi/place:inkster": {
    "name": "Inkster city"
+  },
+  "ocd-division/country:us/state:mi/place:flint/ward:8": {
+   "name": "Flint MI City Council ward 8"
   },
   "ocd-division/country:us/state:mi/place:flint/ward:2": {
    "name": "Flint MI City Council ward 2"
   },
-  "ocd-division/country:us/state:mi/place:flint/ward:1": {
-   "name": "Flint MI City Council ward 1"
-  },
   "ocd-division/country:us/state:mi/place:rose_city": {
    "name": "Rose City city"
+  },
+  "ocd-division/country:us/state:mi/place:flint/ward:1": {
+   "name": "Flint MI City Council ward 1"
   },
   "ocd-division/country:us/state:mi/county:sanilac/school_district:carsonville-port_sanilac_school_district": {
    "name": "carsonville-port sanilac school district"
@@ -1051,11 +1051,11 @@
   "ocd-division/country:us/state:mi/place:bronson": {
    "name": "Bronson city"
   },
-  "ocd-division/country:us/state:mi/place:alma": {
-   "name": "Alma city"
-  },
   "ocd-division/country:us/state:mi/county:van_buren/school_district:mattawan_consolidated_school": {
    "name": "mattawan consolidated school"
+  },
+  "ocd-division/country:us/state:mi/place:alma": {
+   "name": "Alma city"
   },
   "ocd-division/country:us/state:mi/county:ogemaw/place:goodar": {
    "name": "Goodar township"
@@ -1075,17 +1075,17 @@
   "ocd-division/country:us/state:mi/county:st_clair/place:greenwood": {
    "name": "Greenwood township"
   },
-  "ocd-division/country:us/state:mi/county:alger/place:grand_island": {
-   "name": "Grand Island township"
-  },
   "ocd-division/country:us/state:mi/county:ionia/school_district:lakewood_public_schools": {
    "name": "lakewood public schools"
   },
-  "ocd-division/country:us/state:mi/county:newaygo/place:garfield": {
-   "name": "Garfield township"
+  "ocd-division/country:us/state:mi/county:alger/place:grand_island": {
+   "name": "Grand Island township"
   },
   "ocd-division/country:us/state:mi/county:emmet/place:bear_creek": {
    "name": "Bear Creek township"
+  },
+  "ocd-division/country:us/state:mi/county:newaygo/place:garfield": {
+   "name": "Garfield township"
   },
   "ocd-division/country:us/state:mi/county:berrien/school_district:benton_harbor_area_schools": {
    "name": "benton harbor area schools"
@@ -1099,11 +1099,11 @@
   "ocd-division/country:us/state:mi/county:calhoun/school_district:pennfield_schools": {
    "name": "pennfield schools"
   },
-  "ocd-division/country:us/state:mi/county:menominee/school_district:north_central_area_schools": {
-   "name": "north central area schools"
-  },
   "ocd-division/country:us/state:mi/county:alcona/place:caledonia": {
    "name": "Caledonia township"
+  },
+  "ocd-division/country:us/state:mi/county:menominee/school_district:north_central_area_schools": {
+   "name": "north central area schools"
   },
   "ocd-division/country:us/state:mi/county:missaukee/place:riverside": {
    "name": "Riverside township"
@@ -1135,14 +1135,14 @@
     225
    ]
   },
+  "ocd-division/country:us/state:mi/county:lenawee/place:seneca": {
+   "name": "Seneca township"
+  },
   "ocd-division/country:us/state:mi/county:benzie/council_district:4": {
    "name": "Benzie County Commissioner District 4",
    "officeIndices": [
     226
    ]
-  },
-  "ocd-division/country:us/state:mi/county:lenawee/place:seneca": {
-   "name": "Seneca township"
   },
   "ocd-division/country:us/state:mi/county:benzie/council_district:7": {
    "name": "Benzie County Commissioner District 7",
@@ -1159,14 +1159,14 @@
   "ocd-division/country:us/state:mi/county:lenawee/place:fairfield": {
    "name": "Fairfield township"
   },
-  "ocd-division/country:us/state:mi/county:van_buren/school_district:van_buren_isd": {
-   "name": "van buren isd"
+  "ocd-division/country:us/state:mi/place:pleasant_ridge": {
+   "name": "Pleasant Ridge city"
   },
   "ocd-division/country:us/state:mi/county:genesee/school_district:mich_school_f~t_deaf~mich_school_f~t_blind-lio": {
    "name": "mich school f/t deaf/mich school f/t blind-lio"
   },
-  "ocd-division/country:us/state:mi/place:pleasant_ridge": {
-   "name": "Pleasant Ridge city"
+  "ocd-division/country:us/state:mi/county:van_buren/school_district:van_buren_isd": {
+   "name": "van buren isd"
   },
   "ocd-division/country:us/state:mi/county:iron/place:bates": {
    "name": "Bates township"
@@ -1180,17 +1180,17 @@
   "ocd-division/country:us/state:mi/place:baroda": {
    "name": "Baroda village"
   },
-  "ocd-division/country:us/state:mi/county:oceana/place:crystal": {
-   "name": "Crystal township"
-  },
   "ocd-division/country:us/state:mi/county:marquette/place:ewing": {
    "name": "Ewing township"
   },
-  "ocd-division/country:us/state:mi/county:marquette/place:michigamme": {
-   "name": "Michigamme township"
+  "ocd-division/country:us/state:mi/county:oceana/place:crystal": {
+   "name": "Crystal township"
   },
   "ocd-division/country:us/state:mi/county:kalamazoo/place:comstock_charter": {
    "name": "Comstock charter township"
+  },
+  "ocd-division/country:us/state:mi/county:marquette/place:michigamme": {
+   "name": "Michigamme township"
   },
   "ocd-division/country:us/state:mi/district_court:87b": {
    "name": "MI State District Court - 87B District"
@@ -1198,11 +1198,11 @@
   "ocd-division/country:us/state:mi/district_court:87a": {
    "name": "MI State District Court - 87A District"
   },
-  "ocd-division/country:us/state:mi/district_court:87c": {
-   "name": "MI State District Court - 87C District"
-  },
   "ocd-division/country:us/state:mi/county:kent/school_district:kelloggsville_public_schools": {
    "name": "kelloggsville public schools"
+  },
+  "ocd-division/country:us/state:mi/district_court:87c": {
+   "name": "MI State District Court - 87C District"
   },
   "ocd-division/country:us/state:mi/county:oceana/school_district:oceana_intermediate_school_district": {
    "name": "oceana intermediate school district"
@@ -1213,14 +1213,14 @@
   "ocd-division/country:us/state:mi/county:saginaw/school_district:chesaning_union_schools": {
    "name": "chesaning union schools"
   },
-  "ocd-division/country:us/state:mi/county:montcalm/place:bushnell": {
-   "name": "Bushnell township"
+  "ocd-division/country:us/state:mi/place:walkerville": {
+   "name": "Walkerville village"
   },
   "ocd-division/country:us/state:mi/county:jackson/school_district:michigan_center_school_district": {
    "name": "michigan center school district"
   },
-  "ocd-division/country:us/state:mi/place:walkerville": {
-   "name": "Walkerville village"
+  "ocd-division/country:us/state:mi/county:montcalm/place:bushnell": {
+   "name": "Bushnell township"
   },
   "ocd-division/country:us/state:mi/place:maybee": {
    "name": "Maybee village"
@@ -1240,11 +1240,11 @@
   "ocd-division/country:us/state:mi/county:leelanau/place:suttons_bay": {
    "name": "Suttons Bay township"
   },
-  "ocd-division/country:us/state:mi/county:van_buren/school_district:bloomingdale_public_school_district": {
-   "name": "bloomingdale public school district"
-  },
   "ocd-division/country:us/state:mi/place:oxford": {
    "name": "Oxford village"
+  },
+  "ocd-division/country:us/state:mi/county:van_buren/school_district:bloomingdale_public_school_district": {
+   "name": "bloomingdale public school district"
   },
   "ocd-division/country:us/state:mi/county:washtenaw/place:superior_charter": {
    "name": "Superior charter township"
@@ -1252,11 +1252,11 @@
   "ocd-division/country:us/state:mi/county:wexford/place:springville": {
    "name": "Springville township"
   },
-  "ocd-division/country:us/state:mi/county:wayne/school_district:michigan_health_academy": {
-   "name": "michigan health academy"
-  },
   "ocd-division/country:us/state:mi/county:genesee/school_district:clio_area_school_district": {
    "name": "clio area school district"
+  },
+  "ocd-division/country:us/state:mi/county:wayne/school_district:michigan_health_academy": {
+   "name": "michigan health academy"
   },
   "ocd-division/country:us/state:mi/county:missaukee/place:richland": {
    "name": "Richland township"
@@ -1276,23 +1276,23 @@
     229
    ]
   },
-  "ocd-division/country:us/state:mi/county:saginaw/school_district:saginaw_county_transition_academy": {
-   "name": "saginaw county transition academy"
-  },
   "ocd-division/country:us/state:mi/county:antrim/council_district:2": {
    "name": "Antrim County Commissioner District 2",
    "officeIndices": [
     230
    ]
   },
+  "ocd-division/country:us/state:mi/county:saginaw/school_district:saginaw_county_transition_academy": {
+   "name": "saginaw county transition academy"
+  },
+  "ocd-division/country:us/state:mi/county:jackson/school_district:napoleon_community_schools": {
+   "name": "napoleon community schools"
+  },
   "ocd-division/country:us/state:mi/county:antrim/council_district:3": {
    "name": "Antrim County Commissioner District 3",
    "officeIndices": [
     231
    ]
-  },
-  "ocd-division/country:us/state:mi/county:jackson/school_district:napoleon_community_schools": {
-   "name": "napoleon community schools"
   },
   "ocd-division/country:us/state:mi/county:antrim/council_district:4": {
    "name": "Antrim County Commissioner District 4",
@@ -1312,14 +1312,14 @@
     234
    ]
   },
-  "ocd-division/country:us/state:mi/county:mason/school_district:mason_county_central_schools": {
-   "name": "mason county central schools"
-  },
   "ocd-division/country:us/state:mi/county:antrim/council_district:7": {
    "name": "Antrim County Commissioner District 7",
    "officeIndices": [
     235
    ]
+  },
+  "ocd-division/country:us/state:mi/county:mason/school_district:mason_county_central_schools": {
+   "name": "mason county central schools"
   },
   "ocd-division/country:us/state:mi/county:antrim/council_district:8": {
    "name": "Antrim County Commissioner District 8",
@@ -1327,14 +1327,14 @@
     236
    ]
   },
+  "ocd-division/country:us/state:mi/county:leelanau/place:kasson": {
+   "name": "Kasson township"
+  },
   "ocd-division/country:us/state:mi/county:antrim/council_district:9": {
    "name": "Antrim County Commissioner District 9",
    "officeIndices": [
     237
    ]
-  },
-  "ocd-division/country:us/state:mi/county:leelanau/place:kasson": {
-   "name": "Kasson township"
   },
   "ocd-division/country:us/state:mi/county:kent/place:oakfield": {
    "name": "Oakfield township"
@@ -1366,14 +1366,14 @@
   "ocd-division/country:us/state:mi/place:kentwood": {
    "name": "Kentwood city"
   },
-  "ocd-division/country:us/state:mi/county:wayne/school_district:northpointe_academy": {
-   "name": "northpointe academy"
-  },
   "ocd-division/country:us/state:mi/county:berrien/council_district:9": {
    "name": "Berrien County Commissioner District 9",
    "officeIndices": [
     238
    ]
+  },
+  "ocd-division/country:us/state:mi/county:wayne/school_district:northpointe_academy": {
+   "name": "northpointe academy"
   },
   "ocd-division/country:us/state:mi/county:berrien/council_district:8": {
    "name": "Berrien County Commissioner District 8",
@@ -1387,8 +1387,14 @@
   "ocd-division/country:us/state:mi/place:springport": {
    "name": "Springport village"
   },
-  "ocd-division/country:us/state:mi/county:livingston/school_district:howell_public_schools": {
-   "name": "howell public schools"
+  "ocd-division/country:us/state:mi/place:warren/council_district:5": {
+   "name": "Warren MI city council district 5"
+  },
+  "ocd-division/country:us/state:mi/place:decatur": {
+   "name": "Decatur village"
+  },
+  "ocd-division/country:us/state:mi/county:ingham/school_district:okemos_public_schools": {
+   "name": "okemos public schools"
   },
   "ocd-division/country:us/state:mi/county:berrien/council_district:3": {
    "name": "Berrien County Commissioner District 3",
@@ -1396,26 +1402,20 @@
     240
    ]
   },
-  "ocd-division/country:us/state:mi/county:ingham/school_district:okemos_public_schools": {
-   "name": "okemos public schools"
-  },
-  "ocd-division/country:us/state:mi/place:decatur": {
-   "name": "Decatur village"
-  },
-  "ocd-division/country:us/state:mi/place:warren/council_district:5": {
-   "name": "Warren MI city council district 5"
-  },
-  "ocd-division/country:us/state:mi/county:oakland/place:groveland": {
-   "name": "Groveland township"
-  },
-  "ocd-division/country:us/state:mi/county:genesee/place:argentine": {
-   "name": "Argentine township"
+  "ocd-division/country:us/state:mi/county:livingston/school_district:howell_public_schools": {
+   "name": "howell public schools"
   },
   "ocd-division/country:us/state:mi/county:berrien/council_district:2": {
    "name": "Berrien County Commissioner District 2",
    "officeIndices": [
     241
    ]
+  },
+  "ocd-division/country:us/state:mi/county:genesee/place:argentine": {
+   "name": "Argentine township"
+  },
+  "ocd-division/country:us/state:mi/county:oakland/place:groveland": {
+   "name": "Groveland township"
   },
   "ocd-division/country:us/state:mi/place:warren/council_district:3": {
    "name": "Warren MI city council district 3"
@@ -2391,17 +2391,14 @@
     38
    ]
   },
-  "ocd-division/country:us/state:mi/county:roscommon/place:lyon": {
-   "name": "Lyon township"
-  },
   "ocd-division/country:us/state:mi/sldu:38": {
    "name": "Michigan State Senate district 38",
    "officeIndices": [
     39
    ]
   },
-  "ocd-division/country:us/state:mi/county:schoolcraft/place:hiawatha": {
-   "name": "Hiawatha township"
+  "ocd-division/country:us/state:mi/county:roscommon/place:lyon": {
+   "name": "Lyon township"
   },
   "ocd-division/country:us/state:mi/sldu:35": {
    "name": "Michigan State Senate district 35",
@@ -2409,8 +2406,8 @@
     40
    ]
   },
-  "ocd-division/country:us/state:mi/county:gladwin/school_district:beaverton_rural_schools": {
-   "name": "beaverton rural schools"
+  "ocd-division/country:us/state:mi/county:schoolcraft/place:hiawatha": {
+   "name": "Hiawatha township"
   },
   "ocd-division/country:us/state:mi/sldu:36": {
    "name": "Michigan State Senate district 36",
@@ -2418,8 +2415,8 @@
     41
    ]
   },
-  "ocd-division/country:us/state:mi/county:muskegon/place:ravenna": {
-   "name": "Ravenna township"
+  "ocd-division/country:us/state:mi/county:gladwin/school_district:beaverton_rural_schools": {
+   "name": "beaverton rural schools"
   },
   "ocd-division/country:us/state:mi/sldu:21": {
    "name": "Michigan State Senate district 21",
@@ -2427,14 +2424,17 @@
     42
    ]
   },
-  "ocd-division/country:us/state:mi/county:lake/place:sauble": {
-   "name": "Sauble township"
+  "ocd-division/country:us/state:mi/county:muskegon/place:ravenna": {
+   "name": "Ravenna township"
   },
   "ocd-division/country:us/state:mi/sldu:20": {
    "name": "Michigan State Senate district 20",
    "officeIndices": [
     43
    ]
+  },
+  "ocd-division/country:us/state:mi/county:lake/place:sauble": {
+   "name": "Sauble township"
   },
   "ocd-division/country:us/state:mi/sldu:23": {
    "name": "Michigan State Senate district 23",
@@ -2448,11 +2448,11 @@
     45
    ]
   },
-  "ocd-division/country:us/state:mi/county:oakland/school_district:west_bloomfield_school_district": {
-   "name": "west bloomfield school district"
-  },
   "ocd-division/country:us/state:mi/place:copemish": {
    "name": "Copemish village"
+  },
+  "ocd-division/country:us/state:mi/county:oakland/school_district:west_bloomfield_school_district": {
+   "name": "west bloomfield school district"
   },
   "ocd-division/country:us/state:mi/county:van_buren/council_district:5": {
    "name": "Van Buren County Commissioner District 5",
@@ -2496,38 +2496,38 @@
     336
    ]
   },
-  "ocd-division/country:us/state:mi/county:gratiot/school_district:ithaca_public_schools": {
-   "name": "ithaca public schools"
-  },
   "ocd-division/country:us/state:mi/county:ionia/place:orange": {
    "name": "Orange township"
+  },
+  "ocd-division/country:us/state:mi/county:gratiot/school_district:ithaca_public_schools": {
+   "name": "ithaca public schools"
   },
   "ocd-division/country:us/state:mi/place:kalamazoo": {
    "name": "Kalamazoo city"
   },
-  "ocd-division/country:us/state:mi/county:mackinac/place:bois_blanc": {
-   "name": "Bois Blanc township"
-  },
   "ocd-division/country:us/state:mi/county:alpena/school_district:alpena_public_schools": {
    "name": "alpena public schools"
   },
-  "ocd-division/country:us/state:mi/county:washtenaw/school_district:manchester_community_schools": {
-   "name": "manchester community schools"
+  "ocd-division/country:us/state:mi/county:mackinac/place:bois_blanc": {
+   "name": "Bois Blanc township"
   },
   "ocd-division/country:us/state:mi/county:oakland/school_district:laurus_academy": {
    "name": "laurus academy"
   },
-  "ocd-division/country:us/state:mi/county:kent/school_district:sparta_area_schools": {
-   "name": "sparta area schools"
-  },
-  "ocd-division/country:us/state:mi/place:vandalia": {
-   "name": "Vandalia village"
+  "ocd-division/country:us/state:mi/county:washtenaw/school_district:manchester_community_schools": {
+   "name": "manchester community schools"
   },
   "ocd-division/country:us/state:mi/sldu:28": {
    "name": "Michigan State Senate district 28",
    "officeIndices": [
     46
    ]
+  },
+  "ocd-division/country:us/state:mi/place:vandalia": {
+   "name": "Vandalia village"
+  },
+  "ocd-division/country:us/state:mi/county:kent/school_district:sparta_area_schools": {
+   "name": "sparta area schools"
   },
   "ocd-division/country:us/state:mi/sldu:29": {
    "name": "Michigan State Senate district 29",
@@ -2628,14 +2628,14 @@
   "ocd-division/country:us/state:mi/place:concord": {
    "name": "Concord village"
   },
-  "ocd-division/country:us/state:mi/county:shiawassee/place:caledonia_charter": {
-   "name": "Caledonia charter township"
-  },
   "ocd-division/country:us/state:mi/sldu:17": {
    "name": "Michigan State Senate district 17",
    "officeIndices": [
     60
    ]
+  },
+  "ocd-division/country:us/state:mi/county:shiawassee/place:caledonia_charter": {
+   "name": "Caledonia charter township"
   },
   "ocd-division/country:us/state:mi/sldu:18": {
    "name": "Michigan State Senate district 18",
@@ -2649,11 +2649,11 @@
   "ocd-division/country:us/state:mi/county:clinton/place:olive": {
    "name": "Olive township"
   },
-  "ocd-division/country:us/state:mi/county:berrien/place:sodus": {
-   "name": "Sodus township"
-  },
   "ocd-division/country:us/state:mi/place:coleman": {
    "name": "Coleman city"
+  },
+  "ocd-division/country:us/state:mi/county:berrien/place:sodus": {
+   "name": "Sodus township"
   },
   "ocd-division/country:us/state:mi/county:houghton/school_district:elm_river_township_school_district": {
    "name": "elm river township school district"
@@ -2667,14 +2667,14 @@
   "ocd-division/country:us/state:mi/county:berrien/school_district:dream_academy": {
    "name": "dream academy"
   },
-  "ocd-division/country:us/state:mi/county:st_clair/school_district:st._clair_county_intervention_academy": {
-   "name": "st. clair county intervention academy"
+  "ocd-division/country:us/state:mi/county:charlevoix/place:marion": {
+   "name": "Marion township"
   },
   "ocd-division/country:us/state:mi/county:shiawassee/place:burns": {
    "name": "Burns township"
   },
-  "ocd-division/country:us/state:mi/county:charlevoix/place:marion": {
-   "name": "Marion township"
+  "ocd-division/country:us/state:mi/county:st_clair/school_district:st._clair_county_intervention_academy": {
+   "name": "st. clair county intervention academy"
   },
   "ocd-division/country:us/state:mi/county:presque_isle/place:ocqueoc": {
    "name": "Ocqueoc township"
@@ -2685,11 +2685,11 @@
   "ocd-division/country:us/state:mi/county:calhoun/place:lee": {
    "name": "Lee township"
   },
-  "ocd-division/country:us/state:mi/county:st_joseph/place:park": {
-   "name": "Park township"
-  },
   "ocd-division/country:us/state:mi/county:oceana/place:leavitt": {
    "name": "Leavitt township"
+  },
+  "ocd-division/country:us/state:mi/county:st_joseph/place:park": {
+   "name": "Park township"
   },
   "ocd-division/country:us/state:mi/county:washtenaw/place:lima": {
    "name": "Lima township"
@@ -2720,26 +2720,26 @@
   "ocd-division/country:us/state:mi/county:oakland/school_district:brandon_school_district": {
    "name": "brandon school district"
   },
-  "ocd-division/country:us/state:mi/county:oscoda/school_district:fairview_area_school_district": {
-   "name": "fairview area school district"
-  },
   "ocd-division/country:us/state:mi/place:mulliken": {
    "name": "Mulliken village"
+  },
+  "ocd-division/country:us/state:mi/county:oscoda/school_district:fairview_area_school_district": {
+   "name": "fairview area school district"
   },
   "ocd-division/country:us/state:mi/county:calhoun/school_district:harper_creek_community_schools": {
    "name": "harper creek community schools"
   },
-  "ocd-division/country:us/state:mi/county:lapeer/place:dryden": {
-   "name": "Dryden township"
-  },
   "ocd-division/country:us/state:mi/place:mesick": {
    "name": "Mesick village"
   },
-  "ocd-division/country:us/state:mi/county:charlevoix/school_district:boyne_city_public_schools": {
-   "name": "boyne city public schools"
+  "ocd-division/country:us/state:mi/county:lapeer/place:dryden": {
+   "name": "Dryden township"
   },
   "ocd-division/country:us/state:mi/county:barry/place:yankee_springs": {
    "name": "Yankee Springs township"
+  },
+  "ocd-division/country:us/state:mi/county:charlevoix/school_district:boyne_city_public_schools": {
+   "name": "boyne city public schools"
   },
   "ocd-division/country:us/state:mi/place:big_rapids": {
    "name": "Big Rapids city"
@@ -2756,23 +2756,23 @@
   "ocd-division/country:us/state:mi/county:washtenaw/place:york_charter": {
    "name": "York charter township"
   },
-  "ocd-division/country:us/state:mi/county:calhoun/school_district:homer_community_schools": {
-   "name": "homer community schools"
-  },
   "ocd-division/country:us/state:mi/place:fennville": {
    "name": "Fennville city"
   },
+  "ocd-division/country:us/state:mi/county:calhoun/school_district:homer_community_schools": {
+   "name": "homer community schools"
+  },
   "ocd-division/country:us/state:mi/county:branch/place:coldwater": {
    "name": "Coldwater township"
+  },
+  "ocd-division/country:us/state:mi/county:genesee/school_district:fenton_area_public_schools": {
+   "name": "fenton area public schools"
   },
   "ocd-division/country:us/state:mi/county:cheboygan/council_district:6": {
    "name": "Cheboygan County Commissioner District 6",
    "officeIndices": [
     343
    ]
-  },
-  "ocd-division/country:us/state:mi/county:genesee/school_district:fenton_area_public_schools": {
-   "name": "fenton area public schools"
   },
   "ocd-division/country:us/state:mi/county:cheboygan/council_district:5": {
    "name": "Cheboygan County Commissioner District 5",
@@ -2795,14 +2795,17 @@
     346
    ]
   },
+  "ocd-division/country:us/state:mi/place:edwardsburg": {
+   "name": "Edwardsburg village"
+  },
   "ocd-division/country:us/state:mi/county:cheboygan/council_district:1": {
    "name": "Cheboygan County Commissioner District 1",
    "officeIndices": [
     347
    ]
   },
-  "ocd-division/country:us/state:mi/place:edwardsburg": {
-   "name": "Edwardsburg village"
+  "ocd-division/country:us/state:mi/county:lenawee/place:rollin": {
+   "name": "Rollin township"
   },
   "ocd-division/country:us/state:mi/county:cheboygan/council_district:4": {
    "name": "Cheboygan County Commissioner District 4",
@@ -2810,23 +2813,20 @@
     348
    ]
   },
-  "ocd-division/country:us/state:mi/county:lenawee/place:rollin": {
-   "name": "Rollin township"
-  },
   "ocd-division/country:us/state:mi/county:cheboygan/council_district:3": {
    "name": "Cheboygan County Commissioner District 3",
    "officeIndices": [
     349
    ]
   },
-  "ocd-division/country:us/state:mi/place:cass_city": {
-   "name": "Cass City village"
+  "ocd-division/country:us/state:mi/place:reese": {
+   "name": "Reese village"
   },
   "ocd-division/country:us/state:mi/county:tuscola/school_district:caro_community_schools": {
    "name": "caro community schools"
   },
-  "ocd-division/country:us/state:mi/place:reese": {
-   "name": "Reese village"
+  "ocd-division/country:us/state:mi/place:cass_city": {
+   "name": "Cass City village"
   },
   "ocd-division/country:us/state:mi/place:ypsilanti": {
    "name": "Ypsilanti city"
@@ -2834,11 +2834,11 @@
   "ocd-division/country:us/state:mi/county:huron/place:winsor": {
    "name": "Winsor township"
   },
-  "ocd-division/country:us/state:mi/county:berrien/place:chikaming": {
-   "name": "Chikaming township"
-  },
   "ocd-division/country:us/state:mi/county:kalamazoo/place:pavilion": {
    "name": "Pavilion township"
+  },
+  "ocd-division/country:us/state:mi/county:berrien/place:chikaming": {
+   "name": "Chikaming township"
   },
   "ocd-division/country:us/state:mi/place:muskegon": {
    "name": "Muskegon city"
@@ -2849,11 +2849,11 @@
   "ocd-division/country:us/state:mi/county:benzie/place:platte": {
    "name": "Platte township"
   },
-  "ocd-division/country:us/state:mi/county:saginaw/school_district:bridgeport-spaulding_community_school_district": {
-   "name": "bridgeport-spaulding community school district"
-  },
   "ocd-division/country:us/state:mi/county:montcalm/school_district:central_montcalm_public_schools": {
    "name": "central montcalm public schools"
+  },
+  "ocd-division/country:us/state:mi/county:saginaw/school_district:bridgeport-spaulding_community_school_district": {
+   "name": "bridgeport-spaulding community school district"
   },
   "ocd-division/country:us/state:mi/place:le_roy": {
    "name": "Le Roy village"
@@ -2906,17 +2906,14 @@
   "ocd-division/country:us/state:mi/district_court:95a": {
    "name": "MI State District Court - 95a District"
   },
-  "ocd-division/country:us/state:mi/place:carleton": {
-   "name": "Carleton village"
-  },
   "ocd-division/country:us/state:mi/county:kalkaska/place:springfield": {
    "name": "Springfield township"
   },
+  "ocd-division/country:us/state:mi/place:carleton": {
+   "name": "Carleton village"
+  },
   "ocd-division/country:us/state:mi/county:jackson/place:rives": {
    "name": "Rives township"
-  },
-  "ocd-division/country:us/state:mi/district_court:95b": {
-   "name": "MI State District Court - 95b District"
   },
   "ocd-division/country:us/state:mi/county:crawford": {
    "name": "Crawford County",
@@ -2927,6 +2924,9 @@
     360,
     361
    ]
+  },
+  "ocd-division/country:us/state:mi/district_court:95b": {
+   "name": "MI State District Court - 95b District"
   },
   "ocd-division/country:us/state:mi/place:hamtramck": {
    "name": "Hamtramck city"
@@ -2996,11 +2996,11 @@
     371
    ]
   },
-  "ocd-division/country:us/state:mi/place:benton_harbor": {
-   "name": "Benton Harbor city"
-  },
   "ocd-division/country:us/state:mi/county:tuscola/school_district:cass_city_public_schools": {
    "name": "cass city public schools"
+  },
+  "ocd-division/country:us/state:mi/place:benton_harbor": {
+   "name": "Benton Harbor city"
   },
   "ocd-division/country:us/state:mi/county:wexford/place:wexford": {
    "name": "Wexford township"
@@ -3107,9 +3107,6 @@
   "ocd-division/country:us/state:mi/county:lake/place:cherry_valley": {
    "name": "Cherry Valley township"
   },
-  "ocd-division/country:us/state:mi/place:ann_arbor": {
-   "name": "Ann Arbor city"
-  },
   "ocd-division/country:us/state:mi/sldl:84": {
    "name": "Michigan State House district 84",
    "officeIndices": [
@@ -3118,6 +3115,9 @@
   },
   "ocd-division/country:us/state:mi/county:iosco/place:oscoda_charter": {
    "name": "Oscoda charter township"
+  },
+  "ocd-division/country:us/state:mi/place:ann_arbor": {
+   "name": "Ann Arbor city"
   },
   "ocd-division/country:us/state:mi/sldl:83": {
    "name": "Michigan State House district 83",
@@ -4947,11 +4947,11 @@
   "ocd-division/country:us/state:mi/district_court:31": {
    "name": "MI State District Court - 31st District"
   },
-  "ocd-division/country:us/state:mi/place:auburn_hills": {
-   "name": "Auburn Hills city"
-  },
   "ocd-division/country:us/state:mi/district_court:2a": {
    "name": "MI State District Court - 2A District"
+  },
+  "ocd-division/country:us/state:mi/place:auburn_hills": {
+   "name": "Auburn Hills city"
   },
   "ocd-division/country:us/state:mi/county:kent/school_district:lowell_area_schools": {
    "name": "lowell area schools"
@@ -5157,6 +5157,9 @@
   "ocd-division/country:us/state:mi/place:lansing/ward:3": {
    "name": "Lansing MI City Ward 3"
   },
+  "ocd-division/country:us/state:mi/place:lansing/ward:2": {
+   "name": "Lansing MI City Ward 2"
+  },
   "ocd-division/country:us/state:mi/county:lenawee": {
    "name": "Lenawee County",
    "officeIndices": [
@@ -5167,9 +5170,6 @@
     515,
     516
    ]
-  },
-  "ocd-division/country:us/state:mi/place:lansing/ward:2": {
-   "name": "Lansing MI City Ward 2"
   },
   "ocd-division/country:us/state:mi/place:lansing/ward:4": {
    "name": "Lansing MI City Ward 4"
@@ -5288,14 +5288,14 @@
     518
    ]
   },
+  "ocd-division/country:us/state:mi/county:jackson/school_district:concord_community_schools": {
+   "name": "concord community schools"
+  },
   "ocd-division/country:us/state:mi/county:wayne/council_district:8": {
    "name": "Wayne County MI County Commission District 8",
    "officeIndices": [
     519
    ]
-  },
-  "ocd-division/country:us/state:mi/county:jackson/school_district:concord_community_schools": {
-   "name": "concord community schools"
   },
   "ocd-division/country:us/state:mi/county:ingham/school_district:williamston_community_schools": {
    "name": "williamston community schools"
@@ -5366,14 +5366,14 @@
     524
    ]
   },
+  "ocd-division/country:us/state:mi/county:emmet/place:pleasantview": {
+   "name": "Pleasantview township"
+  },
   "ocd-division/country:us/state:mi/county:wayne/council_district:5": {
    "name": "Wayne County MI County Commission District 5",
    "officeIndices": [
     525
    ]
-  },
-  "ocd-division/country:us/state:mi/county:emmet/place:pleasantview": {
-   "name": "Pleasantview township"
   },
   "ocd-division/country:us/state:mi/district_court:86": {
    "name": "MI State District Court - 86th District"
@@ -5540,14 +5540,14 @@
     539
    ]
   },
+  "ocd-division/country:us/state:mi/place:vicksburg": {
+   "name": "Vicksburg village"
+  },
   "ocd-division/country:us/state:mi/county:midland/council_district:6": {
    "name": "Midland County Commissioner District 6",
    "officeIndices": [
     540
    ]
-  },
-  "ocd-division/country:us/state:mi/place:vicksburg": {
-   "name": "Vicksburg village"
   },
   "ocd-division/country:us/state:mi/county:midland/council_district:5": {
    "name": "Midland County Commissioner District 5",
@@ -5773,14 +5773,14 @@
     569
    ]
   },
-  "ocd-division/country:us/state:mi/county:washtenaw/council_district:2": {
-   "name": "Washtenaw County MI Board of Commissioners District 2",
+  "ocd-division/country:us/state:mi/county:lenawee/council_district:1": {
+   "name": "Lenawee County Commissioner District 1",
    "officeIndices": [
     571
    ]
   },
-  "ocd-division/country:us/state:mi/county:lenawee/council_district:1": {
-   "name": "Lenawee County Commissioner District 1",
+  "ocd-division/country:us/state:mi/county:washtenaw/council_district:2": {
+   "name": "Washtenaw County MI Board of Commissioners District 2",
    "officeIndices": [
     570
    ]
@@ -5794,11 +5794,11 @@
   "ocd-division/country:us/state:mi/place:coopersville": {
    "name": "Coopersville city"
   },
-  "ocd-division/country:us/state:mi/county:bay/place:garfield": {
-   "name": "Garfield township"
-  },
   "ocd-division/country:us/state:mi/place:sandusky": {
    "name": "Sandusky city"
+  },
+  "ocd-division/country:us/state:mi/county:bay/place:garfield": {
+   "name": "Garfield township"
   },
   "ocd-division/country:us/state:mi/county:newaygo/place:croton": {
    "name": "Croton township"
@@ -5812,11 +5812,11 @@
   "ocd-division/country:us/state:mi/place:sparta": {
    "name": "Sparta village"
   },
-  "ocd-division/country:us/state:mi/county:st_joseph/school_district:burr_oak_community_school_district": {
-   "name": "burr oak community school district"
-  },
   "ocd-division/country:us/state:mi/county:clare/place:hamilton": {
    "name": "Hamilton township"
+  },
+  "ocd-division/country:us/state:mi/county:st_joseph/school_district:burr_oak_community_school_district": {
+   "name": "burr oak community school district"
   },
   "ocd-division/country:us/state:mi/county:muskegon/school_district:fruitport_community_schools": {
    "name": "fruitport community schools"
@@ -5830,26 +5830,26 @@
   "ocd-division/country:us/state:mi/county:genesee/school_district:flushing_community_schools": {
    "name": "flushing community schools"
   },
-  "ocd-division/country:us/state:mi/county:osceola/school_district:marion_public_schools": {
-   "name": "marion public schools"
-  },
   "ocd-division/country:us/state:mi/place:charlotte": {
    "name": "Charlotte city"
+  },
+  "ocd-division/country:us/state:mi/county:osceola/school_district:marion_public_schools": {
+   "name": "marion public schools"
   },
   "ocd-division/country:us/state:mi/county:houghton/school_district:houghton-portage_township_schools": {
    "name": "houghton-portage township schools"
   },
-  "ocd-division/country:us/state:mi/county:wayne/school_district:pierre_toussaint_academy": {
-   "name": "pierre toussaint academy"
-  },
-  "ocd-division/country:us/state:mi/county:shiawassee/school_district:durand_area_schools": {
-   "name": "durand area schools"
+  "ocd-division/country:us/state:mi/place:litchfield": {
+   "name": "Litchfield city"
   },
   "ocd-division/country:us/state:mi/county:menominee/school_district:stephenson_area_public_schools": {
    "name": "stephenson area public schools"
   },
-  "ocd-division/country:us/state:mi/place:litchfield": {
-   "name": "Litchfield city"
+  "ocd-division/country:us/state:mi/county:shiawassee/school_district:durand_area_schools": {
+   "name": "durand area schools"
+  },
+  "ocd-division/country:us/state:mi/county:wayne/school_district:pierre_toussaint_academy": {
+   "name": "pierre toussaint academy"
   },
   "ocd-division/country:us/state:mi/county:kent/school_district:west_michigan_aviation_academy": {
    "name": "west michigan aviation academy"
@@ -5865,11 +5865,11 @@
     577
    ]
   },
-  "ocd-division/country:us/state:mi/county:houghton/school_district:dollar_bay-tamarack_city_area_schools": {
-   "name": "dollar bay-tamarack city area schools"
-  },
   "ocd-division/country:us/state:mi/county:kalamazoo/place:prairie_ronde": {
    "name": "Prairie Ronde township"
+  },
+  "ocd-division/country:us/state:mi/county:houghton/school_district:dollar_bay-tamarack_city_area_schools": {
+   "name": "dollar bay-tamarack city area schools"
   },
   "ocd-division/country:us/state:mi/county:kent/place:nelson": {
    "name": "Nelson township"
@@ -5895,23 +5895,23 @@
   "ocd-division/country:us/state:mi/county:oakland/place:waterford_charter": {
    "name": "Waterford charter township"
   },
-  "ocd-division/country:us/state:mi/county:presque_isle/place:north_allis": {
-   "name": "North Allis township"
-  },
   "ocd-division/country:us/state:mi/county:chippewa/school_district:detour_arts_and_technology_academy": {
    "name": "detour arts and technology academy"
+  },
+  "ocd-division/country:us/state:mi/county:presque_isle/place:north_allis": {
+   "name": "North Allis township"
   },
   "ocd-division/country:us/state:mi/county:mecosta/place:aetna": {
    "name": "Aetna township"
   },
-  "ocd-division/country:us/state:mi/county:muskegon/place:dalton": {
-   "name": "Dalton township"
+  "ocd-division/country:us/state:mi/county:gladwin/place:butman": {
+   "name": "Butman township"
   },
   "ocd-division/country:us/state:mi/county:marquette/place:powell": {
    "name": "Powell township"
   },
-  "ocd-division/country:us/state:mi/county:gladwin/place:butman": {
-   "name": "Butman township"
+  "ocd-division/country:us/state:mi/county:muskegon/place:dalton": {
+   "name": "Dalton township"
   },
   "ocd-division/country:us/state:mi/place:empire": {
    "name": "Empire village"
@@ -5919,11 +5919,11 @@
   "ocd-division/country:us/state:mi/county:gratiot/place:washington": {
    "name": "Washington township"
   },
-  "ocd-division/country:us/state:mi/county:st_clair/place:emmett": {
-   "name": "Emmett township"
-  },
   "ocd-division/country:us/state:mi/county:macomb/school_district:macomb_isd": {
    "name": "macomb isd"
+  },
+  "ocd-division/country:us/state:mi/county:st_clair/place:emmett": {
+   "name": "Emmett township"
   },
   "ocd-division/country:us/state:mi/county:monroe/place:ida": {
    "name": "Ida township"
@@ -5937,11 +5937,11 @@
   "ocd-division/country:us/state:mi/place:new_buffalo": {
    "name": "New Buffalo city"
   },
-  "ocd-division/country:us/state:mi/county:muskegon/school_district:whitehall_district_schools": {
-   "name": "whitehall district schools"
-  },
   "ocd-division/country:us/state:mi/county:jackson/place:pulaski": {
    "name": "Pulaski township"
+  },
+  "ocd-division/country:us/state:mi/county:muskegon/school_district:whitehall_district_schools": {
+   "name": "whitehall district schools"
   },
   "ocd-division/country:us/state:mi/place:burlington": {
    "name": "Burlington village"
@@ -5949,17 +5949,17 @@
   "ocd-division/country:us/state:mi/county:oakland/school_district:walled_lake_consolidated_schools": {
    "name": "walled lake consolidated schools"
   },
-  "ocd-division/country:us/state:mi/county:schoolcraft/place:doyle": {
-   "name": "Doyle township"
-  },
   "ocd-division/country:us/state:mi/place:essexville": {
    "name": "Essexville city"
   },
-  "ocd-division/country:us/state:mi/county:macomb/school_district:warren_woods_public_schools": {
-   "name": "warren woods public schools"
+  "ocd-division/country:us/state:mi/county:schoolcraft/place:doyle": {
+   "name": "Doyle township"
   },
   "ocd-division/country:us/state:mi/place:reading": {
    "name": "Reading city"
+  },
+  "ocd-division/country:us/state:mi/county:macomb/school_district:warren_woods_public_schools": {
+   "name": "warren woods public schools"
   },
   "ocd-division/country:us/state:mi/county:kalamazoo": {
    "name": "Kalamazoo County",
@@ -5990,11 +5990,11 @@
   "ocd-division/country:us/state:mi/county:st_clair/school_district:industrial_technology_academy": {
    "name": "industrial technology academy"
   },
-  "ocd-division/country:us/state:mi/county:st_clair/school_district:capac_community_school_district": {
-   "name": "capac community school district"
-  },
   "ocd-division/country:us/state:mi/county:branch/school_district:coldwater_community_schools": {
    "name": "coldwater community schools"
+  },
+  "ocd-division/country:us/state:mi/county:st_clair/school_district:capac_community_school_district": {
+   "name": "capac community school district"
   },
   "ocd-division/country:us/state:mi/county:barry/place:castleton": {
    "name": "Castleton township"
@@ -6436,14 +6436,14 @@
     599
    ]
   },
-  "ocd-division/country:us/state:mi/county:clinton/council_district:6": {
-   "name": "Clinton County Commissioner District 6",
+  "ocd-division/country:us/state:mi/county:calhoun/council_district:7": {
+   "name": "Calhoun County Commissioner District 7",
    "officeIndices": [
     600
    ]
   },
-  "ocd-division/country:us/state:mi/county:calhoun/council_district:7": {
-   "name": "Calhoun County Commissioner District 7",
+  "ocd-division/country:us/state:mi/county:clinton/council_district:6": {
+   "name": "Clinton County Commissioner District 6",
    "officeIndices": [
     601
    ]
@@ -6595,6 +6595,12 @@
   "ocd-division/country:us/state:mi/county:ottawa/school_district:eagle_crest_charter_academy": {
    "name": "eagle crest charter academy"
   },
+  "ocd-division/country:us/state:mi/place:orchard_lake_village": {
+   "name": "Orchard Lake Village city"
+  },
+  "ocd-division/country:us/state:mi/county:cass/place:howard": {
+   "name": "Howard township"
+  },
   "ocd-division/country:us/state:mi/county:washtenaw": {
    "name": "Washtenaw County",
    "officeIndices": [
@@ -6604,12 +6610,6 @@
     619,
     620
    ]
-  },
-  "ocd-division/country:us/state:mi/place:orchard_lake_village": {
-   "name": "Orchard Lake Village city"
-  },
-  "ocd-division/country:us/state:mi/county:cass/place:howard": {
-   "name": "Howard township"
   },
   "ocd-division/country:us/state:mi/county:calhoun/place:emmett_charter": {
    "name": "Emmett charter township"
@@ -6818,6 +6818,9 @@
   "ocd-division/country:us/state:mi/county:missaukee/place:forest": {
    "name": "Forest township"
   },
+  "ocd-division/country:us/state:mi/county:houghton/place:adams": {
+   "name": "Adams township"
+  },
   "ocd-division/country:us/state:mi/county:muskegon": {
    "name": "Muskegon County",
    "officeIndices": [
@@ -6828,9 +6831,6 @@
     633,
     634
    ]
-  },
-  "ocd-division/country:us/state:mi/county:houghton/place:adams": {
-   "name": "Adams township"
   },
   "ocd-division/country:us/state:mi/place:middleville": {
    "name": "Middleville village"
@@ -8730,14 +8730,14 @@
     764
    ]
   },
+  "ocd-division/country:us/state:mi/county:manistee/place:maple_grove": {
+   "name": "Maple Grove township"
+  },
   "ocd-division/country:us/state:mi/county:oakland/council_district:5": {
    "name": "Oakland County MI Board of Commissioners District 5",
    "officeIndices": [
     765
    ]
-  },
-  "ocd-division/country:us/state:mi/county:manistee/place:maple_grove": {
-   "name": "Maple Grove township"
   },
   "ocd-division/country:us/state:mi/county:oakland/council_district:6": {
    "name": "Oakland County MI Board of Commissioners District 6",
@@ -10411,14 +10411,14 @@
     915
    ]
   },
+  "ocd-division/country:us/state:mi/county:berrien/place:bainbridge": {
+   "name": "Bainbridge township"
+  },
   "ocd-division/country:us/state:mi/county:shiawassee/council_district:2": {
    "name": "Shiawassee County Commissioner District 2",
    "officeIndices": [
     916
    ]
-  },
-  "ocd-division/country:us/state:mi/county:berrien/place:bainbridge": {
-   "name": "Bainbridge township"
   },
   "ocd-division/country:us/state:mi/county:macomb/school_district:new_haven_community_schools": {
    "name": "new haven community schools"
@@ -10996,6 +10996,9 @@
   "ocd-division/country:us/state:mi/county:muskegon/place:moorland": {
    "name": "Moorland township"
   },
+  "ocd-division/country:us/state:mi/county:iosco/place:baldwin": {
+   "name": "Baldwin township"
+  },
   "ocd-division/country:us/state:mi/county:barry": {
    "name": "Barry County",
    "officeIndices": [
@@ -11006,9 +11009,6 @@
     981,
     982
    ]
-  },
-  "ocd-division/country:us/state:mi/county:iosco/place:baldwin": {
-   "name": "Baldwin township"
   },
   "ocd-division/country:us/state:mi/county:lapeer/place:rich": {
    "name": "Rich township"
@@ -11539,44 +11539,44 @@
   "ocd-division/country:us/state:mi/county:oakland/school_district:great_lakes_academy": {
    "name": "great lakes academy"
   },
-  "ocd-division/country:us/state:mi/county:sanilac/place:flynn": {
-   "name": "Flynn township"
-  },
   "ocd-division/country:us/state:mi/county:baraga/council_district:3": {
    "name": "Baraga County Commissioner District 3",
    "officeIndices": [
     1031
    ]
   },
+  "ocd-division/country:us/state:mi/county:sanilac/place:flynn": {
+   "name": "Flynn township"
+  },
   "ocd-division/country:us/state:mi/county:washtenaw/school_district:ann_arbor_public_schools": {
    "name": "ann arbor public schools"
-  },
-  "ocd-division/country:us/state:mi/county:midland/place:mills": {
-   "name": "Mills township"
-  },
-  "ocd-division/country:us/state:mi/county:jackson/place:henrietta": {
-   "name": "Henrietta township"
   },
   "ocd-division/country:us/state:mi/place:marshall": {
    "name": "Marshall city"
   },
+  "ocd-division/country:us/state:mi/county:jackson/place:henrietta": {
+   "name": "Henrietta township"
+  },
+  "ocd-division/country:us/state:mi/county:midland/place:mills": {
+   "name": "Mills township"
+  },
   "ocd-division/country:us/state:mi/place:edmore": {
    "name": "Edmore village"
-  },
-  "ocd-division/country:us/state:mi/county:ionia/school_district:ionia_public_schools": {
-   "name": "ionia public schools"
   },
   "ocd-division/country:us/state:mi/county:lenawee/place:blissfield": {
    "name": "Blissfield township"
   },
+  "ocd-division/country:us/state:mi/county:ionia/school_district:ionia_public_schools": {
+   "name": "ionia public schools"
+  },
   "ocd-division/country:us/state:mi/county:crawford/place:grayling_charter": {
    "name": "Grayling charter township"
   },
-  "ocd-division/country:us/state:mi/county:washtenaw/place:augusta_charter": {
-   "name": "Augusta charter township"
-  },
   "ocd-division/country:us/state:mi/place:clifford": {
    "name": "Clifford village"
+  },
+  "ocd-division/country:us/state:mi/county:washtenaw/place:augusta_charter": {
+   "name": "Augusta charter township"
   },
   "ocd-division/country:us/state:mi/place:sheridan": {
    "name": "Sheridan village"
@@ -11599,14 +11599,14 @@
   "ocd-division/country:us/state:mi/county:grand_traverse/school_district:traverse_city_area_public_schools": {
    "name": "traverse city area public schools"
   },
-  "ocd-division/country:us/state:mi/county:livingston/place:putnam": {
-   "name": "Putnam township"
+  "ocd-division/country:us/state:mi/county:grand_traverse/place:mayfield": {
+   "name": "Mayfield township"
   },
   "ocd-division/country:us/state:mi/county:genesee/school_district:flint_city_school_district": {
    "name": "flint city school district"
   },
-  "ocd-division/country:us/state:mi/county:grand_traverse/place:mayfield": {
-   "name": "Mayfield township"
+  "ocd-division/country:us/state:mi/county:livingston/place:putnam": {
+   "name": "Putnam township"
   },
   "ocd-division/country:us/state:mi/county:montcalm/place:douglass": {
    "name": "Douglass township"
@@ -11645,14 +11645,14 @@
   "ocd-division/country:us/state:mi/county:grand_traverse/school_district:grand_traverse_academy": {
    "name": "grand traverse academy"
   },
-  "ocd-division/country:us/state:mi/county:mecosta/place:green_charter": {
-   "name": "Green charter township"
+  "ocd-division/country:us/state:mi/county:iosco/school_district:whittemore-prescott_area_schools": {
+   "name": "whittemore-prescott area schools"
   },
   "ocd-division/country:us/state:mi/county:benzie/place:crystal_lake": {
    "name": "Crystal Lake township"
   },
-  "ocd-division/country:us/state:mi/county:iosco/school_district:whittemore-prescott_area_schools": {
-   "name": "whittemore-prescott area schools"
+  "ocd-division/country:us/state:mi/county:mecosta/place:green_charter": {
+   "name": "Green charter township"
   },
   "ocd-division/country:us/state:mi/county:houghton/place:laird": {
    "name": "Laird township"
@@ -12839,17 +12839,17 @@
     1131
    ]
   },
-  "ocd-division/country:us/state:mi/county:ingham/council_district:3": {
-   "name": "Ingham County Commissioner District 3",
-   "officeIndices": [
-    1132
-   ]
-  },
   "ocd-division/country:us/state:mi/place:otsego": {
    "name": "Otsego city"
   },
   "ocd-division/country:us/state:mi/county:leelanau/school_district:leelanau_montessori_public_school_academy": {
    "name": "leelanau montessori public school academy"
+  },
+  "ocd-division/country:us/state:mi/county:ingham/council_district:3": {
+   "name": "Ingham County Commissioner District 3",
+   "officeIndices": [
+    1132
+   ]
   },
   "ocd-division/country:us/state:mi/county:ingham/council_district:6": {
    "name": "Ingham County Commissioner District 6",
@@ -13843,6 +13843,9 @@
   "ocd-division/country:us/state:mi/county:gladwin/place:buckeye": {
    "name": "Buckeye township"
   },
+  "ocd-division/country:us/state:mi/county:lapeer/place:imlay": {
+   "name": "Imlay township"
+  },
   "ocd-division/country:us/state:mi/county:kent": {
    "name": "Kent County",
    "officeIndices": [
@@ -13852,9 +13855,6 @@
     1220,
     1221
    ]
-  },
-  "ocd-division/country:us/state:mi/county:lapeer/place:imlay": {
-   "name": "Imlay township"
   },
   "ocd-division/country:us/state:mi/place:st_joseph": {
    "name": "St. Joseph city"
@@ -14416,11 +14416,11 @@
   "ocd-division/country:us/state:mi/county:saginaw/school_district:francis_reh_psa": {
    "name": "francis reh psa"
   },
-  "ocd-division/country:us/state:mi/county:wayne/place:grosse_ile": {
-   "name": "Grosse Ile township"
-  },
   "ocd-division/country:us/state:mi/place:westphalia": {
    "name": "Westphalia village"
+  },
+  "ocd-division/country:us/state:mi/county:wayne/place:grosse_ile": {
+   "name": "Grosse Ile township"
   },
   "ocd-division/country:us/state:mi/county:marquette/school_district:ishpeming_public_school_district": {
    "name": "ishpeming public school district"
@@ -19592,15 +19592,15 @@
    ]
   },
   {
-   "name": "Commission, District 1",
-   "divisionId": "ocd-division/country:us/state:mi/county:lenawee/council_district:1",
+   "name": "Commission, District 2",
+   "divisionId": "ocd-division/country:us/state:mi/county:washtenaw/council_district:2",
    "officialIndices": [
     571
    ]
   },
   {
-   "name": "Commission, District 2",
-   "divisionId": "ocd-division/country:us/state:mi/county:washtenaw/council_district:2",
+   "name": "Commission, District 1",
+   "divisionId": "ocd-division/country:us/state:mi/county:lenawee/council_district:1",
    "officialIndices": [
     572
    ]
@@ -19802,15 +19802,15 @@
    ]
   },
   {
-   "name": "Commission, District 6",
-   "divisionId": "ocd-division/country:us/state:mi/county:clinton/council_district:6",
+   "name": "Commission, District 7",
+   "divisionId": "ocd-division/country:us/state:mi/county:calhoun/council_district:7",
    "officialIndices": [
     601
    ]
   },
   {
-   "name": "Commission, District 7",
-   "divisionId": "ocd-division/country:us/state:mi/county:calhoun/council_district:7",
+   "name": "Commission, District 6",
+   "divisionId": "ocd-division/country:us/state:mi/county:clinton/council_district:6",
    "officialIndices": [
     602
    ]
@@ -33774,19 +33774,6 @@
    ]
   },
   {
-   "name": "David Stimpson",
-   "party": "Republican",
-   "phones": [
-    "(517) 423-0999"
-   ],
-   "urls": [
-    "http://www.lenawee.mi.us/government/board-of-commissioners?id=249"
-   ],
-   "emails": [
-    "comm.stimpson@lenawee.mi.us"
-   ]
-  },
-  {
    "name": "Dan Smith",
    "address": [
     {
@@ -33799,6 +33786,19 @@
    "party": "Unknown",
    "urls": [
     "http://www.ewashtenaw.org/government/boc"
+   ]
+  },
+  {
+   "name": "David Stimpson",
+   "party": "Republican",
+   "phones": [
+    "(517) 423-0999"
+   ],
+   "urls": [
+    "http://www.lenawee.mi.us/government/board-of-commissioners?id=249"
+   ],
+   "emails": [
+    "comm.stimpson@lenawee.mi.us"
    ]
   },
   {
@@ -34186,6 +34186,24 @@
    ]
   },
   {
+   "name": "Art Kale",
+   "address": [
+    {
+     "line1": "PO Box 672",
+     "city": "albion",
+     "state": "MI",
+     "zip": "49224"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(517) 629-4774"
+   ],
+   "urls": [
+    "http://www.calhouncountymi.gov/government/board_of_commissioners/"
+   ]
+  },
+  {
    "name": "Eileen Heideman",
    "address": [
     {
@@ -34204,24 +34222,6 @@
    ],
    "emails": [
     "eheideman@comcast.net"
-   ]
-  },
-  {
-   "name": "Art Kale",
-   "address": [
-    {
-     "line1": "PO Box 672",
-     "city": "albion",
-     "state": "MI",
-     "zip": "49224"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(517) 629-4774"
-   ],
-   "urls": [
-    "http://www.calhouncountymi.gov/government/board_of_commissioners/"
    ]
   },
   {

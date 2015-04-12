@@ -12,14 +12,14 @@
   "ocd-division/country:us/state:ak/place:ketchikan": {
    "name": "Ketchikan city"
   },
-  "ocd-division/country:us/state:ak/sldl:20/precinct:545": {
-   "name": "Alaska precinct 20-545"
+  "ocd-division/country:us/state:ak/sldl:33/precinct:505": {
+   "name": "Alaska precinct 33-505"
   },
   "ocd-division/country:us/state:ak/sldl:25/precinct:855": {
    "name": "Alaska precinct 25-855"
   },
-  "ocd-division/country:us/state:ak/sldl:33/precinct:505": {
-   "name": "Alaska precinct 33-505"
+  "ocd-division/country:us/state:ak/sldl:20/precinct:545": {
+   "name": "Alaska precinct 20-545"
   },
   "ocd-division/country:us/state:ak/sldl:18/precinct:435": {
    "name": "Alaska precinct 18-435"
@@ -36,11 +36,11 @@
   "ocd-division/country:us/state:ak/place:togiak": {
    "name": "Togiak city"
   },
-  "ocd-division/country:us/state:ak/sldl:20/precinct:540": {
-   "name": "Alaska precinct 20-540"
-  },
   "ocd-division/country:us/state:ak/sldl:4/precinct:280": {
    "name": "Alaska precinct 4-280"
+  },
+  "ocd-division/country:us/state:ak/sldl:20/precinct:540": {
+   "name": "Alaska precinct 20-540"
   },
   "ocd-division/country:us/state:ak/sldl:19": {
    "name": "Alaska State House district 19",
@@ -68,11 +68,11 @@
     3
    ]
   },
-  "ocd-division/country:us/state:ak/sldl:27/precinct:925": {
-   "name": "Alaska precinct 27-925"
-  },
   "ocd-division/country:us/state:ak/sldl:39/precinct:314": {
    "name": "Alaska precinct 39-314"
+  },
+  "ocd-division/country:us/state:ak/sldl:27/precinct:925": {
+   "name": "Alaska precinct 27-925"
   },
   "ocd-division/country:us/state:ak/sldl:33/precinct:510": {
    "name": "Alaska precinct 33-510"
@@ -83,23 +83,23 @@
     4
    ]
   },
+  "ocd-division/country:us/state:ak/sldl:28/precinct:140": {
+   "name": "Alaska precinct 28-140"
+  },
   "ocd-division/country:us/state:ak/sldl:14": {
    "name": "Alaska State House district 14",
    "officeIndices": [
     5
    ]
   },
-  "ocd-division/country:us/state:ak/sldl:28/precinct:140": {
-   "name": "Alaska precinct 28-140"
+  "ocd-division/country:us/state:ak/sldl:33/precinct:515": {
+   "name": "Alaska precinct 33-515"
   },
   "ocd-division/country:us/state:ak/sldl:17": {
    "name": "Alaska State House district 17",
    "officeIndices": [
     6
    ]
-  },
-  "ocd-division/country:us/state:ak/sldl:33/precinct:515": {
-   "name": "Alaska precinct 33-515"
   },
   "ocd-division/country:us/state:ak/sldl:27/precinct:920": {
    "name": "Alaska precinct 27-920"
@@ -149,35 +149,35 @@
   "ocd-division/country:us/state:ak/sldl:31/precinct:310": {
    "name": "Alaska precinct 31-310"
   },
-  "ocd-division/country:us/state:ak/place:nondalton": {
-   "name": "Nondalton city"
-  },
   "ocd-division/country:us/state:ak/sldl:25/precinct:840": {
    "name": "Alaska precinct 25-840"
   },
-  "ocd-division/country:us/state:ak/sldl:2/precinct:345": {
-   "name": "Alaska precinct 2-345"
+  "ocd-division/country:us/state:ak/place:nondalton": {
+   "name": "Nondalton city"
   },
   "ocd-division/country:us/state:ak/sldl:23/precinct:765": {
    "name": "Alaska precinct 23-765"
   },
+  "ocd-division/country:us/state:ak/sldl:2/precinct:345": {
+   "name": "Alaska precinct 2-345"
+  },
   "ocd-division/country:us/state:ak/sldl:28/precinct:135": {
    "name": "Alaska precinct 28-135"
-  },
-  "ocd-division/country:us/state:ak/sldl:18/precinct:445": {
-   "name": "Alaska precinct 18-445"
   },
   "ocd-division/country:us/state:ak/place:st_michael": {
    "name": "St. Michael city"
   },
+  "ocd-division/country:us/state:ak/sldl:18/precinct:445": {
+   "name": "Alaska precinct 18-445"
+  },
   "ocd-division/country:us/state:ak/sldl:23/precinct:760": {
    "name": "Alaska precinct 23-760"
   },
-  "ocd-division/country:us/state:ak/sldl:20/precinct:535": {
-   "name": "Alaska precinct 20-535"
-  },
   "ocd-division/country:us/state:ak/place:homer": {
    "name": "Homer city"
+  },
+  "ocd-division/country:us/state:ak/sldl:20/precinct:535": {
+   "name": "Alaska precinct 20-535"
   },
   "ocd-division/country:us/state:ak/sldl:4/precinct:270": {
    "name": "Alaska precinct 4-270"
@@ -294,26 +294,26 @@
   "ocd-division/country:us/state:ak/sldl:28/precinct:115": {
    "name": "Alaska precinct 28-115"
   },
-  "ocd-division/country:us/state:ak/place:nightmute": {
-   "name": "Nightmute city"
-  },
   "ocd-division/country:us/state:ak/place:manokotak": {
    "name": "Manokotak city"
+  },
+  "ocd-division/country:us/state:ak/place:nightmute": {
+   "name": "Nightmute city"
   },
   "ocd-division/country:us/state:ak/sldl:3/precinct:135": {
    "name": "Alaska precinct 3-135"
   },
-  "ocd-division/country:us/state:ak/sldl:28/precinct:110": {
-   "name": "Alaska precinct 28-110"
-  },
   "ocd-division/country:us/state:ak/sldl:36/precinct:660": {
    "name": "Alaska precinct 36-660"
   },
-  "ocd-division/country:us/state:ak/place:pelican": {
-   "name": "Pelican city"
+  "ocd-division/country:us/state:ak/sldl:28/precinct:110": {
+   "name": "Alaska precinct 28-110"
   },
   "ocd-division/country:us/state:ak/sldl:33/precinct:525": {
    "name": "Alaska precinct 33-525"
+  },
+  "ocd-division/country:us/state:ak/place:pelican": {
+   "name": "Pelican city"
   },
   "ocd-division/country:us/state:ak/sldl:14/precinct:970": {
    "name": "Alaska precinct 14-970"
@@ -328,11 +328,11 @@
     76
    ]
   },
-  "ocd-division/country:us/state:ak/sldl:10/precinct:5": {
-   "name": "Alaska precinct 10-5"
-  },
   "ocd-division/country:us/state:ak/sldl:3/precinct:130": {
    "name": "Alaska precinct 3-130"
+  },
+  "ocd-division/country:us/state:ak/sldl:10/precinct:5": {
+   "name": "Alaska precinct 10-5"
   },
   "ocd-division/country:us/state:ak/place:valdez": {
    "name": "Valdez city"
@@ -604,41 +604,41 @@
   "ocd-division/country:us/state:ak/sldl:19/precinct:505": {
    "name": "Alaska precinct 19-505"
   },
-  "ocd-division/country:us/state:ak/sldl:37/precinct:312": {
-   "name": "Alaska precinct 37-312"
-  },
-  "ocd-division/country:us/state:ak/sldl:39/precinct:920": {
-   "name": "Alaska precinct 39-920"
-  },
   "ocd-division/country:us/state:ak/sldl:5/precinct:596": {
    "name": "Alaska precinct 5-596"
   },
   "ocd-division/country:us/state:ak/sldl:40/precinct:32": {
    "name": "Alaska precinct 40-32"
   },
+  "ocd-division/country:us/state:ak/sldl:39/precinct:920": {
+   "name": "Alaska precinct 39-920"
+  },
+  "ocd-division/country:us/state:ak/sldl:37/precinct:312": {
+   "name": "Alaska precinct 37-312"
+  },
   "ocd-division/country:us/state:ak/sldl:1/precinct:490": {
    "name": "Alaska precinct 1-490"
-  },
-  "ocd-division/country:us/state:ak/sldl:11/precinct:70": {
-   "name": "Alaska precinct 11-70"
-  },
-  "ocd-division/country:us/state:ak/sldl:37/precinct:310": {
-   "name": "Alaska precinct 37-310"
   },
   "ocd-division/country:us/state:ak/sldl:40/precinct:34": {
    "name": "Alaska precinct 40-34"
   },
+  "ocd-division/country:us/state:ak/sldl:37/precinct:310": {
+   "name": "Alaska precinct 37-310"
+  },
+  "ocd-division/country:us/state:ak/sldl:11/precinct:70": {
+   "name": "Alaska precinct 11-70"
+  },
   "ocd-division/country:us/state:ak/sldl:19/precinct:500": {
    "name": "Alaska precinct 19-500"
   },
-  "ocd-division/country:us/state:ak/sldl:29/precinct:110": {
-   "name": "Alaska precinct 29-110"
+  "ocd-division/country:us/state:ak/sldl:40/precinct:36": {
+   "name": "Alaska precinct 40-36"
   },
   "ocd-division/country:us/state:ak/sldl:39/precinct:924": {
    "name": "Alaska precinct 39-924"
   },
-  "ocd-division/country:us/state:ak/sldl:40/precinct:36": {
-   "name": "Alaska precinct 40-36"
+  "ocd-division/country:us/state:ak/sldl:29/precinct:110": {
+   "name": "Alaska precinct 29-110"
   },
   "ocd-division/country:us/state:ak/sldl:40/precinct:38": {
    "name": "Alaska precinct 40-38"
@@ -1175,6 +1175,12 @@
     17
    ]
   },
+  "ocd-division/country:us/state:ak/sldl:33": {
+   "name": "Alaska State House district 33",
+   "officeIndices": [
+    18
+   ]
+  },
   "ocd-division/country:us/state:ak/borough:anchorage": {
    "name": "Anchorage Municipality",
    "alsoKnownAs": [
@@ -1182,12 +1188,6 @@
    ],
    "officeIndices": [
     108
-   ]
-  },
-  "ocd-division/country:us/state:ak/sldl:33": {
-   "name": "Alaska State House district 33",
-   "officeIndices": [
-    18
    ]
   },
   "ocd-division/country:us/state:ak/sldl:38": {
@@ -1283,14 +1283,11 @@
   "ocd-division/country:us/state:ak/sldl:1/precinct:470": {
    "name": "Alaska precinct 1-470"
   },
-  "ocd-division/country:us/state:ak/place:fairbanks": {
-   "name": "Fairbanks city"
-  },
   "ocd-division/country:us/state:ak/sldl:38/precinct:848": {
    "name": "Alaska precinct 38-848"
   },
-  "ocd-division/country:us/state:ak/sldl:1/precinct:465": {
-   "name": "Alaska precinct 1-465"
+  "ocd-division/country:us/state:ak/place:fairbanks": {
+   "name": "Fairbanks city"
   },
   "ocd-division/country:us/state:ak/borough:yakutat": {
    "name": "Yakutat City and Borough",
@@ -1298,6 +1295,9 @@
     109,
     110
    ]
+  },
+  "ocd-division/country:us/state:ak/sldl:1/precinct:465": {
+   "name": "Alaska precinct 1-465"
   },
   "ocd-division/country:us/state:ak/sldl:34/precinct:400": {
    "name": "Alaska precinct 34-400"
@@ -1359,14 +1359,14 @@
   "ocd-division/country:us/state:ak/place:kachemak": {
    "name": "Kachemak city"
   },
+  "ocd-division/country:us/state:ak/sldl:39/precinct:322": {
+   "name": "Alaska precinct 39-322"
+  },
   "ocd-division/country:us/state:ak/sldl:27": {
    "name": "Alaska State House district 27",
    "officeIndices": [
     30
    ]
-  },
-  "ocd-division/country:us/state:ak/sldl:39/precinct:322": {
-   "name": "Alaska precinct 39-322"
   },
   "ocd-division/country:us/state:ak/sldl:28": {
    "name": "Alaska State House district 28",

@@ -9,11 +9,11 @@
   "ocd-division/country:us/state:tx/county:denton/school_district:krum_isd": {
    "name": "krum isd"
   },
-  "ocd-division/country:us/state:tx/county:denton/school_district:sanger_isd": {
-   "name": "sanger isd"
-  },
   "ocd-division/country:us/state:tx/county:camp/school_district:pittsburg_isd": {
    "name": "pittsburg isd"
+  },
+  "ocd-division/country:us/state:tx/county:denton/school_district:sanger_isd": {
+   "name": "sanger isd"
   },
   "ocd-division/country:us/state:tx/place:wimberley": {
    "name": "Wimberley city"
@@ -30,14 +30,14 @@
   "ocd-division/country:us/state:tx/county:grayson/school_district:van_alstyne_isd": {
    "name": "van alstyne isd"
   },
+  "ocd-division/country:us/state:tx/place:millsap": {
+   "name": "Millsap town"
+  },
   "ocd-division/country:us/state:tx/county:harrison/council_district:2": {
    "name": "Harrison County Commissioner Precinct 2",
    "officeIndices": [
     238
    ]
-  },
-  "ocd-division/country:us/state:tx/place:millsap": {
-   "name": "Millsap town"
   },
   "ocd-division/country:us/state:tx/place:ingleside_on_the_bay": {
    "name": "Ingleside on the Bay city"
@@ -103,11 +103,11 @@
     249
    ]
   },
-  "ocd-division/country:us/state:tx/county:grayson/school_district:sherman_isd": {
-   "name": "sherman isd"
-  },
   "ocd-division/country:us/state:tx/place:north_cleveland": {
    "name": "North Cleveland city"
+  },
+  "ocd-division/country:us/state:tx/county:grayson/school_district:sherman_isd": {
+   "name": "sherman isd"
   },
   "ocd-division/country:us/state:tx/county:coleman/council_district:1": {
    "name": "Coleman County Commissioner Precinct 1",
@@ -127,19 +127,19 @@
   "ocd-division/country:us/state:tx/place:kirby": {
    "name": "Kirby city"
   },
-  "ocd-division/country:us/state:tx/county:archer/council_district:2": {
-   "name": "Archer County Commissioner Precinct 2",
-   "officeIndices": [
-    251
-   ]
-  },
   "ocd-division/country:us/state:tx/county:blanco": {
    "name": "Blanco County",
    "officeIndices": [
+    251,
     252,
     253,
     254,
-    255,
+    255
+   ]
+  },
+  "ocd-division/country:us/state:tx/county:archer/council_district:2": {
+   "name": "Archer County Commissioner Precinct 2",
+   "officeIndices": [
     256
    ]
   },
@@ -167,14 +167,14 @@
     260
    ]
   },
-  "ocd-division/country:us/state:tx/county:dimmit/council_district:4": {
-   "name": "Dimmit County Commissioner Precinct 4",
+  "ocd-division/country:us/state:tx/county:archer/council_district:4": {
+   "name": "Archer County Commissioner Precinct 4",
    "officeIndices": [
     261
    ]
   },
-  "ocd-division/country:us/state:tx/county:archer/council_district:4": {
-   "name": "Archer County Commissioner Precinct 4",
+  "ocd-division/country:us/state:tx/county:dimmit/council_district:4": {
+   "name": "Dimmit County Commissioner Precinct 4",
    "officeIndices": [
     262
    ]
@@ -197,11 +197,11 @@
   "ocd-division/country:us/state:tx/county:harris/school_district:alief_isd": {
    "name": "alief isd"
   },
-  "ocd-division/country:us/state:tx/county:falls/school_district:chilton_isd": {
-   "name": "chilton isd"
-  },
   "ocd-division/country:us/state:tx/place:copperas_cove": {
    "name": "Copperas Cove city"
+  },
+  "ocd-division/country:us/state:tx/county:falls/school_district:chilton_isd": {
+   "name": "chilton isd"
   },
   "ocd-division/country:us/state:tx/place:runge": {
    "name": "Runge town"
@@ -221,11 +221,11 @@
   "ocd-division/country:us/state:tx/county:real/school_district:big_springs_charter_school": {
    "name": "big springs charter school"
   },
-  "ocd-division/country:us/state:tx/county:bell/school_district:holland_isd": {
-   "name": "holland isd"
-  },
   "ocd-division/country:us/state:tx/place:ferris": {
    "name": "Ferris city"
+  },
+  "ocd-division/country:us/state:tx/county:bell/school_district:holland_isd": {
+   "name": "holland isd"
   },
   "ocd-division/country:us/state:tx/county:tarrant/school_district:westlake_academy_charter_school": {
    "name": "westlake academy charter school"
@@ -245,11 +245,11 @@
   "ocd-division/country:us/state:tx/place:annetta_north": {
    "name": "Annetta North town"
   },
-  "ocd-division/country:us/state:tx/county:bexar/school_district:new_frontiers_charter_school": {
-   "name": "new frontiers charter school"
-  },
   "ocd-division/country:us/state:tx/place:milano": {
    "name": "Milano city"
+  },
+  "ocd-division/country:us/state:tx/county:bexar/school_district:new_frontiers_charter_school": {
+   "name": "new frontiers charter school"
   },
   "ocd-division/country:us/state:tx/county:kleberg/school_district:kingsville_isd": {
    "name": "kingsville isd"
@@ -260,11 +260,11 @@
   "ocd-division/country:us/state:tx/place:joshua": {
    "name": "Joshua city"
   },
-  "ocd-division/country:us/state:tx/place:centerville": {
-   "name": "Centerville city"
-  },
   "ocd-division/country:us/state:tx/place:denver_city": {
    "name": "Denver City town"
+  },
+  "ocd-division/country:us/state:tx/place:centerville": {
+   "name": "Centerville city"
   },
   "ocd-division/country:us/state:tx/county:brazoria/school_district:sweeny_isd": {
    "name": "sweeny isd"
@@ -281,11 +281,11 @@
   "ocd-division/country:us/state:tx/county:gregg/school_district:east_texas_charter_schools": {
    "name": "east texas charter schools"
   },
-  "ocd-division/country:us/state:tx/county:walker/school_district:new_waverly_isd": {
-   "name": "new waverly isd"
-  },
   "ocd-division/country:us/state:tx/place:newton": {
    "name": "Newton city"
+  },
+  "ocd-division/country:us/state:tx/county:walker/school_district:new_waverly_isd": {
+   "name": "new waverly isd"
   },
   "ocd-division/country:us/state:tx/county:travis/school_district:cedars_international_academy": {
    "name": "cedars international academy"
@@ -296,14 +296,14 @@
   "ocd-division/country:us/state:tx/place:childress": {
    "name": "Childress city"
   },
-  "ocd-division/country:us/state:tx/county:fort_bend/school_district:harmony_school_of_science_-_houston": {
-   "name": "harmony school of science - houston"
-  },
   "ocd-division/country:us/state:tx/county:karnes/council_district:1": {
    "name": "Karnes County Commissioner Precinct 1",
    "officeIndices": [
     264
    ]
+  },
+  "ocd-division/country:us/state:tx/county:fort_bend/school_district:harmony_school_of_science_-_houston": {
+   "name": "harmony school of science - houston"
   },
   "ocd-division/country:us/state:tx/county:karnes/council_district:2": {
    "name": "Karnes County Commissioner Precinct 2",
@@ -362,26 +362,26 @@
     273
    ]
   },
-  "ocd-division/country:us/state:tx/county:fayette/school_district:schulenburg_isd": {
-   "name": "schulenburg isd"
-  },
   "ocd-division/country:us/state:tx/place:glen_rose": {
    "name": "Glen Rose city"
   },
+  "ocd-division/country:us/state:tx/county:fayette/school_district:schulenburg_isd": {
+   "name": "schulenburg isd"
+  },
   "ocd-division/country:us/state:tx/county:parmer/school_district:lazbuddie_isd": {
    "name": "lazbuddie isd"
+  },
+  "ocd-division/country:us/state:tx/place:balmorhea": {
+   "name": "Balmorhea city"
+  },
+  "ocd-division/country:us/state:tx/county:montague/school_district:bowie_isd": {
+   "name": "bowie isd"
   },
   "ocd-division/country:us/state:tx/county:val_verde/council_district:4": {
    "name": "Val Verde County Commissioner Precinct 4",
    "officeIndices": [
     274
    ]
-  },
-  "ocd-division/country:us/state:tx/county:montague/school_district:bowie_isd": {
-   "name": "bowie isd"
-  },
-  "ocd-division/country:us/state:tx/place:balmorhea": {
-   "name": "Balmorhea city"
   },
   "ocd-division/country:us/state:tx/county:val_verde/council_district:3": {
    "name": "Val Verde County Commissioner Precinct 3",
@@ -778,23 +778,23 @@
     314
    ]
   },
-  "ocd-division/country:us/state:tx/county:mclennan/school_district:waco_isd": {
-   "name": "waco isd"
-  },
   "ocd-division/country:us/state:tx/county:johnson/council_district:3": {
    "name": "Johnson County Commissioner Precinct 3",
    "officeIndices": [
     315
    ]
   },
+  "ocd-division/country:us/state:tx/county:mclennan/school_district:waco_isd": {
+   "name": "waco isd"
+  },
+  "ocd-division/country:us/state:tx/place:arp": {
+   "name": "Arp city"
+  },
   "ocd-division/country:us/state:tx/county:johnson/council_district:1": {
    "name": "Johnson County Commissioner Precinct 1",
    "officeIndices": [
     316
    ]
-  },
-  "ocd-division/country:us/state:tx/place:arp": {
-   "name": "Arp city"
   },
   "ocd-division/country:us/state:tx/county:gregg/school_district:pine_tree_isd": {
    "name": "pine tree isd"
@@ -805,11 +805,11 @@
     317
    ]
   },
-  "ocd-division/country:us/state:tx/county:johnson/school_district:venus_isd": {
-   "name": "venus isd"
-  },
   "ocd-division/country:us/state:tx/place:simonton": {
    "name": "Simonton city"
+  },
+  "ocd-division/country:us/state:tx/county:johnson/school_district:venus_isd": {
+   "name": "venus isd"
   },
   "ocd-division/country:us/state:tx/county:san_augustine/school_district:broaddus_isd": {
    "name": "broaddus isd"
@@ -826,14 +826,14 @@
   "ocd-division/country:us/state:tx/county:cass/school_district:hughes_springs_isd": {
    "name": "hughes springs isd"
   },
+  "ocd-division/country:us/state:tx/place:south_mountain": {
+   "name": "South Mountain town"
+  },
   "ocd-division/country:us/state:tx/county:liberty/council_district:3": {
    "name": "Liberty County Commissioner Precinct 3",
    "officeIndices": [
     319
    ]
-  },
-  "ocd-division/country:us/state:tx/place:south_mountain": {
-   "name": "South Mountain town"
   },
   "ocd-division/country:us/state:tx/county:liberty/council_district:2": {
    "name": "Liberty County Commissioner Precinct 2",
@@ -859,26 +859,26 @@
     323
    ]
   },
+  "ocd-division/country:us/state:tx/place:chandler": {
+   "name": "Chandler city"
+  },
   "ocd-division/country:us/state:tx/county:zapata/council_district:2": {
    "name": "Zapata County Commissioner Precinct 2",
    "officeIndices": [
     324
    ]
   },
-  "ocd-division/country:us/state:tx/place:chandler": {
-   "name": "Chandler city"
+  "ocd-division/country:us/state:tx/place:miles": {
+   "name": "Miles city"
+  },
+  "ocd-division/country:us/state:tx/place:hillcrest": {
+   "name": "Hillcrest village"
   },
   "ocd-division/country:us/state:tx/county:zapata/council_district:4": {
    "name": "Zapata County Commissioner Precinct 4",
    "officeIndices": [
     325
    ]
-  },
-  "ocd-division/country:us/state:tx/place:hillcrest": {
-   "name": "Hillcrest village"
-  },
-  "ocd-division/country:us/state:tx/place:miles": {
-   "name": "Miles city"
   },
   "ocd-division/country:us/state:tx/county:jim_wells": {
    "name": "Jim Wells County",
@@ -908,11 +908,11 @@
   "ocd-division/country:us/state:tx/county:parker/school_district:garner_isd": {
    "name": "garner isd"
   },
-  "ocd-division/country:us/state:tx/place:selma": {
-   "name": "Selma city"
-  },
   "ocd-division/country:us/state:tx/place:sun_valley": {
    "name": "Sun Valley city"
+  },
+  "ocd-division/country:us/state:tx/place:selma": {
+   "name": "Selma city"
   },
   "ocd-division/country:us/state:tx/county:houston/school_district:grapeland_isd": {
    "name": "grapeland isd"
@@ -926,56 +926,56 @@
     331
    ]
   },
+  "ocd-division/country:us/state:tx/county:robertson/school_district:franklin_isd": {
+   "name": "franklin isd"
+  },
   "ocd-division/country:us/state:tx/county:uvalde/council_district:4": {
    "name": "Uvalde County Commissioner Precinct 4",
    "officeIndices": [
     332
    ]
   },
-  "ocd-division/country:us/state:tx/county:robertson/school_district:franklin_isd": {
-   "name": "franklin isd"
-  },
-  "ocd-division/country:us/state:tx/county:uvalde/council_district:3": {
-   "name": "Uvalde County Commissioner Precinct 3",
+  "ocd-division/country:us/state:tx/county:bell/council_district:3": {
+   "name": "Bell County TX Commissioners Court District 3",
    "officeIndices": [
     334
    ]
   },
-  "ocd-division/country:us/state:tx/county:bell/council_district:3": {
-   "name": "Bell County TX Commissioners Court District 3",
+  "ocd-division/country:us/state:tx/county:uvalde/council_district:3": {
+   "name": "Uvalde County Commissioner Precinct 3",
    "officeIndices": [
     333
-   ]
-  },
-  "ocd-division/country:us/state:tx/county:uvalde/council_district:2": {
-   "name": "Uvalde County Commissioner Precinct 2",
-   "officeIndices": [
-    336
    ]
   },
   "ocd-division/country:us/state:tx/county:bell/council_district:2": {
    "name": "Bell County TX Commissioners Court District 2",
    "officeIndices": [
+    336
+   ]
+  },
+  "ocd-division/country:us/state:tx/county:uvalde/council_district:2": {
+   "name": "Uvalde County Commissioner Precinct 2",
+   "officeIndices": [
     335
+   ]
+  },
+  "ocd-division/country:us/state:tx/county:lavaca/school_district:ezzell_isd": {
+   "name": "ezzell isd"
+  },
+  "ocd-division/country:us/state:tx/county:bell/council_district:4": {
+   "name": "Bell County TX Commissioners Court District 4",
+   "officeIndices": [
+    341
    ]
   },
   "ocd-division/country:us/state:tx/county:mills": {
    "name": "Mills County",
    "officeIndices": [
+    337,
     338,
     339,
-    340,
-    341
+    340
    ]
-  },
-  "ocd-division/country:us/state:tx/county:bell/council_district:4": {
-   "name": "Bell County TX Commissioners Court District 4",
-   "officeIndices": [
-    337
-   ]
-  },
-  "ocd-division/country:us/state:tx/county:lavaca/school_district:ezzell_isd": {
-   "name": "ezzell isd"
   },
   "ocd-division/country:us/state:tx/county:uvalde/council_district:1": {
    "name": "Uvalde County Commissioner Precinct 1",
@@ -992,17 +992,17 @@
     343
    ]
   },
+  "ocd-division/country:us/state:tx/place:powell": {
+   "name": "Powell town"
+  },
+  "ocd-division/country:us/state:tx/county:lubbock/school_district:frenship_isd": {
+   "name": "frenship isd"
+  },
   "ocd-division/country:us/state:tx/county:marion/council_district:4": {
    "name": "Marion County Commissioner Precinct 4",
    "officeIndices": [
     344
    ]
-  },
-  "ocd-division/country:us/state:tx/county:lubbock/school_district:frenship_isd": {
-   "name": "frenship isd"
-  },
-  "ocd-division/country:us/state:tx/place:powell": {
-   "name": "Powell town"
   },
   "ocd-division/country:us/state:tx/county:marion/council_district:1": {
    "name": "Marion County Commissioner Precinct 1",
@@ -1053,11 +1053,11 @@
   "ocd-division/country:us/state:tx/place:bevil_oaks": {
    "name": "Bevil Oaks city"
   },
-  "ocd-division/country:us/state:tx/county:webb/school_district:harmony_science_academy_-_laredo": {
-   "name": "harmony science academy - laredo"
-  },
   "ocd-division/country:us/state:tx/place:woodbranch": {
    "name": "Woodbranch city"
+  },
+  "ocd-division/country:us/state:tx/county:webb/school_district:harmony_science_academy_-_laredo": {
+   "name": "harmony science academy - laredo"
   },
   "ocd-division/country:us/state:tx/place:union_grove": {
    "name": "Union Grove city"
@@ -1080,14 +1080,14 @@
   "ocd-division/country:us/state:tx/place:blackwell": {
    "name": "Blackwell city"
   },
+  "ocd-division/country:us/state:tx/county:harris/school_district:houston_isd": {
+   "name": "houston isd"
+  },
   "ocd-division/country:us/state:tx/county:newton/council_district:3": {
    "name": "Newton County Commissioner Precinct 3",
    "officeIndices": [
     352
    ]
-  },
-  "ocd-division/country:us/state:tx/county:harris/school_district:houston_isd": {
-   "name": "houston isd"
   },
   "ocd-division/country:us/state:tx/county:newton/council_district:2": {
    "name": "Newton County Commissioner Precinct 2",
@@ -1095,26 +1095,26 @@
     353
    ]
   },
+  "ocd-division/country:us/state:tx/place:highland_haven": {
+   "name": "Highland Haven city"
+  },
   "ocd-division/country:us/state:tx/county:newton/council_district:1": {
    "name": "Newton County Commissioner Precinct 1",
    "officeIndices": [
     354
    ]
   },
-  "ocd-division/country:us/state:tx/place:highland_haven": {
-   "name": "Highland Haven city"
-  },
   "ocd-division/country:us/state:tx/place:donna": {
    "name": "Donna city"
+  },
+  "ocd-division/country:us/state:tx/place:odessa/council_district:5": {
+   "name": "Odessa TX city council district 5"
   },
   "ocd-division/country:us/state:tx/county:newton/council_district:4": {
    "name": "Newton County Commissioner Precinct 4",
    "officeIndices": [
     355
    ]
-  },
-  "ocd-division/country:us/state:tx/place:odessa/council_district:5": {
-   "name": "Odessa TX city council district 5"
   },
   "ocd-division/country:us/state:tx/place:round_top": {
    "name": "Round Top town"
@@ -1159,14 +1159,14 @@
     363
    ]
   },
+  "ocd-division/country:us/state:tx/county:kerr/school_district:center_point_isd": {
+   "name": "center point isd"
+  },
   "ocd-division/country:us/state:tx/county:shelby/council_district:2": {
    "name": "Shelby County Commissioner Precinct 2",
    "officeIndices": [
     364
    ]
-  },
-  "ocd-division/country:us/state:tx/county:kerr/school_district:center_point_isd": {
-   "name": "center point isd"
   },
   "ocd-division/country:us/state:tx/county:hood": {
    "name": "Hood County",
@@ -1178,11 +1178,11 @@
     369
    ]
   },
-  "ocd-division/country:us/state:tx/county:anderson/school_district:neches_isd": {
-   "name": "neches isd"
-  },
   "ocd-division/country:us/state:tx/county:bowie/school_district:texarkana_isd": {
    "name": "texarkana isd"
+  },
+  "ocd-division/country:us/state:tx/county:anderson/school_district:neches_isd": {
+   "name": "neches isd"
   },
   "ocd-division/country:us/state:tx/county:johnson/school_district:grandview_isd": {
    "name": "grandview isd"
@@ -1202,11 +1202,11 @@
   "ocd-division/country:us/state:tx/place:lone_star": {
    "name": "Lone Star city"
   },
-  "ocd-division/country:us/state:tx/county:bexar/school_district:george_gervin_academy": {
-   "name": "george gervin academy"
-  },
   "ocd-division/country:us/state:tx/place:savoy": {
    "name": "Savoy city"
+  },
+  "ocd-division/country:us/state:tx/county:bexar/school_district:george_gervin_academy": {
+   "name": "george gervin academy"
   },
   "ocd-division/country:us/state:tx/county:gray/school_district:lefors_isd": {
    "name": "lefors isd"
@@ -1224,26 +1224,26 @@
     374
    ]
   },
-  "ocd-division/country:us/state:tx/place:socorro": {
-   "name": "Socorro city"
-  },
   "ocd-division/country:us/state:tx/place:springlake": {
    "name": "Springlake town"
   },
+  "ocd-division/country:us/state:tx/place:socorro": {
+   "name": "Socorro city"
+  },
   "ocd-division/country:us/state:tx/place:primera": {
    "name": "Primera town"
+  },
+  "ocd-division/country:us/state:tx/county:madison/school_district:madisonville_cisd": {
+   "name": "madisonville cisd"
+  },
+  "ocd-division/country:us/state:tx/county:tarrant/school_district:fort_worth_academy_of_fine_arts": {
+   "name": "fort worth academy of fine arts"
   },
   "ocd-division/country:us/state:tx/county:williamson/council_district:2": {
    "name": "Williamson County TX Commissioners Court District 2",
    "officeIndices": [
     375
    ]
-  },
-  "ocd-division/country:us/state:tx/county:tarrant/school_district:fort_worth_academy_of_fine_arts": {
-   "name": "fort worth academy of fine arts"
-  },
-  "ocd-division/country:us/state:tx/county:madison/school_district:madisonville_cisd": {
-   "name": "madisonville cisd"
   },
   "ocd-division/country:us/state:tx/county:williamson/council_district:3": {
    "name": "Williamson County TX Commissioners Court District 3",
@@ -1263,11 +1263,11 @@
     377
    ]
   },
-  "ocd-division/country:us/state:tx/county:travis/school_district:austin_discovery_school": {
-   "name": "austin discovery school"
-  },
   "ocd-division/country:us/state:tx/place:deport": {
    "name": "Deport city"
+  },
+  "ocd-division/country:us/state:tx/county:travis/school_district:austin_discovery_school": {
+   "name": "austin discovery school"
   },
   "ocd-division/country:us/state:tx/county:travis/school_district:lago_vista_isd": {
    "name": "lago vista isd"
@@ -1293,6 +1293,9 @@
   "ocd-division/country:us/state:tx/place:evant": {
    "name": "Evant town"
   },
+  "ocd-division/country:us/state:tx/county:hill/school_district:abbott_isd": {
+   "name": "abbott isd"
+  },
   "ocd-division/country:us/state:tx/county:val_verde": {
    "name": "Val Verde County",
    "officeIndices": [
@@ -1303,23 +1306,20 @@
     383
    ]
   },
-  "ocd-division/country:us/state:tx/county:hill/school_district:abbott_isd": {
-   "name": "abbott isd"
-  },
   "ocd-division/country:us/state:tx/county:denton/council_district:1": {
    "name": "Denton County TX Commissioners Court District 1",
    "officeIndices": [
     384
    ]
   },
-  "ocd-division/country:us/state:tx/place:argyle": {
-   "name": "Argyle city"
-  },
   "ocd-division/country:us/state:tx/county:denton/council_district:2": {
    "name": "Denton County TX Commissioners Court District 2",
    "officeIndices": [
     385
    ]
+  },
+  "ocd-division/country:us/state:tx/place:argyle": {
+   "name": "Argyle city"
   },
   "ocd-division/country:us/state:tx/county:jasper/school_district:evadale_isd": {
    "name": "evadale isd"
@@ -1345,20 +1345,20 @@
     387
    ]
   },
+  "ocd-division/country:us/state:tx/place:westworth_village": {
+   "name": "Westworth Village city"
+  },
   "ocd-division/country:us/state:tx/county:cooke/council_district:1": {
    "name": "Cooke County Commissioner Precinct 1",
    "officeIndices": [
     388
    ]
   },
-  "ocd-division/country:us/state:tx/place:westworth_village": {
-   "name": "Westworth Village city"
+  "ocd-division/country:us/state:tx/place:dilley": {
+   "name": "Dilley city"
   },
   "ocd-division/country:us/state:tx/place:clifton": {
    "name": "Clifton city"
-  },
-  "ocd-division/country:us/state:tx/place:dilley": {
-   "name": "Dilley city"
   },
   "ocd-division/country:us/state:tx/county:cooke/council_district:4": {
    "name": "Cooke County Commissioner Precinct 4",
@@ -1366,14 +1366,14 @@
     389
    ]
   },
+  "ocd-division/country:us/state:tx/place:olmos_park": {
+   "name": "Olmos Park city"
+  },
   "ocd-division/country:us/state:tx/county:cooke/council_district:2": {
    "name": "Cooke County Commissioner Precinct 2",
    "officeIndices": [
     390
    ]
-  },
-  "ocd-division/country:us/state:tx/place:olmos_park": {
-   "name": "Olmos Park city"
   },
   "ocd-division/country:us/state:tx/county:cooke/council_district:3": {
    "name": "Cooke County Commissioner Precinct 3",
@@ -1384,14 +1384,14 @@
   "ocd-division/country:us/state:tx/place:levelland": {
    "name": "Levelland city"
   },
+  "ocd-division/country:us/state:tx/place:cotulla": {
+   "name": "Cotulla city"
+  },
   "ocd-division/country:us/state:tx/county:hopkins/council_district:1": {
    "name": "Hopkins County Commissioner Precinct 1",
    "officeIndices": [
     392
    ]
-  },
-  "ocd-division/country:us/state:tx/place:cotulla": {
-   "name": "Cotulla city"
   },
   "ocd-division/country:us/state:tx/county:hopkins/council_district:2": {
    "name": "Hopkins County Commissioner Precinct 2",
@@ -1411,11 +1411,11 @@
     395
    ]
   },
-  "ocd-division/country:us/state:tx/place:point_venture": {
-   "name": "Point Venture village"
-  },
   "ocd-division/country:us/state:tx/place:rio_vista": {
    "name": "Rio Vista city"
+  },
+  "ocd-division/country:us/state:tx/place:point_venture": {
+   "name": "Point Venture village"
   },
   "ocd-division/country:us/state:tx/county:shelby": {
    "name": "Shelby County",
@@ -1430,14 +1430,14 @@
   "ocd-division/country:us/state:tx/county:roberts/school_district:miami_isd": {
    "name": "miami isd"
   },
-  "ocd-division/country:us/state:tx/county:galveston/school_district:odyssey_academy_inc": {
-   "name": "odyssey academy inc"
+  "ocd-division/country:us/state:tx/place:st_jo": {
+   "name": "St. Jo city"
   },
   "ocd-division/country:us/state:tx/place:spearman": {
    "name": "Spearman city"
   },
-  "ocd-division/country:us/state:tx/place:st_jo": {
-   "name": "St. Jo city"
+  "ocd-division/country:us/state:tx/county:galveston/school_district:odyssey_academy_inc": {
+   "name": "odyssey academy inc"
   },
   "ocd-division/country:us/state:tx/county:wood/school_district:yantis_isd": {
    "name": "yantis isd"
@@ -1451,11 +1451,11 @@
   "ocd-division/country:us/state:tx/county:austin/school_district:sealy_isd": {
    "name": "sealy isd"
   },
-  "ocd-division/country:us/state:tx/county:angelina/school_district:lufkin_isd": {
-   "name": "lufkin isd"
-  },
   "ocd-division/country:us/state:tx/county:harris/school_district:north_forest_isd": {
    "name": "north forest isd"
+  },
+  "ocd-division/country:us/state:tx/county:angelina/school_district:lufkin_isd": {
+   "name": "lufkin isd"
   },
   "ocd-division/country:us/state:tx/county:henderson/school_district:kemp_isd": {
    "name": "kemp isd"
@@ -1463,17 +1463,17 @@
   "ocd-division/country:us/state:tx/county:shelby/school_district:shelbyville_isd": {
    "name": "shelbyville isd"
   },
-  "ocd-division/country:us/state:tx/district_court:433": {
-   "name": "TX State District Court - 433rd District"
-  },
   "ocd-division/country:us/state:tx/place:vinton": {
    "name": "Vinton village"
   },
-  "ocd-division/country:us/state:tx/district_court:434": {
-   "name": "TX State District Court - 434th District"
+  "ocd-division/country:us/state:tx/district_court:433": {
+   "name": "TX State District Court - 433rd District"
   },
   "ocd-division/country:us/state:tx/county:moore/school_district:sunray_isd": {
    "name": "sunray isd"
+  },
+  "ocd-division/country:us/state:tx/district_court:434": {
+   "name": "TX State District Court - 434th District"
   },
   "ocd-division/country:us/state:tx/district_court:431": {
    "name": "TX State District Court - 431st District"
@@ -1487,11 +1487,11 @@
   "ocd-division/country:us/state:tx/place:silverton": {
    "name": "Silverton city"
   },
-  "ocd-division/country:us/state:tx/place:lakeport": {
-   "name": "Lakeport city"
-  },
   "ocd-division/country:us/state:tx/place:teague": {
    "name": "Teague city"
+  },
+  "ocd-division/country:us/state:tx/place:lakeport": {
+   "name": "Lakeport city"
   },
   "ocd-division/country:us/state:tx/place:sherman": {
    "name": "Sherman city"
@@ -1514,11 +1514,11 @@
   "ocd-division/country:us/state:tx/district_court:439": {
    "name": "TX State District Court - 439th District"
   },
-  "ocd-division/country:us/state:tx/district_court:438": {
-   "name": "TX State District Court - 438th District"
-  },
   "ocd-division/country:us/state:tx/county:jones/school_district:stamford_isd": {
    "name": "stamford isd"
+  },
+  "ocd-division/country:us/state:tx/district_court:438": {
+   "name": "TX State District Court - 438th District"
   },
   "ocd-division/country:us/state:tx/district_court:437": {
    "name": "TX State District Court - 437th District"
@@ -1526,20 +1526,20 @@
   "ocd-division/country:us/state:tx/district_court:436": {
    "name": "TX State District Court - 436th District"
   },
-  "ocd-division/country:us/state:tx/district_court:435": {
-   "name": "TX State District Court - 435th District"
-  },
   "ocd-division/country:us/state:tx/county:kimble/school_district:junction_isd": {
    "name": "junction isd"
+  },
+  "ocd-division/country:us/state:tx/district_court:435": {
+   "name": "TX State District Court - 435th District"
   },
   "ocd-division/country:us/state:tx/district_court:442": {
    "name": "TX State District Court - 442nd District"
   },
-  "ocd-division/country:us/state:tx/district_court:443": {
-   "name": "TX State District Court - 443rd District"
-  },
   "ocd-division/country:us/state:tx/county:delta/school_district:cooper_isd": {
    "name": "cooper isd"
+  },
+  "ocd-division/country:us/state:tx/district_court:443": {
+   "name": "TX State District Court - 443rd District"
   },
   "ocd-division/country:us/state:tx/district_court:444": {
    "name": "TX State District Court - 444th District"
@@ -1872,6 +1872,9 @@
   "ocd-division/country:us/state:tx/county:hood/school_district:granbury_isd": {
    "name": "granbury isd"
   },
+  "ocd-division/country:us/state:tx/county:liberty/school_district:dayton_isd": {
+   "name": "dayton isd"
+  },
   "ocd-division/country:us/state:tx/county:real": {
    "name": "Real County",
    "officeIndices": [
@@ -1882,14 +1885,11 @@
     456
    ]
   },
-  "ocd-division/country:us/state:tx/county:liberty/school_district:dayton_isd": {
-   "name": "dayton isd"
+  "ocd-division/country:us/state:tx/place:timpson": {
+   "name": "Timpson city"
   },
   "ocd-division/country:us/state:tx/county:ellis/school_district:milford_isd": {
    "name": "milford isd"
-  },
-  "ocd-division/country:us/state:tx/place:timpson": {
-   "name": "Timpson city"
   },
   "ocd-division/country:us/state:tx/county:travis/school_district:harmony_science_academy_austin": {
    "name": "harmony science academy (austin)"
@@ -1946,14 +1946,14 @@
     466
    ]
   },
-  "ocd-division/country:us/state:tx/county:martin/council_district:4": {
-   "name": "Martin County Commissioner Precinct 4",
+  "ocd-division/country:us/state:tx/county:jack/council_district:1": {
+   "name": "Jack County Commissioner Precinct 1",
    "officeIndices": [
     467
    ]
   },
-  "ocd-division/country:us/state:tx/county:jack/council_district:1": {
-   "name": "Jack County Commissioner Precinct 1",
+  "ocd-division/country:us/state:tx/county:martin/council_district:4": {
+   "name": "Martin County Commissioner Precinct 4",
    "officeIndices": [
     468
    ]
@@ -2031,11 +2031,11 @@
     482
    ]
   },
-  "ocd-division/country:us/state:tx/county:hamilton/school_district:hamilton_isd": {
-   "name": "hamilton isd"
-  },
   "ocd-division/country:us/state:tx/place:crandall": {
    "name": "Crandall city"
+  },
+  "ocd-division/country:us/state:tx/county:hamilton/school_district:hamilton_isd": {
+   "name": "hamilton isd"
   },
   "ocd-division/country:us/state:tx/county:maverick/school_district:eagle_pass_isd": {
    "name": "eagle pass isd"
@@ -2070,11 +2070,11 @@
   "ocd-division/country:us/state:tx/place:yorktown": {
    "name": "Yorktown city"
   },
-  "ocd-division/country:us/state:tx/county:nacogdoches/school_district:etoile_isd": {
-   "name": "etoile isd"
-  },
   "ocd-division/country:us/state:tx/place:galveston": {
    "name": "Galveston city"
+  },
+  "ocd-division/country:us/state:tx/county:nacogdoches/school_district:etoile_isd": {
+   "name": "etoile isd"
   },
   "ocd-division/country:us/state:tx/county:bexar/school_district:radiance_academy_of_learning": {
    "name": "radiance academy of learning"
@@ -2155,14 +2155,14 @@
   "ocd-division/country:us/state:tx/county:sutton/school_district:sonora_isd": {
    "name": "sonora isd"
   },
+  "ocd-division/country:us/state:tx/county:harris/school_district:calvin_nelms_charter_schools": {
+   "name": "calvin nelms charter schools"
+  },
   "ocd-division/country:us/state:tx/county:bowie/council_district:4": {
    "name": "Bowie County Commissioner Precinct 4",
    "officeIndices": [
     496
    ]
-  },
-  "ocd-division/country:us/state:tx/county:harris/school_district:calvin_nelms_charter_schools": {
-   "name": "calvin nelms charter schools"
   },
   "ocd-division/country:us/state:tx/county:bowie/council_district:3": {
    "name": "Bowie County Commissioner Precinct 3",
@@ -2179,45 +2179,45 @@
     498
    ]
   },
-  "ocd-division/country:us/state:tx/county:zapata/school_district:zapata_county_isd": {
-   "name": "zapata county isd"
-  },
   "ocd-division/country:us/state:tx/county:bowie/council_district:1": {
    "name": "Bowie County Commissioner Precinct 1",
    "officeIndices": [
     499
    ]
   },
-  "ocd-division/country:us/state:tx/county:marion": {
-   "name": "Marion County",
-   "officeIndices": [
-    500,
-    501,
-    502,
-    503,
-    504
-   ]
+  "ocd-division/country:us/state:tx/county:zapata/school_district:zapata_county_isd": {
+   "name": "zapata county isd"
   },
   "ocd-division/country:us/state:tx/county:gregg": {
    "name": "Gregg County",
    "officeIndices": [
+    500,
+    501,
+    502,
+    503
+   ]
+  },
+  "ocd-division/country:us/state:tx/county:marion": {
+   "name": "Marion County",
+   "officeIndices": [
+    504,
     505,
     506,
     507,
     508
    ]
   },
+  "ocd-division/country:us/state:tx/county:parker/school_district:millsap_isd": {
+   "name": "millsap isd"
+  },
+  "ocd-division/country:us/state:tx/county:rusk/school_district:leveretts_chapel_isd": {
+   "name": "leveretts chapel isd"
+  },
   "ocd-division/country:us/state:tx/county:somervell/council_district:3": {
    "name": "Somervell County Commissioner Precinct 3",
    "officeIndices": [
     509
    ]
-  },
-  "ocd-division/country:us/state:tx/county:rusk/school_district:leveretts_chapel_isd": {
-   "name": "leveretts chapel isd"
-  },
-  "ocd-division/country:us/state:tx/county:parker/school_district:millsap_isd": {
-   "name": "millsap isd"
   },
   "ocd-division/country:us/state:tx/county:somervell/council_district:2": {
    "name": "Somervell County Commissioner Precinct 2",
@@ -2234,14 +2234,14 @@
   "ocd-division/country:us/state:tx/county:hidalgo/school_district:pharr-san_juan-alamo_isd": {
    "name": "pharr-san juan-alamo isd"
   },
+  "ocd-division/country:us/state:tx/county:bell/school_district:troy_isd": {
+   "name": "troy isd"
+  },
   "ocd-division/country:us/state:tx/county:somervell/council_district:1": {
    "name": "Somervell County Commissioner Precinct 1",
    "officeIndices": [
     512
    ]
-  },
-  "ocd-division/country:us/state:tx/county:bell/school_district:troy_isd": {
-   "name": "troy isd"
   },
   "ocd-division/country:us/state:tx/place:moran": {
    "name": "Moran city"
@@ -2317,14 +2317,17 @@
   "ocd-division/country:us/state:tx/place:riesel": {
    "name": "Riesel city"
   },
-  "ocd-division/country:us/state:tx/county:duval/school_district:benavides_isd": {
-   "name": "benavides isd"
-  },
   "ocd-division/country:us/state:tx/county:lamar/council_district:3": {
    "name": "Lamar County Commissioner Precinct 3",
    "officeIndices": [
     527
    ]
+  },
+  "ocd-division/country:us/state:tx/county:duval/school_district:benavides_isd": {
+   "name": "benavides isd"
+  },
+  "ocd-division/country:us/state:tx/county:lamb/school_district:sudan_isd": {
+   "name": "sudan isd"
   },
   "ocd-division/country:us/state:tx/county:lamar/council_district:2": {
    "name": "Lamar County Commissioner Precinct 2",
@@ -2332,8 +2335,8 @@
     528
    ]
   },
-  "ocd-division/country:us/state:tx/county:lamb/school_district:sudan_isd": {
-   "name": "sudan isd"
+  "ocd-division/country:us/state:tx/place:lake_dallas": {
+   "name": "Lake Dallas city"
   },
   "ocd-division/country:us/state:tx/county:lamar/council_district:4": {
    "name": "Lamar County Commissioner Precinct 4",
@@ -2341,8 +2344,8 @@
     529
    ]
   },
-  "ocd-division/country:us/state:tx/place:lake_dallas": {
-   "name": "Lake Dallas city"
+  "ocd-division/country:us/state:tx/county:el_paso/school_district:tornillo_isd": {
+   "name": "tornillo isd"
   },
   "ocd-division/country:us/state:tx/county:potter": {
    "name": "Potter County",
@@ -2354,23 +2357,20 @@
     534
    ]
   },
-  "ocd-division/country:us/state:tx/county:el_paso/school_district:tornillo_isd": {
-   "name": "tornillo isd"
-  },
   "ocd-division/country:us/state:tx/county:dallas/school_district:la_academia_de_estrellas": {
    "name": "la academia de estrellas"
   },
   "ocd-division/country:us/state:tx/place:smiley": {
    "name": "Smiley city"
   },
+  "ocd-division/country:us/state:tx/place:austwell": {
+   "name": "Austwell city"
+  },
   "ocd-division/country:us/state:tx/county:lamar/council_district:1": {
    "name": "Lamar County Commissioner Precinct 1",
    "officeIndices": [
     535
    ]
-  },
-  "ocd-division/country:us/state:tx/place:austwell": {
-   "name": "Austwell city"
   },
   "ocd-division/country:us/state:tx/county:hale/school_district:petersburg_isd": {
    "name": "petersburg isd"
@@ -2427,14 +2427,14 @@
     546
    ]
   },
+  "ocd-division/country:us/state:tx/county:liberty/school_district:cleveland_isd": {
+   "name": "cleveland isd"
+  },
   "ocd-division/country:us/state:tx/county:comal/council_district:2": {
    "name": "Comal County Commissioner Precinct 2",
    "officeIndices": [
     547
    ]
-  },
-  "ocd-division/country:us/state:tx/county:liberty/school_district:cleveland_isd": {
-   "name": "cleveland isd"
   },
   "ocd-division/country:us/state:tx/county:atascosa/school_district:pleasanton_isd": {
    "name": "pleasanton isd"
@@ -2472,20 +2472,20 @@
   "ocd-division/country:us/state:tx/place:lewisville": {
    "name": "Lewisville city"
   },
-  "ocd-division/country:us/state:tx/place:abernathy": {
-   "name": "Abernathy city"
-  },
   "ocd-division/country:us/state:tx/county:willacy/school_district:raymondville_isd": {
    "name": "raymondville isd"
+  },
+  "ocd-division/country:us/state:tx/place:abernathy": {
+   "name": "Abernathy city"
   },
   "ocd-division/country:us/state:tx/county:coryell/school_district:oglesby_isd": {
    "name": "oglesby isd"
   },
-  "ocd-division/country:us/state:tx/county:nueces/school_district:bishop_cisd": {
-   "name": "bishop cisd"
-  },
   "ocd-division/country:us/state:tx/county:dallas/school_district:nova_academy_southeast": {
    "name": "nova academy (southeast)"
+  },
+  "ocd-division/country:us/state:tx/county:nueces/school_district:bishop_cisd": {
+   "name": "bishop cisd"
   },
   "ocd-division/country:us/state:tx/county:throckmorton/school_district:throckmorton_isd": {
    "name": "throckmorton isd"
@@ -2508,35 +2508,35 @@
     551
    ]
   },
-  "ocd-division/country:us/state:tx/county:schleicher/council_district:1": {
-   "name": "Schleicher County Commissioner Precinct 1",
-   "officeIndices": [
-    552
-   ]
-  },
   "ocd-division/country:us/state:tx/county:hopkins": {
    "name": "Hopkins County",
    "officeIndices": [
+    552,
     553,
     554,
     555,
-    556,
-    557
+    556
    ]
   },
-  "ocd-division/country:us/state:tx/county:terry": {
-   "name": "Terry County",
+  "ocd-division/country:us/state:tx/county:schleicher/council_district:1": {
+   "name": "Schleicher County Commissioner Precinct 1",
    "officeIndices": [
-    558,
-    559,
-    560,
-    561,
-    562
+    557
    ]
   },
   "ocd-division/country:us/state:tx/county:schleicher/council_district:4": {
    "name": "Schleicher County Commissioner Precinct 4",
    "officeIndices": [
+    558
+   ]
+  },
+  "ocd-division/country:us/state:tx/county:terry": {
+   "name": "Terry County",
+   "officeIndices": [
+    559,
+    560,
+    561,
+    562,
     563
    ]
   },
@@ -2555,26 +2555,26 @@
   "ocd-division/country:us/state:tx/county:hopkins/school_district:saltillo_isd": {
    "name": "saltillo isd"
   },
+  "ocd-division/country:us/state:tx/place:rio_grande_city": {
+   "name": "Rio Grande City city"
+  },
   "ocd-division/country:us/state:tx/county:childress/council_district:4": {
    "name": "Childress County Commissioner Precinct 4",
    "officeIndices": [
     565
    ]
   },
-  "ocd-division/country:us/state:tx/place:rio_grande_city": {
-   "name": "Rio Grande City city"
-  },
   "ocd-division/country:us/state:tx/place:celeste": {
    "name": "Celeste city"
-  },
-  "ocd-division/country:us/state:tx/county:val_verde/school_district:comstock_isd": {
-   "name": "comstock isd"
   },
   "ocd-division/country:us/state:tx/county:childress/council_district:1": {
    "name": "Childress County Commissioner Precinct 1",
    "officeIndices": [
     566
    ]
+  },
+  "ocd-division/country:us/state:tx/county:val_verde/school_district:comstock_isd": {
+   "name": "comstock isd"
   },
   "ocd-division/country:us/state:tx/county:childress/council_district:2": {
    "name": "Childress County Commissioner Precinct 2",
@@ -2613,26 +2613,26 @@
     575
    ]
   },
-  "ocd-division/country:us/state:tx/county:live_oak/council_district:1": {
-   "name": "Live Oak County Commissioner Precinct 1",
+  "ocd-division/country:us/state:tx/county:frio/council_district:4": {
+   "name": "Frio County Commissioner Precinct 4",
    "officeIndices": [
     576
    ]
   },
-  "ocd-division/country:us/state:tx/county:frio/council_district:4": {
-   "name": "Frio County Commissioner Precinct 4",
+  "ocd-division/country:us/state:tx/county:live_oak/council_district:1": {
+   "name": "Live Oak County Commissioner Precinct 1",
    "officeIndices": [
     577
    ]
   },
-  "ocd-division/country:us/state:tx/county:live_oak/council_district:2": {
-   "name": "Live Oak County Commissioner Precinct 2",
+  "ocd-division/country:us/state:tx/county:frio/council_district:3": {
+   "name": "Frio County Commissioner Precinct 3",
    "officeIndices": [
     578
    ]
   },
-  "ocd-division/country:us/state:tx/county:frio/council_district:3": {
-   "name": "Frio County Commissioner Precinct 3",
+  "ocd-division/country:us/state:tx/county:live_oak/council_district:2": {
+   "name": "Live Oak County Commissioner Precinct 2",
    "officeIndices": [
     579
    ]
@@ -2646,23 +2646,23 @@
     580
    ]
   },
+  "ocd-division/country:us/state:tx/place:stratford": {
+   "name": "Stratford city"
+  },
   "ocd-division/country:us/state:tx/county:frio/council_district:1": {
    "name": "Frio County Commissioner Precinct 1",
    "officeIndices": [
     581
    ]
   },
-  "ocd-division/country:us/state:tx/place:stratford": {
-   "name": "Stratford city"
-  },
-  "ocd-division/country:us/state:tx/county:gonzales/council_district:4": {
-   "name": "Gonzales County Commissioner Precinct 4",
+  "ocd-division/country:us/state:tx/county:grimes/council_district:3": {
+   "name": "Grimes County Commissioner Precinct 3",
    "officeIndices": [
     582
    ]
   },
-  "ocd-division/country:us/state:tx/county:grimes/council_district:3": {
-   "name": "Grimes County Commissioner Precinct 3",
+  "ocd-division/country:us/state:tx/county:gonzales/council_district:4": {
+   "name": "Gonzales County Commissioner Precinct 4",
    "officeIndices": [
     583
    ]
@@ -2679,23 +2679,23 @@
     585
    ]
   },
-  "ocd-division/country:us/state:tx/county:gonzales/council_district:3": {
-   "name": "Gonzales County Commissioner Precinct 3",
+  "ocd-division/country:us/state:tx/county:grimes/council_district:4": {
+   "name": "Grimes County Commissioner Precinct 4",
    "officeIndices": [
     586
    ]
   },
-  "ocd-division/country:us/state:tx/county:grimes/council_district:4": {
-   "name": "Grimes County Commissioner Precinct 4",
+  "ocd-division/country:us/state:tx/county:gonzales/council_district:3": {
+   "name": "Gonzales County Commissioner Precinct 3",
    "officeIndices": [
     587
    ]
   },
-  "ocd-division/country:us/state:tx/county:lubbock/school_district:lubbock-cooper_isd": {
-   "name": "lubbock-cooper isd"
-  },
   "ocd-division/country:us/state:tx/place:driscoll": {
    "name": "Driscoll city"
+  },
+  "ocd-division/country:us/state:tx/county:lubbock/school_district:lubbock-cooper_isd": {
+   "name": "lubbock-cooper isd"
   },
   "ocd-division/country:us/state:tx/county:dallas/school_district:golden_rule_charter_school": {
    "name": "golden rule charter school"
@@ -2709,20 +2709,20 @@
   "ocd-division/country:us/state:tx/county:tarrant/school_district:east_fort_worth_montessori_academy": {
    "name": "east fort worth montessori academy"
   },
-  "ocd-division/country:us/state:tx/county:bandera/school_district:medina_isd": {
-   "name": "medina isd"
-  },
   "ocd-division/country:us/state:tx/place:heath": {
    "name": "Heath city"
   },
-  "ocd-division/country:us/state:tx/county:uvalde/school_district:uvalde_cisd": {
-   "name": "uvalde cisd"
+  "ocd-division/country:us/state:tx/county:bandera/school_district:medina_isd": {
+   "name": "medina isd"
+  },
+  "ocd-division/country:us/state:tx/county:lampasas/school_district:lometa_isd": {
+   "name": "lometa isd"
   },
   "ocd-division/country:us/state:tx/county:bexar/school_district:school_of_science_and_technology": {
    "name": "school of science and technology"
   },
-  "ocd-division/country:us/state:tx/county:lampasas/school_district:lometa_isd": {
-   "name": "lometa isd"
+  "ocd-division/country:us/state:tx/county:uvalde/school_district:uvalde_cisd": {
+   "name": "uvalde cisd"
   },
   "ocd-division/country:us/state:tx/county:gonzales/council_district:1": {
    "name": "Gonzales County Commissioner Precinct 1",
@@ -2730,11 +2730,11 @@
     588
    ]
   },
-  "ocd-division/country:us/state:tx/county:ellis/school_district:palmer_isd": {
-   "name": "palmer isd"
-  },
   "ocd-division/country:us/state:tx/place:holliday": {
    "name": "Holliday city"
+  },
+  "ocd-division/country:us/state:tx/county:ellis/school_district:palmer_isd": {
+   "name": "palmer isd"
   },
   "ocd-division/country:us/state:tx/county:blanco/council_district:4": {
    "name": "Blanco County Commissioner Precinct 4",
@@ -2766,17 +2766,17 @@
   "ocd-division/country:us/state:tx/place:noonday": {
    "name": "Noonday city"
   },
-  "ocd-division/country:us/state:tx/county:harris/school_district:houston_heights_learning_academy_inc": {
-   "name": "houston heights learning academy inc"
-  },
   "ocd-division/country:us/state:tx/place:groveton": {
    "name": "Groveton city"
   },
-  "ocd-division/country:us/state:tx/county:williamson/school_district:hutto_isd": {
-   "name": "hutto isd"
+  "ocd-division/country:us/state:tx/county:harris/school_district:houston_heights_learning_academy_inc": {
+   "name": "houston heights learning academy inc"
   },
   "ocd-division/country:us/state:tx/county:hartley/school_district:channing_isd": {
    "name": "channing isd"
+  },
+  "ocd-division/country:us/state:tx/county:williamson/school_district:hutto_isd": {
+   "name": "hutto isd"
   },
   "ocd-division/country:us/state:tx/county:grimes/council_district:1": {
    "name": "Grimes County Commissioner Precinct 1",
@@ -2787,26 +2787,26 @@
   "ocd-division/country:us/state:tx/place:naples": {
    "name": "Naples city"
   },
-  "ocd-division/country:us/state:tx/county:wharton/school_district:el_campo_isd": {
-   "name": "el campo isd"
-  },
   "ocd-division/country:us/state:tx/place:pleasant_valley": {
    "name": "Pleasant Valley town"
   },
-  "ocd-division/country:us/state:tx/county:polk/council_district:3": {
-   "name": "Polk County Commissioner Precinct 3",
-   "officeIndices": [
-    594
-   ]
+  "ocd-division/country:us/state:tx/county:wharton/school_district:el_campo_isd": {
+   "name": "el campo isd"
+  },
+  "ocd-division/country:us/state:tx/county:harris/school_district:academy_of_accelerated_learning_inc": {
+   "name": "academy of accelerated learning inc"
   },
   "ocd-division/country:us/state:tx/county:dallam/council_district:1": {
    "name": "Dallam County Commissioner Precinct 1",
    "officeIndices": [
-    595
+    594
    ]
   },
-  "ocd-division/country:us/state:tx/county:harris/school_district:academy_of_accelerated_learning_inc": {
-   "name": "academy of accelerated learning inc"
+  "ocd-division/country:us/state:tx/county:polk/council_district:3": {
+   "name": "Polk County Commissioner Precinct 3",
+   "officeIndices": [
+    595
+   ]
   },
   "ocd-division/country:us/state:tx/county:polk/council_district:4": {
    "name": "Polk County Commissioner Precinct 4",
@@ -2820,24 +2820,24 @@
     597
    ]
   },
-  "ocd-division/country:us/state:tx/county:dallam/council_district:2": {
-   "name": "Dallam County Commissioner Precinct 2",
-   "officeIndices": [
-    598
-   ]
+  "ocd-division/country:us/state:tx/place:coyote_flats": {
+   "name": "Coyote Flats city"
   },
   "ocd-division/country:us/state:tx/county:bosque": {
    "name": "Bosque County",
    "officeIndices": [
+    598,
     599,
     600,
     601,
-    602,
-    603
+    602
    ]
   },
-  "ocd-division/country:us/state:tx/place:coyote_flats": {
-   "name": "Coyote Flats city"
+  "ocd-division/country:us/state:tx/county:dallam/council_district:2": {
+   "name": "Dallam County Commissioner Precinct 2",
+   "officeIndices": [
+    603
+   ]
   },
   "ocd-division/country:us/state:tx/county:dallam/council_district:4": {
    "name": "Dallam County Commissioner Precinct 4",
@@ -2845,11 +2845,11 @@
     604
    ]
   },
-  "ocd-division/country:us/state:tx/place:briaroaks": {
-   "name": "Briaroaks city"
-  },
   "ocd-division/country:us/state:tx/place:lakeside_~san_patricio_county~": {
    "name": "Lakeside town"
+  },
+  "ocd-division/country:us/state:tx/place:briaroaks": {
+   "name": "Briaroaks city"
   },
   "ocd-division/country:us/state:tx/county:collingsworth/school_district:wellington_isd": {
    "name": "wellington isd"
@@ -2860,20 +2860,20 @@
   "ocd-division/country:us/state:tx/place:waco/council_district:1": {
    "name": "Waco TX city council district 1"
   },
-  "ocd-division/country:us/state:tx/county:rockwall/school_district:royse_city_isd": {
-   "name": "royse city isd"
-  },
   "ocd-division/country:us/state:tx/place:grey_forest": {
    "name": "Grey Forest city"
+  },
+  "ocd-division/country:us/state:tx/county:rockwall/school_district:royse_city_isd": {
+   "name": "royse city isd"
   },
   "ocd-division/country:us/state:tx/place:lakeside": {
    "name": "Lakeside TX"
   },
-  "ocd-division/country:us/state:tx/county:smith/school_district:winona_isd": {
-   "name": "winona isd"
-  },
   "ocd-division/country:us/state:tx/county:hemphill/school_district:canadian_isd": {
    "name": "canadian isd"
+  },
+  "ocd-division/country:us/state:tx/county:smith/school_district:winona_isd": {
+   "name": "winona isd"
   },
   "ocd-division/country:us/state:tx/county:jones/school_district:anson_isd": {
    "name": "anson isd"
@@ -2900,17 +2900,17 @@
   "ocd-division/country:us/state:tx/place:fritch": {
    "name": "Fritch city"
   },
-  "ocd-division/country:us/state:tx/place:montgomery": {
-   "name": "Montgomery city"
-  },
   "ocd-division/country:us/state:tx/place:waco/council_district:5": {
    "name": "Waco TX city council district 5"
   },
-  "ocd-division/country:us/state:tx/county:wichita/school_district:wichita_falls_isd": {
-   "name": "wichita falls isd"
+  "ocd-division/country:us/state:tx/place:montgomery": {
+   "name": "Montgomery city"
   },
   "ocd-division/country:us/state:tx/place:waco/council_district:4": {
    "name": "Waco TX city council district 4"
+  },
+  "ocd-division/country:us/state:tx/county:wichita/school_district:wichita_falls_isd": {
+   "name": "wichita falls isd"
   },
   "ocd-division/country:us/state:tx/place:waco/council_district:3": {
    "name": "Waco TX city council district 3"
@@ -2933,8 +2933,8 @@
   "ocd-division/country:us/state:tx/place:denton/council_district:1": {
    "name": "Denton TX city council district 1"
   },
-  "ocd-division/country:us/state:tx/county:mclennan/school_district:mclennan_co_st_juvenile_correction_facility_ii": {
-   "name": "mclennan co st juvenile correction facility ii"
+  "ocd-division/country:us/state:tx/place:hamilton": {
+   "name": "Hamilton city"
   },
   "ocd-division/country:us/state:tx/county:anderson/council_district:3": {
    "name": "Anderson County Commissioner Precinct 3",
@@ -2942,17 +2942,17 @@
     614
    ]
   },
-  "ocd-division/country:us/state:tx/place:hamilton": {
-   "name": "Hamilton city"
+  "ocd-division/country:us/state:tx/county:mclennan/school_district:mclennan_co_st_juvenile_correction_facility_ii": {
+   "name": "mclennan co st juvenile correction facility ii"
   },
-  "ocd-division/country:us/state:tx/county:san_jacinto/council_district:1": {
-   "name": "San Jacinto County Commissioner Precinct 1",
+  "ocd-division/country:us/state:tx/county:anderson/council_district:4": {
+   "name": "Anderson County Commissioner Precinct 4",
    "officeIndices": [
     615
    ]
   },
-  "ocd-division/country:us/state:tx/county:anderson/council_district:4": {
-   "name": "Anderson County Commissioner Precinct 4",
+  "ocd-division/country:us/state:tx/county:san_jacinto/council_district:1": {
+   "name": "San Jacinto County Commissioner Precinct 1",
    "officeIndices": [
     616
    ]
@@ -2966,14 +2966,14 @@
     617
    ]
   },
+  "ocd-division/country:us/state:tx/place:grand_saline": {
+   "name": "Grand Saline city"
+  },
   "ocd-division/country:us/state:tx/county:san_jacinto/council_district:2": {
    "name": "San Jacinto County Commissioner Precinct 2",
    "officeIndices": [
     618
    ]
-  },
-  "ocd-division/country:us/state:tx/place:grand_saline": {
-   "name": "Grand Saline city"
   },
   "ocd-division/country:us/state:tx/county:san_jacinto/council_district:3": {
    "name": "San Jacinto County Commissioner Precinct 3",
@@ -2984,19 +2984,19 @@
   "ocd-division/country:us/state:tx/place:jones_creek": {
    "name": "Jones Creek village"
   },
-  "ocd-division/country:us/state:tx/county:anderson/council_district:2": {
-   "name": "Anderson County Commissioner Precinct 2",
-   "officeIndices": [
-    620
-   ]
-  },
   "ocd-division/country:us/state:tx/county:kenedy": {
    "name": "Kenedy County",
    "officeIndices": [
+    620,
     621,
     622,
     623,
-    624,
+    624
+   ]
+  },
+  "ocd-division/country:us/state:tx/county:anderson/council_district:2": {
+   "name": "Anderson County Commissioner Precinct 2",
+   "officeIndices": [
     625
    ]
   },
@@ -3006,14 +3006,14 @@
     626
    ]
   },
+  "ocd-division/country:us/state:tx/place:talty": {
+   "name": "Talty town"
+  },
   "ocd-division/country:us/state:tx/county:jeff_davis/council_district:3": {
    "name": "Jeff Davis County Commissioner Precinct 3",
    "officeIndices": [
     627
    ]
-  },
-  "ocd-division/country:us/state:tx/place:talty": {
-   "name": "Talty town"
   },
   "ocd-division/country:us/state:tx/county:jeff_davis/council_district:2": {
    "name": "Jeff Davis County Commissioner Precinct 2",
@@ -3033,23 +3033,23 @@
   "ocd-division/country:us/state:tx/place:newcastle": {
    "name": "Newcastle city"
   },
-  "ocd-division/country:us/state:tx/county:smith/school_district:cumberland_academy": {
-   "name": "cumberland academy"
-  },
-  "ocd-division/country:us/state:tx/county:montgomery/council_district:2": {
-   "name": "Montgomery County TX Commissioners Court District 2",
-   "officeIndices": [
-    630
-   ]
+  "ocd-division/country:us/state:tx/place:franklin": {
+   "name": "Franklin city"
   },
   "ocd-division/country:us/state:tx/county:jeff_davis/council_district:4": {
    "name": "Jeff Davis County Commissioner Precinct 4",
    "officeIndices": [
+    630
+   ]
+  },
+  "ocd-division/country:us/state:tx/county:montgomery/council_district:2": {
+   "name": "Montgomery County TX Commissioners Court District 2",
+   "officeIndices": [
     631
    ]
   },
-  "ocd-division/country:us/state:tx/place:franklin": {
-   "name": "Franklin city"
+  "ocd-division/country:us/state:tx/county:smith/school_district:cumberland_academy": {
+   "name": "cumberland academy"
   },
   "ocd-division/country:us/state:tx/county:montgomery/council_district:3": {
    "name": "Montgomery County TX Commissioners Court District 3",
@@ -3069,11 +3069,11 @@
   "ocd-division/country:us/state:tx/county:atascosa/school_district:jourdanton_isd": {
    "name": "jourdanton isd"
   },
-  "ocd-division/country:us/state:tx/county:ellis/school_district:midlothian_isd": {
-   "name": "midlothian isd"
-  },
   "ocd-division/country:us/state:tx/place:campbell": {
    "name": "Campbell city"
+  },
+  "ocd-division/country:us/state:tx/county:ellis/school_district:midlothian_isd": {
+   "name": "midlothian isd"
   },
   "ocd-division/country:us/state:tx/place:richland_hills": {
    "name": "Richland Hills city"
@@ -3090,14 +3090,14 @@
     635
    ]
   },
+  "ocd-division/country:us/state:tx/place:gainesville": {
+   "name": "Gainesville city"
+  },
   "ocd-division/country:us/state:tx/county:hardeman/council_district:2": {
    "name": "Hardeman County Commissioner Precinct 2",
    "officeIndices": [
     636
    ]
-  },
-  "ocd-division/country:us/state:tx/place:gainesville": {
-   "name": "Gainesville city"
   },
   "ocd-division/country:us/state:tx/county:hardeman/council_district:1": {
    "name": "Hardeman County Commissioner Precinct 1",
@@ -3129,11 +3129,11 @@
   "ocd-division/country:us/state:tx/place:covington": {
    "name": "Covington city"
   },
-  "ocd-division/country:us/state:tx/county:mills/school_district:goldthwaite_isd": {
-   "name": "goldthwaite isd"
-  },
   "ocd-division/country:us/state:tx/place:waskom": {
    "name": "Waskom city"
+  },
+  "ocd-division/country:us/state:tx/county:mills/school_district:goldthwaite_isd": {
+   "name": "goldthwaite isd"
   },
   "ocd-division/country:us/state:tx/place:la_feria": {
    "name": "La Feria city"
@@ -3141,11 +3141,11 @@
   "ocd-division/country:us/state:tx/place:edgewood": {
    "name": "Edgewood town"
   },
-  "ocd-division/country:us/state:tx/place:carrollton/council_district:northeast": {
-   "name": "Carrollton TX city council district northeast"
-  },
   "ocd-division/country:us/state:tx/place:groesbeck": {
    "name": "Groesbeck city"
+  },
+  "ocd-division/country:us/state:tx/place:carrollton/council_district:northeast": {
+   "name": "Carrollton TX city council district northeast"
   },
   "ocd-division/country:us/state:tx/county:dallas/school_district:education_center_international_academy": {
    "name": "education center international academy"
@@ -3162,14 +3162,14 @@
     639
    ]
   },
+  "ocd-division/country:us/state:tx/county:kaufman/school_district:scurry-rosser_isd": {
+   "name": "scurry-rosser isd"
+  },
   "ocd-division/country:us/state:tx/county:rusk/council_district:3": {
    "name": "Rusk County Commissioner Precinct 3",
    "officeIndices": [
     640
    ]
-  },
-  "ocd-division/country:us/state:tx/county:kaufman/school_district:scurry-rosser_isd": {
-   "name": "scurry-rosser isd"
   },
   "ocd-division/country:us/state:tx/county:rusk/council_district:2": {
    "name": "Rusk County Commissioner Precinct 2",
@@ -3183,14 +3183,14 @@
     642
    ]
   },
-  "ocd-division/country:us/state:tx/county:andrews/school_district:andrews_isd": {
-   "name": "andrews isd"
+  "ocd-division/country:us/state:tx/place:palisades": {
+   "name": "Palisades village"
   },
   "ocd-division/country:us/state:tx/place:bardwell": {
    "name": "Bardwell city"
   },
-  "ocd-division/country:us/state:tx/place:palisades": {
-   "name": "Palisades village"
+  "ocd-division/country:us/state:tx/county:andrews/school_district:andrews_isd": {
+   "name": "andrews isd"
   },
   "ocd-division/country:us/state:tx/county:san_patricio/school_district:sinton_isd": {
    "name": "sinton isd"
@@ -4389,14 +4389,14 @@
   "ocd-division/country:us/state:tx/county:falls/school_district:marlin_isd": {
    "name": "marlin isd"
   },
+  "ocd-division/country:us/state:tx/county:dallas/school_district:dallas_county_juvenile_justice": {
+   "name": "dallas county juvenile justice"
+  },
   "ocd-division/country:us/state:tx/county:travis/council_district:4": {
    "name": "Travis County TX Commissioners Court District 4",
    "officeIndices": [
     772
    ]
-  },
-  "ocd-division/country:us/state:tx/county:dallas/school_district:dallas_county_juvenile_justice": {
-   "name": "dallas county juvenile justice"
   },
   "ocd-division/country:us/state:tx/county:cass/council_district:4": {
    "name": "Cass County Commissioner Precinct 4",
@@ -4569,19 +4569,19 @@
     781
    ]
   },
-  "ocd-division/country:us/state:tx/county:tarrant": {
-   "name": "Tarrant County",
-   "officeIndices": [
-    783,
-    784,
-    785,
-    786
-   ]
-  },
   "ocd-division/country:us/state:tx/county:mitchell/council_district:2": {
    "name": "Mitchell County Commissioner Precinct 2",
    "officeIndices": [
-    782
+    786
+   ]
+  },
+  "ocd-division/country:us/state:tx/county:tarrant": {
+   "name": "Tarrant County",
+   "officeIndices": [
+    782,
+    783,
+    784,
+    785
    ]
   },
   "ocd-division/country:us/state:tx/county:cherokee/school_district:rusk_isd": {
@@ -5208,35 +5208,32 @@
   "ocd-division/country:us/state:tx/district_court:97": {
    "name": "TX State District Court - 97th District"
   },
-  "ocd-division/country:us/state:tx/district_court:99": {
-   "name": "TX State District Court - 99th District"
-  },
   "ocd-division/country:us/state:tx/county:bexar/school_district:george_i_sanchez_charter_hs_san_antonio_branch": {
    "name": "george i sanchez charter hs san antonio branch"
+  },
+  "ocd-division/country:us/state:tx/district_court:99": {
+   "name": "TX State District Court - 99th District"
   },
   "ocd-division/country:us/state:tx/district_court:94": {
    "name": "TX State District Court - 94th District"
   },
-  "ocd-division/country:us/state:tx/district_court:93": {
-   "name": "TX State District Court - 93rd District"
-  },
   "ocd-division/country:us/state:tx/place:san_marcos": {
    "name": "San Marcos city"
+  },
+  "ocd-division/country:us/state:tx/district_court:93": {
+   "name": "TX State District Court - 93rd District"
   },
   "ocd-division/country:us/state:tx/district_court:96": {
    "name": "TX State District Court - 96th District"
   },
-  "ocd-division/country:us/state:tx/district_court:95": {
-   "name": "TX State District Court - 95th District"
-  },
   "ocd-division/country:us/state:tx/place:plainview": {
    "name": "Plainview city"
   },
+  "ocd-division/country:us/state:tx/district_court:95": {
+   "name": "TX State District Court - 95th District"
+  },
   "ocd-division/country:us/state:tx/county:lavaca/school_district:shiner_isd": {
    "name": "shiner isd"
-  },
-  "ocd-division/country:us/state:tx/place:taylor_landing": {
-   "name": "Taylor Landing city"
   },
   "ocd-division/country:us/state:tx/sldl:69": {
    "name": "Texas State House district 69",
@@ -5244,23 +5241,26 @@
     61
    ]
   },
+  "ocd-division/country:us/state:tx/place:taylor_landing": {
+   "name": "Taylor Landing city"
+  },
   "ocd-division/country:us/state:tx/sldl:68": {
    "name": "Texas State House district 68",
    "officeIndices": [
     62
    ]
   },
-  "ocd-division/country:us/state:tx/place:hondo": {
-   "name": "Hondo city"
-  },
-  "ocd-division/country:us/state:tx/place:sulphur_springs": {
-   "name": "Sulphur Springs city"
-  },
   "ocd-division/country:us/state:tx/sldl:67": {
    "name": "Texas State House district 67",
    "officeIndices": [
     63
    ]
+  },
+  "ocd-division/country:us/state:tx/place:sulphur_springs": {
+   "name": "Sulphur Springs city"
+  },
+  "ocd-division/country:us/state:tx/place:hondo": {
+   "name": "Hondo city"
   },
   "ocd-division/country:us/state:tx/sldl:72": {
    "name": "Texas State House district 72",
@@ -5298,17 +5298,14 @@
     69
    ]
   },
-  "ocd-division/country:us/state:tx/county:red_river/school_district:avery_isd": {
-   "name": "avery isd"
-  },
   "ocd-division/country:us/state:tx/sldl:74": {
    "name": "Texas State House district 74",
    "officeIndices": [
     70
    ]
   },
-  "ocd-division/country:us/state:tx/place:laguna_vista": {
-   "name": "Laguna Vista town"
+  "ocd-division/country:us/state:tx/county:red_river/school_district:avery_isd": {
+   "name": "avery isd"
   },
   "ocd-division/country:us/state:tx/sldl:75": {
    "name": "Texas State House district 75",
@@ -5316,14 +5313,17 @@
     71
    ]
   },
-  "ocd-division/country:us/state:tx/place:earth": {
-   "name": "Earth city"
+  "ocd-division/country:us/state:tx/place:laguna_vista": {
+   "name": "Laguna Vista town"
   },
   "ocd-division/country:us/state:tx/place:irving/council_district:7": {
    "name": "Irving TX city council district 7",
    "officeIndices": [
     220
    ]
+  },
+  "ocd-division/country:us/state:tx/place:earth": {
+   "name": "Earth city"
   },
   "ocd-division/country:us/state:tx/place:irving/council_district:6": {
    "name": "Irving TX city council district 6",
@@ -5370,17 +5370,17 @@
   "ocd-division/country:us/state:tx/district_court:87": {
    "name": "TX State District Court - 87th District"
   },
-  "ocd-division/country:us/state:tx/district_court:86": {
-   "name": "TX State District Court - 86th District"
-  },
   "ocd-division/country:us/state:tx/county:ellis/council_district:4": {
    "name": "Ellis County Commissioner Precinct 4",
    "officeIndices": [
     845
    ]
   },
-  "ocd-division/country:us/state:tx/district_court:85": {
-   "name": "TX State District Court - 85th District"
+  "ocd-division/country:us/state:tx/district_court:86": {
+   "name": "TX State District Court - 86th District"
+  },
+  "ocd-division/country:us/state:tx/place:east_tawakoni": {
+   "name": "East Tawakoni city"
   },
   "ocd-division/country:us/state:tx/county:delta/council_district:1": {
    "name": "Delta County Commissioner Precinct 1",
@@ -5388,50 +5388,47 @@
     847
    ]
   },
-  "ocd-division/country:us/state:tx/place:east_tawakoni": {
-   "name": "East Tawakoni city"
-  },
   "ocd-division/country:us/state:tx/county:ellis/council_district:3": {
    "name": "Ellis County Commissioner Precinct 3",
    "officeIndices": [
     846
    ]
   },
-  "ocd-division/country:us/state:tx/district_court:84": {
-   "name": "TX State District Court - 84th District"
-  },
-  "ocd-division/country:us/state:tx/county:ellis/council_district:2": {
-   "name": "Ellis County Commissioner Precinct 2",
-   "officeIndices": [
-    849
-   ]
+  "ocd-division/country:us/state:tx/district_court:85": {
+   "name": "TX State District Court - 85th District"
   },
   "ocd-division/country:us/state:tx/county:delta/council_district:2": {
    "name": "Delta County Commissioner Precinct 2",
    "officeIndices": [
+    849
+   ]
+  },
+  "ocd-division/country:us/state:tx/county:ellis/council_district:2": {
+   "name": "Ellis County Commissioner Precinct 2",
+   "officeIndices": [
     848
    ]
   },
-  "ocd-division/country:us/state:tx/district_court:83": {
-   "name": "TX State District Court - 83rd District"
-  },
-  "ocd-division/country:us/state:tx/county:ellis/council_district:1": {
-   "name": "Ellis County Commissioner Precinct 1",
-   "officeIndices": [
-    851
-   ]
-  },
-  "ocd-division/country:us/state:tx/county:delta/council_district:3": {
-   "name": "Delta County Commissioner Precinct 3",
-   "officeIndices": [
-    850
-   ]
+  "ocd-division/country:us/state:tx/district_court:84": {
+   "name": "TX State District Court - 84th District"
   },
   "ocd-division/country:us/state:tx/county:hidalgo/school_district:mcallen_isd": {
    "name": "mcallen isd"
   },
-  "ocd-division/country:us/state:tx/district_court:82": {
-   "name": "TX State District Court - 82nd District"
+  "ocd-division/country:us/state:tx/county:delta/council_district:3": {
+   "name": "Delta County Commissioner Precinct 3",
+   "officeIndices": [
+    851
+   ]
+  },
+  "ocd-division/country:us/state:tx/county:ellis/council_district:1": {
+   "name": "Ellis County Commissioner Precinct 1",
+   "officeIndices": [
+    850
+   ]
+  },
+  "ocd-division/country:us/state:tx/district_court:83": {
+   "name": "TX State District Court - 83rd District"
   },
   "ocd-division/country:us/state:tx/county:delta/council_district:4": {
    "name": "Delta County Commissioner Precinct 4",
@@ -5439,14 +5436,17 @@
     852
    ]
   },
-  "ocd-division/country:us/state:tx/place:eagle_pass": {
-   "name": "Eagle Pass city"
+  "ocd-division/country:us/state:tx/district_court:82": {
+   "name": "TX State District Court - 82nd District"
   },
   "ocd-division/country:us/state:tx/sldl:57": {
    "name": "Texas State House district 57",
    "officeIndices": [
     72
    ]
+  },
+  "ocd-division/country:us/state:tx/place:eagle_pass": {
+   "name": "Eagle Pass city"
   },
   "ocd-division/country:us/state:tx/county:wise": {
    "name": "Wise County",
@@ -5506,23 +5506,23 @@
     79
    ]
   },
-  "ocd-division/country:us/state:tx/county:chambers/school_district:anahuac_isd": {
-   "name": "anahuac isd"
-  },
   "ocd-division/country:us/state:tx/sldl:64": {
    "name": "Texas State House district 64",
    "officeIndices": [
     80
    ]
   },
-  "ocd-division/country:us/state:tx/county:dallas/school_district:richland_collegiate_hs_of_math_science_engineering": {
-   "name": "richland collegiate hs of math science engineering"
+  "ocd-division/country:us/state:tx/county:chambers/school_district:anahuac_isd": {
+   "name": "anahuac isd"
   },
   "ocd-division/country:us/state:tx/sldl:65": {
    "name": "Texas State House district 65",
    "officeIndices": [
     81
    ]
+  },
+  "ocd-division/country:us/state:tx/county:dallas/school_district:richland_collegiate_hs_of_math_science_engineering": {
+   "name": "richland collegiate hs of math science engineering"
   },
   "ocd-division/country:us/state:tx/sldl:66": {
    "name": "Texas State House district 66",
@@ -5542,14 +5542,14 @@
     858
    ]
   },
-  "ocd-division/country:us/state:tx/district_court:90": {
-   "name": "TX State District Court - 90th District"
-  },
   "ocd-division/country:us/state:tx/county:comanche/council_district:3": {
    "name": "Comanche County Commissioner Precinct 3",
    "officeIndices": [
     859
    ]
+  },
+  "ocd-division/country:us/state:tx/district_court:90": {
+   "name": "TX State District Court - 90th District"
   },
   "ocd-division/country:us/state:tx/county:comanche/council_district:2": {
    "name": "Comanche County Commissioner Precinct 2",
@@ -5557,14 +5557,14 @@
     860
    ]
   },
+  "ocd-division/country:us/state:tx/county:carson/school_district:white_deer_isd": {
+   "name": "white deer isd"
+  },
   "ocd-division/country:us/state:tx/county:comanche/council_district:1": {
    "name": "Comanche County Commissioner Precinct 1",
    "officeIndices": [
     861
    ]
-  },
-  "ocd-division/country:us/state:tx/county:carson/school_district:white_deer_isd": {
-   "name": "white deer isd"
   },
   "ocd-division/country:us/state:tx/place:wellington": {
    "name": "Wellington city"
@@ -5590,14 +5590,14 @@
     85
    ]
   },
-  "ocd-division/country:us/state:tx/county:burleson/school_district:caldwell_isd": {
-   "name": "caldwell isd"
-  },
   "ocd-division/country:us/state:tx/sldl:46": {
    "name": "Texas State House district 46",
    "officeIndices": [
     86
    ]
+  },
+  "ocd-division/country:us/state:tx/county:burleson/school_district:caldwell_isd": {
+   "name": "caldwell isd"
   },
   "ocd-division/country:us/state:tx/sldl:45": {
    "name": "Texas State House district 45",
@@ -5611,17 +5611,17 @@
     88
    ]
   },
-  "ocd-division/country:us/state:tx/county:young/school_district:graham_isd": {
-   "name": "graham isd"
-  },
-  "ocd-division/country:us/state:tx/county:angelina/school_district:central_isd": {
-   "name": "central isd"
-  },
   "ocd-division/country:us/state:tx/sldl:55": {
    "name": "Texas State House district 55",
    "officeIndices": [
     89
    ]
+  },
+  "ocd-division/country:us/state:tx/county:angelina/school_district:central_isd": {
+   "name": "central isd"
+  },
+  "ocd-division/country:us/state:tx/county:young/school_district:graham_isd": {
+   "name": "graham isd"
   },
   "ocd-division/country:us/state:tx/sldl:52": {
    "name": "Texas State House district 52",
@@ -5629,17 +5629,17 @@
     90
    ]
   },
-  "ocd-division/country:us/state:tx/county:gaines/school_district:loop_isd": {
-   "name": "loop isd"
-  },
-  "ocd-division/country:us/state:tx/county:harris/school_district:george_i_sanchez_charter": {
-   "name": "george i sanchez charter"
-  },
   "ocd-division/country:us/state:tx/sldl:53": {
    "name": "Texas State House district 53",
    "officeIndices": [
     91
    ]
+  },
+  "ocd-division/country:us/state:tx/county:harris/school_district:george_i_sanchez_charter": {
+   "name": "george i sanchez charter"
+  },
+  "ocd-division/country:us/state:tx/county:gaines/school_district:loop_isd": {
+   "name": "loop isd"
   },
   "ocd-division/country:us/state:tx/sldl:50": {
    "name": "Texas State House district 50",
@@ -5663,24 +5663,24 @@
     866
    ]
   },
-  "ocd-division/country:us/state:tx/county:llano": {
-   "name": "Llano County",
-   "officeIndices": [
-    868,
-    869,
-    870,
-    871,
-    872
-   ]
+  "ocd-division/country:us/state:tx/place:roman_forest": {
+   "name": "Roman Forest town"
   },
   "ocd-division/country:us/state:tx/county:limestone/council_district:1": {
    "name": "Limestone County Commissioner Precinct 1",
    "officeIndices": [
-    867
+    872
    ]
   },
-  "ocd-division/country:us/state:tx/place:roman_forest": {
-   "name": "Roman Forest town"
+  "ocd-division/country:us/state:tx/county:llano": {
+   "name": "Llano County",
+   "officeIndices": [
+    867,
+    868,
+    869,
+    870,
+    871
+   ]
   },
   "ocd-division/country:us/state:tx/county:limestone/council_district:2": {
    "name": "Limestone County Commissioner Precinct 2",
@@ -5757,14 +5757,14 @@
     101
    ]
   },
-  "ocd-division/country:us/state:tx/county:dallas/school_district:houston_can_academy_charter_school": {
-   "name": "houston can academy charter school"
-  },
   "ocd-division/country:us/state:tx/sldl:43": {
    "name": "Texas State House district 43",
    "officeIndices": [
     102
    ]
+  },
+  "ocd-division/country:us/state:tx/county:dallas/school_district:houston_can_academy_charter_school": {
+   "name": "houston can academy charter school"
   },
   "ocd-division/country:us/state:tx/sldl:44": {
    "name": "Texas State House district 44",
@@ -5822,11 +5822,11 @@
   "ocd-division/country:us/state:tx/county:harris/school_district:texas_serenity_academy": {
    "name": "texas serenity academy"
   },
-  "ocd-division/country:us/state:tx/county:falls/school_district:westphalia_isd": {
-   "name": "westphalia isd"
-  },
   "ocd-division/country:us/state:tx/place:pottsboro": {
    "name": "Pottsboro town"
+  },
+  "ocd-division/country:us/state:tx/county:falls/school_district:westphalia_isd": {
+   "name": "westphalia isd"
   },
   "ocd-division/country:us/state:tx/county:austin/council_district:4": {
    "name": "Austin County Commissioner Precinct 4",
@@ -5846,14 +5846,17 @@
   "ocd-division/country:us/state:tx/place:bridge_city": {
    "name": "Bridge City city"
   },
+  "ocd-division/country:us/state:tx/place:west_tawakoni": {
+   "name": "West Tawakoni city"
+  },
   "ocd-division/country:us/state:tx/county:austin/council_district:2": {
    "name": "Austin County Commissioner Precinct 2",
    "officeIndices": [
     888
    ]
   },
-  "ocd-division/country:us/state:tx/place:west_tawakoni": {
-   "name": "West Tawakoni city"
+  "ocd-division/country:us/state:tx/place:el_campo": {
+   "name": "El Campo city"
   },
   "ocd-division/country:us/state:tx/county:austin/council_district:1": {
    "name": "Austin County Commissioner Precinct 1",
@@ -5861,14 +5864,8 @@
     889
    ]
   },
-  "ocd-division/country:us/state:tx/place:el_campo": {
-   "name": "El Campo city"
-  },
   "ocd-division/country:us/state:tx/county:kendall/school_district:meadowland_charter_school": {
    "name": "meadowland charter school"
-  },
-  "ocd-division/country:us/state:tx/county:runnels/school_district:winters_isd": {
-   "name": "winters isd"
   },
   "ocd-division/country:us/state:tx/place:houston": {
    "name": "Houston city",
@@ -5882,23 +5879,26 @@
     896
    ]
   },
+  "ocd-division/country:us/state:tx/county:runnels/school_district:winters_isd": {
+   "name": "winters isd"
+  },
   "ocd-division/country:us/state:tx/place:buffalo_gap": {
    "name": "Buffalo Gap town"
-  },
-  "ocd-division/country:us/state:tx/county:wheeler/school_district:shamrock_isd": {
-   "name": "shamrock isd"
   },
   "ocd-division/country:us/state:tx/place:stockdale": {
    "name": "Stockdale city"
   },
+  "ocd-division/country:us/state:tx/county:wheeler/school_district:shamrock_isd": {
+   "name": "shamrock isd"
+  },
   "ocd-division/country:us/state:tx/place:white_settlement": {
    "name": "White Settlement city"
   },
-  "ocd-division/country:us/state:tx/county:travis/school_district:manor_isd": {
-   "name": "manor isd"
-  },
   "ocd-division/country:us/state:tx/place:colorado_city": {
    "name": "Colorado City city"
+  },
+  "ocd-division/country:us/state:tx/county:travis/school_district:manor_isd": {
+   "name": "manor isd"
   },
   "ocd-division/country:us/state:tx/county:kent/council_district:1": {
    "name": "Kent County Commissioner Precinct 1",
@@ -5946,14 +5946,14 @@
   "ocd-division/country:us/state:tx/place:rice": {
    "name": "Rice city"
   },
-  "ocd-division/country:us/state:tx/district_court:290": {
-   "name": "TX State District Court - 290th District"
+  "ocd-division/country:us/state:tx/place:blanket": {
+   "name": "Blanket town"
   },
   "ocd-division/country:us/state:tx/county:palo_pinto/school_district:graford_isd": {
    "name": "graford isd"
   },
-  "ocd-division/country:us/state:tx/place:blanket": {
-   "name": "Blanket town"
+  "ocd-division/country:us/state:tx/district_court:290": {
+   "name": "TX State District Court - 290th District"
   },
   "ocd-division/country:us/state:tx/district_court:292": {
    "name": "TX State District Court - 292nd District"
@@ -5967,35 +5967,32 @@
   "ocd-division/country:us/state:tx/district_court:293": {
    "name": "TX State District Court - 293rd District"
   },
-  "ocd-division/country:us/state:tx/district_court:296": {
-   "name": "TX State District Court - 296th District"
-  },
   "ocd-division/country:us/state:tx/county:hill/school_district:hubbard_isd": {
    "name": "hubbard isd"
   },
-  "ocd-division/country:us/state:tx/district_court:295": {
-   "name": "TX State District Court - 295th District"
+  "ocd-division/country:us/state:tx/district_court:296": {
+   "name": "TX State District Court - 296th District"
   },
   "ocd-division/country:us/state:tx/county:dallas/school_district:garland_isd": {
    "name": "garland isd"
   },
+  "ocd-division/country:us/state:tx/district_court:295": {
+   "name": "TX State District Court - 295th District"
+  },
   "ocd-division/country:us/state:tx/district_court:298": {
    "name": "TX State District Court - 298th District"
-  },
-  "ocd-division/country:us/state:tx/district_court:297": {
-   "name": "TX State District Court - 297th District"
-  },
-  "ocd-division/country:us/state:tx/place:morgan": {
-   "name": "Morgan city"
   },
   "ocd-division/country:us/state:tx/place:rockdale": {
    "name": "Rockdale city"
   },
+  "ocd-division/country:us/state:tx/place:morgan": {
+   "name": "Morgan city"
+  },
+  "ocd-division/country:us/state:tx/district_court:297": {
+   "name": "TX State District Court - 297th District"
+  },
   "ocd-division/country:us/state:tx/district_court:299": {
    "name": "TX State District Court - 299th District"
-  },
-  "ocd-division/country:us/state:tx/county:clay/school_district:byers_isd": {
-   "name": "byers isd"
   },
   "ocd-division/country:us/state:tx/county:archer": {
    "name": "Archer County",
@@ -6007,8 +6004,14 @@
     910
    ]
   },
+  "ocd-division/country:us/state:tx/county:clay/school_district:byers_isd": {
+   "name": "byers isd"
+  },
   "ocd-division/country:us/state:tx/county:borden/school_district:borden_county_isd": {
    "name": "borden county isd"
+  },
+  "ocd-division/country:us/state:tx/county:navarro/school_district:rice_isd": {
+   "name": "rice isd"
   },
   "ocd-division/country:us/state:tx/county:throckmorton": {
    "name": "Throckmorton County",
@@ -6018,9 +6021,6 @@
     913,
     914
    ]
-  },
-  "ocd-division/country:us/state:tx/county:navarro/school_district:rice_isd": {
-   "name": "rice isd"
   },
   "ocd-division/country:us/state:tx/county:zapata": {
    "name": "Zapata County",
@@ -6038,14 +6038,14 @@
   "ocd-division/country:us/state:tx/county:bell/school_district:temple_education_center": {
    "name": "temple education center"
   },
-  "ocd-division/country:us/state:tx/county:victoria/school_district:outreach_academy": {
-   "name": "outreach academy"
-  },
   "ocd-division/country:us/state:tx/county:throckmorton/council_district:3": {
    "name": "Throckmorton County Commissioner Precinct 3",
    "officeIndices": [
     920
    ]
+  },
+  "ocd-division/country:us/state:tx/county:victoria/school_district:outreach_academy": {
+   "name": "outreach academy"
   },
   "ocd-division/country:us/state:tx/county:throckmorton/council_district:4": {
    "name": "Throckmorton County Commissioner Precinct 4",
@@ -6081,6 +6081,9 @@
     928
    ]
   },
+  "ocd-division/country:us/state:tx/county:hunt/school_district:caddo_mills_isd": {
+   "name": "caddo mills isd"
+  },
   "ocd-division/country:us/state:tx/county:reagan": {
    "name": "Reagan County",
    "officeIndices": [
@@ -6091,29 +6094,26 @@
     933
    ]
   },
-  "ocd-division/country:us/state:tx/county:hunt/school_district:caddo_mills_isd": {
-   "name": "caddo mills isd"
+  "ocd-division/country:us/state:tx/county:brewster/school_district:san_vicente_isd": {
+   "name": "san vicente isd"
   },
   "ocd-division/country:us/state:tx/district_court:277": {
    "name": "TX State District Court - 277th District"
   },
-  "ocd-division/country:us/state:tx/county:brewster/school_district:san_vicente_isd": {
-   "name": "san vicente isd"
+  "ocd-division/country:us/state:tx/place:lavon": {
+   "name": "Lavon city"
   },
   "ocd-division/country:us/state:tx/district_court:278": {
    "name": "TX State District Court - 278th District"
   },
-  "ocd-division/country:us/state:tx/place:lavon": {
-   "name": "Lavon city"
-  },
   "ocd-division/country:us/state:tx/district_court:279": {
    "name": "TX State District Court - 279th District"
   },
-  "ocd-division/country:us/state:tx/district_court:273": {
-   "name": "TX State District Court - 273rd District"
+  "ocd-division/country:us/state:tx/place:pilot_point": {
+   "name": "Pilot Point city"
   },
-  "ocd-division/country:us/state:tx/county:madison": {
-   "name": "Madison County",
+  "ocd-division/country:us/state:tx/county:bowie": {
+   "name": "Bowie County",
    "officeIndices": [
     939,
     940,
@@ -6122,11 +6122,8 @@
     943
    ]
   },
-  "ocd-division/country:us/state:tx/place:pilot_point": {
-   "name": "Pilot Point city"
-  },
-  "ocd-division/country:us/state:tx/county:bowie": {
-   "name": "Bowie County",
+  "ocd-division/country:us/state:tx/county:madison": {
+   "name": "Madison County",
    "officeIndices": [
     934,
     935,
@@ -6135,11 +6132,14 @@
     938
    ]
   },
-  "ocd-division/country:us/state:tx/district_court:274": {
-   "name": "TX State District Court - 274th District"
+  "ocd-division/country:us/state:tx/district_court:273": {
+   "name": "TX State District Court - 273rd District"
   },
   "ocd-division/country:us/state:tx/county:harris/school_district:excel_academy": {
    "name": "excel academy"
+  },
+  "ocd-division/country:us/state:tx/district_court:274": {
+   "name": "TX State District Court - 274th District"
   },
   "ocd-division/country:us/state:tx/district_court:275": {
    "name": "TX State District Court - 275th District"
@@ -6150,17 +6150,17 @@
   "ocd-division/country:us/state:tx/district_court:270": {
    "name": "TX State District Court - 270th District"
   },
-  "ocd-division/country:us/state:tx/district_court:271": {
-   "name": "TX State District Court - 271st District"
-  },
   "ocd-division/country:us/state:tx/county:hays/school_district:hays_cisd": {
    "name": "hays cisd"
   },
-  "ocd-division/country:us/state:tx/district_court:272": {
-   "name": "TX State District Court - 272nd District"
+  "ocd-division/country:us/state:tx/district_court:271": {
+   "name": "TX State District Court - 271st District"
   },
   "ocd-division/country:us/state:tx/county:hidalgo/school_district:edcouch-elsa_isd": {
    "name": "edcouch-elsa isd"
+  },
+  "ocd-division/country:us/state:tx/district_court:272": {
+   "name": "TX State District Court - 272nd District"
   },
   "ocd-division/country:us/state:tx/county:potter/school_district:amarillo_isd": {
    "name": "amarillo isd"
@@ -6171,11 +6171,11 @@
   "ocd-division/country:us/state:tx/place:northlake": {
    "name": "Northlake town"
   },
-  "ocd-division/country:us/state:tx/county:dallas/school_district:focus_learning_academy": {
-   "name": "focus learning academy"
-  },
   "ocd-division/country:us/state:tx/county:hartley/school_district:hartley_isd": {
    "name": "hartley isd"
+  },
+  "ocd-division/country:us/state:tx/county:dallas/school_district:focus_learning_academy": {
+   "name": "focus learning academy"
   },
   "ocd-division/country:us/state:tx/place:wharton": {
    "name": "Wharton city"
@@ -6195,26 +6195,26 @@
   "ocd-division/country:us/state:tx/district_court:284": {
    "name": "TX State District Court - 284th District"
   },
-  "ocd-division/country:us/state:tx/district_court:285": {
-   "name": "TX State District Court - 285th District"
-  },
   "ocd-division/country:us/state:tx/place:santa_rosa": {
    "name": "Santa Rosa town"
   },
-  "ocd-division/country:us/state:tx/district_court:282": {
-   "name": "TX State District Court - 282nd District"
+  "ocd-division/country:us/state:tx/district_court:285": {
+   "name": "TX State District Court - 285th District"
   },
   "ocd-division/country:us/state:tx/place:el_cenizo": {
    "name": "El Cenizo city"
   },
+  "ocd-division/country:us/state:tx/district_court:282": {
+   "name": "TX State District Court - 282nd District"
+  },
   "ocd-division/country:us/state:tx/district_court:283": {
    "name": "TX State District Court - 283rd District"
   },
-  "ocd-division/country:us/state:tx/place:anahuac": {
-   "name": "Anahuac city"
-  },
   "ocd-division/country:us/state:tx/district_court:280": {
    "name": "TX State District Court - 280th District"
+  },
+  "ocd-division/country:us/state:tx/place:anahuac": {
+   "name": "Anahuac city"
   },
   "ocd-division/country:us/state:tx/district_court:281": {
    "name": "TX State District Court - 281st District"
@@ -6231,44 +6231,44 @@
   "ocd-division/country:us/state:tx/place:elkhart": {
    "name": "Elkhart town"
   },
-  "ocd-division/country:us/state:tx/county:cooke/school_district:era_isd": {
-   "name": "era isd"
-  },
   "ocd-division/country:us/state:tx/county:chambers/school_district:barbers_hill_isd": {
    "name": "barbers hill isd"
+  },
+  "ocd-division/country:us/state:tx/county:cooke/school_district:era_isd": {
+   "name": "era isd"
   },
   "ocd-division/country:us/state:tx/county:wood/school_district:winnsboro_isd": {
    "name": "winnsboro isd"
   },
-  "ocd-division/country:us/state:tx/county:willacy/school_district:san_perlita_isd": {
-   "name": "san perlita isd"
-  },
   "ocd-division/country:us/state:tx/place:todd_mission": {
    "name": "Todd Mission city"
+  },
+  "ocd-division/country:us/state:tx/county:willacy/school_district:san_perlita_isd": {
+   "name": "san perlita isd"
   },
   "ocd-division/country:us/state:tx/county:morris/school_district:pewitt_cisd": {
    "name": "pewitt cisd"
   },
-  "ocd-division/country:us/state:tx/district_court:251": {
-   "name": "TX State District Court - 251st District"
-  },
   "ocd-division/country:us/state:tx/county:runnels/school_district:miles_isd": {
    "name": "miles isd"
   },
-  "ocd-division/country:us/state:tx/district_court:252": {
-   "name": "TX State District Court - 252nd District"
+  "ocd-division/country:us/state:tx/district_court:251": {
+   "name": "TX State District Court - 251st District"
   },
   "ocd-division/country:us/state:tx/county:mclennan/school_district:lorena_isd": {
    "name": "lorena isd"
   },
+  "ocd-division/country:us/state:tx/district_court:252": {
+   "name": "TX State District Court - 252nd District"
+  },
   "ocd-division/country:us/state:tx/district_court:253": {
    "name": "TX State District Court - 253rd District"
   },
-  "ocd-division/country:us/state:tx/district_court:254": {
-   "name": "TX State District Court - 254th District"
-  },
   "ocd-division/country:us/state:tx/place:texarkana": {
    "name": "Texarkana city"
+  },
+  "ocd-division/country:us/state:tx/district_court:254": {
+   "name": "TX State District Court - 254th District"
   },
   "ocd-division/country:us/state:tx/district_court:255": {
    "name": "TX State District Court - 255th District"
@@ -6276,11 +6276,11 @@
   "ocd-division/country:us/state:tx/district_court:256": {
    "name": "TX State District Court - 256th District"
   },
-  "ocd-division/country:us/state:tx/district_court:257": {
-   "name": "TX State District Court - 257th District"
-  },
   "ocd-division/country:us/state:tx/place:lefors": {
    "name": "Lefors town"
+  },
+  "ocd-division/country:us/state:tx/district_court:257": {
+   "name": "TX State District Court - 257th District"
   },
   "ocd-division/country:us/state:tx/district_court:258": {
    "name": "TX State District Court - 258th District"
@@ -6306,8 +6306,8 @@
     945
    ]
   },
-  "ocd-division/country:us/state:tx/county:limestone/school_district:mexia_isd": {
-   "name": "mexia isd"
+  "ocd-division/country:us/state:tx/place:dickens": {
+   "name": "Dickens city"
   },
   "ocd-division/country:us/state:tx/county:ector/council_district:3": {
    "name": "Ector County Commissioner Precinct 3",
@@ -6315,8 +6315,8 @@
     946
    ]
   },
-  "ocd-division/country:us/state:tx/place:dickens": {
-   "name": "Dickens city"
+  "ocd-division/country:us/state:tx/county:limestone/school_district:mexia_isd": {
+   "name": "mexia isd"
   },
   "ocd-division/country:us/state:tx/county:ector/council_district:2": {
    "name": "Ector County Commissioner Precinct 2",
@@ -6342,6 +6342,9 @@
   "ocd-division/country:us/state:tx/district_court:259": {
    "name": "TX State District Court - 259th District"
   },
+  "ocd-division/country:us/state:tx/place:weimar": {
+   "name": "Weimar city"
+  },
   "ocd-division/country:us/state:tx/county:mason": {
    "name": "Mason County",
    "officeIndices": [
@@ -6351,14 +6354,8 @@
     955
    ]
   },
-  "ocd-division/country:us/state:tx/place:weimar": {
-   "name": "Weimar city"
-  },
   "ocd-division/country:us/state:tx/county:hidalgo/school_district:one_stop_multiservice_charter_school": {
    "name": "one stop multiservice charter school"
-  },
-  "ocd-division/country:us/state:tx/district_court:264": {
-   "name": "TX State District Court - 264th District"
   },
   "ocd-division/country:us/state:tx/county:parker/council_district:1": {
    "name": "Parker County Commissioner Precinct 1",
@@ -6366,17 +6363,20 @@
     956
    ]
   },
+  "ocd-division/country:us/state:tx/district_court:264": {
+   "name": "TX State District Court - 264th District"
+  },
   "ocd-division/country:us/state:tx/district_court:265": {
    "name": "TX State District Court - 265th District"
-  },
-  "ocd-division/country:us/state:tx/district_court:262": {
-   "name": "TX State District Court - 262nd District"
   },
   "ocd-division/country:us/state:tx/county:parker/council_district:3": {
    "name": "Parker County Commissioner Precinct 3",
    "officeIndices": [
     957
    ]
+  },
+  "ocd-division/country:us/state:tx/district_court:262": {
+   "name": "TX State District Court - 262nd District"
   },
   "ocd-division/country:us/state:tx/county:parker/council_district:2": {
    "name": "Parker County Commissioner Precinct 2",
@@ -6989,11 +6989,11 @@
   "ocd-division/country:us/state:tx/county:starr/school_district:rio_grande_city_cisd": {
    "name": "rio grande city cisd"
   },
-  "ocd-division/country:us/state:tx/place:el_lago": {
-   "name": "El Lago city"
-  },
   "ocd-division/country:us/state:tx/place:hebron": {
    "name": "Hebron town"
+  },
+  "ocd-division/country:us/state:tx/place:el_lago": {
+   "name": "El Lago city"
   },
   "ocd-division/country:us/state:tx/county:goliad": {
    "name": "Goliad County",
@@ -7387,11 +7387,11 @@
   "ocd-division/country:us/state:tx/county:nueces/school_district:tuloso-midway_isd": {
    "name": "tuloso-midway isd"
   },
-  "ocd-division/country:us/state:tx/place:georgetown": {
-   "name": "Georgetown city"
-  },
   "ocd-division/country:us/state:tx/place:shoreacres": {
    "name": "Shoreacres city"
+  },
+  "ocd-division/country:us/state:tx/place:georgetown": {
+   "name": "Georgetown city"
   },
   "ocd-division/country:us/state:tx/county:collingsworth/council_district:4": {
    "name": "Collingsworth County Commissioner Precinct 4",
@@ -7528,6 +7528,9 @@
   "ocd-division/country:us/state:tx/place:cushing": {
    "name": "Cushing city"
   },
+  "ocd-division/country:us/state:tx/county:leon/school_district:oakwood_isd": {
+   "name": "oakwood isd"
+  },
   "ocd-division/country:us/state:tx/county:ector": {
    "name": "Ector County",
    "officeIndices": [
@@ -7537,9 +7540,6 @@
     1108,
     1109
    ]
-  },
-  "ocd-division/country:us/state:tx/county:leon/school_district:oakwood_isd": {
-   "name": "oakwood isd"
   },
   "ocd-division/country:us/state:tx/place:chillicothe": {
    "name": "Chillicothe city"
@@ -7634,6 +7634,9 @@
   "ocd-division/country:us/state:tx/place:rockport": {
    "name": "Rockport city"
   },
+  "ocd-division/country:us/state:tx/place:winona": {
+   "name": "Winona town"
+  },
   "ocd-division/country:us/state:tx/county:parker": {
    "name": "Parker County",
    "officeIndices": [
@@ -7643,9 +7646,6 @@
     1123,
     1124
    ]
-  },
-  "ocd-division/country:us/state:tx/place:winona": {
-   "name": "Winona town"
   },
   "ocd-division/country:us/state:tx/place:canton": {
    "name": "Canton city"
@@ -8139,14 +8139,14 @@
   "ocd-division/country:us/state:tx/place:midland/council_district:3": {
    "name": "Midland TX city council district 3"
   },
+  "ocd-division/country:us/state:tx/place:midland/council_district:4": {
+   "name": "Midland TX city council district 4"
+  },
   "ocd-division/country:us/state:tx/county:harris/council_district:4": {
    "name": "Harris County TX Commission Precinct 4",
    "officeIndices": [
     1179
    ]
-  },
-  "ocd-division/country:us/state:tx/place:midland/council_district:4": {
-   "name": "Midland TX city council district 4"
   },
   "ocd-division/country:us/state:tx/county:denton/school_district:northwest_isd": {
    "name": "northwest isd"
@@ -9659,16 +9659,16 @@
   "ocd-division/country:us/state:tx/district_court:330": {
    "name": "TX State District Court - 330th District"
   },
-  "ocd-division/country:us/state:tx/place:dallas/council_district:9": {
-   "name": "Dallas TX city council district 9",
-   "officeIndices": [
-    1294
-   ]
-  },
   "ocd-division/country:us/state:tx/sldl:114": {
    "name": "Texas State House district 114",
    "officeIndices": [
     172
+   ]
+  },
+  "ocd-division/country:us/state:tx/place:dallas/council_district:9": {
+   "name": "Dallas TX city council district 9",
+   "officeIndices": [
+    1294
    ]
   },
   "ocd-division/country:us/state:tx/sldl:113": {
@@ -9680,16 +9680,16 @@
   "ocd-division/country:us/state:tx/place:lawn": {
    "name": "Lawn town"
   },
-  "ocd-division/country:us/state:tx/place:dallas/council_district:3": {
-   "name": "Dallas TX city council district 3",
-   "officeIndices": [
-    1295
-   ]
-  },
   "ocd-division/country:us/state:tx/sldl:112": {
    "name": "Texas State House district 112",
    "officeIndices": [
     174
+   ]
+  },
+  "ocd-division/country:us/state:tx/place:dallas/council_district:3": {
+   "name": "Dallas TX city council district 3",
+   "officeIndices": [
+    1295
    ]
   },
   "ocd-division/country:us/state:tx/district_court:335": {
@@ -10580,14 +10580,14 @@
     226
    ]
   },
+  "ocd-division/country:us/state:tx/place:new_boston": {
+   "name": "New Boston city"
+  },
   "ocd-division/country:us/state:tx/place:austin/council_district:5": {
    "name": "Austin TX city council district 5 (effective Jan 2015)",
    "officeIndices": [
     227
    ]
-  },
-  "ocd-division/country:us/state:tx/place:new_boston": {
-   "name": "New Boston city"
   },
   "ocd-division/country:us/state:tx/place:austin/council_district:2": {
    "name": "Austin TX city council district 2 (effective Jan 2015)",
@@ -10759,14 +10759,14 @@
     1411
    ]
   },
+  "ocd-division/country:us/state:tx/place:loraine": {
+   "name": "Loraine town"
+  },
   "ocd-division/country:us/state:tx/place:austin/council_district:6": {
    "name": "Austin TX city council district 6 (effective Jan 2015)",
    "officeIndices": [
     234
    ]
-  },
-  "ocd-division/country:us/state:tx/place:loraine": {
-   "name": "Loraine town"
   },
   "ocd-division/country:us/state:tx/place:nocona": {
    "name": "Nocona city"
@@ -11937,6 +11937,9 @@
   "ocd-division/country:us/state:tx/place:lyford": {
    "name": "Lyford city"
   },
+  "ocd-division/country:us/state:tx/county:harris/school_district:comquest_academy": {
+   "name": "comquest academy"
+  },
   "ocd-division/country:us/state:tx/county:wharton": {
    "name": "Wharton County",
    "officeIndices": [
@@ -11946,9 +11949,6 @@
     1549,
     1550
    ]
-  },
-  "ocd-division/country:us/state:tx/county:harris/school_district:comquest_academy": {
-   "name": "comquest academy"
   },
   "ocd-division/country:us/state:tx/place:rotan": {
    "name": "Rotan city"
@@ -12074,14 +12074,14 @@
     1565
    ]
   },
+  "ocd-division/country:us/state:tx/place:pharr": {
+   "name": "Pharr city"
+  },
   "ocd-division/country:us/state:tx/county:brown/council_district:1": {
    "name": "Brown County Commissioner Precinct 1",
    "officeIndices": [
     1566
    ]
-  },
-  "ocd-division/country:us/state:tx/place:pharr": {
-   "name": "Pharr city"
   },
   "ocd-division/country:us/state:tx/county:fort_bend/school_district:fort_bend_isd": {
    "name": "fort bend isd"
@@ -12134,14 +12134,14 @@
     1571
    ]
   },
+  "ocd-division/country:us/state:tx/place:stinnett": {
+   "name": "Stinnett city"
+  },
   "ocd-division/country:us/state:tx/county:orange/council_district:4": {
    "name": "Orange County Commissioner Precinct 4",
    "officeIndices": [
     1572
    ]
-  },
-  "ocd-division/country:us/state:tx/place:stinnett": {
-   "name": "Stinnett city"
   },
   "ocd-division/country:us/state:tx/place:little_elm": {
    "name": "Little Elm city"
@@ -12297,11 +12297,11 @@
   "ocd-division/country:us/state:tx/county:hopkins/school_district:miller_grove_isd": {
    "name": "miller grove isd"
   },
-  "ocd-division/country:us/state:tx/place:abilene": {
-   "name": "Abilene city"
-  },
   "ocd-division/country:us/state:tx/county:tom_green/school_district:san_angelo_isd": {
    "name": "san angelo isd"
+  },
+  "ocd-division/country:us/state:tx/place:abilene": {
+   "name": "Abilene city"
   },
   "ocd-division/country:us/state:tx/county:hudspeth/school_district:sierra_blanca_isd": {
    "name": "sierra blanca isd"
@@ -12339,11 +12339,11 @@
   "ocd-division/country:us/state:tx/county:dallas/school_district:dallas_can_academy_charter": {
    "name": "dallas can academy charter"
   },
-  "ocd-division/country:us/state:tx/county:smith/school_district:lindale_isd": {
-   "name": "lindale isd"
-  },
   "ocd-division/country:us/state:tx/place:edna": {
    "name": "Edna city"
+  },
+  "ocd-division/country:us/state:tx/county:smith/school_district:lindale_isd": {
+   "name": "lindale isd"
   },
   "ocd-division/country:us/state:tx/place:spring_valley_village": {
    "name": "Spring Valley Village city",
@@ -12366,11 +12366,11 @@
   "ocd-division/country:us/state:tx/place:crowley": {
    "name": "Crowley city"
   },
-  "ocd-division/country:us/state:tx/county:wilbarger/school_district:vernon_isd": {
-   "name": "vernon isd"
-  },
   "ocd-division/country:us/state:tx/county:montague/school_district:saint_jo_isd": {
    "name": "saint jo isd"
+  },
+  "ocd-division/country:us/state:tx/county:wilbarger/school_district:vernon_isd": {
+   "name": "vernon isd"
   },
   "ocd-division/country:us/state:tx/place:jacksonville": {
    "name": "Jacksonville city"
@@ -12448,11 +12448,11 @@
   "ocd-division/country:us/state:tx/place:anthony": {
    "name": "Anthony town"
   },
-  "ocd-division/country:us/state:tx/place:coldspring": {
-   "name": "Coldspring city"
-  },
   "ocd-division/country:us/state:tx/place:toyah": {
    "name": "Toyah town"
+  },
+  "ocd-division/country:us/state:tx/place:coldspring": {
+   "name": "Coldspring city"
   },
   "ocd-division/country:us/state:tx/place:gallatin": {
    "name": "Gallatin city"
@@ -12463,11 +12463,11 @@
   "ocd-division/country:us/state:tx/place:burleson": {
    "name": "Burleson city"
   },
-  "ocd-division/country:us/state:tx/place:oak_leaf": {
-   "name": "Oak Leaf city"
-  },
   "ocd-division/country:us/state:tx/place:uncertain": {
    "name": "Uncertain city"
+  },
+  "ocd-division/country:us/state:tx/place:oak_leaf": {
+   "name": "Oak Leaf city"
   },
   "ocd-division/country:us/state:tx/county:morris/school_district:daingerfield-lone_star_isd": {
    "name": "daingerfield-lone star isd"
@@ -12475,20 +12475,20 @@
   "ocd-division/country:us/state:tx/place:west_orange": {
    "name": "West Orange city"
   },
-  "ocd-division/country:us/state:tx/county:williamson/school_district:jarrell_isd": {
-   "name": "jarrell isd"
+  "ocd-division/country:us/state:tx/place:southlake": {
+   "name": "Southlake city"
   },
   "ocd-division/country:us/state:tx/place:aurora": {
    "name": "Aurora city"
   },
-  "ocd-division/country:us/state:tx/place:southlake": {
-   "name": "Southlake city"
-  },
-  "ocd-division/country:us/state:tx/place:cross_roads": {
-   "name": "Cross Roads town"
+  "ocd-division/country:us/state:tx/county:williamson/school_district:jarrell_isd": {
+   "name": "jarrell isd"
   },
   "ocd-division/country:us/state:tx/place:roaring_springs": {
    "name": "Roaring Springs town"
+  },
+  "ocd-division/country:us/state:tx/place:cross_roads": {
+   "name": "Cross Roads town"
   },
   "ocd-division/country:us/state:tx/county:mclennan/school_district:waco_charter_school": {
    "name": "waco charter school"
@@ -12509,11 +12509,11 @@
   "ocd-division/country:us/state:tx/county:nacogdoches/school_district:chireno_isd": {
    "name": "chireno isd"
   },
-  "ocd-division/country:us/state:tx/county:hale/school_district:abernathy_isd": {
-   "name": "abernathy isd"
-  },
   "ocd-division/country:us/state:tx/place:wortham": {
    "name": "Wortham town"
+  },
+  "ocd-division/country:us/state:tx/county:hale/school_district:abernathy_isd": {
+   "name": "abernathy isd"
   },
   "ocd-division/country:us/state:tx/place:santa_clara": {
    "name": "Santa Clara city"
@@ -12585,11 +12585,11 @@
   "ocd-division/country:us/state:tx/place:kennard": {
    "name": "Kennard city"
   },
-  "ocd-division/country:us/state:tx/county:hidalgo/school_district:weslaco_isd": {
-   "name": "weslaco isd"
-  },
   "ocd-division/country:us/state:tx/place:pineland": {
    "name": "Pineland city"
+  },
+  "ocd-division/country:us/state:tx/county:hidalgo/school_district:weslaco_isd": {
+   "name": "weslaco isd"
   },
   "ocd-division/country:us/state:tx/county:taylor/council_district:3": {
    "name": "Taylor County Commissioner Precinct 3",
@@ -12603,14 +12603,17 @@
     1611
    ]
   },
+  "ocd-division/country:us/state:tx/county:bosque/school_district:clifton_isd": {
+   "name": "clifton isd"
+  },
   "ocd-division/country:us/state:tx/county:taylor/council_district:1": {
    "name": "Taylor County Commissioner Precinct 1",
    "officeIndices": [
     1612
    ]
   },
-  "ocd-division/country:us/state:tx/county:bosque/school_district:clifton_isd": {
-   "name": "clifton isd"
+  "ocd-division/country:us/state:tx/place:lake_bridgeport": {
+   "name": "Lake Bridgeport city"
   },
   "ocd-division/country:us/state:tx/county:van_zandt": {
    "name": "Van Zandt County",
@@ -12621,9 +12624,6 @@
     1616,
     1617
    ]
-  },
-  "ocd-division/country:us/state:tx/place:lake_bridgeport": {
-   "name": "Lake Bridgeport city"
   },
   "ocd-division/country:us/state:tx/county:taylor/council_district:4": {
    "name": "Taylor County Commissioner Precinct 4",
@@ -12664,23 +12664,23 @@
     1620
    ]
   },
-  "ocd-division/country:us/state:tx/county:hunt/school_district:quinlan_isd": {
-   "name": "quinlan isd"
-  },
   "ocd-division/country:us/state:tx/county:jasper/council_district:2": {
    "name": "Jasper County Commissioner Precinct 2",
    "officeIndices": [
     1621
    ]
   },
-  "ocd-division/country:us/state:tx/county:scurry/council_district:4": {
-   "name": "Scurry County Commissioner Precinct 4",
+  "ocd-division/country:us/state:tx/county:hunt/school_district:quinlan_isd": {
+   "name": "quinlan isd"
+  },
+  "ocd-division/country:us/state:tx/county:jasper/council_district:1": {
+   "name": "Jasper County Commissioner Precinct 1",
    "officeIndices": [
     1622
    ]
   },
-  "ocd-division/country:us/state:tx/county:jasper/council_district:1": {
-   "name": "Jasper County Commissioner Precinct 1",
+  "ocd-division/country:us/state:tx/county:scurry/council_district:4": {
+   "name": "Scurry County Commissioner Precinct 4",
    "officeIndices": [
     1623
    ]
@@ -12722,11 +12722,11 @@
   "ocd-division/country:us/state:tx/county:robertson/school_district:bremond_isd": {
    "name": "bremond isd"
   },
-  "ocd-division/country:us/state:tx/county:bexar/school_district:brooks_academy_of_science_and_engineering": {
-   "name": "brooks academy of science and engineering"
-  },
   "ocd-division/country:us/state:tx/place:chico": {
    "name": "Chico city"
+  },
+  "ocd-division/country:us/state:tx/county:bexar/school_district:brooks_academy_of_science_and_engineering": {
+   "name": "brooks academy of science and engineering"
   },
   "ocd-division/country:us/state:tx/county:gregg/council_district:2": {
    "name": "Gregg County Commissioner Precinct 2",
@@ -12758,8 +12758,8 @@
     1635
    ]
   },
-  "ocd-division/country:us/state:tx/county:polk/school_district:big_sandy_isd": {
-   "name": "big sandy isd"
+  "ocd-division/country:us/state:tx/place:tira": {
+   "name": "Tira town"
   },
   "ocd-division/country:us/state:tx/county:la_salle": {
    "name": "La Salle County",
@@ -12771,8 +12771,8 @@
     1640
    ]
   },
-  "ocd-division/country:us/state:tx/place:tira": {
-   "name": "Tira town"
+  "ocd-division/country:us/state:tx/county:polk/school_district:big_sandy_isd": {
+   "name": "big sandy isd"
   },
   "ocd-division/country:us/state:tx/place:coffee_city": {
    "name": "Coffee City town"
@@ -12783,8 +12783,8 @@
     1641
    ]
   },
-  "ocd-division/country:us/state:tx/county:donley/school_district:clarendon_isd": {
-   "name": "clarendon isd"
+  "ocd-division/country:us/state:tx/place:lake_city": {
+   "name": "Lake City town"
   },
   "ocd-division/country:us/state:tx/county:bailey/council_district:2": {
    "name": "Bailey County Commissioner Precinct 2",
@@ -12792,23 +12792,26 @@
     1642
    ]
   },
-  "ocd-division/country:us/state:tx/place:lake_city": {
-   "name": "Lake City town"
+  "ocd-division/country:us/state:tx/county:donley/school_district:clarendon_isd": {
+   "name": "clarendon isd"
   },
-  "ocd-division/country:us/state:tx/county:webb/council_district:3": {
-   "name": "Webb County Commissioner Precinct 3",
-   "officeIndices": [
-    1643
-   ]
+  "ocd-division/country:us/state:tx/county:harris/school_district:zoe_learning_academy": {
+   "name": "zoe learning academy"
   },
   "ocd-division/country:us/state:tx/county:terrell/council_district:1": {
    "name": "Terrell County Commissioner Precinct 1",
    "officeIndices": [
+    1643
+   ]
+  },
+  "ocd-division/country:us/state:tx/county:webb/council_district:3": {
+   "name": "Webb County Commissioner Precinct 3",
+   "officeIndices": [
     1644
    ]
   },
-  "ocd-division/country:us/state:tx/county:harris/school_district:zoe_learning_academy": {
-   "name": "zoe learning academy"
+  "ocd-division/country:us/state:tx/place:daisetta": {
+   "name": "Daisetta city"
   },
   "ocd-division/country:us/state:tx/county:terrell/council_district:2": {
    "name": "Terrell County Commissioner Precinct 2",
@@ -12816,23 +12819,20 @@
     1645
    ]
   },
-  "ocd-division/country:us/state:tx/place:daisetta": {
-   "name": "Daisetta city"
-  },
   "ocd-division/country:us/state:tx/county:webb/council_district:4": {
    "name": "Webb County Commissioner Precinct 4",
    "officeIndices": [
     1646
    ]
   },
+  "ocd-division/country:us/state:tx/county:taylor/school_district:trent_isd": {
+   "name": "trent isd"
+  },
   "ocd-division/country:us/state:tx/county:terrell/council_district:3": {
    "name": "Terrell County Commissioner Precinct 3",
    "officeIndices": [
     1647
    ]
-  },
-  "ocd-division/country:us/state:tx/county:taylor/school_district:trent_isd": {
-   "name": "trent isd"
   },
   "ocd-division/country:us/state:tx/county:terrell/council_district:4": {
    "name": "Terrell County Commissioner Precinct 4",
@@ -12843,14 +12843,14 @@
   "ocd-division/country:us/state:tx/county:tarrant/school_district:carroll_isd": {
    "name": "carroll isd"
   },
-  "ocd-division/country:us/state:tx/county:briscoe/school_district:turkey-quitaque_isd": {
-   "name": "turkey-quitaque isd"
-  },
   "ocd-division/country:us/state:tx/county:gregg/council_district:3": {
    "name": "Gregg County Commissioner Precinct 3",
    "officeIndices": [
     1649
    ]
+  },
+  "ocd-division/country:us/state:tx/county:briscoe/school_district:turkey-quitaque_isd": {
+   "name": "turkey-quitaque isd"
   },
   "ocd-division/country:us/state:tx/county:gregg/council_district:4": {
    "name": "Gregg County Commissioner Precinct 4",
@@ -12889,6 +12889,9 @@
   "ocd-division/country:us/state:tx/place:cashion_community": {
    "name": "Cashion Community city"
   },
+  "ocd-division/country:us/state:tx/county:hays/school_district:texas_preparatory_school": {
+   "name": "texas preparatory school"
+  },
   "ocd-division/country:us/state:tx/county:brazoria": {
    "name": "Brazoria County",
    "officeIndices": [
@@ -12898,9 +12901,6 @@
     1661,
     1662
    ]
-  },
-  "ocd-division/country:us/state:tx/county:hays/school_district:texas_preparatory_school": {
-   "name": "texas preparatory school"
   },
   "ocd-division/country:us/state:tx/place:vernon": {
    "name": "Vernon city"
@@ -13404,6 +13404,9 @@
   "ocd-division/country:us/state:tx/place:splendora": {
    "name": "Splendora city"
   },
+  "ocd-division/country:us/state:tx/county:dewitt/school_district:nordheim_isd": {
+   "name": "nordheim isd"
+  },
   "ocd-division/country:us/state:tx/county:randall": {
    "name": "Randall County",
    "officeIndices": [
@@ -13413,9 +13416,6 @@
     1749,
     1750
    ]
-  },
-  "ocd-division/country:us/state:tx/county:dewitt/school_district:nordheim_isd": {
-   "name": "nordheim isd"
   },
   "ocd-division/country:us/state:tx/county:shackelford/school_district:albany_isd": {
    "name": "albany isd"
@@ -13598,6 +13598,12 @@
     1785
    ]
   },
+  "ocd-division/country:us/state:tx/place:progreso": {
+   "name": "Progreso city"
+  },
+  "ocd-division/country:us/state:tx/county:concho/school_district:eden_cisd": {
+   "name": "eden cisd"
+  },
   "ocd-division/country:us/state:tx/county:orange": {
    "name": "Orange County",
    "officeIndices": [
@@ -13607,12 +13613,6 @@
     1789,
     1790
    ]
-  },
-  "ocd-division/country:us/state:tx/place:progreso": {
-   "name": "Progreso city"
-  },
-  "ocd-division/country:us/state:tx/county:concho/school_district:eden_cisd": {
-   "name": "eden cisd"
   },
   "ocd-division/country:us/state:tx/place:premont": {
    "name": "Premont city"
@@ -13692,11 +13692,11 @@
   "ocd-division/country:us/state:tx/place:knollwood": {
    "name": "Knollwood city"
   },
-  "ocd-division/country:us/state:tx/place:denton": {
-   "name": "Denton city"
-  },
   "ocd-division/country:us/state:tx/place:easton": {
    "name": "Easton city"
+  },
+  "ocd-division/country:us/state:tx/place:denton": {
+   "name": "Denton city"
   },
   "ocd-division/country:us/state:tx/place:crowell": {
    "name": "Crowell city"
@@ -13879,6 +13879,9 @@
   "ocd-division/country:us/state:tx/place:granger": {
    "name": "Granger city"
   },
+  "ocd-division/country:us/state:tx/place:tatum": {
+   "name": "Tatum city"
+  },
   "ocd-division/country:us/state:tx/county:dallas": {
    "name": "Dallas County",
    "officeIndices": [
@@ -13888,9 +13891,6 @@
     1822,
     1823
    ]
-  },
-  "ocd-division/country:us/state:tx/place:tatum": {
-   "name": "Tatum city"
   },
   "ocd-division/country:us/state:tx/county:runnels/school_district:ballinger_isd": {
    "name": "ballinger isd"
@@ -14084,14 +14084,14 @@
   "ocd-division/country:us/state:tx/county:blanco/school_district:johnson_city_isd": {
    "name": "johnson city isd"
   },
+  "ocd-division/country:us/state:tx/place:brady": {
+   "name": "Brady city"
+  },
   "ocd-division/country:us/state:tx/county:tarrant/council_district:2": {
    "name": "Tarrant County TX Commissioners Court District 2",
    "officeIndices": [
     1862
    ]
-  },
-  "ocd-division/country:us/state:tx/place:brady": {
-   "name": "Brady city"
   },
   "ocd-division/country:us/state:tx/county:tarrant/council_district:1": {
    "name": "Tarrant County TX Commissioners Court District 1",
@@ -14517,17 +14517,17 @@
   "ocd-division/country:us/state:tx/place:crawford": {
    "name": "Crawford town"
   },
-  "ocd-division/country:us/state:tx/county:mills/council_district:1": {
-   "name": "Mills County Commissioner Precinct 1",
-   "officeIndices": [
-    1905
-   ]
-  },
   "ocd-division/country:us/state:tx/county:henderson/school_district:brownsboro_isd": {
    "name": "brownsboro isd"
   },
   "ocd-division/country:us/state:tx/county:galveston/council_district:4": {
    "name": "Galveston County Commissioner Precinct 4",
+   "officeIndices": [
+    1905
+   ]
+  },
+  "ocd-division/country:us/state:tx/county:mills/council_district:1": {
+   "name": "Mills County Commissioner Precinct 1",
    "officeIndices": [
     1904
    ]
@@ -14556,14 +14556,14 @@
     1908
    ]
   },
+  "ocd-division/country:us/state:tx/county:hale/school_district:plainview_isd": {
+   "name": "plainview isd"
+  },
   "ocd-division/country:us/state:tx/county:galveston/council_district:1": {
    "name": "Galveston County Commissioner Precinct 1",
    "officeIndices": [
     1910
    ]
-  },
-  "ocd-division/country:us/state:tx/county:hale/school_district:plainview_isd": {
-   "name": "plainview isd"
   },
   "ocd-division/country:us/state:tx/county:crosby/council_district:4": {
    "name": "Crosby County Commissioner Precinct 4",
@@ -15870,14 +15870,14 @@
     5
    ]
   },
+  "ocd-division/country:us/state:tx/county:johnson/school_district:alvarado_isd": {
+   "name": "alvarado isd"
+  },
   "ocd-division/country:us/state:tx/cd:1": {
    "name": "Texas's 1st congressional district",
    "officeIndices": [
     6
    ]
-  },
-  "ocd-division/country:us/state:tx/county:johnson/school_district:alvarado_isd": {
-   "name": "alvarado isd"
   },
   "ocd-division/country:us/state:tx/county:brown/school_district:early_isd": {
    "name": "early isd"
@@ -15929,16 +15929,16 @@
     2085
    ]
   },
-  "ocd-division/country:us/state:tx/cd:8": {
-   "name": "Texas's 8th congressional district",
-   "officeIndices": [
-    8
-   ]
-  },
   "ocd-division/country:us/state:tx/county:irion/council_district:4": {
    "name": "Irion County Commissioner Precinct 4",
    "officeIndices": [
     2086
+   ]
+  },
+  "ocd-division/country:us/state:tx/cd:8": {
+   "name": "Texas's 8th congressional district",
+   "officeIndices": [
+    8
    ]
   },
   "ocd-division/country:us/state:tx/cd:7": {
@@ -15967,6 +15967,9 @@
     2096
    ]
   },
+  "ocd-division/country:us/state:tx/place:woodville": {
+   "name": "Woodville town"
+  },
   "ocd-division/country:us/state:tx/county:smith": {
    "name": "Smith County",
    "officeIndices": [
@@ -15976,9 +15979,6 @@
     2100,
     2101
    ]
-  },
-  "ocd-division/country:us/state:tx/place:woodville": {
-   "name": "Woodville town"
   },
   "ocd-division/country:us/state:tx/place:canadian": {
    "name": "Canadian city"
@@ -16041,20 +16041,20 @@
   "ocd-division/country:us/state:tx/county:grayson/school_district:s_and_s_cisd": {
    "name": "s and s cisd"
   },
-  "ocd-division/country:us/state:tx/county:comal": {
-   "name": "Comal County",
-   "officeIndices": [
-    2110,
-    2111,
-    2112,
-    2113,
-    2114
-   ]
-  },
   "ocd-division/country:us/state:tx/county:houston/council_district:1": {
    "name": "Houston County Commissioner Precinct 1",
    "officeIndices": [
-    2109
+    2114
+   ]
+  },
+  "ocd-division/country:us/state:tx/county:comal": {
+   "name": "Comal County",
+   "officeIndices": [
+    2109,
+    2110,
+    2111,
+    2112,
+    2113
    ]
   },
   "ocd-division/country:us/state:tx/county:houston/council_district:2": {
@@ -17089,11 +17089,11 @@
   "ocd-division/country:us/state:tx/place:nome": {
    "name": "Nome city"
   },
-  "ocd-division/country:us/state:tx/place:sealy": {
-   "name": "Sealy city"
-  },
   "ocd-division/country:us/state:tx/place:tulia": {
    "name": "Tulia city"
+  },
+  "ocd-division/country:us/state:tx/place:sealy": {
+   "name": "Sealy city"
   },
   "ocd-division/country:us/state:tx/place:goldthwaite": {
    "name": "Goldthwaite city"
@@ -17321,14 +17321,14 @@
   "ocd-division/country:us/state:tx/place:sundown": {
    "name": "Sundown city"
   },
+  "ocd-division/country:us/state:tx/place:bellville": {
+   "name": "Bellville city"
+  },
   "ocd-division/country:us/state:tx/county:bexar/council_district:3": {
    "name": "Bexar County TX Commissioners Court District 3",
    "officeIndices": [
     2276
    ]
-  },
-  "ocd-division/country:us/state:tx/place:bellville": {
-   "name": "Bellville city"
   },
   "ocd-division/country:us/state:tx/county:bexar/council_district:4": {
    "name": "Bexar County TX Commissioners Court District 4",
@@ -17578,14 +17578,14 @@
     10
    ]
   },
+  "ocd-division/country:us/state:tx/place:trenton": {
+   "name": "Trenton city"
+  },
   "ocd-division/country:us/state:tx/cd:10": {
    "name": "Texas's 10th congressional district",
    "officeIndices": [
     11
    ]
-  },
-  "ocd-division/country:us/state:tx/place:trenton": {
-   "name": "Trenton city"
   },
   "ocd-division/country:us/state:tx/county:knox/school_district:benjamin_isd": {
    "name": "benjamin isd"
@@ -17935,14 +17935,14 @@
     13
    ]
   },
+  "ocd-division/country:us/state:tx/county:hidalgo/school_district:la_joya_isd": {
+   "name": "la joya isd"
+  },
   "ocd-division/country:us/state:tx/cd:34": {
    "name": "Texas's 34th congressional district",
    "officeIndices": [
     14
    ]
-  },
-  "ocd-division/country:us/state:tx/county:hidalgo/school_district:la_joya_isd": {
-   "name": "la joya isd"
   },
   "ocd-division/country:us/state:tx/county:bandera": {
    "name": "Bandera County",
@@ -18150,14 +18150,14 @@
     30
    ]
   },
+  "ocd-division/country:us/state:tx/place:woodson": {
+   "name": "Woodson town"
+  },
   "ocd-division/country:us/state:tx/cd:17": {
    "name": "Texas's 17th congressional district",
    "officeIndices": [
     31
    ]
-  },
-  "ocd-division/country:us/state:tx/place:woodson": {
-   "name": "Woodson town"
   },
   "ocd-division/country:us/state:tx/cd:16": {
    "name": "Texas's 16th congressional district",
@@ -22737,43 +22737,43 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 2",
-   "divisionId": "ocd-division/country:us/state:tx/county:archer/council_district:2",
-   "officialIndices": [
-    253
-   ]
-  },
-  {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:tx/county:blanco",
    "officialIndices": [
-    254
+    253
    ]
   },
   {
    "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:tx/county:blanco",
    "officialIndices": [
-    255
+    254
    ]
   },
   {
    "name": "County Judge",
    "divisionId": "ocd-division/country:us/state:tx/county:blanco",
    "officialIndices": [
-    256
+    255
    ]
   },
   {
    "name": "County Treasurer",
    "divisionId": "ocd-division/country:us/state:tx/county:blanco",
    "officialIndices": [
-    257
+    256
    ]
   },
   {
    "name": "Tax Assessor-Collector",
    "divisionId": "ocd-division/country:us/state:tx/county:blanco",
+   "officialIndices": [
+    257
+   ]
+  },
+  {
+   "name": "County Commissioner Court, Precinct 2",
+   "divisionId": "ocd-division/country:us/state:tx/county:archer/council_district:2",
    "officialIndices": [
     258
    ]
@@ -22808,14 +22808,14 @@
   },
   {
    "name": "County Commissioner Court, Precinct 4",
-   "divisionId": "ocd-division/country:us/state:tx/county:dimmit/council_district:4",
+   "divisionId": "ocd-division/country:us/state:tx/county:archer/council_district:4",
    "officialIndices": [
     263
    ]
   },
   {
    "name": "County Commissioner Court, Precinct 4",
-   "divisionId": "ocd-division/country:us/state:tx/county:archer/council_district:4",
+   "divisionId": "ocd-division/country:us/state:tx/county:dimmit/council_district:4",
    "officialIndices": [
     264
    ]
@@ -23312,63 +23312,63 @@
   },
   {
    "name": "County Commissioner Court, Precinct 3",
-   "divisionId": "ocd-division/country:us/state:tx/county:bell/council_district:3",
+   "divisionId": "ocd-division/country:us/state:tx/county:uvalde/council_district:3",
    "officialIndices": [
     335
    ]
   },
   {
    "name": "County Commissioner Court, Precinct 3",
-   "divisionId": "ocd-division/country:us/state:tx/county:uvalde/council_district:3",
+   "divisionId": "ocd-division/country:us/state:tx/county:bell/council_district:3",
    "officialIndices": [
     336
    ]
   },
   {
    "name": "County Commissioner Court, Precinct 2",
-   "divisionId": "ocd-division/country:us/state:tx/county:bell/council_district:2",
+   "divisionId": "ocd-division/country:us/state:tx/county:uvalde/council_district:2",
    "officialIndices": [
     337
    ]
   },
   {
    "name": "County Commissioner Court, Precinct 2",
-   "divisionId": "ocd-division/country:us/state:tx/county:uvalde/council_district:2",
+   "divisionId": "ocd-division/country:us/state:tx/county:bell/council_district:2",
    "officialIndices": [
     338
-   ]
-  },
-  {
-   "name": "County Commissioner Court, Precinct 4",
-   "divisionId": "ocd-division/country:us/state:tx/county:bell/council_district:4",
-   "officialIndices": [
-    339
    ]
   },
   {
    "name": "County Judge",
    "divisionId": "ocd-division/country:us/state:tx/county:mills",
    "officialIndices": [
-    340
+    339
    ]
   },
   {
    "name": "County Treasurer",
    "divisionId": "ocd-division/country:us/state:tx/county:mills",
    "officialIndices": [
-    341
+    340
    ]
   },
   {
    "name": "District & County Clerk",
    "divisionId": "ocd-division/country:us/state:tx/county:mills",
    "officialIndices": [
-    342
+    341
    ]
   },
   {
    "name": "Sheriff/Tax Assessor-Collector",
    "divisionId": "ocd-division/country:us/state:tx/county:mills",
+   "officialIndices": [
+    342
+   ]
+  },
+  {
+   "name": "County Commissioner Court, Precinct 4",
+   "divisionId": "ocd-division/country:us/state:tx/county:bell/council_district:4",
    "officialIndices": [
     343
    ]
@@ -24249,15 +24249,15 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 4",
-   "divisionId": "ocd-division/country:us/state:tx/county:martin/council_district:4",
+   "name": "County Commissioner Court, Precinct 1",
+   "divisionId": "ocd-division/country:us/state:tx/county:jack/council_district:1",
    "officialIndices": [
     469
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 1",
-   "divisionId": "ocd-division/country:us/state:tx/county:jack/council_district:1",
+   "name": "County Commissioner Court, Precinct 4",
+   "divisionId": "ocd-division/country:us/state:tx/county:martin/council_district:4",
    "officialIndices": [
     470
    ]
@@ -24481,63 +24481,63 @@
   },
   {
    "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:tx/county:marion",
+   "divisionId": "ocd-division/country:us/state:tx/county:gregg",
    "officialIndices": [
     502
    ]
   },
   {
    "name": "County Clerk",
-   "divisionId": "ocd-division/country:us/state:tx/county:marion",
+   "divisionId": "ocd-division/country:us/state:tx/county:gregg",
    "officialIndices": [
     503
    ]
   },
   {
    "name": "County Judge",
-   "divisionId": "ocd-division/country:us/state:tx/county:marion",
+   "divisionId": "ocd-division/country:us/state:tx/county:gregg",
    "officialIndices": [
     504
    ]
   },
   {
-   "name": "County Treasurer",
-   "divisionId": "ocd-division/country:us/state:tx/county:marion",
+   "name": "Tax Assessor-Collector",
+   "divisionId": "ocd-division/country:us/state:tx/county:gregg",
    "officialIndices": [
     505
    ]
   },
   {
-   "name": "Tax Assessor-Collector",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:tx/county:marion",
    "officialIndices": [
     506
    ]
   },
   {
-   "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:tx/county:gregg",
+   "name": "County Clerk",
+   "divisionId": "ocd-division/country:us/state:tx/county:marion",
    "officialIndices": [
     507
    ]
   },
   {
-   "name": "County Clerk",
-   "divisionId": "ocd-division/country:us/state:tx/county:gregg",
+   "name": "County Judge",
+   "divisionId": "ocd-division/country:us/state:tx/county:marion",
    "officialIndices": [
     508
    ]
   },
   {
-   "name": "County Judge",
-   "divisionId": "ocd-division/country:us/state:tx/county:gregg",
+   "name": "County Treasurer",
+   "divisionId": "ocd-division/country:us/state:tx/county:marion",
    "officialIndices": [
     509
    ]
   },
   {
    "name": "Tax Assessor-Collector",
-   "divisionId": "ocd-division/country:us/state:tx/county:gregg",
+   "divisionId": "ocd-division/country:us/state:tx/county:marion",
    "officialIndices": [
     510
    ]
@@ -24844,85 +24844,85 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 1",
-   "divisionId": "ocd-division/country:us/state:tx/county:schleicher/council_district:1",
+   "name": "Sheriff",
+   "divisionId": "ocd-division/country:us/state:tx/county:hopkins",
    "officialIndices": [
     554
    ]
   },
   {
-   "name": "Sheriff",
+   "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:tx/county:hopkins",
    "officialIndices": [
     555
    ]
   },
   {
-   "name": "County Clerk",
+   "name": "County Judge",
    "divisionId": "ocd-division/country:us/state:tx/county:hopkins",
    "officialIndices": [
     556
    ]
   },
   {
-   "name": "County Judge",
+   "name": "County Treasurer",
    "divisionId": "ocd-division/country:us/state:tx/county:hopkins",
    "officialIndices": [
     557
    ]
   },
   {
-   "name": "County Treasurer",
+   "name": "Tax Assessor-Collector",
    "divisionId": "ocd-division/country:us/state:tx/county:hopkins",
    "officialIndices": [
     558
    ]
   },
   {
-   "name": "Tax Assessor-Collector",
-   "divisionId": "ocd-division/country:us/state:tx/county:hopkins",
+   "name": "County Commissioner Court, Precinct 1",
+   "divisionId": "ocd-division/country:us/state:tx/county:schleicher/council_district:1",
    "officialIndices": [
     559
+   ]
+  },
+  {
+   "name": "County Commissioner Court, Precinct 4",
+   "divisionId": "ocd-division/country:us/state:tx/county:schleicher/council_district:4",
+   "officialIndices": [
+    560
    ]
   },
   {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:tx/county:terry",
    "officialIndices": [
-    560
+    561
    ]
   },
   {
    "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:tx/county:terry",
    "officialIndices": [
-    561
+    562
    ]
   },
   {
    "name": "County Judge",
    "divisionId": "ocd-division/country:us/state:tx/county:terry",
    "officialIndices": [
-    562
+    563
    ]
   },
   {
    "name": "County Treasurer",
    "divisionId": "ocd-division/country:us/state:tx/county:terry",
    "officialIndices": [
-    563
+    564
    ]
   },
   {
    "name": "Tax Assessor-Collector",
    "divisionId": "ocd-division/country:us/state:tx/county:terry",
-   "officialIndices": [
-    564
-   ]
-  },
-  {
-   "name": "County Commissioner Court, Precinct 4",
-   "divisionId": "ocd-division/country:us/state:tx/county:schleicher/council_district:4",
    "officialIndices": [
     565
    ]
@@ -25012,29 +25012,29 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 1",
-   "divisionId": "ocd-division/country:us/state:tx/county:live_oak/council_district:1",
+   "name": "County Commissioner Court, Precinct 4",
+   "divisionId": "ocd-division/country:us/state:tx/county:frio/council_district:4",
    "officialIndices": [
     578
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 4",
-   "divisionId": "ocd-division/country:us/state:tx/county:frio/council_district:4",
+   "name": "County Commissioner Court, Precinct 1",
+   "divisionId": "ocd-division/country:us/state:tx/county:live_oak/council_district:1",
    "officialIndices": [
     579
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 2",
-   "divisionId": "ocd-division/country:us/state:tx/county:live_oak/council_district:2",
+   "name": "County Commissioner Court, Precinct 3",
+   "divisionId": "ocd-division/country:us/state:tx/county:frio/council_district:3",
    "officialIndices": [
     580
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 3",
-   "divisionId": "ocd-division/country:us/state:tx/county:frio/council_district:3",
+   "name": "County Commissioner Court, Precinct 2",
+   "divisionId": "ocd-division/country:us/state:tx/county:live_oak/council_district:2",
    "officialIndices": [
     581
    ]
@@ -25054,15 +25054,15 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 4",
-   "divisionId": "ocd-division/country:us/state:tx/county:gonzales/council_district:4",
+   "name": "County Commissioner Court, Precinct 3",
+   "divisionId": "ocd-division/country:us/state:tx/county:grimes/council_district:3",
    "officialIndices": [
     584
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 3",
-   "divisionId": "ocd-division/country:us/state:tx/county:grimes/council_district:3",
+   "name": "County Commissioner Court, Precinct 4",
+   "divisionId": "ocd-division/country:us/state:tx/county:gonzales/council_district:4",
    "officialIndices": [
     585
    ]
@@ -25082,15 +25082,15 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 3",
-   "divisionId": "ocd-division/country:us/state:tx/county:gonzales/council_district:3",
+   "name": "County Commissioner Court, Precinct 4",
+   "divisionId": "ocd-division/country:us/state:tx/county:grimes/council_district:4",
    "officialIndices": [
     588
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 4",
-   "divisionId": "ocd-division/country:us/state:tx/county:grimes/council_district:4",
+   "name": "County Commissioner Court, Precinct 3",
+   "divisionId": "ocd-division/country:us/state:tx/county:gonzales/council_district:3",
    "officialIndices": [
     589
    ]
@@ -25138,15 +25138,15 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 3",
-   "divisionId": "ocd-division/country:us/state:tx/county:polk/council_district:3",
+   "name": "County Commissioner Court, Precinct 1",
+   "divisionId": "ocd-division/country:us/state:tx/county:dallam/council_district:1",
    "officialIndices": [
     596
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 1",
-   "divisionId": "ocd-division/country:us/state:tx/county:dallam/council_district:1",
+   "name": "County Commissioner Court, Precinct 3",
+   "divisionId": "ocd-division/country:us/state:tx/county:polk/council_district:3",
    "officialIndices": [
     597
    ]
@@ -25166,43 +25166,43 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 2",
-   "divisionId": "ocd-division/country:us/state:tx/county:dallam/council_district:2",
-   "officialIndices": [
-    600
-   ]
-  },
-  {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:tx/county:bosque",
    "officialIndices": [
-    601
+    600
    ]
   },
   {
    "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:tx/county:bosque",
    "officialIndices": [
-    602
+    601
    ]
   },
   {
    "name": "County Judge",
    "divisionId": "ocd-division/country:us/state:tx/county:bosque",
    "officialIndices": [
-    603
+    602
    ]
   },
   {
    "name": "County Treasurer",
    "divisionId": "ocd-division/country:us/state:tx/county:bosque",
    "officialIndices": [
-    604
+    603
    ]
   },
   {
    "name": "Tax Assessor-Collector",
    "divisionId": "ocd-division/country:us/state:tx/county:bosque",
+   "officialIndices": [
+    604
+   ]
+  },
+  {
+   "name": "County Commissioner Court, Precinct 2",
+   "divisionId": "ocd-division/country:us/state:tx/county:dallam/council_district:2",
    "officialIndices": [
     605
    ]
@@ -25286,15 +25286,15 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 1",
-   "divisionId": "ocd-division/country:us/state:tx/county:san_jacinto/council_district:1",
+   "name": "County Commissioner Court, Precinct 4",
+   "divisionId": "ocd-division/country:us/state:tx/county:anderson/council_district:4",
    "officialIndices": [
     618
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 4",
-   "divisionId": "ocd-division/country:us/state:tx/county:anderson/council_district:4",
+   "name": "County Commissioner Court, Precinct 1",
+   "divisionId": "ocd-division/country:us/state:tx/county:san_jacinto/council_district:1",
    "officialIndices": [
     619
    ]
@@ -25321,43 +25321,43 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 2",
-   "divisionId": "ocd-division/country:us/state:tx/county:anderson/council_district:2",
-   "officialIndices": [
-    623
-   ]
-  },
-  {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:tx/county:kenedy",
    "officialIndices": [
-    624
+    623
    ]
   },
   {
    "name": "County Judge",
    "divisionId": "ocd-division/country:us/state:tx/county:kenedy",
    "officialIndices": [
-    625
+    624
    ]
   },
   {
    "name": "County Treasurer",
    "divisionId": "ocd-division/country:us/state:tx/county:kenedy",
    "officialIndices": [
-    626
+    625
    ]
   },
   {
    "name": "District & County Clerk",
    "divisionId": "ocd-division/country:us/state:tx/county:kenedy",
    "officialIndices": [
-    627
+    626
    ]
   },
   {
    "name": "Tax Assessor-Collector",
    "divisionId": "ocd-division/country:us/state:tx/county:kenedy",
+   "officialIndices": [
+    627
+   ]
+  },
+  {
+   "name": "County Commissioner Court, Precinct 2",
+   "divisionId": "ocd-division/country:us/state:tx/county:anderson/council_district:2",
    "officialIndices": [
     628
    ]
@@ -25391,15 +25391,15 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 2",
-   "divisionId": "ocd-division/country:us/state:tx/county:montgomery/council_district:2",
+   "name": "County Commissioner Court, Precinct 4",
+   "divisionId": "ocd-division/country:us/state:tx/county:jeff_davis/council_district:4",
    "officialIndices": [
     633
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 4",
-   "divisionId": "ocd-division/country:us/state:tx/county:jeff_davis/council_district:4",
+   "name": "County Commissioner Court, Precinct 2",
+   "divisionId": "ocd-division/country:us/state:tx/county:montgomery/council_district:2",
    "officialIndices": [
     634
    ]
@@ -26455,36 +26455,36 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 2",
-   "divisionId": "ocd-division/country:us/state:tx/county:mitchell/council_district:2",
-   "officialIndices": [
-    785
-   ]
-  },
-  {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:tx/county:tarrant",
    "officialIndices": [
-    786
+    785
    ]
   },
   {
    "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:tx/county:tarrant",
    "officialIndices": [
-    787
+    786
    ]
   },
   {
    "name": "County Judge",
    "divisionId": "ocd-division/country:us/state:tx/county:tarrant",
    "officialIndices": [
-    788
+    787
    ]
   },
   {
    "name": "Tax Assessor-Collector",
    "divisionId": "ocd-division/country:us/state:tx/county:tarrant",
+   "officialIndices": [
+    788
+   ]
+  },
+  {
+   "name": "County Commissioner Court, Precinct 2",
+   "divisionId": "ocd-division/country:us/state:tx/county:mitchell/council_district:2",
    "officialIndices": [
     789
    ]
@@ -26918,28 +26918,28 @@
   },
   {
    "name": "County Commissioner Court, Precinct 2",
-   "divisionId": "ocd-division/country:us/state:tx/county:delta/council_district:2",
+   "divisionId": "ocd-division/country:us/state:tx/county:ellis/council_district:2",
    "officialIndices": [
     851
    ]
   },
   {
    "name": "County Commissioner Court, Precinct 2",
-   "divisionId": "ocd-division/country:us/state:tx/county:ellis/council_district:2",
+   "divisionId": "ocd-division/country:us/state:tx/county:delta/council_district:2",
    "officialIndices": [
     852
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 3",
-   "divisionId": "ocd-division/country:us/state:tx/county:delta/council_district:3",
+   "name": "County Commissioner Court, Precinct 1",
+   "divisionId": "ocd-division/country:us/state:tx/county:ellis/council_district:1",
    "officialIndices": [
     853
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 1",
-   "divisionId": "ocd-division/country:us/state:tx/county:ellis/council_district:1",
+   "name": "County Commissioner Court, Precinct 3",
+   "divisionId": "ocd-division/country:us/state:tx/county:delta/council_district:3",
    "officialIndices": [
     854
    ]
@@ -27050,43 +27050,43 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 1",
-   "divisionId": "ocd-division/country:us/state:tx/county:limestone/council_district:1",
-   "officialIndices": [
-    870
-   ]
-  },
-  {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:tx/county:llano",
    "officialIndices": [
-    871
+    870
    ]
   },
   {
    "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:tx/county:llano",
    "officialIndices": [
-    872
+    871
    ]
   },
   {
    "name": "County Judge",
    "divisionId": "ocd-division/country:us/state:tx/county:llano",
    "officialIndices": [
-    873
+    872
    ]
   },
   {
    "name": "County Treasurer",
    "divisionId": "ocd-division/country:us/state:tx/county:llano",
    "officialIndices": [
-    874
+    873
    ]
   },
   {
    "name": "Tax Assessor-Collector",
    "divisionId": "ocd-division/country:us/state:tx/county:llano",
+   "officialIndices": [
+    874
+   ]
+  },
+  {
+   "name": "County Commissioner Court, Precinct 1",
+   "divisionId": "ocd-division/country:us/state:tx/county:limestone/council_district:1",
    "officialIndices": [
     875
    ]
@@ -27520,70 +27520,70 @@
   },
   {
    "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:tx/county:bowie",
+   "divisionId": "ocd-division/country:us/state:tx/county:madison",
    "officialIndices": [
     937
    ]
   },
   {
    "name": "County Clerk",
-   "divisionId": "ocd-division/country:us/state:tx/county:bowie",
+   "divisionId": "ocd-division/country:us/state:tx/county:madison",
    "officialIndices": [
     938
    ]
   },
   {
    "name": "County Judge",
-   "divisionId": "ocd-division/country:us/state:tx/county:bowie",
+   "divisionId": "ocd-division/country:us/state:tx/county:madison",
    "officialIndices": [
     939
    ]
   },
   {
    "name": "County Treasurer",
-   "divisionId": "ocd-division/country:us/state:tx/county:bowie",
+   "divisionId": "ocd-division/country:us/state:tx/county:madison",
    "officialIndices": [
     940
    ]
   },
   {
    "name": "Tax Assessor-Collector",
-   "divisionId": "ocd-division/country:us/state:tx/county:bowie",
+   "divisionId": "ocd-division/country:us/state:tx/county:madison",
    "officialIndices": [
     941
    ]
   },
   {
    "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:tx/county:madison",
+   "divisionId": "ocd-division/country:us/state:tx/county:bowie",
    "officialIndices": [
     942
    ]
   },
   {
    "name": "County Clerk",
-   "divisionId": "ocd-division/country:us/state:tx/county:madison",
+   "divisionId": "ocd-division/country:us/state:tx/county:bowie",
    "officialIndices": [
     943
    ]
   },
   {
    "name": "County Judge",
-   "divisionId": "ocd-division/country:us/state:tx/county:madison",
+   "divisionId": "ocd-division/country:us/state:tx/county:bowie",
    "officialIndices": [
     944
    ]
   },
   {
    "name": "County Treasurer",
-   "divisionId": "ocd-division/country:us/state:tx/county:madison",
+   "divisionId": "ocd-division/country:us/state:tx/county:bowie",
    "officialIndices": [
     945
    ]
   },
   {
    "name": "Tax Assessor-Collector",
-   "divisionId": "ocd-division/country:us/state:tx/county:madison",
+   "divisionId": "ocd-division/country:us/state:tx/county:bowie",
    "officialIndices": [
     946
    ]
@@ -32337,15 +32337,15 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 4",
-   "divisionId": "ocd-division/country:us/state:tx/county:scurry/council_district:4",
+   "name": "County Commissioner Court, Precinct 1",
+   "divisionId": "ocd-division/country:us/state:tx/county:jasper/council_district:1",
    "officialIndices": [
     1627
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 1",
-   "divisionId": "ocd-division/country:us/state:tx/county:jasper/council_district:1",
+   "name": "County Commissioner Court, Precinct 4",
+   "divisionId": "ocd-division/country:us/state:tx/county:scurry/council_district:4",
    "officialIndices": [
     1628
    ]
@@ -32484,15 +32484,15 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 3",
-   "divisionId": "ocd-division/country:us/state:tx/county:webb/council_district:3",
+   "name": "County Commissioner Court, Precinct 1",
+   "divisionId": "ocd-division/country:us/state:tx/county:terrell/council_district:1",
    "officialIndices": [
     1648
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 1",
-   "divisionId": "ocd-division/country:us/state:tx/county:terrell/council_district:1",
+   "name": "County Commissioner Court, Precinct 3",
+   "divisionId": "ocd-division/country:us/state:tx/county:webb/council_district:3",
    "officialIndices": [
     1649
    ]
@@ -34311,15 +34311,15 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 4",
-   "divisionId": "ocd-division/country:us/state:tx/county:galveston/council_district:4",
+   "name": "County Commissioner Court, Precinct 1",
+   "divisionId": "ocd-division/country:us/state:tx/county:mills/council_district:1",
    "officialIndices": [
     1909
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 1",
-   "divisionId": "ocd-division/country:us/state:tx/county:mills/council_district:1",
+   "name": "County Commissioner Court, Precinct 4",
+   "divisionId": "ocd-division/country:us/state:tx/county:galveston/council_district:4",
    "officialIndices": [
     1910
    ]
@@ -35746,43 +35746,43 @@
    ]
   },
   {
-   "name": "County Commissioner Court, Precinct 1",
-   "divisionId": "ocd-division/country:us/state:tx/county:houston/council_district:1",
-   "officialIndices": [
-    2114
-   ]
-  },
-  {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:tx/county:comal",
    "officialIndices": [
-    2115
+    2114
    ]
   },
   {
    "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:tx/county:comal",
    "officialIndices": [
-    2116
+    2115
    ]
   },
   {
    "name": "County Judge",
    "divisionId": "ocd-division/country:us/state:tx/county:comal",
    "officialIndices": [
-    2117
+    2116
    ]
   },
   {
    "name": "County Treasurer",
    "divisionId": "ocd-division/country:us/state:tx/county:comal",
    "officialIndices": [
-    2118
+    2117
    ]
   },
   {
    "name": "Tax Assessor-Collector",
    "divisionId": "ocd-division/country:us/state:tx/county:comal",
+   "officialIndices": [
+    2118
+   ]
+  },
+  {
+   "name": "County Commissioner Court, Precinct 1",
+   "divisionId": "ocd-division/country:us/state:tx/county:houston/council_district:1",
    "officialIndices": [
     2119
    ]
@@ -47587,9 +47587,6 @@
    "name": "Mark Williams"
   },
   {
-   "name": "Darin Wolf"
-  },
-  {
    "name": "Robert Morgan"
   },
   {
@@ -47603,6 +47600,9 @@
   },
   {
    "name": "Hollis W. Boatright"
+  },
+  {
+   "name": "Darin Wolf"
   },
   {
    "name": "Pat Martin III"
@@ -47619,11 +47619,11 @@
    "party": "Unknown"
   },
   {
-   "name": "Unknown",
-   "party": "Unknown"
+   "name": "Darryl Lightfoot"
   },
   {
-   "name": "Darryl Lightfoot"
+   "name": "Unknown",
+   "party": "Unknown"
   },
   {
    "name": "Unknown",
@@ -48063,6 +48063,9 @@
    "name": "Raul T. Flores"
   },
   {
+   "name": "Jerry W. Bates"
+  },
+  {
    "name": "Bill Schumann",
    "address": [
     {
@@ -48083,7 +48086,7 @@
    ]
   },
   {
-   "name": "Jerry W. Bates"
+   "name": "Mariona Pargas, Jr."
   },
   {
    "name": "Tim Brown",
@@ -48106,7 +48109,16 @@
    ]
   },
   {
-   "name": "Mariona Pargas, Jr."
+   "name": "Kirkland Fulk"
+  },
+  {
+   "name": "Terrena Busby"
+  },
+  {
+   "name": "Carolyn Foster"
+  },
+  {
+   "name": "Clint Hammonds"
   },
   {
    "name": "John Fisher",
@@ -48124,18 +48136,6 @@
    "urls": [
     "http://www.bellcountytx.com/county_government/commissioners_court/precinct_4.php"
    ]
-  },
-  {
-   "name": "Kirkland Fulk"
-  },
-  {
-   "name": "Terrena Busby"
-  },
-  {
-   "name": "Carolyn Foster"
-  },
-  {
-   "name": "Clint Hammonds"
   },
   {
    "name": "Randy Scheide"
@@ -48889,11 +48889,11 @@
    "name": "James L. Brock"
   },
   {
-   "name": "Unknown",
-   "party": "Unknown"
+   "name": "Fearl F. Smith"
   },
   {
-   "name": "Fearl F. Smith"
+   "name": "Unknown",
+   "party": "Unknown"
   },
   {
    "name": "David Earl Greene"
@@ -49046,21 +49046,6 @@
    ]
   },
   {
-   "name": "Morgan David McKnight"
-  },
-  {
-   "name": "Vickie Wray Smith"
-  },
-  {
-   "name": "Phil Parker"
-  },
-  {
-   "name": "Terrie S. Neuville"
-  },
-  {
-   "name": "Karen G. Jones"
-  },
-  {
    "name": "Maxey Cerliano",
    "address": [
     {
@@ -49128,6 +49113,21 @@
    "emails": [
     "Kirk.Shields@co.gregg.tx.us"
    ]
+  },
+  {
+   "name": "Morgan David McKnight"
+  },
+  {
+   "name": "Vickie Wray Smith"
+  },
+  {
+   "name": "Phil Parker"
+  },
+  {
+   "name": "Terrie S. Neuville"
+  },
+  {
+   "name": "Karen G. Jones"
   },
   {
    "name": "Kenneth Wood"
@@ -49572,9 +49572,6 @@
    "name": "Bill Clark"
   },
   {
-   "name": "Johnny Mayo"
-  },
-  {
    "name": "Charles \"Butch\" Adams"
   },
   {
@@ -49590,6 +49587,12 @@
    "name": "Debbie Pogue Jenkins"
   },
   {
+   "name": "Johnny Mayo"
+  },
+  {
+   "name": "Ross Whitten"
+  },
+  {
    "name": "Larry Gilbreath"
   },
   {
@@ -49603,9 +49606,6 @@
   },
   {
    "name": "Rexann Turrentine"
-  },
-  {
-   "name": "Ross Whitten"
   },
   {
    "name": "Kirk Griffin"
@@ -49648,16 +49648,16 @@
    "name": "Emilio Garza"
   },
   {
-   "name": "Richard Lee"
-  },
-  {
    "name": "Jose \"Pepe\" Flores"
   },
   {
-   "name": "Donna Kopplin Mills"
+   "name": "Richard Lee"
   },
   {
    "name": "Ruben Maldonado"
+  },
+  {
+   "name": "Donna Kopplin Mills"
   },
   {
    "name": "Richard Graf"
@@ -49666,10 +49666,10 @@
    "name": "Jesus \"Chuy\" Salinas"
   },
   {
-   "name": "Otis S. \"Bud\" Wuest, Jr."
+   "name": "Barbara Walker"
   },
   {
-   "name": "Barbara Walker"
+   "name": "Otis S. \"Bud\" Wuest, Jr."
   },
   {
    "name": "Randy Krueger"
@@ -49678,10 +49678,10 @@
    "name": "Donnie R. Brzozowski"
   },
   {
-   "name": "Kevin T. La Fleur"
+   "name": "Pam Finke"
   },
   {
-   "name": "Pam Finke"
+   "name": "Kevin T. La Fleur"
   },
   {
    "name": "K. O. \"Dell\" Whiddon"
@@ -49702,19 +49702,16 @@
    "name": "J. R. Green"
   },
   {
-   "name": "Milt Purvis"
+   "name": "Glenn Reagan"
   },
   {
-   "name": "Glenn Reagan"
+   "name": "Milt Purvis"
   },
   {
    "name": "C. T. \"Tommy\" Overstreet"
   },
   {
    "name": "Don Bowers"
-  },
-  {
-   "name": "Corey Crabtree"
   },
   {
    "name": "Anthony Malott"
@@ -49730,6 +49727,9 @@
   },
   {
    "name": "Arlene Swiney"
+  },
+  {
+   "name": "Corey Crabtree"
   },
   {
    "name": "Floyd French"
@@ -49785,9 +49785,6 @@
    ]
   },
   {
-   "name": "Ray McCoppin"
-  },
-  {
    "name": "Joey Hill",
    "address": [
     {
@@ -49808,6 +49805,9 @@
    ]
   },
   {
+   "name": "Ray McCoppin"
+  },
+  {
    "name": "Mark Nettuno"
   },
   {
@@ -49815,6 +49815,21 @@
   },
   {
    "name": "Thomas Bonds"
+  },
+  {
+   "name": "Ramon Salinas, III"
+  },
+  {
+   "name": "Louis E. \"Bud\" Turcotte"
+  },
+  {
+   "name": "Cynthia M. Salinas"
+  },
+  {
+   "name": "Veronica Vela"
+  },
+  {
+   "name": "Eleuteria Gonzalez"
   },
   {
    "name": "Rashad Mims",
@@ -49835,21 +49850,6 @@
    "emails": [
     "kstarkey@co.anderson.tx.us"
    ]
-  },
-  {
-   "name": "Ramon Salinas, III"
-  },
-  {
-   "name": "Louis E. \"Bud\" Turcotte"
-  },
-  {
-   "name": "Cynthia M. Salinas"
-  },
-  {
-   "name": "Veronica Vela"
-  },
-  {
-   "name": "Eleuteria Gonzalez"
   },
   {
    "name": "Greg Chapin",
@@ -49881,6 +49881,9 @@
    "name": "Larry Francell"
   },
   {
+   "name": "Albert W. Miller"
+  },
+  {
    "name": "Craig Doyal",
    "address": [
     {
@@ -49896,9 +49899,6 @@
    "urls": [
     "http://www.mctx.org/dept/--commissioners/commissioner_precinct_2/index.html"
    ]
-  },
-  {
-   "name": "Albert W. Miller"
   },
   {
    "name": "James Noack",
@@ -51044,10 +51044,6 @@
    "party": "Unknown"
   },
   {
-   "name": "Unknown",
-   "party": "Unknown"
-  },
-  {
    "name": "Dee Anderson",
    "address": [
     {
@@ -51122,6 +51118,10 @@
    "urls": [
     "http://www.tarrantcounty.com/etax/site/default.asp"
    ]
+  },
+  {
+   "name": "Unknown",
+   "party": "Unknown"
   },
   {
    "name": "Wayne Johnson"
@@ -51534,9 +51534,6 @@
    "name": "B.V. (Rip) Templeton"
   },
   {
-   "name": "David (Max) Moody"
-  },
-  {
    "name": "Bill Dodson",
    "address": [
     {
@@ -51557,7 +51554,7 @@
    ]
   },
   {
-   "name": "Wayne Poole"
+   "name": "David (Max) Moody"
   },
   {
    "name": "Dennis Robinson",
@@ -51578,6 +51575,9 @@
    "emails": [
     "dennis.robinson@co.ellis.tx.us"
    ]
+  },
+  {
+   "name": "Wayne Poole"
   },
   {
    "name": "Mark Brantley"
@@ -51708,9 +51708,6 @@
    "name": "Anna R. Rodriguez"
   },
   {
-   "name": "John McCarver"
-  },
-  {
    "name": "William D. Blackburn"
   },
   {
@@ -51724,6 +51721,9 @@
   },
   {
    "name": "Dexter Sagebiel"
+  },
+  {
+   "name": "John McCarver"
   },
   {
    "name": "William \"Pete\" Kirven"
@@ -52143,6 +52143,21 @@
    "name": "Cynthia Aguilar"
   },
   {
+   "name": "Travis E. Neely"
+  },
+  {
+   "name": "Charlotte Barrett"
+  },
+  {
+   "name": "Art Henson"
+  },
+  {
+   "name": "Judy Weathers"
+  },
+  {
+   "name": "Karen M. Lane"
+  },
+  {
    "name": "James Prince",
    "address": [
     {
@@ -52235,21 +52250,6 @@
    "urls": [
     "http://www.co.bowie.tx.us/default.aspx?Bowie_County/County.Assessor.Collector"
    ]
-  },
-  {
-   "name": "Travis E. Neely"
-  },
-  {
-   "name": "Charlotte Barrett"
-  },
-  {
-   "name": "Art Henson"
-  },
-  {
-   "name": "Judy Weathers"
-  },
-  {
-   "name": "Karen M. Lane"
   },
   {
    "name": "Freddie Gardner",
@@ -57057,10 +57057,10 @@
    "name": "Roy Parker"
   },
   {
-   "name": "Sally Lindsey"
+   "name": "Charles Shofner, Jr."
   },
   {
-   "name": "Charles Shofner, Jr."
+   "name": "Sally Lindsey"
   },
   {
    "name": "David Harrell"
@@ -57258,6 +57258,9 @@
    "name": "C.E. Grant"
   },
   {
+   "name": "Yolanda Lopez"
+  },
+  {
    "name": "John Galo",
    "address": [
     {
@@ -57273,9 +57276,6 @@
    "urls": [
     "http://www.webbcountytx.gov/Pct3/default.aspx"
    ]
-  },
-  {
-   "name": "Yolanda Lopez"
   },
   {
    "name": "Michelle Marquez"
@@ -59312,6 +59312,9 @@
    "name": "Jason Williams"
   },
   {
+   "name": "Mike Wright"
+  },
+  {
    "name": "Ken Clark",
    "address": [
     {
@@ -59330,9 +59333,6 @@
    "emails": [
     "ClarkK@co.galveston.tx.us"
    ]
-  },
-  {
-   "name": "Mike Wright"
   },
   {
    "name": "Keith Harper"
@@ -60665,9 +60665,6 @@
    "name": "Patti Franks"
   },
   {
-   "name": "Roger Dickey"
-  },
-  {
    "name": "James Robert \"Bob\" Holder",
    "address": [
     {
@@ -60777,6 +60774,9 @@
      "id": "219584744753609"
     }
    ]
+  },
+  {
+   "name": "Roger Dickey"
   },
   {
    "name": "Willie Kitchen"

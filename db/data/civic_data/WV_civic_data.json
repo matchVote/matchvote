@@ -33,6 +33,9 @@
   "ocd-division/country:us/state:wv/county:berkeley/precinct:9": {
    "name": "BERKELEY County Precinct 9"
   },
+  "ocd-division/country:us/state:wv/place:stonewood": {
+   "name": "Stonewood city"
+  },
   "ocd-division/country:us/state:wv/county:tyler": {
    "name": "Tyler County",
    "officeIndices": [
@@ -44,9 +47,6 @@
     94,
     95
    ]
-  },
-  "ocd-division/country:us/state:wv/place:stonewood": {
-   "name": "Stonewood city"
   },
   "ocd-division/country:us/state:wv/place:rhodell": {
    "name": "Rhodell town"
@@ -90,23 +90,23 @@
   "ocd-division/country:us/state:wv/county:pendleton/precinct:13": {
    "name": "PENDLETON County Precinct 13"
   },
-  "ocd-division/country:us/state:wv/county:pendleton/precinct:12": {
-   "name": "PENDLETON County Precinct 12"
-  },
   "ocd-division/country:us/state:wv/county:webster/precinct:27": {
    "name": "WEBSTER County Precinct 27"
+  },
+  "ocd-division/country:us/state:wv/county:pendleton/precinct:12": {
+   "name": "PENDLETON County Precinct 12"
   },
   "ocd-division/country:us/state:wv/county:webster/precinct:21": {
    "name": "WEBSTER County Precinct 21"
   },
-  "ocd-division/country:us/state:wv/county:webster/precinct:22": {
-   "name": "WEBSTER County Precinct 22"
-  },
   "ocd-division/country:us/state:wv/place:eleanor": {
    "name": "Eleanor town"
   },
-  "ocd-division/country:us/state:wv/county:berkeley/precinct:43a": {
-   "name": "BERKELEY County Precinct 43A"
+  "ocd-division/country:us/state:wv/county:webster/precinct:22": {
+   "name": "WEBSTER County Precinct 22"
+  },
+  "ocd-division/country:us/state:wv/county:webster/precinct:23": {
+   "name": "WEBSTER County Precinct 23"
   },
   "ocd-division/country:us/state:wv/county:webster": {
    "name": "Webster County",
@@ -120,17 +120,17 @@
     102
    ]
   },
-  "ocd-division/country:us/state:wv/county:webster/precinct:23": {
-   "name": "WEBSTER County Precinct 23"
+  "ocd-division/country:us/state:wv/county:berkeley/precinct:43a": {
+   "name": "BERKELEY County Precinct 43A"
   },
-  "ocd-division/country:us/state:wv/county:ohio/precinct:137a": {
-   "name": "OHIO County Precinct 137A"
+  "ocd-division/country:us/state:wv/county:wyoming/precinct:110": {
+   "name": "WYOMING County Precinct 110"
   },
   "ocd-division/country:us/state:wv/county:kanawha/precinct:436a": {
    "name": "KANAWHA County Precinct 436A"
   },
-  "ocd-division/country:us/state:wv/county:wyoming/precinct:110": {
-   "name": "WYOMING County Precinct 110"
+  "ocd-division/country:us/state:wv/county:ohio/precinct:137a": {
+   "name": "OHIO County Precinct 137A"
   },
   "ocd-division/country:us/state:wv/county:jackson/precinct:30": {
    "name": "JACKSON County Precinct 30"
@@ -165,11 +165,11 @@
   "ocd-division/country:us/state:wv/county:roane/precinct:18": {
    "name": "ROANE County Precinct 18"
   },
-  "ocd-division/country:us/state:wv/county:roane/precinct:12": {
-   "name": "ROANE County Precinct 12"
-  },
   "ocd-division/country:us/state:wv/place:moundsville": {
    "name": "Moundsville city"
+  },
+  "ocd-division/country:us/state:wv/county:roane/precinct:12": {
+   "name": "ROANE County Precinct 12"
   },
   "ocd-division/country:us/state:wv/county:roane/precinct:15": {
    "name": "ROANE County Precinct 15"
@@ -249,14 +249,14 @@
   "ocd-division/country:us/state:wv/county:pocahontas/precinct:1": {
    "name": "POCAHONTAS County Precinct 1"
   },
-  "ocd-division/country:us/state:wv/county:ohio/precinct:28": {
-   "name": "OHIO County Precinct 28"
+  "ocd-division/country:us/state:wv/place:mount_hope": {
+   "name": "Mount Hope city"
   },
   "ocd-division/country:us/state:wv/county:jackson/precinct:10": {
    "name": "JACKSON County Precinct 10"
   },
-  "ocd-division/country:us/state:wv/place:mount_hope": {
-   "name": "Mount Hope city"
+  "ocd-division/country:us/state:wv/county:ohio/precinct:28": {
+   "name": "OHIO County Precinct 28"
   },
   "ocd-division/country:us/state:wv/county:jackson/precinct:11": {
    "name": "JACKSON County Precinct 11"
@@ -267,11 +267,11 @@
   "ocd-division/country:us/state:wv/county:jackson/precinct:13": {
    "name": "JACKSON County Precinct 13"
   },
-  "ocd-division/country:us/state:wv/county:ohio/precinct:24": {
-   "name": "OHIO County Precinct 24"
-  },
   "ocd-division/country:us/state:wv/county:jackson/precinct:14": {
    "name": "JACKSON County Precinct 14"
+  },
+  "ocd-division/country:us/state:wv/county:ohio/precinct:24": {
+   "name": "OHIO County Precinct 24"
   },
   "ocd-division/country:us/state:wv/county:jackson/precinct:15": {
    "name": "JACKSON County Precinct 15"
@@ -282,11 +282,11 @@
   "ocd-division/country:us/state:wv/county:jackson/precinct:17": {
    "name": "JACKSON County Precinct 17"
   },
-  "ocd-division/country:us/state:wv/county:ohio/precinct:20": {
-   "name": "OHIO County Precinct 20"
-  },
   "ocd-division/country:us/state:wv/county:jackson/precinct:18": {
    "name": "JACKSON County Precinct 18"
+  },
+  "ocd-division/country:us/state:wv/county:ohio/precinct:20": {
+   "name": "OHIO County Precinct 20"
   },
   "ocd-division/country:us/state:wv/county:jackson/precinct:19": {
    "name": "JACKSON County Precinct 19"
@@ -319,11 +319,11 @@
   "ocd-division/country:us/state:wv/county:jackson/precinct:21": {
    "name": "JACKSON County Precinct 21"
   },
-  "ocd-division/country:us/state:wv/county:jackson/precinct:22": {
-   "name": "JACKSON County Precinct 22"
-  },
   "ocd-division/country:us/state:wv/place:pleasant_valley": {
    "name": "Pleasant Valley city"
+  },
+  "ocd-division/country:us/state:wv/county:jackson/precinct:22": {
+   "name": "JACKSON County Precinct 22"
   },
   "ocd-division/country:us/state:wv/county:jackson/precinct:20": {
    "name": "JACKSON County Precinct 20"
@@ -580,11 +580,11 @@
   "ocd-division/country:us/state:wv/county:jefferson/precinct:25a": {
    "name": "JEFFERSON County Precinct 25A"
   },
-  "ocd-division/country:us/state:wv/county:barbour/school_district:barbour_county_schools": {
-   "name": "barbour county schools"
-  },
   "ocd-division/country:us/state:wv/county:jefferson/precinct:25b": {
    "name": "JEFFERSON County Precinct 25B"
+  },
+  "ocd-division/country:us/state:wv/county:barbour/school_district:barbour_county_schools": {
+   "name": "barbour county schools"
   },
   "ocd-division/country:us/state:wv/county:monroe/precinct:34": {
    "name": "MONROE County Precinct 34"
@@ -595,11 +595,11 @@
   "ocd-division/country:us/state:wv/county:monroe/precinct:32": {
    "name": "MONROE County Precinct 32"
   },
-  "ocd-division/country:us/state:wv/county:monroe/precinct:31": {
-   "name": "MONROE County Precinct 31"
-  },
   "ocd-division/country:us/state:wv/place:ansted": {
    "name": "Ansted town"
+  },
+  "ocd-division/country:us/state:wv/county:monroe/precinct:31": {
+   "name": "MONROE County Precinct 31"
   },
   "ocd-division/country:us/state:wv/place:east_bank": {
    "name": "East Bank town"
@@ -1240,14 +1240,11 @@
   "ocd-division/country:us/state:wv/county:harrison/precinct:144": {
    "name": "HARRISON County Precinct 144"
   },
-  "ocd-division/country:us/state:wv/county:harrison/precinct:143": {
-   "name": "HARRISON County Precinct 143"
-  },
   "ocd-division/country:us/state:wv/place:thurmond": {
    "name": "Thurmond town"
   },
-  "ocd-division/country:us/state:wv/county:kanawha/precinct:103": {
-   "name": "KANAWHA County Precinct 103"
+  "ocd-division/country:us/state:wv/county:harrison/precinct:143": {
+   "name": "HARRISON County Precinct 143"
   },
   "ocd-division/country:us/state:wv/sldu:4": {
    "name": "West Virginia State Senate district 4",
@@ -1255,20 +1252,23 @@
     4
    ]
   },
+  "ocd-division/country:us/state:wv/county:kanawha/precinct:103": {
+   "name": "KANAWHA County Precinct 103"
+  },
   "ocd-division/country:us/state:wv/sldu:3": {
    "name": "West Virginia State Senate district 3",
    "officeIndices": [
     5
    ]
   },
-  "ocd-division/country:us/state:wv/county:kanawha/precinct:105": {
-   "name": "KANAWHA County Precinct 105"
-  },
   "ocd-division/country:us/state:wv/sldu:2": {
    "name": "West Virginia State Senate district 2",
    "officeIndices": [
     6
    ]
+  },
+  "ocd-division/country:us/state:wv/county:kanawha/precinct:105": {
+   "name": "KANAWHA County Precinct 105"
   },
   "ocd-division/country:us/state:wv/sldu:1": {
    "name": "West Virginia State Senate district 1",
@@ -1282,14 +1282,14 @@
     8
    ]
   },
-  "ocd-division/country:us/state:wv/county:kanawha/precinct:106": {
-   "name": "KANAWHA County Precinct 106"
-  },
   "ocd-division/country:us/state:wv/sldu:7": {
    "name": "West Virginia State Senate district 7",
    "officeIndices": [
     9
    ]
+  },
+  "ocd-division/country:us/state:wv/county:kanawha/precinct:106": {
+   "name": "KANAWHA County Precinct 106"
   },
   "ocd-division/country:us/state:wv/sldu:6": {
    "name": "West Virginia State Senate district 6",
@@ -1525,14 +1525,14 @@
   "ocd-division/country:us/state:wv/county:fayette/precinct:28": {
    "name": "FAYETTE County Precinct 28"
   },
+  "ocd-division/country:us/state:wv/county:kanawha/precinct:152": {
+   "name": "KANAWHA County Precinct 152"
+  },
   "ocd-division/country:us/state:wv/cd:3": {
    "name": "West Virginia's 3rd congressional district",
    "officeIndices": [
     1
    ]
-  },
-  "ocd-division/country:us/state:wv/county:kanawha/precinct:152": {
-   "name": "KANAWHA County Precinct 152"
   },
   "ocd-division/country:us/state:wv/county:fayette/precinct:29": {
    "name": "FAYETTE County Precinct 29"
@@ -2449,26 +2449,26 @@
   "ocd-division/country:us/state:wv/county:hardy/precinct:14b": {
    "name": "HARDY County Precinct 14B"
   },
-  "ocd-division/country:us/state:wv/county:lewis/precinct:16": {
-   "name": "LEWIS County Precinct 16"
-  },
   "ocd-division/country:us/state:wv/county:kanawha/precinct:403": {
    "name": "KANAWHA County Precinct 403"
   },
-  "ocd-division/country:us/state:wv/county:lewis/precinct:15": {
-   "name": "LEWIS County Precinct 15"
+  "ocd-division/country:us/state:wv/county:lewis/precinct:16": {
+   "name": "LEWIS County Precinct 16"
   },
   "ocd-division/country:us/state:wv/county:kanawha/precinct:404": {
    "name": "KANAWHA County Precinct 404"
   },
+  "ocd-division/country:us/state:wv/county:lewis/precinct:15": {
+   "name": "LEWIS County Precinct 15"
+  },
   "ocd-division/country:us/state:wv/county:lewis/precinct:18": {
    "name": "LEWIS County Precinct 18"
   },
-  "ocd-division/country:us/state:wv/county:lewis/precinct:17": {
-   "name": "LEWIS County Precinct 17"
-  },
   "ocd-division/country:us/state:wv/county:kanawha/precinct:406": {
    "name": "KANAWHA County Precinct 406"
+  },
+  "ocd-division/country:us/state:wv/county:lewis/precinct:17": {
+   "name": "LEWIS County Precinct 17"
   },
   "ocd-division/country:us/state:wv/county:lewis/precinct:19": {
    "name": "LEWIS County Precinct 19"
@@ -2488,23 +2488,23 @@
   "ocd-division/country:us/state:wv/county:lewis/precinct:10": {
    "name": "LEWIS County Precinct 10"
   },
-  "ocd-division/country:us/state:wv/county:lewis/precinct:11": {
-   "name": "LEWIS County Precinct 11"
-  },
   "ocd-division/country:us/state:wv/county:kanawha/precinct:408": {
    "name": "KANAWHA County Precinct 408"
   },
-  "ocd-division/country:us/state:wv/county:lewis/precinct:12": {
-   "name": "LEWIS County Precinct 12"
+  "ocd-division/country:us/state:wv/county:lewis/precinct:11": {
+   "name": "LEWIS County Precinct 11"
   },
   "ocd-division/country:us/state:wv/county:kanawha/precinct:407": {
    "name": "KANAWHA County Precinct 407"
   },
-  "ocd-division/country:us/state:wv/county:mingo/precinct:56": {
-   "name": "MINGO County Precinct 56"
+  "ocd-division/country:us/state:wv/county:lewis/precinct:12": {
+   "name": "LEWIS County Precinct 12"
   },
   "ocd-division/country:us/state:wv/county:lewis/precinct:13": {
    "name": "LEWIS County Precinct 13"
+  },
+  "ocd-division/country:us/state:wv/county:mingo/precinct:56": {
+   "name": "MINGO County Precinct 56"
   },
   "ocd-division/country:us/state:wv/county:lewis/precinct:14": {
    "name": "LEWIS County Precinct 14"
@@ -5051,11 +5051,11 @@
   "ocd-division/country:us/state:wv/county:wood/precinct:32": {
    "name": "WOOD County Precinct 32"
   },
-  "ocd-division/country:us/state:wv/county:wood/precinct:33": {
-   "name": "WOOD County Precinct 33"
-  },
   "ocd-division/country:us/state:wv/place:iaeger": {
    "name": "Iaeger town"
+  },
+  "ocd-division/country:us/state:wv/county:wood/precinct:33": {
+   "name": "WOOD County Precinct 33"
   },
   "ocd-division/country:us/state:wv/county:wood/precinct:36": {
    "name": "WOOD County Precinct 36"

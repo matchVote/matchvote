@@ -1,16 +1,16 @@
 {
  "divisions": {
-  "ocd-division/country:us/state:az/county:maricopa/precinct:691-west_wing": {
-   "name": "Maricopa County Precinct 691-West Wing"
-  },
   "ocd-division/country:us/state:az/county:maricopa/precinct:434-new_river": {
    "name": "Maricopa County Precinct 434-New River"
   },
-  "ocd-division/country:us/state:az/county:coconino/precinct:56-fort_valley_west": {
-   "name": "Coconino County Precinct 56-Fort Valley West"
+  "ocd-division/country:us/state:az/county:maricopa/precinct:691-west_wing": {
+   "name": "Maricopa County Precinct 691-West Wing"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:143-country_meadows": {
    "name": "Maricopa County Precinct 143-Country Meadows"
+  },
+  "ocd-division/country:us/state:az/county:coconino/precinct:56-fort_valley_west": {
+   "name": "Coconino County Precinct 56-Fort Valley West"
   },
   "ocd-division/country:us/state:az/county:pima/school_district:montessori_schoolhouse_of_tucson_inc": {
    "name": "montessori schoolhouse of tucson  inc"
@@ -141,11 +141,11 @@
   "ocd-division/country:us/state:az/county:santa_cruz/precinct:5-coronado": {
    "name": "Santa Cruz County Precinct 5-Coronado"
   },
-  "ocd-division/country:us/state:az/county:mohave/school_district:academy_of_building_industries_inc": {
-   "name": "academy of building industries  inc"
-  },
   "ocd-division/country:us/state:az/county:maricopa/precinct:616-sun_city": {
    "name": "Maricopa County Precinct 616-Sun City"
+  },
+  "ocd-division/country:us/state:az/county:mohave/school_district:academy_of_building_industries_inc": {
+   "name": "academy of building industries  inc"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:100-chavez": {
    "name": "Maricopa County Precinct 100-Chavez"
@@ -159,11 +159,11 @@
   "ocd-division/country:us/state:az/place:eagar": {
    "name": "Eagar town"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:cafa_inc_dba_learning_foundation_and_performing_arts_alta": {
-   "name": "cafa  inc dba learning foundation and performing arts alta"
-  },
   "ocd-division/country:us/state:az/county:gila/school_district:hayden-winkelman_unified_district": {
    "name": "hayden-winkelman unified district"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/school_district:cafa_inc_dba_learning_foundation_and_performing_arts_alta": {
+   "name": "cafa  inc dba learning foundation and performing arts alta"
   },
   "ocd-division/country:us/state:az/county:yavapai/school_district:walnut_grove_elementary_district": {
    "name": "walnut grove elementary district"
@@ -174,11 +174,11 @@
   "ocd-division/country:us/state:az/county:maricopa/precinct:378-lynwood": {
    "name": "Maricopa County Precinct 378-Lynwood"
   },
-  "ocd-division/country:us/state:az/county:mohave/precinct:35-london_bridge": {
-   "name": "Mohave County Precinct 35-London Bridge"
-  },
   "ocd-division/country:us/state:az/county:maricopa/precinct:92-catamaran": {
    "name": "Maricopa County Precinct 92-Catamaran"
+  },
+  "ocd-division/country:us/state:az/county:mohave/precinct:35-london_bridge": {
+   "name": "Mohave County Precinct 35-London Bridge"
   },
   "ocd-division/country:us/state:az/county:maricopa/school_district:legacy_schools": {
    "name": "legacy schools"
@@ -198,29 +198,29 @@
   "ocd-division/country:us/state:az/county:maricopa/precinct:156-cullumber": {
    "name": "Maricopa County Precinct 156-Cullumber"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:imagine_middle_at_camelback_llc": {
-   "name": "imagine middle at camelback  llc"
-  },
   "ocd-division/country:us/state:az/county:maricopa/precinct:186-devonshire": {
    "name": "Maricopa County Precinct 186-Devonshire"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:72-calaveros": {
-   "name": "Maricopa County Precinct 72-Calaveros"
+  "ocd-division/country:us/state:az/county:maricopa/school_district:imagine_middle_at_camelback_llc": {
+   "name": "imagine middle at camelback  llc"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:388-marbella": {
    "name": "Maricopa County Precinct 388-Marbella"
   },
-  "ocd-division/country:us/state:az/county:yavapai/school_district:crown_king_elementary_district": {
-   "name": "crown king elementary district"
+  "ocd-division/country:us/state:az/county:maricopa/precinct:72-calaveros": {
+   "name": "Maricopa County Precinct 72-Calaveros"
   },
   "ocd-division/country:us/state:az/place:surprise/council_district:5-palm": {
    "name": "Surprise AZ city council district 5"
   },
-  "ocd-division/country:us/state:az/county:mohave/precinct:73-jamaica": {
-   "name": "Mohave County Precinct 73-Jamaica"
+  "ocd-division/country:us/state:az/county:yavapai/school_district:crown_king_elementary_district": {
+   "name": "crown king elementary district"
   },
   "ocd-division/country:us/state:az/county:coconino/precinct:5-flagstaff": {
    "name": "Coconino County Precinct 5-Flagstaff"
+  },
+  "ocd-division/country:us/state:az/county:mohave/precinct:73-jamaica": {
+   "name": "Mohave County Precinct 73-Jamaica"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:371-lookout_ridge": {
    "name": "Maricopa County Precinct 371-Lookout Ridge"
@@ -243,38 +243,38 @@
   "ocd-division/country:us/state:az/county:pima/school_district:ha~san_educational_services": {
    "name": "ha:san educational services"
   },
-  "ocd-division/country:us/state:az/county:apache/precinct:84-wheatfields": {
-   "name": "Apache County Precinct 84-Wheatfields"
-  },
   "ocd-division/country:us/state:az/county:apache/precinct:59-round_valley": {
    "name": "Apache County Precinct 59-Round Valley"
   },
-  "ocd-division/country:us/state:az/county:coconino/school_district:montessori_charter_school_of_flagstaff_inc": {
-   "name": "montessori charter school of flagstaff  inc"
+  "ocd-division/country:us/state:az/county:apache/precinct:84-wheatfields": {
+   "name": "Apache County Precinct 84-Wheatfields"
   },
   "ocd-division/country:us/state:az/county:cochise/school_district:st_david_unified_district": {
    "name": "st david unified district"
   },
+  "ocd-division/country:us/state:az/county:coconino/school_district:montessori_charter_school_of_flagstaff_inc": {
+   "name": "montessori charter school of flagstaff  inc"
+  },
   "ocd-division/country:us/state:az/county:yavapai/precinct:218-well": {
    "name": "Yavapai County Precinct 218-Well"
-  },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:433-mystic": {
-   "name": "Maricopa County Precinct 433-Mystic"
-  },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:217-enid_park": {
-   "name": "Maricopa County Precinct 217-Enid Park"
   },
   "ocd-division/country:us/state:az/county:yavapai/precinct:208-yarn": {
    "name": "Yavapai County Precinct 208-Yarn"
   },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:217-enid_park": {
+   "name": "Maricopa County Precinct 217-Enid Park"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:433-mystic": {
+   "name": "Maricopa County Precinct 433-Mystic"
+  },
   "ocd-division/country:us/state:az/county:maricopa/school_district:madison_elementary_district": {
    "name": "madison elementary district"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:superior_school": {
-   "name": "superior school"
-  },
   "ocd-division/country:us/state:az/county:maricopa/precinct:302-holly": {
    "name": "Maricopa County Precinct 302-Holly"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/school_district:superior_school": {
+   "name": "superior school"
   },
   "ocd-division/country:us/state:az/county:pinal/school_district:eloy_elementary_district": {
    "name": "eloy elementary district"
@@ -345,35 +345,29 @@
   "ocd-division/country:us/state:az/county:maricopa/precinct:697-westward_ho": {
    "name": "Maricopa County Precinct 697-Westward Ho"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:719-woodglen": {
-   "name": "Maricopa County Precinct 719-Woodglen"
-  },
   "ocd-division/country:us/state:az/county:pinal/precinct:62-casa_blanca": {
    "name": "Pinal County Precinct 62-Casa Blanca"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:300-holiday_park": {
    "name": "Maricopa County Precinct 300-Holiday Park"
   },
-  "ocd-division/country:us/state:az/county:coconino/precinct:40-bellemont": {
-   "name": "Coconino County Precinct 40-Bellemont"
+  "ocd-division/country:us/state:az/county:maricopa/precinct:719-woodglen": {
+   "name": "Maricopa County Precinct 719-Woodglen"
   },
   "ocd-division/country:us/state:az/county:yavapai/school_district:accelerated_learning_charter_school_inc": {
    "name": "accelerated learning charter school  inc"
   },
+  "ocd-division/country:us/state:az/county:coconino/precinct:40-bellemont": {
+   "name": "Coconino County Precinct 40-Bellemont"
+  },
   "ocd-division/country:us/state:az/county:maricopa/precinct:22-apache_park": {
    "name": "Maricopa County Precinct 22-Apache Park"
-  },
-  "ocd-division/country:us/state:az/county:navajo/precinct:6-clay_springs": {
-   "name": "Navajo County Precinct 6-Clay Springs"
   },
   "ocd-division/country:us/state:az/county:navajo/school_district:career_development_inc": {
    "name": "career development  inc"
   },
-  "ocd-division/country:us/state:az/county:gila/school_district:gila_county_regional_school_district": {
-   "name": "gila county regional school district"
-  },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:159-daisy": {
-   "name": "Maricopa County Precinct 159-Daisy"
+  "ocd-division/country:us/state:az/county:navajo/precinct:6-clay_springs": {
+   "name": "Navajo County Precinct 6-Clay Springs"
   },
   "ocd-division/country:us/state:az/county:yavapai": {
    "name": "Yavapai County",
@@ -387,23 +381,29 @@
     77
    ]
   },
-  "ocd-division/country:us/state:az/county:cochise/school_district:cochise_community_development_corporation": {
-   "name": "cochise community development corporation"
+  "ocd-division/country:us/state:az/county:maricopa/precinct:159-daisy": {
+   "name": "Maricopa County Precinct 159-Daisy"
+  },
+  "ocd-division/country:us/state:az/county:gila/school_district:gila_county_regional_school_district": {
+   "name": "gila county regional school district"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:12-alpaca": {
    "name": "Maricopa County Precinct 12-Alpaca"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:imagine_charter_elementary_at_camelback_inc": {
-   "name": "imagine charter elementary at camelback  inc"
+  "ocd-division/country:us/state:az/county:cochise/school_district:cochise_community_development_corporation": {
+   "name": "cochise community development corporation"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:395-martin": {
    "name": "Maricopa County Precinct 395-Martin"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:phoenix_education_management_llc": {
-   "name": "phoenix education management  llc"
+  "ocd-division/country:us/state:az/county:maricopa/school_district:imagine_charter_elementary_at_camelback_inc": {
+   "name": "imagine charter elementary at camelback  inc"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:180-desert_sage": {
    "name": "Maricopa County Precinct 180-Desert Sage"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/school_district:phoenix_education_management_llc": {
+   "name": "phoenix education management  llc"
   },
   "ocd-division/country:us/state:az/county:santa_cruz/precinct:7-rio_rico": {
    "name": "Santa Cruz County Precinct 7-Rio Rico"
@@ -414,11 +414,11 @@
   "ocd-division/country:us/state:az/county:maricopa/school_district:edupreneurship_inc": {
    "name": "edupreneurship  inc"
   },
-  "ocd-division/country:us/state:az/place:el_mirage": {
-   "name": "El Mirage city"
-  },
   "ocd-division/country:us/state:az/place:queen_creek": {
    "name": "Queen Creek town"
+  },
+  "ocd-division/country:us/state:az/place:el_mirage": {
+   "name": "El Mirage city"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:690-west_point": {
    "name": "Maricopa County Precinct 690-West Point"
@@ -432,20 +432,20 @@
   "ocd-division/country:us/state:az/county:coconino/precinct:20-flagstaff": {
    "name": "Coconino County Precinct 20-Flagstaff"
   },
-  "ocd-division/country:us/state:az/county:apache/precinct:25-greer": {
-   "name": "Apache County Precinct 25-Greer"
-  },
   "ocd-division/country:us/state:az/county:pima/school_district:flowing_wells_unified_district": {
    "name": "flowing wells unified district"
+  },
+  "ocd-division/country:us/state:az/county:apache/precinct:25-greer": {
+   "name": "Apache County Precinct 25-Greer"
   },
   "ocd-division/country:us/state:az/county:pima/school_district:the_charter_foundation_inc": {
    "name": "the charter foundation  inc"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:376-luke": {
-   "name": "Maricopa County Precinct 376-Luke"
-  },
   "ocd-division/country:us/state:az/county:yavapai/school_district:humboldt_unified_district": {
    "name": "humboldt unified district"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:376-luke": {
+   "name": "Maricopa County Precinct 376-Luke"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:552-san_miguel": {
    "name": "Maricopa County Precinct 552-San Miguel"
@@ -459,26 +459,26 @@
   "ocd-division/country:us/state:az/county:apache/precinct:49-puerco_west": {
    "name": "Apache County Precinct 49-Puerco West"
   },
-  "ocd-division/country:us/state:az/county:mohave/precinct:42-buena_vista": {
-   "name": "Mohave County Precinct 42-Buena Vista"
-  },
   "ocd-division/country:us/state:az/county:yavapai/precinct:236-camp": {
    "name": "Yavapai County Precinct 236-Camp"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:76-cameo": {
-   "name": "Maricopa County Precinct 76-Cameo"
+  "ocd-division/country:us/state:az/county:mohave/precinct:42-buena_vista": {
+   "name": "Mohave County Precinct 42-Buena Vista"
   },
   "ocd-division/country:us/state:az/county:graham/school_district:pima_unified_district": {
    "name": "pima unified district"
   },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:76-cameo": {
+   "name": "Maricopa County Precinct 76-Cameo"
+  },
   "ocd-division/country:us/state:az/county:yavapai/school_district:prescott_valley_charter_school": {
    "name": "prescott valley charter school"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:618-sun_lakes_country_club": {
-   "name": "Maricopa County Precinct 618-Sun Lakes Country Club"
-  },
   "ocd-division/country:us/state:az/county:cochise/precinct:35-sierra_vista_moson": {
    "name": "Cochise County Precinct 35-Sierra Vista Moson"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:618-sun_lakes_country_club": {
+   "name": "Maricopa County Precinct 618-Sun Lakes Country Club"
   },
   "ocd-division/country:us/state:az/county:maricopa/school_district:happy_valley_school_inc": {
    "name": "happy valley school  inc"
@@ -498,20 +498,20 @@
   "ocd-division/country:us/state:az/county:maricopa/precinct:570-sentry": {
    "name": "Maricopa County Precinct 570-Sentry"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:647-tolleson": {
-   "name": "Maricopa County Precinct 647-Tolleson"
+  "ocd-division/country:us/state:az/county:pima/school_district:lifelong_learning_research_institute_inc": {
+   "name": "lifelong learning research institute  inc"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:517-reed_park": {
    "name": "Maricopa County Precinct 517-Reed Park"
   },
-  "ocd-division/country:us/state:az/county:pima/school_district:lifelong_learning_research_institute_inc": {
-   "name": "lifelong learning research institute  inc"
-  },
-  "ocd-division/country:us/state:az/county:navajo/school_district:kayenta_unified_district": {
-   "name": "kayenta unified district"
+  "ocd-division/country:us/state:az/county:maricopa/precinct:647-tolleson": {
+   "name": "Maricopa County Precinct 647-Tolleson"
   },
   "ocd-division/country:us/state:az/county:yavapai/school_district:pace_preparatory_academy_inc": {
    "name": "pace preparatory academy  inc"
+  },
+  "ocd-division/country:us/state:az/county:navajo/school_district:kayenta_unified_district": {
+   "name": "kayenta unified district"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:58-brewer": {
    "name": "Maricopa County Precinct 58-Brewer"
@@ -531,23 +531,23 @@
   "ocd-division/country:us/state:az/county:maricopa/precinct:482-peoria_heights": {
    "name": "Maricopa County Precinct 482-Peoria Heights"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:imagine_charter_elementary_at_desert_west_inc": {
-   "name": "imagine charter elementary at desert west  inc"
-  },
   "ocd-division/country:us/state:az/county:maricopa/precinct:453-orangewood_farms": {
    "name": "Maricopa County Precinct 453-Orangewood Farms"
   },
-  "ocd-division/country:us/state:az/county:mohave/precinct:56-davis_dam": {
-   "name": "Mohave County Precinct 56-Davis Dam"
+  "ocd-division/country:us/state:az/county:maricopa/school_district:imagine_charter_elementary_at_desert_west_inc": {
+   "name": "imagine charter elementary at desert west  inc"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:335-kings": {
    "name": "Maricopa County Precinct 335-Kings"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:9-alamo": {
-   "name": "Maricopa County Precinct 9-Alamo"
+  "ocd-division/country:us/state:az/county:mohave/precinct:56-davis_dam": {
+   "name": "Mohave County Precinct 56-Davis Dam"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:45-bethany_park": {
    "name": "Maricopa County Precinct 45-Bethany Park"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:9-alamo": {
+   "name": "Maricopa County Precinct 9-Alamo"
   },
   "ocd-division/country:us/state:az/county:yavapai/precinct:245-bighorn": {
    "name": "Yavapai County Precinct 245-Bighorn"
@@ -561,14 +561,14 @@
   "ocd-division/country:us/state:az/county:santa_cruz/school_district:santa_cruz_valley_unified_district": {
    "name": "santa cruz valley unified district"
   },
-  "ocd-division/country:us/state:az/county:mohave/precinct:68-chesapeake": {
-   "name": "Mohave County Precinct 68-Chesapeake"
+  "ocd-division/country:us/state:az/county:pima/school_district:sunnyside_unified_district": {
+   "name": "sunnyside unified district"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:200-duke": {
    "name": "Maricopa County Precinct 200-Duke"
   },
-  "ocd-division/country:us/state:az/county:pima/school_district:sunnyside_unified_district": {
-   "name": "sunnyside unified district"
+  "ocd-division/country:us/state:az/county:mohave/precinct:68-chesapeake": {
+   "name": "Mohave County Precinct 68-Chesapeake"
   },
   "ocd-division/country:us/state:az/county:navajo/school_district:winslow_unified_district": {
    "name": "winslow unified district"
@@ -960,23 +960,23 @@
   "ocd-division/country:us/state:az/county:yuma/precinct:43": {
    "name": "Yuma County Precinct 43"
   },
-  "ocd-division/country:us/state:az/county:coconino/precinct:74-page_south": {
-   "name": "Coconino County Precinct 74-Page South"
-  },
   "ocd-division/country:us/state:az/county:yuma/precinct:42": {
    "name": "Yuma County Precinct 42"
   },
-  "ocd-division/country:us/state:az/county:pinal/school_district:mammoth-san_manuel_unified_district": {
-   "name": "mammoth-san manuel unified district"
+  "ocd-division/country:us/state:az/county:coconino/precinct:74-page_south": {
+   "name": "Coconino County Precinct 74-Page South"
   },
   "ocd-division/country:us/state:az/county:yuma/precinct:41": {
    "name": "Yuma County Precinct 41"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:aibt_non-profit_charter_high_school_-_phoenix": {
-   "name": "aibt non-profit charter high school - phoenix"
+  "ocd-division/country:us/state:az/county:pinal/school_district:mammoth-san_manuel_unified_district": {
+   "name": "mammoth-san manuel unified district"
   },
   "ocd-division/country:us/state:az/county:yuma/precinct:40": {
    "name": "Yuma County Precinct 40"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/school_district:aibt_non-profit_charter_high_school_-_phoenix": {
+   "name": "aibt non-profit charter high school - phoenix"
   },
   "ocd-division/country:us/state:az/county:mohave/precinct:60-zuni": {
    "name": "Mohave County Precinct 60-Zuni"
@@ -984,26 +984,26 @@
   "ocd-division/country:us/state:az/county:maricopa/school_district:imagine_preparatory_at_superstition_llc": {
    "name": "imagine preparatory at superstition  llc"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:choice_education_and_development_corporation_dba_arizona_con": {
-   "name": "choice education and development corporation dba arizona con"
-  },
   "ocd-division/country:us/state:az/county:santa_cruz/precinct:10-nogales": {
    "name": "Santa Cruz County Precinct 10-Nogales"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:academy_of_excellence_inc": {
-   "name": "academy of excellence  inc"
+  "ocd-division/country:us/state:az/county:maricopa/school_district:choice_education_and_development_corporation_dba_arizona_con": {
+   "name": "choice education and development corporation dba arizona con"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:312-hudson": {
    "name": "Maricopa County Precinct 312-Hudson"
   },
+  "ocd-division/country:us/state:az/county:maricopa/school_district:academy_of_excellence_inc": {
+   "name": "academy of excellence  inc"
+  },
   "ocd-division/country:us/state:az/county:mohave/school_district:colorado_river_union_high_school_district": {
    "name": "colorado river union high school district"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:choice_education_and_development_corporation_-_learning_cros": {
-   "name": "choice education and development corporation - learning cros"
-  },
   "ocd-division/country:us/state:az/county:navajo/precinct:20-east_jeddito": {
    "name": "Navajo County Precinct 20-East Jeddito"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/school_district:choice_education_and_development_corporation_-_learning_cros": {
+   "name": "choice education and development corporation - learning cros"
   },
   "ocd-division/country:us/state:az/county:maricopa/school_district:litchfield_elementary_district": {
    "name": "litchfield elementary district"
@@ -1014,29 +1014,29 @@
   "ocd-division/country:us/state:az/county:maricopa/school_district:benjamin_franklin_charter_school": {
    "name": "benjamin franklin charter school"
   },
-  "ocd-division/country:us/state:az/county:cochise/precinct:10-douglas_carlson": {
-   "name": "Cochise County Precinct 10-Douglas Carlson"
-  },
   "ocd-division/country:us/state:az/county:maricopa/precinct:309-horizon": {
    "name": "Maricopa County Precinct 309-Horizon"
   },
-  "ocd-division/country:us/state:az/county:pinal/precinct:15-saddlebrooke_east": {
-   "name": "Pinal County Precinct 15-Saddlebrooke East"
+  "ocd-division/country:us/state:az/county:cochise/precinct:10-douglas_carlson": {
+   "name": "Cochise County Precinct 10-Douglas Carlson"
   },
   "ocd-division/country:us/state:az/place:surprise/council_district:2-cottonwood": {
    "name": "Surprise AZ city council district 2"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:123-compadre": {
-   "name": "Maricopa County Precinct 123-Compadre"
+  "ocd-division/country:us/state:az/county:pinal/precinct:15-saddlebrooke_east": {
+   "name": "Pinal County Precinct 15-Saddlebrooke East"
   },
   "ocd-division/country:us/state:az/county:yuma/precinct:30": {
    "name": "Yuma County Precinct 30"
   },
-  "ocd-division/country:us/state:az/county:pima/school_district:highland_free_school": {
-   "name": "highland free school"
+  "ocd-division/country:us/state:az/county:maricopa/precinct:123-compadre": {
+   "name": "Maricopa County Precinct 123-Compadre"
   },
   "ocd-division/country:us/state:az/county:yuma/precinct:32": {
    "name": "Yuma County Precinct 32"
+  },
+  "ocd-division/country:us/state:az/county:pima/school_district:highland_free_school": {
+   "name": "highland free school"
   },
   "ocd-division/country:us/state:az/county:yuma/precinct:31": {
    "name": "Yuma County Precinct 31"
@@ -1053,23 +1053,23 @@
   "ocd-division/country:us/state:az/county:yuma/precinct:36": {
    "name": "Yuma County Precinct 36"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:alhambra_elementary_district": {
-   "name": "alhambra elementary district"
-  },
   "ocd-division/country:us/state:az/county:yuma/precinct:37": {
    "name": "Yuma County Precinct 37"
   },
-  "ocd-division/country:us/state:az/county:yavapai/precinct:204-golf": {
-   "name": "Yavapai County Precinct 204-Golf"
+  "ocd-division/country:us/state:az/county:maricopa/school_district:alhambra_elementary_district": {
+   "name": "alhambra elementary district"
   },
   "ocd-division/country:us/state:az/county:yuma/precinct:38": {
    "name": "Yuma County Precinct 38"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:343-lake_pleasant": {
-   "name": "Maricopa County Precinct 343-Lake Pleasant"
+  "ocd-division/country:us/state:az/county:yavapai/precinct:204-golf": {
+   "name": "Yavapai County Precinct 204-Golf"
   },
   "ocd-division/country:us/state:az/county:yuma/precinct:39": {
    "name": "Yuma County Precinct 39"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:343-lake_pleasant": {
+   "name": "Maricopa County Precinct 343-Lake Pleasant"
   },
   "ocd-division/country:us/state:az/county:maricopa/school_district:morristown_elementary_district": {
    "name": "morristown elementary district"
@@ -1080,14 +1080,14 @@
   "ocd-division/country:us/state:az/county:navajo/precinct:8-east_forest_lake": {
    "name": "Navajo County Precinct 8-East Forest Lake"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:liberty_arts_academy_public_charter_elementary_school": {
-   "name": "liberty arts academy public charter elementary school"
+  "ocd-division/country:us/state:az/county:coconino/precinct:99-williams_southside": {
+   "name": "Coconino County Precinct 99-Williams Southside"
   },
   "ocd-division/country:us/state:az/county:gila/precinct:100-globe_1": {
    "name": "Gila County Precinct 100-Globe 1"
   },
-  "ocd-division/country:us/state:az/county:coconino/precinct:99-williams_southside": {
-   "name": "Coconino County Precinct 99-Williams Southside"
+  "ocd-division/country:us/state:az/county:maricopa/school_district:liberty_arts_academy_public_charter_elementary_school": {
+   "name": "liberty arts academy public charter elementary school"
   },
   "ocd-division/country:us/state:az/county:santa_cruz/precinct:18-nogales": {
    "name": "Santa Cruz County Precinct 18-Nogales"
@@ -1111,26 +1111,26 @@
   "ocd-division/country:us/state:az/county:yuma/precinct:21": {
    "name": "Yuma County Precinct 21"
   },
-  "ocd-division/country:us/state:az/county:mohave/precinct:17-s_w_kingman": {
-   "name": "Mohave County Precinct 17-S W Kingman"
-  },
   "ocd-division/country:us/state:az/county:pima/school_district:vision_charter_school_inc": {
    "name": "vision charter school  inc"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:south_pointe_public_charter_junior_high_school": {
-   "name": "south pointe public charter junior high school"
-  },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:new_world_educational_center": {
-   "name": "new world educational center"
+  "ocd-division/country:us/state:az/county:mohave/precinct:17-s_w_kingman": {
+   "name": "Mohave County Precinct 17-S W Kingman"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:533-roeser": {
    "name": "Maricopa County Precinct 533-Roeser"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:challenge_school_inc": {
-   "name": "challenge school  inc"
+  "ocd-division/country:us/state:az/county:maricopa/school_district:new_world_educational_center": {
+   "name": "new world educational center"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/school_district:south_pointe_public_charter_junior_high_school": {
+   "name": "south pointe public charter junior high school"
   },
   "ocd-division/country:us/state:az/county:maricopa/school_district:az_dept_of_juvenile_corrections": {
    "name": "az dept of juvenile corrections"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/school_district:challenge_school_inc": {
+   "name": "challenge school  inc"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:721-youngtown": {
    "name": "Maricopa County Precinct 721-Youngtown"
@@ -1150,32 +1150,32 @@
   "ocd-division/country:us/state:az/county:yavapai/precinct:229-onyx": {
    "name": "Yavapai County Precinct 229-Onyx"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:littleton_elementary_district": {
-   "name": "littleton elementary district"
-  },
   "ocd-division/country:us/state:az/county:maricopa/school_district:chandler_preparatory_academy": {
    "name": "chandler preparatory academy"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:495-pioneer": {
-   "name": "Maricopa County Precinct 495-Pioneer"
+  "ocd-division/country:us/state:az/county:maricopa/school_district:littleton_elementary_district": {
+   "name": "littleton elementary district"
   },
   "ocd-division/country:us/state:az/county:yavapai/school_district:mingus_union_high_school_district": {
    "name": "mingus union high school district"
   },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:495-pioneer": {
+   "name": "Maricopa County Precinct 495-Pioneer"
+  },
   "ocd-division/country:us/state:az/county:yuma/precinct:29": {
    "name": "Yuma County Precinct 29"
-  },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:new_school_for_the_arts_middle_school": {
-   "name": "new school for the arts middle school"
   },
   "ocd-division/country:us/state:az/county:yuma/precinct:28": {
    "name": "Yuma County Precinct 28"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:328-justine": {
-   "name": "Maricopa County Precinct 328-Justine"
+  "ocd-division/country:us/state:az/county:maricopa/school_district:new_school_for_the_arts_middle_school": {
+   "name": "new school for the arts middle school"
   },
   "ocd-division/country:us/state:az/county:yuma/precinct:27": {
    "name": "Yuma County Precinct 27"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:328-justine": {
+   "name": "Maricopa County Precinct 328-Justine"
   },
   "ocd-division/country:us/state:az/county:yuma/precinct:26": {
    "name": "Yuma County Precinct 26"
@@ -2197,11 +2197,11 @@
   "ocd-division/country:us/state:az/county:coconino/precinct:23-flagstaff": {
    "name": "Coconino County Precinct 23-Flagstaff"
   },
-  "ocd-division/country:us/state:az/county:pinal/precinct:38-casa_grande_sw": {
-   "name": "Pinal County Precinct 38-Casa Grande Sw"
-  },
   "ocd-division/country:us/state:az/place:youngtown": {
    "name": "Youngtown town"
+  },
+  "ocd-division/country:us/state:az/county:pinal/precinct:38-casa_grande_sw": {
+   "name": "Pinal County Precinct 38-Casa Grande Sw"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:134-cordova": {
    "name": "Maricopa County Precinct 134-Cordova"
@@ -2236,17 +2236,17 @@
   "ocd-division/country:us/state:az/county:maricopa/precinct:323-jentilly": {
    "name": "Maricopa County Precinct 323-Jentilly"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:522-rio_montana": {
-   "name": "Maricopa County Precinct 522-Rio Montana"
-  },
   "ocd-division/country:us/state:az/county:maricopa/precinct:361-lobo": {
    "name": "Maricopa County Precinct 361-Lobo"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:457-paiute": {
-   "name": "Maricopa County Precinct 457-Paiute"
+  "ocd-division/country:us/state:az/county:maricopa/precinct:522-rio_montana": {
+   "name": "Maricopa County Precinct 522-Rio Montana"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:165-deadman_wash": {
    "name": "Maricopa County Precinct 165-Deadman Wash"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:457-paiute": {
+   "name": "Maricopa County Precinct 457-Paiute"
   },
   "ocd-division/country:us/state:az/county:pinal/precinct:41-casa_grande_interchange": {
    "name": "Pinal County Precinct 41-Casa Grande Interchange"
@@ -2257,11 +2257,11 @@
   "ocd-division/country:us/state:az/county:maricopa/school_district:washington_elementary_school_district": {
    "name": "washington elementary school district"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:39-barbados": {
-   "name": "Maricopa County Precinct 39-Barbados"
-  },
   "ocd-division/country:us/state:az/county:yavapai/school_district:new_visions_academy_inc": {
    "name": "new visions academy  inc"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:39-barbados": {
+   "name": "Maricopa County Precinct 39-Barbados"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:419-mohave": {
    "name": "Maricopa County Precinct 419-Mohave"
@@ -2269,11 +2269,11 @@
   "ocd-division/country:us/state:az/county:maricopa/precinct:603-spur": {
    "name": "Maricopa County Precinct 603-Spur"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:69-cactus_glen": {
-   "name": "Maricopa County Precinct 69-Cactus Glen"
-  },
   "ocd-division/country:us/state:az/county:pima/school_district:tucson_international_academy_inc": {
    "name": "tucson international academy  inc"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:69-cactus_glen": {
+   "name": "Maricopa County Precinct 69-Cactus Glen"
   },
   "ocd-division/country:us/state:az/county:yavapai/school_district:cottonwood-oak_creek_elementary_district": {
    "name": "cottonwood-oak creek elementary district"
@@ -2299,11 +2299,11 @@
   "ocd-division/country:us/state:az/county:maricopa/precinct:688-wendy": {
    "name": "Maricopa County Precinct 688-Wendy"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:primavera_technical_learning_center": {
-   "name": "primavera technical learning center"
-  },
   "ocd-division/country:us/state:az/county:maricopa/precinct:471-paradise_park": {
    "name": "Maricopa County Precinct 471-Paradise Park"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/school_district:primavera_technical_learning_center": {
+   "name": "primavera technical learning center"
   },
   "ocd-division/country:us/state:az/county:cochise/school_district:palominas_elementary_district": {
    "name": "palominas elementary district"
@@ -2311,20 +2311,20 @@
   "ocd-division/country:us/state:az/county:yavapai/school_district:sunnyside_charter_and_montessori_school": {
    "name": "sunnyside charter and montessori school"
   },
-  "ocd-division/country:us/state:az/county:navajo/school_district:northern_arizona_vocational_institute_of_technology": {
-   "name": "northern arizona vocational institute of technology"
-  },
   "ocd-division/country:us/state:az/county:pima/school_district:nosotros_inc": {
    "name": "nosotros  inc"
+  },
+  "ocd-division/country:us/state:az/county:navajo/school_district:northern_arizona_vocational_institute_of_technology": {
+   "name": "northern arizona vocational institute of technology"
   },
   "ocd-division/country:us/state:az/place:litchfield_park": {
    "name": "Litchfield Park city"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:636-sutton": {
-   "name": "Maricopa County Precinct 636-Sutton"
-  },
   "ocd-division/country:us/state:az/county:coconino/precinct:75-page_west": {
    "name": "Coconino County Precinct 75-Page West"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:636-sutton": {
+   "name": "Maricopa County Precinct 636-Sutton"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:612-stonegate": {
    "name": "Maricopa County Precinct 612-Stonegate"
@@ -2332,11 +2332,11 @@
   "ocd-division/country:us/state:az/county:maricopa/precinct:363-loma_linda": {
    "name": "Maricopa County Precinct 363-Loma Linda"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:723-yuma": {
-   "name": "Maricopa County Precinct 723-Yuma"
-  },
   "ocd-division/country:us/state:az/county:maricopa/precinct:336-kiva": {
    "name": "Maricopa County Precinct 336-Kiva"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:723-yuma": {
+   "name": "Maricopa County Precinct 723-Yuma"
   },
   "ocd-division/country:us/state:az/county:pima/school_district:allsport_academy": {
    "name": "allsport academy"
@@ -3823,14 +3823,14 @@
   "ocd-division/country:us/state:az/county:yavapai/precinct:202-court": {
    "name": "Yavapai County Precinct 202-Court"
   },
+  "ocd-division/country:us/state:az/county:santa_cruz/precinct:2-nogales": {
+   "name": "Santa Cruz County Precinct 2-Nogales"
+  },
   "ocd-division/country:us/state:az/county:pima/council_district:5": {
    "name": "Pima County AZ Board of Supervisors District 5",
    "officeIndices": [
     157
    ]
-  },
-  "ocd-division/country:us/state:az/county:santa_cruz/precinct:2-nogales": {
-   "name": "Santa Cruz County Precinct 2-Nogales"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:520-riata": {
    "name": "Maricopa County Precinct 520-Riata"
@@ -4699,14 +4699,14 @@
     166
    ]
   },
+  "ocd-division/country:us/state:az/county:pinal/precinct:24-florence_south": {
+   "name": "Pinal County Precinct 24-Florence South"
+  },
   "ocd-division/country:us/state:az/county:gila/council_district:1": {
    "name": "Gila County Supervisor District 1",
    "officeIndices": [
     167
    ]
-  },
-  "ocd-division/country:us/state:az/county:pinal/precinct:24-florence_south": {
-   "name": "Pinal County Precinct 24-Florence South"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:415-mission": {
    "name": "Maricopa County Precinct 415-Mission"
@@ -4762,17 +4762,17 @@
   "ocd-division/country:us/state:az/county:maricopa/precinct:411-michelle": {
    "name": "Maricopa County Precinct 411-Michelle"
   },
-  "ocd-division/country:us/state:az/county:coconino/precinct:14-flagstaff": {
-   "name": "Coconino County Precinct 14-Flagstaff"
-  },
   "ocd-division/country:us/state:az/county:pinal/school_district:casa_grande_union_high_school_district": {
    "name": "casa grande union high school district"
   },
-  "ocd-division/country:us/state:az/county:maricopa/school_district:edkey_inc_-_sequoia_ranch_school": {
-   "name": "edkey  inc - sequoia ranch school"
+  "ocd-division/country:us/state:az/county:coconino/precinct:14-flagstaff": {
+   "name": "Coconino County Precinct 14-Flagstaff"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:157-culver": {
    "name": "Maricopa County Precinct 157-Culver"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/school_district:edkey_inc_-_sequoia_ranch_school": {
+   "name": "edkey  inc - sequoia ranch school"
   },
   "ocd-division/country:us/state:az/county:cochise/precinct:39-sierra_vista_soldier_creek": {
    "name": "Cochise County Precinct 39-Sierra Vista Soldier Creek"
@@ -4786,11 +4786,11 @@
   "ocd-division/country:us/state:az/county:maricopa/precinct:201-dunbar": {
    "name": "Maricopa County Precinct 201-Dunbar"
   },
-  "ocd-division/country:us/state:az/county:mohave/precinct:28-riviera": {
-   "name": "Mohave County Precinct 28-Riviera"
-  },
   "ocd-division/country:us/state:az/county:maricopa/precinct:511-rancho_mirage": {
    "name": "Maricopa County Precinct 511-Rancho Mirage"
+  },
+  "ocd-division/country:us/state:az/county:mohave/precinct:28-riviera": {
+   "name": "Mohave County Precinct 28-Riviera"
   },
   "ocd-division/country:us/state:az/county:cochise/precinct:37-sierra_vista_ramsey": {
    "name": "Cochise County Precinct 37-Sierra Vista Ramsey"
@@ -4798,26 +4798,26 @@
   "ocd-division/country:us/state:az/county:maricopa/school_district:foothills_academy": {
    "name": "foothills academy"
   },
-  "ocd-division/country:us/state:az/county:mohave/school_district:peach_springs_unified_district": {
-   "name": "peach springs unified district"
-  },
   "ocd-division/country:us/state:az/county:maricopa/school_district:american_charter_schools_foundation_d.b.a._crestview_college": {
    "name": "american charter schools foundation d.b.a. crestview college"
+  },
+  "ocd-division/country:us/state:az/county:mohave/school_district:peach_springs_unified_district": {
+   "name": "peach springs unified district"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:480-pena": {
    "name": "Maricopa County Precinct 480-Pena"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:185-dessie": {
-   "name": "Maricopa County Precinct 185-Dessie"
-  },
   "ocd-division/country:us/state:az/county:maricopa/precinct:298-hohokam_park": {
    "name": "Maricopa County Precinct 298-Hohokam Park"
   },
-  "ocd-division/country:us/state:az/county:mohave/precinct:19-e_kingman": {
-   "name": "Mohave County Precinct 19-E Kingman"
+  "ocd-division/country:us/state:az/county:maricopa/precinct:185-dessie": {
+   "name": "Maricopa County Precinct 185-Dessie"
   },
   "ocd-division/country:us/state:az/county:la_paz/school_district:salome_consolidated_elementary_district": {
    "name": "salome consolidated elementary district"
+  },
+  "ocd-division/country:us/state:az/county:mohave/precinct:19-e_kingman": {
+   "name": "Mohave County Precinct 19-E Kingman"
   },
   "ocd-division/country:us/state:az/county:pinal/precinct:36-casa_grande_se": {
    "name": "Pinal County Precinct 36-Casa Grande Se"
@@ -4837,11 +4837,11 @@
   "ocd-division/country:us/state:az/county:maricopa/precinct:71-calavar": {
    "name": "Maricopa County Precinct 71-Calavar"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:70-cairo": {
-   "name": "Maricopa County Precinct 70-Cairo"
-  },
   "ocd-division/country:us/state:az/county:maricopa/precinct:115-club_west": {
    "name": "Maricopa County Precinct 115-Club West"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:70-cairo": {
+   "name": "Maricopa County Precinct 70-Cairo"
   },
   "ocd-division/country:us/state:az/county:navajo/precinct:4-chilchinbeto": {
    "name": "Navajo County Precinct 4-Chilchinbeto"
@@ -4849,11 +4849,11 @@
   "ocd-division/country:us/state:az/county:maricopa/precinct:702-whitton": {
    "name": "Maricopa County Precinct 702-Whitton"
   },
-  "ocd-division/country:us/state:az/county:maricopa/precinct:439-norton": {
-   "name": "Maricopa County Precinct 439-Norton"
-  },
   "ocd-division/country:us/state:az/county:pima/school_district:carden_of_tucson_inc": {
    "name": "carden of tucson  inc"
+  },
+  "ocd-division/country:us/state:az/county:maricopa/precinct:439-norton": {
+   "name": "Maricopa County Precinct 439-Norton"
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:84-carefree": {
    "name": "Maricopa County Precinct 84-Carefree"
@@ -5497,19 +5497,13 @@
   "ocd-division/country:us/state:az/county:navajo/precinct:36-polacca": {
    "name": "Navajo County Precinct 36-Polacca"
   },
+  "ocd-division/country:us/state:az/county:pima/precinct:97": {
+   "name": "Pima County Precinct 97"
+  },
   "ocd-division/country:us/state:az/cd:9": {
    "name": "Arizona's 9th congressional district",
    "officeIndices": [
     1
-   ]
-  },
-  "ocd-division/country:us/state:az/county:pima/precinct:97": {
-   "name": "Pima County Precinct 97"
-  },
-  "ocd-division/country:us/state:az/cd:8": {
-   "name": "Arizona's 8th congressional district",
-   "officeIndices": [
-    2
    ]
   },
   "ocd-division/country:us/state:az/place:phoenix": {
@@ -5523,6 +5517,12 @@
   },
   "ocd-division/country:us/state:az/county:maricopa/precinct:17-anderson": {
    "name": "Maricopa County Precinct 17-Anderson"
+  },
+  "ocd-division/country:us/state:az/cd:8": {
+   "name": "Arizona's 8th congressional district",
+   "officeIndices": [
+    2
+   ]
   },
   "ocd-division/country:us/state:az/county:pima/precinct:95": {
    "name": "Pima County Precinct 95"
@@ -5551,26 +5551,26 @@
     4
    ]
   },
-  "ocd-division/country:us/state:az/cd:7": {
-   "name": "Arizona's 7th congressional district",
-   "officeIndices": [
-    5
-   ]
-  },
   "ocd-division/country:us/state:az/place:surprise/council_district:6-palo_verde": {
    "name": "Surprise AZ city council district 6"
   },
   "ocd-division/country:us/state:az/county:pima/precinct:99": {
    "name": "Pima County Precinct 99"
   },
+  "ocd-division/country:us/state:az/cd:7": {
+   "name": "Arizona's 7th congressional district",
+   "officeIndices": [
+    5
+   ]
+  },
+  "ocd-division/country:us/state:az/county:pima/precinct:98": {
+   "name": "Pima County Precinct 98"
+  },
   "ocd-division/country:us/state:az/cd:6": {
    "name": "Arizona's 6th congressional district",
    "officeIndices": [
     6
    ]
-  },
-  "ocd-division/country:us/state:az/county:pima/precinct:98": {
-   "name": "Pima County Precinct 98"
   },
   "ocd-division/country:us/state:az/county:pima/precinct:93": {
    "name": "Pima County Precinct 93"
@@ -5692,14 +5692,14 @@
   "ocd-division/country:us/state:az/county:maricopa/precinct:643-terravita": {
    "name": "Maricopa County Precinct 643-Terravita"
   },
+  "ocd-division/country:us/state:az/place:surprise/council_district:3-mesquite": {
+   "name": "Surprise AZ city council district 3"
+  },
   "ocd-division/country:us/state:az/cd:1": {
    "name": "Arizona's 1st congressional district",
    "officeIndices": [
     9
    ]
-  },
-  "ocd-division/country:us/state:az/place:surprise/council_district:3-mesquite": {
-   "name": "Surprise AZ city council district 3"
   },
   "ocd-division/country:us/state:az/county:pima/precinct:79": {
    "name": "Pima County Precinct 79"
@@ -5851,6 +5851,9 @@
   "ocd-division/country:us/state:az/county:pima/precinct:67": {
    "name": "Pima County Precinct 67"
   },
+  "ocd-division/country:us/state:az/county:pima/precinct:62": {
+   "name": "Pima County Precinct 62"
+  },
   "ocd-division/country:us/state:az/county:cochise": {
    "name": "Cochise County",
    "officeIndices": [
@@ -5862,9 +5865,6 @@
     197,
     198
    ]
-  },
-  "ocd-division/country:us/state:az/county:pima/precinct:62": {
-   "name": "Pima County Precinct 62"
   },
   "ocd-division/country:us/state:az/county:pima/precinct:61": {
    "name": "Pima County Precinct 61"

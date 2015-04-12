@@ -18,20 +18,20 @@
   "ocd-division/country:us/state:ma/place:lawrence/ward:f/precinct:2": {
    "name": "Lawrence MA - Ward F Precinct 2"
   },
-  "ocd-division/country:us/state:ma/place:quincy/ward:5/precinct:5": {
-   "name": "Quincy MA - Ward 5 Precinct 5"
-  },
   "ocd-division/country:us/state:ma/place:lawrence/ward:f/precinct:3": {
    "name": "Lawrence MA - Ward F Precinct 3"
   },
-  "ocd-division/country:us/state:ma/county:norfolk/school_district:wrentham": {
-   "name": "wrentham"
+  "ocd-division/country:us/state:ma/place:quincy/ward:5/precinct:5": {
+   "name": "Quincy MA - Ward 5 Precinct 5"
   },
   "ocd-division/country:us/state:ma/sldl:9th_plymouth": {
    "name": "Massachusetts 9th Plymouth district",
    "officeIndices": [
     10
    ]
+  },
+  "ocd-division/country:us/state:ma/county:norfolk/school_district:wrentham": {
+   "name": "wrentham"
   },
   "ocd-division/country:us/state:ma/place:quincy/ward:5/precinct:2": {
    "name": "Quincy MA - Ward 5 Precinct 2"
@@ -72,11 +72,11 @@
   "ocd-division/country:us/state:ma/county:suffolk/school_district:neighborhood_house_charter_district": {
    "name": "neighborhood house charter (district)"
   },
-  "ocd-division/country:us/state:ma/place:burlington/precinct:1": {
-   "name": "Burlington MA - Precinct 1"
-  },
   "ocd-division/country:us/state:ma/place:everett/ward:5": {
    "name": "Everett MA - Ward 5"
+  },
+  "ocd-division/country:us/state:ma/place:burlington/precinct:1": {
+   "name": "Burlington MA - Precinct 1"
   },
   "ocd-division/country:us/state:ma/place:burlington/precinct:2": {
    "name": "Burlington MA - Precinct 2"
@@ -363,11 +363,11 @@
     16
    ]
   },
-  "ocd-division/country:us/state:ma/place:monroe": {
-   "name": "Monroe town"
-  },
   "ocd-division/country:us/state:ma/county:bristol/school_district:taunton": {
    "name": "taunton"
+  },
+  "ocd-division/country:us/state:ma/place:monroe": {
+   "name": "Monroe town"
   },
   "ocd-division/country:us/state:ma/sldl:7th_norfolk": {
    "name": "Massachusetts 7th Norfolk district",
@@ -375,23 +375,23 @@
     17
    ]
   },
-  "ocd-division/country:us/state:ma/place:springfield/ward:7/precinct:g": {
-   "name": "Springfield MA - Ward 7 Precinct g"
+  "ocd-division/country:us/state:ma/place:gardner/ward:3/precinct:a": {
+   "name": "Gardner MA - Ward 3 Precinct a"
   },
   "ocd-division/country:us/state:ma/place:lawrence/ward:e/precinct:2": {
    "name": "Lawrence MA - Ward E Precinct 2"
   },
-  "ocd-division/country:us/state:ma/place:gardner/ward:3/precinct:a": {
-   "name": "Gardner MA - Ward 3 Precinct a"
+  "ocd-division/country:us/state:ma/place:springfield/ward:7/precinct:g": {
+   "name": "Springfield MA - Ward 7 Precinct g"
   },
-  "ocd-division/country:us/state:ma/place:springfield/ward:7/precinct:h": {
-   "name": "Springfield MA - Ward 7 Precinct h"
+  "ocd-division/country:us/state:ma/place:gardner/ward:3/precinct:b": {
+   "name": "Gardner MA - Ward 3 Precinct b"
   },
   "ocd-division/country:us/state:ma/place:lawrence/ward:e/precinct:1": {
    "name": "Lawrence MA - Ward E Precinct 1"
   },
-  "ocd-division/country:us/state:ma/place:gardner/ward:3/precinct:b": {
-   "name": "Gardner MA - Ward 3 Precinct b"
+  "ocd-division/country:us/state:ma/place:springfield/ward:7/precinct:h": {
+   "name": "Springfield MA - Ward 7 Precinct h"
   },
   "ocd-division/country:us/state:ma/place:springfield/ward:7/precinct:e": {
    "name": "Springfield MA - Ward 7 Precinct e"
@@ -420,20 +420,20 @@
   "ocd-division/country:us/state:ma/county:essex/school_district:andover": {
    "name": "andover"
   },
-  "ocd-division/country:us/state:ma/place:pittsfield": {
-   "name": "Pittsfield city"
-  },
   "ocd-division/country:us/state:ma/place:new_bedford/ward:4": {
    "name": "New bedford MA - Ward 4"
   },
-  "ocd-division/country:us/state:ma/place:new_bedford/ward:3": {
-   "name": "New bedford MA - Ward 3"
+  "ocd-division/country:us/state:ma/place:pittsfield": {
+   "name": "Pittsfield city"
   },
   "ocd-division/country:us/state:ma/sldl:1st_worcester": {
    "name": "Massachusetts 1st Worcester district",
    "officeIndices": [
     18
    ]
+  },
+  "ocd-division/country:us/state:ma/place:new_bedford/ward:3": {
+   "name": "New bedford MA - Ward 3"
   },
   "ocd-division/country:us/state:ma/place:new_bedford/ward:6": {
    "name": "New bedford MA - Ward 6"
@@ -444,20 +444,20 @@
   "ocd-division/country:us/state:ma/place:new_bedford/ward:2": {
    "name": "New bedford MA - Ward 2"
   },
-  "ocd-division/country:us/state:ma/place:new_bedford/ward:1": {
-   "name": "New bedford MA - Ward 1"
-  },
   "ocd-division/country:us/state:ma/place:middlefield": {
    "name": "Middlefield town"
+  },
+  "ocd-division/country:us/state:ma/place:new_bedford/ward:1": {
+   "name": "New bedford MA - Ward 1"
   },
   "ocd-division/country:us/state:ma/county:bristol/school_district:fairhaven": {
    "name": "fairhaven"
   },
-  "ocd-division/country:us/state:ma/place:warren/precinct:a": {
-   "name": "Warren MA - Precinct a"
-  },
   "ocd-division/country:us/state:ma/place:shutesbury": {
    "name": "Shutesbury town"
+  },
+  "ocd-division/country:us/state:ma/place:warren/precinct:a": {
+   "name": "Warren MA - Precinct a"
   },
   "ocd-division/country:us/state:ma/place:warren/precinct:b": {
    "name": "Warren MA - Precinct b"
@@ -474,17 +474,17 @@
   "ocd-division/country:us/state:ma/place:stoneham/precinct:3": {
    "name": "Stoneham MA - Precinct 3"
   },
-  "ocd-division/country:us/state:ma/place:stoneham/precinct:6": {
-   "name": "Stoneham MA - Precinct 6"
-  },
   "ocd-division/country:us/state:ma/place:lawrence/ward:e/precinct:4": {
    "name": "Lawrence MA - Ward E Precinct 4"
   },
-  "ocd-division/country:us/state:ma/place:stoneham/precinct:5": {
-   "name": "Stoneham MA - Precinct 5"
+  "ocd-division/country:us/state:ma/place:stoneham/precinct:6": {
+   "name": "Stoneham MA - Precinct 6"
   },
   "ocd-division/country:us/state:ma/place:lawrence/ward:e/precinct:3": {
    "name": "Lawrence MA - Ward E Precinct 3"
+  },
+  "ocd-division/country:us/state:ma/place:stoneham/precinct:5": {
+   "name": "Stoneham MA - Precinct 5"
   },
   "ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_middlesex": {
    "name": "Massachusetts Norfolk, Bristol & Middlesex district",
@@ -510,47 +510,47 @@
   "ocd-division/country:us/state:ma/place:saugus/precinct:8": {
    "name": "Saugus MA - Precinct 8"
   },
-  "ocd-division/country:us/state:ma/place:saugus/precinct:9": {
-   "name": "Saugus MA - Precinct 9"
-  },
   "ocd-division/country:us/state:ma/place:peabody/ward:2/precinct:3": {
    "name": "Peabody MA - Ward 2 Precinct 3"
+  },
+  "ocd-division/country:us/state:ma/place:saugus/precinct:9": {
+   "name": "Saugus MA - Precinct 9"
   },
   "ocd-division/country:us/state:ma/place:rockland/precinct:6": {
    "name": "Rockland MA - Precinct 6"
   },
-  "ocd-division/country:us/state:ma/place:rockland/precinct:4": {
-   "name": "Rockland MA - Precinct 4"
-  },
   "ocd-division/country:us/state:ma/county:barnstable/school_district:provincetown": {
    "name": "provincetown"
+  },
+  "ocd-division/country:us/state:ma/place:rockland/precinct:4": {
+   "name": "Rockland MA - Precinct 4"
   },
   "ocd-division/country:us/state:ma/place:rockland/precinct:5": {
    "name": "Rockland MA - Precinct 5"
   },
-  "ocd-division/country:us/state:ma/place:rockland/precinct:2": {
-   "name": "Rockland MA - Precinct 2"
-  },
   "ocd-division/country:us/state:ma/place:peabody/ward:2/precinct:2": {
    "name": "Peabody MA - Ward 2 Precinct 2"
   },
-  "ocd-division/country:us/state:ma/place:rockland/precinct:3": {
-   "name": "Rockland MA - Precinct 3"
+  "ocd-division/country:us/state:ma/place:rockland/precinct:2": {
+   "name": "Rockland MA - Precinct 2"
   },
   "ocd-division/country:us/state:ma/place:peabody/ward:2/precinct:1": {
    "name": "Peabody MA - Ward 2 Precinct 1"
   },
-  "ocd-division/country:us/state:ma/place:saugus/precinct:1": {
-   "name": "Saugus MA - Precinct 1"
+  "ocd-division/country:us/state:ma/place:rockland/precinct:3": {
+   "name": "Rockland MA - Precinct 3"
   },
   "ocd-division/country:us/state:ma/place:attleboro/ward:1/precinct:b": {
    "name": "Attleboro MA - Ward 1 Precinct b"
   },
-  "ocd-division/country:us/state:ma/place:saugus/precinct:2": {
-   "name": "Saugus MA - Precinct 2"
+  "ocd-division/country:us/state:ma/place:saugus/precinct:1": {
+   "name": "Saugus MA - Precinct 1"
   },
   "ocd-division/country:us/state:ma/place:attleboro/ward:1/precinct:a": {
    "name": "Attleboro MA - Ward 1 Precinct a"
+  },
+  "ocd-division/country:us/state:ma/place:saugus/precinct:2": {
+   "name": "Saugus MA - Precinct 2"
   },
   "ocd-division/country:us/state:ma/place:saugus/precinct:3": {
    "name": "Saugus MA - Precinct 3"
@@ -603,14 +603,14 @@
   "ocd-division/country:us/state:ma/place:lowell/ward:1/precinct:2": {
    "name": "Lowell MA - Ward 1 Precinct 2"
   },
-  "ocd-division/country:us/state:ma/place:lowell/ward:1/precinct:1": {
-   "name": "Lowell MA - Ward 1 Precinct 1"
+  "ocd-division/country:us/state:ma/place:boston/ward:17/precinct:10": {
+   "name": "Boston MA - Ward 17 Precinct 10"
   },
   "ocd-division/country:us/state:ma/place:hawley": {
    "name": "Hawley town"
   },
-  "ocd-division/country:us/state:ma/place:boston/ward:17/precinct:10": {
-   "name": "Boston MA - Ward 17 Precinct 10"
+  "ocd-division/country:us/state:ma/place:lowell/ward:1/precinct:1": {
+   "name": "Lowell MA - Ward 1 Precinct 1"
   },
   "ocd-division/country:us/state:ma/place:franklin_town/precinct:1": {
    "name": "Franklin MA - Precinct 1"
@@ -618,26 +618,26 @@
   "ocd-division/country:us/state:ma/county:worcester/school_district:athol-royalston": {
    "name": "athol-royalston"
   },
-  "ocd-division/country:us/state:ma/place:natick/precinct:4": {
-   "name": "Natick MA - Precinct 4"
-  },
   "ocd-division/country:us/state:ma/place:franklin_town/precinct:6": {
    "name": "Franklin MA - Precinct 6"
   },
-  "ocd-division/country:us/state:ma/place:natick/precinct:5": {
-   "name": "Natick MA - Precinct 5"
+  "ocd-division/country:us/state:ma/place:natick/precinct:4": {
+   "name": "Natick MA - Precinct 4"
   },
   "ocd-division/country:us/state:ma/place:franklin_town/precinct:7": {
    "name": "Franklin MA - Precinct 7"
   },
-  "ocd-division/country:us/state:ma/place:natick/precinct:2": {
-   "name": "Natick MA - Precinct 2"
+  "ocd-division/country:us/state:ma/place:natick/precinct:5": {
+   "name": "Natick MA - Precinct 5"
+  },
+  "ocd-division/country:us/state:ma/place:franklin_town/precinct:8": {
+   "name": "Franklin MA - Precinct 8"
   },
   "ocd-division/country:us/state:ma/county:plymouth/school_district:abington": {
    "name": "abington"
   },
-  "ocd-division/country:us/state:ma/place:franklin_town/precinct:8": {
-   "name": "Franklin MA - Precinct 8"
+  "ocd-division/country:us/state:ma/place:natick/precinct:2": {
+   "name": "Natick MA - Precinct 2"
   },
   "ocd-division/country:us/state:ma/place:natick/precinct:3": {
    "name": "Natick MA - Precinct 3"
@@ -750,11 +750,11 @@
   "ocd-division/country:us/state:ma/place:watertown_town/precinct:8": {
    "name": "Watertown MA - Precinct 8"
   },
-  "ocd-division/country:us/state:ma/place:watertown_town/precinct:7": {
-   "name": "Watertown MA - Precinct 7"
-  },
   "ocd-division/country:us/state:ma/place:athol/precinct:1": {
    "name": "Athol MA - Precinct 1"
+  },
+  "ocd-division/country:us/state:ma/place:watertown_town/precinct:7": {
+   "name": "Watertown MA - Precinct 7"
   },
   "ocd-division/country:us/state:ma/place:watertown_town/precinct:6": {
    "name": "Watertown MA - Precinct 6"
@@ -762,11 +762,11 @@
   "ocd-division/country:us/state:ma/place:athol/precinct:3": {
    "name": "Athol MA - Precinct 3"
   },
-  "ocd-division/country:us/state:ma/place:athol/precinct:2": {
-   "name": "Athol MA - Precinct 2"
-  },
   "ocd-division/country:us/state:ma/county:middlesex/school_district:wayland": {
    "name": "wayland"
+  },
+  "ocd-division/country:us/state:ma/place:athol/precinct:2": {
+   "name": "Athol MA - Precinct 2"
   },
   "ocd-division/country:us/state:ma/place:watertown_town/precinct:1": {
    "name": "Watertown MA - Precinct 1"
@@ -795,11 +795,11 @@
   "ocd-division/country:us/state:ma/place:concord/precinct:3": {
    "name": "Concord MA - Precinct 3"
   },
-  "ocd-division/country:us/state:ma/county:suffolk/school_district:city_on_a_hill_charter_public_district": {
-   "name": "city on a hill charter public (district)"
-  },
   "ocd-division/country:us/state:ma/place:concord/precinct:2": {
    "name": "Concord MA - Precinct 2"
+  },
+  "ocd-division/country:us/state:ma/county:suffolk/school_district:city_on_a_hill_charter_public_district": {
+   "name": "city on a hill charter public (district)"
   },
   "ocd-division/country:us/state:ma/place:concord/precinct:1": {
    "name": "Concord MA - Precinct 1"
@@ -852,11 +852,11 @@
   "ocd-division/country:us/state:ma/place:weymouth_town/precinct:8": {
    "name": "Weymouth MA - Precinct 8"
   },
-  "ocd-division/country:us/state:ma/place:weymouth_town/precinct:7": {
-   "name": "Weymouth MA - Precinct 7"
-  },
   "ocd-division/country:us/state:ma/county:middlesex/school_district:tewksbury": {
    "name": "tewksbury"
+  },
+  "ocd-division/country:us/state:ma/place:weymouth_town/precinct:7": {
+   "name": "Weymouth MA - Precinct 7"
   },
   "ocd-division/country:us/state:ma/place:weymouth_town/precinct:6": {
    "name": "Weymouth MA - Precinct 6"
@@ -888,23 +888,23 @@
   "ocd-division/country:us/state:ma/place:boston/ward:12/precinct:5": {
    "name": "Boston MA - Ward 12 Precinct 5"
   },
-  "ocd-division/country:us/state:ma/place:milford": {
-   "name": "Milford town"
-  },
   "ocd-division/country:us/state:ma/place:boston/ward:12/precinct:2": {
    "name": "Boston MA - Ward 12 Precinct 2"
   },
-  "ocd-division/country:us/state:ma/place:pittsfield/ward:1/precinct:b": {
-   "name": "Pittsfield MA - Ward 1 Precinct b"
+  "ocd-division/country:us/state:ma/place:milford": {
+   "name": "Milford town"
   },
   "ocd-division/country:us/state:ma/place:boston/ward:12/precinct:1": {
    "name": "Boston MA - Ward 12 Precinct 1"
   },
-  "ocd-division/country:us/state:ma/place:pittsfield/ward:1/precinct:a": {
-   "name": "Pittsfield MA - Ward 1 Precinct a"
+  "ocd-division/country:us/state:ma/place:pittsfield/ward:1/precinct:b": {
+   "name": "Pittsfield MA - Ward 1 Precinct b"
   },
   "ocd-division/country:us/state:ma/place:winthrop_town/precinct:6": {
    "name": "Winthrop MA - Precinct 6"
+  },
+  "ocd-division/country:us/state:ma/place:pittsfield/ward:1/precinct:a": {
+   "name": "Pittsfield MA - Ward 1 Precinct a"
   },
   "ocd-division/country:us/state:ma/sldl:4th_hampden": {
    "name": "Massachusetts 4th Hampden district",
@@ -912,11 +912,11 @@
     22
    ]
   },
-  "ocd-division/country:us/state:ma/place:boston/ward:12/precinct:8": {
-   "name": "Boston MA - Ward 12 Precinct 8"
-  },
   "ocd-division/country:us/state:ma/place:colrain": {
    "name": "Colrain town"
+  },
+  "ocd-division/country:us/state:ma/place:boston/ward:12/precinct:8": {
+   "name": "Boston MA - Ward 12 Precinct 8"
   },
   "ocd-division/country:us/state:ma/place:boston/ward:12/precinct:7": {
    "name": "Boston MA - Ward 12 Precinct 7"
@@ -924,29 +924,29 @@
   "ocd-division/country:us/state:ma/place:boston/ward:12/precinct:9": {
    "name": "Boston MA - Ward 12 Precinct 9"
   },
-  "ocd-division/country:us/state:ma/place:holliston/precinct:2": {
-   "name": "Holliston MA - Precinct 2"
+  "ocd-division/country:us/state:ma/place:dartmouth/precinct:8": {
+   "name": "Dartmouth MA - Precinct 8"
   },
   "ocd-division/country:us/state:ma/place:braintree_town/precinct:3b": {
    "name": "Braintree MA - Precinct 3b"
   },
-  "ocd-division/country:us/state:ma/place:dartmouth/precinct:8": {
-   "name": "Dartmouth MA - Precinct 8"
-  },
-  "ocd-division/country:us/state:ma/place:holliston/precinct:3": {
-   "name": "Holliston MA - Precinct 3"
+  "ocd-division/country:us/state:ma/place:holliston/precinct:2": {
+   "name": "Holliston MA - Precinct 2"
   },
   "ocd-division/country:us/state:ma/place:dartmouth/precinct:9": {
    "name": "Dartmouth MA - Precinct 9"
   },
-  "ocd-division/country:us/state:ma/place:north_brookfield": {
-   "name": "North Brookfield town"
+  "ocd-division/country:us/state:ma/place:holliston/precinct:3": {
+   "name": "Holliston MA - Precinct 3"
+  },
+  "ocd-division/country:us/state:ma/place:winthrop_town/precinct:1": {
+   "name": "Winthrop MA - Precinct 1"
   },
   "ocd-division/country:us/state:ma/place:holliston/precinct:4": {
    "name": "Holliston MA - Precinct 4"
   },
-  "ocd-division/country:us/state:ma/place:winthrop_town/precinct:1": {
-   "name": "Winthrop MA - Precinct 1"
+  "ocd-division/country:us/state:ma/place:north_brookfield": {
+   "name": "North Brookfield town"
   },
   "ocd-division/country:us/state:ma/place:braintree_town/precinct:3a": {
    "name": "Braintree MA - Precinct 3a"
@@ -963,11 +963,11 @@
   "ocd-division/country:us/state:ma/place:winthrop_town/precinct:4": {
    "name": "Winthrop MA - Precinct 4"
   },
-  "ocd-division/country:us/state:ma/place:monson": {
-   "name": "Monson town"
-  },
   "ocd-division/country:us/state:ma/place:dartmouth/precinct:1": {
    "name": "Dartmouth MA - Precinct 1"
+  },
+  "ocd-division/country:us/state:ma/place:monson": {
+   "name": "Monson town"
   },
   "ocd-division/country:us/state:ma/place:dartmouth/precinct:2": {
    "name": "Dartmouth MA - Precinct 2"
@@ -984,11 +984,11 @@
   "ocd-division/country:us/state:ma/place:dartmouth/precinct:6": {
    "name": "Dartmouth MA - Precinct 6"
   },
-  "ocd-division/country:us/state:ma/place:holliston/precinct:1": {
-   "name": "Holliston MA - Precinct 1"
-  },
   "ocd-division/country:us/state:ma/place:dartmouth/precinct:7": {
    "name": "Dartmouth MA - Precinct 7"
+  },
+  "ocd-division/country:us/state:ma/place:holliston/precinct:1": {
+   "name": "Holliston MA - Precinct 1"
   },
   "ocd-division/country:us/state:ma/place:dennis/precinct:5": {
    "name": "Dennis MA - Precinct 5"
@@ -1002,26 +1002,26 @@
   "ocd-division/country:us/state:ma/place:dennis/precinct:3": {
    "name": "Dennis MA - Precinct 3"
   },
-  "ocd-division/country:us/state:ma/place:pittsfield/ward:3/precinct:b": {
-   "name": "Pittsfield MA - Ward 3 Precinct b"
+  "ocd-division/country:us/state:ma/place:dennis/precinct:4": {
+   "name": "Dennis MA - Precinct 4"
   },
   "ocd-division/country:us/state:ma/place:braintree_town/precinct:1b": {
    "name": "Braintree MA - Precinct 1b"
   },
-  "ocd-division/country:us/state:ma/place:dennis/precinct:4": {
-   "name": "Dennis MA - Precinct 4"
-  },
-  "ocd-division/country:us/state:ma/place:pittsfield/ward:3/precinct:a": {
-   "name": "Pittsfield MA - Ward 3 Precinct a"
+  "ocd-division/country:us/state:ma/place:pittsfield/ward:3/precinct:b": {
+   "name": "Pittsfield MA - Ward 3 Precinct b"
   },
   "ocd-division/country:us/state:ma/place:dennis/precinct:1": {
    "name": "Dennis MA - Precinct 1"
   },
-  "ocd-division/country:us/state:ma/place:salem/ward:1/precinct:2": {
-   "name": "Salem MA - Ward 1 Precinct 2"
+  "ocd-division/country:us/state:ma/place:pittsfield/ward:3/precinct:a": {
+   "name": "Pittsfield MA - Ward 3 Precinct a"
   },
   "ocd-division/country:us/state:ma/place:dennis/precinct:2": {
    "name": "Dennis MA - Precinct 2"
+  },
+  "ocd-division/country:us/state:ma/place:salem/ward:1/precinct:2": {
+   "name": "Salem MA - Ward 1 Precinct 2"
   },
   "ocd-division/country:us/state:ma/place:braintree_town/precinct:2a": {
    "name": "Braintree MA - Precinct 2a"
@@ -1086,17 +1086,17 @@
   "ocd-division/country:us/state:ma/place:lowell": {
    "name": "Lowell city"
   },
-  "ocd-division/country:us/state:ma/county:berkshire/school_district:williamstown": {
-   "name": "williamstown"
-  },
   "ocd-division/country:us/state:ma/place:braintree_town/precinct:4a": {
    "name": "Braintree MA - Precinct 4a"
   },
-  "ocd-division/country:us/state:ma/county:barnstable/school_district:upper_cape_cod_regional_vocational_technical": {
-   "name": "upper cape cod regional vocational technical"
+  "ocd-division/country:us/state:ma/county:berkshire/school_district:williamstown": {
+   "name": "williamstown"
   },
   "ocd-division/country:us/state:ma/place:braintree_town/precinct:4b": {
    "name": "Braintree MA - Precinct 4b"
+  },
+  "ocd-division/country:us/state:ma/county:barnstable/school_district:upper_cape_cod_regional_vocational_technical": {
+   "name": "upper cape cod regional vocational technical"
   },
   "ocd-division/country:us/state:ma/county:middlesex/school_district:innovation_academy_charter_district": {
    "name": "innovation academy charter (district)"
@@ -1149,17 +1149,17 @@
   "ocd-division/country:us/state:ma/place:marlborough/ward:6": {
    "name": "Marlborough MA - Ward 6"
   },
-  "ocd-division/country:us/state:ma/place:newton/ward:7": {
-   "name": "Newton MA - Ward 7"
-  },
   "ocd-division/country:us/state:ma/place:marlborough/ward:5": {
    "name": "Marlborough MA - Ward 5"
   },
-  "ocd-division/country:us/state:ma/place:newton/ward:8": {
-   "name": "Newton MA - Ward 8"
+  "ocd-division/country:us/state:ma/place:newton/ward:7": {
+   "name": "Newton MA - Ward 7"
   },
   "ocd-division/country:us/state:ma/place:marlborough/ward:4": {
    "name": "Marlborough MA - Ward 4"
+  },
+  "ocd-division/country:us/state:ma/place:newton/ward:8": {
+   "name": "Newton MA - Ward 8"
   },
   "ocd-division/country:us/state:ma/place:marlborough/ward:3": {
    "name": "Marlborough MA - Ward 3"
@@ -1203,11 +1203,11 @@
   "ocd-division/country:us/state:ma/place:shrewsbury/precinct:10": {
    "name": "Shrewsbury MA - Precinct 10"
   },
-  "ocd-division/country:us/state:ma/place:northampton/ward:3/precinct:a": {
-   "name": "Northampton MA - Ward 3 Precinct a"
-  },
   "ocd-division/country:us/state:ma/county:barnstable/school_district:chatham": {
    "name": "chatham"
+  },
+  "ocd-division/country:us/state:ma/place:northampton/ward:3/precinct:a": {
+   "name": "Northampton MA - Ward 3 Precinct a"
   },
   "ocd-division/country:us/state:ma/county:essex/school_district:topsfield": {
    "name": "topsfield"
@@ -1233,11 +1233,11 @@
   "ocd-division/country:us/state:ma/county:essex/school_district:rockport": {
    "name": "rockport"
   },
-  "ocd-division/country:us/state:ma/place:peabody/ward:1/precinct:2": {
-   "name": "Peabody MA - Ward 1 Precinct 2"
-  },
   "ocd-division/country:us/state:ma/county:middlesex/school_district:ashland": {
    "name": "ashland"
+  },
+  "ocd-division/country:us/state:ma/place:peabody/ward:1/precinct:2": {
+   "name": "Peabody MA - Ward 1 Precinct 2"
   },
   "ocd-division/country:us/state:ma/place:peabody/ward:1/precinct:3": {
    "name": "Peabody MA - Ward 1 Precinct 3"
@@ -1995,11 +1995,11 @@
   "ocd-division/country:us/state:ma/place:cambridge/ward:4": {
    "name": "Cambridge MA - Ward 4"
   },
-  "ocd-division/country:us/state:ma/place:cambridge/ward:5": {
-   "name": "Cambridge MA - Ward 5"
-  },
   "ocd-division/country:us/state:ma/place:conway": {
    "name": "Conway town"
+  },
+  "ocd-division/country:us/state:ma/place:cambridge/ward:5": {
+   "name": "Cambridge MA - Ward 5"
   },
   "ocd-division/country:us/state:ma/place:cambridge/ward:1": {
    "name": "Cambridge MA - Ward 1"
@@ -2010,26 +2010,26 @@
   "ocd-division/country:us/state:ma/place:framingham/precinct:1": {
    "name": "Framingham MA - Precinct 1"
   },
-  "ocd-division/country:us/state:ma/county:suffolk/school_district:smith_leadership_academy_charter_public_district": {
-   "name": "smith leadership academy charter public (district)"
-  },
   "ocd-division/country:us/state:ma/place:framingham/precinct:3": {
    "name": "Framingham MA - Precinct 3"
+  },
+  "ocd-division/country:us/state:ma/county:suffolk/school_district:smith_leadership_academy_charter_public_district": {
+   "name": "smith leadership academy charter public (district)"
   },
   "ocd-division/country:us/state:ma/place:framingham/precinct:2": {
    "name": "Framingham MA - Precinct 2"
   },
-  "ocd-division/country:us/state:ma/place:framingham/precinct:9": {
-   "name": "Framingham MA - Precinct 9"
-  },
   "ocd-division/country:us/state:ma/place:gardner/ward:2": {
    "name": "Gardner MA - Ward 2"
   },
-  "ocd-division/country:us/state:ma/place:framingham/precinct:8": {
-   "name": "Framingham MA - Precinct 8"
+  "ocd-division/country:us/state:ma/place:framingham/precinct:9": {
+   "name": "Framingham MA - Precinct 9"
   },
   "ocd-division/country:us/state:ma/place:gardner/ward:1": {
    "name": "Gardner MA - Ward 1"
+  },
+  "ocd-division/country:us/state:ma/place:framingham/precinct:8": {
+   "name": "Framingham MA - Precinct 8"
   },
   "ocd-division/country:us/state:ma/place:gardner/ward:4": {
    "name": "Gardner MA - Ward 4"
@@ -2037,35 +2037,35 @@
   "ocd-division/country:us/state:ma/place:gardner/ward:3": {
    "name": "Gardner MA - Ward 3"
   },
-  "ocd-division/country:us/state:ma/place:westport/precinct:d": {
-   "name": "Westport MA - Precinct d"
-  },
   "ocd-division/country:us/state:ma/place:framingham/precinct:5": {
    "name": "Framingham MA - Precinct 5"
   },
-  "ocd-division/country:us/state:ma/place:westport/precinct:e": {
-   "name": "Westport MA - Precinct e"
-  },
-  "ocd-division/country:us/state:ma/county:suffolk/school_district:excel_academy_charter_district": {
-   "name": "excel academy charter (district)"
-  },
-  "ocd-division/country:us/state:ma/place:framingham/precinct:4": {
-   "name": "Framingham MA - Precinct 4"
+  "ocd-division/country:us/state:ma/place:westport/precinct:d": {
+   "name": "Westport MA - Precinct d"
   },
   "ocd-division/country:us/state:ma/place:gardner/ward:5": {
    "name": "Gardner MA - Ward 5"
   },
-  "ocd-division/country:us/state:ma/place:westport/precinct:b": {
-   "name": "Westport MA - Precinct b"
+  "ocd-division/country:us/state:ma/place:framingham/precinct:4": {
+   "name": "Framingham MA - Precinct 4"
+  },
+  "ocd-division/country:us/state:ma/county:suffolk/school_district:excel_academy_charter_district": {
+   "name": "excel academy charter (district)"
+  },
+  "ocd-division/country:us/state:ma/place:westport/precinct:e": {
+   "name": "Westport MA - Precinct e"
   },
   "ocd-division/country:us/state:ma/place:framingham/precinct:7": {
    "name": "Framingham MA - Precinct 7"
   },
-  "ocd-division/country:us/state:ma/place:westport/precinct:c": {
-   "name": "Westport MA - Precinct c"
+  "ocd-division/country:us/state:ma/place:westport/precinct:b": {
+   "name": "Westport MA - Precinct b"
   },
   "ocd-division/country:us/state:ma/place:framingham/precinct:6": {
    "name": "Framingham MA - Precinct 6"
+  },
+  "ocd-division/country:us/state:ma/place:westport/precinct:c": {
+   "name": "Westport MA - Precinct c"
   },
   "ocd-division/country:us/state:ma/place:georgetown/precinct:3": {
    "name": "Georgetown MA - Precinct 3"
@@ -2103,14 +2103,14 @@
   "ocd-division/country:us/state:ma/place:boston/ward:5/precinct:4": {
    "name": "Boston MA - Ward 5 Precinct 4"
   },
-  "ocd-division/country:us/state:ma/place:boston/ward:5/precinct:1": {
-   "name": "Boston MA - Ward 5 Precinct 1"
-  },
   "ocd-division/country:us/state:ma/sldl:barnstable_dukes_and_nantucket": {
    "name": "Massachusetts Barnstable, Dukes & Nantucket district",
    "officeIndices": [
     46
    ]
+  },
+  "ocd-division/country:us/state:ma/place:boston/ward:5/precinct:1": {
+   "name": "Boston MA - Ward 5 Precinct 1"
   },
   "ocd-division/country:us/state:ma/place:boston/ward:5/precinct:2": {
    "name": "Boston MA - Ward 5 Precinct 2"
@@ -2118,11 +2118,11 @@
   "ocd-division/country:us/state:ma/place:boston/ward:5/precinct:7": {
    "name": "Boston MA - Ward 5 Precinct 7"
   },
-  "ocd-division/country:us/state:ma/county:plymouth/school_district:kingston": {
-   "name": "kingston"
-  },
   "ocd-division/country:us/state:ma/place:boston/ward:5/precinct:8": {
    "name": "Boston MA - Ward 5 Precinct 8"
+  },
+  "ocd-division/country:us/state:ma/county:plymouth/school_district:kingston": {
+   "name": "kingston"
   },
   "ocd-division/country:us/state:ma/place:boston/ward:5/precinct:5": {
    "name": "Boston MA - Ward 5 Precinct 5"
@@ -2151,41 +2151,41 @@
   "ocd-division/country:us/state:ma/place:chicopee/ward:1": {
    "name": "Chicopee MA - Ward 1"
   },
-  "ocd-division/country:us/state:ma/place:revere/ward:2/precinct:3a": {
-   "name": "Revere MA - Ward 2 Precinct 3a"
+  "ocd-division/country:us/state:ma/place:chicopee/ward:7": {
+   "name": "Chicopee MA - Ward 7"
   },
   "ocd-division/country:us/state:ma/county:berkshire/school_district:farmington_river_reg": {
    "name": "farmington river reg"
   },
-  "ocd-division/country:us/state:ma/place:chicopee/ward:7": {
-   "name": "Chicopee MA - Ward 7"
+  "ocd-division/country:us/state:ma/place:revere/ward:2/precinct:3a": {
+   "name": "Revere MA - Ward 2 Precinct 3a"
   },
   "ocd-division/country:us/state:ma/place:chicopee/ward:6": {
    "name": "Chicopee MA - Ward 6"
   },
-  "ocd-division/country:us/state:ma/county:middlesex/school_district:medford": {
-   "name": "medford"
+  "ocd-division/country:us/state:ma/place:chicopee/ward:5": {
+   "name": "Chicopee MA - Ward 5"
   },
   "ocd-division/country:us/state:ma/place:chelsea/ward:3/precinct:2": {
    "name": "Chelsea MA - Ward 3 Precinct 2"
   },
-  "ocd-division/country:us/state:ma/place:chicopee/ward:5": {
-   "name": "Chicopee MA - Ward 5"
-  },
-  "ocd-division/country:us/state:ma/place:chelsea/ward:3/precinct:1": {
-   "name": "Chelsea MA - Ward 3 Precinct 1"
+  "ocd-division/country:us/state:ma/county:middlesex/school_district:medford": {
+   "name": "medford"
   },
   "ocd-division/country:us/state:ma/place:chicopee/ward:4": {
    "name": "Chicopee MA - Ward 4"
   },
-  "ocd-division/country:us/state:ma/place:chicopee/ward:9": {
-   "name": "Chicopee MA - Ward 9"
+  "ocd-division/country:us/state:ma/place:chelsea/ward:3/precinct:1": {
+   "name": "Chelsea MA - Ward 3 Precinct 1"
   },
   "ocd-division/country:us/state:ma/sldu:2nd_essex_and_middlesex": {
    "name": "Massachusetts Second Essex & Middlesex district",
    "officeIndices": [
     47
    ]
+  },
+  "ocd-division/country:us/state:ma/place:chicopee/ward:9": {
+   "name": "Chicopee MA - Ward 9"
   },
   "ocd-division/country:us/state:ma/place:chicopee/ward:8": {
    "name": "Chicopee MA - Ward 8"
@@ -2211,20 +2211,20 @@
   "ocd-division/country:us/state:ma/place:woburn/ward:4": {
    "name": "Woburn MA - Ward 4"
   },
-  "ocd-division/country:us/state:ma/place:gosnold": {
-   "name": "Gosnold town"
-  },
   "ocd-division/country:us/state:ma/place:woburn/ward:7": {
    "name": "Woburn MA - Ward 7"
   },
-  "ocd-division/country:us/state:ma/place:plymouth/precinct:15": {
-   "name": "Plymouth MA - Precinct 15"
+  "ocd-division/country:us/state:ma/place:gosnold": {
+   "name": "Gosnold town"
+  },
+  "ocd-division/country:us/state:ma/county:essex/school_district:salem_academy_charter_district": {
+   "name": "salem academy charter (district)"
   },
   "ocd-division/country:us/state:ma/place:monterey": {
    "name": "Monterey town"
   },
-  "ocd-division/country:us/state:ma/county:essex/school_district:salem_academy_charter_district": {
-   "name": "salem academy charter (district)"
+  "ocd-division/country:us/state:ma/place:plymouth/precinct:15": {
+   "name": "Plymouth MA - Precinct 15"
   },
   "ocd-division/country:us/state:ma/county:middlesex/school_district:somerville": {
    "name": "somerville"
@@ -2241,11 +2241,11 @@
   "ocd-division/country:us/state:ma/place:westwood/precinct:4": {
    "name": "Westwood MA - Precinct 4"
   },
-  "ocd-division/country:us/state:ma/place:westwood/precinct:2": {
-   "name": "Westwood MA - Precinct 2"
-  },
   "ocd-division/country:us/state:ma/county:barnstable/school_district:mashpee": {
    "name": "mashpee"
+  },
+  "ocd-division/country:us/state:ma/place:westwood/precinct:2": {
+   "name": "Westwood MA - Precinct 2"
   },
   "ocd-division/country:us/state:ma/place:westwood/precinct:3": {
    "name": "Westwood MA - Precinct 3"
@@ -2274,14 +2274,14 @@
   "ocd-division/country:us/state:ma/place:boston/ward:4/precinct:6": {
    "name": "Boston MA - Ward 4 Precinct 6"
   },
+  "ocd-division/country:us/state:ma/place:boston/ward:4/precinct:7": {
+   "name": "Boston MA - Ward 4 Precinct 7"
+  },
   "ocd-division/country:us/state:ma/place:palmer_town": {
    "name": "Palmer Town city",
    "alsoKnownAs": [
     "ocd-division/country:us/state:ma/place:palmer"
    ]
-  },
-  "ocd-division/country:us/state:ma/place:boston/ward:4/precinct:7": {
-   "name": "Boston MA - Ward 4 Precinct 7"
   },
   "ocd-division/country:us/state:ma/sldl:3rd_essex": {
    "name": "Massachusetts 3rd Essex district",
@@ -2292,17 +2292,17 @@
   "ocd-division/country:us/state:ma/place:boston/ward:4/precinct:1": {
    "name": "Boston MA - Ward 4 Precinct 1"
   },
-  "ocd-division/country:us/state:ma/place:boston/ward:4/precinct:2": {
-   "name": "Boston MA - Ward 4 Precinct 2"
-  },
   "ocd-division/country:us/state:ma/place:woburn/ward:2": {
    "name": "Woburn MA - Ward 2"
   },
-  "ocd-division/country:us/state:ma/place:boston/ward:4/precinct:3": {
-   "name": "Boston MA - Ward 4 Precinct 3"
+  "ocd-division/country:us/state:ma/place:boston/ward:4/precinct:2": {
+   "name": "Boston MA - Ward 4 Precinct 2"
   },
   "ocd-division/country:us/state:ma/place:woburn/ward:1": {
    "name": "Woburn MA - Ward 1"
+  },
+  "ocd-division/country:us/state:ma/place:boston/ward:4/precinct:3": {
+   "name": "Boston MA - Ward 4 Precinct 3"
   },
   "ocd-division/country:us/state:ma/place:boston/ward:4/precinct:8": {
    "name": "Boston MA - Ward 4 Precinct 8"
@@ -2313,14 +2313,14 @@
   "ocd-division/country:us/state:ma/county:norfolk/school_district:plainville": {
    "name": "plainville"
   },
-  "ocd-division/country:us/state:ma/county:middlesex/school_district:lowell_middlesex_academy_charter_district": {
-   "name": "lowell middlesex academy charter (district)"
-  },
   "ocd-division/country:us/state:ma/sldl:24th_middlesex": {
    "name": "Massachusetts 24th Middlesex district",
    "officeIndices": [
     49
    ]
+  },
+  "ocd-division/country:us/state:ma/county:middlesex/school_district:lowell_middlesex_academy_charter_district": {
+   "name": "lowell middlesex academy charter (district)"
   },
   "ocd-division/country:us/state:ma/place:norwood": {
    "name": "Norwood town"
@@ -2397,23 +2397,23 @@
   "ocd-division/country:us/state:ma/place:gardner/ward:5/precinct:b": {
    "name": "Gardner MA - Ward 5 Precinct b"
   },
-  "ocd-division/country:us/state:ma/place:gardner/ward:5/precinct:a": {
-   "name": "Gardner MA - Ward 5 Precinct a"
-  },
   "ocd-division/country:us/state:ma/sldl:28th_middlesex": {
    "name": "Massachusetts 28th Middlesex district",
    "officeIndices": [
     54
    ]
   },
+  "ocd-division/country:us/state:ma/place:gardner/ward:5/precinct:a": {
+   "name": "Gardner MA - Ward 5 Precinct a"
+  },
   "ocd-division/country:us/state:ma/place:boston/ward:6/precinct:3": {
    "name": "Boston MA - Ward 6 Precinct 3"
   },
-  "ocd-division/country:us/state:ma/place:acton": {
-   "name": "Acton town"
-  },
   "ocd-division/country:us/state:ma/place:boston/ward:6/precinct:2": {
    "name": "Boston MA - Ward 6 Precinct 2"
+  },
+  "ocd-division/country:us/state:ma/place:acton": {
+   "name": "Acton town"
   },
   "ocd-division/country:us/state:ma/place:boston/ward:6/precinct:5": {
    "name": "Boston MA - Ward 6 Precinct 5"
@@ -2421,17 +2421,17 @@
   "ocd-division/country:us/state:ma/place:boston/ward:6/precinct:4": {
    "name": "Boston MA - Ward 6 Precinct 4"
   },
-  "ocd-division/country:us/state:ma/place:marlborough/ward:4/precinct:2": {
-   "name": "Marlborough MA - Ward 4 Precinct 2"
-  },
   "ocd-division/country:us/state:ma/place:boston/ward:6/precinct:7": {
    "name": "Boston MA - Ward 6 Precinct 7"
   },
-  "ocd-division/country:us/state:ma/place:marlborough/ward:4/precinct:1": {
-   "name": "Marlborough MA - Ward 4 Precinct 1"
+  "ocd-division/country:us/state:ma/place:marlborough/ward:4/precinct:2": {
+   "name": "Marlborough MA - Ward 4 Precinct 2"
   },
   "ocd-division/country:us/state:ma/place:boston/ward:6/precinct:6": {
    "name": "Boston MA - Ward 6 Precinct 6"
+  },
+  "ocd-division/country:us/state:ma/place:marlborough/ward:4/precinct:1": {
+   "name": "Marlborough MA - Ward 4 Precinct 1"
   },
   "ocd-division/country:us/state:ma/place:boston/ward:6/precinct:9": {
    "name": "Boston MA - Ward 6 Precinct 9"
@@ -2457,11 +2457,11 @@
   "ocd-division/country:us/state:ma/county:worcester/school_district:worcester": {
    "name": "worcester"
   },
-  "ocd-division/country:us/state:ma/county:berkshire/school_district:clarksburg": {
-   "name": "clarksburg"
-  },
   "ocd-division/country:us/state:ma/county:middlesex/school_district:greater_lowell_regional_vocational_technical": {
    "name": "greater lowell regional vocational technical"
+  },
+  "ocd-division/country:us/state:ma/county:berkshire/school_district:clarksburg": {
+   "name": "clarksburg"
   },
   "ocd-division/country:us/state:ma/sldl:10th_essex": {
    "name": "Massachusetts 10th Essex district",
@@ -2808,11 +2808,11 @@
   "ocd-division/country:us/state:ma/place:fall_river/ward:5": {
    "name": "Fall river MA - Ward 5"
   },
-  "ocd-division/country:us/state:ma/place:holbrook": {
-   "name": "Holbrook town"
-  },
   "ocd-division/country:us/state:ma/place:fall_river/ward:4": {
    "name": "Fall river MA - Ward 4"
+  },
+  "ocd-division/country:us/state:ma/place:holbrook": {
+   "name": "Holbrook town"
   },
   "ocd-division/country:us/state:ma/place:fall_river/ward:7": {
    "name": "Fall river MA - Ward 7"
@@ -3123,11 +3123,11 @@
   "ocd-division/country:us/state:ma/place:southbridge_town/precinct:2": {
    "name": "Southbridge MA - Precinct 2"
   },
-  "ocd-division/country:us/state:ma/place:westford": {
-   "name": "Westford town"
-  },
   "ocd-division/country:us/state:ma/place:southbridge_town/precinct:1": {
    "name": "Southbridge MA - Precinct 1"
+  },
+  "ocd-division/country:us/state:ma/place:westford": {
+   "name": "Westford town"
   },
   "ocd-division/country:us/state:ma/sldu:3rd_essex_and_middlesex": {
    "name": "Massachusetts Third Essex & Middlesex district (obsolete)"
@@ -3669,11 +3669,11 @@
   "ocd-division/country:us/state:ma/place:boston/ward:20/precinct:19": {
    "name": "Boston MA - Ward 20 Precinct 19"
   },
-  "ocd-division/country:us/state:ma/place:ashland": {
-   "name": "Ashland town"
-  },
   "ocd-division/country:us/state:ma/place:boston/ward:20/precinct:10": {
    "name": "Boston MA - Ward 20 Precinct 10"
+  },
+  "ocd-division/country:us/state:ma/place:ashland": {
+   "name": "Ashland town"
   },
   "ocd-division/country:us/state:ma/place:boston/ward:20/precinct:13": {
    "name": "Boston MA - Ward 20 Precinct 13"
@@ -3807,11 +3807,11 @@
   "ocd-division/country:us/state:ma/county:plymouth/school_district:middleborough": {
    "name": "middleborough"
   },
-  "ocd-division/country:us/state:ma/place:southampton": {
-   "name": "Southampton town"
-  },
   "ocd-division/country:us/state:ma/place:hopkinton": {
    "name": "Hopkinton town"
+  },
+  "ocd-division/country:us/state:ma/place:southampton": {
+   "name": "Southampton town"
   },
   "ocd-division/country:us/state:ma/place:east_longmeadow": {
    "name": "East Longmeadow town"
@@ -4307,11 +4307,11 @@
   "ocd-division/country:us/state:ma/place:gardner/ward:2/precinct:b": {
    "name": "Gardner MA - Ward 2 Precinct b"
   },
-  "ocd-division/country:us/state:ma/place:wayland": {
-   "name": "Wayland town"
-  },
   "ocd-division/country:us/state:ma/place:gardner/ward:2/precinct:a": {
    "name": "Gardner MA - Ward 2 Precinct a"
+  },
+  "ocd-division/country:us/state:ma/place:wayland": {
+   "name": "Wayland town"
   },
   "ocd-division/country:us/state:ma/place:westfield/ward:4/precinct:b": {
    "name": "Westfield MA - Ward 4 Precinct b"
@@ -4667,14 +4667,14 @@
   "ocd-division/country:us/state:ma/place:boston/ward:22/precinct:6": {
    "name": "Boston MA - Ward 22 Precinct 6"
   },
-  "ocd-division/country:us/state:ma/place:belmont": {
-   "name": "Belmont town"
+  "ocd-division/country:us/state:ma/place:brookfield": {
+   "name": "Brookfield town"
   },
   "ocd-division/country:us/state:ma/county:essex/school_district:amesbury_academy_charter_public_district": {
    "name": "amesbury academy charter public (district)"
   },
-  "ocd-division/country:us/state:ma/place:brookfield": {
-   "name": "Brookfield town"
+  "ocd-division/country:us/state:ma/place:belmont": {
+   "name": "Belmont town"
   },
   "ocd-division/country:us/state:ma/place:peabody/ward:4/precinct:1": {
    "name": "Peabody MA - Ward 4 Precinct 1"
@@ -4721,32 +4721,32 @@
   "ocd-division/country:us/state:ma/place:boston/ward:17/precinct:8": {
    "name": "Boston MA - Ward 17 Precinct 8"
   },
-  "ocd-division/country:us/state:ma/place:boston/ward:17/precinct:9": {
-   "name": "Boston MA - Ward 17 Precinct 9"
-  },
   "ocd-division/country:us/state:ma/place:framingham": {
    "name": "Framingham town"
   },
-  "ocd-division/country:us/state:ma/place:lowell/ward:8/precinct:3": {
-   "name": "Lowell MA - Ward 8 Precinct 3"
-  },
-  "ocd-division/country:us/state:ma/place:boston/ward:17/precinct:6": {
-   "name": "Boston MA - Ward 17 Precinct 6"
+  "ocd-division/country:us/state:ma/place:boston/ward:17/precinct:9": {
+   "name": "Boston MA - Ward 17 Precinct 9"
   },
   "ocd-division/country:us/state:ma/place:groveland": {
    "name": "Groveland town"
   },
-  "ocd-division/country:us/state:ma/place:lowell/ward:8/precinct:2": {
-   "name": "Lowell MA - Ward 8 Precinct 2"
+  "ocd-division/country:us/state:ma/place:boston/ward:17/precinct:6": {
+   "name": "Boston MA - Ward 17 Precinct 6"
+  },
+  "ocd-division/country:us/state:ma/place:lowell/ward:8/precinct:3": {
+   "name": "Lowell MA - Ward 8 Precinct 3"
   },
   "ocd-division/country:us/state:ma/place:boston/ward:17/precinct:7": {
    "name": "Boston MA - Ward 17 Precinct 7"
   },
-  "ocd-division/country:us/state:ma/place:lowell/ward:8/precinct:1": {
-   "name": "Lowell MA - Ward 8 Precinct 1"
+  "ocd-division/country:us/state:ma/place:lowell/ward:8/precinct:2": {
+   "name": "Lowell MA - Ward 8 Precinct 2"
   },
   "ocd-division/country:us/state:ma/place:boston/ward:17/precinct:4": {
    "name": "Boston MA - Ward 17 Precinct 4"
+  },
+  "ocd-division/country:us/state:ma/place:lowell/ward:8/precinct:1": {
+   "name": "Lowell MA - Ward 8 Precinct 1"
   },
   "ocd-division/country:us/state:ma/place:boston/ward:17/precinct:5": {
    "name": "Boston MA - Ward 17 Precinct 5"
@@ -4754,23 +4754,20 @@
   "ocd-division/country:us/state:ma/place:winchendon": {
    "name": "Winchendon town"
   },
-  "ocd-division/country:us/state:ma/place:westborough/precinct:1": {
-   "name": "Westborough MA - Precinct 1"
-  },
   "ocd-division/country:us/state:ma/place:gloucester/ward:4/precinct:1": {
    "name": "Gloucester MA - Ward 4 Precinct 1"
   },
-  "ocd-division/country:us/state:ma/place:westborough/precinct:2": {
-   "name": "Westborough MA - Precinct 2"
+  "ocd-division/country:us/state:ma/place:westborough/precinct:1": {
+   "name": "Westborough MA - Precinct 1"
   },
   "ocd-division/country:us/state:ma/place:lawrence/ward:d/precinct:1": {
    "name": "Lawrence MA - Ward D Precinct 1"
   },
+  "ocd-division/country:us/state:ma/place:westborough/precinct:2": {
+   "name": "Westborough MA - Precinct 2"
+  },
   "ocd-division/country:us/state:ma/place:westborough/precinct:3": {
    "name": "Westborough MA - Precinct 3"
-  },
-  "ocd-division/country:us/state:ma/place:westborough/precinct:4": {
-   "name": "Westborough MA - Precinct 4"
   },
   "ocd-division/country:us/state:ma/sldl:4th_suffolk": {
    "name": "Massachusetts 4th Suffolk district",
@@ -4778,17 +4775,20 @@
     102
    ]
   },
+  "ocd-division/country:us/state:ma/place:westborough/precinct:4": {
+   "name": "Westborough MA - Precinct 4"
+  },
   "ocd-division/country:us/state:ma/place:lawrence/ward:d/precinct:3": {
    "name": "Lawrence MA - Ward D Precinct 3"
   },
   "ocd-division/country:us/state:ma/place:lawrence/ward:d/precinct:2": {
    "name": "Lawrence MA - Ward D Precinct 2"
   },
-  "ocd-division/country:us/state:ma/place:westborough/precinct:5": {
-   "name": "Westborough MA - Precinct 5"
-  },
   "ocd-division/country:us/state:ma/place:lawrence/ward:d/precinct:4": {
    "name": "Lawrence MA - Ward D Precinct 4"
+  },
+  "ocd-division/country:us/state:ma/place:westborough/precinct:5": {
+   "name": "Westborough MA - Precinct 5"
   },
   "ocd-division/country:us/state:ma/sldl:29th_middlesex": {
    "name": "Massachusetts 29th Middlesex district",
@@ -4835,17 +4835,17 @@
   "ocd-division/country:us/state:ma/place:wareham/precinct:5": {
    "name": "Wareham MA - Precinct 5"
   },
-  "ocd-division/country:us/state:ma/place:wareham/precinct:2": {
-   "name": "Wareham MA - Precinct 2"
-  },
   "ocd-division/country:us/state:ma/place:lakeville/precinct:1": {
    "name": "Lakeville MA - Precinct 1"
   },
-  "ocd-division/country:us/state:ma/place:wareham/precinct:1": {
-   "name": "Wareham MA - Precinct 1"
+  "ocd-division/country:us/state:ma/place:wareham/precinct:2": {
+   "name": "Wareham MA - Precinct 2"
   },
   "ocd-division/country:us/state:ma/place:lakeville/precinct:2": {
    "name": "Lakeville MA - Precinct 2"
+  },
+  "ocd-division/country:us/state:ma/place:wareham/precinct:1": {
+   "name": "Wareham MA - Precinct 1"
   },
   "ocd-division/country:us/state:ma/place:lakeville/precinct:3": {
    "name": "Lakeville MA - Precinct 3"
@@ -4898,14 +4898,14 @@
   "ocd-division/country:us/state:ma/place:peabody/ward:1": {
    "name": "Peabody MA - Ward 1"
   },
-  "ocd-division/country:us/state:ma/place:peabody/ward:2": {
-   "name": "Peabody MA - Ward 2"
-  },
   "ocd-division/country:us/state:ma/sldl:37th_middlesex": {
    "name": "Massachusetts 37th Middlesex district",
    "officeIndices": [
     104
    ]
+  },
+  "ocd-division/country:us/state:ma/place:peabody/ward:2": {
+   "name": "Peabody MA - Ward 2"
   },
   "ocd-division/country:us/state:ma/place:peabody/ward:3": {
    "name": "Peabody MA - Ward 3"
@@ -5651,11 +5651,11 @@
   "ocd-division/country:us/state:ma/place:randolph/precinct:9": {
    "name": "Randolph MA - Precinct 9"
   },
-  "ocd-division/country:us/state:ma/place:pembroke": {
-   "name": "Pembroke town"
-  },
   "ocd-division/country:us/state:ma/county:essex/school_district:manchester_essex_regional": {
    "name": "manchester essex regional"
+  },
+  "ocd-division/country:us/state:ma/place:pembroke": {
+   "name": "Pembroke town"
   },
   "ocd-division/country:us/state:ma/place:randolph/precinct:8": {
    "name": "Randolph MA - Precinct 8"
@@ -6029,12 +6029,6 @@
   "ocd-division/country:us/state:ma/place:easthampton_town/precinct:5": {
    "name": "Easthampton MA - Precinct 5"
   },
-  "ocd-division/country:us/state:ma/cd:7": {
-   "name": "Massachusetts's 7th congressional district",
-   "officeIndices": [
-    7
-   ]
-  },
   "ocd-division/country:us/state:ma/sldl:32nd_middlesex": {
    "name": "Massachusetts 32nd Middlesex district",
    "officeIndices": [
@@ -6044,26 +6038,32 @@
   "ocd-division/country:us/state:ma/place:easthampton_town/precinct:2": {
    "name": "Easthampton MA - Precinct 2"
   },
+  "ocd-division/country:us/state:ma/cd:7": {
+   "name": "Massachusetts's 7th congressional district",
+   "officeIndices": [
+    7
+   ]
+  },
+  "ocd-division/country:us/state:ma/place:easthampton_town/precinct:1": {
+   "name": "Easthampton MA - Precinct 1"
+  },
   "ocd-division/country:us/state:ma/cd:8": {
    "name": "Massachusetts's 8th congressional district",
    "officeIndices": [
     8
    ]
   },
-  "ocd-division/country:us/state:ma/place:easthampton_town/precinct:1": {
-   "name": "Easthampton MA - Precinct 1"
-  },
   "ocd-division/country:us/state:ma/place:holbrook/precinct:1": {
    "name": "Holbrook MA - Precinct 1"
+  },
+  "ocd-division/country:us/state:ma/place:easthampton_town/precinct:4": {
+   "name": "Easthampton MA - Precinct 4"
   },
   "ocd-division/country:us/state:ma/cd:9": {
    "name": "Massachusetts's 9th congressional district",
    "officeIndices": [
     9
    ]
-  },
-  "ocd-division/country:us/state:ma/place:easthampton_town/precinct:4": {
-   "name": "Easthampton MA - Precinct 4"
   },
   "ocd-division/country:us/state:ma/place:holbrook/precinct:2": {
    "name": "Holbrook MA - Precinct 2"
@@ -6380,11 +6380,11 @@
   "ocd-division/country:us/state:ma/county:franklin/school_district:gill-montague": {
    "name": "gill-montague"
   },
-  "ocd-division/country:us/state:ma/county:essex": {
-   "name": "Essex County"
-  },
   "ocd-division/country:us/state:ma/place:chicopee/ward:6/precinct:bw": {
    "name": "Chicopee MA - Ward 6 Precinct bw"
+  },
+  "ocd-division/country:us/state:ma/county:essex": {
+   "name": "Essex County"
   },
   "ocd-division/country:us/state:ma/county:suffolk/school_district:conservatory_lab_charter_district": {
    "name": "conservatory lab charter (district)"
@@ -7312,6 +7312,9 @@
   "ocd-division/country:us/state:ma/place:belmont/precinct:8": {
    "name": "Belmont MA - Precinct 8"
   },
+  "ocd-division/country:us/state:ma/place:bourne/precinct:6": {
+   "name": "Bourne MA - Precinct 6"
+  },
   "ocd-division/country:us/state:ma/county:barnstable": {
    "name": "Barnstable County",
    "officeIndices": [
@@ -7320,9 +7323,6 @@
     250,
     251
    ]
-  },
-  "ocd-division/country:us/state:ma/place:bourne/precinct:6": {
-   "name": "Bourne MA - Precinct 6"
   },
   "ocd-division/country:us/state:ma/place:belmont/precinct:5": {
    "name": "Belmont MA - Precinct 5"
@@ -7975,11 +7975,11 @@
   "ocd-division/country:us/state:ma/place:montague/precinct:5": {
    "name": "Montague MA - Precinct 5"
   },
-  "ocd-division/country:us/state:ma/place:springfield": {
-   "name": "Springfield city"
-  },
   "ocd-division/country:us/state:ma/place:montague/precinct:4": {
    "name": "Montague MA - Precinct 4"
+  },
+  "ocd-division/country:us/state:ma/place:springfield": {
+   "name": "Springfield city"
   },
   "ocd-division/country:us/state:ma/county:franklin/school_district:leverett": {
    "name": "leverett"
@@ -8536,11 +8536,11 @@
   "ocd-division/country:us/state:ma/place:bedford": {
    "name": "Bedford town"
   },
-  "ocd-division/country:us/state:ma/place:somerset": {
-   "name": "Somerset town"
-  },
   "ocd-division/country:us/state:ma/place:mendon": {
    "name": "Mendon town"
+  },
+  "ocd-division/country:us/state:ma/place:somerset": {
+   "name": "Somerset town"
   },
   "ocd-division/country:us/state:ma/county:berkshire/school_district:lee": {
    "name": "lee"
@@ -9094,11 +9094,11 @@
   "ocd-division/country:us/state:ma/county:worcester/school_district:berlin": {
    "name": "berlin"
   },
-  "ocd-division/country:us/state:ma/place:bernardston": {
-   "name": "Bernardston town"
-  },
   "ocd-division/country:us/state:ma/place:chicopee/ward:8/precinct:a": {
    "name": "Chicopee MA - Ward 8 Precinct a"
+  },
+  "ocd-division/country:us/state:ma/place:bernardston": {
+   "name": "Bernardston town"
   },
   "ocd-division/country:us/state:ma/place:chicopee/ward:8/precinct:b": {
    "name": "Chicopee MA - Ward 8 Precinct b"
@@ -9412,11 +9412,11 @@
   "ocd-division/country:us/state:ma/place:billerica/precinct:9": {
    "name": "Billerica MA - Precinct 9"
   },
-  "ocd-division/country:us/state:ma/place:millville": {
-   "name": "Millville town"
-  },
   "ocd-division/country:us/state:ma/place:billerica/precinct:8": {
    "name": "Billerica MA - Precinct 8"
+  },
+  "ocd-division/country:us/state:ma/place:millville": {
+   "name": "Millville town"
   },
   "ocd-division/country:us/state:ma/place:billerica/precinct:7": {
    "name": "Billerica MA - Precinct 7"
@@ -9661,14 +9661,14 @@
     188
    ]
   },
-  "ocd-division/country:us/state:ma/place:harvard": {
-   "name": "Harvard town"
-  },
   "ocd-division/country:us/state:ma/sldl:1st_barnstable": {
    "name": "Massachusetts 1st Barnstable district",
    "officeIndices": [
     189
    ]
+  },
+  "ocd-division/country:us/state:ma/place:harvard": {
+   "name": "Harvard town"
   },
   "ocd-division/country:us/state:ma/place:amherst/precinct:10": {
    "name": "Amherst MA - Precinct 10"
@@ -9715,11 +9715,11 @@
   "ocd-division/country:us/state:ma/place:east_longmeadow/precinct:4": {
    "name": "East longmeadow MA - Precinct 4"
   },
-  "ocd-division/country:us/state:ma/place:plainville": {
-   "name": "Plainville town"
-  },
   "ocd-division/country:us/state:ma/place:east_longmeadow/precinct:3": {
    "name": "East longmeadow MA - Precinct 3"
+  },
+  "ocd-division/country:us/state:ma/place:plainville": {
+   "name": "Plainville town"
   },
   "ocd-division/country:us/state:ma/sldu:worcester_and_middlesex": {
    "name": "Massachusetts Worcester & Middlesex district",
@@ -9760,11 +9760,11 @@
   "ocd-division/country:us/state:ma/district_court:pittsfield": {
    "name": "MA State District Court - Pittsfield District"
   },
-  "ocd-division/country:us/state:ma/place:boston/ward:19": {
-   "name": "Boston MA - Ward 19"
-  },
   "ocd-division/country:us/state:ma/place:boston/ward:9/precinct:5": {
    "name": "Boston MA - Ward 9 Precinct 5"
+  },
+  "ocd-division/country:us/state:ma/place:boston/ward:19": {
+   "name": "Boston MA - Ward 19"
   },
   "ocd-division/country:us/state:ma/district_court:plymouth": {
    "name": "MA State District Court - Plymouth District"
@@ -9835,35 +9835,35 @@
   "ocd-division/country:us/state:ma/place:boston/ward:16/precinct:12": {
    "name": "Boston MA - Ward 16 Precinct 12"
   },
-  "ocd-division/country:us/state:ma/place:northbridge/precinct:1": {
-   "name": "Northbridge MA - Precinct 1"
-  },
   "ocd-division/country:us/state:ma/place:lunenburg/precinct:a": {
    "name": "Lunenburg MA - Precinct a"
   },
-  "ocd-division/country:us/state:ma/place:northbridge/precinct:2": {
-   "name": "Northbridge MA - Precinct 2"
+  "ocd-division/country:us/state:ma/place:northbridge/precinct:1": {
+   "name": "Northbridge MA - Precinct 1"
   },
   "ocd-division/country:us/state:ma/place:lunenburg/precinct:b": {
    "name": "Lunenburg MA - Precinct b"
   },
-  "ocd-division/country:us/state:ma/place:northbridge/precinct:3": {
-   "name": "Northbridge MA - Precinct 3"
+  "ocd-division/country:us/state:ma/place:northbridge/precinct:2": {
+   "name": "Northbridge MA - Precinct 2"
   },
   "ocd-division/country:us/state:ma/place:lunenburg/precinct:c": {
    "name": "Lunenburg MA - Precinct c"
   },
-  "ocd-division/country:us/state:ma/place:northbridge/precinct:4": {
-   "name": "Northbridge MA - Precinct 4"
+  "ocd-division/country:us/state:ma/place:northbridge/precinct:3": {
+   "name": "Northbridge MA - Precinct 3"
   },
   "ocd-division/country:us/state:ma/place:lunenburg/precinct:d": {
    "name": "Lunenburg MA - Precinct d"
   },
-  "ocd-division/country:us/state:ma/place:blandford": {
-   "name": "Blandford town"
+  "ocd-division/country:us/state:ma/place:northbridge/precinct:4": {
+   "name": "Northbridge MA - Precinct 4"
   },
   "ocd-division/country:us/state:ma/sldu:worcester_hampden_hampshire_and_franklin": {
    "name": "Massachusetts Worcester, Hampden, Hampshire & Franklin district (obsolete)"
+  },
+  "ocd-division/country:us/state:ma/place:blandford": {
+   "name": "Blandford town"
   },
   "ocd-division/country:us/state:ma/place:waltham/ward:9/precinct:2": {
    "name": "Waltham MA - Ward 9 Precinct 2"
@@ -10376,11 +10376,11 @@
   "ocd-division/country:us/state:ma/place:lowell/ward:8": {
    "name": "Lowell MA - Ward 8"
   },
-  "ocd-division/country:us/state:ma/place:rockport": {
-   "name": "Rockport town"
-  },
   "ocd-division/country:us/state:ma/place:lowell/ward:7": {
    "name": "Lowell MA - Ward 7"
+  },
+  "ocd-division/country:us/state:ma/place:rockport": {
+   "name": "Rockport town"
   },
   "ocd-division/country:us/state:ma/place:lowell/ward:6": {
    "name": "Lowell MA - Ward 6"
@@ -10589,23 +10589,23 @@
   "ocd-division/country:us/state:ma/place:palmer_town/precinct:1": {
    "name": "Palmer MA - Precinct 1"
   },
+  "ocd-division/country:us/state:ma/place:falmouth/precinct:2": {
+   "name": "Falmouth MA - Precinct 2"
+  },
   "ocd-division/country:us/state:ma/place:boston/ward:5": {
    "name": "Boston MA - Ward 5",
    "officeIndices": [
     215
    ]
   },
-  "ocd-division/country:us/state:ma/place:falmouth/precinct:2": {
-   "name": "Falmouth MA - Precinct 2"
+  "ocd-division/country:us/state:ma/place:falmouth/precinct:5": {
+   "name": "Falmouth MA - Precinct 5"
   },
   "ocd-division/country:us/state:ma/place:boston/ward:4": {
    "name": "Boston MA - Ward 4",
    "officeIndices": [
     216
    ]
-  },
-  "ocd-division/country:us/state:ma/place:falmouth/precinct:5": {
-   "name": "Falmouth MA - Precinct 5"
   },
   "ocd-division/country:us/state:ma/place:falmouth/precinct:4": {
    "name": "Falmouth MA - Precinct 4"
@@ -10637,14 +10637,14 @@
     219
    ]
   },
-  "ocd-division/country:us/state:ma/place:swampscott": {
-   "name": "Swampscott town"
-  },
   "ocd-division/country:us/state:ma/place:falmouth/precinct:8": {
    "name": "Falmouth MA - Precinct 8"
   },
   "ocd-division/country:us/state:ma/place:sandwich/precinct:4": {
    "name": "Sandwich MA - Precinct 4"
+  },
+  "ocd-division/country:us/state:ma/place:swampscott": {
+   "name": "Swampscott town"
   },
   "ocd-division/country:us/state:ma/place:falmouth/precinct:9": {
    "name": "Falmouth MA - Precinct 9"
@@ -10688,14 +10688,14 @@
   "ocd-division/country:us/state:ma/place:westfield/ward:3": {
    "name": "Westfield MA - Ward 3"
   },
-  "ocd-division/country:us/state:ma/place:westfield/ward:4": {
-   "name": "Westfield MA - Ward 4"
-  },
   "ocd-division/country:us/state:ma/sldl:10th_bristol": {
    "name": "Massachusetts 10th Bristol district",
    "officeIndices": [
     206
    ]
+  },
+  "ocd-division/country:us/state:ma/place:westfield/ward:4": {
+   "name": "Westfield MA - Ward 4"
   },
   "ocd-division/country:us/state:ma/place:westfield/ward:1": {
    "name": "Westfield MA - Ward 1"
@@ -10862,11 +10862,11 @@
   "ocd-division/country:us/state:ma/place:rowe": {
    "name": "Rowe town"
   },
-  "ocd-division/country:us/state:ma/place:lynn": {
-   "name": "Lynn city"
-  },
   "ocd-division/country:us/state:ma/place:attleboro/ward:2/precinct:b": {
    "name": "Attleboro MA - Ward 2 Precinct b"
+  },
+  "ocd-division/country:us/state:ma/place:lynn": {
+   "name": "Lynn city"
   },
   "ocd-division/country:us/state:ma/place:attleboro/ward:2/precinct:a": {
    "name": "Attleboro MA - Ward 2 Precinct a"

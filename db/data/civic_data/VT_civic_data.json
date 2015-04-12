@@ -36,14 +36,14 @@
     2
    ]
   },
+  "ocd-division/country:us/state:vt/place:newport_city": {
+   "name": "Newport city"
+  },
   "ocd-division/country:us/state:vt/sldl:lamoille-2": {
    "name": "Vermont Lamoille-2 State House district",
    "officeIndices": [
     3
    ]
-  },
-  "ocd-division/country:us/state:vt/place:newport_city": {
-   "name": "Newport city"
   },
   "ocd-division/country:us/state:vt/sldl:lamoille-1": {
    "name": "Vermont Lamoille-1 State House district",
@@ -88,11 +88,11 @@
   "ocd-division/country:us/state:vt/county:windsor/school_district:windsor_central_supervisory_union": {
    "name": "windsor central supervisory union"
   },
-  "ocd-division/country:us/state:vt/place:pittsford": {
-   "name": "Pittsford town"
-  },
   "ocd-division/country:us/state:vt/place:morrisville": {
    "name": "Morrisville village"
+  },
+  "ocd-division/country:us/state:vt/place:pittsford": {
+   "name": "Pittsford town"
   },
   "ocd-division/country:us/state:vt/place:barton_town": {
    "name": "Barton town"
@@ -318,14 +318,14 @@
     12
    ]
   },
-  "ocd-division/country:us/state:vt/place:winooski": {
-   "name": "Winooski city"
+  "ocd-division/country:us/state:vt/county:windsor/school_district:rutland_windsor_supervisory_union": {
+   "name": "rutland windsor supervisory union"
   },
   "ocd-division/country:us/state:vt/county:chittenden/school_district:underhill_id_school_district": {
    "name": "underhill id school district"
   },
-  "ocd-division/country:us/state:vt/county:windsor/school_district:rutland_windsor_supervisory_union": {
-   "name": "rutland windsor supervisory union"
+  "ocd-division/country:us/state:vt/place:winooski": {
+   "name": "Winooski city"
   },
   "ocd-division/country:us/state:vt/place:jacksonville": {
    "name": "Jacksonville village"
@@ -333,11 +333,11 @@
   "ocd-division/country:us/state:vt/county:windham/school_district:windham_southwest_supervisory_union": {
    "name": "windham southwest supervisory union"
   },
-  "ocd-division/country:us/state:vt/county:rutland/school_district:castleton-hubbardton_usd_42": {
-   "name": "castleton-hubbardton usd 42"
-  },
   "ocd-division/country:us/state:vt/county:washington/school_district:duxbury_school_district": {
    "name": "duxbury school district"
+  },
+  "ocd-division/country:us/state:vt/county:rutland/school_district:castleton-hubbardton_usd_42": {
+   "name": "castleton-hubbardton usd 42"
   },
   "ocd-division/country:us/state:vt/place:fayston": {
    "name": "Fayston town"
@@ -665,23 +665,23 @@
   "ocd-division/country:us/state:vt/sldl:chittenden-3-3": {
    "name": "Vermont Chittenden-3-3 State House district (obsolete)"
   },
-  "ocd-division/country:us/state:vt/sldl:chittenden-3-2": {
-   "name": "Vermont Chittenden-3-2 State House district (obsolete)"
-  },
   "ocd-division/country:us/state:vt/county:lamoille/school_district:belvidere_school_district": {
    "name": "belvidere school district"
   },
-  "ocd-division/country:us/state:vt/sldl:chittenden-3-5": {
-   "name": "Vermont Chittenden-3-5 State House district (obsolete)"
+  "ocd-division/country:us/state:vt/sldl:chittenden-3-2": {
+   "name": "Vermont Chittenden-3-2 State House district (obsolete)"
   },
   "ocd-division/country:us/state:vt/place:proctor": {
    "name": "Proctor town"
   },
-  "ocd-division/country:us/state:vt/sldl:chittenden-3-4": {
-   "name": "Vermont Chittenden-3-4 State House district (obsolete)"
+  "ocd-division/country:us/state:vt/sldl:chittenden-3-5": {
+   "name": "Vermont Chittenden-3-5 State House district (obsolete)"
   },
   "ocd-division/country:us/state:vt/place:lyndonville": {
    "name": "Lyndonville village"
+  },
+  "ocd-division/country:us/state:vt/sldl:chittenden-3-4": {
+   "name": "Vermont Chittenden-3-4 State House district (obsolete)"
   },
   "ocd-division/country:us/state:vt/sldl:chittenden-3-7": {
    "name": "Vermont Chittenden-3-7 State House district (obsolete)"
@@ -1379,11 +1379,11 @@
   "ocd-division/country:us/state:vt/county:windham/school_district:brookline_school_district": {
    "name": "brookline school district"
   },
-  "ocd-division/country:us/state:vt/place:landgrove": {
-   "name": "Landgrove town"
-  },
   "ocd-division/country:us/state:vt/place:hartland": {
    "name": "Hartland town"
+  },
+  "ocd-division/country:us/state:vt/place:landgrove": {
+   "name": "Landgrove town"
   },
   "ocd-division/country:us/state:vt/place:bradford": {
    "name": "Bradford town"
@@ -2771,11 +2771,11 @@
   "ocd-division/country:us/state:vt/sldl:rutland-1-1": {
    "name": "Vermont Rutland-1-1 State House district (obsolete)"
   },
-  "ocd-division/country:us/state:vt/sldl:rutland-1-2": {
-   "name": "Vermont Rutland-1-2 State House district (obsolete)"
-  },
   "ocd-division/country:us/state:vt/county:franklin/school_district:franklin_west_supervisory_union": {
    "name": "franklin west supervisory union"
+  },
+  "ocd-division/country:us/state:vt/sldl:rutland-1-2": {
+   "name": "Vermont Rutland-1-2 State House district (obsolete)"
   },
   "ocd-division/country:us/state:vt/county:orleans/school_district:coventry_school_district": {
    "name": "coventry school district"

@@ -57,26 +57,26 @@
   "ocd-division/country:us/state:de/sldl:9/precinct:9": {
    "name": "Delaware precinct 09-09"
   },
+  "ocd-division/country:us/state:de/sldl:9/precinct:2": {
+   "name": "Delaware precinct 02-09"
+  },
   "ocd-division/country:us/state:de/sldl:39": {
    "name": "Delaware State House district 39",
    "officeIndices": [
     2
    ]
   },
-  "ocd-division/country:us/state:de/sldl:9/precinct:2": {
-   "name": "Delaware precinct 02-09"
-  },
   "ocd-division/country:us/state:de/sldl:9/precinct:3": {
    "name": "Delaware precinct 03-09"
+  },
+  "ocd-division/country:us/state:de/sldl:9/precinct:4": {
+   "name": "Delaware precinct 04-09"
   },
   "ocd-division/country:us/state:de/sldl:37": {
    "name": "Delaware State House district 37",
    "officeIndices": [
     3
    ]
-  },
-  "ocd-division/country:us/state:de/sldl:9/precinct:4": {
-   "name": "Delaware precinct 04-09"
   },
   "ocd-division/country:us/state:de/sldl:9/precinct:5": {
    "name": "Delaware precinct 05-09"
@@ -120,17 +120,17 @@
   "ocd-division/country:us/state:de/sldl:17/precinct:5": {
    "name": "Delaware precinct 05-17"
   },
-  "ocd-division/country:us/state:de/sldl:17/precinct:6": {
-   "name": "Delaware precinct 06-17"
-  },
   "ocd-division/country:us/state:de/sldl:11/precinct:9": {
    "name": "Delaware precinct 09-11"
   },
-  "ocd-division/country:us/state:de/sldl:17/precinct:3": {
-   "name": "Delaware precinct 03-17"
+  "ocd-division/country:us/state:de/sldl:17/precinct:6": {
+   "name": "Delaware precinct 06-17"
   },
   "ocd-division/country:us/state:de/place:kenton": {
    "name": "Kenton town"
+  },
+  "ocd-division/country:us/state:de/sldl:17/precinct:3": {
+   "name": "Delaware precinct 03-17"
   },
   "ocd-division/country:us/state:de/sldl:17/precinct:4": {
    "name": "Delaware precinct 04-17"
@@ -144,11 +144,11 @@
   "ocd-division/country:us/state:de/sldl:11/precinct:2": {
    "name": "Delaware precinct 02-11"
   },
-  "ocd-division/country:us/state:de/county:new_castle/school_district:new_castle_county_vocational-technical_school_district": {
-   "name": "new castle county vocational-technical school district"
-  },
   "ocd-division/country:us/state:de/sldl:11/precinct:1": {
    "name": "Delaware precinct 01-11"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:new_castle_county_vocational-technical_school_district": {
+   "name": "new castle county vocational-technical school district"
   },
   "ocd-division/country:us/state:de/sldl:11/precinct:4": {
    "name": "Delaware precinct 04-11"
@@ -264,11 +264,11 @@
   "ocd-division/country:us/state:de/sldl:18/precinct:4": {
    "name": "Delaware precinct 04-18"
   },
-  "ocd-division/country:us/state:de/sldl:18/precinct:5": {
-   "name": "Delaware precinct 05-18"
-  },
   "ocd-division/country:us/state:de/place:henlopen_acres": {
    "name": "Henlopen Acres town"
+  },
+  "ocd-division/country:us/state:de/sldl:18/precinct:5": {
+   "name": "Delaware precinct 05-18"
   },
   "ocd-division/country:us/state:de/sldl:18/precinct:6": {
    "name": "Delaware precinct 06-18"
@@ -279,32 +279,32 @@
   "ocd-division/country:us/state:de/sldl:16/precinct:7": {
    "name": "Delaware precinct 07-16"
   },
-  "ocd-division/country:us/state:de/sldl:18/precinct:1": {
-   "name": "Delaware precinct 01-18"
-  },
   "ocd-division/country:us/state:de/sldl:16/precinct:6": {
    "name": "Delaware precinct 06-16"
   },
-  "ocd-division/country:us/state:de/sldl:18/precinct:2": {
-   "name": "Delaware precinct 02-18"
+  "ocd-division/country:us/state:de/sldl:18/precinct:1": {
+   "name": "Delaware precinct 01-18"
   },
   "ocd-division/country:us/state:de/sldl:16/precinct:9": {
    "name": "Delaware precinct 09-16"
   },
-  "ocd-division/country:us/state:de/sldl:18/precinct:3": {
-   "name": "Delaware precinct 03-18"
+  "ocd-division/country:us/state:de/sldl:18/precinct:2": {
+   "name": "Delaware precinct 02-18"
   },
   "ocd-division/country:us/state:de/sldl:16/precinct:8": {
    "name": "Delaware precinct 08-16"
   },
-  "ocd-division/country:us/state:de/place:newport": {
-   "name": "Newport town"
+  "ocd-division/country:us/state:de/sldl:18/precinct:3": {
+   "name": "Delaware precinct 03-18"
   },
   "ocd-division/country:us/state:de/sldl:11": {
    "name": "Delaware State House district 11",
    "officeIndices": [
     7
    ]
+  },
+  "ocd-division/country:us/state:de/place:newport": {
+   "name": "Newport town"
   },
   "ocd-division/country:us/state:de/sldl:12": {
    "name": "Delaware State House district 12",
@@ -642,14 +642,17 @@
     28
    ]
   },
+  "ocd-division/country:us/state:de/sldl:16/precinct:1": {
+   "name": "Delaware precinct 01-16"
+  },
   "ocd-division/country:us/state:de/sldl:21": {
    "name": "Delaware State House district 21",
    "officeIndices": [
     29
    ]
   },
-  "ocd-division/country:us/state:de/sldl:16/precinct:1": {
-   "name": "Delaware precinct 01-16"
+  "ocd-division/country:us/state:de/sldl:16/precinct:4": {
+   "name": "Delaware precinct 04-16"
   },
   "ocd-division/country:us/state:de/sldl:24": {
    "name": "Delaware State House district 24",
@@ -657,8 +660,8 @@
     30
    ]
   },
-  "ocd-division/country:us/state:de/sldl:16/precinct:4": {
-   "name": "Delaware precinct 04-16"
+  "ocd-division/country:us/state:de/sldl:16/precinct:5": {
+   "name": "Delaware precinct 05-16"
   },
   "ocd-division/country:us/state:de/sldl:25": {
    "name": "Delaware State House district 25",
@@ -666,8 +669,8 @@
     31
    ]
   },
-  "ocd-division/country:us/state:de/sldl:16/precinct:5": {
-   "name": "Delaware precinct 05-16"
+  "ocd-division/country:us/state:de/sldl:16/precinct:2": {
+   "name": "Delaware precinct 02-16"
   },
   "ocd-division/country:us/state:de/sldl:22": {
    "name": "Delaware State House district 22",
@@ -675,17 +678,14 @@
     32
    ]
   },
-  "ocd-division/country:us/state:de/sldl:16/precinct:2": {
-   "name": "Delaware precinct 02-16"
+  "ocd-division/country:us/state:de/sldl:16/precinct:3": {
+   "name": "Delaware precinct 03-16"
   },
   "ocd-division/country:us/state:de/sldl:23": {
    "name": "Delaware State House district 23",
    "officeIndices": [
     33
    ]
-  },
-  "ocd-division/country:us/state:de/sldl:16/precinct:3": {
-   "name": "Delaware precinct 03-16"
   },
   "ocd-division/country:us/state:de/place:wyoming": {
    "name": "Wyoming town"
@@ -984,6 +984,9 @@
   "ocd-division/country:us/state:de/sldl:21/precinct:3": {
    "name": "Delaware precinct 03-21"
   },
+  "ocd-division/country:us/state:de/sldl:29/precinct:9": {
+   "name": "Delaware precinct 09-29"
+  },
   "ocd-division/country:us/state:de/county:kent": {
    "name": "Kent County",
    "officeIndices": [
@@ -994,9 +997,6 @@
     89,
     90
    ]
-  },
-  "ocd-division/country:us/state:de/sldl:29/precinct:9": {
-   "name": "Delaware precinct 09-29"
   },
   "ocd-division/country:us/state:de/sldl:29/precinct:8": {
    "name": "Delaware precinct 08-29"
@@ -1371,14 +1371,14 @@
   "ocd-division/country:us/state:de/sldl:22/precinct:12": {
    "name": "Delaware precinct 12-22"
   },
-  "ocd-division/country:us/state:de/sldl:22/precinct:11": {
-   "name": "Delaware precinct 11-22"
-  },
   "ocd-division/country:us/state:de/sldl:8": {
    "name": "Delaware State House district 8",
    "officeIndices": [
     49
    ]
+  },
+  "ocd-division/country:us/state:de/sldl:22/precinct:11": {
+   "name": "Delaware precinct 11-22"
   },
   "ocd-division/country:us/state:de/sldl:9": {
    "name": "Delaware State House district 9",
@@ -1488,14 +1488,14 @@
   "ocd-division/country:us/state:de/sldl:24/precinct:3": {
    "name": "Delaware precinct 03-24"
   },
+  "ocd-division/country:us/state:de/sldl:8/precinct:9": {
+   "name": "Delaware precinct 09-08"
+  },
   "ocd-division/country:us/state:de/county:new_castle/council_district:9": {
    "name": "New Castle DE County Council District 9",
    "officeIndices": [
     110
    ]
-  },
-  "ocd-division/country:us/state:de/sldl:8/precinct:9": {
-   "name": "Delaware precinct 09-08"
   },
   "ocd-division/country:us/state:de/sldl:23/precinct:8": {
    "name": "Delaware precinct 08-23"

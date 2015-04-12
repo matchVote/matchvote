@@ -36,12 +36,6 @@
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv019": {
    "name": "Salt Lake County Precinct Riv019"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv016": {
-   "name": "Salt Lake County Precinct Riv016"
-  },
-  "ocd-division/country:us/state:ut/county:davis/precinct:bo12": {
-   "name": "Davis County Precinct Bo12"
-  },
   "ocd-division/country:us/state:ut": {
    "name": "Utah",
    "officeIndices": [
@@ -53,29 +47,35 @@
     113
    ]
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv017": {
-   "name": "Salt Lake County Precinct Riv017"
+  "ocd-division/country:us/state:ut/county:davis/precinct:bo12": {
+   "name": "Davis County Precinct Bo12"
+  },
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv016": {
+   "name": "Salt Lake County Precinct Riv016"
   },
   "ocd-division/country:us/state:ut/county:davis/precinct:bo11": {
    "name": "Davis County Precinct Bo11"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/school_district:success_school": {
-   "name": "success school"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv017": {
+   "name": "Salt Lake County Precinct Riv017"
   },
   "ocd-division/country:us/state:ut/county:davis/precinct:bo14": {
    "name": "Davis County Precinct Bo14"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv015": {
-   "name": "Salt Lake County Precinct Riv015"
+  "ocd-division/country:us/state:ut/county:salt_lake/school_district:success_school": {
+   "name": "success school"
   },
-  "ocd-division/country:us/state:ut/county:davis/precinct:bo13": {
-   "name": "Davis County Precinct Bo13"
+  "ocd-division/country:us/state:ut/place:new_harmony": {
+   "name": "New Harmony town"
   },
   "ocd-division/country:us/state:ut/place:lynndyl": {
    "name": "Lynndyl town"
   },
-  "ocd-division/country:us/state:ut/place:new_harmony": {
-   "name": "New Harmony town"
+  "ocd-division/country:us/state:ut/county:davis/precinct:bo13": {
+   "name": "Davis County Precinct Bo13"
+  },
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv015": {
+   "name": "Salt Lake County Precinct Riv015"
   },
   "ocd-division/country:us/state:ut/county:davis/precinct:bo16": {
    "name": "Davis County Precinct Bo16"
@@ -116,11 +116,11 @@
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv020": {
    "name": "Salt Lake County Precinct Riv020"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv029": {
-   "name": "Salt Lake County Precinct Riv029"
-  },
   "ocd-division/country:us/state:ut/county:davis/precinct:bo21": {
    "name": "Davis County Precinct Bo21"
+  },
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv029": {
+   "name": "Salt Lake County Precinct Riv029"
   },
   "ocd-division/country:us/state:ut/county:davis/precinct:bo20": {
    "name": "Davis County Precinct Bo20"
@@ -128,29 +128,29 @@
   "ocd-division/country:us/state:ut/county:summit/precinct:btn34": {
    "name": "Summit County Precinct Btn34"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv025": {
-   "name": "Salt Lake County Precinct Riv025"
-  },
   "ocd-division/country:us/state:ut/county:davis/precinct:bo25": {
    "name": "Davis County Precinct Bo25"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv026": {
-   "name": "Salt Lake County Precinct Riv026"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv025": {
+   "name": "Salt Lake County Precinct Riv025"
   },
   "ocd-division/country:us/state:ut/county:davis/precinct:bo24": {
    "name": "Davis County Precinct Bo24"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv027": {
-   "name": "Salt Lake County Precinct Riv027"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv026": {
+   "name": "Salt Lake County Precinct Riv026"
   },
   "ocd-division/country:us/state:ut/county:davis/precinct:bo23": {
    "name": "Davis County Precinct Bo23"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv028": {
-   "name": "Salt Lake County Precinct Riv028"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv027": {
+   "name": "Salt Lake County Precinct Riv027"
   },
   "ocd-division/country:us/state:ut/county:davis/precinct:bo22": {
    "name": "Davis County Precinct Bo22"
+  },
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv028": {
+   "name": "Salt Lake County Precinct Riv028"
   },
   "ocd-division/country:us/state:ut/county:davis/precinct:bo29": {
    "name": "Davis County Precinct Bo29"
@@ -251,20 +251,20 @@
   "ocd-division/country:us/state:ut/county:garfield/precinct:pa8": {
    "name": "Garfield County Precinct Pa8"
   },
-  "ocd-division/country:us/state:ut/county:garfield/precinct:pa7": {
-   "name": "Garfield County Precinct Pa7"
-  },
   "ocd-division/country:us/state:ut/place:lewiston": {
    "name": "Lewiston city"
+  },
+  "ocd-division/country:us/state:ut/county:garfield/precinct:pa7": {
+   "name": "Garfield County Precinct Pa7"
   },
   "ocd-division/country:us/state:ut/county:juab/school_district:tintic_district": {
    "name": "tintic district"
   },
-  "ocd-division/country:us/state:ut/county:summit/precinct:peoa15": {
-   "name": "Summit County Precinct Peoa15"
-  },
   "ocd-division/country:us/state:ut/county:juab/precinct:le06": {
    "name": "Juab County Precinct Le06"
+  },
+  "ocd-division/country:us/state:ut/county:summit/precinct:peoa15": {
+   "name": "Summit County Precinct Peoa15"
   },
   "ocd-division/country:us/state:ut/county:weber/precinct:wcu002": {
    "name": "Weber County Precinct Wcu002"
@@ -599,20 +599,20 @@
   "ocd-division/country:us/state:ut/place:cedar_city": {
    "name": "Cedar City city"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/school_district:canyon_rim_academy": {
-   "name": "canyon rim academy"
-  },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:slc167": {
    "name": "Salt Lake County Precinct Slc167"
+  },
+  "ocd-division/country:us/state:ut/county:salt_lake/school_district:canyon_rim_academy": {
+   "name": "canyon rim academy"
   },
   "ocd-division/country:us/state:ut/county:millard/precinct:del17": {
    "name": "Millard County Precinct Del17"
   },
-  "ocd-division/country:us/state:ut/county:iron/precinct:parago": {
-   "name": "Iron County Precinct Parago"
-  },
   "ocd-division/country:us/state:ut/county:millard/precinct:del18": {
    "name": "Millard County Precinct Del18"
+  },
+  "ocd-division/country:us/state:ut/county:iron/precinct:parago": {
+   "name": "Iron County Precinct Parago"
   },
   "ocd-division/country:us/state:ut/county:uintah/precinct:np04": {
    "name": "Uintah County Precinct Np04"
@@ -1297,11 +1297,14 @@
   "ocd-division/country:us/state:ut/county:weber/precinct:ogd001": {
    "name": "Weber County Precinct Ogd001"
   },
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol017": {
+   "name": "Salt Lake County Precinct Hol017"
+  },
   "ocd-division/country:us/state:ut/county:iron/precinct:midv": {
    "name": "Iron County Precinct Midv"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol017": {
-   "name": "Salt Lake County Precinct Hol017"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol016": {
+   "name": "Salt Lake County Precinct Hol016"
   },
   "ocd-division/country:us/state:ut/county:millard": {
    "name": "Millard County",
@@ -1318,23 +1321,20 @@
     153
    ]
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol016": {
-   "name": "Salt Lake County Precinct Hol016"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol019": {
+   "name": "Salt Lake County Precinct Hol019"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd039": {
    "name": "Salt Lake County Precinct Sjd039"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol019": {
-   "name": "Salt Lake County Precinct Hol019"
-  },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd038": {
-   "name": "Salt Lake County Precinct Sjd038"
+  "ocd-division/country:us/state:ut/place:ferron": {
+   "name": "Ferron city"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol018": {
    "name": "Salt Lake County Precinct Hol018"
   },
-  "ocd-division/country:us/state:ut/place:ferron": {
-   "name": "Ferron city"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd038": {
+   "name": "Salt Lake County Precinct Sjd038"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol013": {
    "name": "Salt Lake County Precinct Hol013"
@@ -2509,11 +2509,11 @@
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:sil001": {
    "name": "Salt Lake County Precinct Sil001"
   },
-  "ocd-division/country:us/state:ut/county:davis/precinct:wp01": {
-   "name": "Davis County Precinct Wp01"
-  },
   "ocd-division/country:us/state:ut/county:wasatch/precinct:11": {
    "name": "Wasatch County Precinct 11"
+  },
+  "ocd-division/country:us/state:ut/county:davis/precinct:wp01": {
+   "name": "Davis County Precinct Wp01"
   },
   "ocd-division/country:us/state:ut/county:wasatch/precinct:10": {
    "name": "Wasatch County Precinct 10"
@@ -2521,11 +2521,11 @@
   "ocd-division/country:us/state:ut/county:box_elder/precinct:bear": {
    "name": "Box Elder County Precinct Bear"
   },
-  "ocd-division/country:us/state:ut/county:millard/school_district:millard_district": {
-   "name": "millard district"
-  },
   "ocd-division/country:us/state:ut/place:laketown": {
    "name": "Laketown town"
+  },
+  "ocd-division/country:us/state:ut/county:millard/school_district:millard_district": {
+   "name": "millard district"
   },
   "ocd-division/country:us/state:ut/place:cedar_hills": {
    "name": "Cedar Hills city"
@@ -5164,11 +5164,11 @@
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:cot023": {
    "name": "Salt Lake County Precinct Cot023"
   },
-  "ocd-division/country:us/state:ut/county:davis/precinct:cl03": {
-   "name": "Davis County Precinct Cl03"
-  },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:cot028": {
    "name": "Salt Lake County Precinct Cot028"
+  },
+  "ocd-division/country:us/state:ut/county:davis/precinct:cl03": {
+   "name": "Davis County Precinct Cl03"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:drp027": {
    "name": "Salt Lake County Precinct Drp027"

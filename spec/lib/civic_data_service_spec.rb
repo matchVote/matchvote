@@ -9,14 +9,14 @@ describe CivicDataService do
 
   describe "#dump_data_for_all_states" do
     let(:query) { { recursive: true, key: described_class::API_KEY } }
-    let(:alabama_file) { "#{Rails.root}/db/data/civic_data/AL_civic_data.json" }
-    let(:wyoming_file) { "#{Rails.root}/db/data/civic_data/WY_civic_data.json" }
+    let(:alabama_file) { "#{Rails.root}/db/data/civic_data/AL_TEST_civic_data.json" }
+    let(:wyoming_file) { "#{Rails.root}/db/data/civic_data/WY_TEST_civic_data.json" }
     after(:each) { File.delete(alabama_file, wyoming_file) }
 
     it "creates json files for each state" do
-      allow(subject).to receive(:state_abbreviations).and_return(["al", "wy"])
-      stub_request(:get, helper.url("al")).to_return(helper.mock_response("alabama"))
-      stub_request(:get, helper.url("wy")).to_return(helper.mock_response("wyoming"))
+      allow(subject).to receive(:state_abbreviations).and_return(["al_test", "wy_test"])
+      stub_request(:get, helper.url("al_test")).to_return(helper.mock_response("alabama"))
+      stub_request(:get, helper.url("wy_test")).to_return(helper.mock_response("wyoming"))
 
       subject.dump_data_for_all_states
 

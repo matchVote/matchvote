@@ -60,26 +60,26 @@
   "ocd-division/country:us/state:nc/county:union/precinct:24": {
    "name": "Union County Precinct 24"
   },
-  "ocd-division/country:us/state:nc/county:pamlico/precinct:1gb-grantsboro": {
-   "name": "Pamlico County Precinct 1Gb-Grantsboro"
-  },
-  "ocd-division/country:us/state:nc/county:hertford/precinct:a1-ahoskie_1": {
-   "name": "Hertford County Precinct A1-Ahoskie 1"
-  },
   "ocd-division/country:us/state:nc/sldl:76": {
    "name": "North Carolina State House district 76",
    "officeIndices": [
     17
    ]
   },
-  "ocd-division/country:us/state:nc/county:alamance/precinct:63-graham_3": {
-   "name": "Alamance County Precinct 63-Graham 3"
+  "ocd-division/country:us/state:nc/county:hertford/precinct:a1-ahoskie_1": {
+   "name": "Hertford County Precinct A1-Ahoskie 1"
+  },
+  "ocd-division/country:us/state:nc/county:pamlico/precinct:1gb-grantsboro": {
+   "name": "Pamlico County Precinct 1Gb-Grantsboro"
   },
   "ocd-division/country:us/state:nc/sldl:75": {
    "name": "North Carolina State House district 75",
    "officeIndices": [
     18
    ]
+  },
+  "ocd-division/country:us/state:nc/county:alamance/precinct:63-graham_3": {
+   "name": "Alamance County Precinct 63-Graham 3"
   },
   "ocd-division/country:us/state:nc/sldl:74": {
    "name": "North Carolina State House district 74",
@@ -177,9 +177,6 @@
   "ocd-division/country:us/state:nc/county:union/precinct:34": {
    "name": "Union County Precinct 34"
   },
-  "ocd-division/country:us/state:nc/county:union/precinct:35": {
-   "name": "Union County Precinct 35"
-  },
   "ocd-division/country:us/state:nc/place:washington": {
    "name": "Washington city"
   },
@@ -188,6 +185,9 @@
   },
   "ocd-division/country:us/state:nc/county:buncombe/precinct:201-board_of_elections_office": {
    "name": "Buncombe County Precinct 201-Board Of Elections Office"
+  },
+  "ocd-division/country:us/state:nc/county:union/precinct:35": {
+   "name": "Union County Precinct 35"
   },
   "ocd-division/country:us/state:nc/county:wake/school_district:torchlight_academy": {
    "name": "torchlight academy"
@@ -396,6 +396,12 @@
     46
    ]
   },
+  "ocd-division/country:us/state:nc/sldl:80": {
+   "name": "North Carolina State House district 80",
+   "officeIndices": [
+    47
+   ]
+  },
   "ocd-division/country:us/state:nc/county:halifax": {
    "name": "Halifax County",
    "officeIndices": [
@@ -406,29 +412,23 @@
     199
    ]
   },
-  "ocd-division/country:us/state:nc/sldl:80": {
-   "name": "North Carolina State House district 80",
-   "officeIndices": [
-    47
-   ]
-  },
   "ocd-division/country:us/state:nc/sldl:83": {
    "name": "North Carolina State House district 83",
    "officeIndices": [
     48
    ]
   },
-  "ocd-division/country:us/state:nc/county:henderson/precinct:sb-south_blue_ridge": {
-   "name": "Henderson County Precinct Sb-South Blue Ridge"
-  },
-  "ocd-division/country:us/state:nc/county:buncombe/precinct:441-lower_hominy_1_oak_forest_pres_ch": {
-   "name": "Buncombe County Precinct 441-Lower Hominy 1 Oak Forest Pres Ch"
-  },
   "ocd-division/country:us/state:nc/sldl:82": {
    "name": "North Carolina State House district 82",
    "officeIndices": [
     49
    ]
+  },
+  "ocd-division/country:us/state:nc/county:buncombe/precinct:441-lower_hominy_1_oak_forest_pres_ch": {
+   "name": "Buncombe County Precinct 441-Lower Hominy 1 Oak Forest Pres Ch"
+  },
+  "ocd-division/country:us/state:nc/county:henderson/precinct:sb-south_blue_ridge": {
+   "name": "Henderson County Precinct Sb-South Blue Ridge"
   },
   "ocd-division/country:us/state:nc/sldl:85": {
    "name": "North Carolina State House district 85",
@@ -463,20 +463,20 @@
   "ocd-division/country:us/state:nc/county:davidson/precinct:56-south_davidson": {
    "name": "Davidson County Precinct 56-South Davidson"
   },
-  "ocd-division/country:us/state:nc/place:princeville": {
-   "name": "Princeville town"
-  },
   "ocd-division/country:us/state:nc/place:vass": {
    "name": "Vass town"
+  },
+  "ocd-division/country:us/state:nc/place:princeville": {
+   "name": "Princeville town"
   },
   "ocd-division/country:us/state:nc/county:martin/school_district:martin_county_schools": {
    "name": "martin county schools"
   },
-  "ocd-division/country:us/state:nc/county:vance/precinct:sh1": {
-   "name": "Vance County Precinct Sh1"
-  },
   "ocd-division/country:us/state:nc/county:jackson/precinct:bck-barkers_creek": {
    "name": "Jackson County Precinct Bck-Barkers Creek"
+  },
+  "ocd-division/country:us/state:nc/county:vance/precinct:sh1": {
+   "name": "Vance County Precinct Sh1"
   },
   "ocd-division/country:us/state:nc/county:vance/precinct:sh2": {
    "name": "Vance County Precinct Sh2"
@@ -505,20 +505,20 @@
   "ocd-division/country:us/state:nc/county:wilson/school_district:wilson_county_schools": {
    "name": "wilson county schools"
   },
-  "ocd-division/country:us/state:nc/county:robeson/precinct:32a-st_pauls": {
-   "name": "Robeson County Precinct 32A-St Pauls"
-  },
   "ocd-division/country:us/state:nc/county:gaston/precinct:39-alexis": {
    "name": "Gaston County Precinct 39-Alexis"
+  },
+  "ocd-division/country:us/state:nc/county:robeson/precinct:32a-st_pauls": {
+   "name": "Robeson County Precinct 32A-St Pauls"
   },
   "ocd-division/country:us/state:nc/county:vance/precinct:htop": {
    "name": "Vance County Precinct Htop"
   },
-  "ocd-division/country:us/state:nc/county:rowan/precinct:21-north_locke": {
-   "name": "Rowan County Precinct 21-North Locke"
-  },
   "ocd-division/country:us/state:nc/county:buncombe/school_district:artspace_charter": {
    "name": "artspace charter"
+  },
+  "ocd-division/country:us/state:nc/county:rowan/precinct:21-north_locke": {
+   "name": "Rowan County Precinct 21-North Locke"
   },
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:2041-204": {
    "name": "Mecklenburg County Precinct 2041-204"
@@ -532,11 +532,11 @@
   "ocd-division/country:us/state:nc/county:transylvania/precinct:wc-williamson_creek": {
    "name": "Transylvania County Precinct Wc-Williamson Creek"
   },
-  "ocd-division/country:us/state:nc/county:union/precinct:36": {
-   "name": "Union County Precinct 36"
-  },
   "ocd-division/country:us/state:nc/place:spindale": {
    "name": "Spindale town"
+  },
+  "ocd-division/country:us/state:nc/county:union/precinct:36": {
+   "name": "Union County Precinct 36"
   },
   "ocd-division/country:us/state:nc/county:jones": {
    "name": "Jones County",
@@ -551,17 +551,20 @@
   "ocd-division/country:us/state:nc/county:union/precinct:39": {
    "name": "Union County Precinct 39"
   },
-  "ocd-division/country:us/state:nc/county:rutherford/precinct:19-haynes": {
-   "name": "Rutherford County Precinct 19-Haynes"
-  },
   "ocd-division/country:us/state:nc/county:henderson/precinct:fr-flat_rock": {
    "name": "Henderson County Precinct Fr-Flat Rock"
+  },
+  "ocd-division/country:us/state:nc/county:rutherford/precinct:19-haynes": {
+   "name": "Rutherford County Precinct 19-Haynes"
   },
   "ocd-division/country:us/state:nc/county:cumberland/precinct:sh77-sherwood": {
    "name": "Cumberland County Precinct Sh77-Sherwood"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:1071-107": {
-   "name": "Mecklenburg County Precinct 1071-107"
+  "ocd-division/country:us/state:nc/county:harnett/precinct:pr8-black_river": {
+   "name": "Harnett County Precinct Pr8-Black River"
+  },
+  "ocd-division/country:us/state:nc/county:cleveland/precinct:shelby_1": {
+   "name": "Cleveland County Precinct Shelby 1"
   },
   "ocd-division/country:us/state:nc/county:jackson/council_district:3": {
    "name": "Jackson County District 3",
@@ -569,11 +572,8 @@
     205
    ]
   },
-  "ocd-division/country:us/state:nc/county:cleveland/precinct:shelby_1": {
-   "name": "Cleveland County Precinct Shelby 1"
-  },
-  "ocd-division/country:us/state:nc/county:harnett/precinct:pr8-black_river": {
-   "name": "Harnett County Precinct Pr8-Black River"
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:1071-107": {
+   "name": "Mecklenburg County Precinct 1071-107"
   },
   "ocd-division/country:us/state:nc/county:jackson/council_district:4": {
    "name": "Jackson County District 4",
@@ -581,17 +581,17 @@
     206
    ]
   },
-  "ocd-division/country:us/state:nc/county:cleveland/precinct:shelby_3": {
-   "name": "Cleveland County Precinct Shelby 3"
-  },
   "ocd-division/country:us/state:nc/place:huntersville": {
    "name": "Huntersville town"
   },
-  "ocd-division/country:us/state:nc/county:cleveland/precinct:shelby_2": {
-   "name": "Cleveland County Precinct Shelby 2"
+  "ocd-division/country:us/state:nc/county:cleveland/precinct:shelby_3": {
+   "name": "Cleveland County Precinct Shelby 3"
   },
   "ocd-division/country:us/state:nc/place:newland": {
    "name": "Newland town"
+  },
+  "ocd-division/country:us/state:nc/county:cleveland/precinct:shelby_2": {
+   "name": "Cleveland County Precinct Shelby 2"
   },
   "ocd-division/country:us/state:nc/county:cleveland/precinct:shelby_5": {
    "name": "Cleveland County Precinct Shelby 5"
@@ -599,11 +599,11 @@
   "ocd-division/country:us/state:nc/county:cleveland/precinct:shelby_4": {
    "name": "Cleveland County Precinct Shelby 4"
   },
-  "ocd-division/country:us/state:nc/county:hertford/precinct:co-cofield": {
-   "name": "Hertford County Precinct Co-Cofield"
-  },
   "ocd-division/country:us/state:nc/county:cleveland/precinct:shelby_7": {
    "name": "Cleveland County Precinct Shelby 7"
+  },
+  "ocd-division/country:us/state:nc/county:hertford/precinct:co-cofield": {
+   "name": "Hertford County Precinct Co-Cofield"
   },
   "ocd-division/country:us/state:nc/county:cleveland/precinct:shelby_6": {
    "name": "Cleveland County Precinct Shelby 6"
@@ -614,20 +614,17 @@
   "ocd-division/country:us/state:nc/county:halifax/school_district:roanoke_rapids_city_schools": {
    "name": "roanoke rapids city schools"
   },
-  "ocd-division/country:us/state:nc/county:stokes/precinct:8-flinty_knoll": {
-   "name": "Stokes County Precinct 8-Flinty Knoll"
+  "ocd-division/country:us/state:nc/place:halifax": {
+   "name": "Halifax town"
   },
   "ocd-division/country:us/state:nc/county:clay/precinct:hayc-hayesville_central": {
    "name": "Clay County Precinct Hayc-Hayesville Central"
   },
-  "ocd-division/country:us/state:nc/place:halifax": {
-   "name": "Halifax town"
+  "ocd-division/country:us/state:nc/county:stokes/precinct:8-flinty_knoll": {
+   "name": "Stokes County Precinct 8-Flinty Knoll"
   },
   "ocd-division/country:us/state:nc/county:union/precinct:40": {
    "name": "Union County Precinct 40"
-  },
-  "ocd-division/country:us/state:nc/county:union/precinct:42": {
-   "name": "Union County Precinct 42"
   },
   "ocd-division/country:us/state:nc/county:jackson/council_district:1": {
    "name": "Jackson County District 1",
@@ -635,14 +632,17 @@
     207
    ]
   },
-  "ocd-division/country:us/state:nc/county:union/precinct:41": {
-   "name": "Union County Precinct 41"
+  "ocd-division/country:us/state:nc/county:union/precinct:42": {
+   "name": "Union County Precinct 42"
   },
   "ocd-division/country:us/state:nc/county:jackson/council_district:2": {
    "name": "Jackson County District 2",
    "officeIndices": [
     208
    ]
+  },
+  "ocd-division/country:us/state:nc/county:union/precinct:41": {
+   "name": "Union County Precinct 41"
   },
   "ocd-division/country:us/state:nc/county:burke/precinct:66-chesterfield": {
    "name": "Burke County Precinct 66-Chesterfield"
@@ -662,11 +662,11 @@
   "ocd-division/country:us/state:nc/county:onslow/precinct:ne22b": {
    "name": "Onslow County Precinct Ne22B"
   },
-  "ocd-division/country:us/state:nc/county:swain/precinct:alarka": {
-   "name": "Swain County Precinct Alarka"
-  },
   "ocd-division/country:us/state:nc/county:onslow/precinct:ne22a": {
    "name": "Onslow County Precinct Ne22A"
+  },
+  "ocd-division/country:us/state:nc/county:swain/precinct:alarka": {
+   "name": "Swain County Precinct Alarka"
   },
   "ocd-division/country:us/state:nc/county:robeson/precinct:13-lumberton_3": {
    "name": "Robeson County Precinct 13-Lumberton 3"
@@ -677,6 +677,9 @@
   "ocd-division/country:us/state:nc/county:craven/precinct:17-croatan": {
    "name": "Craven County Precinct 17-Croatan"
   },
+  "ocd-division/country:us/state:nc/county:cabarrus/precinct:2-01": {
+   "name": "Cabarrus County Precinct 2-01"
+  },
   "ocd-division/country:us/state:nc/county:robeson": {
    "name": "Robeson County",
    "officeIndices": [
@@ -685,9 +688,6 @@
     211,
     212
    ]
-  },
-  "ocd-division/country:us/state:nc/county:cabarrus/precinct:2-01": {
-   "name": "Cabarrus County Precinct 2-01"
   },
   "ocd-division/country:us/state:nc/county:cabarrus/precinct:2-03": {
    "name": "Cabarrus County Precinct 2-03"
@@ -945,11 +945,11 @@
   "ocd-division/country:us/state:nc/county:wake/precinct:6-09": {
    "name": "Wake County Precinct 6-09"
   },
-  "ocd-division/country:us/state:nc/county:surry/precinct:7-elkin_2": {
-   "name": "Surry County Precinct 7-Elkin 2"
-  },
   "ocd-division/country:us/state:nc/county:brunswick/precinct:10a-mosquito_1": {
    "name": "Brunswick County Precinct 10A-Mosquito 1"
+  },
+  "ocd-division/country:us/state:nc/county:surry/precinct:7-elkin_2": {
+   "name": "Surry County Precinct 7-Elkin 2"
   },
   "ocd-division/country:us/state:nc/county:columbus/precinct:p11-north_lees": {
    "name": "Columbus County Precinct P11-North Lees"
@@ -957,20 +957,20 @@
   "ocd-division/country:us/state:nc/county:craven/precinct:4-rhems": {
    "name": "Craven County Precinct 4-Rhems"
   },
-  "ocd-division/country:us/state:nc/county:buncombe/precinct:302-averys_creek_elementary_school": {
-   "name": "Buncombe County Precinct 302-Averys Creek Elementary School"
+  "ocd-division/country:us/state:nc/county:watauga/precinct:14-new_river_2": {
+   "name": "Watauga County Precinct 14-New River 2"
   },
   "ocd-division/country:us/state:nc/county:harnett/precinct:pr20-stewarts_creek": {
    "name": "Harnett County Precinct Pr20-Stewarts Creek"
   },
-  "ocd-division/country:us/state:nc/county:watauga/precinct:14-new_river_2": {
-   "name": "Watauga County Precinct 14-New River 2"
-  },
-  "ocd-division/country:us/state:nc/county:lincoln/precinct:ls12-lincolnton~south": {
-   "name": "Lincoln County Precinct Ls12-Lincolnton/South"
+  "ocd-division/country:us/state:nc/county:buncombe/precinct:302-averys_creek_elementary_school": {
+   "name": "Buncombe County Precinct 302-Averys Creek Elementary School"
   },
   "ocd-division/country:us/state:nc/place:river_bend": {
    "name": "River Bend town"
+  },
+  "ocd-division/country:us/state:nc/county:lincoln/precinct:ls12-lincolnton~south": {
+   "name": "Lincoln County Precinct Ls12-Lincolnton/South"
   },
   "ocd-division/country:us/state:nc/county:craven/precinct:10-fort_barnwell": {
    "name": "Craven County Precinct 10-Fort Barnwell"
@@ -978,11 +978,11 @@
   "ocd-division/country:us/state:nc/place:wallburg": {
    "name": "Wallburg town"
   },
-  "ocd-division/country:us/state:nc/county:transylvania/precinct:b1-brevard_1": {
-   "name": "Transylvania County Precinct B1-Brevard 1"
-  },
   "ocd-division/country:us/state:nc/county:pender/precinct:lt18-lower_topsail": {
    "name": "Pender County Precinct Lt18-Lower Topsail"
+  },
+  "ocd-division/country:us/state:nc/county:transylvania/precinct:b1-brevard_1": {
+   "name": "Transylvania County Precinct B1-Brevard 1"
   },
   "ocd-division/country:us/state:nc/place:gatesville": {
    "name": "Gatesville town"
@@ -997,26 +997,26 @@
     230
    ]
   },
-  "ocd-division/country:us/state:nc/county:new_hanover/precinct:fp07": {
-   "name": "New Hanover County Precinct Fp07"
-  },
   "ocd-division/country:us/state:nc/county:gaston/precinct:11-armstrong": {
    "name": "Gaston County Precinct 11-Armstrong"
+  },
+  "ocd-division/country:us/state:nc/county:new_hanover/precinct:fp07": {
+   "name": "New Hanover County Precinct Fp07"
   },
   "ocd-division/country:us/state:nc/county:new_hanover/precinct:fp06": {
    "name": "New Hanover County Precinct Fp06"
   },
-  "ocd-division/country:us/state:nc/county:new_hanover/precinct:fp05": {
-   "name": "New Hanover County Precinct Fp05"
-  },
   "ocd-division/country:us/state:nc/place:bostic": {
    "name": "Bostic town"
   },
-  "ocd-division/country:us/state:nc/county:new_hanover/precinct:fp04": {
-   "name": "New Hanover County Precinct Fp04"
+  "ocd-division/country:us/state:nc/county:new_hanover/precinct:fp05": {
+   "name": "New Hanover County Precinct Fp05"
   },
   "ocd-division/country:us/state:nc/county:avery/precinct:11-linville": {
    "name": "Avery County Precinct 11-Linville"
+  },
+  "ocd-division/country:us/state:nc/county:new_hanover/precinct:fp04": {
+   "name": "New Hanover County Precinct Fp04"
   },
   "ocd-division/country:us/state:nc/county:new_hanover/precinct:fp03": {
    "name": "New Hanover County Precinct Fp03"
@@ -1033,11 +1033,11 @@
   "ocd-division/country:us/state:nc/county:person/precinct:rox4-roxboro_4": {
    "name": "Person County Precinct Rox4-Roxboro 4"
   },
-  "ocd-division/country:us/state:nc/county:buncombe/precinct:162-west_asheville_library": {
-   "name": "Buncombe County Precinct 162-West Asheville Library"
-  },
   "ocd-division/country:us/state:nc/place:connelly_springs": {
    "name": "Connelly Springs town"
+  },
+  "ocd-division/country:us/state:nc/county:buncombe/precinct:162-west_asheville_library": {
+   "name": "Buncombe County Precinct 162-West Asheville Library"
   },
   "ocd-division/country:us/state:nc/county:moore/school_district:the_academy_of_moore_county": {
    "name": "the academy of moore county"
@@ -1058,23 +1058,23 @@
   "ocd-division/country:us/state:nc/county:hyde/precinct:slad-sladesville": {
    "name": "Hyde County Precinct Slad-Sladesville"
   },
-  "ocd-division/country:us/state:nc/county:henderson/precinct:sw-southwest": {
-   "name": "Henderson County Precinct Sw-Southwest"
-  },
   "ocd-division/country:us/state:nc/place:chocowinity": {
    "name": "Chocowinity town"
   },
-  "ocd-division/country:us/state:nc/county:orange/precinct:ef-efland": {
-   "name": "Orange County Precinct Ef-Efland"
+  "ocd-division/country:us/state:nc/county:henderson/precinct:sw-southwest": {
+   "name": "Henderson County Precinct Sw-Southwest"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/school_district:charlotte_secondary_school": {
-   "name": "charlotte secondary school"
+  "ocd-division/country:us/state:nc/county:haywood/precinct:be-7-beaverdam_7": {
+   "name": "Haywood County Precinct Be-7-Beaverdam 7"
   },
   "ocd-division/country:us/state:nc/county:forsyth/precinct:207-new_hope_united_methodist_church": {
    "name": "Forsyth County Precinct 207-New Hope United Methodist Church"
   },
-  "ocd-division/country:us/state:nc/county:haywood/precinct:be-7-beaverdam_7": {
-   "name": "Haywood County Precinct Be-7-Beaverdam 7"
+  "ocd-division/country:us/state:nc/county:mecklenburg/school_district:charlotte_secondary_school": {
+   "name": "charlotte secondary school"
+  },
+  "ocd-division/country:us/state:nc/county:orange/precinct:ef-efland": {
+   "name": "Orange County Precinct Ef-Efland"
   },
   "ocd-division/country:us/state:nc/county:gaston/precinct:34-landers_chapel": {
    "name": "Gaston County Precinct 34-Landers Chapel"
@@ -1091,11 +1091,11 @@
   "ocd-division/country:us/state:nc/county:iredell/precinct:st5-statesville_5": {
    "name": "Iredell County Precinct St5-Statesville 5"
   },
-  "ocd-division/country:us/state:nc/county:cabarrus/precinct:10-00": {
-   "name": "Cabarrus County Precinct 10-00"
-  },
   "ocd-division/country:us/state:nc/county:granville/precinct:soox-south_oxford": {
    "name": "Granville County Precinct Soox-South Oxford"
+  },
+  "ocd-division/country:us/state:nc/county:cabarrus/precinct:10-00": {
+   "name": "Cabarrus County Precinct 10-00"
   },
   "ocd-division/country:us/state:nc/county:gaston/precinct:41-dallas_2": {
    "name": "Gaston County Precinct 41-Dallas 2"
@@ -1112,17 +1112,17 @@
   "ocd-division/country:us/state:nc/county:durham/school_district:kestrel_heights_sch": {
    "name": "kestrel heights sch"
   },
-  "ocd-division/country:us/state:nc/county:richmond/precinct:2-rockingham_2": {
-   "name": "Richmond County Precinct 2-Rockingham 2"
-  },
   "ocd-division/country:us/state:nc/county:buncombe/precinct:531-leicester_2_community_center": {
    "name": "Buncombe County Precinct 531-Leicester 2 Community Center"
   },
-  "ocd-division/country:us/state:nc/county:macon/precinct:13-nantahala": {
-   "name": "Macon County Precinct 13-Nantahala"
+  "ocd-division/country:us/state:nc/county:richmond/precinct:2-rockingham_2": {
+   "name": "Richmond County Precinct 2-Rockingham 2"
   },
   "ocd-division/country:us/state:nc/county:wake/school_district:exploris": {
    "name": "exploris"
+  },
+  "ocd-division/country:us/state:nc/county:macon/precinct:13-nantahala": {
+   "name": "Macon County Precinct 13-Nantahala"
   },
   "ocd-division/country:us/state:nc/county:davidson/precinct:24-lexington_2": {
    "name": "Davidson County Precinct 24-Lexington 2"
@@ -1143,11 +1143,11 @@
   "ocd-division/country:us/state:nc/place:stonewall": {
    "name": "Stonewall town"
   },
-  "ocd-division/country:us/state:nc/county:johnston/precinct:pr13-north_elevation": {
-   "name": "Johnston County Precinct Pr13-North Elevation"
-  },
   "ocd-division/country:us/state:nc/place:fletcher": {
    "name": "Fletcher town"
+  },
+  "ocd-division/country:us/state:nc/county:johnston/precinct:pr13-north_elevation": {
+   "name": "Johnston County Precinct Pr13-North Elevation"
   },
   "ocd-division/country:us/state:nc/county:pamlico/precinct:2ot-oriental": {
    "name": "Pamlico County Precinct 2Ot-Oriental"
@@ -1164,11 +1164,11 @@
   "ocd-division/country:us/state:nc/county:mcdowell/precinct:old_fort_1": {
    "name": "Mcdowell County Precinct Old Fort 1"
   },
-  "ocd-division/country:us/state:nc/county:mcdowell/precinct:old_fort_2": {
-   "name": "Mcdowell County Precinct Old Fort 2"
-  },
   "ocd-division/country:us/state:nc/county:forsyth/precinct:12-union_cross_elementary_school": {
    "name": "Forsyth County Precinct 12-Union Cross Elementary School"
+  },
+  "ocd-division/country:us/state:nc/county:mcdowell/precinct:old_fort_2": {
+   "name": "Mcdowell County Precinct Old Fort 2"
   },
   "ocd-division/country:us/state:nc/county:moore/precinct:nsp-north_southern_pines": {
    "name": "Moore County Precinct Nsp-North Southern Pines"
@@ -1176,11 +1176,11 @@
   "ocd-division/country:us/state:nc/county:northampton/precinct:gaston": {
    "name": "Northampton County Precinct Gaston"
   },
-  "ocd-division/country:us/state:nc/county:carteret/school_district:cape_lookout_marine_sci_high": {
-   "name": "cape lookout marine sci high"
-  },
   "ocd-division/country:us/state:nc/county:carteret/precinct:merr-merrimon": {
    "name": "Carteret County Precinct Merr-Merrimon"
+  },
+  "ocd-division/country:us/state:nc/county:carteret/school_district:cape_lookout_marine_sci_high": {
+   "name": "cape lookout marine sci high"
   },
   "ocd-division/country:us/state:nc/place:troy": {
    "name": "Troy town"
@@ -1188,14 +1188,14 @@
   "ocd-division/country:us/state:nc/county:wake/precinct:20-06a": {
    "name": "Wake County Precinct 20-06A"
   },
-  "ocd-division/country:us/state:nc/county:wake/precinct:20-06b": {
-   "name": "Wake County Precinct 20-06B"
+  "ocd-division/country:us/state:nc/place:clyde": {
+   "name": "Clyde town"
   },
   "ocd-division/country:us/state:nc/county:orange/precinct:eno": {
    "name": "Orange County Precinct Eno"
   },
-  "ocd-division/country:us/state:nc/place:clyde": {
-   "name": "Clyde town"
+  "ocd-division/country:us/state:nc/county:wake/precinct:20-06b": {
+   "name": "Wake County Precinct 20-06B"
   },
   "ocd-division/country:us/state:nc/county:robeson/precinct:5a-fairmont": {
    "name": "Robeson County Precinct 5A-Fairmont"
@@ -1215,11 +1215,11 @@
   "ocd-division/country:us/state:nc/county:cabarrus/precinct:11-02": {
    "name": "Cabarrus County Precinct 11-02"
   },
-  "ocd-division/country:us/state:nc/county:transylvania/precinct:b2-brevard_2": {
-   "name": "Transylvania County Precinct B2-Brevard 2"
-  },
   "ocd-division/country:us/state:nc/county:forsyth/precinct:708-little_creek_recreation": {
    "name": "Forsyth County Precinct 708-Little Creek Recreation"
+  },
+  "ocd-division/country:us/state:nc/county:transylvania/precinct:b2-brevard_2": {
+   "name": "Transylvania County Precinct B2-Brevard 2"
   },
   "ocd-division/country:us/state:nc/place:bladenboro": {
    "name": "Bladenboro town"
@@ -1245,20 +1245,20 @@
   "ocd-division/country:us/state:nc/place:dublin": {
    "name": "Dublin town"
   },
-  "ocd-division/country:us/state:nc/county:transylvania/precinct:re-rosman_eastatoe": {
-   "name": "Transylvania County Precinct Re-Rosman Eastatoe"
-  },
   "ocd-division/country:us/state:nc/county:granville/precinct:crdm-creedmoor": {
    "name": "Granville County Precinct Crdm-Creedmoor"
   },
-  "ocd-division/country:us/state:nc/county:northampton/precinct:severn": {
-   "name": "Northampton County Precinct Severn"
+  "ocd-division/country:us/state:nc/county:transylvania/precinct:re-rosman_eastatoe": {
+   "name": "Transylvania County Precinct Re-Rosman Eastatoe"
+  },
+  "ocd-division/country:us/state:nc/place:lowell": {
+   "name": "Lowell city"
   },
   "ocd-division/country:us/state:nc/place:fuquay-varina": {
    "name": "Fuquay-Varina town"
   },
-  "ocd-division/country:us/state:nc/place:lowell": {
-   "name": "Lowell city"
+  "ocd-division/country:us/state:nc/county:northampton/precinct:severn": {
+   "name": "Northampton County Precinct Severn"
   },
   "ocd-division/country:us/state:nc/county:pitt/precinct:1512b-greenville_12b": {
    "name": "Pitt County Precinct 1512B-Greenville 12B"
@@ -1269,11 +1269,11 @@
     241
    ]
   },
-  "ocd-division/country:us/state:nc/county:bertie/precinct:m1-mitchells_1": {
-   "name": "Bertie County Precinct M1-Mitchells 1"
-  },
   "ocd-division/country:us/state:nc/county:brunswick/precinct:9-oak_island_1": {
    "name": "Brunswick County Precinct 9-Oak Island 1"
+  },
+  "ocd-division/country:us/state:nc/county:bertie/precinct:m1-mitchells_1": {
+   "name": "Bertie County Precinct M1-Mitchells 1"
   },
   "ocd-division/country:us/state:nc/county:dare/council_district:4": {
    "name": "Dare County District 4",
@@ -1315,11 +1315,11 @@
   "ocd-division/country:us/state:nc/county:wilson/precinct:wilson_n": {
    "name": "Wilson County Precinct Wilson N"
   },
-  "ocd-division/country:us/state:nc/county:wilson/precinct:wilson_m": {
-   "name": "Wilson County Precinct Wilson M"
-  },
   "ocd-division/country:us/state:nc/place:eden": {
    "name": "Eden city"
+  },
+  "ocd-division/country:us/state:nc/county:wilson/precinct:wilson_m": {
+   "name": "Wilson County Precinct Wilson M"
   },
   "ocd-division/country:us/state:nc/county:wilson/precinct:wilson_l": {
    "name": "Wilson County Precinct Wilson L"
@@ -1351,29 +1351,29 @@
   "ocd-division/country:us/state:nc/county:wilson/precinct:wilson_i": {
    "name": "Wilson County Precinct Wilson I"
   },
-  "ocd-division/country:us/state:nc/county:wilson/precinct:wilson_h": {
-   "name": "Wilson County Precinct Wilson H"
-  },
   "ocd-division/country:us/state:nc/place:chapel_hill": {
    "name": "Chapel Hill town"
+  },
+  "ocd-division/country:us/state:nc/county:wilson/precinct:wilson_h": {
+   "name": "Wilson County Precinct Wilson H"
   },
   "ocd-division/country:us/state:nc/county:orange/school_district:chapel_hill-carrboro_schools": {
    "name": "chapel hill-carrboro schools"
   },
-  "ocd-division/country:us/state:nc/county:stanly/precinct:21-endy": {
-   "name": "Stanly County Precinct 21-Endy"
-  },
   "ocd-division/country:us/state:nc/place:bridgeton": {
    "name": "Bridgeton town"
+  },
+  "ocd-division/country:us/state:nc/county:stanly/precinct:21-endy": {
+   "name": "Stanly County Precinct 21-Endy"
   },
   "ocd-division/country:us/state:nc/county:wake/precinct:15-04": {
    "name": "Wake County Precinct 15-04"
   },
-  "ocd-division/country:us/state:nc/county:wake/precinct:15-03": {
-   "name": "Wake County Precinct 15-03"
-  },
   "ocd-division/country:us/state:nc/county:guilford/precinct:fr4": {
    "name": "Guilford County Precinct Fr4"
+  },
+  "ocd-division/country:us/state:nc/county:wake/precinct:15-03": {
+   "name": "Wake County Precinct 15-03"
   },
   "ocd-division/country:us/state:nc/county:yadkin/school_district:yadkin_county_schools": {
    "name": "yadkin county schools"
@@ -1997,14 +1997,14 @@
   "ocd-division/country:us/state:nc/county:wake/precinct:19-03": {
    "name": "Wake County Precinct 19-03"
   },
-  "ocd-division/country:us/state:nc/place:winston-salem/ward:east": {
-   "name": "Winston-Salem NC city council east district"
-  },
   "ocd-division/country:us/state:nc/sldl:44": {
    "name": "North Carolina State House district 44",
    "officeIndices": [
     93
    ]
+  },
+  "ocd-division/country:us/state:nc/place:winston-salem/ward:east": {
+   "name": "Winston-Salem NC city council east district"
   },
   "ocd-division/country:us/state:nc/county:guilford/precinct:h23": {
    "name": "Guilford County Precinct H23"
@@ -2280,6 +2280,9 @@
     269
    ]
   },
+  "ocd-division/country:us/state:nc/county:forsyth/precinct:65-kernersville_7th_day_adventist_church": {
+   "name": "Forsyth County Precinct 65-Kernersville 7Th Day Adventist Church"
+  },
   "ocd-division/country:us/state:nc/county:buncombe": {
    "name": "Buncombe County",
    "officeIndices": [
@@ -2289,9 +2292,6 @@
     273,
     274
    ]
-  },
-  "ocd-division/country:us/state:nc/county:forsyth/precinct:65-kernersville_7th_day_adventist_church": {
-   "name": "Forsyth County Precinct 65-Kernersville 7Th Day Adventist Church"
   },
   "ocd-division/country:us/state:nc/county:orange/precinct:ch-coker_hills": {
    "name": "Orange County Precinct Ch-Coker Hills"
@@ -2431,14 +2431,17 @@
     293
    ]
   },
-  "ocd-division/country:us/state:nc/county:buncombe/precinct:191-skyland_fire_department_sub_station": {
-   "name": "Buncombe County Precinct 191-Skyland Fire Department Sub Station"
-  },
   "ocd-division/country:us/state:nc/county:forsyth/council_district:b": {
    "name": "Forsyth County NC Board of Commissioners District B",
    "officeIndices": [
     294
    ]
+  },
+  "ocd-division/country:us/state:nc/county:buncombe/precinct:191-skyland_fire_department_sub_station": {
+   "name": "Buncombe County Precinct 191-Skyland Fire Department Sub Station"
+  },
+  "ocd-division/country:us/state:nc/county:mecklenburg/school_district:metrolina_reg_scholars_academy": {
+   "name": "metrolina reg scholars academy"
   },
   "ocd-division/country:us/state:nc/county:perquimans": {
    "name": "Perquimans County",
@@ -2449,9 +2452,6 @@
     298,
     299
    ]
-  },
-  "ocd-division/country:us/state:nc/county:mecklenburg/school_district:metrolina_reg_scholars_academy": {
-   "name": "metrolina reg scholars academy"
   },
   "ocd-division/country:us/state:nc/county:duplin/precinct:rose-rose_hill": {
    "name": "Duplin County Precinct Rose-Rose Hill"
@@ -2501,14 +2501,14 @@
     314
    ]
   },
-  "ocd-division/country:us/state:nc/county:pitt/precinct:1301-swift_creek": {
-   "name": "Pitt County Precinct 1301-Swift Creek"
+  "ocd-division/country:us/state:nc/place:zebulon": {
+   "name": "Zebulon town"
   },
   "ocd-division/country:us/state:nc/county:brunswick/precinct:2-leland": {
    "name": "Brunswick County Precinct 2-Leland"
   },
-  "ocd-division/country:us/state:nc/place:zebulon": {
-   "name": "Zebulon town"
+  "ocd-division/country:us/state:nc/county:pitt/precinct:1301-swift_creek": {
+   "name": "Pitt County Precinct 1301-Swift Creek"
   },
   "ocd-division/country:us/state:nc/county:surry/precinct:23-shoals": {
    "name": "Surry County Precinct 23-Shoals"
@@ -2519,41 +2519,41 @@
   "ocd-division/country:us/state:nc/county:lincoln/precinct:li14-lithia": {
    "name": "Lincoln County Precinct Li14-Lithia"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:137": {
-   "name": "Mecklenburg County Precinct 137"
-  },
   "ocd-division/country:us/state:nc/place:hudson": {
    "name": "Hudson town"
+  },
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:137": {
+   "name": "Mecklenburg County Precinct 137"
   },
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:138": {
    "name": "Mecklenburg County Precinct 138"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:135": {
-   "name": "Mecklenburg County Precinct 135"
-  },
   "ocd-division/country:us/state:nc/county:craven/precinct:n4-hj_macdonald": {
    "name": "Craven County Precinct N4-Hj Macdonald"
+  },
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:135": {
+   "name": "Mecklenburg County Precinct 135"
   },
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:136": {
    "name": "Mecklenburg County Precinct 136"
   },
-  "ocd-division/country:us/state:nc/county:sampson/precinct:clea-clinton_east": {
-   "name": "Sampson County Precinct Clea-Clinton East"
-  },
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:133": {
    "name": "Mecklenburg County Precinct 133"
   },
-  "ocd-division/country:us/state:nc/county:moore/precinct:phb1-pinehurst_b1": {
-   "name": "Moore County Precinct Phb1-Pinehurst B1"
+  "ocd-division/country:us/state:nc/county:sampson/precinct:clea-clinton_east": {
+   "name": "Sampson County Precinct Clea-Clinton East"
   },
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:134": {
    "name": "Mecklenburg County Precinct 134"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:131": {
-   "name": "Mecklenburg County Precinct 131"
+  "ocd-division/country:us/state:nc/county:moore/precinct:phb1-pinehurst_b1": {
+   "name": "Moore County Precinct Phb1-Pinehurst B1"
   },
   "ocd-division/country:us/state:nc/county:wake/school_district:magellan_charter": {
    "name": "magellan charter"
+  },
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:131": {
+   "name": "Mecklenburg County Precinct 131"
   },
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:132": {
    "name": "Mecklenburg County Precinct 132"
@@ -2561,14 +2561,14 @@
   "ocd-division/country:us/state:nc/place:elon": {
    "name": "Elon town"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:130": {
-   "name": "Mecklenburg County Precinct 130"
+  "ocd-division/country:us/state:nc/county:yadkin/precinct:fbsh-forbush": {
+   "name": "Yadkin County Precinct Fbsh-Forbush"
   },
   "ocd-division/country:us/state:nc/county:johnston/precinct:pr10a-north_clayton_1": {
    "name": "Johnston County Precinct Pr10A-North Clayton 1"
   },
-  "ocd-division/country:us/state:nc/county:yadkin/precinct:fbsh-forbush": {
-   "name": "Yadkin County Precinct Fbsh-Forbush"
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:130": {
+   "name": "Mecklenburg County Precinct 130"
   },
   "ocd-division/country:us/state:nc/county:rowan/precinct:13-rock_grove": {
    "name": "Rowan County Precinct 13-Rock Grove"
@@ -2592,62 +2592,62 @@
   "ocd-division/country:us/state:nc/place:thomasville": {
    "name": "Thomasville city"
   },
-  "ocd-division/country:us/state:nc/county:rowan/precinct:7-cleveland": {
-   "name": "Rowan County Precinct 7-Cleveland"
-  },
   "ocd-division/country:us/state:nc/place:fayetteville/council_district:1": {
    "name": "Fayetteville NC city council district 1"
+  },
+  "ocd-division/country:us/state:nc/county:rowan/precinct:7-cleveland": {
+   "name": "Rowan County Precinct 7-Cleveland"
   },
   "ocd-division/country:us/state:nc/place:fayetteville/council_district:2": {
    "name": "Fayetteville NC city council district 2"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:146": {
-   "name": "Mecklenburg County Precinct 146"
+  "ocd-division/country:us/state:nc/place:fayetteville/council_district:3": {
+   "name": "Fayetteville NC city council district 3"
   },
   "ocd-division/country:us/state:nc/county:gaston/precinct:45-mount_holly_1": {
    "name": "Gaston County Precinct 45-Mount Holly 1"
   },
-  "ocd-division/country:us/state:nc/place:fayetteville/council_district:3": {
-   "name": "Fayetteville NC city council district 3"
-  },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:147": {
-   "name": "Mecklenburg County Precinct 147"
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:146": {
+   "name": "Mecklenburg County Precinct 146"
   },
   "ocd-division/country:us/state:nc/place:fayetteville/council_district:4": {
    "name": "Fayetteville NC city council district 4"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:148": {
-   "name": "Mecklenburg County Precinct 148"
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:147": {
+   "name": "Mecklenburg County Precinct 147"
   },
   "ocd-division/country:us/state:nc/place:fayetteville/council_district:5": {
    "name": "Fayetteville NC city council district 5"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:149": {
-   "name": "Mecklenburg County Precinct 149"
-  },
-  "ocd-division/country:us/state:nc/place:brookford": {
-   "name": "Brookford town"
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:148": {
+   "name": "Mecklenburg County Precinct 148"
   },
   "ocd-division/country:us/state:nc/place:fayetteville/council_district:6": {
    "name": "Fayetteville NC city council district 6"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:142": {
-   "name": "Mecklenburg County Precinct 142"
+  "ocd-division/country:us/state:nc/place:brookford": {
+   "name": "Brookford town"
+  },
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:149": {
+   "name": "Mecklenburg County Precinct 149"
   },
   "ocd-division/country:us/state:nc/place:fayetteville/council_district:7": {
    "name": "Fayetteville NC city council district 7"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:143": {
-   "name": "Mecklenburg County Precinct 143"
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:142": {
+   "name": "Mecklenburg County Precinct 142"
   },
   "ocd-division/country:us/state:nc/place:fayetteville/council_district:8": {
    "name": "Fayetteville NC city council district 8"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:144": {
-   "name": "Mecklenburg County Precinct 144"
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:143": {
+   "name": "Mecklenburg County Precinct 143"
   },
   "ocd-division/country:us/state:nc/place:fayetteville/council_district:9": {
    "name": "Fayetteville NC city council district 9"
+  },
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:144": {
+   "name": "Mecklenburg County Precinct 144"
   },
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:145": {
    "name": "Mecklenburg County Precinct 145"
@@ -2664,11 +2664,11 @@
   "ocd-division/country:us/state:nc/county:watauga/school_district:watauga_county_schools": {
    "name": "watauga county schools"
   },
-  "ocd-division/country:us/state:nc/place:elkin": {
-   "name": "Elkin town"
-  },
   "ocd-division/country:us/state:nc/place:navassa": {
    "name": "Navassa town"
+  },
+  "ocd-division/country:us/state:nc/place:elkin": {
+   "name": "Elkin town"
   },
   "ocd-division/country:us/state:nc/county:warren/precinct:6-sandy_creek": {
    "name": "Warren County Precinct 6-Sandy Creek"
@@ -2682,6 +2682,9 @@
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:113": {
    "name": "Mecklenburg County Precinct 113"
   },
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:114": {
+   "name": "Mecklenburg County Precinct 114"
+  },
   "ocd-division/country:us/state:nc/county:stanly": {
    "name": "Stanly County",
    "officeIndices": [
@@ -2691,9 +2694,6 @@
     323,
     324
    ]
-  },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:114": {
-   "name": "Mecklenburg County Precinct 114"
   },
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:119": {
    "name": "Mecklenburg County Precinct 119"
@@ -2716,20 +2716,20 @@
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:112": {
    "name": "Mecklenburg County Precinct 112"
   },
-  "ocd-division/country:us/state:nc/county:vance/school_district:vance_county_schools": {
-   "name": "vance county schools"
-  },
   "ocd-division/country:us/state:nc/county:pitt/precinct:1001-grifton": {
    "name": "Pitt County Precinct 1001-Grifton"
   },
-  "ocd-division/country:us/state:nc/county:pender/precinct:gr06-grady": {
-   "name": "Pender County Precinct Gr06-Grady"
+  "ocd-division/country:us/state:nc/county:vance/school_district:vance_county_schools": {
+   "name": "vance county schools"
+  },
+  "ocd-division/country:us/state:nc/county:lincoln/precinct:dn29-denver": {
+   "name": "Lincoln County Precinct Dn29-Denver"
   },
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:110": {
    "name": "Mecklenburg County Precinct 110"
   },
-  "ocd-division/country:us/state:nc/county:lincoln/precinct:dn29-denver": {
-   "name": "Lincoln County Precinct Dn29-Denver"
+  "ocd-division/country:us/state:nc/county:pender/precinct:gr06-grady": {
+   "name": "Pender County Precinct Gr06-Grady"
   },
   "ocd-division/country:us/state:nc/county:randolph/precinct:ug-union_grove": {
    "name": "Randolph County Precinct Ug-Union Grove"
@@ -2740,11 +2740,11 @@
   "ocd-division/country:us/state:nc/county:madison/precinct:laurel": {
    "name": "Madison County Precinct Laurel"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:124": {
-   "name": "Mecklenburg County Precinct 124"
-  },
   "ocd-division/country:us/state:nc/county:jackson/precinct:sav-savannah": {
    "name": "Jackson County Precinct Sav-Savannah"
+  },
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:124": {
+   "name": "Mecklenburg County Precinct 124"
   },
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:125": {
    "name": "Mecklenburg County Precinct 125"
@@ -2752,32 +2752,32 @@
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:126": {
    "name": "Mecklenburg County Precinct 126"
   },
-  "ocd-division/country:us/state:nc/county:surry/precinct:33-mt_airy_3": {
-   "name": "Surry County Precinct 33-Mt Airy 3"
-  },
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:127": {
    "name": "Mecklenburg County Precinct 127"
+  },
+  "ocd-division/country:us/state:nc/county:surry/precinct:33-mt_airy_3": {
+   "name": "Surry County Precinct 33-Mt Airy 3"
   },
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:128": {
    "name": "Mecklenburg County Precinct 128"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:129": {
-   "name": "Mecklenburg County Precinct 129"
-  },
   "ocd-division/country:us/state:nc/place:seven_devils": {
    "name": "Seven Devils town"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:120": {
-   "name": "Mecklenburg County Precinct 120"
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:129": {
+   "name": "Mecklenburg County Precinct 129"
   },
   "ocd-division/country:us/state:nc/county:guilford/precinct:pg1": {
    "name": "Guilford County Precinct Pg1"
   },
-  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:121": {
-   "name": "Mecklenburg County Precinct 121"
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:120": {
+   "name": "Mecklenburg County Precinct 120"
   },
   "ocd-division/country:us/state:nc/county:guilford/precinct:pg2": {
    "name": "Guilford County Precinct Pg2"
+  },
+  "ocd-division/country:us/state:nc/county:mecklenburg/precinct:121": {
+   "name": "Mecklenburg County Precinct 121"
   },
   "ocd-division/country:us/state:nc/county:mecklenburg/precinct:122": {
    "name": "Mecklenburg County Precinct 122"
@@ -2845,14 +2845,14 @@
     7
    ]
   },
+  "ocd-division/country:us/state:nc/county:wilkes/precinct:115a-mulberry": {
+   "name": "Wilkes County Precinct 115A-Mulberry"
+  },
   "ocd-division/country:us/state:nc/cd:8": {
    "name": "North Carolina's 8th congressional district",
    "officeIndices": [
     8
    ]
-  },
-  "ocd-division/country:us/state:nc/county:wilkes/precinct:115a-mulberry": {
-   "name": "Wilkes County Precinct 115A-Mulberry"
   },
   "ocd-division/country:us/state:nc/place:middlesex": {
    "name": "Middlesex town"
@@ -3770,11 +3770,11 @@
   "ocd-division/country:us/state:nc/county:dare/precinct:sosh-southern_shores": {
    "name": "Dare County Precinct Sosh-Southern Shores"
   },
-  "ocd-division/country:us/state:nc/place:beaufort": {
-   "name": "Beaufort town"
-  },
   "ocd-division/country:us/state:nc/place:minnesott_beach": {
    "name": "Minnesott Beach town"
+  },
+  "ocd-division/country:us/state:nc/place:beaufort": {
+   "name": "Beaufort town"
   },
   "ocd-division/country:us/state:nc/place:mcdonald": {
    "name": "McDonald town"
@@ -3800,6 +3800,9 @@
   "ocd-division/country:us/state:nc/county:lenoir/precinct:k6-kinston_6": {
    "name": "Lenoir County Precinct K6-Kinston 6"
   },
+  "ocd-division/country:us/state:nc/county:johnston/precinct:pr8-south_boon_hill": {
+   "name": "Johnston County Precinct Pr8-South Boon Hill"
+  },
   "ocd-division/country:us/state:nc/county:moore": {
    "name": "Moore County",
    "officeIndices": [
@@ -3808,9 +3811,6 @@
     364,
     365
    ]
-  },
-  "ocd-division/country:us/state:nc/county:johnston/precinct:pr8-south_boon_hill": {
-   "name": "Johnston County Precinct Pr8-South Boon Hill"
   },
   "ocd-division/country:us/state:nc/county:wayne/precinct:30-southern_academy": {
    "name": "Wayne County Precinct 30-Southern Academy"
@@ -4041,11 +4041,11 @@
   "ocd-division/country:us/state:nc/county:haywood/precinct:p-pigeon": {
    "name": "Haywood County Precinct P-Pigeon"
   },
-  "ocd-division/country:us/state:nc/place:mint_hill": {
-   "name": "Mint Hill town"
-  },
   "ocd-division/country:us/state:nc/place:norman": {
    "name": "Norman town"
+  },
+  "ocd-division/country:us/state:nc/place:mint_hill": {
+   "name": "Mint Hill town"
   },
   "ocd-division/country:us/state:nc/county:mitchell/precinct:8-red_hill": {
    "name": "Mitchell County Precinct 8-Red Hill"
@@ -4309,6 +4309,9 @@
   "ocd-division/country:us/state:nc/county:bladen/precinct:p202-bladenboro_2": {
    "name": "Bladen County Precinct P202-Bladenboro 2"
   },
+  "ocd-division/country:us/state:nc/county:catawba/precinct:32-south_newton": {
+   "name": "Catawba County Precinct 32-South Newton"
+  },
   "ocd-division/country:us/state:nc/county:mecklenburg": {
    "name": "Mecklenburg County",
    "officeIndices": [
@@ -4318,9 +4321,6 @@
     407,
     408
    ]
-  },
-  "ocd-division/country:us/state:nc/county:catawba/precinct:32-south_newton": {
-   "name": "Catawba County Precinct 32-South Newton"
   },
   "ocd-division/country:us/state:nc/county:tyrrell": {
    "name": "Tyrrell County",
@@ -4482,6 +4482,9 @@
   "ocd-division/country:us/state:nc/county:guilford/precinct:g41b": {
    "name": "Guilford County Precinct G41B"
   },
+  "ocd-division/country:us/state:nc/county:durham/school_district:research_triangle_charter": {
+   "name": "research triangle charter"
+  },
   "ocd-division/country:us/state:nc/county:madison": {
    "name": "Madison County",
    "officeIndices": [
@@ -4491,9 +4494,6 @@
     421,
     422
    ]
-  },
-  "ocd-division/country:us/state:nc/county:durham/school_district:research_triangle_charter": {
-   "name": "research triangle charter"
   },
   "ocd-division/country:us/state:nc/county:guilford/precinct:g41a": {
    "name": "Guilford County Precinct G41A"
@@ -5135,14 +5135,14 @@
     477
    ]
   },
-  "ocd-division/country:us/state:nc/county:robeson/council_district:8": {
-   "name": "Robeson County District 8",
+  "ocd-division/country:us/state:nc/county:currituck/council_district:4": {
+   "name": "Currituck County District 4",
    "officeIndices": [
     479
    ]
   },
-  "ocd-division/country:us/state:nc/county:currituck/council_district:4": {
-   "name": "Currituck County District 4",
+  "ocd-division/country:us/state:nc/county:robeson/council_district:8": {
+   "name": "Robeson County District 8",
    "officeIndices": [
     478
    ]
@@ -5153,26 +5153,26 @@
     480
    ]
   },
-  "ocd-division/country:us/state:nc/county:robeson/council_district:2": {
-   "name": "Robeson County District 2",
+  "ocd-division/country:us/state:nc/county:currituck/council_district:2": {
+   "name": "Currituck County District 2",
    "officeIndices": [
     482
    ]
   },
-  "ocd-division/country:us/state:nc/county:currituck/council_district:2": {
-   "name": "Currituck County District 2",
+  "ocd-division/country:us/state:nc/county:robeson/council_district:2": {
+   "name": "Robeson County District 2",
    "officeIndices": [
     481
    ]
   },
-  "ocd-division/country:us/state:nc/county:robeson/council_district:3": {
-   "name": "Robeson County District 3",
+  "ocd-division/country:us/state:nc/county:currituck/council_district:3": {
+   "name": "Currituck County District 3",
    "officeIndices": [
     484
    ]
   },
-  "ocd-division/country:us/state:nc/county:currituck/council_district:3": {
-   "name": "Currituck County District 3",
+  "ocd-division/country:us/state:nc/county:robeson/council_district:3": {
+   "name": "Robeson County District 3",
    "officeIndices": [
     483
    ]
@@ -5183,47 +5183,47 @@
     485
    ]
   },
-  "ocd-division/country:us/state:nc/county:robeson/council_district:5": {
-   "name": "Robeson County District 5",
+  "ocd-division/country:us/state:nc/county:currituck/council_district:1": {
+   "name": "Currituck County District 1",
    "officeIndices": [
     487
    ]
   },
-  "ocd-division/country:us/state:nc/county:currituck/council_district:1": {
-   "name": "Currituck County District 1",
+  "ocd-division/country:us/state:nc/county:robeson/council_district:5": {
+   "name": "Robeson County District 5",
    "officeIndices": [
     486
    ]
   },
-  "ocd-division/country:us/state:nc/county:forsyth/precinct:305-carver_high_school": {
-   "name": "Forsyth County Precinct 305-Carver High School"
-  },
   "ocd-division/country:us/state:nc/county:henderson/precinct:bk-brickton": {
    "name": "Henderson County Precinct Bk-Brickton"
   },
-  "ocd-division/country:us/state:nc/county:rockingham/precinct:mc-mccoy": {
-   "name": "Rockingham County Precinct Mc-Mccoy"
-  },
-  "ocd-division/country:us/state:nc/county:cherokee/school_district:cherokee_county_schools": {
-   "name": "cherokee county schools"
+  "ocd-division/country:us/state:nc/county:forsyth/precinct:305-carver_high_school": {
+   "name": "Forsyth County Precinct 305-Carver High School"
   },
   "ocd-division/country:us/state:nc/place:kannapolis": {
    "name": "Kannapolis city"
   },
-  "ocd-division/country:us/state:nc/county:pamlico/precinct:1al_a-alliance": {
-   "name": "Pamlico County Precinct 1Al A-Alliance"
+  "ocd-division/country:us/state:nc/county:cherokee/school_district:cherokee_county_schools": {
+   "name": "cherokee county schools"
+  },
+  "ocd-division/country:us/state:nc/county:rockingham/precinct:mc-mccoy": {
+   "name": "Rockingham County Precinct Mc-Mccoy"
   },
   "ocd-division/country:us/state:nc/county:cumberland/precinct:cc10-cross_creek_10": {
    "name": "Cumberland County Precinct Cc10-Cross Creek 10"
   },
+  "ocd-division/country:us/state:nc/county:pamlico/precinct:1al_a-alliance": {
+   "name": "Pamlico County Precinct 1Al A-Alliance"
+  },
   "ocd-division/country:us/state:nc/place:salisbury": {
    "name": "Salisbury city"
   },
-  "ocd-division/country:us/state:nc/county:haywood/precinct:fc-1-fines_creek_1": {
-   "name": "Haywood County Precinct Fc-1-Fines Creek 1"
-  },
   "ocd-division/country:us/state:nc/place:smithfield": {
    "name": "Smithfield town"
+  },
+  "ocd-division/country:us/state:nc/county:haywood/precinct:fc-1-fines_creek_1": {
+   "name": "Haywood County Precinct Fc-1-Fines Creek 1"
   },
   "ocd-division/country:us/state:nc/county:gaston/precinct:16-gaston_day": {
    "name": "Gaston County Precinct 16-Gaston Day"
@@ -5231,14 +5231,14 @@
   "ocd-division/country:us/state:nc/county:buncombe/precinct:11-stephen~s_lee_community_center": {
    "name": "Buncombe County Precinct 11-Stephen'S Lee Community Center"
   },
-  "ocd-division/country:us/state:nc/county:perquimans/precinct:belvid-belvidere": {
-   "name": "Perquimans County Precinct Belvid-Belvidere"
+  "ocd-division/country:us/state:nc/county:pender/precinct:nb01-north_burgaw": {
+   "name": "Pender County Precinct Nb01-North Burgaw"
   },
   "ocd-division/country:us/state:nc/county:pender/precinct:uh08-upper_holly": {
    "name": "Pender County Precinct Uh08-Upper Holly"
   },
-  "ocd-division/country:us/state:nc/county:pender/precinct:nb01-north_burgaw": {
-   "name": "Pender County Precinct Nb01-North Burgaw"
+  "ocd-division/country:us/state:nc/county:perquimans/precinct:belvid-belvidere": {
+   "name": "Perquimans County Precinct Belvid-Belvidere"
   },
   "ocd-division/country:us/state:nc/place:emerald_isle": {
    "name": "Emerald Isle town"
@@ -5268,17 +5268,17 @@
   "ocd-division/country:us/state:nc/county:forsyth/precinct:803-whitaker_elementary": {
    "name": "Forsyth County Precinct 803-Whitaker Elementary"
   },
-  "ocd-division/country:us/state:nc/county:halifax/precinct:wel_3-weldon_3": {
-   "name": "Halifax County Precinct Wel 3-Weldon 3"
-  },
   "ocd-division/country:us/state:nc/county:wake/precinct:9-01": {
    "name": "Wake County Precinct 9-01"
   },
-  "ocd-division/country:us/state:nc/county:wake/precinct:9-02": {
-   "name": "Wake County Precinct 9-02"
+  "ocd-division/country:us/state:nc/county:halifax/precinct:wel_3-weldon_3": {
+   "name": "Halifax County Precinct Wel 3-Weldon 3"
   },
   "ocd-division/country:us/state:nc/place:scotland_neck": {
    "name": "Scotland Neck town"
+  },
+  "ocd-division/country:us/state:nc/county:wake/precinct:9-02": {
+   "name": "Wake County Precinct 9-02"
   },
   "ocd-division/country:us/state:nc/county:wake/precinct:9-03": {
    "name": "Wake County Precinct 9-03"
@@ -5292,17 +5292,17 @@
   "ocd-division/country:us/state:nc/county:caswell/precinct:milt-milton": {
    "name": "Caswell County Precinct Milt-Milton"
   },
-  "ocd-division/country:us/state:nc/county:johnston/precinct:pr11b-west_clayton_2": {
-   "name": "Johnston County Precinct Pr11B-West Clayton 2"
-  },
   "ocd-division/country:us/state:nc/county:yancey/precinct:8-crabtree": {
    "name": "Yancey County Precinct 8-Crabtree"
   },
-  "ocd-division/country:us/state:nc/place:nashville": {
-   "name": "Nashville town"
+  "ocd-division/country:us/state:nc/county:johnston/precinct:pr11b-west_clayton_2": {
+   "name": "Johnston County Precinct Pr11B-West Clayton 2"
   },
   "ocd-division/country:us/state:nc/place:tobaccoville": {
    "name": "Tobaccoville village"
+  },
+  "ocd-division/country:us/state:nc/place:nashville": {
+   "name": "Nashville town"
   },
   "ocd-division/country:us/state:nc/county:guilford/precinct:g40b": {
    "name": "Guilford County Precinct G40B"
@@ -5310,20 +5310,20 @@
   "ocd-division/country:us/state:nc/county:warren/precinct:4-smith_creek": {
    "name": "Warren County Precinct 4-Smith Creek"
   },
-  "ocd-division/country:us/state:nc/county:cumberland/precinct:g7a-black_river": {
-   "name": "Cumberland County Precinct G7A-Black River"
-  },
   "ocd-division/country:us/state:nc/county:gaston/precinct:38-high_shoals": {
    "name": "Gaston County Precinct 38-High Shoals"
+  },
+  "ocd-division/country:us/state:nc/county:cumberland/precinct:g7a-black_river": {
+   "name": "Cumberland County Precinct G7A-Black River"
   },
   "ocd-division/country:us/state:nc/place:bogue": {
    "name": "Bogue town"
   },
-  "ocd-division/country:us/state:nc/county:davie/precinct:1-north_calahaln": {
-   "name": "Davie County Precinct 1-North Calahaln"
-  },
   "ocd-division/country:us/state:nc/county:henderson/precinct:ef-east_flat_rock": {
    "name": "Henderson County Precinct Ef-East Flat Rock"
+  },
+  "ocd-division/country:us/state:nc/county:davie/precinct:1-north_calahaln": {
+   "name": "Davie County Precinct 1-North Calahaln"
   },
   "ocd-division/country:us/state:nc/county:cumberland/precinct:g9a-hope_mills_3": {
    "name": "Cumberland County Precinct G9A-Hope Mills 3"
@@ -5337,29 +5337,29 @@
   "ocd-division/country:us/state:nc/place:holly_springs": {
    "name": "Holly Springs town"
   },
-  "ocd-division/country:us/state:nc/county:rutherford/precinct:14-forest_city_2": {
-   "name": "Rutherford County Precinct 14-Forest City 2"
+  "ocd-division/country:us/state:nc/county:ashe/precinct:3-creston": {
+   "name": "Ashe County Precinct 3-Creston"
   },
   "ocd-division/country:us/state:nc/county:avery/precinct:7-frank": {
    "name": "Avery County Precinct 7-Frank"
   },
-  "ocd-division/country:us/state:nc/county:ashe/precinct:3-creston": {
-   "name": "Ashe County Precinct 3-Creston"
-  },
-  "ocd-division/country:us/state:nc/county:caldwell/precinct:pr30-lenoir_30": {
-   "name": "Caldwell County Precinct Pr30-Lenoir 30"
+  "ocd-division/country:us/state:nc/county:rutherford/precinct:14-forest_city_2": {
+   "name": "Rutherford County Precinct 14-Forest City 2"
   },
   "ocd-division/country:us/state:nc/county:guilford/school_district:greensboro_academy": {
    "name": "greensboro academy"
   },
-  "ocd-division/country:us/state:nc/county:rutherford/precinct:29-sandy_mush": {
-   "name": "Rutherford County Precinct 29-Sandy Mush"
+  "ocd-division/country:us/state:nc/county:caldwell/precinct:pr30-lenoir_30": {
+   "name": "Caldwell County Precinct Pr30-Lenoir 30"
+  },
+  "ocd-division/country:us/state:nc/place:wake_forest": {
+   "name": "Wake Forest town"
   },
   "ocd-division/country:us/state:nc/district_court:8b": {
    "name": "NC State Court - District 8B"
   },
-  "ocd-division/country:us/state:nc/place:wake_forest": {
-   "name": "Wake Forest town"
+  "ocd-division/country:us/state:nc/county:rutherford/precinct:29-sandy_mush": {
+   "name": "Rutherford County Precinct 29-Sandy Mush"
   },
   "ocd-division/country:us/state:nc/district_court:8a": {
    "name": "NC State Court - District 8A"
@@ -5382,11 +5382,11 @@
   "ocd-division/country:us/state:nc/county:rowan/precinct:10-faith": {
    "name": "Rowan County Precinct 10-Faith"
   },
-  "ocd-division/country:us/state:nc/county:macon/precinct:11-smithbridge": {
-   "name": "Macon County Precinct 11-Smithbridge"
-  },
   "ocd-division/country:us/state:nc/county:forsyth/precinct:122-griffith_fire_station": {
    "name": "Forsyth County Precinct 122-Griffith Fire Station"
+  },
+  "ocd-division/country:us/state:nc/county:macon/precinct:11-smithbridge": {
+   "name": "Macon County Precinct 11-Smithbridge"
   },
   "ocd-division/country:us/state:nc/county:davidson/precinct:72-thomasville_8": {
    "name": "Davidson County Precinct 72-Thomasville 8"
@@ -5397,11 +5397,11 @@
   "ocd-division/country:us/state:nc/county:henderson/precinct:pr-park_ridge": {
    "name": "Henderson County Precinct Pr-Park Ridge"
   },
-  "ocd-division/country:us/state:nc/county:stanly/precinct:26-tyson": {
-   "name": "Stanly County Precinct 26-Tyson"
-  },
   "ocd-division/country:us/state:nc/county:davidson/precinct:74-thomasville_9": {
    "name": "Davidson County Precinct 74-Thomasville 9"
+  },
+  "ocd-division/country:us/state:nc/county:stanly/precinct:26-tyson": {
+   "name": "Stanly County Precinct 26-Tyson"
   },
   "ocd-division/country:us/state:nc/county:wake/precinct:13-10": {
    "name": "Wake County Precinct 13-10"
@@ -5409,11 +5409,11 @@
   "ocd-division/country:us/state:nc/county:wake/precinct:13-11": {
    "name": "Wake County Precinct 13-11"
   },
-  "ocd-division/country:us/state:nc/county:wayne/precinct:10-goldsboro_friends_church": {
-   "name": "Wayne County Precinct 10-Goldsboro Friends Church"
-  },
   "ocd-division/country:us/state:nc/district_court:9a": {
    "name": "NC State Court - District 9A"
+  },
+  "ocd-division/country:us/state:nc/county:wayne/precinct:10-goldsboro_friends_church": {
+   "name": "Wayne County Precinct 10-Goldsboro Friends Church"
   },
   "ocd-division/country:us/state:nc/county:iredell/precinct:ft-fallstown": {
    "name": "Iredell County Precinct Ft-Fallstown"
@@ -6395,14 +6395,14 @@
     530
    ]
   },
+  "ocd-division/country:us/state:nc/district_court:26": {
+   "name": "NC State Court - District 26"
+  },
   "ocd-division/country:us/state:nc/county:wake/council_district:2": {
    "name": "Wake County NC Board of Commissioners District 2",
    "officeIndices": [
     531
    ]
-  },
-  "ocd-division/country:us/state:nc/district_court:26": {
-   "name": "NC State Court - District 26"
   },
   "ocd-division/country:us/state:nc/district_court:23": {
    "name": "NC State Court - District 23"
@@ -7642,26 +7642,26 @@
   "ocd-division/country:us/state:nc/county:randolph/precinct:as-asheboro_south": {
    "name": "Randolph County Precinct As-Asheboro South"
   },
-  "ocd-division/country:us/state:nc/county:wake": {
-   "name": "Wake County",
-   "officeIndices": [
-    613,
-    614,
-    615,
-    616
-   ]
-  },
   "ocd-division/country:us/state:nc/place:roxobel": {
    "name": "Roxobel town"
   },
   "ocd-division/country:us/state:nc/county:franklin/council_district:5": {
    "name": "Franklin County District 5",
    "officeIndices": [
-    617
+    613
    ]
   },
   "ocd-division/country:us/state:nc/county:forsyth/precinct:306-mineral_springs_elem_school": {
    "name": "Forsyth County Precinct 306-Mineral Springs Elem School"
+  },
+  "ocd-division/country:us/state:nc/county:wake": {
+   "name": "Wake County",
+   "officeIndices": [
+    614,
+    615,
+    616,
+    617
+   ]
   },
   "ocd-division/country:us/state:nc/county:sampson/precinct:gidd-giddensville": {
    "name": "Sampson County Precinct Gidd-Giddensville"
@@ -8523,14 +8523,14 @@
   "ocd-division/country:us/state:nc/county:stanly/precinct:10-albemarle_10": {
    "name": "Stanly County Precinct 10-Albemarle 10"
   },
+  "ocd-division/country:us/state:nc/place:pembroke": {
+   "name": "Pembroke town"
+  },
   "ocd-division/country:us/state:nc/place:charlotte/council_district:2": {
    "name": "Charlotte NC city council district 2",
    "officeIndices": [
     653
    ]
-  },
-  "ocd-division/country:us/state:nc/place:pembroke": {
-   "name": "Pembroke town"
   },
   "ocd-division/country:us/state:nc/county:alexander/precinct:w-wittenburg": {
    "name": "Alexander County Precinct W-Wittenburg"
@@ -8568,14 +8568,14 @@
     657
    ]
   },
-  "ocd-division/country:us/state:nc/county:nash/council_district:2": {
-   "name": "Nash County District 2",
+  "ocd-division/country:us/state:nc/place:charlotte/council_district:5": {
+   "name": "Charlotte NC city council district 5",
    "officeIndices": [
     658
    ]
   },
-  "ocd-division/country:us/state:nc/place:charlotte/council_district:5": {
-   "name": "Charlotte NC city council district 5",
+  "ocd-division/country:us/state:nc/county:nash/council_district:2": {
+   "name": "Nash County District 2",
    "officeIndices": [
     659
    ]
@@ -8739,14 +8739,14 @@
     667
    ]
   },
+  "ocd-division/country:us/state:nc/place:indian_beach": {
+   "name": "Indian Beach town"
+  },
   "ocd-division/country:us/state:nc/county:cumberland/council_district:2": {
    "name": "Cumberland County NC Board of Commissioners District 2",
    "officeIndices": [
     668
    ]
-  },
-  "ocd-division/country:us/state:nc/place:indian_beach": {
-   "name": "Indian Beach town"
   },
   "ocd-division/country:us/state:nc/place:pinebluff": {
    "name": "Pinebluff town"
@@ -10654,14 +10654,14 @@
     805
    ]
   },
-  "ocd-division/country:us/state:nc/county:macon/school_district:macon_county_schools": {
-   "name": "macon county schools"
-  },
   "ocd-division/country:us/state:nc/county:cherokee/council_district:1": {
    "name": "Cherokee County District 1",
    "officeIndices": [
     806
    ]
+  },
+  "ocd-division/country:us/state:nc/county:macon/school_district:macon_county_schools": {
+   "name": "macon county schools"
   },
   "ocd-division/country:us/state:nc/county:duplin/precinct:chin-chinquapin": {
    "name": "Duplin County Precinct Chin-Chinquapin"
@@ -10690,11 +10690,11 @@
   "ocd-division/country:us/state:nc/place:como": {
    "name": "Como town"
   },
-  "ocd-division/country:us/state:nc/county:caswell/precinct:yanc-yanceyville": {
-   "name": "Caswell County Precinct Yanc-Yanceyville"
-  },
   "ocd-division/country:us/state:nc/county:henderson/precinct:hv-1-hendersonville_1": {
    "name": "Henderson County Precinct Hv-1-Hendersonville 1"
+  },
+  "ocd-division/country:us/state:nc/county:caswell/precinct:yanc-yanceyville": {
+   "name": "Caswell County Precinct Yanc-Yanceyville"
   },
   "ocd-division/country:us/state:nc/county:beaufort/precinct:tranters_creek": {
    "name": "Beaufort County Precinct Tranters Creek"
@@ -10720,14 +10720,11 @@
   "ocd-division/country:us/state:nc/place:wilkesboro": {
    "name": "Wilkesboro town"
   },
-  "ocd-division/country:us/state:nc/county:rutherford/school_district:thomas_jefferson_class_academy": {
-   "name": "thomas jefferson class academy"
-  },
   "ocd-division/country:us/state:nc/county:iredell/school_district:iredell-statesville_schools": {
    "name": "iredell-statesville schools"
   },
-  "ocd-division/country:us/state:nc/county:nash/precinct:1-bailey": {
-   "name": "Nash County Precinct 1-Bailey"
+  "ocd-division/country:us/state:nc/county:rutherford/school_district:thomas_jefferson_class_academy": {
+   "name": "thomas jefferson class academy"
   },
   "ocd-division/country:us/state:nc/county:columbus/council_district:6": {
    "name": "Columbus County District 6",
@@ -10735,14 +10732,17 @@
     807
    ]
   },
-  "ocd-division/country:us/state:nc/county:pender/school_district:pender_county_schools": {
-   "name": "pender county schools"
+  "ocd-division/country:us/state:nc/county:nash/precinct:1-bailey": {
+   "name": "Nash County Precinct 1-Bailey"
   },
   "ocd-division/country:us/state:nc/county:columbus/council_district:7": {
    "name": "Columbus County District 7",
    "officeIndices": [
     808
    ]
+  },
+  "ocd-division/country:us/state:nc/county:pender/school_district:pender_county_schools": {
+   "name": "pender county schools"
   },
   "ocd-division/country:us/state:nc/county:rowan/precinct:44-west_enochville": {
    "name": "Rowan County Precinct 44-West Enochville"
@@ -11252,6 +11252,9 @@
   "ocd-division/country:us/state:nc/county:bertie/precinct:c2-colerain_2": {
    "name": "Bertie County Precinct C2-Colerain 2"
   },
+  "ocd-division/country:us/state:nc/district_court:30a": {
+   "name": "NC State Court - District 30A"
+  },
   "ocd-division/country:us/state:nc/county:watauga": {
    "name": "Watauga County",
    "officeIndices": [
@@ -11260,9 +11263,6 @@
     821,
     822
    ]
-  },
-  "ocd-division/country:us/state:nc/district_court:30a": {
-   "name": "NC State Court - District 30A"
   },
   "ocd-division/country:us/state:nc/district_court:30b": {
    "name": "NC State Court - District 30B"
@@ -11608,14 +11608,14 @@
     840
    ]
   },
+  "ocd-division/country:us/state:nc/county:guilford/precinct:h19a": {
+   "name": "Guilford County Precinct H19A"
+  },
   "ocd-division/country:us/state:nc/county:moore/council_district:5": {
    "name": "Moore County District 5",
    "officeIndices": [
     841
    ]
-  },
-  "ocd-division/country:us/state:nc/county:guilford/precinct:h19a": {
-   "name": "Guilford County Precinct H19A"
   },
   "ocd-division/country:us/state:nc/county:guilford/precinct:h19b": {
    "name": "Guilford County Precinct H19B"
@@ -12693,6 +12693,9 @@
   "ocd-division/country:us/state:nc/county:forsyth/precinct:607-shepherds_center": {
    "name": "Forsyth County Precinct 607-Shepherds Center"
   },
+  "ocd-division/country:us/state:nc/county:gaston/precinct:15-robinson_1": {
+   "name": "Gaston County Precinct 15-Robinson 1"
+  },
   "ocd-division/country:us/state:nc/county:durham": {
    "name": "Durham County",
    "officeIndices": [
@@ -12702,9 +12705,6 @@
     885,
     886
    ]
-  },
-  "ocd-division/country:us/state:nc/county:gaston/precinct:15-robinson_1": {
-   "name": "Gaston County Precinct 15-Robinson 1"
   },
   "ocd-division/country:us/state:nc/county:craven/precinct:n2-fort_totten": {
    "name": "Craven County Precinct N2-Fort Totten"
@@ -18920,15 +18920,15 @@
    ]
   },
   {
-   "name": "County Commission, District 4",
-   "divisionId": "ocd-division/country:us/state:nc/county:currituck/council_district:4",
+   "name": "County Commission, District 8",
+   "divisionId": "ocd-division/country:us/state:nc/county:robeson/council_district:8",
    "officialIndices": [
     619
    ]
   },
   {
-   "name": "County Commission, District 8",
-   "divisionId": "ocd-division/country:us/state:nc/county:robeson/council_district:8",
+   "name": "County Commission, District 4",
+   "divisionId": "ocd-division/country:us/state:nc/county:currituck/council_district:4",
    "officialIndices": [
     620
    ]
@@ -18942,28 +18942,28 @@
   },
   {
    "name": "County Commission, District 2",
-   "divisionId": "ocd-division/country:us/state:nc/county:currituck/council_district:2",
+   "divisionId": "ocd-division/country:us/state:nc/county:robeson/council_district:2",
    "officialIndices": [
     622
    ]
   },
   {
    "name": "County Commission, District 2",
-   "divisionId": "ocd-division/country:us/state:nc/county:robeson/council_district:2",
+   "divisionId": "ocd-division/country:us/state:nc/county:currituck/council_district:2",
    "officialIndices": [
     623
    ]
   },
   {
    "name": "County Commission, District 3",
-   "divisionId": "ocd-division/country:us/state:nc/county:currituck/council_district:3",
+   "divisionId": "ocd-division/country:us/state:nc/county:robeson/council_district:3",
    "officialIndices": [
     624
    ]
   },
   {
    "name": "County Commission, District 3",
-   "divisionId": "ocd-division/country:us/state:nc/county:robeson/council_district:3",
+   "divisionId": "ocd-division/country:us/state:nc/county:currituck/council_district:3",
    "officialIndices": [
     625
    ]
@@ -18976,15 +18976,15 @@
    ]
   },
   {
-   "name": "County Commission, District 1",
-   "divisionId": "ocd-division/country:us/state:nc/county:currituck/council_district:1",
+   "name": "County Commission, District 5",
+   "divisionId": "ocd-division/country:us/state:nc/county:robeson/council_district:5",
    "officialIndices": [
     627
    ]
   },
   {
-   "name": "County Commission, District 5",
-   "divisionId": "ocd-division/country:us/state:nc/county:robeson/council_district:5",
+   "name": "County Commission, District 1",
+   "divisionId": "ocd-division/country:us/state:nc/county:currituck/council_district:1",
    "officialIndices": [
     628
    ]
@@ -19901,36 +19901,36 @@
    ]
   },
   {
-   "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:nc/county:wake",
+   "name": "County Commission, District 5",
+   "divisionId": "ocd-division/country:us/state:nc/county:franklin/council_district:5",
    "officialIndices": [
     790
    ]
   },
   {
-   "name": "Clerk of Courts",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:nc/county:wake",
    "officialIndices": [
     791
    ]
   },
   {
-   "name": "District Attorney",
+   "name": "Clerk of Courts",
    "divisionId": "ocd-division/country:us/state:nc/county:wake",
    "officialIndices": [
     792
    ]
   },
   {
-   "name": "Register of Deeds",
+   "name": "District Attorney",
    "divisionId": "ocd-division/country:us/state:nc/county:wake",
    "officialIndices": [
     793
    ]
   },
   {
-   "name": "County Commission, District 5",
-   "divisionId": "ocd-division/country:us/state:nc/county:franklin/council_district:5",
+   "name": "Register of Deeds",
+   "divisionId": "ocd-division/country:us/state:nc/county:wake",
    "officialIndices": [
     794
    ]
@@ -20226,15 +20226,15 @@
    ]
   },
   {
-   "name": "County Commission, District 2",
-   "divisionId": "ocd-division/country:us/state:nc/county:nash/council_district:2",
+   "name": "Council, District 5",
+   "divisionId": "ocd-division/country:us/state:nc/place:charlotte/council_district:5",
    "officialIndices": [
     845
    ]
   },
   {
-   "name": "Council, District 5",
-   "divisionId": "ocd-division/country:us/state:nc/place:charlotte/council_district:5",
+   "name": "County Commission, District 2",
+   "divisionId": "ocd-division/country:us/state:nc/county:nash/council_district:2",
    "officialIndices": [
     846
    ]
@@ -32103,13 +32103,6 @@
    ]
   },
   {
-   "name": "Kevin McCord",
-   "party": "Unknown",
-   "urls": [
-    "http://www.co.currituck.nc.us/Commission-Profiles.cfm"
-   ]
-  },
-  {
    "name": "Lance Herndon",
    "party": "Unknown",
    "urls": [
@@ -32117,14 +32110,14 @@
    ]
   },
   {
-   "name": "Marion Gilbert",
+   "name": "Kevin McCord",
    "party": "Unknown",
    "urls": [
     "http://www.co.currituck.nc.us/Commission-Profiles.cfm"
    ]
   },
   {
-   "name": "David Griggs",
+   "name": "Marion Gilbert",
    "party": "Unknown",
    "urls": [
     "http://www.co.currituck.nc.us/Commission-Profiles.cfm"
@@ -32138,7 +32131,7 @@
    ]
   },
   {
-   "name": "H.M. \"Butch\" Petrey",
+   "name": "David Griggs",
    "party": "Unknown",
    "urls": [
     "http://www.co.currituck.nc.us/Commission-Profiles.cfm"
@@ -32152,7 +32145,21 @@
    ]
   },
   {
+   "name": "H.M. \"Butch\" Petrey",
+   "party": "Unknown",
+   "urls": [
+    "http://www.co.currituck.nc.us/Commission-Profiles.cfm"
+   ]
+  },
+  {
    "name": "Noah Woods",
+   "party": "Unknown",
+   "urls": [
+    "http://co.robeson.nc.us/departments-a-0/administration-commissioners/"
+   ]
+  },
+  {
+   "name": "Raymond Cummings Jr.",
    "party": "Unknown",
    "urls": [
     "http://co.robeson.nc.us/departments-a-0/administration-commissioners/"
@@ -32163,13 +32170,6 @@
    "party": "Unknown",
    "urls": [
     "http://www.co.currituck.nc.us/Commission-Profiles.cfm"
-   ]
-  },
-  {
-   "name": "Raymond Cummings Jr.",
-   "party": "Unknown",
-   "urls": [
-    "http://co.robeson.nc.us/departments-a-0/administration-commissioners/"
    ]
   },
   {
@@ -33582,6 +33582,25 @@
    ]
   },
   {
+   "name": "Donald Lancaster",
+   "address": [
+    {
+     "line1": "Don Lancaster",
+     "line2": "75 remington court",
+     "city": "youngsville",
+     "state": "NC",
+     "zip": "27596"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(919) 556-6577"
+   ],
+   "urls": [
+    "http://www.franklincountync.us/commissioners"
+   ]
+  },
+  {
    "name": "Donnie Harrison",
    "address": [
     {
@@ -33653,25 +33672,6 @@
    ],
    "urls": [
     "https://rod.wakegov.com/"
-   ]
-  },
-  {
-   "name": "Donald Lancaster",
-   "address": [
-    {
-     "line1": "Don Lancaster",
-     "line2": "75 remington court",
-     "city": "youngsville",
-     "state": "NC",
-     "zip": "27596"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(919) 556-6577"
-   ],
-   "urls": [
-    "http://www.franklincountync.us/commissioners"
    ]
   },
   {
@@ -34241,13 +34241,6 @@
    ]
   },
   {
-   "name": "Fred Belfield Jr.",
-   "party": "Unknown",
-   "urls": [
-    "http://www.co.nash.nc.us/index.aspx?nid=321"
-   ]
-  },
-  {
    "name": "John Autry",
    "address": [
     {
@@ -34273,6 +34266,13 @@
      "type": "Twitter",
      "id": "AutryJohn"
     }
+   ]
+  },
+  {
+   "name": "Fred Belfield Jr.",
+   "party": "Unknown",
+   "urls": [
+    "http://www.co.nash.nc.us/index.aspx?nid=321"
    ]
   },
   {

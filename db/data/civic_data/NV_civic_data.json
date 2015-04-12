@@ -42,17 +42,17 @@
   "ocd-division/country:us/state:nv/county:clark/precinct:2463": {
    "name": "Clark County Precinct 2463"
   },
-  "ocd-division/country:us/state:nv/county:clark/precinct:2464": {
-   "name": "Clark County Precinct 2464"
-  },
   "ocd-division/country:us/state:nv/county:clark/precinct:1334": {
    "name": "Clark County Precinct 1334"
   },
-  "ocd-division/country:us/state:nv/county:clark/precinct:2465": {
-   "name": "Clark County Precinct 2465"
+  "ocd-division/country:us/state:nv/county:clark/precinct:2464": {
+   "name": "Clark County Precinct 2464"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:1333": {
    "name": "Clark County Precinct 1333"
+  },
+  "ocd-division/country:us/state:nv/county:clark/precinct:2465": {
+   "name": "Clark County Precinct 2465"
   },
   "ocd-division/country:us/state:nv/county:washoe/precinct:980000": {
    "name": "Washoe County Precinct 980000"
@@ -69,11 +69,11 @@
   "ocd-division/country:us/state:nv/county:clark/precinct:2458": {
    "name": "Clark County Precinct 2458"
   },
-  "ocd-division/country:us/state:nv/county:clark/precinct:2457": {
-   "name": "Clark County Precinct 2457"
-  },
   "ocd-division/country:us/state:nv/county:clark/precinct:1327": {
    "name": "Clark County Precinct 1327"
+  },
+  "ocd-division/country:us/state:nv/county:clark/precinct:2457": {
+   "name": "Clark County Precinct 2457"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:1328": {
    "name": "Clark County Precinct 1328"
@@ -111,29 +111,29 @@
   "ocd-division/country:us/state:nv/county:pershing/precinct:1": {
    "name": "Pershing County Precinct 1"
   },
-  "ocd-division/country:us/state:nv/county:clark/precinct:1318": {
-   "name": "Clark County Precinct 1318"
-  },
   "ocd-division/country:us/state:nv/county:washoe/precinct:631300": {
    "name": "Washoe County Precinct 631300"
   },
-  "ocd-division/country:us/state:nv/county:pershing/precinct:5": {
-   "name": "Pershing County Precinct 5"
+  "ocd-division/country:us/state:nv/county:clark/precinct:1318": {
+   "name": "Clark County Precinct 1318"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:2447": {
    "name": "Clark County Precinct 2447"
   },
-  "ocd-division/country:us/state:nv/county:pershing/precinct:6": {
-   "name": "Pershing County Precinct 6"
+  "ocd-division/country:us/state:nv/county:pershing/precinct:5": {
+   "name": "Pershing County Precinct 5"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:2446": {
    "name": "Clark County Precinct 2446"
   },
-  "ocd-division/country:us/state:nv/county:pershing/precinct:3": {
-   "name": "Pershing County Precinct 3"
+  "ocd-division/country:us/state:nv/county:pershing/precinct:6": {
+   "name": "Pershing County Precinct 6"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:2449": {
    "name": "Clark County Precinct 2449"
+  },
+  "ocd-division/country:us/state:nv/county:pershing/precinct:3": {
+   "name": "Pershing County Precinct 3"
   },
   "ocd-division/country:us/state:nv/county:pershing/precinct:4": {
    "name": "Pershing County Precinct 4"
@@ -219,11 +219,11 @@
   "ocd-division/country:us/state:nv/county:washoe/precinct:105300": {
    "name": "Washoe County Precinct 105300"
   },
-  "ocd-division/country:us/state:nv/county:clark/precinct:6621": {
-   "name": "Clark County Precinct 6621"
-  },
   "ocd-division/country:us/state:nv/county:washoe/precinct:826300": {
    "name": "Washoe County Precinct 826300"
+  },
+  "ocd-division/country:us/state:nv/county:clark/precinct:6621": {
+   "name": "Clark County Precinct 6621"
   },
   "ocd-division/country:us/state:nv/county:washoe/precinct:741000": {
    "name": "Washoe County Precinct 741000"
@@ -261,14 +261,14 @@
     75
    ]
   },
+  "ocd-division/country:us/state:nv/county:washoe/precinct:826700": {
+   "name": "Washoe County Precinct 826700"
+  },
   "ocd-division/country:us/state:nv/county:nye/council_district:3": {
    "name": "Nye District 3",
    "officeIndices": [
     76
    ]
-  },
-  "ocd-division/country:us/state:nv/county:washoe/precinct:826700": {
-   "name": "Washoe County Precinct 826700"
   },
   "ocd-division/country:us/state:nv/county:nye/council_district:4": {
    "name": "Nye District 4",
@@ -595,23 +595,23 @@
   "ocd-division/country:us/state:nv/county:clark/precinct:1374": {
    "name": "Clark County Precinct 1374"
   },
-  "ocd-division/country:us/state:nv/county:clark/precinct:1375": {
-   "name": "Clark County Precinct 1375"
+  "ocd-division/country:us/state:nv/county:washoe/precinct:503300": {
+   "name": "Washoe County Precinct 503300"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:5034": {
    "name": "Clark County Precinct 5034"
   },
-  "ocd-division/country:us/state:nv/county:washoe/precinct:503300": {
-   "name": "Washoe County Precinct 503300"
+  "ocd-division/country:us/state:nv/county:clark/precinct:1375": {
+   "name": "Clark County Precinct 1375"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:1376": {
    "name": "Clark County Precinct 1376"
   },
-  "ocd-division/country:us/state:nv/county:clark/precinct:1377": {
-   "name": "Clark County Precinct 1377"
-  },
   "ocd-division/country:us/state:nv/county:clark/precinct:5036": {
    "name": "Clark County Precinct 5036"
+  },
+  "ocd-division/country:us/state:nv/county:clark/precinct:1377": {
+   "name": "Clark County Precinct 1377"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:1378": {
    "name": "Clark County Precinct 1378"
@@ -637,6 +637,9 @@
   "ocd-division/country:us/state:nv/county:clark/precinct:4310": {
    "name": "Clark County Precinct 4310"
   },
+  "ocd-division/country:us/state:nv/county:clark/precinct:1368": {
+   "name": "Clark County Precinct 1368"
+  },
   "ocd-division/country:us/state:nv/county:humboldt": {
    "name": "Humboldt County",
    "officeIndices": [
@@ -649,20 +652,17 @@
     101
    ]
   },
-  "ocd-division/country:us/state:nv/county:clark/precinct:1368": {
-   "name": "Clark County Precinct 1368"
-  },
   "ocd-division/country:us/state:nv/county:clark/precinct:2417": {
    "name": "Clark County Precinct 2417"
   },
-  "ocd-division/country:us/state:nv/county:clark/precinct:2401": {
-   "name": "Clark County Precinct 2401"
+  "ocd-division/country:us/state:nv/county:clark/precinct:5056": {
+   "name": "Clark County Precinct 5056"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:1353": {
    "name": "Clark County Precinct 1353"
   },
-  "ocd-division/country:us/state:nv/county:clark/precinct:5056": {
-   "name": "Clark County Precinct 5056"
+  "ocd-division/country:us/state:nv/county:clark/precinct:2401": {
+   "name": "Clark County Precinct 2401"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:1354": {
    "name": "Clark County Precinct 1354"
@@ -1207,11 +1207,11 @@
   "ocd-division/country:us/state:nv/county:clark/precinct:6663": {
    "name": "Clark County Precinct 6663"
   },
-  "ocd-division/country:us/state:nv/county:clark/school_district:clark_county_school_district": {
-   "name": "clark county school district"
-  },
   "ocd-division/country:us/state:nv/county:clark/precinct:6662": {
    "name": "Clark County Precinct 6662"
+  },
+  "ocd-division/country:us/state:nv/county:clark/school_district:clark_county_school_district": {
+   "name": "clark county school district"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:6665": {
    "name": "Clark County Precinct 6665"
@@ -1234,20 +1234,20 @@
   "ocd-division/country:us/state:nv/county:clark/precinct:6661": {
    "name": "Clark County Precinct 6661"
   },
+  "ocd-division/country:us/state:nv/place:las_vegas/ward:4": {
+   "name": "Las Vegas NV - ward 4",
+   "officeIndices": [
+    120
+   ]
+  },
   "ocd-division/country:us/state:nv/county:lander": {
    "name": "Lander County",
    "officeIndices": [
-    120,
     121,
     122,
     123,
     124,
-    125
-   ]
-  },
-  "ocd-division/country:us/state:nv/place:las_vegas/ward:4": {
-   "name": "Las Vegas NV - ward 4",
-   "officeIndices": [
+    125,
     126
    ]
   },
@@ -1257,14 +1257,14 @@
     127
    ]
   },
-  "ocd-division/country:us/state:nv/county:washoe/precinct:812000": {
-   "name": "Washoe County Precinct 812000"
-  },
   "ocd-division/country:us/state:nv/place:las_vegas/ward:6": {
    "name": "Las Vegas NV - ward 6",
    "officeIndices": [
     128
    ]
+  },
+  "ocd-division/country:us/state:nv/county:washoe/precinct:812000": {
+   "name": "Washoe County Precinct 812000"
   },
   "ocd-division/country:us/state:nv/place:las_vegas/ward:5": {
    "name": "Las Vegas NV - ward 5",
@@ -1278,14 +1278,14 @@
     130
    ]
   },
-  "ocd-division/country:us/state:nv/county:washoe/precinct:303100": {
-   "name": "Washoe County Precinct 303100"
-  },
   "ocd-division/country:us/state:nv/place:las_vegas/ward:1": {
    "name": "Las Vegas NV - ward 1",
    "officeIndices": [
     131
    ]
+  },
+  "ocd-division/country:us/state:nv/county:washoe/precinct:303100": {
+   "name": "Washoe County Precinct 303100"
   },
   "ocd-division/country:us/state:nv/county:washoe/precinct:404100": {
    "name": "Washoe County Precinct 404100"
@@ -2460,11 +2460,11 @@
   "ocd-division/country:us/state:nv/county:washoe/precinct:402300": {
    "name": "Washoe County Precinct 402300"
   },
-  "ocd-division/country:us/state:nv/county:washoe/precinct:104400": {
-   "name": "Washoe County Precinct 104400"
-  },
   "ocd-division/country:us/state:nv/county:clark/precinct:1712": {
    "name": "Clark County Precinct 1712"
+  },
+  "ocd-division/country:us/state:nv/county:washoe/precinct:104400": {
+   "name": "Washoe County Precinct 104400"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:1711": {
    "name": "Clark County Precinct 1711"
@@ -2472,11 +2472,11 @@
   "ocd-division/country:us/state:nv/county:clark/precinct:3855": {
    "name": "Clark County Precinct 3855"
   },
-  "ocd-division/country:us/state:nv/county:clark/precinct:1715": {
-   "name": "Clark County Precinct 1715"
-  },
   "ocd-division/country:us/state:nv/county:clark/precinct:3854": {
    "name": "Clark County Precinct 3854"
+  },
+  "ocd-division/country:us/state:nv/county:clark/precinct:1715": {
+   "name": "Clark County Precinct 1715"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:4467": {
    "name": "Clark County Precinct 4467"
@@ -2484,11 +2484,11 @@
   "ocd-division/country:us/state:nv/county:clark/precinct:3841": {
    "name": "Clark County Precinct 3841"
   },
-  "ocd-division/country:us/state:nv/county:clark/precinct:7651": {
-   "name": "Clark County Precinct 7651"
-  },
   "ocd-division/country:us/state:nv/county:clark/precinct:3842": {
    "name": "Clark County Precinct 3842"
+  },
+  "ocd-division/country:us/state:nv/county:clark/precinct:7651": {
+   "name": "Clark County Precinct 7651"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:4463": {
    "name": "Clark County Precinct 4463"
@@ -2499,11 +2499,11 @@
   "ocd-division/country:us/state:nv/county:clark/precinct:7652": {
    "name": "Clark County Precinct 7652"
   },
-  "ocd-division/country:us/state:nv/county:elko/school_district:elko_county_school_district": {
-   "name": "elko county school district"
-  },
   "ocd-division/country:us/state:nv/county:clark/precinct:7653": {
    "name": "Clark County Precinct 7653"
+  },
+  "ocd-division/country:us/state:nv/county:elko/school_district:elko_county_school_district": {
+   "name": "elko county school district"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:7654": {
    "name": "Clark County Precinct 7654"
@@ -4980,17 +4980,17 @@
   "ocd-division/country:us/state:nv/county:clark/precinct:3769": {
    "name": "Clark County Precinct 3769"
   },
-  "ocd-division/country:us/state:nv/county:clark/precinct:3418": {
-   "name": "Clark County Precinct 3418"
-  },
   "ocd-division/country:us/state:nv/county:clark/precinct:3766": {
    "name": "Clark County Precinct 3766"
   },
-  "ocd-division/country:us/state:nv/county:washoe/precinct:105600": {
-   "name": "Washoe County Precinct 105600"
+  "ocd-division/country:us/state:nv/county:clark/precinct:3418": {
+   "name": "Clark County Precinct 3418"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:3767": {
    "name": "Clark County Precinct 3767"
+  },
+  "ocd-division/country:us/state:nv/county:washoe/precinct:105600": {
+   "name": "Washoe County Precinct 105600"
   },
   "ocd-division/country:us/state:nv/county:douglas/precinct:7": {
    "name": "Douglas County Precinct 7"
@@ -5034,14 +5034,14 @@
   "ocd-division/country:us/state:nv/county:douglas/precinct:1": {
    "name": "Douglas County Precinct 1"
   },
+  "ocd-division/country:us/state:nv/county:clark/precinct:3464": {
+   "name": "Clark County Precinct 3464"
+  },
   "ocd-division/country:us/state:nv/cd:4": {
    "name": "Nevada's 4th congressional district",
    "officeIndices": [
     2
    ]
-  },
-  "ocd-division/country:us/state:nv/county:clark/precinct:3464": {
-   "name": "Clark County Precinct 3464"
   },
   "ocd-division/country:us/state:nv/cd:2": {
    "name": "Nevada's 2nd congressional district",
@@ -5052,14 +5052,14 @@
   "ocd-division/country:us/state:nv/county:clark/precinct:7554": {
    "name": "Clark County Precinct 7554"
   },
+  "ocd-division/country:us/state:nv/county:washoe/precinct:650000": {
+   "name": "Washoe County Precinct 650000"
+  },
   "ocd-division/country:us/state:nv/cd:1": {
    "name": "Nevada's 1st congressional district",
    "officeIndices": [
     4
    ]
-  },
-  "ocd-division/country:us/state:nv/county:washoe/precinct:650000": {
-   "name": "Washoe County Precinct 650000"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:7553": {
    "name": "Clark County Precinct 7553"
@@ -5670,6 +5670,9 @@
   "ocd-division/country:us/state:nv/county:washoe/precinct:506200": {
    "name": "Washoe County Precinct 506200"
   },
+  "ocd-division/country:us/state:nv/county:washoe/precinct:758900": {
+   "name": "Washoe County Precinct 758900"
+  },
   "ocd-division/country:us/state:nv/county:clark": {
    "name": "Clark County",
    "officeIndices": [
@@ -5680,9 +5683,6 @@
     208,
     209
    ]
-  },
-  "ocd-division/country:us/state:nv/county:washoe/precinct:758900": {
-   "name": "Washoe County Precinct 758900"
   },
   "ocd-division/country:us/state:nv/county:clark/precinct:2078": {
    "name": "Clark County Precinct 2078"
@@ -5759,14 +5759,14 @@
   "ocd-division/country:us/state:nv/place:north_las_vegas/ward:2": {
    "name": "North Las Vegas NV ward 2"
   },
-  "ocd-division/country:us/state:nv/place:north_las_vegas/ward:3": {
-   "name": "North Las Vegas NV ward 3"
-  },
   "ocd-division/country:us/state:nv/sldu:10": {
    "name": "Nevada State Senate district 10",
    "officeIndices": [
     64
    ]
+  },
+  "ocd-division/country:us/state:nv/place:north_las_vegas/ward:3": {
+   "name": "North Las Vegas NV ward 3"
   },
   "ocd-division/country:us/state:nv/place:north_las_vegas/ward:4": {
    "name": "North Las Vegas NV ward 4"
@@ -6113,14 +6113,14 @@
   "ocd-division/country:us/state:nv/county:humboldt/precinct:1": {
    "name": "Humboldt County Precinct 1"
   },
+  "ocd-division/country:us/state:nv/county:washoe/precinct:502200": {
+   "name": "Washoe County Precinct 502200"
+  },
   "ocd-division/country:us/state:nv/county:clark/council_district:a": {
    "name": "Clark County NV - County Council district A",
    "officeIndices": [
     213
    ]
-  },
-  "ocd-division/country:us/state:nv/county:washoe/precinct:502200": {
-   "name": "Washoe County Precinct 502200"
   },
   "ocd-division/country:us/state:nv/county:clark/council_district:d": {
    "name": "Clark County NV - County Council district D",
@@ -7876,50 +7876,50 @@
    ]
   },
   {
-   "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:nv/county:lander",
+   "name": "Council, Ward 4",
+   "divisionId": "ocd-division/country:us/state:nv/place:las_vegas/ward:4",
    "officialIndices": [
     125
    ]
   },
   {
-   "name": "Assessor",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:nv/county:lander",
    "officialIndices": [
     126
    ]
   },
   {
-   "name": "Recorder",
+   "name": "Assessor",
    "divisionId": "ocd-division/country:us/state:nv/county:lander",
    "officialIndices": [
     127
    ]
   },
   {
-   "name": "Treasurer",
+   "name": "Recorder",
    "divisionId": "ocd-division/country:us/state:nv/county:lander",
    "officialIndices": [
     128
    ]
   },
   {
-   "name": "County Clerk",
+   "name": "Treasurer",
    "divisionId": "ocd-division/country:us/state:nv/county:lander",
    "officialIndices": [
     129
    ]
   },
   {
-   "name": "District Attorney",
+   "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:nv/county:lander",
    "officialIndices": [
     130
    ]
   },
   {
-   "name": "Council, Ward 4",
-   "divisionId": "ocd-division/country:us/state:nv/place:las_vegas/ward:4",
+   "name": "District Attorney",
+   "divisionId": "ocd-division/country:us/state:nv/county:lander",
    "officialIndices": [
     131
    ]
@@ -12566,6 +12566,30 @@
    ]
   },
   {
+   "name": "Stavros S. Anthony",
+   "address": [
+    {
+     "line1": "495. s. main st.",
+     "city": "las vegas",
+     "state": "NV",
+     "zip": "89101"
+    }
+   ],
+   "phones": [
+    "(702) 229-6405"
+   ],
+   "urls": [
+    "http://www.lasvegasnevada.gov/Government/councilman_anthony.htm"
+   ],
+   "photoUrl": "http://www.lasvegasnevada.gov/images/PortraitAnthony.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "CouncilmanStavrosAnthony"
+    }
+   ]
+  },
+  {
    "name": "Ron Unger",
    "party": "Unknown",
    "phones": [
@@ -12672,30 +12696,6 @@
    ],
    "emails": [
     "angie.lcda@gmail.com"
-   ]
-  },
-  {
-   "name": "Stavros S. Anthony",
-   "address": [
-    {
-     "line1": "495. s. main st.",
-     "city": "las vegas",
-     "state": "NV",
-     "zip": "89101"
-    }
-   ],
-   "phones": [
-    "(702) 229-6405"
-   ],
-   "urls": [
-    "http://www.lasvegasnevada.gov/Government/councilman_anthony.htm"
-   ],
-   "photoUrl": "http://www.lasvegasnevada.gov/images/PortraitAnthony.jpg",
-   "channels": [
-    {
-     "type": "Facebook",
-     "id": "CouncilmanStavrosAnthony"
-    }
    ]
   },
   {

@@ -15,11 +15,11 @@
   "ocd-division/country:us/state:il/county:kane/place:geneva": {
    "name": "Geneva township"
   },
-  "ocd-division/country:us/state:il/county:mercer/place:greene": {
-   "name": "Greene township"
-  },
   "ocd-division/country:us/state:il/place:big_rock": {
    "name": "Big Rock village"
+  },
+  "ocd-division/country:us/state:il/county:mercer/place:greene": {
+   "name": "Greene township"
   },
   "ocd-division/country:us/state:il/county:stark/place:goshen": {
    "name": "Goshen township"
@@ -96,14 +96,14 @@
   "ocd-division/country:us/state:il/county:madison/school_district:venice_cusd_3": {
    "name": "venice cusd 3"
   },
-  "ocd-division/country:us/state:il/county:rock_island/place:andalusia": {
-   "name": "Andalusia township"
+  "ocd-division/country:us/state:il/county:woodford/place:el_paso": {
+   "name": "El Paso township"
   },
   "ocd-division/country:us/state:il/county:fulton/school_district:avon_cusd_176": {
    "name": "avon cusd 176"
   },
-  "ocd-division/country:us/state:il/county:woodford/place:el_paso": {
-   "name": "El Paso township"
+  "ocd-division/country:us/state:il/county:rock_island/place:andalusia": {
+   "name": "Andalusia township"
   },
   "ocd-division/country:us/state:il/county:lasalle/place:dayton": {
    "name": "Dayton township"
@@ -132,11 +132,11 @@
   "ocd-division/country:us/state:il/place:rockford/ward:1": {
    "name": "Rockford IL ward 1"
   },
-  "ocd-division/country:us/state:il/county:gallatin/place:north_fork": {
-   "name": "North Fork township"
-  },
   "ocd-division/country:us/state:il/place:rockford/ward:4": {
    "name": "Rockford IL ward 4"
+  },
+  "ocd-division/country:us/state:il/county:gallatin/place:north_fork": {
+   "name": "North Fork township"
   },
   "ocd-division/country:us/state:il/place:rockford/ward:3": {
    "name": "Rockford IL ward 3"
@@ -302,38 +302,38 @@
   "ocd-division/country:us/state:il/place:berlin": {
    "name": "Berlin village"
   },
-  "ocd-division/country:us/state:il/county:cook/school_district:bremen_chsd_228": {
-   "name": "bremen chsd 228"
-  },
   "ocd-division/country:us/state:il/place:silvis": {
    "name": "Silvis city"
   },
-  "ocd-division/country:us/state:il/county:lake/place:warren": {
-   "name": "Warren township"
+  "ocd-division/country:us/state:il/county:cook/school_district:bremen_chsd_228": {
+   "name": "bremen chsd 228"
   },
   "ocd-division/country:us/state:il/place:des_plaines": {
    "name": "Des Plaines city"
   },
-  "ocd-division/country:us/state:il/county:bureau/school_district:ladd_ccsd_94": {
-   "name": "ladd ccsd 94"
-  },
-  "ocd-division/country:us/state:il/place:pontoon_beach": {
-   "name": "Pontoon Beach village"
+  "ocd-division/country:us/state:il/county:lake/place:warren": {
+   "name": "Warren township"
   },
   "ocd-division/country:us/state:il/place:west_salem": {
    "name": "West Salem village"
   },
+  "ocd-division/country:us/state:il/place:pontoon_beach": {
+   "name": "Pontoon Beach village"
+  },
+  "ocd-division/country:us/state:il/county:bureau/school_district:ladd_ccsd_94": {
+   "name": "ladd ccsd 94"
+  },
   "ocd-division/country:us/state:il/place:earlville": {
    "name": "Earlville city"
   },
-  "ocd-division/country:us/state:il/county:rock_island/school_district:rock_island_roe": {
-   "name": "rock island roe"
+  "ocd-division/country:us/state:il/county:fulton/place:union": {
+   "name": "Union township"
   },
   "ocd-division/country:us/state:il/county:clark/place:auburn": {
    "name": "Auburn township"
   },
-  "ocd-division/country:us/state:il/county:fulton/place:union": {
-   "name": "Union township"
+  "ocd-division/country:us/state:il/county:rock_island/school_district:rock_island_roe": {
+   "name": "rock island roe"
   },
   "ocd-division/country:us/state:il/county:gallatin/place:asbury": {
    "name": "Asbury township"
@@ -356,9 +356,6 @@
   "ocd-division/country:us/state:il/county:cook/school_district:oak_park_esd_97": {
    "name": "oak park esd 97"
   },
-  "ocd-division/country:us/state:il/county:cook/school_district:chicago_heights_sd_170": {
-   "name": "chicago heights sd 170"
-  },
   "ocd-division/country:us/state:il/county:woodford": {
    "name": "Woodford County",
    "officeIndices": [
@@ -370,6 +367,9 @@
     209,
     210
    ]
+  },
+  "ocd-division/country:us/state:il/county:cook/school_district:chicago_heights_sd_170": {
+   "name": "chicago heights sd 170"
   },
   "ocd-division/country:us/state:il/county:clinton/place:germantown": {
    "name": "Germantown township"
@@ -398,11 +398,11 @@
   "ocd-division/country:us/state:il/county:grundy/place:aux_sable": {
    "name": "Aux Sable township"
   },
-  "ocd-division/country:us/state:il/county:jo_daviess/school_district:stockton_cusd_206": {
-   "name": "stockton cusd 206"
-  },
   "ocd-division/country:us/state:il/place:spillertown": {
    "name": "Spillertown village"
+  },
+  "ocd-division/country:us/state:il/county:jo_daviess/school_district:stockton_cusd_206": {
+   "name": "stockton cusd 206"
   },
   "ocd-division/country:us/state:il/county:christian/place:rosamond": {
    "name": "Rosamond township"
@@ -416,20 +416,20 @@
   "ocd-division/country:us/state:il/place:hinckley": {
    "name": "Hinckley village"
   },
-  "ocd-division/country:us/state:il/county:lake/place:fremont": {
-   "name": "Fremont township"
-  },
   "ocd-division/country:us/state:il/place:sublette": {
    "name": "Sublette village"
+  },
+  "ocd-division/country:us/state:il/county:lake/place:fremont": {
+   "name": "Fremont township"
   },
   "ocd-division/country:us/state:il/county:hamilton/place:beaver_creek": {
    "name": "Beaver Creek township"
   },
-  "ocd-division/country:us/state:il/county:cook/school_district:oak_lawn_chsd_229": {
-   "name": "oak lawn chsd 229"
-  },
   "ocd-division/country:us/state:il/place:chenoa": {
    "name": "Chenoa city"
+  },
+  "ocd-division/country:us/state:il/county:cook/school_district:oak_lawn_chsd_229": {
+   "name": "oak lawn chsd 229"
   },
   "ocd-division/country:us/state:il/county:franklin/school_district:ewing_northern_ccsd_115": {
    "name": "ewing northern ccsd 115"
@@ -449,32 +449,32 @@
   "ocd-division/country:us/state:il/place:panama": {
    "name": "Panama village"
   },
-  "ocd-division/country:us/state:il/county:marion/school_district:odin_sd_122": {
-   "name": "odin sd 122"
-  },
   "ocd-division/country:us/state:il/county:dupage/school_district:maercker_sd_60": {
    "name": "maercker sd 60"
+  },
+  "ocd-division/country:us/state:il/county:marion/school_district:odin_sd_122": {
+   "name": "odin sd 122"
   },
   "ocd-division/country:us/state:il/place:altona": {
    "name": "Altona village"
   },
-  "ocd-division/country:us/state:il/county:macoupin/place:shaws_point": {
-   "name": "Shaws Point township"
+  "ocd-division/country:us/state:il/place:karnak": {
+   "name": "Karnak village"
   },
   "ocd-division/country:us/state:il/county:kankakee/place:sumner": {
    "name": "Sumner township"
   },
-  "ocd-division/country:us/state:il/place:karnak": {
-   "name": "Karnak village"
+  "ocd-division/country:us/state:il/county:macoupin/place:shaws_point": {
+   "name": "Shaws Point township"
   },
   "ocd-division/country:us/state:il/county:montgomery/place:bois_d~arc": {
    "name": "Bois D'Arc township"
   },
-  "ocd-division/country:us/state:il/place:bellmont": {
-   "name": "Bellmont village"
-  },
   "ocd-division/country:us/state:il/place:nora": {
    "name": "Nora village"
+  },
+  "ocd-division/country:us/state:il/place:bellmont": {
+   "name": "Bellmont village"
   },
   "ocd-division/country:us/state:il/county:sangamon/place:loami": {
    "name": "Loami township"
@@ -596,17 +596,17 @@
     211
    ]
   },
+  "ocd-division/country:us/state:il/place:lostant": {
+   "name": "Lostant village"
+  },
+  "ocd-division/country:us/state:il/place:compton": {
+   "name": "Compton village"
+  },
   "ocd-division/country:us/state:il/county:iroquois/council_district:2": {
    "name": "Iroquois County Board District 2",
    "officeIndices": [
     212
    ]
-  },
-  "ocd-division/country:us/state:il/place:compton": {
-   "name": "Compton village"
-  },
-  "ocd-division/country:us/state:il/place:lostant": {
-   "name": "Lostant village"
   },
   "ocd-division/country:us/state:il/county:white/place:carmi": {
    "name": "Carmi township"
@@ -620,11 +620,11 @@
     213
    ]
   },
-  "ocd-division/country:us/state:il/county:st_clair/school_district:smithton_ccsd_130": {
-   "name": "smithton ccsd 130"
+  "ocd-division/country:us/state:il/place:south_beloit": {
+   "name": "South Beloit city"
   },
-  "ocd-division/country:us/state:il/county:bureau/place:arispie": {
-   "name": "Arispie township"
+  "ocd-division/country:us/state:il/county:kane/school_district:il_mathematics_and_science_academy": {
+   "name": "il mathematics & science academy"
   },
   "ocd-division/country:us/state:il/county:iroquois/council_district:3": {
    "name": "Iroquois County Board District 3",
@@ -632,11 +632,11 @@
     214
    ]
   },
-  "ocd-division/country:us/state:il/county:kane/school_district:il_mathematics_and_science_academy": {
-   "name": "il mathematics & science academy"
+  "ocd-division/country:us/state:il/county:bureau/place:arispie": {
+   "name": "Arispie township"
   },
-  "ocd-division/country:us/state:il/place:south_beloit": {
-   "name": "South Beloit city"
+  "ocd-division/country:us/state:il/county:st_clair/school_district:smithton_ccsd_130": {
+   "name": "smithton ccsd 130"
   },
   "ocd-division/country:us/state:il/county:vermilion": {
    "name": "Vermilion County",
@@ -664,11 +664,11 @@
   "ocd-division/country:us/state:il/county:cook/school_district:central_stickney_sd_110": {
    "name": "central stickney sd 110"
   },
-  "ocd-division/country:us/state:il/place:st_augustine": {
-   "name": "St. Augustine village"
-  },
   "ocd-division/country:us/state:il/place:victoria": {
    "name": "Victoria village"
+  },
+  "ocd-division/country:us/state:il/place:st_augustine": {
+   "name": "St. Augustine village"
   },
   "ocd-division/country:us/state:il/place:braceville": {
    "name": "Braceville village"
@@ -678,6 +678,9 @@
   },
   "ocd-division/country:us/state:il/county:pike/place:new_salem": {
    "name": "New Salem township"
+  },
+  "ocd-division/country:us/state:il/place:carrollton": {
+   "name": "Carrollton city"
   },
   "ocd-division/country:us/state:il/county:massac": {
    "name": "Massac County",
@@ -691,23 +694,23 @@
     230
    ]
   },
-  "ocd-division/country:us/state:il/place:carrollton": {
-   "name": "Carrollton city"
-  },
   "ocd-division/country:us/state:il/county:jefferson/school_district:woodlawn_ccsd_4": {
    "name": "woodlawn ccsd 4"
-  },
-  "ocd-division/country:us/state:il/county:cook/school_district:midlothian_sd_143": {
-   "name": "midlothian sd 143"
   },
   "ocd-division/country:us/state:il/place:south_jacksonville": {
    "name": "South Jacksonville village"
   },
+  "ocd-division/country:us/state:il/county:cook/school_district:midlothian_sd_143": {
+   "name": "midlothian sd 143"
+  },
   "ocd-division/country:us/state:il/place:marshall": {
    "name": "Marshall city"
   },
-  "ocd-division/country:us/state:il/county:edgar/place:elbridge": {
-   "name": "Elbridge township"
+  "ocd-division/country:us/state:il/place:heyworth": {
+   "name": "Heyworth village"
+  },
+  "ocd-division/country:us/state:il/county:grundy/school_district:mazon-verona-kinsman_esd_2c": {
+   "name": "mazon-verona-kinsman esd 2c"
   },
   "ocd-division/country:us/state:il/county:edwards": {
    "name": "Edwards County",
@@ -722,11 +725,8 @@
     238
    ]
   },
-  "ocd-division/country:us/state:il/county:grundy/school_district:mazon-verona-kinsman_esd_2c": {
-   "name": "mazon-verona-kinsman esd 2c"
-  },
-  "ocd-division/country:us/state:il/place:heyworth": {
-   "name": "Heyworth village"
+  "ocd-division/country:us/state:il/county:edgar/place:elbridge": {
+   "name": "Elbridge township"
   },
   "ocd-division/country:us/state:il/county:hancock/place:durham": {
    "name": "Durham township"
@@ -752,32 +752,32 @@
   "ocd-division/country:us/state:il/county:jackson/school_district:jackson~perry_roe": {
    "name": "jackson/perry roe"
   },
-  "ocd-division/country:us/state:il/county:livingston/place:waldo": {
-   "name": "Waldo township"
-  },
   "ocd-division/country:us/state:il/county:greene/place:linder": {
    "name": "Linder township"
   },
-  "ocd-division/country:us/state:il/county:peoria/place:hallock": {
-   "name": "Hallock township"
+  "ocd-division/country:us/state:il/county:livingston/place:waldo": {
+   "name": "Waldo township"
   },
   "ocd-division/country:us/state:il/county:iroquois/school_district:crescent_iroquois_cusd_249": {
    "name": "crescent iroquois cusd 249"
   },
-  "ocd-division/country:us/state:il/county:cook/school_district:prairie-hills_esd_144": {
-   "name": "prairie-hills esd 144"
+  "ocd-division/country:us/state:il/county:peoria/place:hallock": {
+   "name": "Hallock township"
   },
   "ocd-division/country:us/state:il/place:lakewood": {
    "name": "Lakewood village"
   },
+  "ocd-division/country:us/state:il/county:cook/school_district:prairie-hills_esd_144": {
+   "name": "prairie-hills esd 144"
+  },
   "ocd-division/country:us/state:il/county:bureau/place:clarion": {
    "name": "Clarion township"
   },
-  "ocd-division/country:us/state:il/county:wayne/place:barnhill": {
-   "name": "Barnhill township"
-  },
   "ocd-division/country:us/state:il/county:cook/school_district:sunnybrook_sd_171": {
    "name": "sunnybrook sd 171"
+  },
+  "ocd-division/country:us/state:il/county:wayne/place:barnhill": {
+   "name": "Barnhill township"
   },
   "ocd-division/country:us/state:il/place:washington": {
    "name": "Washington city"
@@ -791,11 +791,11 @@
   "ocd-division/country:us/state:il/county:macon/school_district:mt_zion_cusd_3": {
    "name": "mt zion cusd 3"
   },
-  "ocd-division/country:us/state:il/county:williamson/school_district:herrin_cusd_4": {
-   "name": "herrin cusd 4"
-  },
   "ocd-division/country:us/state:il/county:winnebago/school_district:career_educ_assoc_of_n_central_il": {
    "name": "career educ assoc of n central il"
+  },
+  "ocd-division/country:us/state:il/county:williamson/school_district:herrin_cusd_4": {
+   "name": "herrin cusd 4"
   },
   "ocd-division/country:us/state:il/county:adams/school_district:central_cusd_3": {
    "name": "central cusd 3"
@@ -815,6 +815,9 @@
   "ocd-division/country:us/state:il/county:st_clair/place:smithton": {
    "name": "Smithton township"
   },
+  "ocd-division/country:us/state:il/county:carroll/place:wysox": {
+   "name": "Wysox township"
+  },
   "ocd-division/country:us/state:il/county:wayne": {
    "name": "Wayne County",
    "officeIndices": [
@@ -832,20 +835,17 @@
     250
    ]
   },
-  "ocd-division/country:us/state:il/county:carroll/place:wysox": {
-   "name": "Wysox township"
-  },
   "ocd-division/country:us/state:il/county:henderson/school_district:west_central_cusd_235": {
    "name": "west central cusd 235"
   },
   "ocd-division/country:us/state:il/place:johnsburg": {
    "name": "Johnsburg village"
   },
-  "ocd-division/country:us/state:il/county:sangamon/school_district:idjj_sch_dist_428": {
-   "name": "idjj sch dist 428"
-  },
   "ocd-division/country:us/state:il/county:madison/place:fort_russell": {
    "name": "Fort Russell township"
+  },
+  "ocd-division/country:us/state:il/county:sangamon/school_district:idjj_sch_dist_428": {
+   "name": "idjj sch dist 428"
   },
   "ocd-division/country:us/state:il/county:tazewell/school_district:robein_sd_85": {
    "name": "robein sd 85"
@@ -856,11 +856,11 @@
   "ocd-division/country:us/state:il/county:lake/place:cuba": {
    "name": "Cuba township"
   },
-  "ocd-division/country:us/state:il/county:sangamon/school_district:pawnee_cusd_11": {
-   "name": "pawnee cusd 11"
-  },
   "ocd-division/country:us/state:il/county:edwards/school_district:edwards_county_cusd_1": {
    "name": "edwards county cusd 1"
+  },
+  "ocd-division/country:us/state:il/county:sangamon/school_district:pawnee_cusd_11": {
+   "name": "pawnee cusd 11"
   },
   "ocd-division/country:us/state:il/county:hancock/place:prairie": {
    "name": "Prairie township"
@@ -871,14 +871,14 @@
     251
    ]
   },
+  "ocd-division/country:us/state:il/place:mark": {
+   "name": "Mark village"
+  },
   "ocd-division/country:us/state:il/county:vermilion/council_district:4": {
    "name": "Vermilion County Board District 4",
    "officeIndices": [
     252
    ]
-  },
-  "ocd-division/country:us/state:il/place:mark": {
-   "name": "Mark village"
   },
   "ocd-division/country:us/state:il/county:vermilion/council_district:1": {
    "name": "Vermilion County Board District 1",
@@ -886,20 +886,20 @@
     253
    ]
   },
-  "ocd-division/country:us/state:il/county:vermilion/school_district:armstrong_twp_hsd_225": {
-   "name": "armstrong twp hsd 225"
-  },
   "ocd-division/country:us/state:il/county:vermilion/council_district:2": {
    "name": "Vermilion County Board District 2",
    "officeIndices": [
     254
    ]
   },
-  "ocd-division/country:us/state:il/county:ogle/school_district:kings_cons_sd_144": {
-   "name": "kings cons sd 144"
+  "ocd-division/country:us/state:il/county:vermilion/school_district:armstrong_twp_hsd_225": {
+   "name": "armstrong twp hsd 225"
   },
   "ocd-division/country:us/state:il/place:hartsburg": {
    "name": "Hartsburg village"
+  },
+  "ocd-division/country:us/state:il/county:ogle/school_district:kings_cons_sd_144": {
+   "name": "kings cons sd 144"
   },
   "ocd-division/country:us/state:il/county:rock_island/school_district:riverdale_cusd_100": {
    "name": "riverdale cusd 100"
@@ -907,23 +907,23 @@
   "ocd-division/country:us/state:il/county:grundy/place:goose_lake": {
    "name": "Goose Lake township"
   },
-  "ocd-division/country:us/state:il/county:pike/place:ross": {
-   "name": "Ross township"
+  "ocd-division/country:us/state:il/county:effingham/place:union": {
+   "name": "Union township"
   },
   "ocd-division/country:us/state:il/county:dekalb/school_district:hinckley_big_rock_cusd_429": {
    "name": "hinckley big rock cusd 429"
   },
-  "ocd-division/country:us/state:il/county:effingham/place:union": {
-   "name": "Union township"
+  "ocd-division/country:us/state:il/county:pike/place:ross": {
+   "name": "Ross township"
   },
-  "ocd-division/country:us/state:il/county:grundy/school_district:nettle_creek_ccsd_24c": {
-   "name": "nettle creek ccsd 24c"
+  "ocd-division/country:us/state:il/place:galena": {
+   "name": "Galena city"
   },
   "ocd-division/country:us/state:il/place:anchor": {
    "name": "Anchor village"
   },
-  "ocd-division/country:us/state:il/place:galena": {
-   "name": "Galena city"
+  "ocd-division/country:us/state:il/county:grundy/school_district:nettle_creek_ccsd_24c": {
+   "name": "nettle creek ccsd 24c"
   },
   "ocd-division/country:us/state:il/place:wheeling": {
    "name": "Wheeling village"
@@ -940,23 +940,23 @@
     256
    ]
   },
+  "ocd-division/country:us/state:il/county:marion/school_district:iuka_ccsd_7": {
+   "name": "iuka ccsd 7"
+  },
   "ocd-division/country:us/state:il/county:vermilion/council_district:7": {
    "name": "Vermilion County Board District 7",
    "officeIndices": [
     257
    ]
   },
-  "ocd-division/country:us/state:il/county:marion/school_district:iuka_ccsd_7": {
-   "name": "iuka ccsd 7"
+  "ocd-division/country:us/state:il/county:saline/place:mountain": {
+   "name": "Mountain township"
   },
   "ocd-division/country:us/state:il/county:vermilion/council_district:6": {
    "name": "Vermilion County Board District 6",
    "officeIndices": [
     258
    ]
-  },
-  "ocd-division/country:us/state:il/county:saline/place:mountain": {
-   "name": "Mountain township"
   },
   "ocd-division/country:us/state:il/county:vermilion/council_district:5": {
    "name": "Vermilion County Board District 5",
@@ -988,14 +988,14 @@
     263
    ]
   },
-  "ocd-division/country:us/state:il/county:douglas/school_district:arcola_cusd_306": {
-   "name": "arcola cusd 306"
-  },
   "ocd-division/country:us/state:il/county:cook/council_district:8": {
    "name": "Cook County Commission District 8",
    "officeIndices": [
     264
    ]
+  },
+  "ocd-division/country:us/state:il/county:douglas/school_district:arcola_cusd_306": {
+   "name": "arcola cusd 306"
   },
   "ocd-division/country:us/state:il/county:cook/council_district:9": {
    "name": "Cook County Commission District 9",
@@ -1021,11 +1021,11 @@
     267
    ]
   },
-  "ocd-division/country:us/state:il/county:cook/school_district:lyons_sd_103": {
-   "name": "lyons sd 103"
-  },
   "ocd-division/country:us/state:il/place:franklin_park": {
    "name": "Franklin Park village"
+  },
+  "ocd-division/country:us/state:il/county:cook/school_district:lyons_sd_103": {
+   "name": "lyons sd 103"
   },
   "ocd-division/country:us/state:il/county:cook/council_district:1": {
    "name": "Cook County Commission District 1",
@@ -1045,14 +1045,17 @@
   "ocd-division/country:us/state:il/county:clinton/place:carlyle": {
    "name": "Carlyle township"
   },
+  "ocd-division/country:us/state:il/county:kankakee/school_district:bradley_bourbonnais_chsd_307": {
+   "name": "bradley bourbonnais chsd 307"
+  },
   "ocd-division/country:us/state:il/county:mercer/council_district:1": {
    "name": "Mercer County Board District 1",
    "officeIndices": [
     269
    ]
   },
-  "ocd-division/country:us/state:il/county:kankakee/school_district:bradley_bourbonnais_chsd_307": {
-   "name": "bradley bourbonnais chsd 307"
+  "ocd-division/country:us/state:il/place:arlington_heights": {
+   "name": "Arlington Heights village"
   },
   "ocd-division/country:us/state:il/county:mercer/council_district:2": {
    "name": "Mercer County Board District 2",
@@ -1060,14 +1063,14 @@
     270
    ]
   },
-  "ocd-division/country:us/state:il/place:arlington_heights": {
-   "name": "Arlington Heights village"
-  },
   "ocd-division/country:us/state:il/county:mercer/council_district:3": {
    "name": "Mercer County Board District 3",
    "officeIndices": [
     271
    ]
+  },
+  "ocd-division/country:us/state:il/county:douglas/place:tuscola": {
+   "name": "Tuscola township"
   },
   "ocd-division/country:us/state:il/county:mercer/council_district:4": {
    "name": "Mercer County Board District 4",
@@ -1075,14 +1078,14 @@
     272
    ]
   },
-  "ocd-division/country:us/state:il/county:douglas/place:tuscola": {
-   "name": "Tuscola township"
-  },
   "ocd-division/country:us/state:il/county:mercer/council_district:5": {
    "name": "Mercer County Board District 5",
    "officeIndices": [
     273
    ]
+  },
+  "ocd-division/country:us/state:il/place:irwin": {
+   "name": "Irwin village"
   },
   "ocd-division/country:us/state:il/county:jersey": {
    "name": "Jersey County",
@@ -1100,9 +1103,6 @@
     284
    ]
   },
-  "ocd-division/country:us/state:il/place:irwin": {
-   "name": "Irwin village"
-  },
   "ocd-division/country:us/state:il/county:cook/school_district:prospect_heights_sd_23": {
    "name": "prospect heights sd 23"
   },
@@ -1112,14 +1112,14 @@
     285
    ]
   },
-  "ocd-division/country:us/state:il/county:peoria/place:radnor": {
-   "name": "Radnor township"
-  },
   "ocd-division/country:us/state:il/county:ogle/council_district:4": {
    "name": "Ogle County Council District 4",
    "officeIndices": [
     286
    ]
+  },
+  "ocd-division/country:us/state:il/county:peoria/place:radnor": {
+   "name": "Radnor township"
   },
   "ocd-division/country:us/state:il/county:ogle/council_district:1": {
    "name": "Ogle County Council District 1",
@@ -1136,20 +1136,20 @@
   "ocd-division/country:us/state:il/county:kane/school_district:aurora_west_usd_129": {
    "name": "aurora west usd 129"
   },
-  "ocd-division/country:us/state:il/county:lee/place:nachusa": {
-   "name": "Nachusa township"
-  },
   "ocd-division/country:us/state:il/county:lake/school_district:prairie_crossing_charter_school": {
    "name": "prairie crossing charter school"
   },
-  "ocd-division/country:us/state:il/county:vermilion/school_district:oakwood_cusd_76": {
-   "name": "oakwood cusd 76"
+  "ocd-division/country:us/state:il/county:lee/place:nachusa": {
+   "name": "Nachusa township"
   },
   "ocd-division/country:us/state:il/county:livingston/council_district:3": {
    "name": "Livingston County Board District 3",
    "officeIndices": [
     289
    ]
+  },
+  "ocd-division/country:us/state:il/county:vermilion/school_district:oakwood_cusd_76": {
+   "name": "oakwood cusd 76"
   },
   "ocd-division/country:us/state:il/county:livingston/council_district:2": {
    "name": "Livingston County Board District 2",
@@ -1187,17 +1187,17 @@
     292
    ]
   },
+  "ocd-division/country:us/state:il/place:new_douglas": {
+   "name": "New Douglas village"
+  },
+  "ocd-division/country:us/state:il/place:mundelein": {
+   "name": "Mundelein village"
+  },
   "ocd-division/country:us/state:il/county:ogle/council_district:7": {
    "name": "Ogle County Council District 7",
    "officeIndices": [
     293
    ]
-  },
-  "ocd-division/country:us/state:il/place:mundelein": {
-   "name": "Mundelein village"
-  },
-  "ocd-division/country:us/state:il/place:new_douglas": {
-   "name": "New Douglas village"
   },
   "ocd-division/country:us/state:il/county:ogle/council_district:6": {
    "name": "Ogle County Council District 6",
@@ -1217,11 +1217,11 @@
   "ocd-division/country:us/state:il/county:christian/school_district:south_fork_sd_14": {
    "name": "south fork sd 14"
   },
-  "ocd-division/country:us/state:il/county:henry/school_district:annawan_cusd_226": {
-   "name": "annawan cusd 226"
-  },
   "ocd-division/country:us/state:il/county:will/school_district:peotone_cusd_207u": {
    "name": "peotone cusd 207u"
+  },
+  "ocd-division/country:us/state:il/county:henry/school_district:annawan_cusd_226": {
+   "name": "annawan cusd 226"
   },
   "ocd-division/country:us/state:il/county:st_clair/school_district:shiloh_village_sd_85": {
    "name": "shiloh village sd 85"
@@ -1256,17 +1256,17 @@
   "ocd-division/country:us/state:il/county:winnebago/place:roscoe": {
    "name": "Roscoe township"
   },
-  "ocd-division/country:us/state:il/county:montgomery/place:nokomis": {
-   "name": "Nokomis township"
-  },
-  "ocd-division/country:us/state:il/county:cook/school_district:pennoyer_sd_79": {
-   "name": "pennoyer sd 79"
+  "ocd-division/country:us/state:il/place:jerseyville": {
+   "name": "Jerseyville city"
   },
   "ocd-division/country:us/state:il/place:capron": {
    "name": "Capron village"
   },
-  "ocd-division/country:us/state:il/place:jerseyville": {
-   "name": "Jerseyville city"
+  "ocd-division/country:us/state:il/county:cook/school_district:pennoyer_sd_79": {
+   "name": "pennoyer sd 79"
+  },
+  "ocd-division/country:us/state:il/county:montgomery/place:nokomis": {
+   "name": "Nokomis township"
   },
   "ocd-division/country:us/state:il/county:peoria/place:chillicothe": {
    "name": "Chillicothe township"
@@ -1277,20 +1277,17 @@
   "ocd-division/country:us/state:il/county:jasper/place:smallwood": {
    "name": "Smallwood township"
   },
-  "ocd-division/country:us/state:il/county:tazewell/school_district:tremont_cusd_702": {
-   "name": "tremont cusd 702"
-  },
-  "ocd-division/country:us/state:il/county:lasalle/place:meriden": {
-   "name": "Meriden township"
-  },
   "ocd-division/country:us/state:il/sldl:20": {
    "name": "Illinois State House district 20",
    "officeIndices": [
     22
    ]
   },
-  "ocd-division/country:us/state:il/county:iroquois/place:belmont": {
-   "name": "Belmont township"
+  "ocd-division/country:us/state:il/county:lasalle/place:meriden": {
+   "name": "Meriden township"
+  },
+  "ocd-division/country:us/state:il/county:tazewell/school_district:tremont_cusd_702": {
+   "name": "tremont cusd 702"
   },
   "ocd-division/country:us/state:il/sldl:21": {
    "name": "Illinois State House district 21",
@@ -1298,17 +1295,14 @@
     23
    ]
   },
+  "ocd-division/country:us/state:il/county:iroquois/place:belmont": {
+   "name": "Belmont township"
+  },
   "ocd-division/country:us/state:il/sldl:22": {
    "name": "Illinois State House district 22",
    "officeIndices": [
     24
    ]
-  },
-  "ocd-division/country:us/state:il/county:crawford/place:robinson": {
-   "name": "Robinson township"
-  },
-  "ocd-division/country:us/state:il/county:cook/school_district:forest_ridge_sd_142": {
-   "name": "forest ridge sd 142"
   },
   "ocd-division/country:us/state:il/sldl:23": {
    "name": "Illinois State House district 23",
@@ -1316,14 +1310,20 @@
     25
    ]
   },
+  "ocd-division/country:us/state:il/county:cook/school_district:forest_ridge_sd_142": {
+   "name": "forest ridge sd 142"
+  },
+  "ocd-division/country:us/state:il/county:crawford/place:robinson": {
+   "name": "Robinson township"
+  },
   "ocd-division/country:us/state:il/place:dover": {
    "name": "Dover village"
   },
-  "ocd-division/country:us/state:il/county:adams/place:clayton": {
-   "name": "Clayton township"
-  },
   "ocd-division/country:us/state:il/county:clay/place:oskaloosa": {
    "name": "Oskaloosa township"
+  },
+  "ocd-division/country:us/state:il/county:adams/place:clayton": {
+   "name": "Clayton township"
   },
   "ocd-division/country:us/state:il/sldl:18": {
    "name": "Illinois State House district 18",
@@ -1376,11 +1376,11 @@
   "ocd-division/country:us/state:il/place:schram_city": {
    "name": "Schram City village"
   },
-  "ocd-division/country:us/state:il/county:tazewell/place:mackinaw": {
-   "name": "Mackinaw township"
-  },
   "ocd-division/country:us/state:il/place:millington": {
    "name": "Millington village"
+  },
+  "ocd-division/country:us/state:il/county:tazewell/place:mackinaw": {
+   "name": "Mackinaw township"
   },
   "ocd-division/country:us/state:il/place:collinsville": {
    "name": "Collinsville city"
@@ -1598,16 +1598,16 @@
   "ocd-division/country:us/state:il/county:washington/place:johannisburg": {
    "name": "Johannisburg township"
   },
-  "ocd-division/country:us/state:il/county:mclean/council_district:9": {
-   "name": "McLean County Board District 9",
-   "officeIndices": [
-    321
-   ]
-  },
   "ocd-division/country:us/state:il/sldl:49": {
    "name": "Illinois State House district 49",
    "officeIndices": [
     36
+   ]
+  },
+  "ocd-division/country:us/state:il/county:mclean/council_district:9": {
+   "name": "McLean County Board District 9",
+   "officeIndices": [
+    321
    ]
   },
   "ocd-division/country:us/state:il/sldl:54": {
@@ -2234,11 +2234,11 @@
   "ocd-division/country:us/state:il/county:clinton/school_district:bartelso_sd_57": {
    "name": "bartelso sd 57"
   },
-  "ocd-division/country:us/state:il/county:vermilion/place:ross": {
-   "name": "Ross township"
-  },
   "ocd-division/country:us/state:il/county:mchenry/school_district:mchenry_chsd_156": {
    "name": "mchenry chsd 156"
+  },
+  "ocd-division/country:us/state:il/county:vermilion/place:ross": {
+   "name": "Ross township"
   },
   "ocd-division/country:us/state:il/place:sheffield": {
    "name": "Sheffield village"
@@ -2249,14 +2249,14 @@
     89
    ]
   },
-  "ocd-division/country:us/state:il/county:iroquois/place:ridgeland": {
-   "name": "Ridgeland township"
-  },
   "ocd-division/country:us/state:il/sldl:71": {
    "name": "Illinois State House district 71",
    "officeIndices": [
     90
    ]
+  },
+  "ocd-division/country:us/state:il/county:iroquois/place:ridgeland": {
+   "name": "Ridgeland township"
   },
   "ocd-division/country:us/state:il/sldl:72": {
    "name": "Illinois State House district 72",
@@ -2264,17 +2264,14 @@
     91
    ]
   },
-  "ocd-division/country:us/state:il/county:kendall/school_district:oswego_cusd_308": {
-   "name": "oswego cusd 308"
-  },
   "ocd-division/country:us/state:il/sldl:73": {
    "name": "Illinois State House district 73",
    "officeIndices": [
     92
    ]
   },
-  "ocd-division/country:us/state:il/county:mason/school_district:illini_central_cusd_189": {
-   "name": "illini central cusd 189"
+  "ocd-division/country:us/state:il/county:kendall/school_district:oswego_cusd_308": {
+   "name": "oswego cusd 308"
   },
   "ocd-division/country:us/state:il/sldl:74": {
    "name": "Illinois State House district 74",
@@ -2282,14 +2279,14 @@
     93
    ]
   },
+  "ocd-division/country:us/state:il/county:mason/school_district:illini_central_cusd_189": {
+   "name": "illini central cusd 189"
+  },
   "ocd-division/country:us/state:il/sldl:75": {
    "name": "Illinois State House district 75",
    "officeIndices": [
     94
    ]
-  },
-  "ocd-division/country:us/state:il/county:fayette/place:otego": {
-   "name": "Otego township"
   },
   "ocd-division/country:us/state:il/sldl:76": {
    "name": "Illinois State House district 76",
@@ -2297,8 +2294,8 @@
     95
    ]
   },
-  "ocd-division/country:us/state:il/county:lasalle/place:richland": {
-   "name": "Richland township"
+  "ocd-division/country:us/state:il/county:fayette/place:otego": {
+   "name": "Otego township"
   },
   "ocd-division/country:us/state:il/sldl:77": {
    "name": "Illinois State House district 77",
@@ -2306,17 +2303,14 @@
     96
    ]
   },
+  "ocd-division/country:us/state:il/county:lasalle/place:richland": {
+   "name": "Richland township"
+  },
   "ocd-division/country:us/state:il/sldl:78": {
    "name": "Illinois State House district 78",
    "officeIndices": [
     97
    ]
-  },
-  "ocd-division/country:us/state:il/place:east_cape_girardeau": {
-   "name": "East Cape Girardeau village"
-  },
-  "ocd-division/country:us/state:il/place:evergreen_park": {
-   "name": "Evergreen Park village"
   },
   "ocd-division/country:us/state:il/sldl:79": {
    "name": "Illinois State House district 79",
@@ -2324,20 +2318,26 @@
     98
    ]
   },
+  "ocd-division/country:us/state:il/place:evergreen_park": {
+   "name": "Evergreen Park village"
+  },
+  "ocd-division/country:us/state:il/place:east_cape_girardeau": {
+   "name": "East Cape Girardeau village"
+  },
   "ocd-division/country:us/state:il/county:livingston/place:reading": {
    "name": "Reading township"
   },
-  "ocd-division/country:us/state:il/county:montgomery/place:east_fork": {
-   "name": "East Fork township"
-  },
-  "ocd-division/country:us/state:il/county:champaign/school_district:heritage_cusd_8": {
-   "name": "heritage cusd 8"
+  "ocd-division/country:us/state:il/place:standard": {
+   "name": "Standard village"
   },
   "ocd-division/country:us/state:il/place:mound_city": {
    "name": "Mound City city"
   },
-  "ocd-division/country:us/state:il/place:standard": {
-   "name": "Standard village"
+  "ocd-division/country:us/state:il/county:champaign/school_district:heritage_cusd_8": {
+   "name": "heritage cusd 8"
+  },
+  "ocd-division/country:us/state:il/county:montgomery/place:east_fork": {
+   "name": "East Fork township"
   },
   "ocd-division/country:us/state:il/sldl:80": {
    "name": "Illinois State House district 80",
@@ -2345,26 +2345,17 @@
     99
    ]
   },
-  "ocd-division/country:us/state:il/county:lawrence/school_district:red_hill_cusd_10": {
-   "name": "red hill cusd 10"
-  },
   "ocd-division/country:us/state:il/sldl:81": {
    "name": "Illinois State House district 81",
    "officeIndices": [
     100
    ]
   },
+  "ocd-division/country:us/state:il/county:lawrence/school_district:red_hill_cusd_10": {
+   "name": "red hill cusd 10"
+  },
   "ocd-division/country:us/state:il/county:madison/school_district:triad_cusd_2": {
    "name": "triad cusd 2"
-  },
-  "ocd-division/country:us/state:il/county:warren/council_district:4": {
-   "name": "Warren County Board District 4",
-   "officeIndices": [
-    340
-   ]
-  },
-  "ocd-division/country:us/state:il/county:vermilion/place:catlin": {
-   "name": "Catlin township"
   },
   "ocd-division/country:us/state:il/sldl:84": {
    "name": "Illinois State House district 84",
@@ -2372,19 +2363,28 @@
     101
    ]
   },
-  "ocd-division/country:us/state:il/county:warren/council_district:3": {
-   "name": "Warren County Board District 3",
-   "officeIndices": [
-    341
-   ]
+  "ocd-division/country:us/state:il/county:vermilion/place:catlin": {
+   "name": "Catlin township"
   },
-  "ocd-division/country:us/state:il/place:round_lake": {
-   "name": "Round Lake village"
+  "ocd-division/country:us/state:il/county:warren/council_district:4": {
+   "name": "Warren County Board District 4",
+   "officeIndices": [
+    340
+   ]
   },
   "ocd-division/country:us/state:il/sldl:85": {
    "name": "Illinois State House district 85",
    "officeIndices": [
     102
+   ]
+  },
+  "ocd-division/country:us/state:il/place:round_lake": {
+   "name": "Round Lake village"
+  },
+  "ocd-division/country:us/state:il/county:warren/council_district:3": {
+   "name": "Warren County Board District 3",
+   "officeIndices": [
+    341
    ]
   },
   "ocd-division/country:us/state:il/sldl:82": {
@@ -2393,17 +2393,14 @@
     103
    ]
   },
-  "ocd-division/country:us/state:il/county:peoria/place:west_peoria": {
-   "name": "West Peoria township"
-  },
   "ocd-division/country:us/state:il/sldl:83": {
    "name": "Illinois State House district 83",
    "officeIndices": [
     104
    ]
   },
-  "ocd-division/country:us/state:il/county:jackson/place:somerset": {
-   "name": "Somerset township"
+  "ocd-division/country:us/state:il/county:peoria/place:west_peoria": {
+   "name": "West Peoria township"
   },
   "ocd-division/country:us/state:il/sldl:88": {
    "name": "Illinois State House district 88",
@@ -2411,16 +2408,13 @@
     105
    ]
   },
+  "ocd-division/country:us/state:il/county:jackson/place:somerset": {
+   "name": "Somerset township"
+  },
   "ocd-division/country:us/state:il/sldl:89": {
    "name": "Illinois State House district 89",
    "officeIndices": [
     106
-   ]
-  },
-  "ocd-division/country:us/state:il/county:warren/council_district:2": {
-   "name": "Warren County Board District 2",
-   "officeIndices": [
-    342
    ]
   },
   "ocd-division/country:us/state:il/sldl:86": {
@@ -2429,16 +2423,22 @@
     107
    ]
   },
-  "ocd-division/country:us/state:il/county:warren/council_district:1": {
-   "name": "Warren County Board District 1",
+  "ocd-division/country:us/state:il/county:warren/council_district:2": {
+   "name": "Warren County Board District 2",
    "officeIndices": [
-    343
+    342
    ]
   },
   "ocd-division/country:us/state:il/sldl:87": {
    "name": "Illinois State House district 87",
    "officeIndices": [
     108
+   ]
+  },
+  "ocd-division/country:us/state:il/county:warren/council_district:1": {
+   "name": "Warren County Board District 1",
+   "officeIndices": [
+    343
    ]
   },
   "ocd-division/country:us/state:il/place:weldon": {
@@ -2468,26 +2468,26 @@
   "ocd-division/country:us/state:il/county:white/school_district:carmi-white_county_cusd_5": {
    "name": "carmi-white county cusd 5"
   },
-  "ocd-division/country:us/state:il/county:livingston/school_district:pontiac_ccsd_429": {
-   "name": "pontiac ccsd 429"
-  },
   "ocd-division/country:us/state:il/place:sleepy_hollow": {
    "name": "Sleepy Hollow village"
   },
-  "ocd-division/country:us/state:il/county:sangamon/school_district:pleasant_plains_cusd_8": {
-   "name": "pleasant plains cusd 8"
+  "ocd-division/country:us/state:il/county:livingston/school_district:pontiac_ccsd_429": {
+   "name": "pontiac ccsd 429"
   },
   "ocd-division/country:us/state:il/place:south_roxana": {
    "name": "South Roxana village"
   },
+  "ocd-division/country:us/state:il/county:sangamon/school_district:pleasant_plains_cusd_8": {
+   "name": "pleasant plains cusd 8"
+  },
   "ocd-division/country:us/state:il/county:boone/place:manchester": {
    "name": "Manchester township"
   },
-  "ocd-division/country:us/state:il/county:crawford/place:martin": {
-   "name": "Martin township"
-  },
   "ocd-division/country:us/state:il/county:grundy/school_district:morris_chsd_101": {
    "name": "morris chsd 101"
+  },
+  "ocd-division/country:us/state:il/county:crawford/place:martin": {
+   "name": "Martin township"
   },
   "ocd-division/country:us/state:il/county:ogle/place:leaf_river": {
    "name": "Leaf River township"
@@ -2495,14 +2495,14 @@
   "ocd-division/country:us/state:il/place:warsaw": {
    "name": "Warsaw city"
   },
-  "ocd-division/country:us/state:il/county:effingham/place:summit": {
-   "name": "Summit township"
+  "ocd-division/country:us/state:il/place:macomb": {
+   "name": "Macomb city"
   },
   "ocd-division/country:us/state:il/county:knox/school_district:r_o_w_v_a_cusd_208": {
    "name": "r o w v a cusd 208"
   },
-  "ocd-division/country:us/state:il/place:macomb": {
-   "name": "Macomb city"
+  "ocd-division/country:us/state:il/county:effingham/place:summit": {
+   "name": "Summit township"
   },
   "ocd-division/country:us/state:il/county:brown/place:elkhorn": {
    "name": "Elkhorn township"
@@ -2510,11 +2510,11 @@
   "ocd-division/country:us/state:il/county:stark/school_district:bradford_cusd_1": {
    "name": "bradford cusd 1"
   },
-  "ocd-division/country:us/state:il/county:cook/school_district:leyden_chsd_212": {
-   "name": "leyden chsd 212"
-  },
   "ocd-division/country:us/state:il/county:dupage/school_district:ccsd_93": {
    "name": "ccsd 93"
+  },
+  "ocd-division/country:us/state:il/county:cook/school_district:leyden_chsd_212": {
+   "name": "leyden chsd 212"
   },
   "ocd-division/country:us/state:il/place:cutler": {
    "name": "Cutler village"
@@ -2522,17 +2522,17 @@
   "ocd-division/country:us/state:il/county:tazewell/school_district:spring_lake_ccsd_606": {
    "name": "spring lake ccsd 606"
   },
-  "ocd-division/country:us/state:il/place:eddyville": {
-   "name": "Eddyville village"
-  },
   "ocd-division/country:us/state:il/place:spring_grove": {
    "name": "Spring Grove village"
   },
-  "ocd-division/country:us/state:il/county:jo_daviess/school_district:river_ridge_cusd_210": {
-   "name": "river ridge cusd 210"
+  "ocd-division/country:us/state:il/place:eddyville": {
+   "name": "Eddyville village"
   },
   "ocd-division/country:us/state:il/place:orion": {
    "name": "Orion village"
+  },
+  "ocd-division/country:us/state:il/county:jo_daviess/school_district:river_ridge_cusd_210": {
+   "name": "river ridge cusd 210"
   },
   "ocd-division/country:us/state:il/county:rock_island": {
    "name": "Rock Island County",
@@ -2562,29 +2562,29 @@
   "ocd-division/country:us/state:il/place:fox_river_grove": {
    "name": "Fox River Grove village"
   },
-  "ocd-division/country:us/state:il/county:piatt/place:bement": {
-   "name": "Bement township"
+  "ocd-division/country:us/state:il/county:bureau/school_district:dalzell_sd_98": {
+   "name": "dalzell sd 98"
   },
   "ocd-division/country:us/state:il/county:mason/place:quiver": {
    "name": "Quiver township"
   },
-  "ocd-division/country:us/state:il/county:bureau/school_district:dalzell_sd_98": {
-   "name": "dalzell sd 98"
-  },
-  "ocd-division/country:us/state:il/county:livingston/place:charlotte": {
-   "name": "Charlotte township"
+  "ocd-division/country:us/state:il/county:piatt/place:bement": {
+   "name": "Bement township"
   },
   "ocd-division/country:us/state:il/county:hancock/place:pilot_grove": {
    "name": "Pilot Grove township"
   },
+  "ocd-division/country:us/state:il/county:livingston/place:charlotte": {
+   "name": "Charlotte township"
+  },
   "ocd-division/country:us/state:il/place:lynnville": {
    "name": "Lynnville village"
   },
-  "ocd-division/country:us/state:il/county:lake/place:west_deerfield": {
-   "name": "West Deerfield township"
-  },
   "ocd-division/country:us/state:il/place:lockport": {
    "name": "Lockport city"
+  },
+  "ocd-division/country:us/state:il/county:lake/place:west_deerfield": {
+   "name": "West Deerfield township"
   },
   "ocd-division/country:us/state:il/place:marietta": {
    "name": "Marietta village"
@@ -2598,14 +2598,14 @@
   "ocd-division/country:us/state:il/place:tovey": {
    "name": "Tovey village"
   },
-  "ocd-division/country:us/state:il/county:warren/place:hale": {
-   "name": "Hale township"
+  "ocd-division/country:us/state:il/county:iroquois/school_district:central_cusd_4": {
+   "name": "central cusd 4"
   },
   "ocd-division/country:us/state:il/county:calhoun/school_district:brussels_cusd_42": {
    "name": "brussels cusd 42"
   },
-  "ocd-division/country:us/state:il/county:iroquois/school_district:central_cusd_4": {
-   "name": "central cusd 4"
+  "ocd-division/country:us/state:il/county:warren/place:hale": {
+   "name": "Hale township"
   },
   "ocd-division/country:us/state:il/place:hindsboro": {
    "name": "Hindsboro village"
@@ -2646,20 +2646,20 @@
   "ocd-division/country:us/state:il/county:st_clair/school_district:st_clair_roe": {
    "name": "st clair roe"
   },
-  "ocd-division/country:us/state:il/county:pike/place:griggsville": {
-   "name": "Griggsville township"
-  },
   "ocd-division/country:us/state:il/place:ashley": {
    "name": "Ashley city"
+  },
+  "ocd-division/country:us/state:il/county:pike/place:griggsville": {
+   "name": "Griggsville township"
   },
   "ocd-division/country:us/state:il/county:warren/place:lenox": {
    "name": "Lenox township"
   },
-  "ocd-division/country:us/state:il/county:mchenry/school_district:harrison_sd_36": {
-   "name": "harrison sd 36"
-  },
   "ocd-division/country:us/state:il/county:bond/school_district:bond_county_cusd_2": {
    "name": "bond county cusd 2"
+  },
+  "ocd-division/country:us/state:il/county:mchenry/school_district:harrison_sd_36": {
+   "name": "harrison sd 36"
   },
   "ocd-division/country:us/state:il/county:wayne/place:arrington": {
    "name": "Arrington township"
@@ -2670,14 +2670,14 @@
     352
    ]
   },
-  "ocd-division/country:us/state:il/county:livingston/place:pike": {
-   "name": "Pike township"
-  },
   "ocd-division/country:us/state:il/county:winnebago/council_district:14": {
    "name": "Winnebago County Board District 14",
    "officeIndices": [
     353
    ]
+  },
+  "ocd-division/country:us/state:il/county:livingston/place:pike": {
+   "name": "Pike township"
   },
   "ocd-division/country:us/state:il/county:winnebago/council_district:11": {
    "name": "Winnebago County Board District 11",
@@ -2685,14 +2685,14 @@
     354
    ]
   },
+  "ocd-division/country:us/state:il/place:herrin": {
+   "name": "Herrin city"
+  },
   "ocd-division/country:us/state:il/county:winnebago/council_district:12": {
    "name": "Winnebago County Board District 12",
    "officeIndices": [
     355
    ]
-  },
-  "ocd-division/country:us/state:il/place:herrin": {
-   "name": "Herrin city"
   },
   "ocd-division/country:us/state:il/county:winnebago/council_district:10": {
    "name": "Winnebago County Board District 10",
@@ -2703,11 +2703,11 @@
   "ocd-division/country:us/state:il/county:logan/school_district:hartsburg_emden_cusd_21": {
    "name": "hartsburg emden cusd 21"
   },
-  "ocd-division/country:us/state:il/county:whiteside/place:fenton": {
-   "name": "Fenton township"
-  },
   "ocd-division/country:us/state:il/county:cook/school_district:niles_twp_district_for_spec_educ": {
    "name": "niles twp district for spec educ"
+  },
+  "ocd-division/country:us/state:il/county:whiteside/place:fenton": {
+   "name": "Fenton township"
   },
   "ocd-division/country:us/state:il/county:dupage/school_district:addison_sd_4": {
    "name": "addison sd 4"
@@ -2730,14 +2730,14 @@
     359
    ]
   },
-  "ocd-division/country:us/state:il/county:franklin/place:frankfort": {
-   "name": "Frankfort township"
-  },
   "ocd-division/country:us/state:il/county:winnebago/council_district:15": {
    "name": "Winnebago County Board District 15",
    "officeIndices": [
     360
    ]
+  },
+  "ocd-division/country:us/state:il/county:franklin/place:frankfort": {
+   "name": "Frankfort township"
   },
   "ocd-division/country:us/state:il/county:winnebago/council_district:16": {
    "name": "Winnebago County Board District 16",
@@ -2745,11 +2745,11 @@
     361
    ]
   },
-  "ocd-division/country:us/state:il/county:pike/place:hardin": {
-   "name": "Hardin township"
-  },
   "ocd-division/country:us/state:il/place:edwardsville": {
    "name": "Edwardsville city"
+  },
+  "ocd-division/country:us/state:il/county:pike/place:hardin": {
+   "name": "Hardin township"
   },
   "ocd-division/country:us/state:il/county:vermilion/school_district:hoopeston_area_cusd_11": {
    "name": "hoopeston area cusd 11"
@@ -2803,20 +2803,20 @@
   "ocd-division/country:us/state:il/county:lasalle/place:deer_park": {
    "name": "Deer Park township"
   },
-  "ocd-division/country:us/state:il/circuit_court:8": {
-   "name": "IL State Circuit Court - 8th District"
-  },
   "ocd-division/country:us/state:il/county:will/place:will": {
    "name": "Will township"
+  },
+  "ocd-division/country:us/state:il/circuit_court:8": {
+   "name": "IL State Circuit Court - 8th District"
   },
   "ocd-division/country:us/state:il/circuit_court:9": {
    "name": "IL State Circuit Court - 9th District"
   },
-  "ocd-division/country:us/state:il/county:cook/school_district:region_05_north_cook_isc_1": {
-   "name": "region 05 north cook isc 1"
-  },
   "ocd-division/country:us/state:il/place:brussels": {
    "name": "Brussels village"
+  },
+  "ocd-division/country:us/state:il/county:cook/school_district:region_05_north_cook_isc_1": {
+   "name": "region 05 north cook isc 1"
   },
   "ocd-division/country:us/state:il/county:winnebago/council_district:20": {
    "name": "Winnebago County Board District 20",
@@ -2845,26 +2845,26 @@
   "ocd-division/country:us/state:il/circuit_court:7": {
    "name": "IL State Circuit Court - 7th District"
   },
-  "ocd-division/country:us/state:il/circuit_court:4": {
-   "name": "IL State Circuit Court - 4th District"
+  "ocd-division/country:us/state:il/place:stockton": {
+   "name": "Stockton village"
   },
   "ocd-division/country:us/state:il/county:franklin/place:barren": {
    "name": "Barren township"
   },
-  "ocd-division/country:us/state:il/place:stockton": {
-   "name": "Stockton village"
+  "ocd-division/country:us/state:il/circuit_court:4": {
+   "name": "IL State Circuit Court - 4th District"
   },
   "ocd-division/country:us/state:il/circuit_court:5": {
    "name": "IL State Circuit Court - 5th District"
-  },
-  "ocd-division/country:us/state:il/county:macoupin/place:bird": {
-   "name": "Bird township"
   },
   "ocd-division/country:us/state:il/county:adams/council_district:7": {
    "name": "Adams County Board District 7",
    "officeIndices": [
     378
    ]
+  },
+  "ocd-division/country:us/state:il/county:macoupin/place:bird": {
+   "name": "Bird township"
   },
   "ocd-division/country:us/state:il/county:adams/council_district:6": {
    "name": "Adams County Board District 6",
@@ -2878,17 +2878,17 @@
   "ocd-division/country:us/state:il/county:richland/place:noble": {
    "name": "Noble township"
   },
-  "ocd-division/country:us/state:il/county:sangamon/place:curran": {
-   "name": "Curran township"
-  },
   "ocd-division/country:us/state:il/place:farmer_city": {
    "name": "Farmer City city"
   },
-  "ocd-division/country:us/state:il/county:lasalle/school_district:wallace_ccsd_195": {
-   "name": "wallace ccsd 195"
+  "ocd-division/country:us/state:il/county:sangamon/place:curran": {
+   "name": "Curran township"
   },
   "ocd-division/country:us/state:il/county:fayette/school_district:okaw_area_vocational_center": {
    "name": "okaw area vocational center"
+  },
+  "ocd-division/country:us/state:il/county:lasalle/school_district:wallace_ccsd_195": {
+   "name": "wallace ccsd 195"
   },
   "ocd-division/country:us/state:il/county:adams/council_district:1": {
    "name": "Adams County Board District 1",
@@ -2923,14 +2923,14 @@
     384
    ]
   },
-  "ocd-division/country:us/state:il/county:adams/place:northeast": {
-   "name": "Northeast township"
-  },
   "ocd-division/country:us/state:il/county:kane/council_district:23": {
    "name": "Kane County Board District 23",
    "officeIndices": [
     385
    ]
+  },
+  "ocd-division/country:us/state:il/county:adams/place:northeast": {
+   "name": "Northeast township"
   },
   "ocd-division/country:us/state:il/county:kane/council_district:24": {
    "name": "Kane County Board District 24",
@@ -3105,14 +3105,14 @@
   "ocd-division/country:us/state:il/county:crawford/school_district:oblong_cusd_4": {
    "name": "oblong cusd 4"
   },
+  "ocd-division/country:us/state:il/place:elmwood_park": {
+   "name": "Elmwood Park village"
+  },
   "ocd-division/country:us/state:il/cd:16": {
    "name": "Illinois's 16th congressional district",
    "officeIndices": [
     1
    ]
-  },
-  "ocd-division/country:us/state:il/place:elmwood_park": {
-   "name": "Elmwood Park village"
   },
   "ocd-division/country:us/state:il/county:crawford/council_district:3": {
    "name": "Crawford County Board District 3",
@@ -3120,17 +3120,17 @@
     397
    ]
   },
-  "ocd-division/country:us/state:il/cd:13": {
-   "name": "Illinois's 13th congressional district",
-   "officeIndices": [
-    2
-   ]
-  },
   "ocd-division/country:us/state:il/place:bulpitt": {
    "name": "Bulpitt village"
   },
   "ocd-division/country:us/state:il/county:hancock/place:montebello": {
    "name": "Montebello township"
+  },
+  "ocd-division/country:us/state:il/cd:13": {
+   "name": "Illinois's 13th congressional district",
+   "officeIndices": [
+    2
+   ]
   },
   "ocd-division/country:us/state:il/cd:14": {
    "name": "Illinois's 14th congressional district",
@@ -3162,11 +3162,11 @@
     5
    ]
   },
-  "ocd-division/country:us/state:il/place:belleville": {
-   "name": "Belleville city"
-  },
   "ocd-division/country:us/state:il/place:hidalgo": {
    "name": "Hidalgo village"
+  },
+  "ocd-division/country:us/state:il/place:belleville": {
+   "name": "Belleville city"
   },
   "ocd-division/country:us/state:il/county:logan/school_district:mt_pulaski_cusd_23": {
    "name": "mt pulaski cusd 23"
@@ -3225,16 +3225,16 @@
     409
    ]
   },
-  "ocd-division/country:us/state:il/cd:10": {
-   "name": "Illinois's 10th congressional district",
-   "officeIndices": [
-    6
-   ]
-  },
   "ocd-division/country:us/state:il/county:kankakee/council_district:25": {
    "name": "Kankakee County Board District 25",
    "officeIndices": [
     411
+   ]
+  },
+  "ocd-division/country:us/state:il/cd:10": {
+   "name": "Illinois's 10th congressional district",
+   "officeIndices": [
+    6
    ]
   },
   "ocd-division/country:us/state:il/county:crawford/council_district:5": {
@@ -3267,16 +3267,16 @@
     7
    ]
   },
-  "ocd-division/country:us/state:il/cd:11": {
-   "name": "Illinois's 11th congressional district",
-   "officeIndices": [
-    8
-   ]
-  },
   "ocd-division/country:us/state:il/county:kankakee/council_district:28": {
    "name": "Kankakee County Board District 28",
    "officeIndices": [
     415
+   ]
+  },
+  "ocd-division/country:us/state:il/cd:11": {
+   "name": "Illinois's 11th congressional district",
+   "officeIndices": [
+    8
    ]
   },
   "ocd-division/country:us/state:il/county:cook/school_district:northwest_suburban_ed_to_careers": {
@@ -4894,14 +4894,14 @@
     589
    ]
   },
+  "ocd-division/country:us/state:il/place:clayton": {
+   "name": "Clayton village"
+  },
   "ocd-division/country:us/state:il/county:lake/council_district:11": {
    "name": "Lake County Board District 11",
    "officeIndices": [
     590
    ]
-  },
-  "ocd-division/country:us/state:il/place:clayton": {
-   "name": "Clayton village"
   },
   "ocd-division/country:us/state:il/county:lake/council_district:10": {
    "name": "Lake County Board District 10",
@@ -5313,8 +5313,8 @@
     629
    ]
   },
-  "ocd-division/country:us/state:il/county:mchenry/place:algonquin": {
-   "name": "Algonquin township"
+  "ocd-division/country:us/state:il/place:smithton": {
+   "name": "Smithton village"
   },
   "ocd-division/country:us/state:il/county:champaign/council_district:7": {
    "name": "Champaign County Board District 7",
@@ -5322,8 +5322,14 @@
     630
    ]
   },
-  "ocd-division/country:us/state:il/place:smithton": {
-   "name": "Smithton village"
+  "ocd-division/country:us/state:il/county:mchenry/place:algonquin": {
+   "name": "Algonquin township"
+  },
+  "ocd-division/country:us/state:il/place:waterloo": {
+   "name": "Waterloo city"
+  },
+  "ocd-division/country:us/state:il/county:kankakee/school_district:kankakee_sd_111": {
+   "name": "kankakee sd 111"
   },
   "ocd-division/country:us/state:il/county:champaign/council_district:6": {
    "name": "Champaign County Board District 6",
@@ -5331,23 +5337,14 @@
     631
    ]
   },
-  "ocd-division/country:us/state:il/county:kankakee/school_district:kankakee_sd_111": {
-   "name": "kankakee sd 111"
-  },
-  "ocd-division/country:us/state:il/place:waterloo": {
-   "name": "Waterloo city"
-  },
-  "ocd-division/country:us/state:il/county:mercer/place:preemption": {
-   "name": "Preemption township"
-  },
   "ocd-division/country:us/state:il/county:champaign/council_district:1": {
    "name": "Champaign County Board District 1",
    "officeIndices": [
     632
    ]
   },
-  "ocd-division/country:us/state:il/county:cook/school_district:ridgeland_sd_122": {
-   "name": "ridgeland sd 122"
+  "ocd-division/country:us/state:il/county:mercer/place:preemption": {
+   "name": "Preemption township"
   },
   "ocd-division/country:us/state:il/county:champaign/council_district:3": {
    "name": "Champaign County Board District 3",
@@ -5355,32 +5352,35 @@
     633
    ]
   },
+  "ocd-division/country:us/state:il/county:cook/school_district:ridgeland_sd_122": {
+   "name": "ridgeland sd 122"
+  },
   "ocd-division/country:us/state:il/county:champaign/council_district:2": {
    "name": "Champaign County Board District 2",
    "officeIndices": [
     634
    ]
   },
-  "ocd-division/country:us/state:il/county:fulton/place:young_hickory": {
-   "name": "Young Hickory township"
-  },
   "ocd-division/country:us/state:il/place:dahlgren": {
    "name": "Dahlgren village"
+  },
+  "ocd-division/country:us/state:il/county:fulton/place:young_hickory": {
+   "name": "Young Hickory township"
   },
   "ocd-division/country:us/state:il/place:cedar_point": {
    "name": "Cedar Point village"
   },
-  "ocd-division/country:us/state:il/county:macoupin/place:barr": {
-   "name": "Barr township"
-  },
   "ocd-division/country:us/state:il/county:jersey/place:elsah": {
    "name": "Elsah township"
   },
-  "ocd-division/country:us/state:il/county:fulton/place:canton": {
-   "name": "Canton township"
+  "ocd-division/country:us/state:il/county:macoupin/place:barr": {
+   "name": "Barr township"
   },
   "ocd-division/country:us/state:il/county:jefferson/school_district:mcclellan_ccsd_12": {
    "name": "mcclellan ccsd 12"
+  },
+  "ocd-division/country:us/state:il/county:fulton/place:canton": {
+   "name": "Canton township"
   },
   "ocd-division/country:us/state:il/county:logan": {
    "name": "Logan County",
@@ -5411,11 +5411,11 @@
   "ocd-division/country:us/state:il/county:mchenry/place:richmond": {
    "name": "Richmond township"
   },
-  "ocd-division/country:us/state:il/county:lasalle/school_district:lasalle_putnam_alliance": {
-   "name": "lasalle putnam alliance"
-  },
   "ocd-division/country:us/state:il/county:lasalle/place:groveland": {
    "name": "Groveland township"
+  },
+  "ocd-division/country:us/state:il/county:lasalle/school_district:lasalle_putnam_alliance": {
+   "name": "lasalle putnam alliance"
   },
   "ocd-division/country:us/state:il/place:bellevue": {
    "name": "Bellevue village"
@@ -5447,14 +5447,14 @@
     643
    ]
   },
+  "ocd-division/country:us/state:il/county:ford/place:button": {
+   "name": "Button township"
+  },
   "ocd-division/country:us/state:il/county:rock_island/council_district:7": {
    "name": "Rock Island County Board District 7",
    "officeIndices": [
     644
    ]
-  },
-  "ocd-division/country:us/state:il/county:ford/place:button": {
-   "name": "Button township"
   },
   "ocd-division/country:us/state:il/county:rock_island/council_district:8": {
    "name": "Rock Island County Board District 8",
@@ -5462,14 +5462,14 @@
     645
    ]
   },
+  "ocd-division/country:us/state:il/county:cook/school_district:orland_sd_135": {
+   "name": "orland sd 135"
+  },
   "ocd-division/country:us/state:il/county:rock_island/council_district:1": {
    "name": "Rock Island County Board District 1",
    "officeIndices": [
     646
    ]
-  },
-  "ocd-division/country:us/state:il/county:cook/school_district:orland_sd_135": {
-   "name": "orland sd 135"
   },
   "ocd-division/country:us/state:il/county:rock_island/council_district:2": {
    "name": "Rock Island County Board District 2",
@@ -5495,11 +5495,11 @@
   "ocd-division/country:us/state:il/county:champaign/place:east_bend": {
    "name": "East Bend township"
   },
-  "ocd-division/country:us/state:il/county:stephenson/school_district:pearl_city_cusd_200": {
-   "name": "pearl city cusd 200"
-  },
   "ocd-division/country:us/state:il/county:greene/place:athensville": {
    "name": "Athensville township"
+  },
+  "ocd-division/country:us/state:il/county:stephenson/school_district:pearl_city_cusd_200": {
+   "name": "pearl city cusd 200"
   },
   "ocd-division/country:us/state:il/county:vermilion/school_district:vermilion_voc_ed_deliver_system": {
    "name": "vermilion voc ed deliver system"
@@ -5509,6 +5509,9 @@
   },
   "ocd-division/country:us/state:il/place:oak_lawn": {
    "name": "Oak Lawn village"
+  },
+  "ocd-division/country:us/state:il/county:clinton/place:st_rose": {
+   "name": "St. Rose township"
   },
   "ocd-division/country:us/state:il/county:macon": {
    "name": "Macon County",
@@ -5524,17 +5527,14 @@
     658
    ]
   },
-  "ocd-division/country:us/state:il/county:clinton/place:st_rose": {
-   "name": "St. Rose township"
-  },
   "ocd-division/country:us/state:il/place:enfield": {
    "name": "Enfield village"
   },
-  "ocd-division/country:us/state:il/county:lake/school_district:woodland_ccsd_50": {
-   "name": "woodland ccsd 50"
-  },
   "ocd-division/country:us/state:il/county:jasper/place:ste_marie": {
    "name": "Ste. Marie township"
+  },
+  "ocd-division/country:us/state:il/county:lake/school_district:woodland_ccsd_50": {
+   "name": "woodland ccsd 50"
   },
   "ocd-division/country:us/state:il/county:bureau/council_district:6": {
    "name": "Bureau County Board District 6",
@@ -5548,17 +5548,14 @@
     660
    ]
   },
-  "ocd-division/country:us/state:il/county:logan/place:west_lincoln": {
-   "name": "West Lincoln township"
-  },
   "ocd-division/country:us/state:il/county:bureau/council_district:8": {
    "name": "Bureau County Board District 8",
    "officeIndices": [
     661
    ]
   },
-  "ocd-division/country:us/state:il/county:shelby/place:clarksburg": {
-   "name": "Clarksburg township"
+  "ocd-division/country:us/state:il/county:logan/place:west_lincoln": {
+   "name": "West Lincoln township"
   },
   "ocd-division/country:us/state:il/county:bureau/council_district:9": {
    "name": "Bureau County Board District 9",
@@ -5566,8 +5563,8 @@
     662
    ]
   },
-  "ocd-division/country:us/state:il/county:cook/school_district:south_holland_sd_151": {
-   "name": "south holland sd 151"
+  "ocd-division/country:us/state:il/county:shelby/place:clarksburg": {
+   "name": "Clarksburg township"
   },
   "ocd-division/country:us/state:il/county:bureau/council_district:2": {
    "name": "Bureau County Board District 2",
@@ -5575,8 +5572,8 @@
     663
    ]
   },
-  "ocd-division/country:us/state:il/county:cook/school_district:south_holland_sd_150": {
-   "name": "south holland sd 150"
+  "ocd-division/country:us/state:il/county:cook/school_district:south_holland_sd_151": {
+   "name": "south holland sd 151"
   },
   "ocd-division/country:us/state:il/county:bureau/council_district:3": {
    "name": "Bureau County Board District 3",
@@ -5584,14 +5581,17 @@
     664
    ]
   },
+  "ocd-division/country:us/state:il/county:cook/school_district:south_holland_sd_150": {
+   "name": "south holland sd 150"
+  },
+  "ocd-division/country:us/state:il/county:will/school_district:fairmont_sd_89": {
+   "name": "fairmont sd 89"
+  },
   "ocd-division/country:us/state:il/county:bureau/council_district:4": {
    "name": "Bureau County Board District 4",
    "officeIndices": [
     665
    ]
-  },
-  "ocd-division/country:us/state:il/county:will/school_district:fairmont_sd_89": {
-   "name": "fairmont sd 89"
   },
   "ocd-division/country:us/state:il/county:bureau/council_district:5": {
    "name": "Bureau County Board District 5",
@@ -5617,11 +5617,11 @@
   "ocd-division/country:us/state:il/place:venedy": {
    "name": "Venedy village"
   },
-  "ocd-division/country:us/state:il/place:benld": {
-   "name": "Benld city"
-  },
   "ocd-division/country:us/state:il/place:plainville": {
    "name": "Plainville village"
+  },
+  "ocd-division/country:us/state:il/place:benld": {
+   "name": "Benld city"
   },
   "ocd-division/country:us/state:il/county:ogle/place:forreston": {
    "name": "Forreston township"
@@ -5629,11 +5629,11 @@
   "ocd-division/country:us/state:il/county:tazewell/place:malone": {
    "name": "Malone township"
   },
-  "ocd-division/country:us/state:il/county:st_clair/school_district:brooklyn_ud_188": {
-   "name": "brooklyn ud 188"
-  },
   "ocd-division/country:us/state:il/place:whiteash": {
    "name": "Whiteash village"
+  },
+  "ocd-division/country:us/state:il/county:st_clair/school_district:brooklyn_ud_188": {
+   "name": "brooklyn ud 188"
   },
   "ocd-division/country:us/state:il/place:oakwood_hills": {
    "name": "Oakwood Hills village"
@@ -5644,14 +5644,14 @@
   "ocd-division/country:us/state:il/place:carbon_cliff": {
    "name": "Carbon Cliff village"
   },
-  "ocd-division/country:us/state:il/county:rock_island/place:rock_island": {
-   "name": "Rock Island township"
+  "ocd-division/country:us/state:il/place:grafton": {
+   "name": "Grafton city"
   },
   "ocd-division/country:us/state:il/county:grundy/place:morris": {
    "name": "Morris township"
   },
-  "ocd-division/country:us/state:il/place:grafton": {
-   "name": "Grafton city"
+  "ocd-division/country:us/state:il/county:rock_island/place:rock_island": {
+   "name": "Rock Island township"
   },
   "ocd-division/country:us/state:il/county:stark/place:toulon": {
    "name": "Toulon township"
@@ -5671,11 +5671,11 @@
   "ocd-division/country:us/state:il/county:dekalb/place:milan": {
    "name": "Milan township"
   },
-  "ocd-division/country:us/state:il/place:caledonia": {
-   "name": "Caledonia village"
-  },
   "ocd-division/country:us/state:il/place:rolling_meadows": {
    "name": "Rolling Meadows city"
+  },
+  "ocd-division/country:us/state:il/place:caledonia": {
+   "name": "Caledonia village"
   },
   "ocd-division/country:us/state:il/place:granville": {
    "name": "Granville village"
@@ -5683,20 +5683,20 @@
   "ocd-division/country:us/state:il/county:ogle/place:pine_rock": {
    "name": "Pine Rock township"
   },
-  "ocd-division/country:us/state:il/county:montgomery/place:north_litchfield": {
-   "name": "North Litchfield township"
-  },
   "ocd-division/country:us/state:il/place:maeystown": {
    "name": "Maeystown village"
+  },
+  "ocd-division/country:us/state:il/county:montgomery/place:north_litchfield": {
+   "name": "North Litchfield township"
   },
   "ocd-division/country:us/state:il/place:camp_point": {
    "name": "Camp Point village"
   },
-  "ocd-division/country:us/state:il/county:mcdonough/school_district:west_prairie_cusd_103": {
-   "name": "west prairie cusd 103"
-  },
   "ocd-division/country:us/state:il/county:livingston/place:union": {
    "name": "Union township"
+  },
+  "ocd-division/country:us/state:il/county:mcdonough/school_district:west_prairie_cusd_103": {
+   "name": "west prairie cusd 103"
   },
   "ocd-division/country:us/state:il/county:jackson/council_district:7": {
    "name": "Jackson County Board District 7",
@@ -5710,14 +5710,14 @@
     669
    ]
   },
+  "ocd-division/country:us/state:il/place:donnellson": {
+   "name": "Donnellson village"
+  },
   "ocd-division/country:us/state:il/county:jackson/council_district:6": {
    "name": "Jackson County Board District 6",
    "officeIndices": [
     670
    ]
-  },
-  "ocd-division/country:us/state:il/place:donnellson": {
-   "name": "Donnellson village"
   },
   "ocd-division/country:us/state:il/county:knox/place:walnut_grove": {
    "name": "Walnut Grove township"
@@ -5731,17 +5731,14 @@
     671
    ]
   },
+  "ocd-division/country:us/state:il/county:will/school_district:richland_gsd_88a": {
+   "name": "richland gsd 88a"
+  },
   "ocd-division/country:us/state:il/county:jackson/council_district:4": {
    "name": "Jackson County Board District 4",
    "officeIndices": [
     672
    ]
-  },
-  "ocd-division/country:us/state:il/county:will/school_district:richland_gsd_88a": {
-   "name": "richland gsd 88a"
-  },
-  "ocd-division/country:us/state:il/county:franklin/school_district:akin_ccsd_91": {
-   "name": "akin ccsd 91"
   },
   "ocd-division/country:us/state:il/county:jackson/council_district:1": {
    "name": "Jackson County Board District 1",
@@ -5749,8 +5746,11 @@
     673
    ]
   },
-  "ocd-division/country:us/state:il/county:dekalb/school_district:somonauk_cusd_432": {
-   "name": "somonauk cusd 432"
+  "ocd-division/country:us/state:il/county:franklin/school_district:akin_ccsd_91": {
+   "name": "akin ccsd 91"
+  },
+  "ocd-division/country:us/state:il/place:coffeen": {
+   "name": "Coffeen city"
   },
   "ocd-division/country:us/state:il/county:jackson/council_district:2": {
    "name": "Jackson County Board District 2",
@@ -5758,11 +5758,8 @@
     674
    ]
   },
-  "ocd-division/country:us/state:il/place:coffeen": {
-   "name": "Coffeen city"
-  },
-  "ocd-division/country:us/state:il/county:lee/school_district:paw_paw_cusd_271": {
-   "name": "paw paw cusd 271"
+  "ocd-division/country:us/state:il/county:dekalb/school_district:somonauk_cusd_432": {
+   "name": "somonauk cusd 432"
   },
   "ocd-division/country:us/state:il/county:lake/council_district:21": {
    "name": "Lake County Board District 21",
@@ -5770,17 +5767,20 @@
     675
    ]
   },
+  "ocd-division/country:us/state:il/county:lee/school_district:paw_paw_cusd_271": {
+   "name": "paw paw cusd 271"
+  },
   "ocd-division/country:us/state:il/county:rock_island/school_district:rockridge_cusd_300": {
    "name": "rockridge cusd 300"
-  },
-  "ocd-division/country:us/state:il/county:morgan/school_district:franklin_cusd_1": {
-   "name": "franklin cusd 1"
   },
   "ocd-division/country:us/state:il/county:lake/council_district:20": {
    "name": "Lake County Board District 20",
    "officeIndices": [
     676
    ]
+  },
+  "ocd-division/country:us/state:il/county:morgan/school_district:franklin_cusd_1": {
+   "name": "franklin cusd 1"
   },
   "ocd-division/country:us/state:il/place:posen": {
    "name": "Posen village"
@@ -5848,9 +5848,6 @@
   "ocd-division/country:us/state:il/county:ogle/school_district:lee~ogle_roe": {
    "name": "lee/ogle roe"
   },
-  "ocd-division/country:us/state:il/county:rock_island/place:south_rock_island": {
-   "name": "South Rock Island township"
-  },
   "ocd-division/country:us/state:il/county:mclean": {
    "name": "McLean County",
    "officeIndices": [
@@ -5864,6 +5861,9 @@
     686,
     687
    ]
+  },
+  "ocd-division/country:us/state:il/county:rock_island/place:south_rock_island": {
+   "name": "South Rock Island township"
   },
   "ocd-division/country:us/state:il/county:tazewell/school_district:delavan_cusd_703": {
    "name": "delavan cusd 703"
@@ -6352,11 +6352,11 @@
   "ocd-division/country:us/state:il/county:tazewell/place:hopedale": {
    "name": "Hopedale township"
   },
-  "ocd-division/country:us/state:il/place:harvey": {
-   "name": "Harvey city"
-  },
   "ocd-division/country:us/state:il/place:henderson": {
    "name": "Henderson village"
+  },
+  "ocd-division/country:us/state:il/place:harvey": {
+   "name": "Harvey city"
   },
   "ocd-division/country:us/state:il/county:whiteside/place:union_grove": {
    "name": "Union Grove township"
@@ -7175,14 +7175,14 @@
     752
    ]
   },
+  "ocd-division/country:us/state:il/county:franklin/school_district:sesser-valier_cusd_196": {
+   "name": "sesser-valier cusd 196"
+  },
   "ocd-division/country:us/state:il/county:lake/council_district:8": {
    "name": "Lake County Board District 8",
    "officeIndices": [
     753
    ]
-  },
-  "ocd-division/country:us/state:il/county:franklin/school_district:sesser-valier_cusd_196": {
-   "name": "sesser-valier cusd 196"
   },
   "ocd-division/country:us/state:il/county:lake/council_district:7": {
    "name": "Lake County Board District 7",
@@ -7430,11 +7430,11 @@
   "ocd-division/country:us/state:il/county:bureau/place:macon": {
    "name": "Macon township"
   },
-  "ocd-division/country:us/state:il/place:flossmoor": {
-   "name": "Flossmoor village"
-  },
   "ocd-division/country:us/state:il/place:springfield/ward:4": {
    "name": "Springfield IL ward 4"
+  },
+  "ocd-division/country:us/state:il/place:flossmoor": {
+   "name": "Flossmoor village"
   },
   "ocd-division/country:us/state:il/county:jefferson/school_district:woodlawn_chsd_205": {
    "name": "woodlawn chsd 205"
@@ -7861,14 +7861,14 @@
     796
    ]
   },
+  "ocd-division/country:us/state:il/place:loda": {
+   "name": "Loda village"
+  },
   "ocd-division/country:us/state:il/county:cook/council_district:15": {
    "name": "Cook County Commission District 15",
    "officeIndices": [
     797
    ]
-  },
-  "ocd-division/country:us/state:il/place:loda": {
-   "name": "Loda village"
   },
   "ocd-division/country:us/state:il/county:cook/council_district:16": {
    "name": "Cook County Commission District 16",
@@ -8199,14 +8199,14 @@
     843
    ]
   },
+  "ocd-division/country:us/state:il/place:red_bud": {
+   "name": "Red Bud city"
+  },
   "ocd-division/country:us/state:il/place:chicago/ward:4": {
    "name": "Chicago IL - ward 4",
    "officeIndices": [
     844
    ]
-  },
-  "ocd-division/country:us/state:il/place:red_bud": {
-   "name": "Red Bud city"
   },
   "ocd-division/country:us/state:il/county:cook/school_district:la_grange_sd_102": {
    "name": "la grange sd 102"
@@ -8222,14 +8222,14 @@
     850
    ]
   },
+  "ocd-division/country:us/state:il/place:lake_in_the_hills": {
+   "name": "Lake in the Hills village"
+  },
   "ocd-division/country:us/state:il/place:chicago/ward:3": {
    "name": "Chicago IL - ward 3",
    "officeIndices": [
     851
    ]
-  },
-  "ocd-division/country:us/state:il/place:lake_in_the_hills": {
-   "name": "Lake in the Hills village"
   },
   "ocd-division/country:us/state:il/place:chicago/ward:6": {
    "name": "Chicago IL - ward 6",
@@ -8255,14 +8255,14 @@
     855
    ]
   },
+  "ocd-division/country:us/state:il/place:gibson_city": {
+   "name": "Gibson City city"
+  },
   "ocd-division/country:us/state:il/place:chicago/ward:8": {
    "name": "Chicago IL - ward 8",
    "officeIndices": [
     856
    ]
-  },
-  "ocd-division/country:us/state:il/place:gibson_city": {
-   "name": "Gibson City city"
   },
   "ocd-division/country:us/state:il/county:ford/council_district:3": {
    "name": "Ford County Board District 3",
@@ -9555,14 +9555,14 @@
     967
    ]
   },
+  "ocd-division/country:us/state:il/place:rochester": {
+   "name": "Rochester village"
+  },
   "ocd-division/country:us/state:il/county:kendall/council_district:2": {
    "name": "Kendall County Board District 2",
    "officeIndices": [
     968
    ]
-  },
-  "ocd-division/country:us/state:il/place:rochester": {
-   "name": "Rochester village"
   },
   "ocd-division/country:us/state:il/place:willisville": {
    "name": "Willisville village"
@@ -9808,23 +9808,23 @@
   "ocd-division/country:us/state:il/county:fulton/place:woodland": {
    "name": "Woodland township"
   },
+  "ocd-division/country:us/state:il/county:jo_daviess": {
+   "name": "Jo Daviess County",
+   "officeIndices": [
+    991,
+    992,
+    993,
+    994,
+    995,
+    996
+   ]
+  },
   "ocd-division/country:us/state:il": {
    "name": "Illinois",
    "officeIndices": [
     9,
     109,
     110,
-    991,
-    992,
-    993,
-    994
-   ]
-  },
-  "ocd-division/country:us/state:il/county:jo_daviess": {
-   "name": "Jo Daviess County",
-   "officeIndices": [
-    995,
-    996,
     997,
     998,
     999,
@@ -10533,14 +10533,14 @@
   "ocd-division/country:us/state:il/place:liverpool": {
    "name": "Liverpool village"
   },
+  "ocd-division/country:us/state:il/place:shipman": {
+   "name": "Shipman town"
+  },
   "ocd-division/country:us/state:il/cd:2": {
    "name": "Illinois's 2nd congressional district",
    "officeIndices": [
     10
    ]
-  },
-  "ocd-division/country:us/state:il/place:shipman": {
-   "name": "Shipman town"
   },
   "ocd-division/country:us/state:il/cd:3": {
    "name": "Illinois's 3rd congressional district",
@@ -10587,14 +10587,14 @@
   "ocd-division/country:us/state:il/county:madison/place:wood_river": {
    "name": "Wood River township"
   },
+  "ocd-division/country:us/state:il/place:ohio": {
+   "name": "Ohio village"
+  },
   "ocd-division/country:us/state:il/cd:7": {
    "name": "Illinois's 7th congressional district",
    "officeIndices": [
     16
    ]
-  },
-  "ocd-division/country:us/state:il/place:ohio": {
-   "name": "Ohio village"
   },
   "ocd-division/country:us/state:il/cd:8": {
    "name": "Illinois's 8th congressional district",
@@ -11112,11 +11112,11 @@
   "ocd-division/country:us/state:il/county:dupage/school_district:itasca_sd_10": {
    "name": "itasca sd 10"
   },
-  "ocd-division/country:us/state:il/county:cumberland/place:spring_point": {
-   "name": "Spring Point township"
-  },
   "ocd-division/country:us/state:il/county:cook/school_district:park_forest_sd_163": {
    "name": "park forest sd 163"
+  },
+  "ocd-division/country:us/state:il/county:cumberland/place:spring_point": {
+   "name": "Spring Point township"
   },
   "ocd-division/country:us/state:il/county:jo_daviess/school_district:east_dubuque_usd_119": {
    "name": "east dubuque usd 119"
@@ -11127,11 +11127,11 @@
   "ocd-division/country:us/state:il/county:sangamon/school_district:new_berlin_cusd_16": {
    "name": "new berlin cusd 16"
   },
-  "ocd-division/country:us/state:il/county:cook/place:new_trier": {
-   "name": "New Trier township"
-  },
   "ocd-division/country:us/state:il/place:stickney": {
    "name": "Stickney village"
+  },
+  "ocd-division/country:us/state:il/county:cook/place:new_trier": {
+   "name": "New Trier township"
   },
   "ocd-division/country:us/state:il/county:clark/place:dolson": {
    "name": "Dolson township"
@@ -11142,17 +11142,17 @@
   "ocd-division/country:us/state:il/county:knox/place:haw_creek": {
    "name": "Haw Creek township"
   },
-  "ocd-division/country:us/state:il/county:richland/place:german": {
-   "name": "German township"
-  },
   "ocd-division/country:us/state:il/place:yorkville": {
    "name": "Yorkville city"
   },
-  "ocd-division/country:us/state:il/county:lee/place:palmyra": {
-   "name": "Palmyra township"
+  "ocd-division/country:us/state:il/county:richland/place:german": {
+   "name": "German township"
   },
   "ocd-division/country:us/state:il/county:coles/place:morgan": {
    "name": "Morgan township"
+  },
+  "ocd-division/country:us/state:il/county:lee/place:palmyra": {
+   "name": "Palmyra township"
   },
   "ocd-division/country:us/state:il/county:kendall/school_district:lisbon_ccsd_90": {
    "name": "lisbon ccsd 90"
@@ -11160,11 +11160,11 @@
   "ocd-division/country:us/state:il/place:bannockburn": {
    "name": "Bannockburn village"
   },
-  "ocd-division/country:us/state:il/county:cook/school_district:northbrook~glenview_sd_30": {
-   "name": "northbrook/glenview sd 30"
-  },
   "ocd-division/country:us/state:il/place:ohlman": {
    "name": "Ohlman village"
+  },
+  "ocd-division/country:us/state:il/county:cook/school_district:northbrook~glenview_sd_30": {
+   "name": "northbrook/glenview sd 30"
   },
   "ocd-division/country:us/state:il/place:dwight": {
    "name": "Dwight village"
@@ -11181,32 +11181,32 @@
   "ocd-division/country:us/state:il/place:west_city": {
    "name": "West City village"
   },
-  "ocd-division/country:us/state:il/county:peoria/place:kickapoo": {
-   "name": "Kickapoo township"
-  },
   "ocd-division/country:us/state:il/county:adams/place:gilmer": {
    "name": "Gilmer township"
   },
-  "ocd-division/country:us/state:il/county:mclean/place:empire": {
-   "name": "Empire township"
+  "ocd-division/country:us/state:il/county:peoria/place:kickapoo": {
+   "name": "Kickapoo township"
   },
   "ocd-division/country:us/state:il/county:hamilton/place:twigg": {
    "name": "Twigg township"
   },
-  "ocd-division/country:us/state:il/county:hancock/school_district:la_harpe_csd_347": {
-   "name": "la harpe csd 347"
+  "ocd-division/country:us/state:il/county:mclean/place:empire": {
+   "name": "Empire township"
   },
   "ocd-division/country:us/state:il/place:mendon": {
    "name": "Mendon village"
   },
+  "ocd-division/country:us/state:il/county:hancock/school_district:la_harpe_csd_347": {
+   "name": "la harpe csd 347"
+  },
   "ocd-division/country:us/state:il/county:sangamon/school_district:tri_city_cusd_1": {
    "name": "tri city cusd 1"
   },
-  "ocd-division/country:us/state:il/county:warren/school_district:henderson~mercer~warren_roe": {
-   "name": "henderson/mercer/warren roe"
-  },
   "ocd-division/country:us/state:il/county:dupage/school_district:technology_center_of_dupage": {
    "name": "technology center of dupage"
+  },
+  "ocd-division/country:us/state:il/county:warren/school_district:henderson~mercer~warren_roe": {
+   "name": "henderson/mercer/warren roe"
   },
   "ocd-division/country:us/state:il/place:galatia": {
    "name": "Galatia village"
@@ -11223,14 +11223,17 @@
   "ocd-division/country:us/state:il/county:dupage/school_district:chsd_94": {
    "name": "chsd 94"
   },
-  "ocd-division/country:us/state:il/county:marion/place:carrigan": {
-   "name": "Carrigan township"
-  },
   "ocd-division/country:us/state:il/county:dupage/school_district:chsd_99": {
    "name": "chsd 99"
   },
+  "ocd-division/country:us/state:il/county:marion/place:carrigan": {
+   "name": "Carrigan township"
+  },
   "ocd-division/country:us/state:il/place:walnut": {
    "name": "Walnut village"
+  },
+  "ocd-division/country:us/state:il/place:holiday_hills": {
+   "name": "Holiday Hills village"
   },
   "ocd-division/country:us/state:il/county:sangamon/council_district:26": {
    "name": "Sangamon County Board District 26",
@@ -11238,14 +11241,14 @@
     1080
    ]
   },
-  "ocd-division/country:us/state:il/place:holiday_hills": {
-   "name": "Holiday Hills village"
-  },
   "ocd-division/country:us/state:il/county:sangamon/council_district:27": {
    "name": "Sangamon County Board District 27",
    "officeIndices": [
     1081
    ]
+  },
+  "ocd-division/country:us/state:il/county:ford/place:pella": {
+   "name": "Pella township"
   },
   "ocd-division/country:us/state:il/county:sangamon/council_district:24": {
    "name": "Sangamon County Board District 24",
@@ -11253,17 +11256,14 @@
     1082
    ]
   },
-  "ocd-division/country:us/state:il/county:ford/place:pella": {
-   "name": "Pella township"
+  "ocd-division/country:us/state:il/county:saline/school_district:edwd~gltn~hdin~pop~slne~wbh~wn~wh": {
+   "name": "edwd/gltn/hdin/pop/slne/wbh/wn/wh"
   },
   "ocd-division/country:us/state:il/county:sangamon/council_district:25": {
    "name": "Sangamon County Board District 25",
    "officeIndices": [
     1083
    ]
-  },
-  "ocd-division/country:us/state:il/county:saline/school_district:edwd~gltn~hdin~pop~slne~wbh~wn~wh": {
-   "name": "edwd/gltn/hdin/pop/slne/wbh/wn/wh"
   },
   "ocd-division/country:us/state:il/county:grundy/place:felix": {
    "name": "Felix township"
@@ -11286,14 +11286,20 @@
   "ocd-division/country:us/state:il/place:stonington": {
    "name": "Stonington village"
   },
+  "ocd-division/country:us/state:il/place:geneseo": {
+   "name": "Geneseo city"
+  },
   "ocd-division/country:us/state:il/county:sangamon/council_district:22": {
    "name": "Sangamon County Board District 22",
    "officeIndices": [
     1086
    ]
   },
-  "ocd-division/country:us/state:il/place:geneseo": {
-   "name": "Geneseo city"
+  "ocd-division/country:us/state:il/county:lasalle/place:lasalle": {
+   "name": "LaSalle township"
+  },
+  "ocd-division/country:us/state:il/county:lasalle/school_district:tonica_ccsd_79": {
+   "name": "tonica ccsd 79"
   },
   "ocd-division/country:us/state:il/county:sangamon/council_district:23": {
    "name": "Sangamon County Board District 23",
@@ -11301,11 +11307,8 @@
     1087
    ]
   },
-  "ocd-division/country:us/state:il/county:lasalle/school_district:tonica_ccsd_79": {
-   "name": "tonica ccsd 79"
-  },
-  "ocd-division/country:us/state:il/county:lasalle/place:lasalle": {
-   "name": "LaSalle township"
+  "ocd-division/country:us/state:il/county:ogle/place:buffalo": {
+   "name": "Buffalo township"
   },
   "ocd-division/country:us/state:il/county:sangamon/council_district:20": {
    "name": "Sangamon County Board District 20",
@@ -11313,20 +11316,17 @@
     1088
    ]
   },
-  "ocd-division/country:us/state:il/county:ogle/place:buffalo": {
-   "name": "Buffalo township"
+  "ocd-division/country:us/state:il/county:clinton/school_district:damiansville_sd_62": {
+   "name": "damiansville sd 62"
+  },
+  "ocd-division/country:us/state:il/county:de_witt/place:de_witt": {
+   "name": "De Witt township"
   },
   "ocd-division/country:us/state:il/county:sangamon/council_district:21": {
    "name": "Sangamon County Board District 21",
    "officeIndices": [
     1089
    ]
-  },
-  "ocd-division/country:us/state:il/county:de_witt/place:de_witt": {
-   "name": "De Witt township"
-  },
-  "ocd-division/country:us/state:il/county:clinton/school_district:damiansville_sd_62": {
-   "name": "damiansville sd 62"
   },
   "ocd-division/country:us/state:il/county:ogle/school_district:rochelle_twp_hsd_212": {
    "name": "rochelle twp hsd 212"
@@ -11352,53 +11352,53 @@
   "ocd-division/country:us/state:il/place:aroma_park": {
    "name": "Aroma Park village"
   },
-  "ocd-division/country:us/state:il/county:sangamon/place:pawnee": {
-   "name": "Pawnee township"
-  },
   "ocd-division/country:us/state:il/county:ogle/school_district:byron_cusd_226": {
    "name": "byron cusd 226"
   },
-  "ocd-division/country:us/state:il/county:effingham/school_district:dieterich_cusd_30": {
-   "name": "dieterich cusd 30"
+  "ocd-division/country:us/state:il/county:sangamon/place:pawnee": {
+   "name": "Pawnee township"
   },
   "ocd-division/country:us/state:il/place:st_elmo": {
    "name": "St. Elmo city"
   },
-  "ocd-division/country:us/state:il/county:lawrence/place:bridgeport": {
-   "name": "Bridgeport township"
+  "ocd-division/country:us/state:il/county:effingham/school_district:dieterich_cusd_30": {
+   "name": "dieterich cusd 30"
   },
   "ocd-division/country:us/state:il/county:champaign/school_district:rantoul_city_sd_137": {
    "name": "rantoul city sd 137"
   },
-  "ocd-division/country:us/state:il/county:shelby/place:moweaqua": {
-   "name": "Moweaqua township"
+  "ocd-division/country:us/state:il/county:lawrence/place:bridgeport": {
+   "name": "Bridgeport township"
   },
   "ocd-division/country:us/state:il/county:jackson/place:fountain_bluff": {
    "name": "Fountain Bluff township"
   },
-  "ocd-division/country:us/state:il/county:wayne/place:orchard": {
-   "name": "Orchard township"
+  "ocd-division/country:us/state:il/county:shelby/place:moweaqua": {
+   "name": "Moweaqua township"
   },
   "ocd-division/country:us/state:il/county:lake/school_district:north_chicago_sd_187": {
    "name": "north chicago sd 187"
   },
+  "ocd-division/country:us/state:il/county:wayne/place:orchard": {
+   "name": "Orchard township"
+  },
   "ocd-division/country:us/state:il/county:alexander/school_district:cairo_usd_1": {
    "name": "cairo usd 1"
-  },
-  "ocd-division/country:us/state:il/county:crawford/school_district:palestine_cusd_3": {
-   "name": "palestine cusd 3"
   },
   "ocd-division/country:us/state:il/place:forsyth": {
    "name": "Forsyth village"
   },
+  "ocd-division/country:us/state:il/county:crawford/school_district:palestine_cusd_3": {
+   "name": "palestine cusd 3"
+  },
   "ocd-division/country:us/state:il/county:lake/place:antioch": {
    "name": "Antioch township"
   },
-  "ocd-division/country:us/state:il/place:elliott": {
-   "name": "Elliott village"
-  },
   "ocd-division/country:us/state:il/place:jacksonville": {
    "name": "Jacksonville city"
+  },
+  "ocd-division/country:us/state:il/place:elliott": {
+   "name": "Elliott village"
   },
   "ocd-division/country:us/state:il/place:st_jacob": {
    "name": "St. Jacob village"
@@ -11409,17 +11409,17 @@
   "ocd-division/country:us/state:il/county:pike/school_district:western_cusd_12": {
    "name": "western cusd 12"
   },
-  "ocd-division/country:us/state:il/county:fayette/place:wheatland": {
-   "name": "Wheatland township"
-  },
   "ocd-division/country:us/state:il/place:riverdale": {
    "name": "Riverdale village"
   },
-  "ocd-division/country:us/state:il/county:clinton/place:brookside": {
-   "name": "Brookside township"
+  "ocd-division/country:us/state:il/county:fayette/place:wheatland": {
+   "name": "Wheatland township"
   },
   "ocd-division/country:us/state:il/county:hamilton/place:south_flannigan": {
    "name": "South Flannigan township"
+  },
+  "ocd-division/country:us/state:il/county:clinton/place:brookside": {
+   "name": "Brookside township"
   },
   "ocd-division/country:us/state:il/county:cass/school_district:a-c_central_cusd_262": {
    "name": "a-c central cusd 262"
@@ -12013,14 +12013,14 @@
     1142
    ]
   },
+  "ocd-division/country:us/state:il/county:marion/place:stevenson": {
+   "name": "Stevenson township"
+  },
   "ocd-division/country:us/state:il/county:will/council_district:10": {
    "name": "Will County Board District 10",
    "officeIndices": [
     1143
    ]
-  },
-  "ocd-division/country:us/state:il/county:marion/place:stevenson": {
-   "name": "Stevenson township"
   },
   "ocd-division/country:us/state:il/county:putnam/place:hennepin": {
    "name": "Hennepin township"
@@ -12413,17 +12413,17 @@
     1185
    ]
   },
-  "ocd-division/country:us/state:il/place:chicago/ward:19": {
-   "name": "Chicago IL - ward 19",
-   "officeIndices": [
-    1186
-   ]
-  },
   "ocd-division/country:us/state:il/place:elwood": {
    "name": "Elwood village"
   },
   "ocd-division/country:us/state:il/place:durand": {
    "name": "Durand village"
+  },
+  "ocd-division/country:us/state:il/place:chicago/ward:19": {
+   "name": "Chicago IL - ward 19",
+   "officeIndices": [
+    1186
+   ]
   },
   "ocd-division/country:us/state:il/place:chicago/ward:26": {
    "name": "Chicago IL - ward 26",
@@ -12596,14 +12596,14 @@
     1206
    ]
   },
+  "ocd-division/country:us/state:il/place:sidell": {
+   "name": "Sidell village"
+  },
   "ocd-division/country:us/state:il/place:chicago/ward:34": {
    "name": "Chicago IL - ward 34",
    "officeIndices": [
     1209
    ]
-  },
-  "ocd-division/country:us/state:il/place:sidell": {
-   "name": "Sidell village"
   },
   "ocd-division/country:us/state:il/county:macoupin/council_district:8": {
    "name": "Macoupin County Board District 8",
@@ -12746,14 +12746,14 @@
     1223
    ]
   },
+  "ocd-division/country:us/state:il/place:la_moille": {
+   "name": "La Moille village"
+  },
   "ocd-division/country:us/state:il/place:chicago/ward:46": {
    "name": "Chicago IL - ward 46",
    "officeIndices": [
     1224
    ]
-  },
-  "ocd-division/country:us/state:il/place:la_moille": {
-   "name": "La Moille village"
   },
   "ocd-division/country:us/state:il/place:cambria": {
    "name": "Cambria village"
@@ -14225,6 +14225,9 @@
   "ocd-division/country:us/state:il/county:carroll/place:rock_creek-lima": {
    "name": "Rock Creek-Lima township"
   },
+  "ocd-division/country:us/state:il/place:barrington": {
+   "name": "Barrington village"
+  },
   "ocd-division/country:us/state:il/county:pike": {
    "name": "Pike County",
    "officeIndices": [
@@ -14236,9 +14239,6 @@
     1326,
     1327
    ]
-  },
-  "ocd-division/country:us/state:il/place:barrington": {
-   "name": "Barrington village"
   },
   "ocd-division/country:us/state:il/place:junction_city": {
    "name": "Junction City village"
@@ -14551,6 +14551,12 @@
   "ocd-division/country:us/state:il/county:pike/place:pleasant_hill": {
    "name": "Pleasant Hill township"
   },
+  "ocd-division/country:us/state:il/place:inverness": {
+   "name": "Inverness village"
+  },
+  "ocd-division/country:us/state:il/county:cook/school_district:chicago_ridge_sd_127-5": {
+   "name": "chicago ridge sd 127-5"
+  },
   "ocd-division/country:us/state:il/county:lasalle": {
    "name": "LaSalle County",
    "officeIndices": [
@@ -14563,12 +14569,6 @@
     1363,
     1364
    ]
-  },
-  "ocd-division/country:us/state:il/place:inverness": {
-   "name": "Inverness village"
-  },
-  "ocd-division/country:us/state:il/county:cook/school_district:chicago_ridge_sd_127-5": {
-   "name": "chicago ridge sd 127-5"
   },
   "ocd-division/country:us/state:il/place:claremont": {
    "name": "Claremont village"
@@ -15275,6 +15275,12 @@
     167
    ]
   },
+  "ocd-division/country:us/state:il/sldu:55": {
+   "name": "Illinois State Senate district 55",
+   "officeIndices": [
+    168
+   ]
+  },
   "ocd-division/country:us/state:il/county:peoria": {
    "name": "Peoria County",
    "officeIndices": [
@@ -15287,12 +15293,6 @@
     1396,
     1397,
     1398
-   ]
-  },
-  "ocd-division/country:us/state:il/sldu:55": {
-   "name": "Illinois State Senate district 55",
-   "officeIndices": [
-    168
    ]
   },
   "ocd-division/country:us/state:il/county:mchenry/school_district:mchenry_ccsd_15": {
@@ -15611,14 +15611,14 @@
   "ocd-division/country:us/state:il/county:cook/place:lemont": {
    "name": "Lemont township"
   },
+  "ocd-division/country:us/state:il/county:fayette/place:avena": {
+   "name": "Avena township"
+  },
   "ocd-division/country:us/state:il/county:lasalle/council_district:21": {
    "name": "La Salle County Board District 21",
    "officeIndices": [
     1427
    ]
-  },
-  "ocd-division/country:us/state:il/county:fayette/place:avena": {
-   "name": "Avena township"
   },
   "ocd-division/country:us/state:il/county:lasalle/council_district:20": {
    "name": "La Salle County Board District 20",
@@ -16010,26 +16010,26 @@
     1480
    ]
   },
+  "ocd-division/country:us/state:il/county:knox/council_district:2": {
+   "name": "Knox County Board District 2",
+   "officeIndices": [
+    1490
+   ]
+  },
+  "ocd-division/country:us/state:il/county:jo_daviess/place:rawlins": {
+   "name": "Rawlins township"
+  },
   "ocd-division/country:us/state:il/county:adams": {
    "name": "Adams County",
    "officeIndices": [
+    1483,
     1484,
     1485,
     1486,
     1487,
     1488,
-    1489,
-    1490
+    1489
    ]
-  },
-  "ocd-division/country:us/state:il/county:knox/council_district:2": {
-   "name": "Knox County Board District 2",
-   "officeIndices": [
-    1483
-   ]
-  },
-  "ocd-division/country:us/state:il/county:jo_daviess/place:rawlins": {
-   "name": "Rawlins township"
   },
   "ocd-division/country:us/state:il/county:madison/council_district:21": {
    "name": "Madison County Board District 21",
@@ -16486,11 +16486,11 @@
   "ocd-division/country:us/state:il/place:irvington": {
    "name": "Irvington village"
   },
-  "ocd-division/country:us/state:il/place:effingham": {
-   "name": "Effingham city"
-  },
   "ocd-division/country:us/state:il/place:tower_lakes": {
    "name": "Tower Lakes village"
+  },
+  "ocd-division/country:us/state:il/place:effingham": {
+   "name": "Effingham city"
   },
   "ocd-division/country:us/state:il/county:cook/place:rich": {
    "name": "Rich township"
@@ -17383,6 +17383,12 @@
   "ocd-division/country:us/state:il/county:pike/place:detroit": {
    "name": "Detroit township"
   },
+  "ocd-division/country:us/state:il/circuit_court:22": {
+   "name": "IL State Circuit Court - 22nd District"
+  },
+  "ocd-division/country:us/state:il/county:coles/place:hutton": {
+   "name": "Hutton township"
+  },
   "ocd-division/country:us/state:il/county:mcdonough": {
    "name": "McDonough County",
    "officeIndices": [
@@ -17393,12 +17399,6 @@
     1568,
     1569
    ]
-  },
-  "ocd-division/country:us/state:il/circuit_court:22": {
-   "name": "IL State Circuit Court - 22nd District"
-  },
-  "ocd-division/country:us/state:il/county:coles/place:hutton": {
-   "name": "Hutton township"
   },
   "ocd-division/country:us/state:il/county:pike/place:hadley": {
    "name": "Hadley township"
@@ -26307,71 +26307,71 @@
    ]
   },
   {
-   "name": "State Treasurer",
-   "divisionId": "ocd-division/country:us/state:il",
-   "officialIndices": [
-    1340
-   ]
-  },
-  {
-   "name": "Attorney General",
-   "divisionId": "ocd-division/country:us/state:il",
-   "officialIndices": [
-    1341
-   ]
-  },
-  {
-   "name": "State Comptroller",
-   "divisionId": "ocd-division/country:us/state:il",
-   "officialIndices": [
-    1342
-   ]
-  },
-  {
-   "name": "Secretary of State",
-   "divisionId": "ocd-division/country:us/state:il",
-   "officialIndices": [
-    1343
-   ]
-  },
-  {
    "name": "Coroner",
    "divisionId": "ocd-division/country:us/state:il/county:jo_daviess",
    "officialIndices": [
-    1344
+    1340
    ]
   },
   {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:il/county:jo_daviess",
    "officialIndices": [
-    1345
+    1341
    ]
   },
   {
    "name": "Treasurer",
    "divisionId": "ocd-division/country:us/state:il/county:jo_daviess",
    "officialIndices": [
-    1346
+    1342
    ]
   },
   {
    "name": "Circuit Clerk",
    "divisionId": "ocd-division/country:us/state:il/county:jo_daviess",
    "officialIndices": [
-    1347
+    1343
    ]
   },
   {
    "name": "State's Attorney",
    "divisionId": "ocd-division/country:us/state:il/county:jo_daviess",
    "officialIndices": [
-    1348
+    1344
    ]
   },
   {
    "name": "County Clerk/Recorder",
    "divisionId": "ocd-division/country:us/state:il/county:jo_daviess",
+   "officialIndices": [
+    1345
+   ]
+  },
+  {
+   "name": "State Treasurer",
+   "divisionId": "ocd-division/country:us/state:il",
+   "officialIndices": [
+    1346
+   ]
+  },
+  {
+   "name": "Attorney General",
+   "divisionId": "ocd-division/country:us/state:il",
+   "officialIndices": [
+    1347
+   ]
+  },
+  {
+   "name": "State Comptroller",
+   "divisionId": "ocd-division/country:us/state:il",
+   "officialIndices": [
+    1348
+   ]
+  },
+  {
+   "name": "Secretary of State",
+   "divisionId": "ocd-division/country:us/state:il",
    "officialIndices": [
     1349
    ]
@@ -29983,60 +29983,60 @@
    ]
   },
   {
-   "name": "County Board, District 2",
-   "divisionId": "ocd-division/country:us/state:il/county:knox/council_district:2",
-   "officialIndices": [
-    2064,
-    2065,
-    2066
-   ]
-  },
-  {
    "name": "Coroner",
    "divisionId": "ocd-division/country:us/state:il/county:adams",
    "officialIndices": [
-    2067
+    2064
    ]
   },
   {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:il/county:adams",
    "officialIndices": [
-    2068
+    2065
    ]
   },
   {
    "name": "Circuit Clerk",
    "divisionId": "ocd-division/country:us/state:il/county:adams",
    "officialIndices": [
-    2069
+    2066
    ]
   },
   {
    "name": "County Treasurer",
    "divisionId": "ocd-division/country:us/state:il/county:adams",
    "officialIndices": [
-    2070
+    2067
    ]
   },
   {
    "name": "State's Attorney",
    "divisionId": "ocd-division/country:us/state:il/county:adams",
    "officialIndices": [
-    2071
+    2068
    ]
   },
   {
    "name": "County Clerk/ Recorder",
    "divisionId": "ocd-division/country:us/state:il/county:adams",
    "officialIndices": [
-    2072
+    2069
    ]
   },
   {
    "name": "Regional Superintendent of Schools",
    "divisionId": "ocd-division/country:us/state:il/county:adams",
    "officialIndices": [
+    2070
+   ]
+  },
+  {
+   "name": "County Board, District 2",
+   "divisionId": "ocd-division/country:us/state:il/county:knox/council_district:2",
+   "officialIndices": [
+    2071,
+    2072,
     2073
    ]
   },
@@ -58729,94 +58729,6 @@
    ]
   },
   {
-   "name": "Michael W. Frerichs",
-   "address": [
-    {
-     "line1": "Capitol Building 219 Statehouse",
-     "city": "springfield",
-     "state": "IL",
-     "zip": "62706"
-    }
-   ],
-   "party": "Democratic",
-   "urls": [
-    "http://www.treasurer.il.gov/"
-   ]
-  },
-  {
-   "name": "Lisa Madigan",
-   "address": [
-    {
-     "line1": "500 south second street",
-     "city": "springfield",
-     "state": "IL",
-     "zip": "62706"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(217) 782-1090"
-   ],
-   "urls": [
-    "http://www.illinoisattorneygeneral.gov/"
-   ],
-   "channels": [
-    {
-     "type": "Twitter",
-     "id": "ILattygeneral"
-    }
-   ]
-  },
-  {
-   "name": "Judy Baar Topinka",
-   "address": [
-    {
-     "line1": "325 West Adams",
-     "city": "springfield",
-     "state": "IL",
-     "zip": "62704"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(217) 782-6000"
-   ],
-   "urls": [
-    "http://www.ioc.state.il.us/"
-   ],
-   "emails": [
-    "comptroller@mail.ioc.state.il.us"
-   ],
-   "channels": [
-    {
-     "type": "Facebook",
-     "id": "Comptroller.Judy.Baar.Topinka"
-    },
-    {
-     "type": "Twitter",
-     "id": "CompTopinka"
-    }
-   ]
-  },
-  {
-   "name": "Jesse White",
-   "address": [
-    {
-     "line1": "213 State Capitol",
-     "city": "springfield",
-     "state": "IL",
-     "zip": "62756"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(800) 252-8980"
-   ],
-   "urls": [
-    "http://www.cyberdriveillinois.com/"
-   ]
-  },
-  {
    "name": "Bill Laity",
    "party": "Unknown",
    "phones": [
@@ -58935,6 +58847,94 @@
    ],
    "emails": [
     "countyclerk@jodaviess.org"
+   ]
+  },
+  {
+   "name": "Michael W. Frerichs",
+   "address": [
+    {
+     "line1": "Capitol Building 219 Statehouse",
+     "city": "springfield",
+     "state": "IL",
+     "zip": "62706"
+    }
+   ],
+   "party": "Democratic",
+   "urls": [
+    "http://www.treasurer.il.gov/"
+   ]
+  },
+  {
+   "name": "Lisa Madigan",
+   "address": [
+    {
+     "line1": "500 south second street",
+     "city": "springfield",
+     "state": "IL",
+     "zip": "62706"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(217) 782-1090"
+   ],
+   "urls": [
+    "http://www.illinoisattorneygeneral.gov/"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "ILattygeneral"
+    }
+   ]
+  },
+  {
+   "name": "Judy Baar Topinka",
+   "address": [
+    {
+     "line1": "325 West Adams",
+     "city": "springfield",
+     "state": "IL",
+     "zip": "62704"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(217) 782-6000"
+   ],
+   "urls": [
+    "http://www.ioc.state.il.us/"
+   ],
+   "emails": [
+    "comptroller@mail.ioc.state.il.us"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "Comptroller.Judy.Baar.Topinka"
+    },
+    {
+     "type": "Twitter",
+     "id": "CompTopinka"
+    }
+   ]
+  },
+  {
+   "name": "Jesse White",
+   "address": [
+    {
+     "line1": "213 State Capitol",
+     "city": "springfield",
+     "state": "IL",
+     "zip": "62756"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(800) 252-8980"
+   ],
+   "urls": [
+    "http://www.cyberdriveillinois.com/"
    ]
   },
   {
@@ -71901,66 +71901,6 @@
    ]
   },
   {
-   "name": "Greg Bacon",
-   "address": [
-    {
-     "line1": "1894 Newcomer",
-     "city": "galesburg",
-     "state": "IL",
-     "zip": "61401"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(309) 342-6743"
-   ],
-   "urls": [
-    "http://www.knoxclerk.org/CBMembers.htm"
-   ],
-   "emails": [
-    "gbacon@co.knox.il.us"
-   ]
-  },
-  {
-   "name": "William Abel",
-   "address": [
-    {
-     "line1": "814 florence ave",
-     "city": "galesburg",
-     "state": "IL",
-     "zip": "61401"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(309) 343-1552"
-   ],
-   "urls": [
-    "http://www.knoxclerk.org/CBMembers.htm"
-   ]
-  },
-  {
-   "name": "Paul Stewart",
-   "address": [
-    {
-     "line1": "71 park lane dr.",
-     "city": "galesburg",
-     "state": "IL",
-     "zip": "61401"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(309) 341-2095"
-   ],
-   "urls": [
-    "http://www.knoxclerk.org/CBMembers.htm"
-   ],
-   "emails": [
-    "pstewart@co.knox.il.us"
-   ]
-  },
-  {
    "name": "James Keller",
    "address": [
     {
@@ -72110,6 +72050,66 @@
      "type": "Facebook",
      "id": "156718864361448"
     }
+   ]
+  },
+  {
+   "name": "Greg Bacon",
+   "address": [
+    {
+     "line1": "1894 Newcomer",
+     "city": "galesburg",
+     "state": "IL",
+     "zip": "61401"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(309) 342-6743"
+   ],
+   "urls": [
+    "http://www.knoxclerk.org/CBMembers.htm"
+   ],
+   "emails": [
+    "gbacon@co.knox.il.us"
+   ]
+  },
+  {
+   "name": "William Abel",
+   "address": [
+    {
+     "line1": "814 florence ave",
+     "city": "galesburg",
+     "state": "IL",
+     "zip": "61401"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(309) 343-1552"
+   ],
+   "urls": [
+    "http://www.knoxclerk.org/CBMembers.htm"
+   ]
+  },
+  {
+   "name": "Paul Stewart",
+   "address": [
+    {
+     "line1": "71 park lane dr.",
+     "city": "galesburg",
+     "state": "IL",
+     "zip": "61401"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(309) 341-2095"
+   ],
+   "urls": [
+    "http://www.knoxclerk.org/CBMembers.htm"
+   ],
+   "emails": [
+    "pstewart@co.knox.il.us"
    ]
   },
   {

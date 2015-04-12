@@ -126,11 +126,11 @@
   "ocd-division/country:us/state:ne/place:hildreth": {
    "name": "Hildreth village"
   },
-  "ocd-division/country:us/state:ne/county:saunders/precinct:5-ceresco": {
-   "name": "Saunders County Precinct 5-Ceresco"
-  },
   "ocd-division/country:us/state:ne/county:nuckolls/precinct:6-nelson": {
    "name": "Nuckolls County Precinct 6-Nelson"
+  },
+  "ocd-division/country:us/state:ne/county:saunders/precinct:5-ceresco": {
+   "name": "Saunders County Precinct 5-Ceresco"
   },
   "ocd-division/country:us/state:ne/place:staplehurst": {
    "name": "Staplehurst village"
@@ -273,11 +273,11 @@
   "ocd-division/country:us/state:ne/county:blaine/school_district:sandhills_public_schools": {
    "name": "sandhills public schools"
   },
-  "ocd-division/country:us/state:ne/county:platte/precinct:13-4a": {
-   "name": "Platte County Precinct 13-4A"
-  },
   "ocd-division/country:us/state:ne/county:frontier/precinct:4-maywood": {
    "name": "Frontier County Precinct 4-Maywood"
+  },
+  "ocd-division/country:us/state:ne/county:platte/precinct:13-4a": {
+   "name": "Platte County Precinct 13-4A"
   },
   "ocd-division/country:us/state:ne/county:lancaster/precinct:495-10e11": {
    "name": "Lancaster County Precinct 495-10E11"
@@ -306,11 +306,11 @@
   "ocd-division/country:us/state:ne/place:scottsbluff": {
    "name": "Scottsbluff city"
   },
-  "ocd-division/country:us/state:ne/county:lancaster/precinct:537-10g07": {
-   "name": "Lancaster County Precinct 537-10G07"
-  },
   "ocd-division/country:us/state:ne/county:dodge/precinct:32-un~ct~rg~pv_twps": {
    "name": "Dodge County Precinct 32-Un/Ct/Rg/Pv Twps"
+  },
+  "ocd-division/country:us/state:ne/county:lancaster/precinct:537-10g07": {
+   "name": "Lancaster County Precinct 537-10G07"
   },
   "ocd-division/country:us/state:ne/county:frontier/school_district:maywood_public_schools": {
    "name": "maywood public schools"
@@ -565,11 +565,11 @@
   "ocd-division/country:us/state:ne/county:keith/precinct:10-rural_ogallala": {
    "name": "Keith County Precinct 10-Rural Ogallala"
   },
-  "ocd-division/country:us/state:ne/place:central_city": {
-   "name": "Central City city"
-  },
   "ocd-division/country:us/state:ne/county:douglas/precinct:2-23": {
    "name": "Douglas County Precinct 2-23"
+  },
+  "ocd-division/country:us/state:ne/place:central_city": {
+   "name": "Central City city"
   },
   "ocd-division/country:us/state:ne/county:douglas/precinct:2-22": {
    "name": "Douglas County Precinct 2-22"
@@ -587,11 +587,11 @@
   "ocd-division/country:us/state:ne/county:custer/school_district:anselmo-merna_public_schools": {
    "name": "anselmo-merna public schools"
   },
-  "ocd-division/country:us/state:ne/county:cass/precinct:19-north_plattsmouth": {
-   "name": "Cass County Precinct 19-North Plattsmouth"
-  },
   "ocd-division/country:us/state:ne/county:douglas/precinct:2-21": {
    "name": "Douglas County Precinct 2-21"
+  },
+  "ocd-division/country:us/state:ne/county:cass/precinct:19-north_plattsmouth": {
+   "name": "Cass County Precinct 19-North Plattsmouth"
   },
   "ocd-division/country:us/state:ne/county:douglas/precinct:2-20": {
    "name": "Douglas County Precinct 2-20"
@@ -647,11 +647,11 @@
   "ocd-division/country:us/state:ne/county:lancaster/precinct:35-1d04": {
    "name": "Lancaster County Precinct 35-1D04"
   },
-  "ocd-division/country:us/state:ne/place:oxford": {
-   "name": "Oxford village"
-  },
   "ocd-division/country:us/state:ne/county:phelps/precinct:7-rockfalls_industry": {
    "name": "Phelps County Precinct 7-Rockfalls Industry"
+  },
+  "ocd-division/country:us/state:ne/place:oxford": {
+   "name": "Oxford village"
   },
   "ocd-division/country:us/state:ne/county:nemaha/precinct:6-lafayette": {
    "name": "Nemaha County Precinct 6-Lafayette"
@@ -659,11 +659,11 @@
   "ocd-division/country:us/state:ne/county:cherry/precinct:5-gillaspie": {
    "name": "Cherry County Precinct 5-Gillaspie"
   },
-  "ocd-division/country:us/state:ne/district_court:12": {
-   "name": "NE State District Court - 12th District"
-  },
   "ocd-division/country:us/state:ne/county:lancaster/precinct:444-10b03": {
    "name": "Lancaster County Precinct 444-10B03"
+  },
+  "ocd-division/country:us/state:ne/district_court:12": {
+   "name": "NE State District Court - 12th District"
   },
   "ocd-division/country:us/state:ne/district_court:11": {
    "name": "NE State District Court - 11th District"
@@ -1215,11 +1215,11 @@
   "ocd-division/country:us/state:ne/county:box_butte/school_district:hemingford_public_schools": {
    "name": "hemingford public schools"
   },
-  "ocd-division/country:us/state:ne/place:fort_calhoun": {
-   "name": "Fort Calhoun city"
-  },
   "ocd-division/country:us/state:ne/county:buffalo/precinct:15-miller_com_hall": {
    "name": "Buffalo County Precinct 15-Miller Com Hall"
+  },
+  "ocd-division/country:us/state:ne/place:fort_calhoun": {
+   "name": "Fort Calhoun city"
   },
   "ocd-division/country:us/state:ne/place:meadow_grove": {
    "name": "Meadow Grove village"
@@ -1242,11 +1242,11 @@
   "ocd-division/country:us/state:ne/place:bloomfield": {
    "name": "Bloomfield city"
   },
-  "ocd-division/country:us/state:ne/place:monroe": {
-   "name": "Monroe village"
-  },
   "ocd-division/country:us/state:ne/county:nemaha/precinct:8-peru": {
    "name": "Nemaha County Precinct 8-Peru"
+  },
+  "ocd-division/country:us/state:ne/place:monroe": {
+   "name": "Monroe village"
   },
   "ocd-division/country:us/state:ne/county:adams/precinct:15-2-b": {
    "name": "Adams County Precinct 15-2-B"
@@ -1254,11 +1254,11 @@
   "ocd-division/country:us/state:ne/county:pierce/school_district:osmond_public_schools": {
    "name": "osmond public schools"
   },
-  "ocd-division/country:us/state:ne/county:seward/precinct:3-utica": {
-   "name": "Seward County Precinct 3-Utica"
-  },
   "ocd-division/country:us/state:ne/county:saline/school_district:friend_public_schools": {
    "name": "friend public schools"
+  },
+  "ocd-division/country:us/state:ne/county:seward/precinct:3-utica": {
+   "name": "Seward County Precinct 3-Utica"
   },
   "ocd-division/country:us/state:ne/county:dodge/precinct:19-fremont_4d": {
    "name": "Dodge County Precinct 19-Fremont 4D"
@@ -1272,11 +1272,11 @@
   "ocd-division/country:us/state:ne/county:dawson/precinct:14-lex_3rd": {
    "name": "Dawson County Precinct 14-Lex 3Rd"
   },
-  "ocd-division/country:us/state:ne/county:custer/precinct:11-custer": {
-   "name": "Custer County Precinct 11-Custer"
-  },
   "ocd-division/country:us/state:ne/county:knox/place:columbia": {
    "name": "Columbia township"
+  },
+  "ocd-division/country:us/state:ne/county:custer/precinct:11-custer": {
+   "name": "Custer County Precinct 11-Custer"
   },
   "ocd-division/country:us/state:ne/county:douglas/school_district:douglas_county_youth_center": {
    "name": "douglas county youth center"
@@ -2520,17 +2520,17 @@
   "ocd-division/country:us/state:ne/county:hall/school_district:grand_island_public_schools": {
    "name": "grand island public schools"
   },
-  "ocd-division/country:us/state:ne/county:sioux/precinct:1-bowen": {
-   "name": "Sioux County Precinct 1-Bowen"
-  },
   "ocd-division/country:us/state:ne/county:dundy/precinct:2-benkelman_2": {
    "name": "Dundy County Precinct 2-Benkelman 2"
   },
-  "ocd-division/country:us/state:ne/place:table_rock": {
-   "name": "Table Rock village"
+  "ocd-division/country:us/state:ne/county:sioux/precinct:1-bowen": {
+   "name": "Sioux County Precinct 1-Bowen"
   },
   "ocd-division/country:us/state:ne/place:rogers": {
    "name": "Rogers village"
+  },
+  "ocd-division/country:us/state:ne/place:table_rock": {
+   "name": "Table Rock village"
   },
   "ocd-division/country:us/state:ne/county:cass/precinct:2-mckelverly": {
    "name": "Cass County Precinct 2-Mckelverly"
@@ -2552,11 +2552,11 @@
   "ocd-division/country:us/state:ne/county:lancaster/precinct:417-9h01": {
    "name": "Lancaster County Precinct 417-9H01"
   },
-  "ocd-division/country:us/state:ne/place:prague": {
-   "name": "Prague village"
-  },
   "ocd-division/country:us/state:ne/county:sarpy/school_district:patrick_j_thomas_juvenile_cntr": {
    "name": "patrick j thomas juvenile cntr"
+  },
+  "ocd-division/country:us/state:ne/place:prague": {
+   "name": "Prague village"
   },
   "ocd-division/country:us/state:ne/county:deuel/precinct:3-big_springs": {
    "name": "Deuel County Precinct 3-Big Springs"
@@ -2570,11 +2570,11 @@
   "ocd-division/country:us/state:ne/county:scotts_bluff/school_district:paces-w_ne_juvenile_services": {
    "name": "paces-w ne juvenile services"
   },
-  "ocd-division/country:us/state:ne/county:lincoln/school_district:brady_public_schools": {
-   "name": "brady public schools"
-  },
   "ocd-division/country:us/state:ne/county:custer/place:broken_bow": {
    "name": "Broken Bow township"
+  },
+  "ocd-division/country:us/state:ne/county:lincoln/school_district:brady_public_schools": {
+   "name": "brady public schools"
   },
   "ocd-division/country:us/state:ne/county:adams/school_district:hastings_public_schools": {
    "name": "hastings public schools"
@@ -2582,11 +2582,11 @@
   "ocd-division/country:us/state:ne/county:cheyenne/precinct:8-potter": {
    "name": "Cheyenne County Precinct 8-Potter"
   },
-  "ocd-division/country:us/state:ne/place:harrison": {
-   "name": "Harrison village"
-  },
   "ocd-division/country:us/state:ne/county:buffalo/place:schneider": {
    "name": "Schneider township"
+  },
+  "ocd-division/country:us/state:ne/place:harrison": {
+   "name": "Harrison village"
   },
   "ocd-division/country:us/state:ne/county:valley/place:michigan": {
    "name": "Michigan township"
@@ -4051,6 +4051,9 @@
     9
    ]
   },
+  "ocd-division/country:us/state:ne/county:hall/precinct:6": {
+   "name": "Hall County Precinct 6"
+  },
   "ocd-division/country:us/state:ne/sldu:15": {
    "name": "Nebraska State Senate district 15",
    "alsoKnownAs": [
@@ -4059,9 +4062,6 @@
    "officeIndices": [
     10
    ]
-  },
-  "ocd-division/country:us/state:ne/county:hall/precinct:6": {
-   "name": "Hall County Precinct 6"
   },
   "ocd-division/country:us/state:ne/county:hall/precinct:5": {
    "name": "Hall County Precinct 5"
@@ -4126,6 +4126,12 @@
     14
    ]
   },
+  "ocd-division/country:us/state:ne/county:knox/place:hill": {
+   "name": "Hill township"
+  },
+  "ocd-division/country:us/state:ne/county:pierce/precinct:2-plainview": {
+   "name": "Pierce County Precinct 2-Plainview"
+  },
   "ocd-division/country:us/state:ne/sldu:21": {
    "name": "Nebraska State Senate district 21",
    "alsoKnownAs": [
@@ -4134,12 +4140,6 @@
    "officeIndices": [
     15
    ]
-  },
-  "ocd-division/country:us/state:ne/county:knox/place:hill": {
-   "name": "Hill township"
-  },
-  "ocd-division/country:us/state:ne/county:pierce/precinct:2-plainview": {
-   "name": "Pierce County Precinct 2-Plainview"
   },
   "ocd-division/country:us/state:ne/sldu:24": {
    "name": "Nebraska State Senate district 24",
@@ -4291,6 +4291,9 @@
     404
    ]
   },
+  "ocd-division/country:us/state:ne/county:hall/precinct:9": {
+   "name": "Hall County Precinct 9"
+  },
   "ocd-division/country:us/state:ne/sldu:29": {
    "name": "Nebraska State Senate district 29",
    "alsoKnownAs": [
@@ -4299,9 +4302,6 @@
    "officeIndices": [
     23
    ]
-  },
-  "ocd-division/country:us/state:ne/county:hall/precinct:9": {
-   "name": "Hall County Precinct 9"
   },
   "ocd-division/country:us/state:ne/county:hall/precinct:7": {
    "name": "Hall County Precinct 7"
@@ -5559,11 +5559,11 @@
   "ocd-division/country:us/state:ne/county:blaine/precinct:1-blaine": {
    "name": "Blaine County Precinct 1-Blaine"
   },
-  "ocd-division/country:us/state:ne/place:ansley": {
-   "name": "Ansley village"
-  },
   "ocd-division/country:us/state:ne/county:saunders/precinct:10-center": {
    "name": "Saunders County Precinct 10-Center"
+  },
+  "ocd-division/country:us/state:ne/place:ansley": {
+   "name": "Ansley village"
   },
   "ocd-division/country:us/state:ne/county:jefferson/school_district:fairbury_public_schools": {
    "name": "fairbury public schools"
@@ -5571,11 +5571,11 @@
   "ocd-division/country:us/state:ne/place:doniphan": {
    "name": "Doniphan village"
   },
-  "ocd-division/country:us/state:ne/county:lancaster/precinct:531-10g01": {
-   "name": "Lancaster County Precinct 531-10G01"
-  },
   "ocd-division/country:us/state:ne/county:colfax/precinct:5a-howells_5": {
    "name": "Colfax County Precinct 5A-Howells 5"
+  },
+  "ocd-division/country:us/state:ne/county:lancaster/precinct:531-10g01": {
+   "name": "Lancaster County Precinct 531-10G01"
   },
   "ocd-division/country:us/state:ne/county:douglas/school_district:nova_alternative_school": {
    "name": "nova alternative school"
@@ -5583,11 +5583,11 @@
   "ocd-division/country:us/state:ne/county:richardson/precinct:9-humboldt_1": {
    "name": "Richardson County Precinct 9-Humboldt 1"
   },
-  "ocd-division/country:us/state:ne/place:weston": {
-   "name": "Weston village"
-  },
   "ocd-division/country:us/state:ne/county:dixon/precinct:4-wakefield_1": {
    "name": "Dixon County Precinct 4-Wakefield 1"
+  },
+  "ocd-division/country:us/state:ne/place:weston": {
+   "name": "Weston village"
   },
   "ocd-division/country:us/state:ne/county:hall/place:harrison": {
    "name": "Harrison township"
@@ -6326,6 +6326,9 @@
   "ocd-division/country:us/state:ne/place:litchfield": {
    "name": "Litchfield village"
   },
+  "ocd-division/country:us/state:ne/county:custer/precinct:35-anselmo": {
+   "name": "Custer County Precinct 35-Anselmo"
+  },
   "ocd-division/country:us/state:ne/county:douglas": {
    "name": "Douglas County",
    "officeIndices": [
@@ -6339,9 +6342,6 @@
     611,
     612
    ]
-  },
-  "ocd-division/country:us/state:ne/county:custer/precinct:35-anselmo": {
-   "name": "Custer County Precinct 35-Anselmo"
   },
   "ocd-division/country:us/state:ne/county:douglas/precinct:6-10": {
    "name": "Douglas County Precinct 6-10"
@@ -9662,14 +9662,14 @@
   "ocd-division/country:us/state:ne/county:dodge/place:platte": {
    "name": "Platte township"
   },
-  "ocd-division/country:us/state:ne/place:grand_island": {
-   "name": "Grand Island city"
-  },
   "ocd-division/country:us/state:ne/county:cedar/council_district:1": {
    "name": "Cedar County Comission District 1",
    "officeIndices": [
     862
    ]
+  },
+  "ocd-division/country:us/state:ne/place:grand_island": {
+   "name": "Grand Island city"
   },
   "ocd-division/country:us/state:ne/county:cedar/council_district:2": {
    "name": "Cedar County Comission District 2",
@@ -11267,11 +11267,11 @@
   "ocd-division/country:us/state:ne/place:rising_city": {
    "name": "Rising City village"
   },
-  "ocd-division/country:us/state:ne/county:burt/school_district:tekamah-herman_community_schs": {
-   "name": "tekamah-herman community schs"
-  },
   "ocd-division/country:us/state:ne/county:douglas/precinct:2-9": {
    "name": "Douglas County Precinct 2-9"
+  },
+  "ocd-division/country:us/state:ne/county:burt/school_district:tekamah-herman_community_schs": {
+   "name": "tekamah-herman community schs"
   },
   "ocd-division/country:us/state:ne/county:douglas/precinct:2-8": {
    "name": "Douglas County Precinct 2-8"
@@ -11294,31 +11294,31 @@
   "ocd-division/country:us/state:ne/place:hardy": {
    "name": "Hardy village"
   },
-  "ocd-division/country:us/state:ne/county:dodge": {
-   "name": "Dodge County",
+  "ocd-division/country:us/state:ne/county:gosper": {
+   "name": "Gosper County",
    "officeIndices": [
-    1008,
-    1009,
-    1010,
-    1011,
-    1012,
     1013,
     1014,
     1015,
     1016
    ]
   },
-  "ocd-division/country:us/state:ne/county:gosper": {
-   "name": "Gosper County",
+  "ocd-division/country:us/state:ne/county:douglas/precinct:2-6": {
+   "name": "Douglas County Precinct 2-6"
+  },
+  "ocd-division/country:us/state:ne/county:dodge": {
+   "name": "Dodge County",
    "officeIndices": [
     1004,
     1005,
     1006,
-    1007
+    1007,
+    1008,
+    1009,
+    1010,
+    1011,
+    1012
    ]
-  },
-  "ocd-division/country:us/state:ne/county:douglas/precinct:2-6": {
-   "name": "Douglas County Precinct 2-6"
   },
   "ocd-division/country:us/state:ne/county:douglas/precinct:2-7": {
    "name": "Douglas County Precinct 2-7"
@@ -18776,91 +18776,91 @@
   },
   {
    "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:ne/county:gosper",
-   "officialIndices": [
-    1050
-   ]
-  },
-  {
-   "name": "Attorney",
-   "divisionId": "ocd-division/country:us/state:ne/county:gosper",
-   "officialIndices": [
-    1051
-   ]
-  },
-  {
-   "name": "Treasurer",
-   "divisionId": "ocd-division/country:us/state:ne/county:gosper",
-   "officialIndices": [
-    1052
-   ]
-  },
-  {
-   "name": "Clerk/Election Comm/Register of Deeds/District Court",
-   "divisionId": "ocd-division/country:us/state:ne/county:gosper",
-   "officialIndices": [
-    1053
-   ]
-  },
-  {
-   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ne/county:dodge",
    "officialIndices": [
-    1054
+    1050
    ]
   },
   {
    "name": "Assessor",
    "divisionId": "ocd-division/country:us/state:ne/county:dodge",
    "officialIndices": [
-    1055
+    1051
    ]
   },
   {
    "name": "Attorney",
    "divisionId": "ocd-division/country:us/state:ne/county:dodge",
    "officialIndices": [
-    1056
+    1052
    ]
   },
   {
    "name": "Surveyor",
    "divisionId": "ocd-division/country:us/state:ne/county:dodge",
    "officialIndices": [
-    1057
+    1053
    ]
   },
   {
    "name": "Treasurer",
    "divisionId": "ocd-division/country:us/state:ne/county:dodge",
    "officialIndices": [
-    1058
+    1054
    ]
   },
   {
    "name": "Register Of Deeds",
    "divisionId": "ocd-division/country:us/state:ne/county:dodge",
    "officialIndices": [
-    1059
+    1055
    ]
   },
   {
    "name": "Register of Deeds",
    "divisionId": "ocd-division/country:us/state:ne/county:dodge",
    "officialIndices": [
-    1060
+    1056
    ]
   },
   {
    "name": "Clerk/Election Comm",
    "divisionId": "ocd-division/country:us/state:ne/county:dodge",
    "officialIndices": [
-    1061
+    1057
    ]
   },
   {
    "name": "Clerk of the District Court",
    "divisionId": "ocd-division/country:us/state:ne/county:dodge",
+   "officialIndices": [
+    1058
+   ]
+  },
+  {
+   "name": "Sheriff",
+   "divisionId": "ocd-division/country:us/state:ne/county:gosper",
+   "officialIndices": [
+    1059
+   ]
+  },
+  {
+   "name": "Attorney",
+   "divisionId": "ocd-division/country:us/state:ne/county:gosper",
+   "officialIndices": [
+    1060
+   ]
+  },
+  {
+   "name": "Treasurer",
+   "divisionId": "ocd-division/country:us/state:ne/county:gosper",
+   "officialIndices": [
+    1061
+   ]
+  },
+  {
+   "name": "Clerk/Election Comm/Register of Deeds/District Court",
+   "divisionId": "ocd-division/country:us/state:ne/county:gosper",
    "officialIndices": [
     1062
    ]
@@ -26261,22 +26261,6 @@
    "party": "Unknown"
   },
   {
-   "name": "Dennis Ocken",
-   "party": "Unknown"
-  },
-  {
-   "name": "Todd Wilson",
-   "party": "Unknown"
-  },
-  {
-   "name": "Cindy Schutz",
-   "party": "Unknown"
-  },
-  {
-   "name": "Cynthia Evans",
-   "party": "Unknown"
-  },
-  {
    "name": "Steve Hespen",
    "party": "Unknown"
   },
@@ -26310,6 +26294,22 @@
   },
   {
    "name": "Linda Nelson",
+   "party": "Unknown"
+  },
+  {
+   "name": "Dennis Ocken",
+   "party": "Unknown"
+  },
+  {
+   "name": "Todd Wilson",
+   "party": "Unknown"
+  },
+  {
+   "name": "Cindy Schutz",
+   "party": "Unknown"
+  },
+  {
+   "name": "Cynthia Evans",
    "party": "Unknown"
   }
  ]

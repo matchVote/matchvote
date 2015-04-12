@@ -54,38 +54,38 @@
   "ocd-division/country:us/state:mn/county:winona/school_district:bluffview_montessori": {
    "name": "bluffview montessori"
   },
-  "ocd-division/country:us/state:mn/place:litchfield/ward:4": {
-   "name": "Meeker County MN - LITCHFIELD W-4"
-  },
   "ocd-division/country:us/state:mn/place:newfolden": {
    "name": "Newfolden city"
   },
-  "ocd-division/country:us/state:mn/place:kilkenny": {
-   "name": "Kilkenny city"
+  "ocd-division/country:us/state:mn/place:litchfield/ward:4": {
+   "name": "Meeker County MN - LITCHFIELD W-4"
   },
   "ocd-division/country:us/state:mn/place:litchfield/ward:3": {
    "name": "Meeker County MN - LITCHFIELD W-3"
   },
-  "ocd-division/country:us/state:mn/county:cass/place:boy_lake": {
-   "name": "Boy Lake township"
+  "ocd-division/country:us/state:mn/place:kilkenny": {
+   "name": "Kilkenny city"
   },
   "ocd-division/country:us/state:mn/place:litchfield/ward:2": {
    "name": "Meeker County MN - LITCHFIELD W-2"
   },
-  "ocd-division/country:us/state:mn/county:clay/place:hagen": {
-   "name": "Hagen township"
+  "ocd-division/country:us/state:mn/county:cass/place:boy_lake": {
+   "name": "Boy Lake township"
   },
   "ocd-division/country:us/state:mn/place:litchfield/ward:1": {
    "name": "Meeker County MN - LITCHFIELD W-1"
   },
+  "ocd-division/country:us/state:mn/county:clay/place:hagen": {
+   "name": "Hagen township"
+  },
   "ocd-division/country:us/state:mn/place:eagan/precinct:3": {
    "name": "Dakota County MN - EAGAN P-03"
   },
-  "ocd-division/country:us/state:mn/place:eagan/precinct:4": {
-   "name": "Dakota County MN - EAGAN P-04"
-  },
   "ocd-division/country:us/state:mn/place:red_wing/ward:1": {
    "name": "Goodhue County MN - RED WING W-1"
+  },
+  "ocd-division/country:us/state:mn/place:eagan/precinct:4": {
+   "name": "Dakota County MN - EAGAN P-04"
   },
   "ocd-division/country:us/state:mn/place:red_wing/ward:2": {
    "name": "Goodhue County MN - RED WING W-2"
@@ -150,14 +150,14 @@
   "ocd-division/country:us/state:mn/place:eagan/precinct:8": {
    "name": "Dakota County MN - EAGAN P-08"
   },
+  "ocd-division/country:us/state:mn/place:st_louis_park/ward:1/precinct:1": {
+   "name": "Hennepin County MN - ST LOUIS PARK W-1 P-01"
+  },
   "ocd-division/country:us/state:mn/county:nicollet/council_district:4": {
    "name": "Nicollet County Commission District 4",
    "officeIndices": [
     228
    ]
-  },
-  "ocd-division/country:us/state:mn/place:st_louis_park/ward:1/precinct:1": {
-   "name": "Hennepin County MN - ST LOUIS PARK W-1 P-01"
   },
   "ocd-division/country:us/state:mn/county:nicollet/council_district:5": {
    "name": "Nicollet County Commission District 5",
@@ -180,35 +180,35 @@
   "ocd-division/country:us/state:mn/county:stearns/place:lake_henry": {
    "name": "Lake Henry township"
   },
-  "ocd-division/country:us/state:mn/county:waseca/place:iosco": {
-   "name": "Iosco township"
+  "ocd-division/country:us/state:mn/place:brooklyn_park/ward:c/precinct:6": {
+   "name": "Hennepin County MN - BROOKLYN PARK W-C P-6"
   },
   "ocd-division/country:us/state:mn/county:mower/place:grand_meadow": {
    "name": "Grand Meadow township"
   },
-  "ocd-division/country:us/state:mn/place:brooklyn_park/ward:c/precinct:6": {
-   "name": "Hennepin County MN - BROOKLYN PARK W-C P-6"
-  },
-  "ocd-division/country:us/state:mn/county:red_lake/place:lake_pleasant": {
-   "name": "Lake Pleasant township"
-  },
-  "ocd-division/country:us/state:mn/county:pope/school_district:minnewaska_school_district": {
-   "name": "minnewaska school district"
-  },
-  "ocd-division/country:us/state:mn/place:brooklyn_park/ward:c/precinct:7": {
-   "name": "Hennepin County MN - BROOKLYN PARK W-C P-7"
+  "ocd-division/country:us/state:mn/county:waseca/place:iosco": {
+   "name": "Iosco township"
   },
   "ocd-division/country:us/state:mn/place:goodhue": {
    "name": "Goodhue city"
   },
-  "ocd-division/country:us/state:mn/county:swift/place:edison": {
-   "name": "Edison township"
+  "ocd-division/country:us/state:mn/place:brooklyn_park/ward:c/precinct:7": {
+   "name": "Hennepin County MN - BROOKLYN PARK W-C P-7"
+  },
+  "ocd-division/country:us/state:mn/county:pope/school_district:minnewaska_school_district": {
+   "name": "minnewaska school district"
+  },
+  "ocd-division/country:us/state:mn/county:red_lake/place:lake_pleasant": {
+   "name": "Lake Pleasant township"
+  },
+  "ocd-division/country:us/state:mn/place:brooklyn_park/ward:c/precinct:8": {
+   "name": "Hennepin County MN - BROOKLYN PARK W-C P-8"
   },
   "ocd-division/country:us/state:mn/county:sibley/place:bismarck": {
    "name": "Bismarck township"
   },
-  "ocd-division/country:us/state:mn/place:brooklyn_park/ward:c/precinct:8": {
-   "name": "Hennepin County MN - BROOKLYN PARK W-C P-8"
+  "ocd-division/country:us/state:mn/county:swift/place:edison": {
+   "name": "Edison township"
   },
   "ocd-division/country:us/state:mn/county:dakota/place:vermillion": {
    "name": "Vermillion township"
@@ -219,11 +219,11 @@
   "ocd-division/country:us/state:mn/county:todd/place:wykeham": {
    "name": "Wykeham township"
   },
-  "ocd-division/country:us/state:mn/county:itasca/place:alvwood": {
-   "name": "Alvwood township"
-  },
   "ocd-division/country:us/state:mn/county:mahnomen/place:gregory": {
    "name": "Gregory township"
+  },
+  "ocd-division/country:us/state:mn/county:itasca/place:alvwood": {
+   "name": "Alvwood township"
   },
   "ocd-division/country:us/state:mn/county:beltrami/place:ten_lake": {
    "name": "Ten Lake township"
@@ -240,14 +240,17 @@
     231
    ]
   },
+  "ocd-division/country:us/state:mn/place:st_michael/precinct:1a": {
+   "name": "Wright County MN - ST MICHAEL P-1A"
+  },
   "ocd-division/country:us/state:mn/county:itasca/council_district:3": {
    "name": "Itasca County Commission District 3",
    "officeIndices": [
     232
    ]
   },
-  "ocd-division/country:us/state:mn/place:st_michael/precinct:1a": {
-   "name": "Wright County MN - ST MICHAEL P-1A"
+  "ocd-division/country:us/state:mn/place:st_michael/precinct:1b": {
+   "name": "Wright County MN - ST MICHAEL P-1B"
   },
   "ocd-division/country:us/state:mn/county:itasca/council_district:4": {
    "name": "Itasca County Commission District 4",
@@ -255,14 +258,11 @@
     233
    ]
   },
-  "ocd-division/country:us/state:mn/place:st_michael/precinct:1b": {
-   "name": "Wright County MN - ST MICHAEL P-1B"
+  "ocd-division/country:us/state:mn/place:brooklyn_park/ward:c/precinct:1": {
+   "name": "Hennepin County MN - BROOKLYN PARK W-C P-1"
   },
   "ocd-division/country:us/state:mn/county:mahnomen/school_district:waubun-ogema-white_earth_public_sch": {
    "name": "waubun-ogema-white earth public sch"
-  },
-  "ocd-division/country:us/state:mn/place:brooklyn_park/ward:c/precinct:1": {
-   "name": "Hennepin County MN - BROOKLYN PARK W-C P-1"
   },
   "ocd-division/country:us/state:mn/county:itasca/council_district:5": {
    "name": "Itasca County Commission District 5",
@@ -330,23 +330,23 @@
   "ocd-division/country:us/state:mn/place:chanhassen/precinct:4": {
    "name": "Carver County MN - CHANHASSEN P-4"
   },
-  "ocd-division/country:us/state:mn/place:chanhassen/precinct:3": {
-   "name": "Carver County MN - CHANHASSEN P-3"
-  },
   "ocd-division/country:us/state:mn/place:eden_prairie/precinct:16": {
    "name": "Hennepin County MN - EDEN PRAIRIE P-16"
   },
-  "ocd-division/country:us/state:mn/place:chanhassen/precinct:2": {
-   "name": "Hennepin County MN - CHANHASSEN P-02"
+  "ocd-division/country:us/state:mn/place:chanhassen/precinct:3": {
+   "name": "Carver County MN - CHANHASSEN P-3"
   },
   "ocd-division/country:us/state:mn/place:eden_prairie/precinct:13": {
    "name": "Hennepin County MN - EDEN PRAIRIE P-13"
   },
-  "ocd-division/country:us/state:mn/place:chanhassen/precinct:1": {
-   "name": "Hennepin County MN - CHANHASSEN P-01"
+  "ocd-division/country:us/state:mn/place:chanhassen/precinct:2": {
+   "name": "Hennepin County MN - CHANHASSEN P-02"
   },
   "ocd-division/country:us/state:mn/place:eden_prairie/precinct:14": {
    "name": "Hennepin County MN - EDEN PRAIRIE P-14"
+  },
+  "ocd-division/country:us/state:mn/place:chanhassen/precinct:1": {
+   "name": "Hennepin County MN - CHANHASSEN P-01"
   },
   "ocd-division/country:us/state:mn/place:fridley/ward:1": {
    "name": "Anoka County MN - FRIDLEY W-1"
@@ -354,20 +354,20 @@
   "ocd-division/country:us/state:mn/place:fridley/ward:2": {
    "name": "Anoka County MN - FRIDLEY W-2"
   },
-  "ocd-division/country:us/state:mn/county:fillmore/place:preble": {
-   "name": "Preble township"
-  },
   "ocd-division/country:us/state:mn/place:fridley/ward:3": {
    "name": "Anoka County MN - FRIDLEY W-3"
   },
-  "ocd-division/country:us/state:mn/place:atwater": {
-   "name": "Atwater city"
+  "ocd-division/country:us/state:mn/county:fillmore/place:preble": {
+   "name": "Preble township"
+  },
+  "ocd-division/country:us/state:mn/place:kelliher": {
+   "name": "Kelliher city"
   },
   "ocd-division/country:us/state:mn/place:barrett": {
    "name": "Barrett city"
   },
-  "ocd-division/country:us/state:mn/place:kelliher": {
-   "name": "Kelliher city"
+  "ocd-division/country:us/state:mn/place:atwater": {
+   "name": "Atwater city"
   },
   "ocd-division/country:us/state:mn/place:plymouth/ward:3": {
    "name": "Hennepin County MN - PLYMOUTH W-3"
@@ -375,11 +375,11 @@
   "ocd-division/country:us/state:mn/place:plymouth/ward:4": {
    "name": "Hennepin County MN - PLYMOUTH W-4"
   },
-  "ocd-division/country:us/state:mn/place:minneota": {
-   "name": "Minneota city"
-  },
   "ocd-division/country:us/state:mn/place:plymouth/ward:1": {
    "name": "Hennepin County MN - PLYMOUTH W-1"
+  },
+  "ocd-division/country:us/state:mn/place:minneota": {
+   "name": "Minneota city"
   },
   "ocd-division/country:us/state:mn/place:plymouth/ward:2": {
    "name": "Hennepin County MN - PLYMOUTH W-2"
@@ -420,11 +420,11 @@
   "ocd-division/country:us/state:mn/place:inver_grove_heights/precinct:10": {
    "name": "Dakota County MN - INVER GROVE HEIGHTS P-10"
   },
-  "ocd-division/country:us/state:mn/place:red_wing/ward:4/precinct:2": {
-   "name": "Goodhue County MN - RED WING W-4 P-2"
-  },
   "ocd-division/country:us/state:mn/place:windom/ward:2/precinct:1": {
    "name": "Cottonwood County MN - WINDOM W-2 P-1"
+  },
+  "ocd-division/country:us/state:mn/place:red_wing/ward:4/precinct:2": {
+   "name": "Goodhue County MN - RED WING W-4 P-2"
   },
   "ocd-division/country:us/state:mn/place:red_wing/ward:4/precinct:1": {
    "name": "Goodhue County MN - RED WING W-4 P-1"
@@ -444,11 +444,11 @@
   "ocd-division/country:us/state:mn/county:otter_tail/place:otter_tail": {
    "name": "Otter Tail township"
   },
-  "ocd-division/country:us/state:mn/county:stearns/place:paynesville": {
-   "name": "Paynesville township"
-  },
   "ocd-division/country:us/state:mn/county:big_stone/place:moonshine": {
    "name": "Moonshine township"
+  },
+  "ocd-division/country:us/state:mn/county:stearns/place:paynesville": {
+   "name": "Paynesville township"
   },
   "ocd-division/country:us/state:mn/county:stearns/place:farming": {
    "name": "Farming township"
@@ -459,77 +459,77 @@
   "ocd-division/country:us/state:mn/county:watonwan/school_district:st._james_public_school_district": {
    "name": "st. james public school district"
   },
-  "ocd-division/country:us/state:mn/county:wright/place:albion": {
-   "name": "Albion township"
-  },
   "ocd-division/country:us/state:mn/place:rushford": {
    "name": "Rushford city"
+  },
+  "ocd-division/country:us/state:mn/county:wright/place:albion": {
+   "name": "Albion township"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:8": {
    "name": "Hennepin County MN - MINNEAPOLIS W-3 P-08"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:9": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-09"
-  },
   "ocd-division/country:us/state:mn/place:st_paul/ward:6/precinct:10": {
    "name": "Ramsey County MN - ST PAUL W-6 P-10"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:6": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-06"
-  },
-  "ocd-division/country:us/state:mn/place:st_paul/ward:6/precinct:11": {
-   "name": "Ramsey County MN - ST PAUL W-6 P-11"
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:9": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-09"
   },
   "ocd-division/country:us/state:mn/place:st_peter": {
    "name": "St. Peter city"
   },
+  "ocd-division/country:us/state:mn/place:st_paul/ward:6/precinct:11": {
+   "name": "Ramsey County MN - ST PAUL W-6 P-11"
+  },
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:6": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-06"
+  },
   "ocd-division/country:us/state:mn/place:alexandria": {
    "name": "Alexandria city"
-  },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:7": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-07"
-  },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:6/precinct:9": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-6 P-09"
   },
   "ocd-division/country:us/state:mn/place:st_paul/ward:6/precinct:12": {
    "name": "Ramsey County MN - ST PAUL W-6 P-12"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:4": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-04"
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:6/precinct:9": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-6 P-09"
+  },
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:7": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-07"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:6/precinct:8": {
    "name": "Hennepin County MN - MINNEAPOLIS W-6 P-08"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:5": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-05"
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:4": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-04"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:6/precinct:7": {
    "name": "Hennepin County MN - MINNEAPOLIS W-6 P-07"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:2": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-02"
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:5": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-05"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:6/precinct:6": {
    "name": "Hennepin County MN - MINNEAPOLIS W-6 P-06"
   },
-  "ocd-division/country:us/state:mn/county:freeborn/place:oakland": {
-   "name": "Oakland township"
-  },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:3": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-03"
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:2": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-02"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:6/precinct:5": {
    "name": "Hennepin County MN - MINNEAPOLIS W-6 P-05"
   },
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:3": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-03"
+  },
+  "ocd-division/country:us/state:mn/county:freeborn/place:oakland": {
+   "name": "Oakland township"
+  },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:6/precinct:4": {
    "name": "Hennepin County MN - MINNEAPOLIS W-6 P-04"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:1": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-01"
-  },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:6/precinct:3": {
    "name": "Hennepin County MN - MINNEAPOLIS W-6 P-03"
+  },
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:1": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-3 P-01"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:6/precinct:2": {
    "name": "Hennepin County MN - MINNEAPOLIS W-6 P-02"
@@ -558,11 +558,11 @@
   "ocd-division/country:us/state:mn/county:marshall/place:eckvoll": {
    "name": "Eckvoll township"
   },
-  "ocd-division/country:us/state:mn/county:goodhue/school_district:goodhue_county_education_dist": {
-   "name": "goodhue county education  dist"
-  },
   "ocd-division/country:us/state:mn/place:st_joseph": {
    "name": "St. Joseph city"
+  },
+  "ocd-division/country:us/state:mn/county:goodhue/school_district:goodhue_county_education_dist": {
+   "name": "goodhue county education  dist"
   },
   "ocd-division/country:us/state:mn/county:marshall/place:huntly": {
    "name": "Huntly township"
@@ -576,11 +576,11 @@
   "ocd-division/country:us/state:mn/county:aitkin/place:cornish": {
    "name": "Cornish township"
   },
-  "ocd-division/country:us/state:mn/county:goodhue/place:holden": {
-   "name": "Holden township"
-  },
   "ocd-division/country:us/state:mn/place:minnetonka/ward:2/precinct:a": {
    "name": "Hennepin County MN - MINNETONKA W-2 P-A-Q"
+  },
+  "ocd-division/country:us/state:mn/county:goodhue/place:holden": {
+   "name": "Holden township"
   },
   "ocd-division/country:us/state:mn/place:minnetonka/ward:2/precinct:b": {
    "name": "Hennepin County MN - MINNETONKA W-2 P-B-Q"
@@ -591,11 +591,14 @@
   "ocd-division/country:us/state:mn/place:minnetonka/ward:2/precinct:d": {
    "name": "Hennepin County MN - MINNETONKA W-2 P-D-Q"
   },
+  "ocd-division/country:us/state:mn/place:minnetonka/ward:2/precinct:e": {
+   "name": "Hennepin County MN - MINNETONKA W-2 P-E"
+  },
   "ocd-division/country:us/state:mn/county:kandiyohi/place:east_lake_lillian": {
    "name": "East Lake Lillian township"
   },
-  "ocd-division/country:us/state:mn/place:minnetonka/ward:2/precinct:e": {
-   "name": "Hennepin County MN - MINNETONKA W-2 P-E"
+  "ocd-division/country:us/state:mn/place:cottage_grove/precinct:1": {
+   "name": "Washington County MN - COTTAGE GROVE P-01"
   },
   "ocd-division/country:us/state:mn/county:todd/council_district:3": {
    "name": "Todd County Commission District 3",
@@ -603,8 +606,8 @@
     235
    ]
   },
-  "ocd-division/country:us/state:mn/place:cottage_grove/precinct:1": {
-   "name": "Washington County MN - COTTAGE GROVE P-01"
+  "ocd-division/country:us/state:mn/place:rose_creek": {
+   "name": "Rose Creek city"
   },
   "ocd-division/country:us/state:mn/county:todd/council_district:4": {
    "name": "Todd County Commission District 4",
@@ -612,8 +615,11 @@
     236
    ]
   },
-  "ocd-division/country:us/state:mn/place:rose_creek": {
-   "name": "Rose Creek city"
+  "ocd-division/country:us/state:mn/place:st_augusta": {
+   "name": "St. Augusta city"
+  },
+  "ocd-division/country:us/state:mn/place:cottage_grove/precinct:3": {
+   "name": "Washington County MN - COTTAGE GROVE P-03"
   },
   "ocd-division/country:us/state:mn/county:todd/council_district:1": {
    "name": "Todd County Commission District 1",
@@ -621,20 +627,14 @@
     237
    ]
   },
-  "ocd-division/country:us/state:mn/place:cottage_grove/precinct:3": {
-   "name": "Washington County MN - COTTAGE GROVE P-03"
-  },
-  "ocd-division/country:us/state:mn/place:st_augusta": {
-   "name": "St. Augusta city"
-  },
-  "ocd-division/country:us/state:mn/place:cottage_grove/precinct:2": {
-   "name": "Washington County MN - COTTAGE GROVE P-02"
-  },
   "ocd-division/country:us/state:mn/county:todd/council_district:2": {
    "name": "Todd County Commission District 2",
    "officeIndices": [
     238
    ]
+  },
+  "ocd-division/country:us/state:mn/place:cottage_grove/precinct:2": {
+   "name": "Washington County MN - COTTAGE GROVE P-02"
   },
   "ocd-division/country:us/state:mn/county:st_louis/place:biwabik": {
    "name": "Biwabik township"
@@ -891,11 +891,11 @@
   "ocd-division/country:us/state:mn/county:wright/place:maple_lake/precinct:1b": {
    "name": "Wright County MN - MAPLE LAKE TWP P-1B"
   },
-  "ocd-division/country:us/state:mn/county:wright/place:maple_lake/precinct:1a": {
-   "name": "Wright County MN - MAPLE LAKE TWP P-1A"
-  },
   "ocd-division/country:us/state:mn/county:clearwater/precinct:red_lake_reservation": {
    "name": "Clearwater County MN - RED LAKE RESERVATION"
+  },
+  "ocd-division/country:us/state:mn/county:wright/place:maple_lake/precinct:1a": {
+   "name": "Wright County MN - MAPLE LAKE TWP P-1A"
   },
   "ocd-division/country:us/state:mn/county:aitkin/place:lakeside": {
    "name": "Lakeside township"
@@ -903,20 +903,20 @@
   "ocd-division/country:us/state:mn/county:crow_wing/precinct:dean_lake": {
    "name": "Crow Wing County MN - DEAN LAKE PREC"
   },
-  "ocd-division/country:us/state:mn/county:washington/school_district:south_washington_county_school_dist": {
-   "name": "south washington county school dist"
-  },
   "ocd-division/country:us/state:mn/county:stearns/place:getty": {
    "name": "Getty township"
+  },
+  "ocd-division/country:us/state:mn/county:washington/school_district:south_washington_county_school_dist": {
+   "name": "south washington county school dist"
   },
   "ocd-division/country:us/state:mn/place:apple_valley/precinct:9": {
    "name": "Dakota County MN - APPLE VALLEY P-09"
   },
-  "ocd-division/country:us/state:mn/county:st_louis/place:clinton": {
-   "name": "Clinton township"
-  },
   "ocd-division/country:us/state:mn/county:ramsey/school_district:nova_classical_academy": {
    "name": "nova classical academy"
+  },
+  "ocd-division/country:us/state:mn/county:st_louis/place:clinton": {
+   "name": "Clinton township"
   },
   "ocd-division/country:us/state:mn/sldl:36b": {
    "name": "Minnesota State House district 36B",
@@ -939,11 +939,11 @@
   "ocd-division/country:us/state:mn/county:ramsey/place:white_bear/precinct:4": {
    "name": "Ramsey County MN - WHITE BEAR TWP P-4"
   },
-  "ocd-division/country:us/state:mn/county:ramsey/place:white_bear/precinct:3": {
-   "name": "Ramsey County MN - WHITE BEAR TWP P-3"
-  },
   "ocd-division/country:us/state:mn/county:big_stone/place:foster": {
    "name": "Foster township"
+  },
+  "ocd-division/country:us/state:mn/county:ramsey/place:white_bear/precinct:3": {
+   "name": "Ramsey County MN - WHITE BEAR TWP P-3"
   },
   "ocd-division/country:us/state:mn/county:ramsey/place:white_bear/precinct:2": {
    "name": "Ramsey County MN - WHITE BEAR TWP P-2"
@@ -966,23 +966,23 @@
   "ocd-division/country:us/state:mn/county:renville/place:birch_cooley": {
    "name": "Birch Cooley township"
   },
-  "ocd-division/country:us/state:mn/county:martin/place:fox_lake": {
-   "name": "Fox Lake township"
-  },
   "ocd-division/country:us/state:mn/sldl:37b": {
    "name": "Minnesota State House district 37B",
    "officeIndices": [
     15
    ]
   },
+  "ocd-division/country:us/state:mn/county:martin/place:fox_lake": {
+   "name": "Fox Lake township"
+  },
   "ocd-division/country:us/state:mn/place:minnesota_lake/precinct:blue_earth": {
    "name": "Blue Earth County MN - MINNESOTA LAKE"
   },
-  "ocd-division/country:us/state:mn/county:st_louis/place:fine_lakes": {
-   "name": "Fine Lakes township"
-  },
   "ocd-division/country:us/state:mn/place:ghent": {
    "name": "Ghent city"
+  },
+  "ocd-division/country:us/state:mn/county:st_louis/place:fine_lakes": {
+   "name": "Fine Lakes township"
   },
   "ocd-division/country:us/state:mn/county:kittson/place:st_vincent": {
    "name": "St. Vincent township"
@@ -999,29 +999,29 @@
   "ocd-division/country:us/state:mn/county:dakota/school_district:inver_grove_heights_schools": {
    "name": "inver grove heights schools"
   },
-  "ocd-division/country:us/state:mn/county:nobles/school_district:ellsworth_public_school_district": {
-   "name": "ellsworth public school district"
-  },
   "ocd-division/country:us/state:mn/county:fillmore/place:canton": {
    "name": "Canton township"
   },
-  "ocd-division/country:us/state:mn/county:douglas/school_district:alexandria_public_school_district": {
-   "name": "alexandria public school district"
+  "ocd-division/country:us/state:mn/county:nobles/school_district:ellsworth_public_school_district": {
+   "name": "ellsworth public school district"
   },
   "ocd-division/country:us/state:mn/county:aitkin/place:libby/precinct:east": {
    "name": "Aitkin County MN - LIBBY TWP E"
   },
+  "ocd-division/country:us/state:mn/county:douglas/school_district:alexandria_public_school_district": {
+   "name": "alexandria public school district"
+  },
   "ocd-division/country:us/state:mn/county:st_louis/school_district:proctor_public_school_district": {
    "name": "proctor public school district"
-  },
-  "ocd-division/country:us/state:mn/county:st_louis/place:wuori": {
-   "name": "Wuori township"
   },
   "ocd-division/country:us/state:mn/sldl:38b": {
    "name": "Minnesota State House district 38B",
    "officeIndices": [
     17
    ]
+  },
+  "ocd-division/country:us/state:mn/county:st_louis/place:wuori": {
+   "name": "Wuori township"
   },
   "ocd-division/country:us/state:mn/sldl:38a": {
    "name": "Minnesota State House district 38A",
@@ -1032,17 +1032,17 @@
   "ocd-division/country:us/state:mn/county:redwood/place:redwood_falls": {
    "name": "Redwood Falls township"
   },
-  "ocd-division/country:us/state:mn/county:koochiching/precinct:scarlett": {
-   "name": "Koochiching County MN - SCARLETT PRECINCT"
-  },
   "ocd-division/country:us/state:mn/place:stillwater": {
    "name": "Stillwater city"
   },
-  "ocd-division/country:us/state:mn/county:isanti/place:wyanett": {
-   "name": "Wyanett township"
+  "ocd-division/country:us/state:mn/county:koochiching/precinct:scarlett": {
+   "name": "Koochiching County MN - SCARLETT PRECINCT"
   },
   "ocd-division/country:us/state:mn/place:cold_spring": {
    "name": "Cold Spring city"
+  },
+  "ocd-division/country:us/state:mn/county:isanti/place:wyanett": {
+   "name": "Wyanett township"
   },
   "ocd-division/country:us/state:mn/place:st_anthony_~hennepin~ramsey_counties~/precinct:hennepin_1": {
    "name": "Hennepin County MN - ST ANTHONY P-01"
@@ -1059,11 +1059,11 @@
   "ocd-division/country:us/state:mn/place:shoreview/precinct:3": {
    "name": "Ramsey County MN - SHOREVIEW P-3"
   },
-  "ocd-division/country:us/state:mn/county:stevens/place:synnes": {
-   "name": "Synnes township"
-  },
   "ocd-division/country:us/state:mn/place:shoreview/precinct:4": {
    "name": "Ramsey County MN - SHOREVIEW P-4"
+  },
+  "ocd-division/country:us/state:mn/county:stevens/place:synnes": {
+   "name": "Synnes township"
   },
   "ocd-division/country:us/state:mn/place:shoreview/precinct:5": {
    "name": "Ramsey County MN - SHOREVIEW P-5"
@@ -1077,17 +1077,11 @@
   "ocd-division/country:us/state:mn/county:aitkin/place:ball_bluff": {
    "name": "Ball Bluff township"
   },
-  "ocd-division/country:us/state:mn/county:mcleod/place:lynn": {
-   "name": "Lynn township"
-  },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:10/precinct:5a": {
    "name": "Hennepin County MN - MINNEAPOLIS W-10 P-05A"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:10/precinct:5b": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-10 P-05B"
-  },
-  "ocd-division/country:us/state:mn/place:staples/precinct:todd": {
-   "name": "Todd County MN - STAPLES"
+  "ocd-division/country:us/state:mn/county:mcleod/place:lynn": {
+   "name": "Lynn township"
   },
   "ocd-division/country:us/state:mn/sldl:31a": {
    "name": "Minnesota State House district 31A",
@@ -1095,11 +1089,14 @@
     19
    ]
   },
+  "ocd-division/country:us/state:mn/place:staples/precinct:todd": {
+   "name": "Todd County MN - STAPLES"
+  },
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:10/precinct:5b": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-10 P-05B"
+  },
   "ocd-division/country:us/state:mn/place:strathcona": {
    "name": "Strathcona city"
-  },
-  "ocd-division/country:us/state:mn/county:pine/place:sturgeon_lake": {
-   "name": "Sturgeon Lake township"
   },
   "ocd-division/country:us/state:mn/sldl:31b": {
    "name": "Minnesota State House district 31B",
@@ -1107,26 +1104,29 @@
     20
    ]
   },
+  "ocd-division/country:us/state:mn/county:pine/place:sturgeon_lake": {
+   "name": "Sturgeon Lake township"
+  },
   "ocd-division/country:us/state:mn/county:otter_tail/place:girard": {
    "name": "Girard township"
-  },
-  "ocd-division/country:us/state:mn/county:rock/place:denver": {
-   "name": "Denver township"
-  },
-  "ocd-division/country:us/state:mn/county:jackson/place:minneota": {
-   "name": "Minneota township"
   },
   "ocd-division/country:us/state:mn/place:lynd": {
    "name": "Lynd city"
   },
+  "ocd-division/country:us/state:mn/county:jackson/place:minneota": {
+   "name": "Minneota township"
+  },
+  "ocd-division/country:us/state:mn/county:rock/place:denver": {
+   "name": "Denver township"
+  },
   "ocd-division/country:us/state:mn/place:marine_on_st_croix": {
    "name": "Marine on St. Croix city"
   },
-  "ocd-division/country:us/state:mn/county:sherburne/school_district:elk_river_public_school_district": {
-   "name": "elk river public school district"
-  },
   "ocd-division/country:us/state:mn/place:crystal/ward:1/precinct:2": {
    "name": "Hennepin County MN - CRYSTAL W-1 P-02"
+  },
+  "ocd-division/country:us/state:mn/county:sherburne/school_district:elk_river_public_school_district": {
+   "name": "elk river public school district"
   },
   "ocd-division/country:us/state:mn/place:crystal/ward:1/precinct:1": {
    "name": "Hennepin County MN - CRYSTAL W-1 P-01"
@@ -1137,11 +1137,11 @@
   "ocd-division/country:us/state:mn/county:itasca/place:ardenhurst": {
    "name": "Ardenhurst township"
   },
-  "ocd-division/country:us/state:mn/county:st_louis/school_district:east_range_academy_of_techandscience": {
-   "name": "east range academy of tech&science"
-  },
   "ocd-division/country:us/state:mn/place:jackson/ward:2": {
    "name": "Jackson County MN - JACKSON W-2"
+  },
+  "ocd-division/country:us/state:mn/county:st_louis/school_district:east_range_academy_of_techandscience": {
+   "name": "east range academy of tech&science"
   },
   "ocd-division/country:us/state:mn/sldl:32a": {
    "name": "Minnesota State House district 32A",
@@ -1155,11 +1155,11 @@
     22
    ]
   },
-  "ocd-division/country:us/state:mn/county:mower/place:red_rock": {
-   "name": "Red Rock township"
-  },
   "ocd-division/country:us/state:mn/county:itasca/place:iron_range": {
    "name": "Iron Range township"
+  },
+  "ocd-division/country:us/state:mn/county:mower/place:red_rock": {
+   "name": "Red Rock township"
   },
   "ocd-division/country:us/state:mn/place:freeport": {
    "name": "Freeport city"
@@ -1182,6 +1182,9 @@
   "ocd-division/country:us/state:mn/place:coon_rapids/ward:5/precinct:1": {
    "name": "Anoka County MN - COON RAPIDS W-5 P-1"
   },
+  "ocd-division/country:us/state:mn/place:iona": {
+   "name": "Iona city"
+  },
   "ocd-division/country:us/state:mn/county:brown": {
    "name": "Brown County",
    "officeIndices": [
@@ -1196,9 +1199,6 @@
     255
    ]
   },
-  "ocd-division/country:us/state:mn/place:iona": {
-   "name": "Iona city"
-  },
   "ocd-division/country:us/state:mn/county:roseau/place:palmville": {
    "name": "Palmville township"
   },
@@ -1208,11 +1208,11 @@
   "ocd-division/country:us/state:mn/county:morrison/place:morrill": {
    "name": "Morrill township"
   },
-  "ocd-division/country:us/state:mn/county:wilkin/place:mccauleyville": {
-   "name": "McCauleyville township"
-  },
   "ocd-division/country:us/state:mn/county:hennepin/school_district:woodson_institute_for_excellence_ch": {
    "name": "woodson institute for excellence ch"
+  },
+  "ocd-division/country:us/state:mn/county:wilkin/place:mccauleyville": {
+   "name": "McCauleyville township"
   },
   "ocd-division/country:us/state:mn/sldl:33a": {
    "name": "Minnesota State House district 33A",
@@ -1232,11 +1232,11 @@
   "ocd-division/country:us/state:mn/county:hubbard/place:rockwood": {
    "name": "Rockwood township"
   },
-  "ocd-division/country:us/state:mn/place:battle_lake": {
-   "name": "Battle Lake city"
-  },
   "ocd-division/country:us/state:mn/place:lyle": {
    "name": "Lyle city"
+  },
+  "ocd-division/country:us/state:mn/place:battle_lake": {
+   "name": "Battle Lake city"
   },
   "ocd-division/country:us/state:mn/county:renville": {
    "name": "Renville County",
@@ -1261,11 +1261,11 @@
   "ocd-division/country:us/state:mn/place:brainerd/ward:2/precinct:2": {
    "name": "Crow Wing County MN - BRAINERD W-2 P-2"
   },
-  "ocd-division/country:us/state:mn/county:fillmore/school_district:lanesboro_public_school_district": {
-   "name": "lanesboro public school district"
-  },
   "ocd-division/country:us/state:mn/place:st_peter/ward:1/precinct:2": {
    "name": "Nicollet County MN - ST PETER W-1 P-2"
+  },
+  "ocd-division/country:us/state:mn/county:fillmore/school_district:lanesboro_public_school_district": {
+   "name": "lanesboro public school district"
   },
   "ocd-division/country:us/state:mn/place:st_peter/ward:1/precinct:1": {
    "name": "Nicollet County MN - ST PETER W-1 P-1"
@@ -1276,17 +1276,17 @@
   "ocd-division/country:us/state:mn/place:minneapolis/ward:10/precinct:3b": {
    "name": "Hennepin County MN - MINNEAPOLIS W-10 P-03B"
   },
-  "ocd-division/country:us/state:mn/county:douglas/place:alexandria": {
-   "name": "Alexandria township"
-  },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:10/precinct:3a": {
    "name": "Hennepin County MN - MINNEAPOLIS W-10 P-03A"
   },
-  "ocd-division/country:us/state:mn/place:alexandria/ward:5/precinct:1": {
-   "name": "Douglas County MN - ALEXANDRIA W-5 P-1"
+  "ocd-division/country:us/state:mn/county:douglas/place:alexandria": {
+   "name": "Alexandria township"
   },
   "ocd-division/country:us/state:mn/place:elba": {
    "name": "Elba city"
+  },
+  "ocd-division/country:us/state:mn/place:alexandria/ward:5/precinct:1": {
+   "name": "Douglas County MN - ALEXANDRIA W-5 P-1"
   },
   "ocd-division/country:us/state:mn/county:dodge/place:wasioja": {
    "name": "Wasioja township"
@@ -1294,17 +1294,17 @@
   "ocd-division/country:us/state:mn/county:otter_tail/place:tumuli": {
    "name": "Tumuli township"
   },
-  "ocd-division/country:us/state:mn/county:cass/school_district:northland_community_schools": {
-   "name": "northland community schools"
-  },
-  "ocd-division/country:us/state:mn/place:gem_lake": {
-   "name": "Gem Lake city"
-  },
   "ocd-division/country:us/state:mn/sldl:34a": {
    "name": "Minnesota State House district 34A",
    "officeIndices": [
     25
    ]
+  },
+  "ocd-division/country:us/state:mn/place:gem_lake": {
+   "name": "Gem Lake city"
+  },
+  "ocd-division/country:us/state:mn/county:cass/school_district:northland_community_schools": {
+   "name": "northland community schools"
   },
   "ocd-division/country:us/state:mn/sldl:34b": {
    "name": "Minnesota State House district 34B",
@@ -2042,17 +2042,17 @@
     283
    ]
   },
-  "ocd-division/country:us/state:mn/county:stevens/council_district:5": {
-   "name": "Stevens County Commission District 5",
-   "officeIndices": [
-    284
-   ]
-  },
   "ocd-division/country:us/state:mn/county:hennepin/school_district:orono_public_school_district": {
    "name": "orono public school district"
   },
   "ocd-division/country:us/state:mn/county:roseau/place:dieter": {
    "name": "Dieter township"
+  },
+  "ocd-division/country:us/state:mn/county:stevens/council_district:5": {
+   "name": "Stevens County Commission District 5",
+   "officeIndices": [
+    284
+   ]
   },
   "ocd-division/country:us/state:mn/place:duluth/precinct:14": {
    "name": "St Louis County MN - DULUTH P-14"
@@ -2198,83 +2198,83 @@
   "ocd-division/country:us/state:mn/county:st_louis/place:prairie_lake": {
    "name": "Prairie Lake township"
   },
-  "ocd-division/country:us/state:mn/place:carlos": {
-   "name": "Carlos city"
-  },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:4/precinct:2": {
    "name": "Hennepin County MN - MINNEAPOLIS W-4 P-02"
   },
   "ocd-division/country:us/state:mn/place:duluth/precinct:23": {
    "name": "St Louis County MN - DULUTH P-23"
   },
-  "ocd-division/country:us/state:mn/county:mille_lacs/place:dailey": {
-   "name": "Dailey township"
-  },
-  "ocd-division/country:us/state:mn/place:duluth/precinct:24": {
-   "name": "St Louis County MN - DULUTH P-24"
+  "ocd-division/country:us/state:mn/place:carlos": {
+   "name": "Carlos city"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:4/precinct:1": {
    "name": "Hennepin County MN - MINNEAPOLIS W-4 P-01"
   },
+  "ocd-division/country:us/state:mn/place:duluth/precinct:24": {
+   "name": "St Louis County MN - DULUTH P-24"
+  },
   "ocd-division/country:us/state:mn/place:burnsville": {
    "name": "Burnsville city"
+  },
+  "ocd-division/country:us/state:mn/county:mille_lacs/place:dailey": {
+   "name": "Dailey township"
   },
   "ocd-division/country:us/state:mn/place:duluth/precinct:25": {
    "name": "St Louis County MN - DULUTH P-25"
   },
-  "ocd-division/country:us/state:mn/county:aitkin/place:turner": {
-   "name": "Turner township"
+  "ocd-division/country:us/state:mn/place:granada": {
+   "name": "Granada city"
   },
   "ocd-division/country:us/state:mn/place:duluth/precinct:26": {
    "name": "St Louis County MN - DULUTH P-26"
   },
-  "ocd-division/country:us/state:mn/place:granada": {
-   "name": "Granada city"
-  },
-  "ocd-division/country:us/state:mn/place:duluth/precinct:27": {
-   "name": "St Louis County MN - DULUTH P-27"
+  "ocd-division/country:us/state:mn/county:aitkin/place:turner": {
+   "name": "Turner township"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:4/precinct:6": {
    "name": "Hennepin County MN - MINNEAPOLIS W-4 P-06"
   },
-  "ocd-division/country:us/state:mn/place:duluth/precinct:28": {
-   "name": "St Louis County MN - DULUTH P-28"
+  "ocd-division/country:us/state:mn/place:duluth/precinct:27": {
+   "name": "St Louis County MN - DULUTH P-27"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:4/precinct:5": {
    "name": "Hennepin County MN - MINNEAPOLIS W-4 P-05"
   },
-  "ocd-division/country:us/state:mn/place:delano": {
-   "name": "Delano city"
-  },
-  "ocd-division/country:us/state:mn/place:duluth/precinct:29": {
-   "name": "St Louis County MN - DULUTH P-29"
+  "ocd-division/country:us/state:mn/place:duluth/precinct:28": {
+   "name": "St Louis County MN - DULUTH P-28"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:4/precinct:4": {
    "name": "Hennepin County MN - MINNEAPOLIS W-4 P-04"
   },
-  "ocd-division/country:us/state:mn/county:benton/place:graham": {
-   "name": "Graham township"
+  "ocd-division/country:us/state:mn/place:duluth/precinct:29": {
+   "name": "St Louis County MN - DULUTH P-29"
+  },
+  "ocd-division/country:us/state:mn/place:delano": {
+   "name": "Delano city"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:4/precinct:3": {
    "name": "Hennepin County MN - MINNEAPOLIS W-4 P-03"
   },
-  "ocd-division/country:us/state:mn/county:pope/place:nora": {
-   "name": "Nora township"
+  "ocd-division/country:us/state:mn/county:benton/place:graham": {
+   "name": "Graham township"
   },
   "ocd-division/country:us/state:mn/place:jackson": {
    "name": "Jackson city"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:4/precinct:8": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-4 P-08"
+  "ocd-division/country:us/state:mn/county:pope/place:nora": {
+   "name": "Nora township"
   },
   "ocd-division/country:us/state:mn/place:silver_bay/precinct:1": {
    "name": "Lake County MN - SILVER BAY P-1"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:4/precinct:7": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-4 P-07"
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:4/precinct:8": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-4 P-08"
   },
   "ocd-division/country:us/state:mn/place:silver_bay/precinct:2": {
    "name": "Lake County MN - SILVER BAY P-2"
+  },
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:4/precinct:7": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-4 P-07"
   },
   "ocd-division/country:us/state:mn/place:lowry": {
    "name": "Lowry city"
@@ -2285,53 +2285,53 @@
   "ocd-division/country:us/state:mn/place:mizpah": {
    "name": "Mizpah city"
   },
-  "ocd-division/country:us/state:mn/county:redwood/place:three_lakes": {
-   "name": "Three Lakes township"
-  },
   "ocd-division/country:us/state:mn/place:heron_lake": {
    "name": "Heron Lake city"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:8": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-1 P-08"
+  "ocd-division/country:us/state:mn/county:redwood/place:three_lakes": {
+   "name": "Three Lakes township"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:8/precinct:7": {
    "name": "Hennepin County MN - MINNEAPOLIS W-8 P-07"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:9": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-1 P-09"
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:8": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-1 P-08"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:8/precinct:8": {
    "name": "Hennepin County MN - MINNEAPOLIS W-8 P-08"
   },
-  "ocd-division/country:us/state:mn/place:grand_rapids": {
-   "name": "Grand Rapids city"
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:9": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-1 P-09"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:8/precinct:5": {
    "name": "Hennepin County MN - MINNEAPOLIS W-8 P-05"
   },
+  "ocd-division/country:us/state:mn/place:grand_rapids": {
+   "name": "Grand Rapids city"
+  },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:8/precinct:6": {
    "name": "Hennepin County MN - MINNEAPOLIS W-8 P-06"
-  },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:8/precinct:3": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-8 P-03"
   },
   "ocd-division/country:us/state:mn/place:west_st_paul/ward:1/precinct:2": {
    "name": "Dakota County MN - WEST ST PAUL W-1 P-2"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:8/precinct:4": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-8 P-04"
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:8/precinct:3": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-8 P-03"
   },
   "ocd-division/country:us/state:mn/place:west_st_paul/ward:1/precinct:1": {
    "name": "Dakota County MN - WEST ST PAUL W-1 P-1"
   },
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:8/precinct:4": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-8 P-04"
+  },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:8/precinct:1": {
    "name": "Hennepin County MN - MINNEAPOLIS W-8 P-01"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:8/precinct:2": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-8 P-02"
-  },
   "ocd-division/country:us/state:mn/place:westport": {
    "name": "Westport city"
+  },
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:8/precinct:2": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-8 P-02"
   },
   "ocd-division/country:us/state:mn/county:kandiyohi/place:holland": {
    "name": "Holland township"
@@ -2348,29 +2348,29 @@
   "ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:7": {
    "name": "Hennepin County MN - MINNEAPOLIS W-1 P-07"
   },
-  "ocd-division/country:us/state:mn/place:andover": {
-   "name": "Andover city"
-  },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:6": {
    "name": "Hennepin County MN - MINNEAPOLIS W-1 P-06"
+  },
+  "ocd-division/country:us/state:mn/place:andover": {
+   "name": "Andover city"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:5": {
    "name": "Hennepin County MN - MINNEAPOLIS W-1 P-05"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:4": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-1 P-04"
-  },
   "ocd-division/country:us/state:mn/place:tower/precinct:1": {
    "name": "St Louis County MN - TOWER P-1"
   },
-  "ocd-division/country:us/state:mn/place:centerville": {
-   "name": "Centerville city"
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:4": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-1 P-04"
+  },
+  "ocd-division/country:us/state:mn/place:tower/precinct:2": {
+   "name": "St Louis County MN - TOWER P-2"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:3": {
    "name": "Hennepin County MN - MINNEAPOLIS W-1 P-03"
   },
-  "ocd-division/country:us/state:mn/place:tower/precinct:2": {
-   "name": "St Louis County MN - TOWER P-2"
+  "ocd-division/country:us/state:mn/place:centerville": {
+   "name": "Centerville city"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:2": {
    "name": "Hennepin County MN - MINNEAPOLIS W-1 P-02"
@@ -2402,11 +2402,11 @@
     296
    ]
   },
-  "ocd-division/country:us/state:mn/county:clay/place:georgetown": {
-   "name": "Georgetown township"
-  },
   "ocd-division/country:us/state:mn/place:bloomington/ward:4/precinct:31": {
    "name": "Hennepin County MN - BLOOMINGTON W-4 P-31"
+  },
+  "ocd-division/country:us/state:mn/county:clay/place:georgetown": {
+   "name": "Georgetown township"
   },
   "ocd-division/country:us/state:mn/place:bloomington/ward:4/precinct:32": {
    "name": "Hennepin County MN - BLOOMINGTON W-4 P-32"
@@ -2447,11 +2447,11 @@
   "ocd-division/country:us/state:mn/county:st_louis/place:alden": {
    "name": "Alden township"
   },
-  "ocd-division/country:us/state:mn/county:olmsted/school_district:zumbro_education_district": {
-   "name": "zumbro education district"
-  },
   "ocd-division/country:us/state:mn/county:carlton/place:automba": {
    "name": "Automba township"
+  },
+  "ocd-division/country:us/state:mn/county:olmsted/school_district:zumbro_education_district": {
+   "name": "zumbro education district"
   },
   "ocd-division/country:us/state:mn/place:crosslake/precinct:2": {
    "name": "Crow Wing County MN - CROSSLAKE P-2"
@@ -2474,14 +2474,14 @@
     299
    ]
   },
-  "ocd-division/country:us/state:mn/county:cass/place:pike_bay": {
-   "name": "Pike Bay township"
-  },
   "ocd-division/country:us/state:mn/county:hennepin/council_district:4": {
    "name": "Hennepin County MN Board of County Commisioners District 4",
    "officeIndices": [
     300
    ]
+  },
+  "ocd-division/country:us/state:mn/county:cass/place:pike_bay": {
+   "name": "Pike Bay township"
   },
   "ocd-division/country:us/state:mn/county:hennepin/council_district:5": {
    "name": "Hennepin County MN Board of County Commisioners District 5",
@@ -2510,11 +2510,11 @@
     304
    ]
   },
-  "ocd-division/country:us/state:mn/place:northrop": {
-   "name": "Northrop city"
-  },
   "ocd-division/country:us/state:mn/place:st_paul_park": {
    "name": "St. Paul Park city"
+  },
+  "ocd-division/country:us/state:mn/place:northrop": {
+   "name": "Northrop city"
   },
   "ocd-division/country:us/state:mn/place:cobden": {
    "name": "Cobden city"
@@ -2525,17 +2525,17 @@
   "ocd-division/country:us/state:mn/county:stearns/place:luxemburg": {
    "name": "Luxemburg township"
   },
-  "ocd-division/country:us/state:mn/county:washington/school_district:forest_lake_public_school_district": {
-   "name": "forest lake public school district"
-  },
   "ocd-division/country:us/state:mn/county:kanabec/place:peace": {
    "name": "Peace township"
   },
-  "ocd-division/country:us/state:mn/county:norman/school_district:norman_county_west_school_district": {
-   "name": "norman county west school district"
+  "ocd-division/country:us/state:mn/county:washington/school_district:forest_lake_public_school_district": {
+   "name": "forest lake public school district"
   },
   "ocd-division/country:us/state:mn/county:dodge/place:westfield": {
    "name": "Westfield township"
+  },
+  "ocd-division/country:us/state:mn/county:norman/school_district:norman_county_west_school_district": {
+   "name": "norman county west school district"
   },
   "ocd-division/country:us/state:mn/county:kanabec/council_district:1": {
    "name": "Kanabec County Commission District 1",
@@ -2549,14 +2549,14 @@
     306
    ]
   },
-  "ocd-division/country:us/state:mn/county:houston/place:houston": {
-   "name": "Houston township"
-  },
   "ocd-division/country:us/state:mn/county:kanabec/council_district:4": {
    "name": "Kanabec County Commission District 4",
    "officeIndices": [
     307
    ]
+  },
+  "ocd-division/country:us/state:mn/county:houston/place:houston": {
+   "name": "Houston township"
   },
   "ocd-division/country:us/state:mn/county:kanabec/council_district:3": {
    "name": "Kanabec County Commission District 3",
@@ -2564,29 +2564,29 @@
     308
    ]
   },
-  "ocd-division/country:us/state:mn/county:isanti/school_district:cambridge-isanti_public_school_dist": {
-   "name": "cambridge-isanti public school dist"
-  },
   "ocd-division/country:us/state:mn/county:kanabec/council_district:5": {
    "name": "Kanabec County Commission District 5",
    "officeIndices": [
     309
    ]
   },
-  "ocd-division/country:us/state:mn/county:morrison/place:lakin": {
-   "name": "Lakin township"
-  },
-  "ocd-division/country:us/state:mn/place:austin/ward:3/precinct:1": {
-   "name": "Mower County MN - AUSTIN W-3 P-1"
+  "ocd-division/country:us/state:mn/county:isanti/school_district:cambridge-isanti_public_school_dist": {
+   "name": "cambridge-isanti public school dist"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:5/precinct:2": {
    "name": "Hennepin County MN - MINNEAPOLIS W-5 P-02"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:5/precinct:3": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-5 P-03"
+  "ocd-division/country:us/state:mn/place:austin/ward:3/precinct:1": {
+   "name": "Mower County MN - AUSTIN W-3 P-1"
+  },
+  "ocd-division/country:us/state:mn/county:morrison/place:lakin": {
+   "name": "Lakin township"
   },
   "ocd-division/country:us/state:mn/place:austin/ward:3/precinct:2": {
    "name": "Mower County MN - AUSTIN W-3 P-2"
+  },
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:5/precinct:3": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-5 P-03"
   },
   "ocd-division/country:us/state:mn/place:babbitt": {
    "name": "Babbitt city"
@@ -3769,6 +3769,9 @@
   "ocd-division/country:us/state:mn/county:meeker/school_district:litchfield_public_school_district": {
    "name": "litchfield public school district"
   },
+  "ocd-division/country:us/state:mn/place:anoka/precinct:4": {
+   "name": "Anoka County MN - ANOKA P-4"
+  },
   "ocd-division/country:us/state:mn/county:dakota": {
    "name": "Dakota County",
    "officeIndices": [
@@ -3780,9 +3783,6 @@
     388,
     389
    ]
-  },
-  "ocd-division/country:us/state:mn/place:anoka/precinct:4": {
-   "name": "Anoka County MN - ANOKA P-4"
   },
   "ocd-division/country:us/state:mn/place:anoka/precinct:3": {
    "name": "Anoka County MN - ANOKA P-3"
@@ -4939,23 +4939,23 @@
   "ocd-division/country:us/state:mn/county:st_louis/place:rice_lake": {
    "name": "Rice Lake township"
   },
-  "ocd-division/country:us/state:mn/county:isanti/place:north_branch": {
-   "name": "North Branch township"
-  },
   "ocd-division/country:us/state:mn/place:litchfield": {
    "name": "Litchfield city"
   },
   "ocd-division/country:us/state:mn/place:east_grand_forks/ward:1": {
    "name": "Polk County MN - EAST GRAND FORKS W-1"
   },
+  "ocd-division/country:us/state:mn/county:isanti/place:north_branch": {
+   "name": "North Branch township"
+  },
   "ocd-division/country:us/state:mn/place:mentor": {
    "name": "Mentor city"
   },
-  "ocd-division/country:us/state:mn/county:otter_tail/place:rush_lake": {
-   "name": "Rush Lake township"
-  },
   "ocd-division/country:us/state:mn/place:tonka_bay": {
    "name": "Tonka Bay city"
+  },
+  "ocd-division/country:us/state:mn/county:otter_tail/place:rush_lake": {
+   "name": "Rush Lake township"
   },
   "ocd-division/country:us/state:mn/county:lake/precinct:territory_1": {
    "name": "Lake County MN - UNORG TERR NO 1"
@@ -4969,11 +4969,11 @@
   "ocd-division/country:us/state:mn/county:aitkin/precinct:nw_aitkin_1": {
    "name": "Aitkin County MN - NW AITKIN UNORG P-1"
   },
-  "ocd-division/country:us/state:mn/county:aitkin/precinct:nw_aitkin_2": {
-   "name": "Aitkin County MN - NW AITKIN UNORG P-2"
-  },
   "ocd-division/country:us/state:mn/place:red_wing/ward:3/precinct:2": {
    "name": "Goodhue County MN - RED WING W-3 P-2"
+  },
+  "ocd-division/country:us/state:mn/county:aitkin/precinct:nw_aitkin_2": {
+   "name": "Aitkin County MN - NW AITKIN UNORG P-2"
   },
   "ocd-division/country:us/state:mn/place:red_wing/ward:3/precinct:1": {
    "name": "Goodhue County MN - RED WING W-3 P-1"
@@ -4993,29 +4993,32 @@
   "ocd-division/country:us/state:mn/place:alvarado": {
    "name": "Alvarado city"
   },
+  "ocd-division/country:us/state:mn/place:sebeka": {
+   "name": "Sebeka city"
+  },
+  "ocd-division/country:us/state:mn/place:mendota_heights/precinct:1": {
+   "name": "Dakota County MN - MENDOTA HEIGHTS P-1"
+  },
   "ocd-division/country:us/state:mn/county:martin/council_district:5": {
    "name": "Martin County Commission District 5",
    "officeIndices": [
     456
    ]
   },
-  "ocd-division/country:us/state:mn/place:mendota_heights/precinct:1": {
-   "name": "Dakota County MN - MENDOTA HEIGHTS P-1"
-  },
-  "ocd-division/country:us/state:mn/place:sebeka": {
-   "name": "Sebeka city"
-  },
   "ocd-division/country:us/state:mn/place:mendota_heights/precinct:2": {
    "name": "Dakota County MN - MENDOTA HEIGHTS P-2"
   },
-  "ocd-division/country:us/state:mn/county:wilkin/place:nilsen": {
-   "name": "Nilsen township"
+  "ocd-division/country:us/state:mn/place:mendota_heights/precinct:3": {
+   "name": "Dakota County MN - MENDOTA HEIGHTS P-3"
   },
   "ocd-division/country:us/state:mn/county:houston/place:crooked_creek": {
    "name": "Crooked Creek township"
   },
-  "ocd-division/country:us/state:mn/place:mendota_heights/precinct:3": {
-   "name": "Dakota County MN - MENDOTA HEIGHTS P-3"
+  "ocd-division/country:us/state:mn/county:wilkin/place:nilsen": {
+   "name": "Nilsen township"
+  },
+  "ocd-division/country:us/state:mn/place:mendota_heights": {
+   "name": "Mendota Heights city"
   },
   "ocd-division/country:us/state:mn/county:martin/council_district:2": {
    "name": "Martin County Commission District 2",
@@ -5023,23 +5026,20 @@
     457
    ]
   },
-  "ocd-division/country:us/state:mn/place:mendota_heights": {
-   "name": "Mendota Heights city"
-  },
   "ocd-division/country:us/state:mn/county:martin/council_district:1": {
    "name": "Martin County Commission District 1",
    "officeIndices": [
     458
    ]
   },
+  "ocd-division/country:us/state:mn/county:dakota/place:greenvale": {
+   "name": "Greenvale township"
+  },
   "ocd-division/country:us/state:mn/county:martin/council_district:4": {
    "name": "Martin County Commission District 4",
    "officeIndices": [
     459
    ]
-  },
-  "ocd-division/country:us/state:mn/county:dakota/place:greenvale": {
-   "name": "Greenvale township"
   },
   "ocd-division/country:us/state:mn/county:martin/council_district:3": {
    "name": "Martin County Commission District 3",
@@ -5053,17 +5053,17 @@
   "ocd-division/country:us/state:mn/county:clearwater/place:eddy": {
    "name": "Eddy township"
   },
-  "ocd-division/country:us/state:mn/county:stevens/place:hodges": {
-   "name": "Hodges township"
-  },
-  "ocd-division/country:us/state:mn/county:sibley/school_district:minnesota_new_country_school": {
-   "name": "minnesota new country school"
-  },
   "ocd-division/country:us/state:mn/county:douglas/council_district:5": {
    "name": "Douglas County Commission District 5",
    "officeIndices": [
     461
    ]
+  },
+  "ocd-division/country:us/state:mn/county:sibley/school_district:minnesota_new_country_school": {
+   "name": "minnesota new country school"
+  },
+  "ocd-division/country:us/state:mn/county:stevens/place:hodges": {
+   "name": "Hodges township"
   },
   "ocd-division/country:us/state:mn/place:clements": {
    "name": "Clements city"
@@ -5083,14 +5083,14 @@
     463
    ]
   },
-  "ocd-division/country:us/state:mn/county:waseca/place:alton": {
-   "name": "Alton township"
-  },
   "ocd-division/country:us/state:mn/county:douglas/council_district:4": {
    "name": "Douglas County Commission District 4",
    "officeIndices": [
     464
    ]
+  },
+  "ocd-division/country:us/state:mn/county:waseca/place:alton": {
+   "name": "Alton township"
   },
   "ocd-division/country:us/state:mn/county:douglas/council_district:3": {
    "name": "Douglas County Commission District 3",
@@ -5110,17 +5110,17 @@
   "ocd-division/country:us/state:mn/place:minneapolis/ward:13/precinct:2": {
    "name": "Hennepin County MN - MINNEAPOLIS W-13 P-02"
   },
-  "ocd-division/country:us/state:mn/county:stearns/school_district:belgrade-brooten-elrosa_school_dist": {
-   "name": "belgrade-brooten-elrosa school dist"
-  },
   "ocd-division/country:us/state:mn/county:chippewa/place:tunsberg": {
    "name": "Tunsberg township"
   },
-  "ocd-division/country:us/state:mn/county:winona/place:dresbach": {
-   "name": "Dresbach township"
+  "ocd-division/country:us/state:mn/county:stearns/school_district:belgrade-brooten-elrosa_school_dist": {
+   "name": "belgrade-brooten-elrosa school dist"
   },
   "ocd-division/country:us/state:mn/county:otter_tail/school_district:region_4-lakes_country_service_coop": {
    "name": "region 4-lakes country service coop"
+  },
+  "ocd-division/country:us/state:mn/county:winona/place:dresbach": {
+   "name": "Dresbach township"
   },
   "ocd-division/country:us/state:mn/place:little_canada": {
    "name": "Little Canada city"
@@ -5145,11 +5145,11 @@
   "ocd-division/country:us/state:mn/place:champlin/ward:2": {
    "name": "Hennepin County MN - CHAMPLIN W-2 P-01"
   },
-  "ocd-division/country:us/state:mn/county:cass/place:may": {
-   "name": "May township"
-  },
   "ocd-division/country:us/state:mn/place:champlin/ward:1": {
    "name": "Hennepin County MN - CHAMPLIN W-1 P-01"
+  },
+  "ocd-division/country:us/state:mn/county:cass/place:may": {
+   "name": "May township"
   },
   "ocd-division/country:us/state:mn/place:champlin/ward:4": {
    "name": "Hennepin County MN - CHAMPLIN W-4 P-01"
@@ -5157,26 +5157,23 @@
   "ocd-division/country:us/state:mn/place:champlin/ward:3": {
    "name": "Hennepin County MN - CHAMPLIN W-3 P-01"
   },
-  "ocd-division/country:us/state:mn/county:lyon/place:fairview": {
-   "name": "Fairview township"
-  },
   "ocd-division/country:us/state:mn/place:st_paul/ward:7/precinct:10": {
    "name": "Ramsey County MN - ST PAUL W-7 P-10"
   },
-  "ocd-division/country:us/state:mn/place:rice": {
-   "name": "Rice city"
+  "ocd-division/country:us/state:mn/county:lyon/place:fairview": {
+   "name": "Fairview township"
   },
   "ocd-division/country:us/state:mn/place:st_paul/ward:7/precinct:11": {
    "name": "Ramsey County MN - ST PAUL W-7 P-11"
+  },
+  "ocd-division/country:us/state:mn/place:rice": {
+   "name": "Rice city"
   },
   "ocd-division/country:us/state:mn/place:st_paul/ward:7/precinct:12": {
    "name": "Ramsey County MN - ST PAUL W-7 P-12"
   },
   "ocd-division/country:us/state:mn/place:st_paul/ward:7/precinct:13": {
    "name": "Ramsey County MN - ST PAUL W-7 P-13"
-  },
-  "ocd-division/country:us/state:mn/county:hennepin/school_district:robbinsdale_public_school_district": {
-   "name": "robbinsdale public school district"
   },
   "ocd-division/country:us/state:mn/county:kandiyohi": {
    "name": "Kandiyohi County",
@@ -5191,6 +5188,9 @@
     482,
     483
    ]
+  },
+  "ocd-division/country:us/state:mn/county:hennepin/school_district:robbinsdale_public_school_district": {
+   "name": "robbinsdale public school district"
   },
   "ocd-division/country:us/state:mn/place:osakis": {
    "name": "Osakis city"
@@ -5235,11 +5235,11 @@
   "ocd-division/country:us/state:mn/county:becker/place:walworth": {
    "name": "Walworth township"
   },
-  "ocd-division/country:us/state:mn/county:renville/school_district:bird_island-olivia-lklillian-danube": {
-   "name": "bird island-olivia-lklillian-danube"
-  },
   "ocd-division/country:us/state:mn/county:nobles/place:indian_lake": {
    "name": "Indian Lake township"
+  },
+  "ocd-division/country:us/state:mn/county:renville/school_district:bird_island-olivia-lklillian-danube": {
+   "name": "bird island-olivia-lklillian-danube"
   },
   "ocd-division/country:us/state:mn/county:goodhue/place:belle_creek": {
    "name": "Belle Creek township"
@@ -5257,41 +5257,41 @@
     499
    ]
   },
-  "ocd-division/country:us/state:mn/county:chisago/place:chisago_lake/precinct:s": {
-   "name": "Chisago County MN - CHISAGO LAKE TWP (S)"
+  "ocd-division/country:us/state:mn/place:raymond": {
+   "name": "Raymond city"
   },
   "ocd-division/country:us/state:mn/place:blaine/ward:2/precinct:1a": {
    "name": "Anoka County MN - BLAINE W-2 P-2A"
   },
-  "ocd-division/country:us/state:mn/place:raymond": {
-   "name": "Raymond city"
+  "ocd-division/country:us/state:mn/county:chisago/place:chisago_lake/precinct:s": {
+   "name": "Chisago County MN - CHISAGO LAKE TWP (S)"
   },
   "ocd-division/country:us/state:mn/county:hennepin/school_district:fraser_academy": {
    "name": "fraser academy"
   },
-  "ocd-division/country:us/state:mn/county:chisago/place:chisago_lake/precinct:n": {
-   "name": "Chisago County MN - CHISAGO LAKE TWP (N)"
-  },
   "ocd-division/country:us/state:mn/county:hennepin/school_district:watershed_high_school": {
    "name": "watershed high school"
+  },
+  "ocd-division/country:us/state:mn/county:chisago/place:chisago_lake/precinct:n": {
+   "name": "Chisago County MN - CHISAGO LAKE TWP (N)"
   },
   "ocd-division/country:us/state:mn/place:eagle_lake": {
    "name": "Eagle Lake city"
   },
-  "ocd-division/country:us/state:mn/county:todd/place:iona": {
-   "name": "Iona township"
-  },
   "ocd-division/country:us/state:mn/county:fillmore/place:carrolton": {
    "name": "Carrolton township"
+  },
+  "ocd-division/country:us/state:mn/county:todd/place:iona": {
+   "name": "Iona township"
   },
   "ocd-division/country:us/state:mn/county:clearwater/place:rice": {
    "name": "Rice township"
   },
-  "ocd-division/country:us/state:mn/county:st_louis/place:cherry": {
-   "name": "Cherry township"
-  },
   "ocd-division/country:us/state:mn/place:hilltop": {
    "name": "Hilltop city"
+  },
+  "ocd-division/country:us/state:mn/county:st_louis/place:cherry": {
+   "name": "Cherry township"
   },
   "ocd-division/country:us/state:mn/county:carlton/precinct:progress": {
    "name": "Carlton County MN - PROGRESS UNORG"
@@ -5305,11 +5305,11 @@
   "ocd-division/country:us/state:mn/place:edina/precinct:7": {
    "name": "Hennepin County MN - EDINA P-07"
   },
-  "ocd-division/country:us/state:mn/county:aitkin/place:mcgregor": {
-   "name": "McGregor township"
-  },
   "ocd-division/country:us/state:mn/place:edina/precinct:8": {
    "name": "Hennepin County MN - EDINA P-08"
+  },
+  "ocd-division/country:us/state:mn/county:aitkin/place:mcgregor": {
+   "name": "McGregor township"
   },
   "ocd-division/country:us/state:mn/place:edina/precinct:9": {
    "name": "Hennepin County MN - EDINA P-09"
@@ -8748,26 +8748,26 @@
   "ocd-division/country:us/state:mn/county:anoka/school_district:paladin_academy": {
    "name": "paladin academy"
   },
-  "ocd-division/country:us/state:mn/county:rice/council_district:2": {
-   "name": "Rice County Commission District 2",
-   "officeIndices": [
-    699
-   ]
-  },
   "ocd-division/country:us/state:mn/county:benton/place:gilmanton": {
    "name": "Gilmanton township"
   },
   "ocd-division/country:us/state:mn/county:cass/school_district:pillager_public_school_district": {
    "name": "pillager public school district"
   },
+  "ocd-division/country:us/state:mn/county:rice/council_district:2": {
+   "name": "Rice County Commission District 2",
+   "officeIndices": [
+    699
+   ]
+  },
+  "ocd-division/country:us/state:mn/place:lake_wilson": {
+   "name": "Lake Wilson city"
+  },
   "ocd-division/country:us/state:mn/county:rice/council_district:1": {
    "name": "Rice County Commission District 1",
    "officeIndices": [
     700
    ]
-  },
-  "ocd-division/country:us/state:mn/place:lake_wilson": {
-   "name": "Lake Wilson city"
   },
   "ocd-division/country:us/state:mn/county:chippewa/place:granite_falls/precinct:2": {
    "name": "Chippewa County MN - GRANITE FALLS TWP P-2"
@@ -8847,23 +8847,23 @@
   "ocd-division/country:us/state:mn/county:winona/place:new_hartford": {
    "name": "New Hartford township"
   },
+  "ocd-division/country:us/state:mn/county:marshall/place:bloomer": {
+   "name": "Bloomer township"
+  },
   "ocd-division/country:us/state:mn/cd:3": {
    "name": "Minnesota's 3rd congressional district",
    "officeIndices": [
     0
    ]
   },
-  "ocd-division/country:us/state:mn/county:marshall/place:bloomer": {
-   "name": "Bloomer township"
+  "ocd-division/country:us/state:mn/county:lac_qui_parle/place:walter": {
+   "name": "Walter township"
   },
   "ocd-division/country:us/state:mn/cd:2": {
    "name": "Minnesota's 2nd congressional district",
    "officeIndices": [
     1
    ]
-  },
-  "ocd-division/country:us/state:mn/county:lac_qui_parle/place:walter": {
-   "name": "Walter township"
   },
   "ocd-division/country:us/state:mn/cd:1": {
    "name": "Minnesota's 1st congressional district",
@@ -8883,19 +8883,13 @@
   "ocd-division/country:us/state:mn/county:waseca/place:st_mary": {
    "name": "St. Mary township"
   },
+  "ocd-division/country:us/state:mn/place:vernon_center": {
+   "name": "Vernon Center city"
+  },
   "ocd-division/country:us/state:mn/cd:8": {
    "name": "Minnesota's 8th congressional district",
    "officeIndices": [
     3
-   ]
-  },
-  "ocd-division/country:us/state:mn/place:vernon_center": {
-   "name": "Vernon Center city"
-  },
-  "ocd-division/country:us/state:mn/cd:7": {
-   "name": "Minnesota's 7th congressional district",
-   "officeIndices": [
-    4
    ]
   },
   "ocd-division/country:us/state:mn/place:gully": {
@@ -8905,6 +8899,12 @@
    "name": "Brown County Commission District 1",
    "officeIndices": [
     704
+   ]
+  },
+  "ocd-division/country:us/state:mn/cd:7": {
+   "name": "Minnesota's 7th congressional district",
+   "officeIndices": [
+    4
    ]
   },
   "ocd-division/country:us/state:mn/county:sherburne/place:big_lake/precinct:2": {
@@ -8925,14 +8925,14 @@
     6
    ]
   },
+  "ocd-division/country:us/state:mn/county:blue_earth/place:mcpherson": {
+   "name": "McPherson township"
+  },
   "ocd-division/country:us/state:mn/cd:4": {
    "name": "Minnesota's 4th congressional district",
    "officeIndices": [
     7
    ]
-  },
-  "ocd-division/country:us/state:mn/county:blue_earth/place:mcpherson": {
-   "name": "McPherson township"
   },
   "ocd-division/country:us/state:mn/county:roseau/school_district:roseau_public_school_district": {
    "name": "roseau public school district"
@@ -9164,11 +9164,11 @@
   "ocd-division/country:us/state:mn/place:st_louis_park/ward:2/precinct:8": {
    "name": "Hennepin County MN - ST LOUIS PARK W-2 P-08"
   },
-  "ocd-division/country:us/state:mn/place:sacred_heart": {
-   "name": "Sacred Heart city"
-  },
   "ocd-division/country:us/state:mn/place:st_louis_park/ward:2/precinct:7": {
    "name": "Hennepin County MN - ST LOUIS PARK W-2 P-07"
+  },
+  "ocd-division/country:us/state:mn/place:sacred_heart": {
+   "name": "Sacred Heart city"
   },
   "ocd-division/country:us/state:mn/place:st_louis_park/ward:2/precinct:6": {
    "name": "Hennepin County MN - ST LOUIS PARK W-2 P-06"
@@ -10471,29 +10471,29 @@
   "ocd-division/country:us/state:mn/county:dodge/place:ashland": {
    "name": "Ashland township"
   },
-  "ocd-division/country:us/state:mn/county:carlton/place:beseman": {
-   "name": "Beseman township"
-  },
   "ocd-division/country:us/state:mn/county:jackson/place:wisconsin": {
    "name": "Wisconsin township"
+  },
+  "ocd-division/country:us/state:mn/county:carlton/place:beseman": {
+   "name": "Beseman township"
   },
   "ocd-division/country:us/state:mn/place:campbell": {
    "name": "Campbell city"
   },
-  "ocd-division/country:us/state:mn/place:bayport": {
-   "name": "Bayport city"
-  },
   "ocd-division/country:us/state:mn/place:worthington/ward:2/precinct:1": {
    "name": "Nobles County MN - WORTHINGTON W-2 P-1"
+  },
+  "ocd-division/country:us/state:mn/place:bayport": {
+   "name": "Bayport city"
   },
   "ocd-division/country:us/state:mn/place:worthington/ward:2/precinct:2": {
    "name": "Nobles County MN - WORTHINGTON W-2 P-2"
   },
-  "ocd-division/country:us/state:mn/county:todd/place:little_sauk": {
-   "name": "Little Sauk township"
-  },
   "ocd-division/country:us/state:mn/place:worthington/ward:2/precinct:3": {
    "name": "Nobles County MN - WORTHINGTON W-2 P-3"
+  },
+  "ocd-division/country:us/state:mn/county:todd/place:little_sauk": {
+   "name": "Little Sauk township"
   },
   "ocd-division/country:us/state:mn/place:worthington/ward:2/precinct:4": {
    "name": "Nobles County MN - WORTHINGTON W-2 P-4"
@@ -10527,17 +10527,20 @@
     828
    ]
   },
+  "ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:2c-unorganized": {
+   "name": "Lake Of The Woods County MN - 0065 - 2-C UNORG"
+  },
   "ocd-division/country:us/state:mn/county:wright/place:corinna": {
    "name": "Corinna township"
   },
-  "ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:2c-unorganized": {
-   "name": "Lake Of The Woods County MN - 0065 - 2-C UNORG"
+  "ocd-division/country:us/state:mn/place:cambridge/precinct:2-east": {
+   "name": "Isanti County MN - CAMBRIDGE EAST - P2"
   },
   "ocd-division/country:us/state:mn/county:cass/place:meadow_brook": {
    "name": "Meadow Brook township"
   },
-  "ocd-division/country:us/state:mn/place:cambridge/precinct:2-east": {
-   "name": "Isanti County MN - CAMBRIDGE EAST - P2"
+  "ocd-division/country:us/state:mn/county:red_lake/school_district:oklee_public_school_district": {
+   "name": "oklee public school district"
   },
   "ocd-division/country:us/state:mn/county:rock": {
    "name": "Rock County",
@@ -10551,74 +10554,71 @@
     835
    ]
   },
-  "ocd-division/country:us/state:mn/county:red_lake/school_district:oklee_public_school_district": {
-   "name": "oklee public school district"
-  },
   "ocd-division/country:us/state:mn/county:goodhue/place:wacouta": {
    "name": "Wacouta township"
   },
   "ocd-division/country:us/state:mn/place:two_harbors/ward:4": {
    "name": "Lake County MN - TWO HARBORS W-4"
   },
-  "ocd-division/country:us/state:mn/place:belle_plaine": {
-   "name": "Belle Plaine city"
-  },
   "ocd-division/country:us/state:mn/place:two_harbors/ward:3": {
    "name": "Lake County MN - TWO HARBORS W-3"
+  },
+  "ocd-division/country:us/state:mn/place:belle_plaine": {
+   "name": "Belle Plaine city"
   },
   "ocd-division/country:us/state:mn/county:jackson/place:weimer": {
    "name": "Weimer township"
   },
-  "ocd-division/country:us/state:mn/county:dakota/school_district:prairie_creek_community_school": {
-   "name": "prairie creek community school"
+  "ocd-division/country:us/state:mn/place:greenfield": {
+   "name": "Greenfield city"
   },
   "ocd-division/country:us/state:mn/place:forest_lake/precinct:1": {
    "name": "Washington County MN - FOREST LAKE P-1"
   },
-  "ocd-division/country:us/state:mn/place:greenfield": {
-   "name": "Greenfield city"
-  },
-  "ocd-division/country:us/state:mn/county:pennington/place:bray": {
-   "name": "Bray township"
+  "ocd-division/country:us/state:mn/county:dakota/school_district:prairie_creek_community_school": {
+   "name": "prairie creek community school"
   },
   "ocd-division/country:us/state:mn/place:conger": {
    "name": "Conger city"
   },
+  "ocd-division/country:us/state:mn/county:pennington/place:bray": {
+   "name": "Bray township"
+  },
   "ocd-division/country:us/state:mn/place:forest_lake/precinct:3": {
    "name": "Washington County MN - FOREST LAKE P-3"
-  },
-  "ocd-division/country:us/state:mn/county:todd/place:bruce": {
-   "name": "Bruce township"
   },
   "ocd-division/country:us/state:mn/place:forest_lake/precinct:2": {
    "name": "Washington County MN - FOREST LAKE P-2"
   },
+  "ocd-division/country:us/state:mn/county:todd/place:bruce": {
+   "name": "Bruce township"
+  },
   "ocd-division/country:us/state:mn/place:forest_lake/precinct:5": {
    "name": "Washington County MN - FOREST LAKE P-5"
-  },
-  "ocd-division/country:us/state:mn/county:becker/place:atlanta": {
-   "name": "Atlanta township"
   },
   "ocd-division/country:us/state:mn/place:forest_lake/precinct:4": {
    "name": "Washington County MN - FOREST LAKE P-4"
   },
-  "ocd-division/country:us/state:mn/county:pope/place:hoff": {
-   "name": "Hoff township"
+  "ocd-division/country:us/state:mn/county:becker/place:atlanta": {
+   "name": "Atlanta township"
   },
   "ocd-division/country:us/state:mn/place:brainerd/ward:4/precinct:1": {
    "name": "Crow Wing County MN - BRAINERD W-4 P-1"
   },
-  "ocd-division/country:us/state:mn/county:becker/place:audubon": {
-   "name": "Audubon township"
+  "ocd-division/country:us/state:mn/county:pope/place:hoff": {
+   "name": "Hoff township"
   },
-  "ocd-division/country:us/state:mn/county:kandiyohi/place:kandiyohi": {
-   "name": "Kandiyohi township"
+  "ocd-division/country:us/state:mn/place:new_richland": {
+   "name": "New Richland city"
   },
   "ocd-division/country:us/state:mn/place:brainerd/ward:4/precinct:2": {
    "name": "Crow Wing County MN - BRAINERD W-4 P-2"
   },
-  "ocd-division/country:us/state:mn/place:new_richland": {
-   "name": "New Richland city"
+  "ocd-division/country:us/state:mn/county:kandiyohi/place:kandiyohi": {
+   "name": "Kandiyohi township"
+  },
+  "ocd-division/country:us/state:mn/county:becker/place:audubon": {
+   "name": "Audubon township"
   },
   "ocd-division/country:us/state:mn/county:big_stone/place:otrey": {
    "name": "Otrey township"
@@ -10635,38 +10635,38 @@
   "ocd-division/country:us/state:mn/county:wright/place:buffalo": {
    "name": "Buffalo township"
   },
-  "ocd-division/country:us/state:mn/county:wright/place:rockford": {
-   "name": "Rockford township"
-  },
   "ocd-division/country:us/state:mn/county:polk/place:chester": {
    "name": "Chester township"
+  },
+  "ocd-division/country:us/state:mn/county:wright/place:rockford": {
+   "name": "Rockford township"
   },
   "ocd-division/country:us/state:mn/place:fergus_falls/ward:3": {
    "name": "Otter Tail County MN - FERGUS FALLS W-3"
   },
-  "ocd-division/country:us/state:mn/county:hubbard/place:lakeport/precinct:1": {
-   "name": "Hubbard County MN - LAKEPORT TWP P-1"
+  "ocd-division/country:us/state:mn/place:fergus_falls/ward:2": {
+   "name": "Otter Tail County MN - FERGUS FALLS W-2"
   },
   "ocd-division/country:us/state:mn/county:marshall/place:foldahl": {
    "name": "Foldahl township"
   },
-  "ocd-division/country:us/state:mn/place:fergus_falls/ward:2": {
-   "name": "Otter Tail County MN - FERGUS FALLS W-2"
-  },
-  "ocd-division/country:us/state:mn/county:grant/place:pomme_de_terre": {
-   "name": "Pomme de Terre township"
+  "ocd-division/country:us/state:mn/county:hubbard/place:lakeport/precinct:1": {
+   "name": "Hubbard County MN - LAKEPORT TWP P-1"
   },
   "ocd-division/country:us/state:mn/county:hubbard/place:lakeport/precinct:2": {
    "name": "Hubbard County MN - LAKEPORT TWP P-2"
   },
-  "ocd-division/country:us/state:mn/county:pine/place:pokegama": {
-   "name": "Pokegama township"
+  "ocd-division/country:us/state:mn/county:grant/place:pomme_de_terre": {
+   "name": "Pomme de Terre township"
+  },
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:2/precinct:9": {
+   "name": "Hennepin County MN - MINNEAPOLIS W-2 P-09"
   },
   "ocd-division/country:us/state:mn/place:fergus_falls/ward:4": {
    "name": "Otter Tail County MN - FERGUS FALLS W-4"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:2/precinct:9": {
-   "name": "Hennepin County MN - MINNEAPOLIS W-2 P-09"
+  "ocd-division/country:us/state:mn/county:pine/place:pokegama": {
+   "name": "Pokegama township"
   },
   "ocd-division/country:us/state:mn/county:carver/council_district:4": {
    "name": "Carver County Commission District 4",
@@ -10674,23 +10674,23 @@
     836
    ]
   },
+  "ocd-division/country:us/state:mn/county:lake/school_district:lake_superior_public_school_dist": {
+   "name": "lake superior public school dist"
+  },
   "ocd-division/country:us/state:mn/county:carver/council_district:3": {
    "name": "Carver County Commission District 3",
    "officeIndices": [
     837
    ]
   },
-  "ocd-division/country:us/state:mn/county:lake/school_district:lake_superior_public_school_dist": {
-   "name": "lake superior public school dist"
+  "ocd-division/country:us/state:mn/place:fergus_falls/ward:1": {
+   "name": "Otter Tail County MN - FERGUS FALLS W-1"
   },
   "ocd-division/country:us/state:mn/county:carver/council_district:2": {
    "name": "Carver County Commission District 2",
    "officeIndices": [
     838
    ]
-  },
-  "ocd-division/country:us/state:mn/place:fergus_falls/ward:1": {
-   "name": "Otter Tail County MN - FERGUS FALLS W-1"
   },
   "ocd-division/country:us/state:mn/county:carver/council_district:1": {
    "name": "Carver County Commission District 1",
@@ -11300,11 +11300,11 @@
   "ocd-division/country:us/state:mn/county:hubbard/place:clay": {
    "name": "Clay township"
   },
-  "ocd-division/country:us/state:mn/place:coon_rapids/ward:4": {
-   "name": "Anoka County MN - COON RAPIDS W-4"
-  },
   "ocd-division/country:us/state:mn/place:roseville/precinct:8": {
    "name": "Ramsey County MN - ROSEVILLE P-08"
+  },
+  "ocd-division/country:us/state:mn/place:coon_rapids/ward:4": {
+   "name": "Anoka County MN - COON RAPIDS W-4"
   },
   "ocd-division/country:us/state:mn/place:plymouth/ward:1/precinct:5": {
    "name": "Hennepin County MN - PLYMOUTH W-1 P-05"
@@ -13989,11 +13989,11 @@
   "ocd-division/country:us/state:mn/place:woodbury/precinct:4": {
    "name": "Washington County MN - WOODBURY P-04"
   },
-  "ocd-division/country:us/state:mn/place:plymouth": {
-   "name": "Plymouth city"
-  },
   "ocd-division/country:us/state:mn/place:woodbury/precinct:7": {
    "name": "Washington County MN - WOODBURY P-07"
+  },
+  "ocd-division/country:us/state:mn/place:plymouth": {
+   "name": "Plymouth city"
   },
   "ocd-division/country:us/state:mn/county:marshall/place:east_valley": {
    "name": "East Valley township"
@@ -14106,6 +14106,9 @@
   "ocd-division/country:us/state:mn/county:ramsey/school_district:high_school_for_recording_arts": {
    "name": "high school for recording arts"
   },
+  "ocd-division/country:us/state:mn/county:renville/place:cairo": {
+   "name": "Cairo township"
+  },
   "ocd-division/country:us/state:mn/county:st_louis": {
    "name": "St. Louis County",
    "officeIndices": [
@@ -14123,9 +14126,6 @@
     1042,
     1043
    ]
-  },
-  "ocd-division/country:us/state:mn/county:renville/place:cairo": {
-   "name": "Cairo township"
   },
   "ocd-division/country:us/state:mn/county:roseau/place:barto": {
    "name": "Barto township"
@@ -17760,26 +17760,26 @@
   "ocd-division/country:us/state:mn/county:steele/school_district:owatonna_public_school_district": {
    "name": "owatonna public school district"
   },
-  "ocd-division/country:us/state:mn/place:minneapolis/ward:6": {
-   "name": "Minneapolis MN ward 6",
-   "officeIndices": [
-    1300
-   ]
-  },
   "ocd-division/country:us/state:mn/place:ramsey/ward:2/precinct:2": {
    "name": "Anoka County MN - RAMSEY W-2 P-2"
   },
   "ocd-division/country:us/state:mn/place:prior_lake": {
    "name": "Prior Lake city"
   },
+  "ocd-division/country:us/state:mn/place:minneapolis/ward:6": {
+   "name": "Minneapolis MN ward 6",
+   "officeIndices": [
+    1300
+   ]
+  },
+  "ocd-division/country:us/state:mn/place:ramsey/ward:2/precinct:1": {
+   "name": "Anoka County MN - RAMSEY W-2 P-1"
+  },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:7": {
    "name": "Minneapolis MN ward 7",
    "officeIndices": [
     1301
    ]
-  },
-  "ocd-division/country:us/state:mn/place:ramsey/ward:2/precinct:1": {
-   "name": "Anoka County MN - RAMSEY W-2 P-1"
   },
   "ocd-division/country:us/state:mn/place:minneapolis/ward:8": {
    "name": "Minneapolis MN ward 8",
@@ -19769,6 +19769,12 @@
   "ocd-division/country:us/state:mn/county:wadena/place:north_germany": {
    "name": "North Germany township"
   },
+  "ocd-division/country:us/state:mn/place:cloquet": {
+   "name": "Cloquet city"
+  },
+  "ocd-division/country:us/state:mn/place:cambridge": {
+   "name": "Cambridge city"
+  },
   "ocd-division/country:us/state:mn/county:hennepin": {
    "name": "Hennepin County",
    "officeIndices": [
@@ -19780,12 +19786,6 @@
     1422,
     1423
    ]
-  },
-  "ocd-division/country:us/state:mn/place:cloquet": {
-   "name": "Cloquet city"
-  },
-  "ocd-division/country:us/state:mn/place:cambridge": {
-   "name": "Cambridge city"
   },
   "ocd-division/country:us/state:mn/county:st_louis/school_district:duluth_public_schools_academy": {
    "name": "duluth public schools academy"
@@ -19943,11 +19943,11 @@
   "ocd-division/country:us/state:mn/county:cottonwood/place:mountain_lake": {
    "name": "Mountain Lake township"
   },
-  "ocd-division/country:us/state:mn/place:granite_falls": {
-   "name": "Granite Falls city"
-  },
   "ocd-division/country:us/state:mn/place:plymouth/ward:4/precinct:22": {
    "name": "Hennepin County MN - PLYMOUTH W-4 P-22"
+  },
+  "ocd-division/country:us/state:mn/place:granite_falls": {
+   "name": "Granite Falls city"
   },
   "ocd-division/country:us/state:mn/place:plymouth/ward:4/precinct:23": {
    "name": "Hennepin County MN - PLYMOUTH W-4 P-23"
@@ -20227,6 +20227,12 @@
   "ocd-division/country:us/state:mn/county:nobles/school_district:worthington_public_school_district": {
    "name": "worthington public school district"
   },
+  "ocd-division/country:us/state:mn/sldu:57": {
+   "name": "Minnesota State Senate district 57",
+   "officeIndices": [
+    200
+   ]
+  },
   "ocd-division/country:us/state:mn/county:hubbard": {
    "name": "Hubbard County",
    "officeIndices": [
@@ -20237,12 +20243,6 @@
     1442,
     1443,
     1444
-   ]
-  },
-  "ocd-division/country:us/state:mn/sldu:57": {
-   "name": "Minnesota State Senate district 57",
-   "officeIndices": [
-    200
    ]
   },
   "ocd-division/country:us/state:mn/county:goodhue/school_district:red_wing_public_school_district": {

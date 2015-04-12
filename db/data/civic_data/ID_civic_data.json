@@ -68,11 +68,11 @@
   "ocd-division/country:us/state:id/county:adams/precinct:1-indian_valley": {
    "name": "Adams County ID - Precinct 1-Indian Valley"
   },
-  "ocd-division/country:us/state:id/county:kootenai/school_district:kootenai_district": {
-   "name": "kootenai district"
-  },
   "ocd-division/country:us/state:id/county:latah/precinct:9-moscow": {
    "name": "Latah County ID - Precinct Moscow 9"
+  },
+  "ocd-division/country:us/state:id/county:kootenai/school_district:kootenai_district": {
+   "name": "kootenai district"
   },
   "ocd-division/country:us/state:id/county:kootenai/school_district:coeur_d_alene_district": {
    "name": "coeur d alene district"
@@ -113,14 +113,14 @@
   "ocd-division/country:us/state:id/county:ada/precinct:2113": {
    "name": "Ada County ID - Precinct 2113"
   },
-  "ocd-division/country:us/state:id/county:ada/precinct:2110": {
-   "name": "Ada County ID - Precinct 2110"
-  },
   "ocd-division/country:us/state:id/county:bonneville/council_district:1": {
    "name": "Bonneville County District 1",
    "officeIndices": [
     83
    ]
+  },
+  "ocd-division/country:us/state:id/county:ada/precinct:2110": {
+   "name": "Ada County ID - Precinct 2110"
   },
   "ocd-division/country:us/state:id/county:ada/precinct:2111": {
    "name": "Ada County ID - Precinct 2111"
@@ -154,29 +154,29 @@
     96
    ]
   },
+  "ocd-division/country:us/state:id/place:pierce": {
+   "name": "Pierce city"
+  },
+  "ocd-division/country:us/state:id/place:crouch": {
+   "name": "Crouch city"
+  },
   "ocd-division/country:us/state:id/county:clearwater/council_district:1": {
    "name": "Clearwater County District 1",
    "officeIndices": [
     97
    ]
   },
-  "ocd-division/country:us/state:id/place:crouch": {
-   "name": "Crouch city"
-  },
-  "ocd-division/country:us/state:id/place:pierce": {
-   "name": "Pierce city"
-  },
   "ocd-division/country:us/state:id/county:latah/precinct:24-kendrick": {
    "name": "Latah County ID - Precinct 24 Kendrick"
+  },
+  "ocd-division/country:us/state:id/county:canyon/precinct:77-13": {
+   "name": "Canyon County ID - Precinct 77-13"
   },
   "ocd-division/country:us/state:id/county:clearwater/council_district:2": {
    "name": "Clearwater County District 2",
    "officeIndices": [
     98
    ]
-  },
-  "ocd-division/country:us/state:id/county:canyon/precinct:77-13": {
-   "name": "Canyon County ID - Precinct 77-13"
   },
   "ocd-division/country:us/state:id/county:clearwater/council_district:3": {
    "name": "Clearwater County District 3",
@@ -324,20 +324,20 @@
   "ocd-division/country:us/state:id/county:bonneville/precinct:56": {
    "name": "Bonneville County ID - Precinct 56"
   },
-  "ocd-division/country:us/state:id/county:bonneville/precinct:53": {
-   "name": "Bonneville County ID - Precinct 53"
-  },
   "ocd-division/country:us/state:id/county:nez_perce/precinct:10-lewiston": {
    "name": "Nez Perce County ID - Precinct Lewiston 10"
+  },
+  "ocd-division/country:us/state:id/county:bonneville/precinct:53": {
+   "name": "Bonneville County ID - Precinct 53"
   },
   "ocd-division/country:us/state:id/county:bonneville/precinct:54": {
    "name": "Bonneville County ID - Precinct 54"
   },
-  "ocd-division/country:us/state:id/county:boundary/precinct:1-bf-kootenai": {
-   "name": "Boundary County ID - Precinct 1-BF/Kootenai"
-  },
   "ocd-division/country:us/state:id/county:bonneville/precinct:51": {
    "name": "Bonneville County ID - Precinct 51"
+  },
+  "ocd-division/country:us/state:id/county:boundary/precinct:1-bf-kootenai": {
+   "name": "Boundary County ID - Precinct 1-BF/Kootenai"
   },
   "ocd-division/country:us/state:id/county:valley/school_district:mc_call-donnelly_district": {
    "name": "mc call-donnelly district"
@@ -609,12 +609,6 @@
   "ocd-division/country:us/state:id/county:bonneville/precinct:43": {
    "name": "Bonneville County ID - Precinct 43"
   },
-  "ocd-division/country:us/state:id/county:custer/precinct:challis_1": {
-   "name": "Custer County ID - Precinct Challis 1"
-  },
-  "ocd-division/country:us/state:id/county:bonneville/precinct:44": {
-   "name": "Bonneville County ID - Precinct 44"
-  },
   "ocd-division/country:us/state:id/county:teton": {
    "name": "Teton County",
    "officeIndices": [
@@ -626,23 +620,29 @@
     128
    ]
   },
-  "ocd-division/country:us/state:id/county:bonneville/precinct:45": {
-   "name": "Bonneville County ID - Precinct 45"
+  "ocd-division/country:us/state:id/county:bonneville/precinct:44": {
+   "name": "Bonneville County ID - Precinct 44"
+  },
+  "ocd-division/country:us/state:id/county:custer/precinct:challis_1": {
+   "name": "Custer County ID - Precinct Challis 1"
   },
   "ocd-division/country:us/state:id/county:teton/school_district:teton_county_district": {
    "name": "teton county district"
   },
-  "ocd-division/country:us/state:id/county:cassia/precinct:114-heglar-yale": {
-   "name": "Cassia County ID - Precinct 114 Heglar-Yale"
+  "ocd-division/country:us/state:id/county:bonneville/precinct:45": {
+   "name": "Bonneville County ID - Precinct 45"
   },
   "ocd-division/country:us/state:id/county:bonneville/precinct:46": {
    "name": "Bonneville County ID - Precinct 46"
   },
-  "ocd-division/country:us/state:id/county:bonneville/precinct:47": {
-   "name": "Bonneville County ID - Precinct 47"
+  "ocd-division/country:us/state:id/county:cassia/precinct:114-heglar-yale": {
+   "name": "Cassia County ID - Precinct 114 Heglar-Yale"
   },
   "ocd-division/country:us/state:id/county:shoshone/precinct:9-pinehurst": {
    "name": "Shoshone County ID - Precinct 9-Pinehurst"
+  },
+  "ocd-division/country:us/state:id/county:bonneville/precinct:47": {
+   "name": "Bonneville County ID - Precinct 47"
   },
   "ocd-division/country:us/state:id/county:madison/precinct:1": {
    "name": "Madison County ID - Precinct 1"
@@ -650,14 +650,14 @@
   "ocd-division/country:us/state:id/county:madison/precinct:2": {
    "name": "Madison County ID - Precinct 2"
   },
-  "ocd-division/country:us/state:id/county:cassia/precinct:102-burley_2": {
-   "name": "Cassia County ID - Precinct 102 Burley 2"
+  "ocd-division/country:us/state:id/county:madison/precinct:3": {
+   "name": "Madison County ID - Precinct 3"
   },
   "ocd-division/country:us/state:id/county:caribou/precinct:freedom": {
    "name": "Caribou County ID - Precinct Freedom"
   },
-  "ocd-division/country:us/state:id/county:madison/precinct:3": {
-   "name": "Madison County ID - Precinct 3"
+  "ocd-division/country:us/state:id/county:cassia/precinct:102-burley_2": {
+   "name": "Cassia County ID - Precinct 102 Burley 2"
   },
   "ocd-division/country:us/state:id/county:madison/precinct:4": {
    "name": "Madison County ID - Precinct 4"
@@ -1273,23 +1273,26 @@
   "ocd-division/country:us/state:id/county:twin_falls/precinct:twin_falls_6": {
    "name": "Twin Falls County ID - Precinct Twin Falls 6"
   },
-  "ocd-division/country:us/state:id/county:blaine/precinct:5-quigley": {
-   "name": "Blaine County ID - Precinct 5 Quigley"
-  },
   "ocd-division/country:us/state:id/county:twin_falls/precinct:twin_falls_5": {
    "name": "Twin Falls County ID - Precinct Twin Falls 5"
+  },
+  "ocd-division/country:us/state:id/county:blaine/precinct:5-quigley": {
+   "name": "Blaine County ID - Precinct 5 Quigley"
   },
   "ocd-division/country:us/state:id/place:marsing": {
    "name": "Marsing city"
   },
-  "ocd-division/country:us/state:id/county:idaho/precinct:3-cottonwood_1": {
-   "name": "Idaho County ID - Precinct 3 Cottonwood 1"
-  },
   "ocd-division/country:us/state:id/place:hazelton": {
    "name": "Hazelton city"
   },
-  "ocd-division/country:us/state:id/county:idaho/precinct:11-grangeville_2": {
-   "name": "Idaho County ID - Precinct 11 Grangeville 2"
+  "ocd-division/country:us/state:id/county:idaho/precinct:3-cottonwood_1": {
+   "name": "Idaho County ID - Precinct 3 Cottonwood 1"
+  },
+  "ocd-division/country:us/state:id/place:cambridge": {
+   "name": "Cambridge city"
+  },
+  "ocd-division/country:us/state:id/county:twin_falls/precinct:twin_falls_2": {
+   "name": "Twin Falls County ID - Precinct Twin Falls 2"
   },
   "ocd-division/country:us/state:id/county:jerome": {
    "name": "Jerome County",
@@ -1302,17 +1305,14 @@
     171
    ]
   },
-  "ocd-division/country:us/state:id/county:twin_falls/precinct:twin_falls_2": {
-   "name": "Twin Falls County ID - Precinct Twin Falls 2"
-  },
-  "ocd-division/country:us/state:id/place:cambridge": {
-   "name": "Cambridge city"
-  },
-  "ocd-division/country:us/state:id/county:owyhee/precinct:8-oreana": {
-   "name": "Owyhee County ID - Precinct 8 Oreana"
+  "ocd-division/country:us/state:id/county:idaho/precinct:11-grangeville_2": {
+   "name": "Idaho County ID - Precinct 11 Grangeville 2"
   },
   "ocd-division/country:us/state:id/county:twin_falls/precinct:twin_falls_1": {
    "name": "Twin Falls County ID - Precinct Twin Falls 1"
+  },
+  "ocd-division/country:us/state:id/county:owyhee/precinct:8-oreana": {
+   "name": "Owyhee County ID - Precinct 8 Oreana"
   },
   "ocd-division/country:us/state:id/county:canyon/precinct:73-13": {
    "name": "Canyon County ID - Precinct 73-13"
@@ -2653,23 +2653,23 @@
   "ocd-division/country:us/state:id/county:kootenai/precinct:37": {
    "name": "Kootenai County ID - Precinct 37"
   },
-  "ocd-division/country:us/state:id/county:kootenai/precinct:38": {
-   "name": "Kootenai County ID - Precinct 38"
-  },
   "ocd-division/country:us/state:id/place:clifton": {
    "name": "Clifton city"
   },
-  "ocd-division/country:us/state:id/county:bannock/precinct:7-pocatello": {
-   "name": "Bannock County ID - Precinct Pocatello 7"
+  "ocd-division/country:us/state:id/county:kootenai/precinct:38": {
+   "name": "Kootenai County ID - Precinct 38"
   },
   "ocd-division/country:us/state:id/county:lewis/precinct:7-mohler": {
    "name": "Lewis County ID - Precinct 7-Mohler"
   },
-  "ocd-division/country:us/state:id/county:bingham/precinct:2-blackfoot": {
-   "name": "Bingham County ID - Precinct Blackfoot 2"
+  "ocd-division/country:us/state:id/county:bannock/precinct:7-pocatello": {
+   "name": "Bannock County ID - Precinct Pocatello 7"
   },
   "ocd-division/country:us/state:id/county:kootenai/precinct:43": {
    "name": "Kootenai County ID - Precinct 43"
+  },
+  "ocd-division/country:us/state:id/county:bingham/precinct:2-blackfoot": {
+   "name": "Bingham County ID - Precinct Blackfoot 2"
   },
   "ocd-division/country:us/state:id/county:kootenai/precinct:42": {
    "name": "Kootenai County ID - Precinct 42"
@@ -2677,11 +2677,11 @@
   "ocd-division/country:us/state:id/county:kootenai/precinct:41": {
    "name": "Kootenai County ID - Precinct 41"
   },
-  "ocd-division/country:us/state:id/county:kootenai/precinct:40": {
-   "name": "Kootenai County ID - Precinct 40"
-  },
   "ocd-division/country:us/state:id/place:ferdinand": {
    "name": "Ferdinand city"
+  },
+  "ocd-division/country:us/state:id/county:kootenai/precinct:40": {
+   "name": "Kootenai County ID - Precinct 40"
   },
   "ocd-division/country:us/state:id/county:oneida/precinct:5-curlew": {
    "name": "Oneida County ID - Precinct Curlew 5"
@@ -2720,11 +2720,11 @@
     250
    ]
   },
-  "ocd-division/country:us/state:id/place:ammon": {
-   "name": "Ammon city"
-  },
   "ocd-division/country:us/state:id/place:huetter": {
    "name": "Huetter city"
+  },
+  "ocd-division/country:us/state:id/place:ammon": {
+   "name": "Ammon city"
   },
   "ocd-division/country:us/state:id/county:boise/precinct:30-garden_valley": {
    "name": "Boise County ID - Precinct 30 Garden Valley"
@@ -3236,14 +3236,14 @@
   "ocd-division/country:us/state:id/county:kootenai/precinct:24": {
    "name": "Kootenai County ID - Precinct 24"
   },
+  "ocd-division/country:us/state:id/county:kootenai/precinct:25": {
+   "name": "Kootenai County ID - Precinct 25"
+  },
   "ocd-division/country:us/state:id/cd:1": {
    "name": "Idaho's 1st congressional district",
    "officeIndices": [
     1
    ]
-  },
-  "ocd-division/country:us/state:id/county:kootenai/precinct:25": {
-   "name": "Kootenai County ID - Precinct 25"
   },
   "ocd-division/country:us/state:id/county:ada/school_district:inspire_virtual_charter": {
    "name": "inspire virtual charter"
@@ -4339,21 +4339,21 @@
     371
    ]
   },
+  "ocd-division/country:us/state:id/county:oneida/council_district:3": {
+   "name": "Oneida County District 3",
+   "officeIndices": [
+    378
+   ]
+  },
   "ocd-division/country:us/state:id/county:bonneville": {
    "name": "Bonneville County",
    "officeIndices": [
+    372,
     373,
     374,
     375,
     376,
-    377,
-    378
-   ]
-  },
-  "ocd-division/country:us/state:id/county:oneida/council_district:3": {
-   "name": "Oneida County District 3",
-   "officeIndices": [
-    372
+    377
    ]
   },
   "ocd-division/country:us/state:id/county:oneida/council_district:2": {
@@ -4880,13 +4880,6 @@
     32
    ]
   },
-  "ocd-division/country:us/state:id/place:boise_city": {
-   "name": "Boise City city",
-   "officeIndices": [
-    420,
-    421
-   ]
-  },
   "ocd-division/country:us/state:id/sldu:16": {
    "name": "Idaho State Senate district 16",
    "alsoKnownAs": [
@@ -4895,6 +4888,13 @@
    "officeIndices": [
     33,
     34
+   ]
+  },
+  "ocd-division/country:us/state:id/place:boise_city": {
+   "name": "Boise City city",
+   "officeIndices": [
+    420,
+    421
    ]
   },
   "ocd-division/country:us/state:id/sldu:15": {
@@ -8494,50 +8494,50 @@
    ]
   },
   {
-   "name": "County Commission, District 3",
-   "divisionId": "ocd-division/country:us/state:id/county:oneida/council_district:3",
-   "officialIndices": [
-    418
-   ]
-  },
-  {
    "name": "Clerk",
    "divisionId": "ocd-division/country:us/state:id/county:bonneville",
    "officialIndices": [
-    419
+    418
    ]
   },
   {
    "name": "Coroner",
    "divisionId": "ocd-division/country:us/state:id/county:bonneville",
    "officialIndices": [
-    420
+    419
    ]
   },
   {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:id/county:bonneville",
    "officialIndices": [
-    421
+    420
    ]
   },
   {
    "name": "Assessor",
    "divisionId": "ocd-division/country:us/state:id/county:bonneville",
    "officialIndices": [
-    422
+    421
    ]
   },
   {
    "name": "Treasurer",
    "divisionId": "ocd-division/country:us/state:id/county:bonneville",
    "officialIndices": [
-    423
+    422
    ]
   },
   {
    "name": "Prosecuting Attorney",
    "divisionId": "ocd-division/country:us/state:id/county:bonneville",
+   "officialIndices": [
+    423
+   ]
+  },
+  {
+   "name": "County Commission, District 3",
+   "divisionId": "ocd-division/country:us/state:id/county:oneida/council_district:3",
    "officialIndices": [
     424
    ]
@@ -16352,9 +16352,6 @@
    "name": "Shellee Daniels"
   },
   {
-   "name": "Max Firth"
-  },
-  {
    "name": "Ronald Longmore",
    "address": [
     {
@@ -16452,6 +16449,9 @@
    "urls": [
     "http://www.co.bonneville.id.us/index.php/courtsjustice-system/prosecuting-attorney"
    ]
+  },
+  {
+   "name": "Max Firth"
   },
   {
    "name": "Dale Tubbs"

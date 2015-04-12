@@ -21,11 +21,11 @@
   "ocd-division/country:us/state:sd/county:brown/place:west_hanson": {
    "name": "West Hanson township"
   },
-  "ocd-division/country:us/state:sd/county:brown/place:westport": {
-   "name": "Westport township"
-  },
   "ocd-division/country:us/state:sd/county:tripp/place:rosedale": {
    "name": "Rosedale township"
+  },
+  "ocd-division/country:us/state:sd/county:brown/place:westport": {
+   "name": "Westport township"
   },
   "ocd-division/country:us/state:sd/county:hamlin/place:cleveland": {
    "name": "Cleveland township"
@@ -63,9 +63,6 @@
   "ocd-division/country:us/state:sd/county:lincoln/place:delapre": {
    "name": "Delapre township"
   },
-  "ocd-division/country:us/state:sd/county:minnehaha/place:buffalo": {
-   "name": "Buffalo township"
-  },
   "ocd-division/country:us/state:sd/county:sully": {
    "name": "Sully County",
    "officeIndices": [
@@ -76,6 +73,9 @@
     80,
     81
    ]
+  },
+  "ocd-division/country:us/state:sd/county:minnehaha/place:buffalo": {
+   "name": "Buffalo township"
   },
   "ocd-division/country:us/state:sd/place:batesland": {
    "name": "Batesland town"
@@ -140,11 +140,11 @@
   "ocd-division/country:us/state:sd/place:wessington": {
    "name": "Wessington city"
   },
-  "ocd-division/country:us/state:sd/county:edmunds/place:clear_lake": {
-   "name": "Clear Lake township"
-  },
   "ocd-division/country:us/state:sd/place:gayville": {
    "name": "Gayville town"
+  },
+  "ocd-division/country:us/state:sd/county:edmunds/place:clear_lake": {
+   "name": "Clear Lake township"
   },
   "ocd-division/country:us/state:sd/place:hermosa": {
    "name": "Hermosa town"
@@ -307,14 +307,17 @@
     101
    ]
   },
-  "ocd-division/country:us/state:sd/county:mccook/place:brookfield": {
-   "name": "Brookfield township"
-  },
   "ocd-division/country:us/state:sd/county:butte/council_district:2": {
    "name": "Butte County District 2",
    "officeIndices": [
     102
    ]
+  },
+  "ocd-division/country:us/state:sd/county:mccook/place:brookfield": {
+   "name": "Brookfield township"
+  },
+  "ocd-division/country:us/state:sd/county:roberts/place:white_rock": {
+   "name": "White Rock township"
   },
   "ocd-division/country:us/state:sd/county:butte/council_district:5": {
    "name": "Butte County District 5",
@@ -322,23 +325,20 @@
     103
    ]
   },
-  "ocd-division/country:us/state:sd/county:roberts/place:white_rock": {
-   "name": "White Rock township"
-  },
   "ocd-division/country:us/state:sd/county:butte/council_district:4": {
    "name": "Butte County District 4",
    "officeIndices": [
     104
    ]
   },
+  "ocd-division/country:us/state:sd/county:perkins/place:cash": {
+   "name": "Cash township"
+  },
   "ocd-division/country:us/state:sd/county:butte/council_district:1": {
    "name": "Butte County District 1",
    "officeIndices": [
     105
    ]
-  },
-  "ocd-division/country:us/state:sd/county:perkins/place:cash": {
-   "name": "Cash township"
   },
   "ocd-division/country:us/state:sd/county:tripp/place:black": {
    "name": "Black township"
@@ -1282,20 +1282,14 @@
   "ocd-division/country:us/state:sd/county:dewey/school_district:eagle_butte_school_district_20-1": {
    "name": "eagle butte school district 20-1"
   },
-  "ocd-division/country:us/state:sd/county:fall_river/precinct:eda": {
-   "name": "FALL RIVER County Precinct EDA"
-  },
   "ocd-division/country:us/state:sd/county:moody/precinct:4": {
    "name": "MOODY County Precinct 4"
   },
+  "ocd-division/country:us/state:sd/county:fall_river/precinct:eda": {
+   "name": "FALL RIVER County Precinct EDA"
+  },
   "ocd-division/country:us/state:sd/county:minnehaha/school_district:east_dakota_educational_cooperative": {
    "name": "east dakota educational cooperative"
-  },
-  "ocd-division/country:us/state:sd/county:mellette/place:red_fish": {
-   "name": "Red Fish township"
-  },
-  "ocd-division/country:us/state:sd/county:hand/place:grand": {
-   "name": "Grand township"
   },
   "ocd-division/country:us/state:sd/county:douglas": {
    "name": "Douglas County",
@@ -1307,6 +1301,12 @@
     157,
     158
    ]
+  },
+  "ocd-division/country:us/state:sd/county:hand/place:grand": {
+   "name": "Grand township"
+  },
+  "ocd-division/country:us/state:sd/county:mellette/place:red_fish": {
+   "name": "Red Fish township"
   },
   "ocd-division/country:us/state:sd/county:lyman/school_district:lyman_school_district_42-1": {
    "name": "lyman school district 42-1"
@@ -2182,6 +2182,12 @@
   "ocd-division/country:us/state:sd/county:minnehaha/precinct:106": {
    "name": "MINNEHAHA County Precinct 106"
   },
+  "ocd-division/country:us/state:sd/county:walworth/precinct:6": {
+   "name": "WALWORTH County Precinct 6"
+  },
+  "ocd-division/country:us/state:sd/county:codington/place:eden": {
+   "name": "Eden township"
+  },
   "ocd-division/country:us/state:sd/county:brule": {
    "name": "Brule County",
    "officeIndices": [
@@ -2196,12 +2202,6 @@
     208,
     209
    ]
-  },
-  "ocd-division/country:us/state:sd/county:walworth/precinct:6": {
-   "name": "WALWORTH County Precinct 6"
-  },
-  "ocd-division/country:us/state:sd/county:codington/place:eden": {
-   "name": "Eden township"
   },
   "ocd-division/country:us/state:sd/county:walworth/precinct:5": {
    "name": "WALWORTH County Precinct 5"
@@ -5468,23 +5468,23 @@
     455
    ]
   },
+  "ocd-division/country:us/state:sd/county:hand/precinct:2": {
+   "name": "HAND County Precinct 2"
+  },
   "ocd-division/country:us/state:sd/county:lincoln/council_district:4": {
    "name": "Lincoln County District 4",
    "officeIndices": [
     456
    ]
   },
-  "ocd-division/country:us/state:sd/county:hand/precinct:2": {
-   "name": "HAND County Precinct 2"
+  "ocd-division/country:us/state:sd/county:hand/precinct:1": {
+   "name": "HAND County Precinct 1"
   },
   "ocd-division/country:us/state:sd/county:lincoln/council_district:3": {
    "name": "Lincoln County District 3",
    "officeIndices": [
     457
    ]
-  },
-  "ocd-division/country:us/state:sd/county:hand/precinct:1": {
-   "name": "HAND County Precinct 1"
   },
   "ocd-division/country:us/state:sd/county:roberts/place:springdale": {
    "name": "Springdale township"
@@ -7573,20 +7573,20 @@
   "ocd-division/country:us/state:sd/county:davison/precinct:19": {
    "name": "DAVISON County Precinct 19"
   },
-  "ocd-division/country:us/state:sd/county:hughes": {
-   "name": "Hughes County",
-   "officeIndices": [
-    623,
-    624,
-    625,
-    626,
-    627
-   ]
-  },
   "ocd-division/country:us/state:sd/county:walworth/council_district:5": {
    "name": "Walworth County District 5",
    "officeIndices": [
-    622
+    627
+   ]
+  },
+  "ocd-division/country:us/state:sd/county:hughes": {
+   "name": "Hughes County",
+   "officeIndices": [
+    622,
+    623,
+    624,
+    625,
+    626
    ]
   },
   "ocd-division/country:us/state:sd/county:faulk/precinct:5": {
@@ -13834,48 +13834,48 @@
    ]
   },
   {
-   "name": "County Commission, District 5",
-   "divisionId": "ocd-division/country:us/state:sd/county:walworth/council_district:5",
-   "officialIndices": [
-    710
-   ]
-  },
-  {
    "name": "Coroner",
    "divisionId": "ocd-division/country:us/state:sd/county:hughes",
    "officialIndices": [
-    711
+    710
    ]
   },
   {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:sd/county:hughes",
    "officialIndices": [
-    712
+    711
    ]
   },
   {
    "name": "Finance Officer",
    "divisionId": "ocd-division/country:us/state:sd/county:hughes",
    "officialIndices": [
-    713
+    712
    ]
   },
   {
    "name": "State's Attorney",
    "divisionId": "ocd-division/country:us/state:sd/county:hughes",
    "officialIndices": [
-    714
+    713
    ]
   },
   {
    "name": "County Commission, District At-Large",
    "divisionId": "ocd-division/country:us/state:sd/county:hughes",
    "officialIndices": [
+    714,
     715,
     716,
     717,
-    718,
+    718
+   ]
+  },
+  {
+   "name": "County Commission, District 5",
+   "divisionId": "ocd-division/country:us/state:sd/county:walworth/council_district:5",
+   "officialIndices": [
     719
    ]
   },
@@ -22398,10 +22398,6 @@
    "party": "Unknown"
   },
   {
-   "name": "Donald Leff",
-   "party": "Unknown"
-  },
-  {
    "name": "Charlie Walker",
    "address": [
     {
@@ -22595,6 +22591,10 @@
      "id": "bill.abernathy.75"
     }
    ]
+  },
+  {
+   "name": "Donald Leff",
+   "party": "Unknown"
   },
   {
    "name": "Tresh Swedlund",

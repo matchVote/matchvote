@@ -39,11 +39,11 @@
   "ocd-division/country:us/state:ar/county:jefferson/precinct:220": {
    "name": "Jefferson County Precinct 220"
   },
-  "ocd-division/country:us/state:ar/county:jefferson/precinct:221": {
-   "name": "Jefferson County Precinct 221"
-  },
   "ocd-division/country:us/state:ar/county:hot_spring/precinct:per": {
    "name": "Hot Spring County Precinct Per"
+  },
+  "ocd-division/country:us/state:ar/county:jefferson/precinct:221": {
+   "name": "Jefferson County Precinct 221"
   },
   "ocd-division/country:us/state:ar/county:conway/precinct:15-howard_rural": {
    "name": "Conway County Precinct 15-Howard Rural"
@@ -69,17 +69,17 @@
   "ocd-division/country:us/state:ar/county:jefferson/precinct:216": {
    "name": "Jefferson County Precinct 216"
   },
-  "ocd-division/country:us/state:ar/county:lonoke/precinct:28-humnoke_city": {
-   "name": "Lonoke County Precinct 28-Humnoke City"
-  },
-  "ocd-division/country:us/state:ar/county:lafayette/precinct:45-bradley_city": {
-   "name": "Lafayette County Precinct 45-Bradley City"
+  "ocd-division/country:us/state:ar/county:union/precinct:nor": {
+   "name": "Union County Precinct Nor"
   },
   "ocd-division/country:us/state:ar/county:jefferson/precinct:217": {
    "name": "Jefferson County Precinct 217"
   },
-  "ocd-division/country:us/state:ar/county:union/precinct:nor": {
-   "name": "Union County Precinct Nor"
+  "ocd-division/country:us/state:ar/county:lafayette/precinct:45-bradley_city": {
+   "name": "Lafayette County Precinct 45-Bradley City"
+  },
+  "ocd-division/country:us/state:ar/county:lonoke/precinct:28-humnoke_city": {
+   "name": "Lonoke County Precinct 28-Humnoke City"
   },
   "ocd-division/country:us/state:ar/county:jefferson/precinct:218": {
    "name": "Jefferson County Precinct 218"
@@ -90,11 +90,11 @@
   "ocd-division/country:us/state:ar/county:washington/precinct:660-richland": {
    "name": "Washington County Precinct 660-Richland"
   },
-  "ocd-division/country:us/state:ar/county:pope/precinct:13-crow_mountain_west_1": {
-   "name": "Pope County Precinct 13-Crow Mountain West 1"
-  },
   "ocd-division/country:us/state:ar/place:bald_knob": {
    "name": "Bald Knob city"
+  },
+  "ocd-division/country:us/state:ar/county:pope/precinct:13-crow_mountain_west_1": {
+   "name": "Pope County Precinct 13-Crow Mountain West 1"
   },
   "ocd-division/country:us/state:ar/county:monroe/precinct:8-brinkley_township": {
    "name": "Monroe County Precinct 8-Brinkley Township"
@@ -108,14 +108,14 @@
   "ocd-division/country:us/state:ar/county:jefferson/precinct:211": {
    "name": "Jefferson County Precinct 211"
   },
-  "ocd-division/country:us/state:ar/county:jefferson/precinct:212": {
-   "name": "Jefferson County Precinct 212"
+  "ocd-division/country:us/state:ar/county:greene/precinct:12-cache": {
+   "name": "Greene County Precinct 12-Cache"
   },
   "ocd-division/country:us/state:ar/county:chicot/precinct:203-planters_3": {
    "name": "Chicot County Precinct 203-Planters 3"
   },
-  "ocd-division/country:us/state:ar/county:greene/precinct:12-cache": {
-   "name": "Greene County Precinct 12-Cache"
+  "ocd-division/country:us/state:ar/county:jefferson/precinct:212": {
+   "name": "Jefferson County Precinct 212"
   },
   "ocd-division/country:us/state:ar/county:baxter/precinct:6-1": {
    "name": "Baxter County Precinct 6-1"
@@ -123,11 +123,11 @@
   "ocd-division/country:us/state:ar/county:baxter/precinct:6-2": {
    "name": "Baxter County Precinct 6-2"
   },
-  "ocd-division/country:us/state:ar/county:clark/precinct:amc1": {
-   "name": "Clark County Precinct Amc1"
-  },
   "ocd-division/country:us/state:ar/county:baxter/precinct:6-3": {
    "name": "Baxter County Precinct 6-3"
+  },
+  "ocd-division/country:us/state:ar/county:clark/precinct:amc1": {
+   "name": "Clark County Precinct Amc1"
   },
   "ocd-division/country:us/state:ar/county:howard/precinct:54-tollette": {
    "name": "Howard County Precinct 54-Tollette"
@@ -138,11 +138,11 @@
   "ocd-division/country:us/state:ar/county:hot_spring/precinct:bro": {
    "name": "Hot Spring County Precinct Bro"
   },
-  "ocd-division/country:us/state:ar/county:fulton/precinct:10-cherokee_village": {
-   "name": "Fulton County Precinct 10-Cherokee Village"
-  },
   "ocd-division/country:us/state:ar/place:menifee": {
    "name": "Menifee town"
+  },
+  "ocd-division/country:us/state:ar/county:fulton/precinct:10-cherokee_village": {
+   "name": "Fulton County Precinct 10-Cherokee Village"
   },
   "ocd-division/country:us/state:ar/county:miller/precinct:san": {
    "name": "Miller County Precinct San"
@@ -245,17 +245,14 @@
   "ocd-division/country:us/state:ar/place:donaldson": {
    "name": "Donaldson town"
   },
-  "ocd-division/country:us/state:ar/place:everton": {
-   "name": "Everton town"
-  },
   "ocd-division/country:us/state:ar/place:little_rock/ward:6": {
    "name": "Little Rock AR - ward 6",
    "officeIndices": [
     162
    ]
   },
-  "ocd-division/country:us/state:ar/county:logan/precinct:111-river_rural": {
-   "name": "Logan County Precinct 111-River Rural"
+  "ocd-division/country:us/state:ar/place:everton": {
+   "name": "Everton town"
   },
   "ocd-division/country:us/state:ar/place:little_rock/ward:5": {
    "name": "Little Rock AR - ward 5",
@@ -263,8 +260,8 @@
     163
    ]
   },
-  "ocd-division/country:us/state:ar/county:union/precinct:nlo": {
-   "name": "Union County Precinct Nlo"
+  "ocd-division/country:us/state:ar/county:logan/precinct:111-river_rural": {
+   "name": "Logan County Precinct 111-River Rural"
   },
   "ocd-division/country:us/state:ar/place:little_rock/ward:7": {
    "name": "Little Rock AR - ward 7",
@@ -272,14 +269,17 @@
     164
    ]
   },
+  "ocd-division/country:us/state:ar/county:union/precinct:nlo": {
+   "name": "Union County Precinct Nlo"
+  },
   "ocd-division/country:us/state:ar/county:craighead/precinct:2": {
    "name": "Craighead County Precinct 2"
   },
-  "ocd-division/country:us/state:ar/county:crittenden/precinct:55-west_black_oak": {
-   "name": "Crittenden County Precinct 55-West Black Oak"
-  },
   "ocd-division/country:us/state:ar/county:craighead/precinct:3": {
    "name": "Craighead County Precinct 3"
+  },
+  "ocd-division/country:us/state:ar/county:crittenden/precinct:55-west_black_oak": {
+   "name": "Crittenden County Precinct 55-West Black Oak"
   },
   "ocd-division/country:us/state:ar/county:craighead/precinct:4": {
    "name": "Craighead County Precinct 4"
@@ -311,14 +311,14 @@
   "ocd-division/country:us/state:ar/county:washington/precinct:335-fay_15": {
    "name": "Washington County Precinct 335-Fay 15"
   },
-  "ocd-division/country:us/state:ar/county:monroe/precinct:28-raymond_township": {
-   "name": "Monroe County Precinct 28-Raymond Township"
+  "ocd-division/country:us/state:ar/place:dyer": {
+   "name": "Dyer city"
   },
   "ocd-division/country:us/state:ar/county:hempstead/precinct:2-hope": {
    "name": "Hempstead County Precinct 2-Hope"
   },
-  "ocd-division/country:us/state:ar/place:dyer": {
-   "name": "Dyer city"
+  "ocd-division/country:us/state:ar/county:monroe/precinct:28-raymond_township": {
+   "name": "Monroe County Precinct 28-Raymond Township"
   },
   "ocd-division/country:us/state:ar/county:craighead/precinct:1": {
    "name": "Craighead County Precinct 1"
@@ -574,11 +574,11 @@
   "ocd-division/country:us/state:ar/county:randolph/precinct:6-dalton": {
    "name": "Randolph County Precinct 6-Dalton"
   },
-  "ocd-division/country:us/state:ar/county:clay/precinct:8-knob": {
-   "name": "Clay County Precinct 8-Knob"
-  },
   "ocd-division/country:us/state:ar/county:hot_spring/precinct:pra": {
    "name": "Hot Spring County Precinct Pra"
+  },
+  "ocd-division/country:us/state:ar/county:clay/precinct:8-knob": {
+   "name": "Clay County Precinct 8-Knob"
   },
   "ocd-division/country:us/state:ar/county:izard": {
    "name": "Izard County",
@@ -628,11 +628,11 @@
   "ocd-division/country:us/state:ar/county:desha/precinct:20-silver_lake": {
    "name": "Desha County Precinct 20-Silver Lake"
   },
-  "ocd-division/country:us/state:ar/county:monroe/precinct:12-clarendon_ward_2": {
-   "name": "Monroe County Precinct 12-Clarendon Ward 2"
-  },
   "ocd-division/country:us/state:ar/county:faulkner/precinct:15-benedict": {
    "name": "Faulkner County Precinct 15-Benedict"
+  },
+  "ocd-division/country:us/state:ar/county:monroe/precinct:12-clarendon_ward_2": {
+   "name": "Monroe County Precinct 12-Clarendon Ward 2"
   },
   "ocd-division/country:us/state:ar/county:conway/precinct:8-higgins": {
    "name": "Conway County Precinct 8-Higgins"
@@ -649,17 +649,17 @@
   "ocd-division/country:us/state:ar/county:independence/precinct:13-big_bottom_ward_2": {
    "name": "Independence County Precinct 13-Big Bottom Ward 2"
   },
-  "ocd-division/country:us/state:ar/county:baxter/precinct:10-2": {
-   "name": "Baxter County Precinct 10-2"
-  },
   "ocd-division/country:us/state:ar/county:faulkner/precinct:4-4d": {
    "name": "Faulkner County Precinct 4-4D"
   },
-  "ocd-division/country:us/state:ar/county:baxter/precinct:10-3": {
-   "name": "Baxter County Precinct 10-3"
+  "ocd-division/country:us/state:ar/county:baxter/precinct:10-2": {
+   "name": "Baxter County Precinct 10-2"
   },
   "ocd-division/country:us/state:ar/county:white/precinct:1-albion": {
    "name": "White County Precinct 1-Albion"
+  },
+  "ocd-division/country:us/state:ar/county:baxter/precinct:10-3": {
+   "name": "Baxter County Precinct 10-3"
   },
   "ocd-division/country:us/state:ar/county:baxter/precinct:10-1": {
    "name": "Baxter County Precinct 10-1"
@@ -670,11 +670,11 @@
   "ocd-division/country:us/state:ar/place:patmos": {
    "name": "Patmos town"
   },
-  "ocd-division/country:us/state:ar/county:jackson/precinct:50-tupelo": {
-   "name": "Jackson County Precinct 50-Tupelo"
-  },
   "ocd-division/country:us/state:ar/county:white/precinct:42-joy": {
    "name": "White County Precinct 42-Joy"
+  },
+  "ocd-division/country:us/state:ar/county:jackson/precinct:50-tupelo": {
+   "name": "Jackson County Precinct 50-Tupelo"
   },
   "ocd-division/country:us/state:ar/place:yellville": {
    "name": "Yellville city"
@@ -1300,11 +1300,11 @@
   "ocd-division/country:us/state:ar/county:cross/precinct:c20-hickory_ridge_city": {
    "name": "Cross County Precinct C20-Hickory Ridge City"
   },
-  "ocd-division/country:us/state:ar/county:cross/precinct:p3-parkin_ward_3": {
-   "name": "Cross County Precinct P3-Parkin Ward 3"
-  },
   "ocd-division/country:us/state:ar/county:greene/precinct:8-reynolds": {
    "name": "Greene County Precinct 8-Reynolds"
+  },
+  "ocd-division/country:us/state:ar/county:cross/precinct:p3-parkin_ward_3": {
+   "name": "Cross County Precinct P3-Parkin Ward 3"
   },
   "ocd-division/country:us/state:ar/county:yell/precinct:18-magazine_1": {
    "name": "Yell County Precinct 18-Magazine 1"
@@ -1348,11 +1348,11 @@
   "ocd-division/country:us/state:ar/county:cleburne/precinct:31-sugar_camp": {
    "name": "Cleburne County Precinct 31-Sugar Camp"
   },
-  "ocd-division/country:us/state:ar/county:carroll/precinct:20-holiday_island": {
-   "name": "Carroll County Precinct 20-Holiday Island"
-  },
   "ocd-division/country:us/state:ar/county:izard/precinct:2-boswell": {
    "name": "Izard County Precinct 2-Boswell"
+  },
+  "ocd-division/country:us/state:ar/county:carroll/precinct:20-holiday_island": {
+   "name": "Carroll County Precinct 20-Holiday Island"
   },
   "ocd-division/country:us/state:ar/county:madison/precinct:13-mill_creek": {
    "name": "Madison County Precinct 13-Mill Creek"
@@ -1372,11 +1372,11 @@
   "ocd-division/country:us/state:ar/county:clark/precinct:gw2": {
    "name": "Clark County Precinct Gw2"
   },
-  "ocd-division/country:us/state:ar/county:lee/precinct:6-independence": {
-   "name": "Lee County Precinct 6-Independence"
-  },
   "ocd-division/country:us/state:ar/place:mccaskill": {
    "name": "McCaskill town"
+  },
+  "ocd-division/country:us/state:ar/county:lee/precinct:6-independence": {
+   "name": "Lee County Precinct 6-Independence"
   },
   "ocd-division/country:us/state:ar/county:chicot/school_district:dermott_school_district": {
    "name": "dermott school district"
@@ -2655,14 +2655,14 @@
   "ocd-division/country:us/state:ar/county:lawrence/precinct:2-ashland": {
    "name": "Lawrence County Precinct 2-Ashland"
   },
-  "ocd-division/country:us/state:ar/county:madison/precinct:22-huntsville_ward_2": {
-   "name": "Madison County Precinct 22-Huntsville Ward 2"
-  },
   "ocd-division/country:us/state:ar/county:boone/council_district:1": {
    "name": "Boone County District 1",
    "officeIndices": [
     414
    ]
+  },
+  "ocd-division/country:us/state:ar/county:madison/precinct:22-huntsville_ward_2": {
+   "name": "Madison County Precinct 22-Huntsville Ward 2"
   },
   "ocd-division/country:us/state:ar/county:boone/council_district:2": {
    "name": "Boone County District 2",
@@ -2688,11 +2688,11 @@
   "ocd-division/country:us/state:ar/county:ouachita/precinct:bt-bragg": {
    "name": "Ouachita County Precinct Bt-Bragg"
   },
-  "ocd-division/country:us/state:ar/county:montgomery/school_district:mount_ida_school_district": {
-   "name": "mount ida school district"
-  },
   "ocd-division/country:us/state:ar/place:jacksonville": {
    "name": "Jacksonville city"
+  },
+  "ocd-division/country:us/state:ar/county:montgomery/school_district:mount_ida_school_district": {
+   "name": "mount ida school district"
   },
   "ocd-division/country:us/state:ar/county:stone/precinct:110-angora_mtn": {
    "name": "Stone County Precinct 110-Angora Mtn"
@@ -2706,11 +2706,11 @@
   "ocd-division/country:us/state:ar/county:mississippi/precinct:7a": {
    "name": "Mississippi County Precinct 7A"
   },
-  "ocd-division/country:us/state:ar/county:pulaski/school_district:lisa_academy_north_charter": {
-   "name": "lisa academy north charter"
-  },
   "ocd-division/country:us/state:ar/county:white/precinct:6-bald_knob_twp": {
    "name": "White County Precinct 6-Bald Knob Twp"
+  },
+  "ocd-division/country:us/state:ar/county:pulaski/school_district:lisa_academy_north_charter": {
+   "name": "lisa academy north charter"
   },
   "ocd-division/country:us/state:ar/county:pike/precinct:10-newhope": {
    "name": "Pike County Precinct 10-Newhope"
@@ -2724,11 +2724,11 @@
   "ocd-division/country:us/state:ar/county:washington/precinct:366-fay_46": {
    "name": "Washington County Precinct 366-Fay 46"
   },
-  "ocd-division/country:us/state:ar/county:yell/precinct:12-ferguson": {
-   "name": "Yell County Precinct 12-Ferguson"
-  },
   "ocd-division/country:us/state:ar/place:diamond_city": {
    "name": "Diamond City city"
+  },
+  "ocd-division/country:us/state:ar/county:yell/precinct:12-ferguson": {
+   "name": "Yell County Precinct 12-Ferguson"
   },
   "ocd-division/country:us/state:ar/county:monroe": {
    "name": "Monroe County",
@@ -2846,16 +2846,16 @@
     435
    ]
   },
-  "ocd-division/country:us/state:ar/cd:4": {
-   "name": "Arkansas's 4th congressional district",
-   "officeIndices": [
-    0
-   ]
-  },
   "ocd-division/country:us/state:ar/county:faulkner/council_district:3": {
    "name": "Faulkner County District 3",
    "officeIndices": [
     436
+   ]
+  },
+  "ocd-division/country:us/state:ar/cd:4": {
+   "name": "Arkansas's 4th congressional district",
+   "officeIndices": [
+    0
    ]
   },
   "ocd-division/country:us/state:ar/county:faulkner/council_district:2": {
@@ -5450,14 +5450,14 @@
     82
    ]
   },
-  "ocd-division/country:us/state:ar/place:sherwood": {
-   "name": "Sherwood city"
-  },
   "ocd-division/country:us/state:ar/sldl:79": {
    "name": "Arkansas State House district 79",
    "officeIndices": [
     83
    ]
+  },
+  "ocd-division/country:us/state:ar/place:sherwood": {
+   "name": "Sherwood city"
   },
   "ocd-division/country:us/state:ar/place:knobel": {
    "name": "Knobel city"
@@ -5588,11 +5588,11 @@
   "ocd-division/country:us/state:ar/county:jefferson/precinct:311": {
    "name": "Jefferson County Precinct 311"
   },
-  "ocd-division/country:us/state:ar/county:jefferson/precinct:310": {
-   "name": "Jefferson County Precinct 310"
-  },
   "ocd-division/country:us/state:ar/place:leachville": {
    "name": "Leachville city"
+  },
+  "ocd-division/country:us/state:ar/county:jefferson/precinct:310": {
+   "name": "Jefferson County Precinct 310"
   },
   "ocd-division/country:us/state:ar/county:crawford/precinct:3-alma_3": {
    "name": "Crawford County Precinct 3-Alma 3"
@@ -5603,20 +5603,20 @@
   "ocd-division/country:us/state:ar/county:drew/precinct:13-plantersville": {
    "name": "Drew County Precinct 13-Plantersville"
   },
-  "ocd-division/country:us/state:ar/county:lee/precinct:4-hampton": {
-   "name": "Lee County Precinct 4-Hampton"
+  "ocd-division/country:us/state:ar/county:faulkner/precinct:48-e_cadron_c": {
+   "name": "Faulkner County Precinct 48-E Cadron C"
   },
   "ocd-division/country:us/state:ar/county:crittenden/precinct:76-wappanocca": {
    "name": "Crittenden County Precinct 76-Wappanocca"
   },
-  "ocd-division/country:us/state:ar/county:faulkner/precinct:48-e_cadron_c": {
-   "name": "Faulkner County Precinct 48-E Cadron C"
-  },
-  "ocd-division/country:us/state:ar/county:poinsett/precinct:9-greenfield_greenfield": {
-   "name": "Poinsett County Precinct 9-Greenfield Greenfield"
+  "ocd-division/country:us/state:ar/county:lee/precinct:4-hampton": {
+   "name": "Lee County Precinct 4-Hampton"
   },
   "ocd-division/country:us/state:ar/county:yell/precinct:16-herring": {
    "name": "Yell County Precinct 16-Herring"
+  },
+  "ocd-division/country:us/state:ar/county:poinsett/precinct:9-greenfield_greenfield": {
+   "name": "Poinsett County Precinct 9-Greenfield Greenfield"
   },
   "ocd-division/country:us/state:ar/county:saline/precinct:31-trinity_baptist": {
    "name": "Saline County Precinct 31-Trinity Baptist"
@@ -10463,6 +10463,9 @@
   "ocd-division/country:us/state:ar/county:marion/precinct:22": {
    "name": "Marion County Precinct 22"
   },
+  "ocd-division/country:us/state:ar/county:marion/precinct:23": {
+   "name": "Marion County Precinct 23"
+  },
   "ocd-division/country:us/state:ar/county:pulaski": {
    "name": "Pulaski County",
    "officeIndices": [
@@ -10473,9 +10476,6 @@
     913,
     914
    ]
-  },
-  "ocd-division/country:us/state:ar/county:marion/precinct:23": {
-   "name": "Marion County Precinct 23"
   },
   "ocd-division/country:us/state:ar/county:saline/precinct:28-new_friendship": {
    "name": "Saline County Precinct 28-New Friendship"

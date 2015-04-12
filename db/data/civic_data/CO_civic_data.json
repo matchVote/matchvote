@@ -54,11 +54,11 @@
   "ocd-division/country:us/state:co/county:delta/precinct:14": {
    "name": "Delta County Precinct 14"
   },
-  "ocd-division/country:us/state:co/county:delta/precinct:13": {
-   "name": "Delta County Precinct 13"
-  },
   "ocd-division/country:us/state:co/county:san_juan/school_district:silverton_school_district_no._1": {
    "name": "silverton school district no. 1"
+  },
+  "ocd-division/country:us/state:co/county:delta/precinct:13": {
+   "name": "Delta County Precinct 13"
   },
   "ocd-division/country:us/state:co/county:delta/precinct:12": {
    "name": "Delta County Precinct 12"
@@ -309,6 +309,9 @@
   "ocd-division/country:us/state:co/county:arapahoe/precinct:216": {
    "name": "Arapahoe County Precinct 216"
   },
+  "ocd-division/country:us/state:co/county:arapahoe/precinct:213": {
+   "name": "Arapahoe County Precinct 213"
+  },
   "ocd-division/country:us/state:co/county:kiowa": {
    "name": "Kiowa County",
    "officeIndices": [
@@ -318,9 +321,6 @@
     146,
     147
    ]
-  },
-  "ocd-division/country:us/state:co/county:arapahoe/precinct:213": {
-   "name": "Arapahoe County Precinct 213"
   },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:214": {
    "name": "Arapahoe County Precinct 214"
@@ -343,11 +343,11 @@
   "ocd-division/country:us/state:co/county:arapahoe/precinct:208": {
    "name": "Arapahoe County Precinct 208"
   },
-  "ocd-division/country:us/state:co/county:arapahoe/precinct:209": {
-   "name": "Arapahoe County Precinct 209"
-  },
   "ocd-division/country:us/state:co/place:antonito": {
    "name": "Antonito town"
+  },
+  "ocd-division/country:us/state:co/county:arapahoe/precinct:209": {
+   "name": "Arapahoe County Precinct 209"
   },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:202": {
    "name": "Arapahoe County Precinct 202"
@@ -355,17 +355,17 @@
   "ocd-division/country:us/state:co/county:arapahoe/precinct:203": {
    "name": "Arapahoe County Precinct 203"
   },
-  "ocd-division/country:us/state:co/county:el_paso/precinct:206": {
-   "name": "El Paso County Precinct 206"
-  },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:204": {
    "name": "Arapahoe County Precinct 204"
   },
-  "ocd-division/country:us/state:co/county:el_paso/precinct:207": {
-   "name": "El Paso County Precinct 207"
+  "ocd-division/country:us/state:co/county:el_paso/precinct:206": {
+   "name": "El Paso County Precinct 206"
   },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:205": {
    "name": "Arapahoe County Precinct 205"
+  },
+  "ocd-division/country:us/state:co/county:el_paso/precinct:207": {
+   "name": "El Paso County Precinct 207"
   },
   "ocd-division/country:us/state:co/county:el_paso/precinct:204": {
    "name": "El Paso County Precinct 204"
@@ -376,11 +376,11 @@
   "ocd-division/country:us/state:co/county:el_paso/precinct:202": {
    "name": "El Paso County Precinct 202"
   },
-  "ocd-division/country:us/state:co/county:el_paso/precinct:203": {
-   "name": "El Paso County Precinct 203"
-  },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:201": {
    "name": "Arapahoe County Precinct 201"
+  },
+  "ocd-division/country:us/state:co/county:el_paso/precinct:203": {
+   "name": "El Paso County Precinct 203"
   },
   "ocd-division/country:us/state:co/county:el_paso/precinct:210": {
    "name": "El Paso County Precinct 210"
@@ -403,17 +403,17 @@
   "ocd-division/country:us/state:co/county:el_paso/precinct:219": {
    "name": "El Paso County Precinct 219"
   },
-  "ocd-division/country:us/state:co/county:huerfano/precinct:11": {
-   "name": "Huerfano County Precinct 11"
-  },
   "ocd-division/country:us/state:co/county:el_paso/precinct:213": {
    "name": "El Paso County Precinct 213"
   },
-  "ocd-division/country:us/state:co/county:huerfano/precinct:10": {
-   "name": "Huerfano County Precinct 10"
+  "ocd-division/country:us/state:co/county:huerfano/precinct:11": {
+   "name": "Huerfano County Precinct 11"
   },
   "ocd-division/country:us/state:co/county:el_paso/precinct:214": {
    "name": "El Paso County Precinct 214"
+  },
+  "ocd-division/country:us/state:co/county:huerfano/precinct:10": {
+   "name": "Huerfano County Precinct 10"
   },
   "ocd-division/country:us/state:co/county:el_paso/precinct:215": {
    "name": "El Paso County Precinct 215"
@@ -472,23 +472,23 @@
   "ocd-division/country:us/state:co/county:teller/precinct:13": {
    "name": "Teller County Precinct 13"
   },
-  "ocd-division/country:us/state:co/county:arapahoe/precinct:255": {
-   "name": "Arapahoe County Precinct 255"
-  },
   "ocd-division/country:us/state:co/county:teller/precinct:12": {
    "name": "Teller County Precinct 12"
   },
-  "ocd-division/country:us/state:co/county:arapahoe/precinct:254": {
-   "name": "Arapahoe County Precinct 254"
+  "ocd-division/country:us/state:co/county:arapahoe/precinct:255": {
+   "name": "Arapahoe County Precinct 255"
   },
   "ocd-division/country:us/state:co/county:teller/precinct:11": {
    "name": "Teller County Precinct 11"
   },
-  "ocd-division/country:us/state:co/county:arapahoe/precinct:253": {
-   "name": "Arapahoe County Precinct 253"
+  "ocd-division/country:us/state:co/county:arapahoe/precinct:254": {
+   "name": "Arapahoe County Precinct 254"
   },
   "ocd-division/country:us/state:co/county:teller/precinct:10": {
    "name": "Teller County Precinct 10"
+  },
+  "ocd-division/country:us/state:co/county:arapahoe/precinct:253": {
+   "name": "Arapahoe County Precinct 253"
   },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:259": {
    "name": "Arapahoe County Precinct 259"
@@ -520,53 +520,53 @@
   "ocd-division/country:us/state:co/county:fremont/precinct:19": {
    "name": "Fremont County Precinct 19"
   },
-  "ocd-division/country:us/state:co/county:fremont/precinct:28": {
-   "name": "Fremont County Precinct 28"
-  },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:247": {
    "name": "Arapahoe County Precinct 247"
   },
-  "ocd-division/country:us/state:co/county:fremont/precinct:29": {
-   "name": "Fremont County Precinct 29"
+  "ocd-division/country:us/state:co/county:fremont/precinct:28": {
+   "name": "Fremont County Precinct 28"
   },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:246": {
    "name": "Arapahoe County Precinct 246"
   },
-  "ocd-division/country:us/state:co/county:fremont/precinct:26": {
-   "name": "Fremont County Precinct 26"
+  "ocd-division/country:us/state:co/county:fremont/precinct:29": {
+   "name": "Fremont County Precinct 29"
   },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:249": {
    "name": "Arapahoe County Precinct 249"
   },
-  "ocd-division/country:us/state:co/county:fremont/precinct:27": {
-   "name": "Fremont County Precinct 27"
+  "ocd-division/country:us/state:co/county:fremont/precinct:26": {
+   "name": "Fremont County Precinct 26"
   },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:248": {
    "name": "Arapahoe County Precinct 248"
   },
-  "ocd-division/country:us/state:co/county:fremont/precinct:24": {
-   "name": "Fremont County Precinct 24"
+  "ocd-division/country:us/state:co/county:fremont/precinct:27": {
+   "name": "Fremont County Precinct 27"
   },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:243": {
    "name": "Arapahoe County Precinct 243"
   },
-  "ocd-division/country:us/state:co/county:fremont/precinct:25": {
-   "name": "Fremont County Precinct 25"
+  "ocd-division/country:us/state:co/county:fremont/precinct:24": {
+   "name": "Fremont County Precinct 24"
   },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:242": {
    "name": "Arapahoe County Precinct 242"
   },
-  "ocd-division/country:us/state:co/county:fremont/precinct:22": {
-   "name": "Fremont County Precinct 22"
+  "ocd-division/country:us/state:co/county:fremont/precinct:25": {
+   "name": "Fremont County Precinct 25"
   },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:245": {
    "name": "Arapahoe County Precinct 245"
   },
-  "ocd-division/country:us/state:co/county:fremont/precinct:23": {
-   "name": "Fremont County Precinct 23"
+  "ocd-division/country:us/state:co/county:fremont/precinct:22": {
+   "name": "Fremont County Precinct 22"
   },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:244": {
    "name": "Arapahoe County Precinct 244"
+  },
+  "ocd-division/country:us/state:co/county:fremont/precinct:23": {
+   "name": "Fremont County Precinct 23"
   },
   "ocd-division/country:us/state:co/county:fremont/precinct:20": {
    "name": "Fremont County Precinct 20"
@@ -580,29 +580,29 @@
   "ocd-division/country:us/state:co/county:arapahoe/precinct:241": {
    "name": "Arapahoe County Precinct 241"
   },
-  "ocd-division/country:us/state:co/county:fremont/precinct:15": {
-   "name": "Fremont County Precinct 15"
-  },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:238": {
    "name": "Arapahoe County Precinct 238"
   },
-  "ocd-division/country:us/state:co/county:fremont/precinct:16": {
-   "name": "Fremont County Precinct 16"
+  "ocd-division/country:us/state:co/county:fremont/precinct:15": {
+   "name": "Fremont County Precinct 15"
   },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:237": {
    "name": "Arapahoe County Precinct 237"
   },
-  "ocd-division/country:us/state:co/county:fremont/precinct:17": {
-   "name": "Fremont County Precinct 17"
+  "ocd-division/country:us/state:co/county:fremont/precinct:16": {
+   "name": "Fremont County Precinct 16"
   },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:236": {
    "name": "Arapahoe County Precinct 236"
   },
-  "ocd-division/country:us/state:co/county:fremont/precinct:18": {
-   "name": "Fremont County Precinct 18"
+  "ocd-division/country:us/state:co/county:fremont/precinct:17": {
+   "name": "Fremont County Precinct 17"
   },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:235": {
    "name": "Arapahoe County Precinct 235"
+  },
+  "ocd-division/country:us/state:co/county:fremont/precinct:18": {
+   "name": "Fremont County Precinct 18"
   },
   "ocd-division/country:us/state:co/county:arapahoe/precinct:234": {
    "name": "Arapahoe County Precinct 234"
@@ -901,14 +901,14 @@
   "ocd-division/country:us/state:co/place:merino": {
    "name": "Merino town"
   },
+  "ocd-division/country:us/state:co/county:denver/precinct:250": {
+   "name": "Denver County Precinct 250"
+  },
   "ocd-division/country:us/state:co/county:park/council_district:2": {
    "name": "Park County Commission District 2",
    "officeIndices": [
     172
    ]
-  },
-  "ocd-division/country:us/state:co/county:denver/precinct:250": {
-   "name": "Denver County Precinct 250"
   },
   "ocd-division/country:us/state:co/county:park/council_district:1": {
    "name": "Park County Commission District 1",
@@ -916,14 +916,14 @@
     173
    ]
   },
-  "ocd-division/country:us/state:co/county:prowers/school_district:granada_school_district_no._re-1": {
-   "name": "granada school district no. re-1"
-  },
   "ocd-division/country:us/state:co/county:park/council_district:3": {
    "name": "Park County Commission District 3",
    "officeIndices": [
     174
    ]
+  },
+  "ocd-division/country:us/state:co/county:prowers/school_district:granada_school_district_no._re-1": {
+   "name": "granada school district no. re-1"
   },
   "ocd-division/country:us/state:co/county:logan/school_district:school_district_no._re-5_plateau": {
    "name": "school district no. re-5 plateau"
@@ -1023,23 +1023,20 @@
   "ocd-division/country:us/state:co/county:pueblo/precinct:4": {
    "name": "Pueblo County Precinct 4"
   },
-  "ocd-division/country:us/state:co/county:park/school_district:platte_canyon_school_district_no._1": {
-   "name": "platte canyon school district no. 1"
-  },
   "ocd-division/country:us/state:co/place:swink": {
    "name": "Swink town"
   },
-  "ocd-division/country:us/state:co/county:san_miguel/precinct:2": {
-   "name": "San Miguel County Precinct 2"
+  "ocd-division/country:us/state:co/county:park/school_district:platte_canyon_school_district_no._1": {
+   "name": "platte canyon school district no. 1"
   },
   "ocd-division/country:us/state:co/place:wiley": {
    "name": "Wiley town"
   },
+  "ocd-division/country:us/state:co/county:san_miguel/precinct:2": {
+   "name": "San Miguel County Precinct 2"
+  },
   "ocd-division/country:us/state:co/county:san_miguel/precinct:1": {
    "name": "San Miguel County Precinct 1"
-  },
-  "ocd-division/country:us/state:co/county:pueblo/precinct:8": {
-   "name": "Pueblo County Precinct 8"
   },
   "ocd-division/country:us/state:co/county:dolores/council_district:1": {
    "name": "Dolores County Commission District 1",
@@ -1047,14 +1044,17 @@
     189
    ]
   },
-  "ocd-division/country:us/state:co/county:pueblo/precinct:9": {
-   "name": "Pueblo County Precinct 9"
+  "ocd-division/country:us/state:co/county:pueblo/precinct:8": {
+   "name": "Pueblo County Precinct 8"
   },
   "ocd-division/country:us/state:co/county:dolores/council_district:2": {
    "name": "Dolores County Commission District 2",
    "officeIndices": [
     190
    ]
+  },
+  "ocd-division/country:us/state:co/county:pueblo/precinct:9": {
+   "name": "Pueblo County Precinct 9"
   },
   "ocd-division/country:us/state:co/county:prowers/school_district:holly_school_district_no._re-3": {
    "name": "holly school district no. re-3"
@@ -1104,17 +1104,17 @@
   "ocd-division/country:us/state:co/county:kit_carson/precinct:11": {
    "name": "Kit Carson County Precinct 11"
   },
-  "ocd-division/country:us/state:co/county:clear_creek/precinct:8": {
-   "name": "Clear Creek County Precinct 8"
-  },
   "ocd-division/country:us/state:co/county:custer/precinct:1": {
    "name": "Custer County Precinct 1"
   },
-  "ocd-division/country:us/state:co/county:clear_creek/precinct:7": {
-   "name": "Clear Creek County Precinct 7"
+  "ocd-division/country:us/state:co/county:clear_creek/precinct:8": {
+   "name": "Clear Creek County Precinct 8"
   },
   "ocd-division/country:us/state:co/county:custer/precinct:2": {
    "name": "Custer County Precinct 2"
+  },
+  "ocd-division/country:us/state:co/county:clear_creek/precinct:7": {
+   "name": "Clear Creek County Precinct 7"
   },
   "ocd-division/country:us/state:co/county:clear_creek/precinct:6": {
    "name": "Clear Creek County Precinct 6"
@@ -1164,29 +1164,29 @@
   "ocd-division/country:us/state:co/county:larimer/precinct:805": {
    "name": "Larimer County Precinct 805"
   },
-  "ocd-division/country:us/state:co/county:larimer/precinct:804": {
-   "name": "Larimer County Precinct 804"
-  },
   "ocd-division/country:us/state:co/county:el_paso/precinct:178": {
    "name": "El Paso County Precinct 178"
   },
-  "ocd-division/country:us/state:co/county:larimer/precinct:803": {
-   "name": "Larimer County Precinct 803"
+  "ocd-division/country:us/state:co/county:larimer/precinct:804": {
+   "name": "Larimer County Precinct 804"
   },
   "ocd-division/country:us/state:co/county:el_paso/precinct:179": {
    "name": "El Paso County Precinct 179"
   },
-  "ocd-division/country:us/state:co/county:larimer/precinct:802": {
-   "name": "Larimer County Precinct 802"
+  "ocd-division/country:us/state:co/county:larimer/precinct:803": {
+   "name": "Larimer County Precinct 803"
   },
   "ocd-division/country:us/state:co/county:el_paso/precinct:176": {
    "name": "El Paso County Precinct 176"
   },
-  "ocd-division/country:us/state:co/county:larimer/precinct:801": {
-   "name": "Larimer County Precinct 801"
+  "ocd-division/country:us/state:co/county:larimer/precinct:802": {
+   "name": "Larimer County Precinct 802"
   },
   "ocd-division/country:us/state:co/county:el_paso/precinct:177": {
    "name": "El Paso County Precinct 177"
+  },
+  "ocd-division/country:us/state:co/county:larimer/precinct:801": {
+   "name": "Larimer County Precinct 801"
   },
   "ocd-division/country:us/state:co/county:el_paso/precinct:174": {
    "name": "El Paso County Precinct 174"
@@ -1251,11 +1251,11 @@
   "ocd-division/country:us/state:co/county:el_paso/precinct:195": {
    "name": "El Paso County Precinct 195"
   },
-  "ocd-division/country:us/state:co/county:el_paso/precinct:193": {
-   "name": "El Paso County Precinct 193"
-  },
   "ocd-division/country:us/state:co/place:hotchkiss": {
    "name": "Hotchkiss town"
+  },
+  "ocd-division/country:us/state:co/county:el_paso/precinct:193": {
+   "name": "El Paso County Precinct 193"
   },
   "ocd-division/country:us/state:co/county:el_paso/precinct:192": {
    "name": "El Paso County Precinct 192"
@@ -1787,6 +1787,9 @@
   "ocd-division/country:us/state:co/place:crestone": {
    "name": "Crestone town"
   },
+  "ocd-division/country:us/state:co/county:bent/school_district:mcclave_school_district_no._re-2": {
+   "name": "mcclave school district no. re-2"
+  },
   "ocd-division/country:us/state:co/county:pueblo": {
    "name": "Pueblo County",
    "officeIndices": [
@@ -1798,9 +1801,6 @@
     235,
     236
    ]
-  },
-  "ocd-division/country:us/state:co/county:bent/school_district:mcclave_school_district_no._re-2": {
-   "name": "mcclave school district no. re-2"
   },
   "ocd-division/country:us/state:co/county:rio_blanco/school_district:meeker_school_district_re1": {
    "name": "meeker school district re1"
@@ -2230,11 +2230,11 @@
   "ocd-division/country:us/state:co/place:lone_tree": {
    "name": "Lone Tree city"
   },
-  "ocd-division/country:us/state:co/county:eagle/precinct:30": {
-   "name": "Eagle County Precinct 30"
-  },
   "ocd-division/country:us/state:co/place:gunnison": {
    "name": "Gunnison city"
+  },
+  "ocd-division/country:us/state:co/county:eagle/precinct:30": {
+   "name": "Eagle County Precinct 30"
   },
   "ocd-division/country:us/state:co/county:kiowa/precinct:1": {
    "name": "Kiowa County Precinct 1"
@@ -2266,9 +2266,6 @@
   "ocd-division/country:us/state:co/county:eagle/precinct:24": {
    "name": "Eagle County Precinct 24"
   },
-  "ocd-division/country:us/state:co/county:eagle/precinct:23": {
-   "name": "Eagle County Precinct 23"
-  },
   "ocd-division/country:us/state:co/county:sedgwick": {
    "name": "Sedgwick County",
    "officeIndices": [
@@ -2278,6 +2275,9 @@
     252,
     253
    ]
+  },
+  "ocd-division/country:us/state:co/county:eagle/precinct:23": {
+   "name": "Eagle County Precinct 23"
   },
   "ocd-division/country:us/state:co/county:eagle/precinct:18": {
    "name": "Eagle County Precinct 18"
@@ -2297,17 +2297,17 @@
   "ocd-division/country:us/state:co/county:otero/precinct:15": {
    "name": "Otero County Precinct 15"
   },
-  "ocd-division/country:us/state:co/county:otero/precinct:16": {
-   "name": "Otero County Precinct 16"
-  },
   "ocd-division/country:us/state:co/place:pitkin": {
    "name": "Pitkin town"
   },
-  "ocd-division/country:us/state:co/county:otero/precinct:13": {
-   "name": "Otero County Precinct 13"
+  "ocd-division/country:us/state:co/county:otero/precinct:16": {
+   "name": "Otero County Precinct 16"
   },
   "ocd-division/country:us/state:co/place:red_cliff": {
    "name": "Red Cliff town"
+  },
+  "ocd-division/country:us/state:co/county:otero/precinct:13": {
+   "name": "Otero County Precinct 13"
   },
   "ocd-division/country:us/state:co/county:otero/precinct:14": {
    "name": "Otero County Precinct 14"
@@ -2324,9 +2324,6 @@
   "ocd-division/country:us/state:co/county:montrose/precinct:1": {
    "name": "Montrose County Precinct 1"
   },
-  "ocd-division/country:us/state:co/county:montrose/precinct:6": {
-   "name": "Montrose County Precinct 6"
-  },
   "ocd-division/country:us/state:co/county:washington": {
    "name": "Washington County",
    "officeIndices": [
@@ -2338,44 +2335,47 @@
     259
    ]
   },
+  "ocd-division/country:us/state:co/county:montrose/precinct:6": {
+   "name": "Montrose County Precinct 6"
+  },
   "ocd-division/country:us/state:co/county:montrose/precinct:7": {
    "name": "Montrose County Precinct 7"
-  },
-  "ocd-division/country:us/state:co/county:montrose/precinct:8": {
-   "name": "Montrose County Precinct 8"
   },
   "ocd-division/country:us/state:co/county:eagle/precinct:11": {
    "name": "Eagle County Precinct 11"
   },
-  "ocd-division/country:us/state:co/county:montrose/precinct:9": {
-   "name": "Montrose County Precinct 9"
+  "ocd-division/country:us/state:co/county:montrose/precinct:8": {
+   "name": "Montrose County Precinct 8"
   },
   "ocd-division/country:us/state:co/county:eagle/precinct:10": {
    "name": "Eagle County Precinct 10"
   },
-  "ocd-division/country:us/state:co/county:montrose/precinct:2": {
-   "name": "Montrose County Precinct 2"
+  "ocd-division/country:us/state:co/county:montrose/precinct:9": {
+   "name": "Montrose County Precinct 9"
   },
   "ocd-division/country:us/state:co/county:eagle/precinct:13": {
    "name": "Eagle County Precinct 13"
   },
-  "ocd-division/country:us/state:co/county:montrose/precinct:3": {
-   "name": "Montrose County Precinct 3"
+  "ocd-division/country:us/state:co/county:montrose/precinct:2": {
+   "name": "Montrose County Precinct 2"
   },
   "ocd-division/country:us/state:co/county:eagle/precinct:12": {
    "name": "Eagle County Precinct 12"
   },
-  "ocd-division/country:us/state:co/county:montrose/precinct:4": {
-   "name": "Montrose County Precinct 4"
+  "ocd-division/country:us/state:co/county:montrose/precinct:3": {
+   "name": "Montrose County Precinct 3"
   },
   "ocd-division/country:us/state:co/county:eagle/precinct:15": {
    "name": "Eagle County Precinct 15"
   },
-  "ocd-division/country:us/state:co/county:montrose/precinct:5": {
-   "name": "Montrose County Precinct 5"
+  "ocd-division/country:us/state:co/county:montrose/precinct:4": {
+   "name": "Montrose County Precinct 4"
   },
   "ocd-division/country:us/state:co/county:eagle/precinct:14": {
    "name": "Eagle County Precinct 14"
+  },
+  "ocd-division/country:us/state:co/county:montrose/precinct:5": {
+   "name": "Montrose County Precinct 5"
   },
   "ocd-division/country:us/state:co/county:jackson/school_district:north_park_school_district_r-1": {
    "name": "north park school district r-1"
@@ -2392,20 +2392,20 @@
   "ocd-division/country:us/state:co/county:boulder/precinct:213": {
    "name": "Boulder County Precinct 213"
   },
-  "ocd-division/country:us/state:co/county:hinsdale/school_district:hinsdale_county_school_district_no._re-1": {
-   "name": "hinsdale county school district no. re-1"
-  },
   "ocd-division/country:us/state:co/county:boulder/precinct:210": {
    "name": "Boulder County Precinct 210"
+  },
+  "ocd-division/country:us/state:co/county:hinsdale/school_district:hinsdale_county_school_district_no._re-1": {
+   "name": "hinsdale county school district no. re-1"
   },
   "ocd-division/country:us/state:co/county:boulder/precinct:211": {
    "name": "Boulder County Precinct 211"
   },
-  "ocd-division/country:us/state:co/county:boulder/precinct:212": {
-   "name": "Boulder County Precinct 212"
-  },
   "ocd-division/country:us/state:co/place:lamar": {
    "name": "Lamar city"
+  },
+  "ocd-division/country:us/state:co/county:boulder/precinct:212": {
+   "name": "Boulder County Precinct 212"
   },
   "ocd-division/country:us/state:co/county:boulder/precinct:209": {
    "name": "Boulder County Precinct 209"
@@ -2467,23 +2467,23 @@
   "ocd-division/country:us/state:co/county:boulder/precinct:902": {
    "name": "Boulder County Precinct 902"
   },
-  "ocd-division/country:us/state:co/county:prowers/precinct:10": {
-   "name": "Prowers County Precinct 10"
+  "ocd-division/country:us/state:co/county:boulder/precinct:916": {
+   "name": "Boulder County Precinct 916"
   },
   "ocd-division/country:us/state:co/county:otero/school_district:manzanola_joint_district_no._3j": {
    "name": "manzanola joint district no. 3j"
   },
-  "ocd-division/country:us/state:co/county:boulder/precinct:916": {
-   "name": "Boulder County Precinct 916"
+  "ocd-division/country:us/state:co/county:prowers/precinct:10": {
+   "name": "Prowers County Precinct 10"
   },
-  "ocd-division/country:us/state:co/county:prowers/precinct:11": {
-   "name": "Prowers County Precinct 11"
+  "ocd-division/country:us/state:co/place:boone": {
+   "name": "Boone town"
   },
   "ocd-division/country:us/state:co/county:boulder/precinct:917": {
    "name": "Boulder County Precinct 917"
   },
-  "ocd-division/country:us/state:co/place:boone": {
-   "name": "Boone town"
+  "ocd-division/country:us/state:co/county:prowers/precinct:11": {
+   "name": "Prowers County Precinct 11"
   },
   "ocd-division/country:us/state:co/county:boulder/precinct:914": {
    "name": "Boulder County Precinct 914"
@@ -2491,11 +2491,11 @@
   "ocd-division/country:us/state:co/county:boulder/precinct:915": {
    "name": "Boulder County Precinct 915"
   },
-  "ocd-division/country:us/state:co/county:prowers/precinct:12": {
-   "name": "Prowers County Precinct 12"
-  },
   "ocd-division/country:us/state:co/county:boulder/precinct:918": {
    "name": "Boulder County Precinct 918"
+  },
+  "ocd-division/country:us/state:co/county:prowers/precinct:12": {
+   "name": "Prowers County Precinct 12"
   },
   "ocd-division/country:us/state:co/county:prowers/precinct:13": {
    "name": "Prowers County Precinct 13"
@@ -2524,11 +2524,11 @@
   "ocd-division/country:us/state:co/county:larimer/precinct:223": {
    "name": "Larimer County Precinct 223"
   },
-  "ocd-division/country:us/state:co/county:larimer/precinct:224": {
-   "name": "Larimer County Precinct 224"
-  },
   "ocd-division/country:us/state:co/place:ouray": {
    "name": "Ouray city"
+  },
+  "ocd-division/country:us/state:co/county:larimer/precinct:224": {
+   "name": "Larimer County Precinct 224"
   },
   "ocd-division/country:us/state:co/county:larimer/precinct:226": {
    "name": "Larimer County Precinct 226"
@@ -4631,14 +4631,14 @@
   "ocd-division/country:us/state:co/county:jefferson/precinct:177": {
    "name": "Jefferson County Precinct 177"
   },
-  "ocd-division/country:us/state:co/county:jefferson/precinct:178": {
-   "name": "Jefferson County Precinct 178"
-  },
   "ocd-division/country:us/state:co/county:delta/council_district:1": {
    "name": "Delta County Commission District 1",
    "officeIndices": [
     326
    ]
+  },
+  "ocd-division/country:us/state:co/county:jefferson/precinct:178": {
+   "name": "Jefferson County Precinct 178"
   },
   "ocd-division/country:us/state:co/county:jefferson/precinct:179": {
    "name": "Jefferson County Precinct 179"
@@ -4685,14 +4685,14 @@
   "ocd-division/country:us/state:co/county:jefferson/precinct:188": {
    "name": "Jefferson County Precinct 188"
   },
-  "ocd-division/country:us/state:co/county:jefferson/precinct:189": {
-   "name": "Jefferson County Precinct 189"
-  },
   "ocd-division/country:us/state:co/county:summit/council_district:1": {
    "name": "Summit County Commission District 1",
    "officeIndices": [
     328
    ]
+  },
+  "ocd-division/country:us/state:co/county:jefferson/precinct:189": {
+   "name": "Jefferson County Precinct 189"
   },
   "ocd-division/country:us/state:co/county:larimer/precinct:330": {
    "name": "Larimer County Precinct 330"
@@ -4742,11 +4742,11 @@
   "ocd-division/country:us/state:co/county:boulder/precinct:400": {
    "name": "Boulder County Precinct 400"
   },
-  "ocd-division/country:us/state:co/county:boulder/precinct:401": {
-   "name": "Boulder County Precinct 401"
-  },
   "ocd-division/country:us/state:co/place:castle_pines": {
    "name": "Castle Pines city"
+  },
+  "ocd-division/country:us/state:co/county:boulder/precinct:401": {
+   "name": "Boulder County Precinct 401"
   },
   "ocd-division/country:us/state:co/county:boulder/precinct:402": {
    "name": "Boulder County Precinct 402"
@@ -4766,20 +4766,20 @@
   "ocd-division/country:us/state:co/county:boulder/precinct:407": {
    "name": "Boulder County Precinct 407"
   },
-  "ocd-division/country:us/state:co/county:boulder/precinct:408": {
-   "name": "Boulder County Precinct 408"
-  },
   "ocd-division/country:us/state:co/district_court:16": {
    "name": "CO State District Court - 16th District"
   },
-  "ocd-division/country:us/state:co/county:jefferson/precinct:159": {
-   "name": "Jefferson County Precinct 159"
+  "ocd-division/country:us/state:co/county:boulder/precinct:408": {
+   "name": "Boulder County Precinct 408"
+  },
+  "ocd-division/country:us/state:co/district_court:15": {
+   "name": "CO State District Court - 15th District"
   },
   "ocd-division/country:us/state:co/county:boulder/precinct:409": {
    "name": "Boulder County Precinct 409"
   },
-  "ocd-division/country:us/state:co/district_court:15": {
-   "name": "CO State District Court - 15th District"
+  "ocd-division/country:us/state:co/county:jefferson/precinct:159": {
+   "name": "Jefferson County Precinct 159"
   },
   "ocd-division/country:us/state:co/district_court:14": {
    "name": "CO State District Court - 14th District"
@@ -4790,23 +4790,23 @@
   "ocd-division/country:us/state:co/county:jefferson/precinct:156": {
    "name": "Jefferson County Precinct 156"
   },
-  "ocd-division/country:us/state:co/county:jefferson/precinct:155": {
-   "name": "Jefferson County Precinct 155"
-  },
   "ocd-division/country:us/state:co/district_court:19": {
    "name": "CO State District Court - 19th District"
   },
-  "ocd-division/country:us/state:co/county:jefferson/precinct:158": {
-   "name": "Jefferson County Precinct 158"
+  "ocd-division/country:us/state:co/county:jefferson/precinct:155": {
+   "name": "Jefferson County Precinct 155"
   },
   "ocd-division/country:us/state:co/district_court:18": {
    "name": "CO State District Court - 18th District"
   },
-  "ocd-division/country:us/state:co/county:jefferson/precinct:157": {
-   "name": "Jefferson County Precinct 157"
+  "ocd-division/country:us/state:co/county:jefferson/precinct:158": {
+   "name": "Jefferson County Precinct 158"
   },
   "ocd-division/country:us/state:co/district_court:17": {
    "name": "CO State District Court - 17th District"
+  },
+  "ocd-division/country:us/state:co/county:jefferson/precinct:157": {
+   "name": "Jefferson County Precinct 157"
   },
   "ocd-division/country:us/state:co/county:jefferson/precinct:151": {
    "name": "Jefferson County Precinct 151"
@@ -4820,20 +4820,20 @@
   "ocd-division/country:us/state:co/county:jefferson/precinct:154": {
    "name": "Jefferson County Precinct 154"
   },
-  "ocd-division/country:us/state:co/district_court:11": {
-   "name": "CO State District Court - 11th District"
-  },
   "ocd-division/country:us/state:co/place:sugar_city": {
    "name": "Sugar City town"
+  },
+  "ocd-division/country:us/state:co/district_court:11": {
+   "name": "CO State District Court - 11th District"
   },
   "ocd-division/country:us/state:co/district_court:12": {
    "name": "CO State District Court - 12th District"
   },
-  "ocd-division/country:us/state:co/county:jefferson/precinct:150": {
-   "name": "Jefferson County Precinct 150"
-  },
   "ocd-division/country:us/state:co/district_court:10": {
    "name": "CO State District Court - 10th District"
+  },
+  "ocd-division/country:us/state:co/county:jefferson/precinct:150": {
+   "name": "Jefferson County Precinct 150"
   },
   "ocd-division/country:us/state:co/county:boulder/precinct:411": {
    "name": "Boulder County Precinct 411"
@@ -4865,6 +4865,9 @@
   "ocd-division/country:us/state:co/county:jefferson/precinct:162": {
    "name": "Jefferson County Precinct 162"
   },
+  "ocd-division/country:us/state:co/county:jefferson/precinct:163": {
+   "name": "Jefferson County Precinct 163"
+  },
   "ocd-division/country:us/state:co/county:morgan": {
    "name": "Morgan County",
    "officeIndices": [
@@ -4876,20 +4879,17 @@
     336
    ]
   },
-  "ocd-division/country:us/state:co/county:jefferson/precinct:163": {
-   "name": "Jefferson County Precinct 163"
+  "ocd-division/country:us/state:co/district_court:20": {
+   "name": "CO State District Court - 20th District"
   },
   "ocd-division/country:us/state:co/county:jefferson/precinct:160": {
    "name": "Jefferson County Precinct 160"
   },
-  "ocd-division/country:us/state:co/district_court:20": {
-   "name": "CO State District Court - 20th District"
+  "ocd-division/country:us/state:co/district_court:21": {
+   "name": "CO State District Court - 21st District"
   },
   "ocd-division/country:us/state:co/county:jefferson/precinct:161": {
    "name": "Jefferson County Precinct 161"
-  },
-  "ocd-division/country:us/state:co/district_court:21": {
-   "name": "CO State District Court - 21st District"
   },
   "ocd-division/country:us/state:co/county:boulder/precinct:410": {
    "name": "Boulder County Precinct 410"
@@ -4909,11 +4909,11 @@
   "ocd-division/country:us/state:co/county:jefferson/precinct:136": {
    "name": "Jefferson County Precinct 136"
   },
-  "ocd-division/country:us/state:co/county:jefferson/precinct:135": {
-   "name": "Jefferson County Precinct 135"
-  },
   "ocd-division/country:us/state:co/place:la_veta": {
    "name": "La Veta town"
+  },
+  "ocd-division/country:us/state:co/county:jefferson/precinct:135": {
+   "name": "Jefferson County Precinct 135"
   },
   "ocd-division/country:us/state:co/county:jefferson/precinct:138": {
    "name": "Jefferson County Precinct 138"
@@ -5243,14 +5243,14 @@
     351
    ]
   },
+  "ocd-division/country:us/state:co/county:el_paso/precinct:322": {
+   "name": "El Paso County Precinct 322"
+  },
   "ocd-division/country:us/state:co/county:pueblo/council_district:2": {
    "name": "Pueblo County CO Board of County Commissioners District 2",
    "officeIndices": [
     352
    ]
-  },
-  "ocd-division/country:us/state:co/county:el_paso/precinct:322": {
-   "name": "El Paso County Precinct 322"
   },
   "ocd-division/country:us/state:co/county:el_paso/precinct:320": {
    "name": "El Paso County Precinct 320"
@@ -5331,23 +5331,23 @@
   "ocd-division/country:us/state:co/place:log_lane_village": {
    "name": "Log Lane Village town"
   },
+  "ocd-division/country:us/state:co/county:denver/precinct:131": {
+   "name": "Denver County Precinct 131"
+  },
   "ocd-division/country:us/state:co/county:larimer/council_district:1": {
    "name": "Larimer County CO Commissioner District 1",
    "officeIndices": [
     366
    ]
   },
-  "ocd-division/country:us/state:co/county:denver/precinct:131": {
-   "name": "Denver County Precinct 131"
+  "ocd-division/country:us/state:co/county:denver/precinct:132": {
+   "name": "Denver County Precinct 132"
   },
   "ocd-division/country:us/state:co/county:larimer/council_district:2": {
    "name": "Larimer County CO Commissioner District 2",
    "officeIndices": [
     367
    ]
-  },
-  "ocd-division/country:us/state:co/county:denver/precinct:132": {
-   "name": "Denver County Precinct 132"
   },
   "ocd-division/country:us/state:co/county:denver/precinct:130": {
    "name": "Denver County Precinct 130"
@@ -7846,14 +7846,14 @@
   "ocd-division/country:us/state:co/county:pueblo/precinct:88": {
    "name": "Pueblo County Precinct 88"
   },
-  "ocd-division/country:us/state:co/place:lakewood": {
-   "name": "Lakewood city"
-  },
   "ocd-division/country:us/state:co/sldl:1": {
    "name": "Colorado State House district 1",
    "officeIndices": [
     45
    ]
+  },
+  "ocd-division/country:us/state:co/place:lakewood": {
+   "name": "Lakewood city"
   },
   "ocd-division/country:us/state:co/sldl:2": {
    "name": "Colorado State House district 2",
@@ -8707,6 +8707,9 @@
   "ocd-division/country:us/state:co/county:boulder/precinct:608": {
    "name": "Boulder County Precinct 608"
   },
+  "ocd-division/country:us/state:co/county:boulder/precinct:609": {
+   "name": "Boulder County Precinct 609"
+  },
   "ocd-division/country:us/state:co/county:larimer": {
    "name": "Larimer County",
    "officeIndices": [
@@ -8718,9 +8721,6 @@
     499,
     500
    ]
-  },
-  "ocd-division/country:us/state:co/county:boulder/precinct:609": {
-   "name": "Boulder County Precinct 609"
   },
   "ocd-division/country:us/state:co/county:boulder/precinct:600": {
    "name": "Boulder County Precinct 600"
@@ -9747,14 +9747,17 @@
   "ocd-division/country:us/state:co/county:kit_carson/school_district:hi-plains_r-23": {
    "name": "hi-plains r-23"
   },
+  "ocd-division/country:us/state:co/county:denver/precinct:426": {
+   "name": "Denver County Precinct 426"
+  },
   "ocd-division/country:us/state:co/cd:1": {
    "name": "Colorado's 1st congressional district",
    "officeIndices": [
     2
    ]
   },
-  "ocd-division/country:us/state:co/county:denver/precinct:426": {
-   "name": "Denver County Precinct 426"
+  "ocd-division/country:us/state:co/county:denver/precinct:425": {
+   "name": "Denver County Precinct 425"
   },
   "ocd-division/country:us/state:co/cd:2": {
    "name": "Colorado's 2nd congressional district",
@@ -9762,8 +9765,8 @@
     3
    ]
   },
-  "ocd-division/country:us/state:co/county:denver/precinct:425": {
-   "name": "Denver County Precinct 425"
+  "ocd-division/country:us/state:co/county:denver/precinct:420": {
+   "name": "Denver County Precinct 420"
   },
   "ocd-division/country:us/state:co/cd:3": {
    "name": "Colorado's 3rd congressional district",
@@ -9771,14 +9774,14 @@
     4
    ]
   },
-  "ocd-division/country:us/state:co/county:denver/precinct:420": {
-   "name": "Denver County Precinct 420"
-  },
   "ocd-division/country:us/state:co/cd:4": {
    "name": "Colorado's 4th congressional district",
    "officeIndices": [
     5
    ]
+  },
+  "ocd-division/country:us/state:co/county:denver/precinct:422": {
+   "name": "Denver County Precinct 422"
   },
   "ocd-division/country:us/state:co/cd:5": {
    "name": "Colorado's 5th congressional district",
@@ -9786,17 +9789,14 @@
     6
    ]
   },
-  "ocd-division/country:us/state:co/county:denver/precinct:422": {
-   "name": "Denver County Precinct 422"
+  "ocd-division/country:us/state:co/county:denver/precinct:421": {
+   "name": "Denver County Precinct 421"
   },
   "ocd-division/country:us/state:co/cd:6": {
    "name": "Colorado's 6th congressional district",
    "officeIndices": [
     7
    ]
-  },
-  "ocd-division/country:us/state:co/county:denver/precinct:421": {
-   "name": "Denver County Precinct 421"
   },
   "ocd-division/country:us/state:co/place:cortez": {
    "name": "Cortez city"
@@ -9912,14 +9912,14 @@
     558
    ]
   },
+  "ocd-division/country:us/state:co/place:blue_river": {
+   "name": "Blue River town"
+  },
   "ocd-division/country:us/state:co/county:weld/council_district:2": {
    "name": "Weld County CO Board of County Commissioners District 2",
    "officeIndices": [
     559
    ]
-  },
-  "ocd-division/country:us/state:co/place:blue_river": {
-   "name": "Blue River town"
   },
   "ocd-division/country:us/state:co/county:weld/council_district:3": {
    "name": "Weld County CO Board of County Commissioners District 3",
@@ -10143,11 +10143,11 @@
   "ocd-division/country:us/state:co/county:garfield/precinct:17": {
    "name": "Garfield County Precinct 17"
   },
-  "ocd-division/country:us/state:co/county:garfield/precinct:16": {
-   "name": "Garfield County Precinct 16"
-  },
   "ocd-division/country:us/state:co/place:sheridan": {
    "name": "Sheridan city"
+  },
+  "ocd-division/country:us/state:co/county:garfield/precinct:16": {
+   "name": "Garfield County Precinct 16"
   },
   "ocd-division/country:us/state:co/county:garfield/precinct:15": {
    "name": "Garfield County Precinct 15"
@@ -10161,14 +10161,14 @@
   "ocd-division/country:us/state:co/county:garfield/precinct:18": {
    "name": "Garfield County Precinct 18"
   },
-  "ocd-division/country:us/state:co/county:garfield/precinct:13": {
-   "name": "Garfield County Precinct 13"
-  },
   "ocd-division/country:us/state:co/place:fort_collins": {
    "name": "Fort Collins city",
    "officeIndices": [
     118
    ]
+  },
+  "ocd-division/country:us/state:co/county:garfield/precinct:13": {
+   "name": "Garfield County Precinct 13"
   },
   "ocd-division/country:us/state:co/county:garfield/precinct:12": {
    "name": "Garfield County Precinct 12"
@@ -10203,23 +10203,23 @@
   "ocd-division/country:us/state:co/county:pueblo/precinct:401": {
    "name": "Pueblo County Precinct 401"
   },
-  "ocd-division/country:us/state:co/county:pueblo/precinct:403": {
-   "name": "Pueblo County Precinct 403"
-  },
   "ocd-division/country:us/state:co/county:denver/council_district:1": {
    "name": "Denver CO - City Council district 1",
    "officeIndices": [
     119
    ]
   },
-  "ocd-division/country:us/state:co/county:pueblo/precinct:402": {
-   "name": "Pueblo County Precinct 402"
+  "ocd-division/country:us/state:co/county:pueblo/precinct:403": {
+   "name": "Pueblo County Precinct 403"
   },
   "ocd-division/country:us/state:co/county:denver/council_district:2": {
    "name": "Denver CO - City Council district 2",
    "officeIndices": [
     120
    ]
+  },
+  "ocd-division/country:us/state:co/county:pueblo/precinct:402": {
+   "name": "Pueblo County Precinct 402"
   },
   "ocd-division/country:us/state:co/county:denver/precinct:430": {
    "name": "Denver County Precinct 430"
@@ -10242,11 +10242,11 @@
     122
    ]
   },
-  "ocd-division/country:us/state:co/county:denver/precinct:433": {
-   "name": "Denver County Precinct 433"
-  },
   "ocd-division/country:us/state:co/place:vilas": {
    "name": "Vilas town"
+  },
+  "ocd-division/country:us/state:co/county:denver/precinct:433": {
+   "name": "Denver County Precinct 433"
   },
   "ocd-division/country:us/state:co/county:denver/council_district:7": {
    "name": "Denver CO - City Council district 7",
@@ -10254,17 +10254,20 @@
     123
    ]
   },
+  "ocd-division/country:us/state:co/place:avon": {
+   "name": "Avon town"
+  },
+  "ocd-division/country:us/state:co/county:denver/precinct:434": {
+   "name": "Denver County Precinct 434"
+  },
   "ocd-division/country:us/state:co/county:denver/council_district:6": {
    "name": "Denver CO - City Council district 6",
    "officeIndices": [
     124
    ]
   },
-  "ocd-division/country:us/state:co/county:denver/precinct:434": {
-   "name": "Denver County Precinct 434"
-  },
-  "ocd-division/country:us/state:co/place:avon": {
-   "name": "Avon town"
+  "ocd-division/country:us/state:co/county:denver/precinct:435": {
+   "name": "Denver County Precinct 435"
   },
   "ocd-division/country:us/state:co/county:denver/council_district:5": {
    "name": "Denver CO - City Council district 5",
@@ -10272,17 +10275,14 @@
     125
    ]
   },
-  "ocd-division/country:us/state:co/county:denver/precinct:435": {
-   "name": "Denver County Precinct 435"
+  "ocd-division/country:us/state:co/county:denver/precinct:436": {
+   "name": "Denver County Precinct 436"
   },
   "ocd-division/country:us/state:co/county:denver/council_district:4": {
    "name": "Denver CO - City Council district 4",
    "officeIndices": [
     126
    ]
-  },
-  "ocd-division/country:us/state:co/county:denver/precinct:436": {
-   "name": "Denver County Precinct 436"
   },
   "ocd-division/country:us/state:co/county:denver/council_district:3": {
    "name": "Denver CO - City Council district 3",

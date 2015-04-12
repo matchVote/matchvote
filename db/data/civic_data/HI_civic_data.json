@@ -18,17 +18,14 @@
   "ocd-division/country:us/state:hi/sldl:20/precinct:2": {
    "name": "Hawaii Precinct 20-02"
   },
-  "ocd-division/country:us/state:hi/sldl:20/precinct:3": {
-   "name": "Hawaii Precinct 20-03"
-  },
   "ocd-division/country:us/state:hi/county:honolulu/council_district:4": {
    "name": "Honolulu County and City - council district 4",
    "officeIndices": [
     83
    ]
   },
-  "ocd-division/country:us/state:hi/sldl:20/precinct:4": {
-   "name": "Hawaii Precinct 20-04"
+  "ocd-division/country:us/state:hi/sldl:20/precinct:3": {
+   "name": "Hawaii Precinct 20-03"
   },
   "ocd-division/country:us/state:hi/sldl:14/precinct:1": {
    "name": "Hawaii Precinct 14-01"
@@ -39,23 +36,26 @@
     84
    ]
   },
+  "ocd-division/country:us/state:hi/sldl:20/precinct:4": {
+   "name": "Hawaii Precinct 20-04"
+  },
+  "ocd-division/country:us/state:hi/sldl:14/precinct:2": {
+   "name": "Hawaii Precinct 14-02"
+  },
   "ocd-division/country:us/state:hi/county:honolulu/council_district:6": {
    "name": "Honolulu County and City - council district 6",
    "officeIndices": [
     85
    ]
   },
-  "ocd-division/country:us/state:hi/sldl:14/precinct:2": {
-   "name": "Hawaii Precinct 14-02"
+  "ocd-division/country:us/state:hi/sldl:14/precinct:3": {
+   "name": "Hawaii Precinct 14-03"
   },
   "ocd-division/country:us/state:hi/county:honolulu/council_district:7": {
    "name": "Honolulu County and City - council district 7",
    "officeIndices": [
     86
    ]
-  },
-  "ocd-division/country:us/state:hi/sldl:14/precinct:3": {
-   "name": "Hawaii Precinct 14-03"
   },
   "ocd-division/country:us/state:hi/county:honolulu/council_district:1": {
    "name": "Honolulu County and City - council district 1",
@@ -69,14 +69,14 @@
     88
    ]
   },
+  "ocd-division/country:us/state:hi/sldl:45/precinct:1": {
+   "name": "Hawaii Precinct 45-01"
+  },
   "ocd-division/country:us/state:hi/county:honolulu/council_district:3": {
    "name": "Honolulu County and City - council district 3",
    "officeIndices": [
     89
    ]
-  },
-  "ocd-division/country:us/state:hi/sldl:45/precinct:1": {
-   "name": "Hawaii Precinct 45-01"
   },
   "ocd-division/country:us/state:hi/sldl:9/precinct:1": {
    "name": "Hawaii Precinct 09-01"
@@ -93,11 +93,11 @@
   "ocd-division/country:us/state:hi/sldl:34/precinct:1": {
    "name": "Hawaii Precinct 34-01"
   },
-  "ocd-division/country:us/state:hi/sldl:25/precinct:5": {
-   "name": "Hawaii Precinct 25-05"
-  },
   "ocd-division/country:us/state:hi/sldl:41/precinct:1": {
    "name": "Hawaii Precinct 41-01"
+  },
+  "ocd-division/country:us/state:hi/sldl:25/precinct:5": {
+   "name": "Hawaii Precinct 25-05"
   },
   "ocd-division/country:us/state:hi/sldl:25/precinct:4": {
    "name": "Hawaii Precinct 25-04"
@@ -147,17 +147,17 @@
   "ocd-division/country:us/state:hi/sldl:8/precinct:7": {
    "name": "Hawaii Precinct 08-07"
   },
-  "ocd-division/country:us/state:hi/sldl:46/precinct:3": {
-   "name": "Hawaii Precinct 46-03"
-  },
   "ocd-division/country:us/state:hi/sldl:8/precinct:6": {
    "name": "Hawaii Precinct 08-06"
   },
-  "ocd-division/country:us/state:hi/sldl:46/precinct:4": {
-   "name": "Hawaii Precinct 46-04"
+  "ocd-division/country:us/state:hi/sldl:46/precinct:3": {
+   "name": "Hawaii Precinct 46-03"
   },
   "ocd-division/country:us/state:hi/sldl:8/precinct:5": {
    "name": "Hawaii Precinct 08-05"
+  },
+  "ocd-division/country:us/state:hi/sldl:46/precinct:4": {
+   "name": "Hawaii Precinct 46-04"
   },
   "ocd-division/country:us/state:hi/sldl:8/precinct:4": {
    "name": "Hawaii Precinct 08-04"
@@ -243,17 +243,17 @@
     9
    ]
   },
-  "ocd-division/country:us/state:hi/cd:1": {
-   "name": "Hawaii's 1st congressional district",
-   "officeIndices": [
-    0
-   ]
-  },
   "ocd-division/country:us/state:hi/sldl:7/precinct:5": {
    "name": "Hawaii Precinct 07-05"
   },
   "ocd-division/country:us/state:hi/sldl:4/precinct:1": {
    "name": "Hawaii Precinct 04-01"
+  },
+  "ocd-division/country:us/state:hi/cd:1": {
+   "name": "Hawaii's 1st congressional district",
+   "officeIndices": [
+    0
+   ]
   },
   "ocd-division/country:us/state:hi/sldu:11": {
    "name": "Hawaii State Senate district 11",
@@ -276,17 +276,17 @@
   "ocd-division/country:us/state:hi/sldl:4/precinct:3": {
    "name": "Hawaii Precinct 04-03"
   },
-  "ocd-division/country:us/state:hi/cd:2": {
-   "name": "Hawaii's 2nd congressional district",
-   "officeIndices": [
-    1
-   ]
-  },
   "ocd-division/country:us/state:hi/sldl:6/precinct:3": {
    "name": "Hawaii Precinct 06-03"
   },
   "ocd-division/country:us/state:hi/sldl:4/precinct:4": {
    "name": "Hawaii Precinct 04-04"
+  },
+  "ocd-division/country:us/state:hi/cd:2": {
+   "name": "Hawaii's 2nd congressional district",
+   "officeIndices": [
+    1
+   ]
   },
   "ocd-division/country:us/state:hi/sldu:14": {
    "name": "Hawaii State Senate district 14",
@@ -300,12 +300,6 @@
   "ocd-division/country:us/state:hi/sldl:6/precinct:2": {
    "name": "Hawaii Precinct 06-02"
   },
-  "ocd-division/country:us/state:hi/county:hawaii": {
-   "name": "Hawaii County",
-   "officeIndices": [
-    90
-   ]
-  },
   "ocd-division/country:us/state:hi/sldu:15": {
    "name": "Hawaii State Senate district 15",
    "officeIndices": [
@@ -314,6 +308,12 @@
   },
   "ocd-division/country:us/state:hi/sldl:6/precinct:1": {
    "name": "Hawaii Precinct 06-01"
+  },
+  "ocd-division/country:us/state:hi/county:hawaii": {
+   "name": "Hawaii County",
+   "officeIndices": [
+    90
+   ]
   },
   "ocd-division/country:us/state:hi/sldu:12": {
    "name": "Hawaii State Senate district 12",
@@ -690,14 +690,14 @@
     36
    ]
   },
+  "ocd-division/country:us/state:hi/sldl:51/precinct:4": {
+   "name": "Hawaii Precinct 51-04"
+  },
   "ocd-division/country:us/state:hi/sldl:46": {
    "name": "Hawaii State House district 46",
    "officeIndices": [
     37
    ]
-  },
-  "ocd-division/country:us/state:hi/sldl:51/precinct:4": {
-   "name": "Hawaii Precinct 51-04"
   },
   "ocd-division/country:us/state:hi/sldl:51/precinct:1": {
    "name": "Hawaii Precinct 51-01"
@@ -711,14 +711,14 @@
   "ocd-division/country:us/state:hi/sldl:42/precinct:3": {
    "name": "Hawaii Precinct 42-03"
   },
+  "ocd-division/country:us/state:hi/sldl:51/precinct:2": {
+   "name": "Hawaii Precinct 51-02"
+  },
   "ocd-division/country:us/state:hi/sldl:44": {
    "name": "Hawaii State House district 44",
    "officeIndices": [
     39
    ]
-  },
-  "ocd-division/country:us/state:hi/sldl:51/precinct:2": {
-   "name": "Hawaii Precinct 51-02"
   },
   "ocd-division/country:us/state:hi/sldl:39": {
    "name": "Hawaii State House district 39",
@@ -729,23 +729,23 @@
   "ocd-division/country:us/state:hi/sldl:18/precinct:1": {
    "name": "Hawaii Precinct 18-01"
   },
-  "ocd-division/country:us/state:hi/sldl:18/precinct:2": {
-   "name": "Hawaii Precinct 18-02"
-  },
   "ocd-division/country:us/state:hi/sldl:37": {
    "name": "Hawaii State House district 37",
    "officeIndices": [
     41
    ]
   },
-  "ocd-division/country:us/state:hi/sldl:18/precinct:3": {
-   "name": "Hawaii Precinct 18-03"
+  "ocd-division/country:us/state:hi/sldl:18/precinct:2": {
+   "name": "Hawaii Precinct 18-02"
   },
   "ocd-division/country:us/state:hi/sldl:38": {
    "name": "Hawaii State House district 38",
    "officeIndices": [
     42
    ]
+  },
+  "ocd-division/country:us/state:hi/sldl:18/precinct:3": {
+   "name": "Hawaii Precinct 18-03"
   },
   "ocd-division/country:us/state:hi/sldl:18/precinct:4": {
    "name": "Hawaii Precinct 18-04"
@@ -852,17 +852,17 @@
   "ocd-division/country:us/state:hi/sldl:3/precinct:6": {
    "name": "Hawaii Precinct 03-06"
   },
-  "ocd-division/country:us/state:hi/sldl:26": {
-   "name": "Hawaii State House district 26",
-   "officeIndices": [
-    46
-   ]
-  },
   "ocd-division/country:us/state:hi/sldl:16/precinct:2": {
    "name": "Hawaii Precinct 16-02"
   },
   "ocd-division/country:us/state:hi/sldl:13/precinct:8": {
    "name": "Hawaii Precinct 13-08"
+  },
+  "ocd-division/country:us/state:hi/sldl:26": {
+   "name": "Hawaii State House district 26",
+   "officeIndices": [
+    46
+   ]
   },
   "ocd-division/country:us/state:hi/sldl:26/precinct:4": {
    "name": "Hawaii Precinct 26-04"
@@ -996,6 +996,9 @@
     58
    ]
   },
+  "ocd-division/country:us/state:hi/sldl:50/precinct:3": {
+   "name": "Hawaii Precinct 50-03"
+  },
   "ocd-division/country:us/state:hi/county:honolulu": {
    "name": "Honolulu County",
    "alsoKnownAs": [
@@ -1004,9 +1007,6 @@
    "officeIndices": [
     100
    ]
-  },
-  "ocd-division/country:us/state:hi/sldl:50/precinct:3": {
-   "name": "Hawaii Precinct 50-03"
   },
   "ocd-division/country:us/state:hi/sldl:22": {
    "name": "Hawaii State House district 22",
@@ -1023,14 +1023,14 @@
     60
    ]
   },
+  "ocd-division/country:us/state:hi/sldl:50/precinct:1": {
+   "name": "Hawaii Precinct 50-01"
+  },
   "ocd-division/country:us/state:hi/sldl:24": {
    "name": "Hawaii State House district 24",
    "officeIndices": [
     61
    ]
-  },
-  "ocd-division/country:us/state:hi/sldl:50/precinct:1": {
-   "name": "Hawaii Precinct 50-01"
   },
   "ocd-division/country:us/state:hi/sldl:25": {
    "name": "Hawaii State House district 25",
@@ -1047,14 +1047,14 @@
     63
    ]
   },
+  "ocd-division/country:us/state:hi/sldl:13/precinct:1": {
+   "name": "Hawaii Precinct 13-01"
+  },
   "ocd-division/country:us/state:hi/sldl:21": {
    "name": "Hawaii State House district 21",
    "officeIndices": [
     64
    ]
-  },
-  "ocd-division/country:us/state:hi/sldl:13/precinct:1": {
-   "name": "Hawaii Precinct 13-01"
   },
   "ocd-division/country:us/state:hi/sldl:50/precinct:4": {
    "name": "Hawaii Precinct 50-04"

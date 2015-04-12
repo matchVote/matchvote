@@ -1,5 +1,8 @@
 {
  "divisions": {
+  "ocd-division/country:us/state:ky/county:campbell/precinct:b912-silver_grove": {
+   "name": "Campbell County KY - Precinct B912 SILVER GROVE"
+  },
   "ocd-division/country:us/state:ky/county:hopkins": {
    "name": "Hopkins County",
    "officeIndices": [
@@ -13,14 +16,11 @@
     154
    ]
   },
-  "ocd-division/country:us/state:ky/county:campbell/precinct:b912-silver_grove": {
-   "name": "Campbell County KY - Precinct B912 SILVER GROVE"
+  "ocd-division/country:us/state:ky/place:clay_city": {
+   "name": "Clay City city"
   },
   "ocd-division/country:us/state:ky/county:boyle/precinct:f102-streamland": {
    "name": "Boyle County KY - Precinct F102 STREAMLAND"
-  },
-  "ocd-division/country:us/state:ky/place:clay_city": {
-   "name": "Clay City city"
   },
   "ocd-division/country:us/state:ky/county:martin/precinct:a102-upper_inez": {
    "name": "Martin County KY - Precinct A102 UPPER INEZ"
@@ -103,23 +103,23 @@
   "ocd-division/country:us/state:ky/county:spencer/precinct:d105-north_campbranch_9c": {
    "name": "Spencer County KY - Precinct D105 NORTH CAMPBRANCH #9C"
   },
+  "ocd-division/country:us/state:ky/county:floyd/precinct:a109-cow_creek": {
+   "name": "Floyd County KY - Precinct A109 COW CREEK"
+  },
   "ocd-division/country:us/state:ky/county:breathitt/precinct:b103-shoulderblade": {
    "name": "Breathitt County KY - Precinct B103 SHOULDERBLADE"
   },
-  "ocd-division/country:us/state:ky/county:floyd/precinct:a109-cow_creek": {
-   "name": "Floyd County KY - Precinct A109 COW CREEK"
+  "ocd-division/country:us/state:ky/county:robertson/precinct:b101-pinhook": {
+   "name": "Robertson County KY - Precinct B101 PINHOOK"
+  },
+  "ocd-division/country:us/state:ky/county:montgomery/precinct:c103-judy": {
+   "name": "Montgomery County KY - Precinct C103 JUDY"
   },
   "ocd-division/country:us/state:ky/county:calloway/council_district:3": {
    "name": "Calloway County District 3",
    "officeIndices": [
     159
    ]
-  },
-  "ocd-division/country:us/state:ky/county:montgomery/precinct:c103-judy": {
-   "name": "Montgomery County KY - Precinct C103 JUDY"
-  },
-  "ocd-division/country:us/state:ky/county:robertson/precinct:b101-pinhook": {
-   "name": "Robertson County KY - Precinct B101 PINHOOK"
   },
   "ocd-division/country:us/state:ky/county:calloway/council_district:4": {
    "name": "Calloway County District 4",
@@ -148,11 +148,11 @@
   "ocd-division/country:us/state:ky/county:pike/precinct:c107-lick_creek": {
    "name": "Pike County KY - Precinct C107 LICK CREEK"
   },
-  "ocd-division/country:us/state:ky/county:daviess/precinct:a108-owensboro_8": {
-   "name": "Daviess County KY - Precinct A108 OWENSBORO #8"
-  },
   "ocd-division/country:us/state:ky/county:madison/precinct:a102-east_berea_21": {
    "name": "Madison County KY - Precinct A102 EAST BEREA #21"
+  },
+  "ocd-division/country:us/state:ky/county:daviess/precinct:a108-owensboro_8": {
+   "name": "Daviess County KY - Precinct A108 OWENSBORO #8"
   },
   "ocd-division/country:us/state:ky/county:pike/precinct:a110-lower_johns_creek": {
    "name": "Pike County KY - Precinct A110 LOWER JOHNS CREEK"
@@ -160,23 +160,23 @@
   "ocd-division/country:us/state:ky/county:fayette/precinct:c231-rockminster": {
    "name": "Fayette County KY - Precinct C231 ROCKMINSTER"
   },
-  "ocd-division/country:us/state:ky/county:hopkins/precinct:f231-ilsley_31": {
-   "name": "Hopkins County KY - Precinct F231 ILSLEY 31"
-  },
   "ocd-division/country:us/state:ky/county:calloway/precinct:b104-clayton_creek": {
    "name": "Calloway County KY - Precinct B104 CLAYTON CREEK"
   },
-  "ocd-division/country:us/state:ky/county:fayette/precinct:c167-rio_dosa": {
-   "name": "Fayette County KY - Precinct C167 RIO DOSA"
+  "ocd-division/country:us/state:ky/county:hopkins/precinct:f231-ilsley_31": {
+   "name": "Hopkins County KY - Precinct F231 ILSLEY 31"
   },
   "ocd-division/country:us/state:ky/place:olive_hill": {
    "name": "Olive Hill city"
   },
-  "ocd-division/country:us/state:ky/county:fayette/precinct:c170-breckinridge": {
-   "name": "Fayette County KY - Precinct C170 BRECKINRIDGE"
+  "ocd-division/country:us/state:ky/county:fayette/precinct:c167-rio_dosa": {
+   "name": "Fayette County KY - Precinct C167 RIO DOSA"
   },
   "ocd-division/country:us/state:ky/county:pulaski/precinct:d103-parker_9": {
    "name": "Pulaski County KY - Precinct D103 PARKER #9"
+  },
+  "ocd-division/country:us/state:ky/county:fayette/precinct:c170-breckinridge": {
+   "name": "Fayette County KY - Precinct C170 BRECKINRIDGE"
   },
   "ocd-division/country:us/state:ky/county:nelson/precinct:e106": {
    "name": "Nelson County KY - Precinct E106 E6"
@@ -220,14 +220,11 @@
   "ocd-division/country:us/state:ky/place:meadow_vale": {
    "name": "Meadow Vale city"
   },
-  "ocd-division/country:us/state:ky/county:fayette/precinct:c109-bryan_station": {
-   "name": "Fayette County KY - Precinct C109 BRYAN STATION"
-  },
   "ocd-division/country:us/state:ky/county:fayette/precinct:c176-squire_oak": {
    "name": "Fayette County KY - Precinct C176 SQUIRE OAK"
   },
-  "ocd-division/country:us/state:ky/county:boyd/precinct:c102-princess": {
-   "name": "Boyd County KY - Precinct C102 PRINCESS"
+  "ocd-division/country:us/state:ky/county:fayette/precinct:c109-bryan_station": {
+   "name": "Fayette County KY - Precinct C109 BRYAN STATION"
   },
   "ocd-division/country:us/state:ky/county:woodford": {
    "name": "Woodford County",
@@ -241,6 +238,9 @@
     169,
     170
    ]
+  },
+  "ocd-division/country:us/state:ky/county:boyd/precinct:c102-princess": {
+   "name": "Boyd County KY - Precinct C102 PRINCESS"
   },
   "ocd-division/country:us/state:ky/county:taylor/precinct:b103-new_east": {
    "name": "Taylor County KY - Precinct B103 NEW EAST"
@@ -272,14 +272,17 @@
   "ocd-division/country:us/state:ky/county:union/precinct:f103-meadows": {
    "name": "Union County KY - Precinct F103 MEADOWS"
   },
-  "ocd-division/country:us/state:ky/county:christian/precinct:c105-sinking_fork_school": {
-   "name": "Christian County KY - Precinct C105 SINKING FORK SCHOOL"
+  "ocd-division/country:us/state:ky/county:fayette/precinct:c225-boone_station": {
+   "name": "Fayette County KY - Precinct C225 BOONE STATION"
   },
   "ocd-division/country:us/state:ky/county:daviess/precinct:a137-owensboro_37": {
    "name": "Daviess County KY - Precinct A137 OWENSBORO #37"
   },
-  "ocd-division/country:us/state:ky/county:fayette/precinct:c225-boone_station": {
-   "name": "Fayette County KY - Precinct C225 BOONE STATION"
+  "ocd-division/country:us/state:ky/county:christian/precinct:c105-sinking_fork_school": {
+   "name": "Christian County KY - Precinct C105 SINKING FORK SCHOOL"
+  },
+  "ocd-division/country:us/state:ky/county:simpson/precinct:c101-west_door": {
+   "name": "Simpson County KY - Precinct C101 WEST DOOR"
   },
   "ocd-division/country:us/state:ky/county:green/council_district:5": {
    "name": "Green County District 5",
@@ -287,17 +290,14 @@
     172
    ]
   },
-  "ocd-division/country:us/state:ky/county:simpson/precinct:c101-west_door": {
-   "name": "Simpson County KY - Precinct C101 WEST DOOR"
-  },
-  "ocd-division/country:us/state:ky/county:kenton/precinct:a131-hands_pike": {
-   "name": "Kenton County KY - Precinct A131 HANDS PIKE"
-  },
   "ocd-division/country:us/state:ky/county:green/council_district:4": {
    "name": "Green County District 4",
    "officeIndices": [
     173
    ]
+  },
+  "ocd-division/country:us/state:ky/county:kenton/precinct:a131-hands_pike": {
+   "name": "Kenton County KY - Precinct A131 HANDS PIKE"
   },
   "ocd-division/country:us/state:ky/county:green/council_district:3": {
    "name": "Green County District 3",
@@ -305,23 +305,23 @@
     174
    ]
   },
+  "ocd-division/country:us/state:ky/place:pewee_valley": {
+   "name": "Pewee Valley city"
+  },
   "ocd-division/country:us/state:ky/county:green/council_district:2": {
    "name": "Green County District 2",
    "officeIndices": [
     175
    ]
   },
-  "ocd-division/country:us/state:ky/place:pewee_valley": {
-   "name": "Pewee Valley city"
-  },
   "ocd-division/country:us/state:ky/county:bracken/precinct:h101-germantown": {
    "name": "Bracken County KY - Precinct H101 GERMANTOWN"
   },
-  "ocd-division/country:us/state:ky/county:kenton/precinct:a125-bromley": {
-   "name": "Kenton County KY - Precinct A125 BROMLEY"
-  },
   "ocd-division/country:us/state:ky/place:barbourville": {
    "name": "Barbourville city"
+  },
+  "ocd-division/country:us/state:ky/county:kenton/precinct:a125-bromley": {
+   "name": "Kenton County KY - Precinct A125 BROMLEY"
   },
   "ocd-division/country:us/state:ky/county:fayette/precinct:b152-edgewater": {
    "name": "Fayette County KY - Precinct B152 EDGEWATER"
@@ -341,11 +341,11 @@
   "ocd-division/country:us/state:ky/county:clark/precinct:c103-fairfax": {
    "name": "Clark County KY - Precinct C103 FAIRFAX"
   },
-  "ocd-division/country:us/state:ky/county:calloway/precinct:d107-murray_9": {
-   "name": "Calloway County KY - Precinct D107 MURRAY #9"
-  },
   "ocd-division/country:us/state:ky/county:madison/precinct:d101-eastern_6": {
    "name": "Madison County KY - Precinct D101 EASTERN #6"
+  },
+  "ocd-division/country:us/state:ky/county:calloway/precinct:d107-murray_9": {
+   "name": "Calloway County KY - Precinct D107 MURRAY #9"
   },
   "ocd-division/country:us/state:ky/county:franklin/precinct:b109-bellview": {
    "name": "Franklin County KY - Precinct B109 BELLVIEW"
@@ -528,20 +528,20 @@
   "ocd-division/country:us/state:ky/county:kenton/precinct:c117-ft_mitchell_3": {
    "name": "Kenton County KY - Precinct C117 FT MITCHELL #3"
   },
-  "ocd-division/country:us/state:ky/county:green/precinct:c101-pikeview": {
-   "name": "Green County KY - Precinct C101 PIKEVIEW"
-  },
   "ocd-division/country:us/state:ky/county:robertson/school_district:robertson_county": {
    "name": "robertson county"
+  },
+  "ocd-division/country:us/state:ky/county:green/precinct:c101-pikeview": {
+   "name": "Green County KY - Precinct C101 PIKEVIEW"
   },
   "ocd-division/country:us/state:ky/county:campbell/precinct:c304-newport_d": {
    "name": "Campbell County KY - Precinct C304 NEWPORT D"
   },
-  "ocd-division/country:us/state:ky/county:fleming/precinct:a103-fleming_county_water_association": {
-   "name": "Fleming County KY - Precinct A103 FLEMING CO.WATER ASSOC."
-  },
   "ocd-division/country:us/state:ky/county:wolfe/precinct:b101-holly-5": {
    "name": "Wolfe County KY - Precinct B101 HOLLY-5"
+  },
+  "ocd-division/country:us/state:ky/county:fleming/precinct:a103-fleming_county_water_association": {
+   "name": "Fleming County KY - Precinct A103 FLEMING CO.WATER ASSOC."
   },
   "ocd-division/country:us/state:ky/county:edmonson/precinct:e101-lincoln_fire_department": {
    "name": "Edmonson County KY - Precinct E101 LINCOLN FIRE DEPT."
@@ -549,20 +549,20 @@
   "ocd-division/country:us/state:ky/county:graves/precinct:c110-symsonia": {
    "name": "Graves County KY - Precinct C110 SYMSONIA"
   },
-  "ocd-division/country:us/state:ky/county:green/precinct:d102-pierce": {
-   "name": "Green County KY - Precinct D102 PIERCE"
-  },
   "ocd-division/country:us/state:ky/county:franklin/precinct:e110-north_westgate": {
    "name": "Franklin County KY - Precinct E110 NORTH WESTGATE"
+  },
+  "ocd-division/country:us/state:ky/county:green/precinct:d102-pierce": {
+   "name": "Green County KY - Precinct D102 PIERCE"
   },
   "ocd-division/country:us/state:ky/county:franklin/precinct:a104-thistleton": {
    "name": "Franklin County KY - Precinct A104 THISTLETON"
   },
-  "ocd-division/country:us/state:ky/county:laurel/precinct:e104-london_4": {
-   "name": "Laurel County KY - Precinct E104 LONDON #4"
-  },
   "ocd-division/country:us/state:ky/county:ohio/school_district:ohio_county": {
    "name": "ohio county"
+  },
+  "ocd-division/country:us/state:ky/county:laurel/precinct:e104-london_4": {
+   "name": "Laurel County KY - Precinct E104 LONDON #4"
   },
   "ocd-division/country:us/state:ky/county:owen/precinct:a101-new_liberty": {
    "name": "Owen County KY - Precinct A101 NEW LIBERTY"
@@ -582,11 +582,11 @@
   "ocd-division/country:us/state:ky/county:calloway/precinct:c105-murray_8": {
    "name": "Calloway County KY - Precinct C105 MURRAY #8"
   },
-  "ocd-division/country:us/state:ky/county:fayette/precinct:b201-harrods_view": {
-   "name": "Fayette County KY - Precinct B201 HARRODS VIEW"
-  },
   "ocd-division/country:us/state:ky/place:forest_hills": {
    "name": "Forest Hills city"
+  },
+  "ocd-division/country:us/state:ky/county:fayette/precinct:b201-harrods_view": {
+   "name": "Fayette County KY - Precinct B201 HARRODS VIEW"
   },
   "ocd-division/country:us/state:ky/county:clinton/precinct:e101-illwill": {
    "name": "Clinton County KY - Precinct E101 ILLWILL"
@@ -597,11 +597,11 @@
   "ocd-division/country:us/state:ky/county:madison/precinct:c108-college_hill_15": {
    "name": "Madison County KY - Precinct C108 COLLEGE HILL #15"
   },
-  "ocd-division/country:us/state:ky/county:boone/precinct:a108-hebron_1": {
-   "name": "Boone County KY - Precinct A108 HEBRON #1"
-  },
   "ocd-division/country:us/state:ky/county:christian/precinct:a105-belmont_2": {
    "name": "Christian County KY - Precinct A105 BELMONT #2"
+  },
+  "ocd-division/country:us/state:ky/county:boone/precinct:a108-hebron_1": {
+   "name": "Boone County KY - Precinct A108 HEBRON #1"
   },
   "ocd-division/country:us/state:ky/county:carter/precinct:c102-denton": {
    "name": "Carter County KY - Precinct C102 DENTON"
@@ -624,9 +624,6 @@
   "ocd-division/country:us/state:ky/county:franklin/precinct:a101-farmdale": {
    "name": "Franklin County KY - Precinct A101 FARMDALE"
   },
-  "ocd-division/country:us/state:ky/county:kenton/precinct:a112-covington_23": {
-   "name": "Kenton County KY - Precinct A112 COVINGTON #23"
-  },
   "ocd-division/country:us/state:ky/county:adair": {
    "name": "Adair County",
    "officeIndices": [
@@ -639,11 +636,14 @@
     206
    ]
   },
-  "ocd-division/country:us/state:ky/county:allen/precinct:c102-6": {
-   "name": "Allen County KY - Precinct C102 SIX"
+  "ocd-division/country:us/state:ky/county:kenton/precinct:a112-covington_23": {
+   "name": "Kenton County KY - Precinct A112 COVINGTON #23"
   },
   "ocd-division/country:us/state:ky/county:trigg/precinct:g102-northwest_cadiz": {
    "name": "Trigg County KY - Precinct G102 NORTHWEST CADIZ"
+  },
+  "ocd-division/country:us/state:ky/county:allen/precinct:c102-6": {
+   "name": "Allen County KY - Precinct C102 SIX"
   },
   "ocd-division/country:us/state:ky/county:madison/precinct:a103-gay-stephens_21a": {
    "name": "Madison County KY - Precinct A103 GAY-STEPHENS #21A"
@@ -651,11 +651,11 @@
   "ocd-division/country:us/state:ky/place:liberty": {
    "name": "Liberty city"
   },
-  "ocd-division/country:us/state:ky/county:christian/precinct:h104-concord_north": {
-   "name": "Christian County KY - Precinct H104 CONCORD NORTH"
-  },
   "ocd-division/country:us/state:ky/place:worthville": {
    "name": "Worthville city"
+  },
+  "ocd-division/country:us/state:ky/county:christian/precinct:h104-concord_north": {
+   "name": "Christian County KY - Precinct H104 CONCORD NORTH"
   },
   "ocd-division/country:us/state:ky/county:woodford/precinct:g102-huntertown_school_west": {
    "name": "Woodford County KY - Precinct G102 HUNTERTOWN SCHOOL WEST"
@@ -682,17 +682,17 @@
   "ocd-division/country:us/state:ky/county:fayette/precinct:a114-gibson_park": {
    "name": "Fayette County KY - Precinct A114 GIBSON PARK"
   },
-  "ocd-division/country:us/state:ky/county:floyd/precinct:a106-porter": {
-   "name": "Floyd County KY - Precinct A106 PORTER"
-  },
   "ocd-division/country:us/state:ky/county:nelson/precinct:d104": {
    "name": "Nelson County KY - Precinct D104 D4"
   },
-  "ocd-division/country:us/state:ky/county:wayne/precinct:b101-elk_creek": {
-   "name": "Wayne County KY - Precinct B101 ELK CREEK"
+  "ocd-division/country:us/state:ky/county:floyd/precinct:a106-porter": {
+   "name": "Floyd County KY - Precinct A106 PORTER"
   },
   "ocd-division/country:us/state:ky/county:nelson/precinct:d103": {
    "name": "Nelson County KY - Precinct D103 D3"
+  },
+  "ocd-division/country:us/state:ky/county:wayne/precinct:b101-elk_creek": {
+   "name": "Wayne County KY - Precinct B101 ELK CREEK"
   },
   "ocd-division/country:us/state:ky/county:pulaski/precinct:a106-firebrook_11f": {
    "name": "Pulaski County KY - Precinct A106 FIREBROOK 11F"
@@ -1206,29 +1206,29 @@
   "ocd-division/country:us/state:ky/county:jefferson/precinct:k125": {
    "name": "Jefferson County KY - Precinct K125 PRECINCT 125 40 DISTRICT"
   },
-  "ocd-division/country:us/state:ky/county:jefferson/precinct:k126": {
-   "name": "Jefferson County KY - Precinct K126 PRECINCT 126 40 DISTRICT"
-  },
   "ocd-division/country:us/state:ky/county:allen/precinct:d102-8": {
    "name": "Allen County KY - Precinct D102 EIGHT"
+  },
+  "ocd-division/country:us/state:ky/county:jefferson/precinct:k126": {
+   "name": "Jefferson County KY - Precinct K126 PRECINCT 126 40 DISTRICT"
   },
   "ocd-division/country:us/state:ky/county:jefferson/precinct:k127": {
    "name": "Jefferson County KY - Precinct K127 PRECINCT 127 40 DISTRICT"
   },
-  "ocd-division/country:us/state:ky/county:jefferson/precinct:k128": {
-   "name": "Jefferson County KY - Precinct K128 PRECINCT 128 40 DISTRICT"
-  },
   "ocd-division/country:us/state:ky/county:fayette/precinct:b226-hollyberry": {
    "name": "Fayette County KY - Precinct B226 HOLLYBERRY"
   },
-  "ocd-division/country:us/state:ky/county:union/precinct:b101-uniontown_1": {
-   "name": "Union County KY - Precinct B101 UNIONTOWN #1"
+  "ocd-division/country:us/state:ky/county:jefferson/precinct:k128": {
+   "name": "Jefferson County KY - Precinct K128 PRECINCT 128 40 DISTRICT"
   },
   "ocd-division/country:us/state:ky/sldu:10": {
    "name": "Kentucky State Senate district 10",
    "officeIndices": [
     7
    ]
+  },
+  "ocd-division/country:us/state:ky/county:union/precinct:b101-uniontown_1": {
+   "name": "Union County KY - Precinct B101 UNIONTOWN #1"
   },
   "ocd-division/country:us/state:ky/county:garrard/precinct:a101-boones_creek": {
    "name": "Garrard County KY - Precinct A101 BOONES CREEK"
@@ -1239,11 +1239,11 @@
   "ocd-division/country:us/state:ky/county:boone/precinct:b132-hearthstone": {
    "name": "Boone County KY - Precinct B132 HEARTHSTONE"
   },
-  "ocd-division/country:us/state:ky/county:estill/precinct:c104-red_lick": {
-   "name": "Estill County KY - Precinct C104 RED LICK"
-  },
   "ocd-division/country:us/state:ky/place:camargo": {
    "name": "Camargo city"
+  },
+  "ocd-division/country:us/state:ky/county:estill/precinct:c104-red_lick": {
+   "name": "Estill County KY - Precinct C104 RED LICK"
   },
   "ocd-division/country:us/state:ky/county:union/precinct:e102-sturgis_2": {
    "name": "Union County KY - Precinct E102 STURGIS #2"
@@ -1254,11 +1254,11 @@
   "ocd-division/country:us/state:ky/county:jefferson/precinct:k134": {
    "name": "Jefferson County KY - Precinct K134 PRECINCT 134 40 DISTRICT"
   },
-  "ocd-division/country:us/state:ky/county:jefferson/precinct:k135": {
-   "name": "Jefferson County KY - Precinct K135 PRECINCT 135 40 DISTRICT"
-  },
   "ocd-division/country:us/state:ky/county:shelby/precinct:g101-shelbyville_1": {
    "name": "Shelby County KY - Precinct G101 SHELBYVILLE #1"
+  },
+  "ocd-division/country:us/state:ky/county:jefferson/precinct:k135": {
+   "name": "Jefferson County KY - Precinct K135 PRECINCT 135 40 DISTRICT"
   },
   "ocd-division/country:us/state:ky/county:jefferson/precinct:k132": {
    "name": "Jefferson County KY - Precinct K132 PRECINCT 132 40 DISTRICT"
@@ -1269,38 +1269,38 @@
   "ocd-division/country:us/state:ky/county:jefferson/precinct:k130": {
    "name": "Jefferson County KY - Precinct K130 PRECINCT 130 40 DISTRICT"
   },
-  "ocd-division/country:us/state:ky/county:jefferson/precinct:k131": {
-   "name": "Jefferson County KY - Precinct K131 PRECINCT 131 40 DISTRICT"
-  },
   "ocd-division/country:us/state:ky/county:pendleton/precinct:b101-flour_creek_christian": {
    "name": "Pendleton County KY - Precinct B101 FLOUR CREEK CHRISTIAN"
+  },
+  "ocd-division/country:us/state:ky/county:jefferson/precinct:k131": {
+   "name": "Jefferson County KY - Precinct K131 PRECINCT 131 40 DISTRICT"
   },
   "ocd-division/country:us/state:ky/county:hickman/school_district:hickman_county": {
    "name": "hickman county"
   },
-  "ocd-division/country:us/state:ky/county:jefferson/precinct:k138": {
-   "name": "Jefferson County KY - Precinct K138 PRECINCT 138 40 DISTRICT"
-  },
   "ocd-division/country:us/state:ky/county:grayson/precinct:b102-spring_lick": {
    "name": "Grayson County KY - Precinct B102 SPRING LICK"
+  },
+  "ocd-division/country:us/state:ky/county:jefferson/precinct:k138": {
+   "name": "Jefferson County KY - Precinct K138 PRECINCT 138 40 DISTRICT"
   },
   "ocd-division/country:us/state:ky/county:jefferson/precinct:k136": {
    "name": "Jefferson County KY - Precinct K136 PRECINCT 136 40 DISTRICT"
   },
-  "ocd-division/country:us/state:ky/county:jefferson/precinct:k137": {
-   "name": "Jefferson County KY - Precinct K137 PRECINCT 137 40 DISTRICT"
-  },
   "ocd-division/country:us/state:ky/county:estill/precinct:b105-forks": {
    "name": "Estill County KY - Precinct B105 FORKS"
+  },
+  "ocd-division/country:us/state:ky/county:jefferson/precinct:k137": {
+   "name": "Jefferson County KY - Precinct K137 PRECINCT 137 40 DISTRICT"
   },
   "ocd-division/country:us/state:ky/county:scott/precinct:b111-north_stamping_ground": {
    "name": "Scott County KY - Precinct B111 NORTH STAMPING GROUND"
   },
-  "ocd-division/country:us/state:ky/county:trimble/precinct:c101-palmyra": {
-   "name": "Trimble County KY - Precinct C101 PALMYRA"
-  },
   "ocd-division/country:us/state:ky/place:mchenry": {
    "name": "McHenry city"
+  },
+  "ocd-division/country:us/state:ky/county:trimble/precinct:c101-palmyra": {
+   "name": "Trimble County KY - Precinct C101 PALMYRA"
   },
   "ocd-division/country:us/state:ky/county:marshall/precinct:b108-fairdealing": {
    "name": "Marshall County KY - Precinct B108 FAIRDEALING"
@@ -1311,20 +1311,17 @@
     8
    ]
   },
-  "ocd-division/country:us/state:ky/county:laurel/precinct:b104-mchargue": {
-   "name": "Laurel County KY - Precinct B104 MCHARGUE"
-  },
-  "ocd-division/country:us/state:ky/county:laurel/precinct:a108-rough_creek_2": {
-   "name": "Laurel County KY - Precinct A108 ROUGH CREEK #2"
-  },
   "ocd-division/country:us/state:ky/sldu:20": {
    "name": "Kentucky State Senate district 20",
    "officeIndices": [
     9
    ]
   },
-  "ocd-division/country:us/state:ky/place:burkesville": {
-   "name": "Burkesville city"
+  "ocd-division/country:us/state:ky/county:laurel/precinct:a108-rough_creek_2": {
+   "name": "Laurel County KY - Precinct A108 ROUGH CREEK #2"
+  },
+  "ocd-division/country:us/state:ky/county:laurel/precinct:b104-mchargue": {
+   "name": "Laurel County KY - Precinct B104 MCHARGUE"
   },
   "ocd-division/country:us/state:ky/sldu:11": {
    "name": "Kentucky State Senate district 11",
@@ -1332,14 +1329,14 @@
     10
    ]
   },
+  "ocd-division/country:us/state:ky/place:burkesville": {
+   "name": "Burkesville city"
+  },
   "ocd-division/country:us/state:ky/sldu:12": {
    "name": "Kentucky State Senate district 12",
    "officeIndices": [
     11
    ]
-  },
-  "ocd-division/country:us/state:ky/county:meade/precinct:b102-rockhaven-doe_valley": {
-   "name": "Meade County KY - Precinct B102 ROCKHAVEN-DOE VALLEY"
   },
   "ocd-division/country:us/state:ky/sldu:13": {
    "name": "Kentucky State Senate district 13",
@@ -1347,20 +1344,23 @@
     12
    ]
   },
+  "ocd-division/country:us/state:ky/county:meade/precinct:b102-rockhaven-doe_valley": {
+   "name": "Meade County KY - Precinct B102 ROCKHAVEN-DOE VALLEY"
+  },
   "ocd-division/country:us/state:ky/sldu:14": {
    "name": "Kentucky State Senate district 14",
    "officeIndices": [
     13
    ]
   },
-  "ocd-division/country:us/state:ky/county:simpson/precinct:d103-harristown": {
-   "name": "Simpson County KY - Precinct D103 HARRISTOWN"
-  },
   "ocd-division/country:us/state:ky/sldu:15": {
    "name": "Kentucky State Senate district 15",
    "officeIndices": [
     14
    ]
+  },
+  "ocd-division/country:us/state:ky/county:simpson/precinct:d103-harristown": {
+   "name": "Simpson County KY - Precinct D103 HARRISTOWN"
   },
   "ocd-division/country:us/state:ky/sldu:16": {
    "name": "Kentucky State Senate district 16",
@@ -2670,17 +2670,20 @@
     356
    ]
   },
+  "ocd-division/country:us/state:ky/county:daviess/precinct:a140-owensboro_40": {
+   "name": "Daviess County KY - Precinct A140 OWENSBORO #40"
+  },
+  "ocd-division/country:us/state:ky/county:clark/precinct:b102-calmes": {
+   "name": "Clark County KY - Precinct B102 CALMES"
+  },
   "ocd-division/country:us/state:ky/county:hardin/council_district:3": {
    "name": "Hardin County District 3",
    "officeIndices": [
     357
    ]
   },
-  "ocd-division/country:us/state:ky/county:clark/precinct:b102-calmes": {
-   "name": "Clark County KY - Precinct B102 CALMES"
-  },
-  "ocd-division/country:us/state:ky/county:daviess/precinct:a140-owensboro_40": {
-   "name": "Daviess County KY - Precinct A140 OWENSBORO #40"
+  "ocd-division/country:us/state:ky/county:livingston/precinct:a101-ledbetter": {
+   "name": "Livingston County KY - Precinct A101 LEDBETTER"
   },
   "ocd-division/country:us/state:ky/county:hardin/council_district:4": {
    "name": "Hardin County District 4",
@@ -2688,23 +2691,20 @@
     358
    ]
   },
-  "ocd-division/country:us/state:ky/county:livingston/precinct:a101-ledbetter": {
-   "name": "Livingston County KY - Precinct A101 LEDBETTER"
-  },
   "ocd-division/country:us/state:ky/county:graves/precinct:a101-water_valley": {
    "name": "Graves County KY - Precinct A101 WATER VALLEY"
-  },
-  "ocd-division/country:us/state:ky/county:hardin/precinct:c104-colesburg": {
-   "name": "Hardin County KY - Precinct C104 COLESBURG"
   },
   "ocd-division/country:us/state:ky/county:franklin/precinct:d102-owenton_rd": {
    "name": "Franklin County KY - Precinct D102 OWENTON RD"
   },
-  "ocd-division/country:us/state:ky/county:letcher/precinct:b101-isom": {
-   "name": "Letcher County KY - Precinct B101 ISOM"
+  "ocd-division/country:us/state:ky/county:hardin/precinct:c104-colesburg": {
+   "name": "Hardin County KY - Precinct C104 COLESBURG"
   },
   "ocd-division/country:us/state:ky/county:boone/school_district:boone_co": {
    "name": "boone co"
+  },
+  "ocd-division/country:us/state:ky/county:letcher/precinct:b101-isom": {
+   "name": "Letcher County KY - Precinct B101 ISOM"
   },
   "ocd-division/country:us/state:ky/county:mclean": {
    "name": "McLean County",
@@ -2744,11 +2744,11 @@
   "ocd-division/country:us/state:ky/county:jackson/precinct:a105-mckee_5": {
    "name": "Jackson County KY - Precinct A105 MCKEE #5"
   },
-  "ocd-division/country:us/state:ky/county:campbell/precinct:b410-ft_thomas_l": {
-   "name": "Campbell County KY - Precinct B410 FT THOMAS L"
-  },
   "ocd-division/country:us/state:ky/place:falmouth": {
    "name": "Falmouth city"
+  },
+  "ocd-division/country:us/state:ky/county:campbell/precinct:b410-ft_thomas_l": {
+   "name": "Campbell County KY - Precinct B410 FT THOMAS L"
   },
   "ocd-division/country:us/state:ky/county:campbell/precinct:c309-newport_i": {
    "name": "Campbell County KY - Precinct C309 NEWPORT I"
@@ -2771,6 +2771,9 @@
   "ocd-division/country:us/state:ky/county:calloway/school_district:calloway_co": {
    "name": "calloway co"
   },
+  "ocd-division/country:us/state:ky/county:greenup/precinct:a111-worthington_2": {
+   "name": "Greenup County KY - Precinct A111 WORTHINGTON #2"
+  },
   "ocd-division/country:us/state:ky/county:laurel": {
    "name": "Laurel County",
    "officeIndices": [
@@ -2789,9 +2792,6 @@
     383,
     384
    ]
-  },
-  "ocd-division/country:us/state:ky/county:greenup/precinct:a111-worthington_2": {
-   "name": "Greenup County KY - Precinct A111 WORTHINGTON #2"
   },
   "ocd-division/country:us/state:ky/county:knott/precinct:c104-salt_lick": {
    "name": "Knott County KY - Precinct C104 SALT LICK"
@@ -5389,11 +5389,11 @@
   "ocd-division/country:us/state:ky/county:christian/precinct:e104-hms_2": {
    "name": "Christian County KY - Precinct E104 HMS #2"
   },
-  "ocd-division/country:us/state:ky/county:owen/precinct:a105-north_owenton": {
-   "name": "Owen County KY - Precinct A105 NORTH OWENTON"
-  },
   "ocd-division/country:us/state:ky/county:russell/precinct:e101-city_hall": {
    "name": "Russell County KY - Precinct E101 CITY HALL"
+  },
+  "ocd-division/country:us/state:ky/county:owen/precinct:a105-north_owenton": {
+   "name": "Owen County KY - Precinct A105 NORTH OWENTON"
   },
   "ocd-division/country:us/state:ky/county:butler": {
    "name": "Butler County",
@@ -5456,29 +5456,29 @@
   "ocd-division/country:us/state:ky/county:mclean/precinct:b102-island": {
    "name": "Mclean County KY - Precinct B102 ISLAND"
   },
-  "ocd-division/country:us/state:ky/county:carlisle/precinct:b102-kirbyton": {
-   "name": "Carlisle County KY - Precinct B102 KIRBYTON"
-  },
   "ocd-division/country:us/state:ky/county:logan/precinct:c103-old_national_guard_armory": {
    "name": "Logan County KY - Precinct C103 OLD NATIONAL GUARD ARMORY"
   },
-  "ocd-division/country:us/state:ky/county:pulaski/precinct:c103-somerset_4_a": {
-   "name": "Pulaski County KY - Precinct C103 SOMERSET 4 A"
+  "ocd-division/country:us/state:ky/county:carlisle/precinct:b102-kirbyton": {
+   "name": "Carlisle County KY - Precinct B102 KIRBYTON"
   },
   "ocd-division/country:us/state:ky/county:rowan/precinct:c102-clearfield": {
    "name": "Rowan County KY - Precinct C102 CLEARFIELD"
   },
-  "ocd-division/country:us/state:ky/county:laurel/precinct:d105-cross_roads": {
-   "name": "Laurel County KY - Precinct D105 CROSS ROADS"
+  "ocd-division/country:us/state:ky/county:pulaski/precinct:c103-somerset_4_a": {
+   "name": "Pulaski County KY - Precinct C103 SOMERSET 4 A"
   },
   "ocd-division/country:us/state:ky/county:kenton/precinct:a119-covington_33": {
    "name": "Kenton County KY - Precinct A119 COVINGTON #33"
   },
-  "ocd-division/country:us/state:ky/county:carter/precinct:d105-soldier": {
-   "name": "Carter County KY - Precinct D105 SOLDIER"
+  "ocd-division/country:us/state:ky/county:laurel/precinct:d105-cross_roads": {
+   "name": "Laurel County KY - Precinct D105 CROSS ROADS"
   },
   "ocd-division/country:us/state:ky/county:clinton/precinct:d102-highway": {
    "name": "Clinton County KY - Precinct D102 HIGHWAY"
+  },
+  "ocd-division/country:us/state:ky/county:carter/precinct:d105-soldier": {
+   "name": "Carter County KY - Precinct D105 SOLDIER"
   },
   "ocd-division/country:us/state:ky/county:laurel/precinct:e107-colony_2": {
    "name": "Laurel County KY - Precinct E107 COLONY #2"
@@ -5495,11 +5495,11 @@
   "ocd-division/country:us/state:ky/county:shelby/school_district:shelby_county": {
    "name": "shelby county"
   },
-  "ocd-division/country:us/state:ky/county:fleming/precinct:f102-ewing": {
-   "name": "Fleming County KY - Precinct F102 EWING"
-  },
   "ocd-division/country:us/state:ky/county:mccracken/precinct:a116-hovekamp": {
    "name": "Mccracken County KY - Precinct A116 HOVEKAMP"
+  },
+  "ocd-division/country:us/state:ky/county:fleming/precinct:f102-ewing": {
+   "name": "Fleming County KY - Precinct F102 EWING"
   },
   "ocd-division/country:us/state:ky/county:boyd/precinct:b107-vincent": {
    "name": "Boyd County KY - Precinct B107 VINCENT"
@@ -7178,14 +7178,14 @@
     0
    ]
   },
+  "ocd-division/country:us/state:ky/county:fayette/precinct:b138-shady_lane": {
+   "name": "Fayette County KY - Precinct B138 SHADY LANE"
+  },
   "ocd-division/country:us/state:ky/cd:1": {
    "name": "Kentucky's 1st congressional district",
    "officeIndices": [
     1
    ]
-  },
-  "ocd-division/country:us/state:ky/county:fayette/precinct:b138-shady_lane": {
-   "name": "Fayette County KY - Precinct B138 SHADY LANE"
   },
   "ocd-division/country:us/state:ky/cd:4": {
    "name": "Kentucky's 4th congressional district",
@@ -10798,14 +10798,14 @@
   "ocd-division/country:us/state:ky/place:woodbury": {
    "name": "Woodbury city"
   },
+  "ocd-division/country:us/state:ky/county:barren/precinct:g102-glasgow_5": {
+   "name": "Barren County KY - Precinct G102 GLASGOW #5"
+  },
   "ocd-division/country:us/state:ky/county:jefferson/council_district:18": {
    "name": "Louisville-Jefferson County Metro Council district 18",
    "officeIndices": [
     990
    ]
-  },
-  "ocd-division/country:us/state:ky/county:barren/precinct:g102-glasgow_5": {
-   "name": "Barren County KY - Precinct G102 GLASGOW #5"
   },
   "ocd-division/country:us/state:ky/county:jefferson/council_district:19": {
    "name": "Louisville-Jefferson County Metro Council district 19",
@@ -10813,11 +10813,11 @@
     991
    ]
   },
-  "ocd-division/country:us/state:ky/county:boone/precinct:b114-beaver": {
-   "name": "Boone County KY - Precinct B114 BEAVER"
-  },
   "ocd-division/country:us/state:ky/place:lakeside_park": {
    "name": "Lakeside Park city"
+  },
+  "ocd-division/country:us/state:ky/county:boone/precinct:b114-beaver": {
+   "name": "Boone County KY - Precinct B114 BEAVER"
   },
   "ocd-division/country:us/state:ky/county:woodford/precinct:h102-nonesuch_firehouse": {
    "name": "Woodford County KY - Precinct H102 NONESUCH FIREHOUSE"
@@ -10825,14 +10825,17 @@
   "ocd-division/country:us/state:ky/county:lawrence/precinct:a104-deephole": {
    "name": "Lawrence County KY - Precinct A104 DEEPHOLE"
   },
-  "ocd-division/country:us/state:ky/county:laurel/school_district:east_bernstadt_independent": {
-   "name": "east bernstadt independent"
-  },
   "ocd-division/country:us/state:ky/county:fulton/precinct:a104-high_school": {
    "name": "Fulton County KY - Precinct A104 HIGH SCHOOL"
   },
+  "ocd-division/country:us/state:ky/county:laurel/school_district:east_bernstadt_independent": {
+   "name": "east bernstadt independent"
+  },
   "ocd-division/country:us/state:ky/county:floyd/precinct:a111-jim_banks": {
    "name": "Floyd County KY - Precinct A111 JIM BANKS"
+  },
+  "ocd-division/country:us/state:ky/county:fayette/precinct:b157-kirklevington": {
+   "name": "Fayette County KY - Precinct B157 KIRKLEVINGTON"
   },
   "ocd-division/country:us/state:ky/county:jefferson/council_district:24": {
    "name": "Louisville-Jefferson County Metro Council district 24",
@@ -10840,17 +10843,14 @@
     992
    ]
   },
-  "ocd-division/country:us/state:ky/county:fayette/precinct:b157-kirklevington": {
-   "name": "Fayette County KY - Precinct B157 KIRKLEVINGTON"
+  "ocd-division/country:us/state:ky/county:warren/precinct:f103-drake": {
+   "name": "Warren County KY - Precinct F103 DRAKE"
   },
   "ocd-division/country:us/state:ky/county:jefferson/council_district:23": {
    "name": "Louisville-Jefferson County Metro Council district 23",
    "officeIndices": [
     993
    ]
-  },
-  "ocd-division/country:us/state:ky/county:warren/precinct:f103-drake": {
-   "name": "Warren County KY - Precinct F103 DRAKE"
   },
   "ocd-division/country:us/state:ky/county:jefferson/council_district:22": {
    "name": "Louisville-Jefferson County Metro Council district 22",
@@ -13894,6 +13894,9 @@
   "ocd-division/country:us/state:ky/circuit_court:17": {
    "name": "KY State Circuit Court - 17th District"
   },
+  "ocd-division/country:us/state:ky/county:mclean/precinct:a102-sacramento": {
+   "name": "Mclean County KY - Precinct A102 SACRAMENTO"
+  },
   "ocd-division/country:us/state:ky/county:bell": {
    "name": "Bell County",
    "officeIndices": [
@@ -13905,9 +13908,6 @@
     1267,
     1268
    ]
-  },
-  "ocd-division/country:us/state:ky/county:mclean/precinct:a102-sacramento": {
-   "name": "Mclean County KY - Precinct A102 SACRAMENTO"
   },
   "ocd-division/country:us/state:ky/circuit_court:16": {
    "name": "KY State Circuit Court - 16th District"

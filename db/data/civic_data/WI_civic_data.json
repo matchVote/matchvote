@@ -40,14 +40,14 @@
   "ocd-division/country:us/state:wi/county:dane/school_district:wisconsin_department_of_corrections": {
    "name": "wisconsin department of corrections"
   },
-  "ocd-division/country:us/state:wi/county:barron/school_district:turtle_lake_school_district": {
-   "name": "turtle lake school district"
+  "ocd-division/country:us/state:wi/place:menasha": {
+   "name": "Menasha city"
   },
   "ocd-division/country:us/state:wi/place:hudson": {
    "name": "Hudson city"
   },
-  "ocd-division/country:us/state:wi/place:menasha": {
-   "name": "Menasha city"
+  "ocd-division/country:us/state:wi/county:barron/school_district:turtle_lake_school_district": {
+   "name": "turtle lake school district"
   },
   "ocd-division/country:us/state:wi/sldu:31": {
    "name": "Wisconsin State Senate district 31",
@@ -61,11 +61,11 @@
     10
    ]
   },
-  "ocd-division/country:us/state:wi/county:monroe/place:lafayette": {
-   "name": "Lafayette town"
-  },
   "ocd-division/country:us/state:wi/place:bellevue": {
    "name": "Bellevue village"
+  },
+  "ocd-division/country:us/state:wi/county:monroe/place:lafayette": {
+   "name": "Lafayette town"
   },
   "ocd-division/country:us/state:wi/sldu:30": {
    "name": "Wisconsin State Senate district 30",
@@ -73,17 +73,17 @@
     11
    ]
   },
-  "ocd-division/country:us/state:wi/county:st_croix/place:richmond": {
-   "name": "Richmond town"
-  },
-  "ocd-division/country:us/state:wi/place:blair": {
-   "name": "Blair city"
-  },
   "ocd-division/country:us/state:wi/sldu:1": {
    "name": "Wisconsin State Senate district 1",
    "officeIndices": [
     12
    ]
+  },
+  "ocd-division/country:us/state:wi/place:blair": {
+   "name": "Blair city"
+  },
+  "ocd-division/country:us/state:wi/county:st_croix/place:richmond": {
+   "name": "Richmond town"
   },
   "ocd-division/country:us/state:wi/sldu:33": {
    "name": "Wisconsin State Senate district 33",
@@ -214,17 +214,17 @@
     28
    ]
   },
-  "ocd-division/country:us/state:wi/county:sawyer/place:hayward": {
-   "name": "Hayward town"
-  },
-  "ocd-division/country:us/state:wi/place:downing": {
-   "name": "Downing village"
-  },
   "ocd-division/country:us/state:wi/sldu:23": {
    "name": "Wisconsin State Senate district 23",
    "officeIndices": [
     29
    ]
+  },
+  "ocd-division/country:us/state:wi/place:downing": {
+   "name": "Downing village"
+  },
+  "ocd-division/country:us/state:wi/county:sawyer/place:hayward": {
+   "name": "Hayward town"
   },
   "ocd-division/country:us/state:wi/sldu:24": {
    "name": "Wisconsin State Senate district 24",
@@ -232,14 +232,14 @@
     30
    ]
   },
-  "ocd-division/country:us/state:wi/county:iron/place:mercer": {
-   "name": "Mercer town"
-  },
   "ocd-division/country:us/state:wi/sldu:25": {
    "name": "Wisconsin State Senate district 25",
    "officeIndices": [
     31
    ]
+  },
+  "ocd-division/country:us/state:wi/county:iron/place:mercer": {
+   "name": "Mercer town"
   },
   "ocd-division/country:us/state:wi/county:adams/council_district:11": {
    "name": "Adams County Supervisor District 11",
@@ -259,6 +259,12 @@
   "ocd-division/country:us/state:wi/county:sauk/place:woodland": {
    "name": "Woodland town"
   },
+  "ocd-division/country:us/state:wi/place:dodgeville": {
+   "name": "Dodgeville city"
+  },
+  "ocd-division/country:us/state:wi/place:cornell": {
+   "name": "Cornell city"
+  },
   "ocd-division/country:us/state:wi/county:pepin": {
    "name": "Pepin County",
    "officeIndices": [
@@ -269,12 +275,6 @@
     154,
     155
    ]
-  },
-  "ocd-division/country:us/state:wi/place:cornell": {
-   "name": "Cornell city"
-  },
-  "ocd-division/country:us/state:wi/place:dodgeville": {
-   "name": "Dodgeville city"
   },
   "ocd-division/country:us/state:wi/county:adams/council_district:13": {
    "name": "Adams County Supervisor District 13",
@@ -294,26 +294,26 @@
     158
    ]
   },
-  "ocd-division/country:us/state:wi/county:dane/place:westport": {
-   "name": "Westport town"
-  },
-  "ocd-division/country:us/state:wi/county:adams/council_district:14": {
-   "name": "Adams County Supervisor District 14",
-   "officeIndices": [
-    166
-   ]
-  },
   "ocd-division/country:us/state:wi/county:kewaunee": {
    "name": "Kewaunee County",
    "officeIndices": [
-    159,
     160,
     161,
     162,
     163,
     164,
-    165
+    165,
+    166
    ]
+  },
+  "ocd-division/country:us/state:wi/county:adams/council_district:14": {
+   "name": "Adams County Supervisor District 14",
+   "officeIndices": [
+    159
+   ]
+  },
+  "ocd-division/country:us/state:wi/county:dane/place:westport": {
+   "name": "Westport town"
   },
   "ocd-division/country:us/state:wi/county:adams/council_district:17": {
    "name": "Adams County Supervisor District 17",
@@ -327,14 +327,14 @@
     168
    ]
   },
-  "ocd-division/country:us/state:wi/county:clark/place:mayville": {
-   "name": "Mayville town"
-  },
   "ocd-division/country:us/state:wi/county:adams/council_district:19": {
    "name": "Adams County Supervisor District 19",
    "officeIndices": [
     169
    ]
+  },
+  "ocd-division/country:us/state:wi/county:clark/place:mayville": {
+   "name": "Mayville town"
   },
   "ocd-division/country:us/state:wi/county:adams/council_district:18": {
    "name": "Adams County Supervisor District 18",
@@ -357,11 +357,11 @@
   "ocd-division/country:us/state:wi/county:columbia/place:lewiston": {
    "name": "Lewiston town"
   },
-  "ocd-division/country:us/state:wi/county:marinette/place:grover": {
-   "name": "Grover town"
-  },
   "ocd-division/country:us/state:wi/county:waupaca/place:farmington": {
    "name": "Farmington town"
+  },
+  "ocd-division/country:us/state:wi/county:marinette/place:grover": {
+   "name": "Grover town"
   },
   "ocd-division/country:us/state:wi/county:adams/council_district:20": {
    "name": "Adams County Supervisor District 20",
@@ -420,20 +420,20 @@
     172
    ]
   },
-  "ocd-division/country:us/state:wi/county:marinette/council_district:6": {
-   "name": "Marinette County Supervisor District 6",
+  "ocd-division/country:us/state:wi/county:clark/council_district:1": {
+   "name": "Clark County Supervisor District 1",
    "officeIndices": [
     173
    ]
   },
-  "ocd-division/country:us/state:wi/county:clark/council_district:1": {
-   "name": "Clark County Supervisor District 1",
+  "ocd-division/country:us/state:wi/county:marinette/council_district:6": {
+   "name": "Marinette County Supervisor District 6",
    "officeIndices": [
     174
    ]
   },
-  "ocd-division/country:us/state:wi/county:marinette/council_district:9": {
-   "name": "Marinette County Supervisor District 9",
+  "ocd-division/country:us/state:wi/county:clark/council_district:2": {
+   "name": "Clark County Supervisor District 2",
    "officeIndices": [
     175
    ]
@@ -441,74 +441,74 @@
   "ocd-division/country:us/state:wi/county:crawford/place:bridgeport": {
    "name": "Bridgeport town"
   },
-  "ocd-division/country:us/state:wi/county:clark/council_district:2": {
-   "name": "Clark County Supervisor District 2",
+  "ocd-division/country:us/state:wi/county:marinette/council_district:9": {
+   "name": "Marinette County Supervisor District 9",
    "officeIndices": [
     176
-   ]
-  },
-  "ocd-division/country:us/state:wi/county:marinette/council_district:8": {
-   "name": "Marinette County Supervisor District 8",
-   "officeIndices": [
-    177
    ]
   },
   "ocd-division/country:us/state:wi/county:clark/council_district:3": {
    "name": "Clark County Supervisor District 3",
    "officeIndices": [
-    178
+    177
    ]
   },
-  "ocd-division/country:us/state:wi/county:marinette/council_district:3": {
-   "name": "Marinette County Supervisor District 3",
+  "ocd-division/country:us/state:wi/county:marinette/council_district:8": {
+   "name": "Marinette County Supervisor District 8",
    "officeIndices": [
-    179
+    178
    ]
   },
   "ocd-division/country:us/state:wi/county:clark/council_district:4": {
    "name": "Clark County Supervisor District 4",
    "officeIndices": [
+    179
+   ]
+  },
+  "ocd-division/country:us/state:wi/county:marinette/council_district:3": {
+   "name": "Marinette County Supervisor District 3",
+   "officeIndices": [
     180
+   ]
+  },
+  "ocd-division/country:us/state:wi/county:waushara/place:leon": {
+   "name": "Leon town"
+  },
+  "ocd-division/country:us/state:wi/county:burnett/place:daniels": {
+   "name": "Daniels town"
+  },
+  "ocd-division/country:us/state:wi/county:clark/council_district:5": {
+   "name": "Clark County Supervisor District 5",
+   "officeIndices": [
+    181
    ]
   },
   "ocd-division/country:us/state:wi/county:marinette/council_district:2": {
    "name": "Marinette County Supervisor District 2",
    "officeIndices": [
-    181
-   ]
-  },
-  "ocd-division/country:us/state:wi/county:clark/council_district:5": {
-   "name": "Clark County Supervisor District 5",
-   "officeIndices": [
     182
-   ]
-  },
-  "ocd-division/country:us/state:wi/county:burnett/place:daniels": {
-   "name": "Daniels town"
-  },
-  "ocd-division/country:us/state:wi/county:waushara/place:leon": {
-   "name": "Leon town"
-  },
-  "ocd-division/country:us/state:wi/county:marinette/council_district:5": {
-   "name": "Marinette County Supervisor District 5",
-   "officeIndices": [
-    183
    ]
   },
   "ocd-division/country:us/state:wi/county:clark/council_district:6": {
    "name": "Clark County Supervisor District 6",
    "officeIndices": [
-    184
+    183
    ]
   },
-  "ocd-division/country:us/state:wi/county:marinette/council_district:4": {
-   "name": "Marinette County Supervisor District 4",
+  "ocd-division/country:us/state:wi/county:marinette/council_district:5": {
+   "name": "Marinette County Supervisor District 5",
    "officeIndices": [
-    185
+    184
    ]
   },
   "ocd-division/country:us/state:wi/county:clark/council_district:7": {
    "name": "Clark County Supervisor District 7",
+   "officeIndices": [
+    185
+   ]
+  },
+  "ocd-division/country:us/state:wi/county:marinette/council_district:4": {
+   "name": "Marinette County Supervisor District 4",
    "officeIndices": [
     186
    ]
@@ -531,11 +531,11 @@
     189
    ]
   },
-  "ocd-division/country:us/state:wi/county:rock/place:clinton": {
-   "name": "Clinton town"
-  },
   "ocd-division/country:us/state:wi/place:barron": {
    "name": "Barron city"
+  },
+  "ocd-division/country:us/state:wi/county:rock/place:clinton": {
+   "name": "Clinton town"
   },
   "ocd-division/country:us/state:wi/county:langlade": {
    "name": "Langlade County",
@@ -610,11 +610,11 @@
   "ocd-division/country:us/state:wi/county:door/place:union": {
    "name": "Union town"
   },
-  "ocd-division/country:us/state:wi/county:oconto/place:bagley": {
-   "name": "Bagley town"
-  },
   "ocd-division/country:us/state:wi/county:dunn/place:dunn": {
    "name": "Dunn town"
+  },
+  "ocd-division/country:us/state:wi/county:oconto/place:bagley": {
+   "name": "Bagley town"
   },
   "ocd-division/country:us/state:wi/county:kewaunee/place:carlton": {
    "name": "Carlton town"
@@ -688,11 +688,11 @@
   "ocd-division/country:us/state:wi/county:dane/school_district:belleville_school_district": {
    "name": "belleville school district"
   },
-  "ocd-division/country:us/state:wi/county:shawano/school_district:gresham_school_district": {
-   "name": "gresham school district"
-  },
   "ocd-division/country:us/state:wi/county:oneida/place:lynne": {
    "name": "Lynne town"
+  },
+  "ocd-division/country:us/state:wi/county:shawano/school_district:gresham_school_district": {
+   "name": "gresham school district"
   },
   "ocd-division/country:us/state:wi/county:washburn/school_district:spooner_area_school_district": {
    "name": "spooner area school district"
@@ -721,14 +721,14 @@
     215
    ]
   },
-  "ocd-division/country:us/state:wi/county:manitowoc/place:centerville": {
-   "name": "Centerville town"
-  },
   "ocd-division/country:us/state:wi/county:manitowoc/council_district:2": {
    "name": "Manitowoc County Supervisor District 2",
    "officeIndices": [
     216
    ]
+  },
+  "ocd-division/country:us/state:wi/county:manitowoc/place:centerville": {
+   "name": "Centerville town"
   },
   "ocd-division/country:us/state:wi/county:manitowoc/council_district:1": {
    "name": "Manitowoc County Supervisor District 1",
@@ -742,14 +742,14 @@
     218
    ]
   },
+  "ocd-division/country:us/state:wi/county:dane/place:springdale": {
+   "name": "Springdale town"
+  },
   "ocd-division/country:us/state:wi/county:manitowoc/council_district:6": {
    "name": "Manitowoc County Supervisor District 6",
    "officeIndices": [
     219
    ]
-  },
-  "ocd-division/country:us/state:wi/county:dane/place:springdale": {
-   "name": "Springdale town"
   },
   "ocd-division/country:us/state:wi/county:manitowoc/council_district:5": {
    "name": "Manitowoc County Supervisor District 5",
@@ -757,14 +757,14 @@
     220
    ]
   },
+  "ocd-division/country:us/state:wi/place:wisconsin_rapids": {
+   "name": "Wisconsin Rapids city"
+  },
   "ocd-division/country:us/state:wi/county:manitowoc/council_district:4": {
    "name": "Manitowoc County Supervisor District 4",
    "officeIndices": [
     221
    ]
-  },
-  "ocd-division/country:us/state:wi/place:wisconsin_rapids": {
-   "name": "Wisconsin Rapids city"
   },
   "ocd-division/country:us/state:wi/county:manitowoc/council_district:9": {
    "name": "Manitowoc County Supervisor District 9",
@@ -778,29 +778,38 @@
     223
    ]
   },
-  "ocd-division/country:us/state:wi/county:clark/place:levis": {
-   "name": "Levis town"
-  },
   "ocd-division/country:us/state:wi/place:chilton": {
    "name": "Chilton city"
+  },
+  "ocd-division/country:us/state:wi/county:clark/place:levis": {
+   "name": "Levis town"
   },
   "ocd-division/country:us/state:wi/county:chippewa/place:sigel": {
    "name": "Sigel town"
   },
-  "ocd-division/country:us/state:wi/county:barron/place:bear_lake": {
-   "name": "Bear Lake town"
-  },
   "ocd-division/country:us/state:wi/place:cochrane": {
    "name": "Cochrane village"
   },
-  "ocd-division/country:us/state:wi/county:milwaukee/school_district:milwaukee_academy_of_science_agency": {
-   "name": "milwaukee academy of science agency"
+  "ocd-division/country:us/state:wi/county:barron/place:bear_lake": {
+   "name": "Bear Lake town"
   },
   "ocd-division/country:us/state:wi/place:madison/council_district:16": {
    "name": "Madison WI aldermanic district 16"
   },
+  "ocd-division/country:us/state:wi/county:milwaukee/school_district:milwaukee_academy_of_science_agency": {
+   "name": "milwaukee academy of science agency"
+  },
   "ocd-division/country:us/state:wi/place:madison/council_district:17": {
    "name": "Madison WI aldermanic district 17"
+  },
+  "ocd-division/country:us/state:wi/place:oostburg": {
+   "name": "Oostburg village"
+  },
+  "ocd-division/country:us/state:wi/place:madison/council_district:14": {
+   "name": "Madison WI aldermanic district 14"
+  },
+  "ocd-division/country:us/state:wi/county:milwaukee/school_district:school_for_early_development_and_achievement_agency": {
+   "name": "school for early development and achievement agency"
   },
   "ocd-division/country:us/state:wi/county:sheboygan": {
    "name": "Sheboygan County",
@@ -814,26 +823,17 @@
     230
    ]
   },
-  "ocd-division/country:us/state:wi/county:milwaukee/school_district:school_for_early_development_and_achievement_agency": {
-   "name": "school for early development and achievement agency"
-  },
-  "ocd-division/country:us/state:wi/place:oostburg": {
-   "name": "Oostburg village"
-  },
-  "ocd-division/country:us/state:wi/place:madison/council_district:14": {
-   "name": "Madison WI aldermanic district 14"
+  "ocd-division/country:us/state:wi/place:madison/council_district:15": {
+   "name": "Madison WI aldermanic district 15"
   },
   "ocd-division/country:us/state:wi/county:sawyer/place:meadowbrook": {
    "name": "Meadowbrook town"
   },
-  "ocd-division/country:us/state:wi/place:madison/council_district:15": {
-   "name": "Madison WI aldermanic district 15"
+  "ocd-division/country:us/state:wi/place:madison/council_district:12": {
+   "name": "Madison WI aldermanic district 12"
   },
   "ocd-division/country:us/state:wi/county:monroe/school_district:sparta_area_school_district": {
    "name": "sparta area school district"
-  },
-  "ocd-division/country:us/state:wi/place:madison/council_district:12": {
-   "name": "Madison WI aldermanic district 12"
   },
   "ocd-division/country:us/state:wi/place:madison/council_district:13": {
    "name": "Madison WI aldermanic district 13"
@@ -1260,11 +1260,11 @@
     264
    ]
   },
-  "ocd-division/country:us/state:wi/county:rusk/place:rusk": {
-   "name": "Rusk town"
-  },
   "ocd-division/country:us/state:wi/place:monticello": {
    "name": "Monticello village"
+  },
+  "ocd-division/country:us/state:wi/county:rusk/place:rusk": {
+   "name": "Rusk town"
   },
   "ocd-division/country:us/state:wi/county:fond_du_lac/place:empire": {
    "name": "Empire town"
@@ -1281,20 +1281,20 @@
     266
    ]
   },
+  "ocd-division/country:us/state:wi/county:eau_claire/school_district:altoona_school_district": {
+   "name": "altoona school district"
+  },
   "ocd-division/country:us/state:wi/county:washington/council_district:29": {
    "name": "Washington County Supervisor District 29",
    "officeIndices": [
     267
    ]
   },
-  "ocd-division/country:us/state:wi/county:eau_claire/school_district:altoona_school_district": {
-   "name": "altoona school district"
+  "ocd-division/country:us/state:wi/place:big_falls": {
+   "name": "Big Falls village"
   },
   "ocd-division/country:us/state:wi/county:adams/place:leola": {
    "name": "Leola town"
-  },
-  "ocd-division/country:us/state:wi/place:big_falls": {
-   "name": "Big Falls village"
   },
   "ocd-division/country:us/state:wi/county:columbia/place:springvale": {
    "name": "Springvale town"
@@ -1311,20 +1311,20 @@
   "ocd-division/country:us/state:wi/county:dodge/school_district:waupun_school_district": {
    "name": "waupun school district"
   },
-  "ocd-division/country:us/state:wi/county:washington/council_district:15": {
-   "name": "Washington County Supervisor District 15",
+  "ocd-division/country:us/state:wi/county:brown/council_district:11": {
+   "name": "Brown County Supervisor District 11",
    "officeIndices": [
     269
    ]
   },
-  "ocd-division/country:us/state:wi/county:brown/council_district:11": {
-   "name": "Brown County Supervisor District 11",
+  "ocd-division/country:us/state:wi/county:washington/council_district:15": {
+   "name": "Washington County Supervisor District 15",
    "officeIndices": [
     268
    ]
   },
-  "ocd-division/country:us/state:wi/county:washington/council_district:14": {
-   "name": "Washington County Supervisor District 14",
+  "ocd-division/country:us/state:wi/county:brown/council_district:10": {
+   "name": "Brown County Supervisor District 10",
    "officeIndices": [
     271
    ]
@@ -1332,50 +1332,50 @@
   "ocd-division/country:us/state:wi/county:clark/place:hixon": {
    "name": "Hixon town"
   },
-  "ocd-division/country:us/state:wi/county:brown/council_district:10": {
-   "name": "Brown County Supervisor District 10",
+  "ocd-division/country:us/state:wi/county:washington/council_district:14": {
+   "name": "Washington County Supervisor District 14",
    "officeIndices": [
     270
-   ]
-  },
-  "ocd-division/country:us/state:wi/county:washington/council_district:13": {
-   "name": "Washington County Supervisor District 13",
-   "officeIndices": [
-    273
    ]
   },
   "ocd-division/country:us/state:wi/county:brown/council_district:13": {
    "name": "Brown County Supervisor District 13",
    "officeIndices": [
-    272
+    273
    ]
   },
-  "ocd-division/country:us/state:wi/county:washington/council_district:12": {
-   "name": "Washington County Supervisor District 12",
+  "ocd-division/country:us/state:wi/county:washington/council_district:13": {
+   "name": "Washington County Supervisor District 13",
    "officeIndices": [
-    275
+    272
    ]
   },
   "ocd-division/country:us/state:wi/county:brown/council_district:12": {
    "name": "Brown County Supervisor District 12",
    "officeIndices": [
-    274
+    275
    ]
   },
-  "ocd-division/country:us/state:wi/county:washington/council_district:11": {
-   "name": "Washington County Supervisor District 11",
+  "ocd-division/country:us/state:wi/county:washington/council_district:12": {
+   "name": "Washington County Supervisor District 12",
    "officeIndices": [
-    277
+    274
    ]
   },
   "ocd-division/country:us/state:wi/county:brown/council_district:15": {
    "name": "Brown County Supervisor District 15",
    "officeIndices": [
+    277
+   ]
+  },
+  "ocd-division/country:us/state:wi/county:washington/council_district:11": {
+   "name": "Washington County Supervisor District 11",
+   "officeIndices": [
     276
    ]
   },
-  "ocd-division/country:us/state:wi/county:washington/council_district:10": {
-   "name": "Washington County Supervisor District 10",
+  "ocd-division/country:us/state:wi/county:brown/council_district:14": {
+   "name": "Brown County Supervisor District 14",
    "officeIndices": [
     279
    ]
@@ -1383,11 +1383,14 @@
   "ocd-division/country:us/state:wi/county:ashland/place:peeksville": {
    "name": "Peeksville town"
   },
-  "ocd-division/country:us/state:wi/county:brown/council_district:14": {
-   "name": "Brown County Supervisor District 14",
+  "ocd-division/country:us/state:wi/county:washington/council_district:10": {
+   "name": "Washington County Supervisor District 10",
    "officeIndices": [
     278
    ]
+  },
+  "ocd-division/country:us/state:wi/place:cazenovia": {
+   "name": "Cazenovia village"
   },
   "ocd-division/country:us/state:wi/county:brown/council_district:17": {
    "name": "Brown County Supervisor District 17",
@@ -1395,23 +1398,20 @@
     280
    ]
   },
-  "ocd-division/country:us/state:wi/place:cazenovia": {
-   "name": "Cazenovia village"
-  },
   "ocd-division/country:us/state:wi/county:brown/council_district:16": {
    "name": "Brown County Supervisor District 16",
    "officeIndices": [
     281
    ]
   },
-  "ocd-division/country:us/state:wi/county:outagamie/place:liberty": {
-   "name": "Liberty town"
-  },
   "ocd-division/country:us/state:wi/county:brown/council_district:19": {
    "name": "Brown County Supervisor District 19",
    "officeIndices": [
     282
    ]
+  },
+  "ocd-division/country:us/state:wi/county:outagamie/place:liberty": {
+   "name": "Liberty town"
   },
   "ocd-division/country:us/state:wi/county:brown/council_district:18": {
    "name": "Brown County Supervisor District 18",
@@ -1428,17 +1428,20 @@
     284
    ]
   },
+  "ocd-division/country:us/state:wi/county:columbia/place:otsego": {
+   "name": "Otsego town"
+  },
+  "ocd-division/country:us/state:wi/county:polk/place:farmington": {
+   "name": "Farmington town"
+  },
   "ocd-division/country:us/state:wi/county:washington/council_district:18": {
    "name": "Washington County Supervisor District 18",
    "officeIndices": [
     285
    ]
   },
-  "ocd-division/country:us/state:wi/county:polk/place:farmington": {
-   "name": "Farmington town"
-  },
-  "ocd-division/country:us/state:wi/county:columbia/place:otsego": {
-   "name": "Otsego town"
+  "ocd-division/country:us/state:wi/county:monroe/place:angelo": {
+   "name": "Angelo town"
   },
   "ocd-division/country:us/state:wi/county:washington/council_district:17": {
    "name": "Washington County Supervisor District 17",
@@ -1446,8 +1449,8 @@
     286
    ]
   },
-  "ocd-division/country:us/state:wi/county:monroe/place:angelo": {
-   "name": "Angelo town"
+  "ocd-division/country:us/state:wi/county:walworth/place:sharon": {
+   "name": "Sharon town"
   },
   "ocd-division/country:us/state:wi/county:washington/council_district:16": {
    "name": "Washington County Supervisor District 16",
@@ -1455,29 +1458,26 @@
     287
    ]
   },
-  "ocd-division/country:us/state:wi/county:walworth/place:sharon": {
-   "name": "Sharon town"
-  },
   "ocd-division/country:us/state:wi/county:dodge/place:hubbard": {
    "name": "Hubbard town"
   },
   "ocd-division/country:us/state:wi/place:ripon": {
    "name": "Ripon city"
   },
-  "ocd-division/country:us/state:wi/county:crawford/school_district:wauzeka-steuben_school_district": {
-   "name": "wauzeka-steuben school district"
-  },
   "ocd-division/country:us/state:wi/county:bayfield/place:keystone": {
    "name": "Keystone town"
+  },
+  "ocd-division/country:us/state:wi/county:crawford/school_district:wauzeka-steuben_school_district": {
+   "name": "wauzeka-steuben school district"
   },
   "ocd-division/country:us/state:wi/county:outagamie/place:black_creek": {
    "name": "Black Creek town"
   },
-  "ocd-division/country:us/state:wi/county:lafayette/place:shullsburg": {
-   "name": "Shullsburg town"
-  },
   "ocd-division/country:us/state:wi/county:jackson/place:north_bend": {
    "name": "North Bend town"
+  },
+  "ocd-division/country:us/state:wi/county:lafayette/place:shullsburg": {
+   "name": "Shullsburg town"
   },
   "ocd-division/country:us/state:wi/county:waupaca/school_district:weyauwega-fremont_school_district": {
    "name": "weyauwega-fremont school district"
@@ -1505,11 +1505,11 @@
   "ocd-division/country:us/state:wi/place:la_valle": {
    "name": "La Valle village"
   },
-  "ocd-division/country:us/state:wi/place:independence": {
-   "name": "Independence city"
-  },
   "ocd-division/country:us/state:wi/place:kellnersville": {
    "name": "Kellnersville village"
+  },
+  "ocd-division/country:us/state:wi/place:independence": {
+   "name": "Independence city"
   },
   "ocd-division/country:us/state:wi/county:juneau/place:lyndon": {
    "name": "Lyndon town"
@@ -1523,26 +1523,26 @@
     294
    ]
   },
-  "ocd-division/country:us/state:wi/county:washington/council_district:30": {
-   "name": "Washington County Supervisor District 30",
+  "ocd-division/country:us/state:wi/county:buffalo/council_district:8": {
+   "name": "Buffalo County Supervisor District 8",
    "officeIndices": [
     296
    ]
   },
-  "ocd-division/country:us/state:wi/county:buffalo/council_district:8": {
-   "name": "Buffalo County Supervisor District 8",
+  "ocd-division/country:us/state:wi/county:washington/council_district:30": {
+   "name": "Washington County Supervisor District 30",
    "officeIndices": [
     295
    ]
+  },
+  "ocd-division/country:us/state:wi/county:winnebago/school_district:winneconne_community_school_district": {
+   "name": "winneconne community school district"
   },
   "ocd-division/country:us/state:wi/county:buffalo/council_district:7": {
    "name": "Buffalo County Supervisor District 7",
    "officeIndices": [
     297
    ]
-  },
-  "ocd-division/country:us/state:wi/county:winnebago/school_district:winneconne_community_school_district": {
-   "name": "winneconne community school district"
   },
   "ocd-division/country:us/state:wi/county:buffalo/council_district:6": {
    "name": "Buffalo County Supervisor District 6",
@@ -1642,11 +1642,11 @@
   "ocd-division/country:us/state:wi/county:sheboygan/place:wilson": {
    "name": "Wilson town"
   },
-  "ocd-division/country:us/state:wi/county:st_croix/place:pleasant_valley": {
-   "name": "Pleasant Valley town"
-  },
   "ocd-division/country:us/state:wi/county:waupaca/school_district:marion_school_district": {
    "name": "marion school district"
+  },
+  "ocd-division/country:us/state:wi/county:st_croix/place:pleasant_valley": {
+   "name": "Pleasant Valley town"
   },
   "ocd-division/country:us/state:wi/county:dane/place:rutland": {
    "name": "Rutland town"
@@ -3072,11 +3072,11 @@
   "ocd-division/country:us/state:wi/county:portage/place:sharon": {
    "name": "Sharon town"
   },
-  "ocd-division/country:us/state:wi/county:buffalo/place:maxville": {
-   "name": "Maxville town"
-  },
   "ocd-division/country:us/state:wi/place:stockbridge": {
    "name": "Stockbridge village"
+  },
+  "ocd-division/country:us/state:wi/county:buffalo/place:maxville": {
+   "name": "Maxville town"
   },
   "ocd-division/country:us/state:wi/county:grant/place:lima": {
    "name": "Lima town"
@@ -3099,14 +3099,14 @@
     513
    ]
   },
+  "ocd-division/country:us/state:wi/county:marathon/place:halsey": {
+   "name": "Halsey town"
+  },
   "ocd-division/country:us/state:wi/county:shawano/council_district:24": {
    "name": "Shawano County Supervisor District 24",
    "officeIndices": [
     514
    ]
-  },
-  "ocd-division/country:us/state:wi/county:marathon/place:halsey": {
-   "name": "Halsey town"
   },
   "ocd-division/country:us/state:wi/county:shawano/council_district:25": {
    "name": "Shawano County Supervisor District 25",
@@ -3126,17 +3126,17 @@
     517
    ]
   },
+  "ocd-division/country:us/state:wi/place:radisson": {
+   "name": "Radisson village"
+  },
+  "ocd-division/country:us/state:wi/county:dane/place:vermont": {
+   "name": "Vermont town"
+  },
   "ocd-division/country:us/state:wi/county:shawano/council_district:20": {
    "name": "Shawano County Supervisor District 20",
    "officeIndices": [
     518
    ]
-  },
-  "ocd-division/country:us/state:wi/county:dane/place:vermont": {
-   "name": "Vermont town"
-  },
-  "ocd-division/country:us/state:wi/place:radisson": {
-   "name": "Radisson village"
   },
   "ocd-division/country:us/state:wi/county:shawano/council_district:21": {
    "name": "Shawano County Supervisor District 21",
@@ -3144,14 +3144,14 @@
     519
    ]
   },
+  "ocd-division/country:us/state:wi/county:marathon/place:easton": {
+   "name": "Easton town"
+  },
   "ocd-division/country:us/state:wi/county:sawyer/council_district:10": {
    "name": "Sawyer County Supervisor District 10",
    "officeIndices": [
     520
    ]
-  },
-  "ocd-division/country:us/state:wi/county:marathon/place:easton": {
-   "name": "Easton town"
   },
   "ocd-division/country:us/state:wi/place:appleton": {
    "name": "Appleton city"
@@ -3165,14 +3165,14 @@
   "ocd-division/country:us/state:wi/place:tigerton": {
    "name": "Tigerton village"
   },
+  "ocd-division/country:us/state:wi/place:tony": {
+   "name": "Tony village"
+  },
   "ocd-division/country:us/state:wi/county:green/council_district:27": {
    "name": "Green County Supervisor District 27",
    "officeIndices": [
     521
    ]
-  },
-  "ocd-division/country:us/state:wi/place:tony": {
-   "name": "Tony village"
   },
   "ocd-division/country:us/state:wi/county:green/council_district:26": {
    "name": "Green County Supervisor District 26",
@@ -3180,17 +3180,14 @@
     522
    ]
   },
-  "ocd-division/country:us/state:wi/county:dunn/place:new_haven": {
-   "name": "New Haven town"
-  },
   "ocd-division/country:us/state:wi/county:green/council_district:25": {
    "name": "Green County Supervisor District 25",
    "officeIndices": [
     523
    ]
   },
-  "ocd-division/country:us/state:wi/county:lincoln/place:birch": {
-   "name": "Birch town"
+  "ocd-division/country:us/state:wi/county:dunn/place:new_haven": {
+   "name": "New Haven town"
   },
   "ocd-division/country:us/state:wi/county:green/council_district:24": {
    "name": "Green County Supervisor District 24",
@@ -3198,20 +3195,23 @@
     524
    ]
   },
+  "ocd-division/country:us/state:wi/county:lincoln/place:birch": {
+   "name": "Birch town"
+  },
   "ocd-division/country:us/state:wi/county:green/council_district:29": {
    "name": "Green County Supervisor District 29",
    "officeIndices": [
     525
    ]
   },
-  "ocd-division/country:us/state:wi/county:polk/place:milltown": {
-   "name": "Milltown town"
-  },
   "ocd-division/country:us/state:wi/county:green/council_district:28": {
    "name": "Green County Supervisor District 28",
    "officeIndices": [
     526
    ]
+  },
+  "ocd-division/country:us/state:wi/county:polk/place:milltown": {
+   "name": "Milltown town"
   },
   "ocd-division/country:us/state:wi/county:green/council_district:30": {
    "name": "Green County Supervisor District 30",
@@ -3222,20 +3222,20 @@
   "ocd-division/country:us/state:wi/place:campbellsport": {
    "name": "Campbellsport village"
   },
-  "ocd-division/country:us/state:wi/county:marathon/place:green_valley": {
-   "name": "Green Valley town"
-  },
   "ocd-division/country:us/state:wi/county:green/council_district:31": {
    "name": "Green County Supervisor District 31",
    "officeIndices": [
     528
    ]
   },
-  "ocd-division/country:us/state:wi/county:dodge/place:westford": {
-   "name": "Westford town"
+  "ocd-division/country:us/state:wi/county:marathon/place:green_valley": {
+   "name": "Green Valley town"
   },
   "ocd-division/country:us/state:wi/place:little_chute": {
    "name": "Little Chute village"
+  },
+  "ocd-division/country:us/state:wi/county:dodge/place:westford": {
+   "name": "Westford town"
   },
   "ocd-division/country:us/state:wi/county:sheboygan/school_district:oostburg_school_district": {
    "name": "oostburg school district"
@@ -3252,14 +3252,14 @@
   "ocd-division/country:us/state:wi/county:chippewa/place:lafayette": {
    "name": "Lafayette town"
   },
-  "ocd-division/country:us/state:wi/county:vilas/place:presque_isle": {
-   "name": "Presque Isle town"
+  "ocd-division/country:us/state:wi/county:jefferson/place:ixonia": {
+   "name": "Ixonia town"
   },
   "ocd-division/country:us/state:wi/county:monroe/place:glendale": {
    "name": "Glendale town"
   },
-  "ocd-division/country:us/state:wi/county:jefferson/place:ixonia": {
-   "name": "Ixonia town"
+  "ocd-division/country:us/state:wi/county:vilas/place:presque_isle": {
+   "name": "Presque Isle town"
   },
   "ocd-division/country:us/state:wi/county:green/council_district:14": {
    "name": "Green County Supervisor District 14",
@@ -3285,14 +3285,14 @@
     532
    ]
   },
+  "ocd-division/country:us/state:wi/place:almena": {
+   "name": "Almena village"
+  },
   "ocd-division/country:us/state:wi/county:green/council_district:18": {
    "name": "Green County Supervisor District 18",
    "officeIndices": [
     533
    ]
-  },
-  "ocd-division/country:us/state:wi/place:almena": {
-   "name": "Almena village"
   },
   "ocd-division/country:us/state:wi/county:green/council_district:17": {
    "name": "Green County Supervisor District 17",
@@ -3303,17 +3303,17 @@
   "ocd-division/country:us/state:wi/county:wood/place:grand_rapids": {
    "name": "Grand Rapids town"
   },
-  "ocd-division/country:us/state:wi/county:milwaukee/school_district:cudahy_school_district": {
-   "name": "cudahy school district"
-  },
-  "ocd-division/country:us/state:wi/county:clark/place:worden": {
-   "name": "Worden town"
-  },
   "ocd-division/country:us/state:wi/county:green/council_district:19": {
    "name": "Green County Supervisor District 19",
    "officeIndices": [
     535
    ]
+  },
+  "ocd-division/country:us/state:wi/county:clark/place:worden": {
+   "name": "Worden town"
+  },
+  "ocd-division/country:us/state:wi/county:milwaukee/school_district:cudahy_school_district": {
+   "name": "cudahy school district"
   },
   "ocd-division/country:us/state:wi/county:washington/school_district:hartford_j1_school_district": {
    "name": "hartford j1 school district"
@@ -3324,17 +3324,17 @@
     536
    ]
   },
+  "ocd-division/country:us/state:wi/place:exeland": {
+   "name": "Exeland village"
+  },
+  "ocd-division/country:us/state:wi/place:darien": {
+   "name": "Darien village"
+  },
   "ocd-division/country:us/state:wi/county:green/council_district:21": {
    "name": "Green County Supervisor District 21",
    "officeIndices": [
     537
    ]
-  },
-  "ocd-division/country:us/state:wi/place:darien": {
-   "name": "Darien village"
-  },
-  "ocd-division/country:us/state:wi/place:exeland": {
-   "name": "Exeland village"
   },
   "ocd-division/country:us/state:wi/county:green/council_district:22": {
    "name": "Green County Supervisor District 22",
@@ -3381,23 +3381,23 @@
   "ocd-division/country:us/state:wi/county:jefferson/place:aztalan": {
    "name": "Aztalan town"
   },
-  "ocd-division/country:us/state:wi/place:seymour": {
-   "name": "Seymour city"
-  },
   "ocd-division/country:us/state:wi/place:thiensville": {
    "name": "Thiensville village"
   },
+  "ocd-division/country:us/state:wi/place:seymour": {
+   "name": "Seymour city"
+  },
   "ocd-division/country:us/state:wi/county:rusk/place:wilkinson": {
    "name": "Wilkinson town"
+  },
+  "ocd-division/country:us/state:wi/place:elroy": {
+   "name": "Elroy city"
   },
   "ocd-division/country:us/state:wi/county:oneida/council_district:11": {
    "name": "Oneida County Supervisor District 11",
    "officeIndices": [
     542
    ]
-  },
-  "ocd-division/country:us/state:wi/place:elroy": {
-   "name": "Elroy city"
   },
   "ocd-division/country:us/state:wi/county:oneida/council_district:10": {
    "name": "Oneida County Supervisor District 10",
@@ -3429,14 +3429,14 @@
     547
    ]
   },
-  "ocd-division/country:us/state:wi/county:oneida/council_district:17": {
-   "name": "Oneida County Supervisor District 17",
+  "ocd-division/country:us/state:wi/county:buffalo/council_district:14": {
+   "name": "Buffalo County Supervisor District 14",
    "officeIndices": [
     548
    ]
   },
-  "ocd-division/country:us/state:wi/county:buffalo/council_district:14": {
-   "name": "Buffalo County Supervisor District 14",
+  "ocd-division/country:us/state:wi/county:oneida/council_district:17": {
+   "name": "Oneida County Supervisor District 17",
    "officeIndices": [
     549
    ]
@@ -6341,35 +6341,35 @@
     860
    ]
   },
-  "ocd-division/country:us/state:wi/county:taylor/council_district:1": {
-   "name": "Taylor County Supervisor District 1",
+  "ocd-division/country:us/state:wi/county:crawford": {
+   "name": "Crawford County",
    "officeIndices": [
+    862,
+    863,
+    864,
+    865,
+    866,
+    867,
     868
    ]
   },
   "ocd-division/country:us/state:wi/county:lafayette/place:new_diggings": {
    "name": "New Diggings town"
   },
-  "ocd-division/country:us/state:wi/county:crawford": {
-   "name": "Crawford County",
+  "ocd-division/country:us/state:wi/county:taylor/council_district:1": {
+   "name": "Taylor County Supervisor District 1",
    "officeIndices": [
-    861,
-    862,
-    863,
-    864,
-    865,
-    866,
-    867
+    861
    ]
+  },
+  "ocd-division/country:us/state:wi/county:fond_du_lac/place:ashford": {
+   "name": "Ashford town"
   },
   "ocd-division/country:us/state:wi/county:taylor/council_district:4": {
    "name": "Taylor County Supervisor District 4",
    "officeIndices": [
     869
    ]
-  },
-  "ocd-division/country:us/state:wi/county:fond_du_lac/place:ashford": {
-   "name": "Ashford town"
   },
   "ocd-division/country:us/state:wi/county:taylor/council_district:5": {
    "name": "Taylor County Supervisor District 5",
@@ -6383,14 +6383,14 @@
     871
    ]
   },
-  "ocd-division/country:us/state:wi/county:trempealeau/school_district:galesville-ettrick-trempealeau_school_district": {
-   "name": "galesville-ettrick-trempealeau school district"
-  },
   "ocd-division/country:us/state:wi/county:taylor/council_district:3": {
    "name": "Taylor County Supervisor District 3",
    "officeIndices": [
     872
    ]
+  },
+  "ocd-division/country:us/state:wi/county:trempealeau/school_district:galesville-ettrick-trempealeau_school_district": {
+   "name": "galesville-ettrick-trempealeau school district"
   },
   "ocd-division/country:us/state:wi/county:taylor/council_district:9": {
    "name": "Taylor County Supervisor District 9",
@@ -6398,14 +6398,14 @@
     873
    ]
   },
+  "ocd-division/country:us/state:wi/place:weston": {
+   "name": "Weston village"
+  },
   "ocd-division/country:us/state:wi/county:taylor/council_district:8": {
    "name": "Taylor County Supervisor District 8",
    "officeIndices": [
     874
    ]
-  },
-  "ocd-division/country:us/state:wi/place:weston": {
-   "name": "Weston village"
   },
   "ocd-division/country:us/state:wi/county:taylor/council_district:7": {
    "name": "Taylor County Supervisor District 7",
@@ -6455,23 +6455,23 @@
   "ocd-division/country:us/state:wi/county:barron/place:sioux_creek": {
    "name": "Sioux Creek town"
   },
-  "ocd-division/country:us/state:wi/place:livingston": {
-   "name": "Livingston village"
-  },
   "ocd-division/country:us/state:wi/place:loganville": {
    "name": "Loganville village"
   },
-  "ocd-division/country:us/state:wi/county:clark/school_district:colby_school_district": {
-   "name": "colby school district"
+  "ocd-division/country:us/state:wi/place:livingston": {
+   "name": "Livingston village"
   },
   "ocd-division/country:us/state:wi/place:lohrville": {
    "name": "Lohrville village"
   },
-  "ocd-division/country:us/state:wi/county:burnett/place:wood_river": {
-   "name": "Wood River town"
+  "ocd-division/country:us/state:wi/county:clark/school_district:colby_school_district": {
+   "name": "colby school district"
   },
   "ocd-division/country:us/state:wi/county:jefferson/school_district:jefferson_school_district": {
    "name": "jefferson school district"
+  },
+  "ocd-division/country:us/state:wi/county:burnett/place:wood_river": {
+   "name": "Wood River town"
   },
   "ocd-division/country:us/state:wi/county:washington/place:germantown": {
    "name": "Germantown town"
@@ -6503,14 +6503,14 @@
     878
    ]
   },
+  "ocd-division/country:us/state:wi/county:green/place:albany": {
+   "name": "Albany town"
+  },
   "ocd-division/country:us/state:wi/county:polk/council_district:19": {
    "name": "Polk County Supervisor District 19",
    "officeIndices": [
     879
    ]
-  },
-  "ocd-division/country:us/state:wi/county:green/place:albany": {
-   "name": "Albany town"
   },
   "ocd-division/country:us/state:wi/county:polk/council_district:16": {
    "name": "Polk County Supervisor District 16",
@@ -6524,14 +6524,20 @@
     881
    ]
   },
+  "ocd-division/country:us/state:wi/county:oneida/place:minocqua": {
+   "name": "Minocqua town"
+  },
   "ocd-division/country:us/state:wi/county:polk/council_district:14": {
    "name": "Polk County Supervisor District 14",
    "officeIndices": [
     882
    ]
   },
-  "ocd-division/country:us/state:wi/county:oneida/place:minocqua": {
-   "name": "Minocqua town"
+  "ocd-division/country:us/state:wi/place:hustisford": {
+   "name": "Hustisford village"
+  },
+  "ocd-division/country:us/state:wi/county:oconto/school_district:oconto_falls_public_school_district": {
+   "name": "oconto falls public school district"
   },
   "ocd-division/country:us/state:wi/county:polk/council_district:15": {
    "name": "Polk County Supervisor District 15",
@@ -6539,26 +6545,20 @@
     883
    ]
   },
-  "ocd-division/country:us/state:wi/county:oconto/school_district:oconto_falls_public_school_district": {
-   "name": "oconto falls public school district"
-  },
-  "ocd-division/country:us/state:wi/place:hustisford": {
-   "name": "Hustisford village"
-  },
   "ocd-division/country:us/state:wi/county:polk/council_district:12": {
    "name": "Polk County Supervisor District 12",
    "officeIndices": [
     884
    ]
   },
+  "ocd-division/country:us/state:wi/county:florence/place:florence": {
+   "name": "Florence town"
+  },
   "ocd-division/country:us/state:wi/county:polk/council_district:13": {
    "name": "Polk County Supervisor District 13",
    "officeIndices": [
     885
    ]
-  },
-  "ocd-division/country:us/state:wi/county:florence/place:florence": {
-   "name": "Florence town"
   },
   "ocd-division/country:us/state:wi/county:polk/council_district:10": {
    "name": "Polk County Supervisor District 10",
@@ -6625,17 +6625,20 @@
     896
    ]
   },
+  "ocd-division/country:us/state:wi/place:osseo": {
+   "name": "Osseo city"
+  },
   "ocd-division/country:us/state:wi/county:dane/school_district:sun_prairie_area_school_district": {
    "name": "sun prairie area school district"
   },
-  "ocd-division/country:us/state:wi/place:osseo": {
-   "name": "Osseo city"
+  "ocd-division/country:us/state:wi/place:muscoda": {
+   "name": "Muscoda village"
   },
   "ocd-division/country:us/state:wi/county:polk/place:apple_river": {
    "name": "Apple River town"
   },
-  "ocd-division/country:us/state:wi/place:muscoda": {
-   "name": "Muscoda village"
+  "ocd-division/country:us/state:wi/place:turtle_lake": {
+   "name": "Turtle Lake village"
   },
   "ocd-division/country:us/state:wi/county:eau_claire": {
    "name": "Eau Claire County",
@@ -6647,9 +6650,6 @@
     901,
     902
    ]
-  },
-  "ocd-division/country:us/state:wi/place:turtle_lake": {
-   "name": "Turtle Lake village"
   },
   "ocd-division/country:us/state:wi/place:chaseburg": {
    "name": "Chaseburg village"
@@ -10202,6 +10202,9 @@
   "ocd-division/country:us/state:wi/county:brown/school_district:howard-suamico_school_district": {
    "name": "howard-suamico school district"
   },
+  "ocd-division/country:us/state:wi/place:madison/ward:52": {
+   "name": "Madison WI ward 52"
+  },
   "ocd-division/country:us/state:wi/county:waupaca": {
    "name": "Waupaca County",
    "officeIndices": [
@@ -10213,9 +10216,6 @@
     1306,
     1307
    ]
-  },
-  "ocd-division/country:us/state:wi/place:madison/ward:52": {
-   "name": "Madison WI ward 52"
   },
   "ocd-division/country:us/state:wi/place:madison/ward:53": {
    "name": "Madison WI ward 53"
@@ -10292,16 +10292,16 @@
   "ocd-division/country:us/state:wi/county:bayfield/place:tripp": {
    "name": "Tripp town"
   },
-  "ocd-division/country:us/state:wi/county:walworth": {
-   "name": "Walworth County",
-   "officeIndices": [
-    1308
-   ]
-  },
   "ocd-division/country:us/state:wi/sldl:65": {
    "name": "Wisconsin Assembly district 65",
    "officeIndices": [
     89
+   ]
+  },
+  "ocd-division/country:us/state:wi/county:walworth": {
+   "name": "Walworth County",
+   "officeIndices": [
+    1308
    ]
   },
   "ocd-division/country:us/state:wi/place:madison/ward:43": {
@@ -10430,14 +10430,14 @@
     1318
    ]
   },
+  "ocd-division/country:us/state:wi/place:madison/ward:34": {
+   "name": "Madison WI ward 34"
+  },
   "ocd-division/country:us/state:wi/county:eau_claire/council_district:4": {
    "name": "Eau Claire County Supervisor District 4",
    "officeIndices": [
     1319
    ]
-  },
-  "ocd-division/country:us/state:wi/place:madison/ward:34": {
-   "name": "Madison WI ward 34"
   },
   "ocd-division/country:us/state:wi/place:madison/ward:33": {
    "name": "Madison WI ward 33"
@@ -10688,11 +10688,11 @@
   "ocd-division/country:us/state:wi/place:madison/ward:17": {
    "name": "Madison WI ward 17"
   },
-  "ocd-division/country:us/state:wi/place:madison/ward:16": {
-   "name": "Madison WI ward 16"
-  },
   "ocd-division/country:us/state:wi/place:necedah": {
    "name": "Necedah village"
+  },
+  "ocd-division/country:us/state:wi/place:madison/ward:16": {
+   "name": "Madison WI ward 16"
   },
   "ocd-division/country:us/state:wi/place:madison/ward:15": {
    "name": "Madison WI ward 15"
@@ -11978,19 +11978,13 @@
   "ocd-division/country:us/state:wi/place:kenosha/council_district:12": {
    "name": "Kenosha WI city council district 12"
   },
+  "ocd-division/country:us/state:wi/place:kenosha/council_district:15": {
+   "name": "Kenosha WI city council district 15"
+  },
   "ocd-division/country:us/state:wi/cd:6": {
    "name": "Wisconsin's 6th congressional district",
    "officeIndices": [
     0
-   ]
-  },
-  "ocd-division/country:us/state:wi/place:kenosha/council_district:15": {
-   "name": "Kenosha WI city council district 15"
-  },
-  "ocd-division/country:us/state:wi/cd:5": {
-   "name": "Wisconsin's 5th congressional district",
-   "officeIndices": [
-    1
    ]
   },
   "ocd-division/country:us/state:wi/place:wyeville": {
@@ -11999,14 +11993,23 @@
   "ocd-division/country:us/state:wi/place:kenosha/council_district:14": {
    "name": "Kenosha WI city council district 14"
   },
+  "ocd-division/country:us/state:wi/cd:5": {
+   "name": "Wisconsin's 5th congressional district",
+   "officeIndices": [
+    1
+   ]
+  },
+  "ocd-division/country:us/state:wi/place:kenosha/council_district:17": {
+   "name": "Kenosha WI city council district 17"
+  },
   "ocd-division/country:us/state:wi/cd:8": {
    "name": "Wisconsin's 8th congressional district",
    "officeIndices": [
     2
    ]
   },
-  "ocd-division/country:us/state:wi/place:kenosha/council_district:17": {
-   "name": "Kenosha WI city council district 17"
+  "ocd-division/country:us/state:wi/place:kenosha/council_district:16": {
+   "name": "Kenosha WI city council district 16"
   },
   "ocd-division/country:us/state:wi/cd:7": {
    "name": "Wisconsin's 7th congressional district",
@@ -12014,17 +12017,14 @@
     3
    ]
   },
-  "ocd-division/country:us/state:wi/place:kenosha/council_district:16": {
-   "name": "Kenosha WI city council district 16"
+  "ocd-division/country:us/state:wi/place:lake_hallie": {
+   "name": "Lake Hallie village"
   },
   "ocd-division/country:us/state:wi/cd:2": {
    "name": "Wisconsin's 2nd congressional district",
    "officeIndices": [
     4
    ]
-  },
-  "ocd-division/country:us/state:wi/place:lake_hallie": {
-   "name": "Lake Hallie village"
   },
   "ocd-division/country:us/state:wi/cd:1": {
    "name": "Wisconsin's 1st congressional district",
@@ -12849,23 +12849,23 @@
     1525
    ]
   },
+  "ocd-division/country:us/state:wi/county:waushara/place:bloomfield": {
+   "name": "Bloomfield town"
+  },
   "ocd-division/country:us/state:wi/county:dane/council_district:3": {
    "name": "Dane County Supervisor District 3",
    "officeIndices": [
     1526
    ]
   },
-  "ocd-division/country:us/state:wi/county:waushara/place:bloomfield": {
-   "name": "Bloomfield town"
+  "ocd-division/country:us/state:wi/county:wood/place:seneca": {
+   "name": "Seneca town"
   },
   "ocd-division/country:us/state:wi/county:dane/council_district:4": {
    "name": "Dane County Supervisor District 4",
    "officeIndices": [
     1527
    ]
-  },
-  "ocd-division/country:us/state:wi/county:wood/place:seneca": {
-   "name": "Seneca town"
   },
   "ocd-division/country:us/state:wi/county:dane/council_district:1": {
    "name": "Dane County Supervisor District 1",
@@ -13343,11 +13343,11 @@
   "ocd-division/country:us/state:wi/county:waukesha/school_district:pewaukee_school_district": {
    "name": "pewaukee school district"
   },
-  "ocd-division/country:us/state:wi/county:polk/place:beaver": {
-   "name": "Beaver town"
-  },
   "ocd-division/country:us/state:wi/county:crawford/place:scott": {
    "name": "Scott town"
+  },
+  "ocd-division/country:us/state:wi/county:polk/place:beaver": {
+   "name": "Beaver town"
   },
   "ocd-division/country:us/state:wi/county:vernon/place:bergen": {
    "name": "Bergen town"
@@ -13601,14 +13601,14 @@
   "ocd-division/country:us/state:wi/county:barron/place:prairie_farm": {
    "name": "Prairie Farm town"
   },
+  "ocd-division/country:us/state:wi/county:jackson/place:melrose": {
+   "name": "Melrose town"
+  },
   "ocd-division/country:us/state:wi/county:dane/council_district:21": {
    "name": "Dane County Supervisor District 21",
    "officeIndices": [
     1594
    ]
-  },
-  "ocd-division/country:us/state:wi/county:jackson/place:melrose": {
-   "name": "Melrose town"
   },
   "ocd-division/country:us/state:wi/place:plain": {
    "name": "Plain village"
@@ -13911,6 +13911,9 @@
   "ocd-division/country:us/state:wi/county:green/place:monroe": {
    "name": "Monroe town"
   },
+  "ocd-division/country:us/state:wi/place:north_fond_du_lac": {
+   "name": "North Fond du Lac village"
+  },
   "ocd-division/country:us/state:wi/county:brown": {
    "name": "Brown County",
    "officeIndices": [
@@ -13921,9 +13924,6 @@
     1632,
     1633
    ]
-  },
-  "ocd-division/country:us/state:wi/place:north_fond_du_lac": {
-   "name": "North Fond du Lac village"
   },
   "ocd-division/country:us/state:wi/county:adams/place:lincoln": {
    "name": "Lincoln town"
@@ -14003,23 +14003,23 @@
   "ocd-division/country:us/state:wi/place:fall_river": {
    "name": "Fall River village"
   },
+  "ocd-division/country:us/state:wi/county:forest/place:hiles": {
+   "name": "Hiles town"
+  },
   "ocd-division/country:us/state:wi/county:dane/council_district:11": {
    "name": "Dane County Supervisor District 11",
    "officeIndices": [
     1638
    ]
   },
-  "ocd-division/country:us/state:wi/county:forest/place:hiles": {
-   "name": "Hiles town"
+  "ocd-division/country:us/state:wi/place:forestville": {
+   "name": "Forestville village"
   },
   "ocd-division/country:us/state:wi/county:dane/council_district:10": {
    "name": "Dane County Supervisor District 10",
    "officeIndices": [
     1639
    ]
-  },
-  "ocd-division/country:us/state:wi/place:forestville": {
-   "name": "Forestville village"
   },
   "ocd-division/country:us/state:wi/county:marquette/place:moundville": {
    "name": "Moundville town"
@@ -14443,14 +14443,14 @@
     1679
    ]
   },
+  "ocd-division/country:us/state:wi/county:waupaca/place:caledonia": {
+   "name": "Caledonia town"
+  },
   "ocd-division/country:us/state:wi/county:milwaukee/council_district:13": {
    "name": "Milwaukee County WI County Board of Supervisors District 13",
    "officeIndices": [
     1680
    ]
-  },
-  "ocd-division/country:us/state:wi/county:waupaca/place:caledonia": {
-   "name": "Caledonia town"
   },
   "ocd-division/country:us/state:wi/county:rusk/place:marshall": {
    "name": "Marshall town"
@@ -15961,6 +15961,9 @@
     1865
    ]
   },
+  "ocd-division/country:us/state:wi/county:brown/place:green_bay": {
+   "name": "Green Bay town"
+  },
   "ocd-division/country:us/state:wi/county:rock": {
    "name": "Rock County",
    "officeIndices": [
@@ -15972,9 +15975,6 @@
     1871,
     1872
    ]
-  },
-  "ocd-division/country:us/state:wi/county:brown/place:green_bay": {
-   "name": "Green Bay town"
   },
   "ocd-division/country:us/state:wi/county:shawano/place:angelica": {
    "name": "Angelica town"
@@ -20484,57 +20484,57 @@
    ]
   },
   {
-   "name": "Coroner",
-   "divisionId": "ocd-division/country:us/state:wi/county:kewaunee",
+   "name": "County Supervisor, District 14",
+   "divisionId": "ocd-division/country:us/state:wi/county:adams/council_district:14",
    "officialIndices": [
     160
    ]
   },
   {
-   "name": "Sheriff",
+   "name": "Coroner",
    "divisionId": "ocd-division/country:us/state:wi/county:kewaunee",
    "officialIndices": [
     161
    ]
   },
   {
-   "name": "Treasurer",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:wi/county:kewaunee",
    "officialIndices": [
     162
    ]
   },
   {
-   "name": "County Clerk",
+   "name": "Treasurer",
    "divisionId": "ocd-division/country:us/state:wi/county:kewaunee",
    "officialIndices": [
     163
    ]
   },
   {
-   "name": "District Attorney",
+   "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:wi/county:kewaunee",
    "officialIndices": [
     164
    ]
   },
   {
-   "name": "Register of Deeds",
+   "name": "District Attorney",
    "divisionId": "ocd-division/country:us/state:wi/county:kewaunee",
    "officialIndices": [
     165
    ]
   },
   {
-   "name": "Clerk of Circuit Court",
+   "name": "Register of Deeds",
    "divisionId": "ocd-division/country:us/state:wi/county:kewaunee",
    "officialIndices": [
     166
    ]
   },
   {
-   "name": "County Supervisor, District 14",
-   "divisionId": "ocd-division/country:us/state:wi/county:adams/council_district:14",
+   "name": "Clerk of Circuit Court",
+   "divisionId": "ocd-division/country:us/state:wi/county:kewaunee",
    "officialIndices": [
     167
    ]
@@ -20582,99 +20582,99 @@
    ]
   },
   {
-   "name": "County Supervisor, District 6",
-   "divisionId": "ocd-division/country:us/state:wi/county:marinette/council_district:6",
+   "name": "County Supervisor, District 1",
+   "divisionId": "ocd-division/country:us/state:wi/county:clark/council_district:1",
    "officialIndices": [
     174
    ]
   },
   {
-   "name": "County Supervisor, District 1",
-   "divisionId": "ocd-division/country:us/state:wi/county:clark/council_district:1",
+   "name": "County Supervisor, District 6",
+   "divisionId": "ocd-division/country:us/state:wi/county:marinette/council_district:6",
    "officialIndices": [
     175
-   ]
-  },
-  {
-   "name": "County Supervisor, District 9",
-   "divisionId": "ocd-division/country:us/state:wi/county:marinette/council_district:9",
-   "officialIndices": [
-    176
    ]
   },
   {
    "name": "County Supervisor, District 2",
    "divisionId": "ocd-division/country:us/state:wi/county:clark/council_district:2",
    "officialIndices": [
-    177
+    176
    ]
   },
   {
-   "name": "County Supervisor, District 8",
-   "divisionId": "ocd-division/country:us/state:wi/county:marinette/council_district:8",
+   "name": "County Supervisor, District 9",
+   "divisionId": "ocd-division/country:us/state:wi/county:marinette/council_district:9",
    "officialIndices": [
-    178
+    177
    ]
   },
   {
    "name": "County Supervisor, District 3",
    "divisionId": "ocd-division/country:us/state:wi/county:clark/council_district:3",
    "officialIndices": [
-    179
+    178
    ]
   },
   {
-   "name": "County Supervisor, District 3",
-   "divisionId": "ocd-division/country:us/state:wi/county:marinette/council_district:3",
+   "name": "County Supervisor, District 8",
+   "divisionId": "ocd-division/country:us/state:wi/county:marinette/council_district:8",
    "officialIndices": [
-    180
+    179
    ]
   },
   {
    "name": "County Supervisor, District 4",
    "divisionId": "ocd-division/country:us/state:wi/county:clark/council_district:4",
    "officialIndices": [
-    181
+    180
    ]
   },
   {
-   "name": "County Supervisor, District 2",
-   "divisionId": "ocd-division/country:us/state:wi/county:marinette/council_district:2",
+   "name": "County Supervisor, District 3",
+   "divisionId": "ocd-division/country:us/state:wi/county:marinette/council_district:3",
    "officialIndices": [
-    182
+    181
    ]
   },
   {
    "name": "County Supervisor, District 5",
    "divisionId": "ocd-division/country:us/state:wi/county:clark/council_district:5",
    "officialIndices": [
-    183
+    182
    ]
   },
   {
-   "name": "County Supervisor, District 5",
-   "divisionId": "ocd-division/country:us/state:wi/county:marinette/council_district:5",
+   "name": "County Supervisor, District 2",
+   "divisionId": "ocd-division/country:us/state:wi/county:marinette/council_district:2",
    "officialIndices": [
-    184
+    183
    ]
   },
   {
    "name": "County Supervisor, District 6",
    "divisionId": "ocd-division/country:us/state:wi/county:clark/council_district:6",
    "officialIndices": [
-    185
+    184
    ]
   },
   {
-   "name": "County Supervisor, District 4",
-   "divisionId": "ocd-division/country:us/state:wi/county:marinette/council_district:4",
+   "name": "County Supervisor, District 5",
+   "divisionId": "ocd-division/country:us/state:wi/county:marinette/council_district:5",
    "officialIndices": [
-    186
+    185
    ]
   },
   {
    "name": "County Supervisor, District 7",
    "divisionId": "ocd-division/country:us/state:wi/county:clark/council_district:7",
+   "officialIndices": [
+    186
+   ]
+  },
+  {
+   "name": "County Supervisor, District 4",
+   "divisionId": "ocd-division/country:us/state:wi/county:marinette/council_district:4",
    "officialIndices": [
     187
    ]
@@ -21266,86 +21266,86 @@
    ]
   },
   {
-   "name": "County Supervisor, District 11",
-   "divisionId": "ocd-division/country:us/state:wi/county:brown/council_district:11",
+   "name": "County Supervisor, District 15",
+   "divisionId": "ocd-division/country:us/state:wi/county:washington/council_district:15",
    "officialIndices": [
     288
    ]
   },
   {
-   "name": "County Supervisor, District 15",
-   "divisionId": "ocd-division/country:us/state:wi/county:washington/council_district:15",
+   "name": "County Supervisor, District 11",
+   "divisionId": "ocd-division/country:us/state:wi/county:brown/council_district:11",
    "officialIndices": [
     289
-   ]
-  },
-  {
-   "name": "County Supervisor, District 10",
-   "divisionId": "ocd-division/country:us/state:wi/county:brown/council_district:10",
-   "officialIndices": [
-    290,
-    291
    ]
   },
   {
    "name": "County Supervisor, District 14",
    "divisionId": "ocd-division/country:us/state:wi/county:washington/council_district:14",
    "officialIndices": [
-    292
+    290
    ]
   },
   {
-   "name": "County Supervisor, District 13",
-   "divisionId": "ocd-division/country:us/state:wi/county:brown/council_district:13",
+   "name": "County Supervisor, District 10",
+   "divisionId": "ocd-division/country:us/state:wi/county:brown/council_district:10",
    "officialIndices": [
-    293
+    291,
+    292
    ]
   },
   {
    "name": "County Supervisor, District 13",
    "divisionId": "ocd-division/country:us/state:wi/county:washington/council_district:13",
    "officialIndices": [
-    294
+    293
    ]
   },
   {
-   "name": "County Supervisor, District 12",
-   "divisionId": "ocd-division/country:us/state:wi/county:brown/council_district:12",
+   "name": "County Supervisor, District 13",
+   "divisionId": "ocd-division/country:us/state:wi/county:brown/council_district:13",
    "officialIndices": [
-    295
+    294
    ]
   },
   {
    "name": "County Supervisor, District 12",
    "divisionId": "ocd-division/country:us/state:wi/county:washington/council_district:12",
    "officialIndices": [
-    296
+    295
    ]
   },
   {
-   "name": "County Supervisor, District 15",
-   "divisionId": "ocd-division/country:us/state:wi/county:brown/council_district:15",
+   "name": "County Supervisor, District 12",
+   "divisionId": "ocd-division/country:us/state:wi/county:brown/council_district:12",
    "officialIndices": [
-    297
+    296
    ]
   },
   {
    "name": "County Supervisor, District 11",
    "divisionId": "ocd-division/country:us/state:wi/county:washington/council_district:11",
    "officialIndices": [
-    298
+    297
    ]
   },
   {
-   "name": "County Supervisor, District 14",
-   "divisionId": "ocd-division/country:us/state:wi/county:brown/council_district:14",
+   "name": "County Supervisor, District 15",
+   "divisionId": "ocd-division/country:us/state:wi/county:brown/council_district:15",
    "officialIndices": [
-    299
+    298
    ]
   },
   {
    "name": "County Supervisor, District 10",
    "divisionId": "ocd-division/country:us/state:wi/county:washington/council_district:10",
+   "officialIndices": [
+    299
+   ]
+  },
+  {
+   "name": "County Supervisor, District 14",
+   "divisionId": "ocd-division/country:us/state:wi/county:brown/council_district:14",
    "officialIndices": [
     300
    ]
@@ -21456,15 +21456,15 @@
    ]
   },
   {
-   "name": "County Supervisor, District 8",
-   "divisionId": "ocd-division/country:us/state:wi/county:buffalo/council_district:8",
+   "name": "County Supervisor, District 30",
+   "divisionId": "ocd-division/country:us/state:wi/county:washington/council_district:30",
    "officialIndices": [
     316
    ]
   },
   {
-   "name": "County Supervisor, District 30",
-   "divisionId": "ocd-division/country:us/state:wi/county:washington/council_district:30",
+   "name": "County Supervisor, District 8",
+   "divisionId": "ocd-division/country:us/state:wi/county:buffalo/council_district:8",
    "officialIndices": [
     317
    ]
@@ -23239,15 +23239,15 @@
    ]
   },
   {
-   "name": "County Supervisor, District 17",
-   "divisionId": "ocd-division/country:us/state:wi/county:oneida/council_district:17",
+   "name": "County Supervisor, District 14",
+   "divisionId": "ocd-division/country:us/state:wi/county:buffalo/council_district:14",
    "officialIndices": [
     585
    ]
   },
   {
-   "name": "County Supervisor, District 14",
-   "divisionId": "ocd-division/country:us/state:wi/county:buffalo/council_district:14",
+   "name": "County Supervisor, District 17",
+   "divisionId": "ocd-division/country:us/state:wi/county:oneida/council_district:17",
    "officialIndices": [
     586
    ]
@@ -25441,57 +25441,57 @@
    ]
   },
   {
-   "name": "Coroner",
-   "divisionId": "ocd-division/country:us/state:wi/county:crawford",
+   "name": "County Supervisor, District 1",
+   "divisionId": "ocd-division/country:us/state:wi/county:taylor/council_district:1",
    "officialIndices": [
     909
    ]
   },
   {
-   "name": "Sheriff",
+   "name": "Coroner",
    "divisionId": "ocd-division/country:us/state:wi/county:crawford",
    "officialIndices": [
     910
    ]
   },
   {
-   "name": "Treasurer",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:wi/county:crawford",
    "officialIndices": [
     911
    ]
   },
   {
-   "name": "County Clerk",
+   "name": "Treasurer",
    "divisionId": "ocd-division/country:us/state:wi/county:crawford",
    "officialIndices": [
     912
    ]
   },
   {
-   "name": "District Attorney",
+   "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:wi/county:crawford",
    "officialIndices": [
     913
    ]
   },
   {
-   "name": "Register of Deeds",
+   "name": "District Attorney",
    "divisionId": "ocd-division/country:us/state:wi/county:crawford",
    "officialIndices": [
     914
    ]
   },
   {
-   "name": "Clerk Of Circuit Court",
+   "name": "Register of Deeds",
    "divisionId": "ocd-division/country:us/state:wi/county:crawford",
    "officialIndices": [
     915
    ]
   },
   {
-   "name": "County Supervisor, District 1",
-   "divisionId": "ocd-division/country:us/state:wi/county:taylor/council_district:1",
+   "name": "Clerk Of Circuit Court",
+   "divisionId": "ocd-division/country:us/state:wi/county:crawford",
    "officialIndices": [
     916
    ]
@@ -39713,6 +39713,13 @@
    ]
   },
   {
+   "name": "Marjorie (Marge) Edwards",
+   "party": "Unknown",
+   "urls": [
+    "http://www.co.adams.wi.gov/District14/tabid/234/Default.aspx"
+   ]
+  },
+  {
    "name": "David Hudson",
    "party": "Unknown"
   },
@@ -39739,13 +39746,6 @@
   {
    "name": "Rebecca Deterville",
    "party": "Unknown"
-  },
-  {
-   "name": "Marjorie (Marge) Edwards",
-   "party": "Unknown",
-   "urls": [
-    "http://www.co.adams.wi.gov/District14/tabid/234/Default.aspx"
-   ]
   },
   {
    "name": "Lori Djumadi",
@@ -39786,9 +39786,6 @@
    "name": "Cheryl L. Wruk"
   },
   {
-   "name": "Ken Mattison"
-  },
-  {
    "name": "Marcia Hochhalter",
    "party": "Unknown",
    "urls": [
@@ -39796,7 +39793,7 @@
    ]
   },
   {
-   "name": "Joe Policello"
+   "name": "Ken Mattison"
   },
   {
    "name": "Gary Leichtman",
@@ -39806,7 +39803,7 @@
    ]
   },
   {
-   "name": "Joe Banaszak"
+   "name": "Joe Policello"
   },
   {
    "name": "Frederick Schindler",
@@ -39816,7 +39813,7 @@
    ]
   },
   {
-   "name": "Russ Bousley"
+   "name": "Joe Banaszak"
   },
   {
    "name": "Tom Wilcox",
@@ -39826,7 +39823,7 @@
    ]
   },
   {
-   "name": "Alfred J. Sauld"
+   "name": "Russ Bousley"
   },
   {
    "name": "Mark Renderman",
@@ -39836,7 +39833,7 @@
    ]
   },
   {
-   "name": "Michael Cassidy"
+   "name": "Alfred J. Sauld"
   },
   {
    "name": "Joe Waichulis Jr.",
@@ -39846,7 +39843,7 @@
    ]
   },
   {
-   "name": "Cary L. Clancy Whiting"
+   "name": "Michael Cassidy"
   },
   {
    "name": "Leeann Klapatuskus",
@@ -39854,6 +39851,9 @@
    "urls": [
     "http://www.co.clark.wi.us/directory.aspx?EID=55"
    ]
+  },
+  {
+   "name": "Cary L. Clancy Whiting"
   },
   {
    "name": "Arlene Kodl",
@@ -41065,6 +41065,24 @@
    ]
   },
   {
+   "name": "Todd White",
+   "address": [
+    {
+     "line1": "432 east washington street",
+     "city": "west bend",
+     "state": "WI",
+     "zip": "53095"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(262) 335-4304"
+   ],
+   "urls": [
+    "http://www.co.washington.wi.us/departments.iml?mdl=departments.mdl&ID=CBD"
+   ]
+  },
+  {
    "name": "Patrick Buckley",
    "address": [
     {
@@ -41083,7 +41101,7 @@
    ]
   },
   {
-   "name": "Todd White",
+   "name": "Joseph Gonnering",
    "address": [
     {
      "line1": "432 east washington street",
@@ -41137,7 +41155,7 @@
    ]
   },
   {
-   "name": "Joseph Gonnering",
+   "name": "Gerald Schulz",
    "address": [
     {
      "line1": "432 east washington street",
@@ -41173,7 +41191,7 @@
    ]
   },
   {
-   "name": "Gerald Schulz",
+   "name": "Brian Krebs",
    "address": [
     {
      "line1": "432 east washington street",
@@ -41209,7 +41227,7 @@
    ]
   },
   {
-   "name": "Brian Krebs",
+   "name": "Michael Parsons",
    "address": [
     {
      "line1": "432 east washington street",
@@ -41245,7 +41263,7 @@
    ]
   },
   {
-   "name": "Michael Parsons",
+   "name": "Daniel Stoffel",
    "address": [
     {
      "line1": "432 east washington street",
@@ -41278,24 +41296,6 @@
    ],
    "urls": [
     "http://www.co.brown.wi.us/departments/?department=2c960fb409b5&i=a271d0d21081"
-   ]
-  },
-  {
-   "name": "Daniel Stoffel",
-   "address": [
-    {
-     "line1": "432 east washington street",
-     "city": "west bend",
-     "state": "WI",
-     "zip": "53095"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(262) 335-4304"
-   ],
-   "urls": [
-    "http://www.co.washington.wi.us/departments.iml?mdl=departments.mdl&ID=CBD"
    ]
   },
   {
@@ -41471,10 +41471,6 @@
    "party": "Unknown"
   },
   {
-   "name": "Larry Balk",
-   "party": "Unknown"
-  },
-  {
    "name": "Leslie Borman",
    "address": [
     {
@@ -41491,6 +41487,10 @@
    "urls": [
     "http://www.co.washington.wi.us/departments.iml?mdl=departments.mdl&ID=CBD"
    ]
+  },
+  {
+   "name": "Larry Balk",
+   "party": "Unknown"
   },
   {
    "name": "Steve Weiss",
@@ -44500,11 +44500,11 @@
    "party": "Unknown"
   },
   {
-   "name": "Billy Fried",
+   "name": "David Ernst",
    "party": "Unknown"
   },
   {
-   "name": "David Ernst",
+   "name": "Billy Fried",
    "party": "Unknown"
   },
   {
@@ -46802,6 +46802,10 @@
    ]
   },
   {
+   "name": "Fred Parent",
+   "party": "Unknown"
+  },
+  {
    "name": "Joe Morovits",
    "party": "Unknown",
    "urls": [
@@ -46849,10 +46853,6 @@
    "urls": [
     "http://crawfordcountywi.org/CountyDirectory.pdf"
    ]
-  },
-  {
-   "name": "Fred Parent",
-   "party": "Unknown"
   },
   {
    "name": "Jim Metz",

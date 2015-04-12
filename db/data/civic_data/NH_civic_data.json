@@ -33,11 +33,11 @@
   "ocd-division/country:us/state:nh/place:litchfield": {
    "name": "Litchfield town"
   },
-  "ocd-division/country:us/state:nh/place:wentworth~s_location": {
-   "name": "WentWorth's Location Township NH"
-  },
   "ocd-division/country:us/state:nh/county:merrimack/school_district:deerfield_school_district": {
    "name": "deerfield school district"
+  },
+  "ocd-division/country:us/state:nh/place:wentworth~s_location": {
+   "name": "WentWorth's Location Township NH"
   },
   "ocd-division/country:us/state:nh/county:merrimack/school_district:kearsarge_regional_school_district": {
    "name": "kearsarge regional school district"
@@ -108,14 +108,14 @@
     9
    ]
   },
+  "ocd-division/country:us/state:nh/county:hillsborough/school_district:bedford_school_district": {
+   "name": "bedford school district"
+  },
   "ocd-division/country:us/state:nh/sldl:hillsborough_14": {
    "name": "New Hampshire State House district Hillsborough County No. 14",
    "officeIndices": [
     10
    ]
-  },
-  "ocd-division/country:us/state:nh/county:hillsborough/school_district:bedford_school_district": {
-   "name": "bedford school district"
   },
   "ocd-division/country:us/state:nh/sldl:hillsborough_13": {
    "name": "New Hampshire State House district Hillsborough County No. 13",
@@ -135,11 +135,11 @@
   "ocd-division/country:us/state:nh/place:milford": {
    "name": "Milford town"
   },
-  "ocd-division/country:us/state:nh/county:grafton/school_district:north_country_charter_academy": {
-   "name": "north country charter academy"
-  },
   "ocd-division/country:us/state:nh/place:kensington": {
    "name": "Kensington town"
+  },
+  "ocd-division/country:us/state:nh/county:grafton/school_district:north_country_charter_academy": {
+   "name": "north country charter academy"
   },
   "ocd-division/country:us/state:nh/county:grafton/school_district:pemi-baker_regional_school_district": {
    "name": "pemi-baker regional school district"
@@ -147,14 +147,14 @@
   "ocd-division/country:us/state:nh/place:francestown": {
    "name": "Francestown town"
   },
+  "ocd-division/country:us/state:nh/county:merrimack/school_district:chichester_school_district": {
+   "name": "chichester school district"
+  },
   "ocd-division/country:us/state:nh/sldl:hillsborough_29": {
    "name": "New Hampshire State House district Hillsborough County No. 29",
    "officeIndices": [
     13
    ]
-  },
-  "ocd-division/country:us/state:nh/county:merrimack/school_district:chichester_school_district": {
-   "name": "chichester school district"
   },
   "ocd-division/country:us/state:nh/sldl:hillsborough_28": {
    "name": "New Hampshire State House district Hillsborough County No. 28",
@@ -162,14 +162,14 @@
     14
    ]
   },
+  "ocd-division/country:us/state:nh/place:marlborough": {
+   "name": "Marlborough town"
+  },
   "ocd-division/country:us/state:nh/sldl:hillsborough_27": {
    "name": "New Hampshire State House district Hillsborough County No. 27",
    "officeIndices": [
     15
    ]
-  },
-  "ocd-division/country:us/state:nh/place:marlborough": {
-   "name": "Marlborough town"
   },
   "ocd-division/country:us/state:nh/sldl:hillsborough_26": {
    "name": "New Hampshire State House district Hillsborough County No. 26",
@@ -183,14 +183,14 @@
     17
    ]
   },
+  "ocd-division/country:us/state:nh/county:rockingham/school_district:newmarket_school_district": {
+   "name": "newmarket school district"
+  },
   "ocd-division/country:us/state:nh/sldl:hillsborough_24": {
    "name": "New Hampshire State House district Hillsborough County No. 24",
    "officeIndices": [
     18
    ]
-  },
-  "ocd-division/country:us/state:nh/county:rockingham/school_district:newmarket_school_district": {
-   "name": "newmarket school district"
   },
   "ocd-division/country:us/state:nh/sldl:hillsborough_23": {
    "name": "New Hampshire State House district Hillsborough County No. 23",
@@ -300,12 +300,6 @@
     34
    ]
   },
-  "ocd-division/country:us/state:nh/sldl:hillsborough_36": {
-   "name": "New Hampshire State House district Hillsborough County No. 36",
-   "officeIndices": [
-    35
-   ]
-  },
   "ocd-division/country:us/state:nh/county:rockingham": {
    "name": "Rockingham County",
    "officeIndices": [
@@ -313,6 +307,12 @@
     233,
     234,
     235
+   ]
+  },
+  "ocd-division/country:us/state:nh/sldl:hillsborough_36": {
+   "name": "New Hampshire State House district Hillsborough County No. 36",
+   "officeIndices": [
+    35
    ]
   },
   "ocd-division/country:us/state:nh/sldl:hillsborough_37": {
@@ -348,14 +348,14 @@
     236
    ]
   },
+  "ocd-division/country:us/state:nh/county:belknap/school_district:prospect_mountain_school_district": {
+   "name": "prospect mountain school district"
+  },
   "ocd-division/country:us/state:nh/sldl:hillsborough_30": {
    "name": "New Hampshire State House district Hillsborough County No. 30",
    "officeIndices": [
     39
    ]
-  },
-  "ocd-division/country:us/state:nh/county:belknap/school_district:prospect_mountain_school_district": {
-   "name": "prospect mountain school district"
   },
   "ocd-division/country:us/state:nh/sldl:hillsborough_32": {
    "name": "New Hampshire State House district Hillsborough County No. 32",
@@ -375,14 +375,14 @@
     42
    ]
   },
+  "ocd-division/country:us/state:nh/place:bow": {
+   "name": "Bow town"
+  },
   "ocd-division/country:us/state:nh/sldl:hillsborough_45": {
    "name": "New Hampshire House of Representatives district Hillsborough 45",
    "officeIndices": [
     43
    ]
-  },
-  "ocd-division/country:us/state:nh/place:bow": {
-   "name": "Bow town"
   },
   "ocd-division/country:us/state:nh/place:langdon": {
    "name": "Langdon town"
@@ -429,11 +429,11 @@
     47
    ]
   },
-  "ocd-division/country:us/state:nh/place:northumberland": {
-   "name": "Northumberland town"
-  },
   "ocd-division/country:us/state:nh/place:lyme": {
    "name": "Lyme town"
+  },
+  "ocd-division/country:us/state:nh/place:northumberland": {
+   "name": "Northumberland town"
   },
   "ocd-division/country:us/state:nh/place:ellsworth": {
    "name": "Ellsworth town"
@@ -799,11 +799,11 @@
   "ocd-division/country:us/state:nh/place:fremont": {
    "name": "Fremont town"
   },
-  "ocd-division/country:us/state:nh/county:merrimack/school_district:pembroke_school_district": {
-   "name": "pembroke school district"
-  },
   "ocd-division/country:us/state:nh/place:clarksville": {
    "name": "Clarksville town"
+  },
+  "ocd-division/country:us/state:nh/county:merrimack/school_district:pembroke_school_district": {
+   "name": "pembroke school district"
   },
   "ocd-division/country:us/state:nh/county:coos/school_district:errol_school_district": {
    "name": "errol school district"
@@ -817,11 +817,11 @@
   "ocd-division/country:us/state:nh/place:northfield": {
    "name": "Northfield town"
   },
-  "ocd-division/country:us/state:nh/place:sandown": {
-   "name": "Sandown town"
-  },
   "ocd-division/country:us/state:nh/place:middleton": {
    "name": "Middleton town"
+  },
+  "ocd-division/country:us/state:nh/place:sandown": {
+   "name": "Sandown town"
   },
   "ocd-division/country:us/state:nh/county:coos/school_district:northumberland_school_district": {
    "name": "northumberland school district"
@@ -835,14 +835,14 @@
     242
    ]
   },
+  "ocd-division/country:us/state:nh/place:center_harbor": {
+   "name": "Center Harbor town"
+  },
   "ocd-division/country:us/state:nh/county:rockingham/council_district:2": {
    "name": "Rockingham District 2",
    "officeIndices": [
     243
    ]
-  },
-  "ocd-division/country:us/state:nh/place:center_harbor": {
-   "name": "Center Harbor town"
   },
   "ocd-division/country:us/state:nh/county:rockingham/council_district:1": {
    "name": "Rockingham District 1",
@@ -1412,14 +1412,14 @@
     112
    ]
   },
+  "ocd-division/country:us/state:nh/county:sullivan/school_district:croydon_school_district": {
+   "name": "croydon school district"
+  },
   "ocd-division/country:us/state:nh/sldl:cheshire_5": {
    "name": "New Hampshire State House district Cheshire County No. 5",
    "officeIndices": [
     113
    ]
-  },
-  "ocd-division/country:us/state:nh/county:sullivan/school_district:croydon_school_district": {
-   "name": "croydon school district"
   },
   "ocd-division/country:us/state:nh/place:pelham": {
    "name": "Pelham town"
@@ -3000,14 +3000,14 @@
   "ocd-division/country:us/state:nh/county:merrimack/school_district:allenstown_school_district": {
    "name": "allenstown school district"
   },
+  "ocd-division/country:us/state:nh/county:hillsborough/school_district:merrimack_school_district": {
+   "name": "merrimack school district"
+  },
   "ocd-division/country:us/state:nh/sldu:10": {
    "name": "New Hampshire State Senate district 10",
    "officeIndices": [
     208
    ]
-  },
-  "ocd-division/country:us/state:nh/county:hillsborough/school_district:merrimack_school_district": {
-   "name": "merrimack school district"
   },
   "ocd-division/country:us/state:nh/sldl:hillsborough_8": {
    "name": "New Hampshire State House district Hillsborough County No. 8",
@@ -3117,11 +3117,11 @@
     310
    ]
   },
-  "ocd-division/country:us/state:nh/county:rockingham/school_district:sanborn_regional_school_district": {
-   "name": "sanborn regional school district"
-  },
   "ocd-division/country:us/state:nh/county:coos/school_district:columbia_school_district": {
    "name": "columbia school district"
+  },
+  "ocd-division/country:us/state:nh/county:rockingham/school_district:sanborn_regional_school_district": {
+   "name": "sanborn regional school district"
   },
   "ocd-division/country:us/state:nh/sldu:18": {
    "name": "New Hampshire State Senate district 18",

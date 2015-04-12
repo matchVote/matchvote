@@ -150,11 +150,11 @@
   "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:2/precinct:2a": {
    "name": "East Baton Rouge - Ward 02 Pct 002A"
   },
-  "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:2/precinct:2b": {
-   "name": "East Baton Rouge - Ward 02 Pct 002B"
-  },
   "ocd-division/country:us/state:la/parish:orleans/ward:9/precinct:40": {
    "name": "Orleans - Ward 09 Pct 40"
+  },
+  "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:2/precinct:2b": {
+   "name": "East Baton Rouge - Ward 02 Pct 002B"
   },
   "ocd-division/country:us/state:la/parish:orleans/ward:9/precinct:41": {
    "name": "Orleans - Ward 09 Pct 41"
@@ -201,11 +201,11 @@
   "ocd-division/country:us/state:la/parish:orleans/ward:9/precinct:33": {
    "name": "Orleans - Ward 09 Pct 33"
   },
-  "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:1/precinct:67": {
-   "name": "East Baton Rouge - Ward 01 Pct 067"
-  },
   "ocd-division/country:us/state:la/parish:orleans/ward:9/precinct:30": {
    "name": "Orleans - Ward 09 Pct 30"
+  },
+  "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:1/precinct:67": {
+   "name": "East Baton Rouge - Ward 01 Pct 067"
   },
   "ocd-division/country:us/state:la/parish:orleans/ward:9/precinct:31": {
    "name": "Orleans - Ward 09 Pct 31"
@@ -240,11 +240,11 @@
   "ocd-division/country:us/state:la/parish:st_james/precinct:8b": {
    "name": "St James - 08B"
   },
-  "ocd-division/country:us/state:la/parish:orleans/ward:9/precinct:29": {
-   "name": "Orleans - Ward 09 Pct 29"
-  },
   "ocd-division/country:us/state:la/parish:st_james/precinct:8a": {
    "name": "St James - 08A"
+  },
+  "ocd-division/country:us/state:la/parish:orleans/ward:9/precinct:29": {
+   "name": "Orleans - Ward 09 Pct 29"
   },
   "ocd-division/country:us/state:la/parish:st_james/precinct:8c": {
    "name": "St James - 08C"
@@ -255,20 +255,20 @@
   "ocd-division/country:us/state:la/parish:orleans/ward:9/precinct:26": {
    "name": "Orleans - Ward 09 Pct 26"
   },
-  "ocd-division/country:us/state:la/parish:orleans/ward:9/precinct:28": {
-   "name": "Orleans - Ward 09 Pct 28"
-  },
   "ocd-division/country:us/state:la/place:golden_meadow": {
    "name": "Golden Meadow town"
+  },
+  "ocd-division/country:us/state:la/parish:orleans/ward:9/precinct:28": {
+   "name": "Orleans - Ward 09 Pct 28"
   },
   "ocd-division/country:us/state:la/parish:orleans/ward:9/precinct:21": {
    "name": "Orleans - Ward 09 Pct 21"
   },
-  "ocd-division/country:us/state:la/parish:orleans/ward:9/precinct:23": {
-   "name": "Orleans - Ward 09 Pct 23"
-  },
   "ocd-division/country:us/state:la/place:westlake": {
    "name": "Westlake city"
+  },
+  "ocd-division/country:us/state:la/parish:orleans/ward:9/precinct:23": {
+   "name": "Orleans - Ward 09 Pct 23"
   },
   "ocd-division/country:us/state:la/parish:orleans/ward:9/precinct:8a": {
    "name": "Orleans - Ward 09 Pct 08A"
@@ -291,11 +291,11 @@
   "ocd-division/country:us/state:la/parish:madison/precinct:22": {
    "name": "Madison - 22"
   },
-  "ocd-division/country:us/state:la/parish:madison/precinct:25": {
-   "name": "Madison - 25"
-  },
   "ocd-division/country:us/state:la/parish:sabine/precinct:2-4a": {
    "name": "Sabine - 2-4A"
+  },
+  "ocd-division/country:us/state:la/parish:madison/precinct:25": {
+   "name": "Madison - 25"
   },
   "ocd-division/country:us/state:la/parish:madison/precinct:24": {
    "name": "Madison - 24"
@@ -305,9 +305,6 @@
   },
   "ocd-division/country:us/state:la/parish:madison/precinct:26": {
    "name": "Madison - 26"
-  },
-  "ocd-division/country:us/state:la/parish:madison/precinct:17": {
-   "name": "Madison - 17"
   },
   "ocd-division/country:us/state:la/parish:st_charles": {
    "name": "St. Charles Parish",
@@ -319,6 +316,9 @@
     165,
     166
    ]
+  },
+  "ocd-division/country:us/state:la/parish:madison/precinct:17": {
+   "name": "Madison - 17"
   },
   "ocd-division/country:us/state:la/parish:madison/precinct:18": {
    "name": "Madison - 18"
@@ -503,11 +503,11 @@
   "ocd-division/country:us/state:la/parish:madison/precinct:16": {
    "name": "Madison - 16"
   },
-  "ocd-division/country:us/state:la/parish:madison/precinct:15": {
-   "name": "Madison - 15"
-  },
   "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:1/precinct:28": {
    "name": "East Baton Rouge - Ward 01 Pct 028"
+  },
+  "ocd-division/country:us/state:la/parish:madison/precinct:15": {
+   "name": "Madison - 15"
   },
   "ocd-division/country:us/state:la/parish:madison/precinct:14": {
    "name": "Madison - 14"
@@ -545,17 +545,17 @@
   "ocd-division/country:us/state:la/place:lillie": {
    "name": "Lillie village"
   },
-  "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:2/precinct:8b": {
-   "name": "East Baton Rouge - Ward 02 Pct 008B"
-  },
   "ocd-division/country:us/state:la/place:minden": {
    "name": "Minden city"
   },
-  "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:1/precinct:30": {
-   "name": "East Baton Rouge - Ward 01 Pct 030"
+  "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:2/precinct:8b": {
+   "name": "East Baton Rouge - Ward 02 Pct 008B"
   },
   "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:2/precinct:8a": {
    "name": "East Baton Rouge - Ward 02 Pct 008A"
+  },
+  "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:1/precinct:30": {
+   "name": "East Baton Rouge - Ward 01 Pct 030"
   },
   "ocd-division/country:us/state:la/parish:calcasieu/council_district:4": {
    "name": "Calcasieu Parish District 4",
@@ -563,23 +563,23 @@
     169
    ]
   },
-  "ocd-division/country:us/state:la/parish:ascension/precinct:11b": {
-   "name": "Ascension - 11B"
-  },
   "ocd-division/country:us/state:la/parish:calcasieu/council_district:3": {
    "name": "Calcasieu Parish District 3",
    "officeIndices": [
     170
    ]
   },
-  "ocd-division/country:us/state:la/parish:ascension/precinct:11a": {
-   "name": "Ascension - 11A"
+  "ocd-division/country:us/state:la/parish:ascension/precinct:11b": {
+   "name": "Ascension - 11B"
   },
   "ocd-division/country:us/state:la/parish:calcasieu/council_district:2": {
    "name": "Calcasieu Parish District 2",
    "officeIndices": [
     171
    ]
+  },
+  "ocd-division/country:us/state:la/parish:ascension/precinct:11a": {
+   "name": "Ascension - 11A"
   },
   "ocd-division/country:us/state:la/parish:calcasieu/council_district:1": {
    "name": "Calcasieu Parish District 1",
@@ -605,14 +605,14 @@
     175
    ]
   },
-  "ocd-division/country:us/state:la/parish:calcasieu/council_district:9": {
-   "name": "Calcasieu Parish District 9",
+  "ocd-division/country:us/state:la/parish:st_martin/ward:4": {
+   "name": "St. Martin Parish Ward 4",
    "officeIndices": [
     176
    ]
   },
-  "ocd-division/country:us/state:la/parish:st_martin/ward:4": {
-   "name": "St. Martin Parish Ward 4",
+  "ocd-division/country:us/state:la/parish:calcasieu/council_district:9": {
+   "name": "Calcasieu Parish District 9",
    "officeIndices": [
     177
    ]
@@ -629,26 +629,26 @@
     179
    ]
   },
-  "ocd-division/country:us/state:la/parish:calcasieu/council_district:6": {
-   "name": "Calcasieu Parish District 6",
+  "ocd-division/country:us/state:la/parish:st_martin/ward:9": {
+   "name": "St. Martin Parish Ward 9",
    "officeIndices": [
     180
    ]
   },
-  "ocd-division/country:us/state:la/parish:st_martin/ward:9": {
-   "name": "St. Martin Parish Ward 9",
+  "ocd-division/country:us/state:la/parish:calcasieu/council_district:6": {
+   "name": "Calcasieu Parish District 6",
    "officeIndices": [
     181
    ]
   },
-  "ocd-division/country:us/state:la/parish:calcasieu/council_district:5": {
-   "name": "Calcasieu Parish District 5",
+  "ocd-division/country:us/state:la/parish:st_martin/ward:8": {
+   "name": "St. Martin Parish Ward 8",
    "officeIndices": [
     182
    ]
   },
-  "ocd-division/country:us/state:la/parish:st_martin/ward:8": {
-   "name": "St. Martin Parish Ward 8",
+  "ocd-division/country:us/state:la/parish:calcasieu/council_district:5": {
+   "name": "Calcasieu Parish District 5",
    "officeIndices": [
     183
    ]
@@ -1221,29 +1221,29 @@
     214
    ]
   },
+  "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:2/precinct:23b": {
+   "name": "East Baton Rouge - Ward 02 Pct 023B"
+  },
   "ocd-division/country:us/state:la/parish:de_soto/council_district:1a": {
    "name": "Desoto Parish District 1A",
    "officeIndices": [
     215
    ]
   },
-  "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:2/precinct:23b": {
-   "name": "East Baton Rouge - Ward 02 Pct 023B"
+  "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:2/precinct:23a": {
+   "name": "East Baton Rouge - Ward 02 Pct 023A"
   },
   "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:1/precinct:37b": {
    "name": "East Baton Rouge - Ward 01 Pct 037B"
   },
-  "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:2/precinct:23a": {
-   "name": "East Baton Rouge - Ward 02 Pct 023A"
+  "ocd-division/country:us/state:la/place:gueydan": {
+   "name": "Gueydan town"
   },
   "ocd-division/country:us/state:la/parish:de_soto/council_district:1c": {
    "name": "Desoto Parish District 1C",
    "officeIndices": [
     216
    ]
-  },
-  "ocd-division/country:us/state:la/place:gueydan": {
-   "name": "Gueydan town"
   },
   "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:1/precinct:37a": {
    "name": "East Baton Rouge - Ward 01 Pct 037A"
@@ -1260,11 +1260,11 @@
   "ocd-division/country:us/state:la/parish:st_helena/ward:6/precinct:2": {
    "name": "St Helena - Ward 06 Pct 02"
   },
-  "ocd-division/country:us/state:la/parish:morehouse/precinct:9": {
-   "name": "Morehouse - 09"
-  },
   "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:2/precinct:19": {
    "name": "East Baton Rouge - Ward 02 Pct 019"
+  },
+  "ocd-division/country:us/state:la/parish:morehouse/precinct:9": {
+   "name": "Morehouse - 09"
   },
   "ocd-division/country:us/state:la/parish:morehouse/precinct:8": {
    "name": "Morehouse - 08"
@@ -1320,11 +1320,11 @@
   "ocd-division/country:us/state:la/parish:orleans/ward:11/precinct:2": {
    "name": "Orleans - Ward 11 Pct 02"
   },
-  "ocd-division/country:us/state:la/parish:orleans/ward:11/precinct:9": {
-   "name": "Orleans - Ward 11 Pct 09"
-  },
   "ocd-division/country:us/state:la/place:alexandria": {
    "name": "Alexandria city"
+  },
+  "ocd-division/country:us/state:la/parish:orleans/ward:11/precinct:9": {
+   "name": "Orleans - Ward 11 Pct 09"
   },
   "ocd-division/country:us/state:la/parish:orleans/ward:11/precinct:8": {
    "name": "Orleans - Ward 11 Pct 08"
@@ -2454,11 +2454,11 @@
   "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:3/precinct:29a": {
    "name": "East Baton Rouge - Ward 03 Pct 029A"
   },
-  "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:3/precinct:29b": {
-   "name": "East Baton Rouge - Ward 03 Pct 029B"
-  },
   "ocd-division/country:us/state:la/parish:st_tammany/precinct:s23": {
    "name": "St Tammany - S23"
+  },
+  "ocd-division/country:us/state:la/parish:east_baton_rouge/ward:3/precinct:29b": {
+   "name": "East Baton Rouge - Ward 03 Pct 029B"
   },
   "ocd-division/country:us/state:la/parish:st_tammany/precinct:s22": {
    "name": "St Tammany - S22"
@@ -2472,41 +2472,41 @@
   "ocd-division/country:us/state:la/parish:st_tammany/precinct:s25": {
    "name": "St Tammany - S25"
   },
-  "ocd-division/country:us/state:la/parish:iberia/council_district:10": {
-   "name": "Iberia Parish District 10"
-  },
   "ocd-division/country:us/state:la/parish:ascension/precinct:35": {
    "name": "Ascension - 35"
   },
-  "ocd-division/country:us/state:la/parish:iberia/council_district:11": {
-   "name": "Iberia Parish District 11"
-  },
-  "ocd-division/country:us/state:la/parish:ascension/precinct:36": {
-   "name": "Ascension - 36"
+  "ocd-division/country:us/state:la/parish:iberia/council_district:10": {
+   "name": "Iberia Parish District 10"
   },
   "ocd-division/country:us/state:la/parish:calcasieu/school_district:calcasieu_parish": {
    "name": "calcasieu parish"
   },
-  "ocd-division/country:us/state:la/parish:iberia/council_district:12": {
-   "name": "Iberia Parish District 12"
+  "ocd-division/country:us/state:la/parish:ascension/precinct:36": {
+   "name": "Ascension - 36"
+  },
+  "ocd-division/country:us/state:la/parish:iberia/council_district:11": {
+   "name": "Iberia Parish District 11"
   },
   "ocd-division/country:us/state:la/parish:ascension/precinct:33": {
    "name": "Ascension - 33"
   },
-  "ocd-division/country:us/state:la/parish:iberia/council_district:13": {
-   "name": "Iberia Parish District 13"
+  "ocd-division/country:us/state:la/parish:iberia/council_district:12": {
+   "name": "Iberia Parish District 12"
   },
   "ocd-division/country:us/state:la/parish:ascension/precinct:34": {
    "name": "Ascension - 34"
   },
-  "ocd-division/country:us/state:la/parish:lincoln/ward:7/precinct:4": {
-   "name": "Lincoln - Ward 07 Pct 04"
+  "ocd-division/country:us/state:la/parish:iberia/council_district:13": {
+   "name": "Iberia Parish District 13"
+  },
+  "ocd-division/country:us/state:la/parish:ascension/precinct:39": {
+   "name": "Ascension - 39"
   },
   "ocd-division/country:us/state:la/parish:iberia/council_district:14": {
    "name": "Iberia Parish District 14"
   },
-  "ocd-division/country:us/state:la/parish:ascension/precinct:39": {
-   "name": "Ascension - 39"
+  "ocd-division/country:us/state:la/parish:lincoln/ward:7/precinct:4": {
+   "name": "Lincoln - Ward 07 Pct 04"
   },
   "ocd-division/country:us/state:la/parish:lincoln/ward:7/precinct:5": {
    "name": "Lincoln - Ward 07 Pct 05"
@@ -2526,29 +2526,29 @@
   "ocd-division/country:us/state:la/parish:caldwell/ward:7/precinct:3": {
    "name": "Caldwell - Ward 07 Pct 03"
   },
-  "ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:4a1": {
-   "name": "Bossier - Ward 04 Pct 04A1"
-  },
   "ocd-division/country:us/state:la/parish:ascension/precinct:32": {
    "name": "Ascension - 32"
+  },
+  "ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:4a1": {
+   "name": "Bossier - Ward 04 Pct 04A1"
   },
   "ocd-division/country:us/state:la/parish:ascension/precinct:31": {
    "name": "Ascension - 31"
   },
-  "ocd-division/country:us/state:la/parish:ascension/precinct:30": {
-   "name": "Ascension - 30"
-  },
   "ocd-division/country:us/state:la/parish:concordia/precinct:4-4a": {
    "name": "Concordia - 4-4A"
+  },
+  "ocd-division/country:us/state:la/parish:ascension/precinct:30": {
+   "name": "Ascension - 30"
   },
   "ocd-division/country:us/state:la/parish:ascension/precinct:1b": {
    "name": "Ascension - 01B"
   },
-  "ocd-division/country:us/state:la/parish:ascension/precinct:1a": {
-   "name": "Ascension - 01A"
-  },
   "ocd-division/country:us/state:la/parish:ascension/school_district:ascension_parish": {
    "name": "ascension parish"
+  },
+  "ocd-division/country:us/state:la/parish:ascension/precinct:1a": {
+   "name": "Ascension - 01A"
   },
   "ocd-division/country:us/state:la/parish:lincoln": {
    "name": "Lincoln Parish",
@@ -2565,11 +2565,11 @@
   "ocd-division/country:us/state:la/parish:ascension/precinct:73": {
    "name": "Ascension - 73"
   },
-  "ocd-division/country:us/state:la/parish:ascension/precinct:74": {
-   "name": "Ascension - 74"
-  },
   "ocd-division/country:us/state:la/parish:richland/precinct:10": {
    "name": "Richland - 10"
+  },
+  "ocd-division/country:us/state:la/parish:ascension/precinct:74": {
+   "name": "Ascension - 74"
   },
   "ocd-division/country:us/state:la/parish:ascension/precinct:75": {
    "name": "Ascension - 75"
@@ -2907,6 +2907,9 @@
   "ocd-division/country:us/state:la/parish:rapides/precinct:n28": {
    "name": "Rapides - N28"
   },
+  "ocd-division/country:us/state:la/parish:rapides/precinct:n29": {
+   "name": "Rapides - N29"
+  },
   "ocd-division/country:us/state:la/parish:orleans": {
    "name": "Orleans Parish",
    "alsoKnownAs": [
@@ -2919,9 +2922,6 @@
     267,
     268
    ]
-  },
-  "ocd-division/country:us/state:la/parish:rapides/precinct:n29": {
-   "name": "Rapides - N29"
   },
   "ocd-division/country:us/state:la/parish:rapides/precinct:n23": {
    "name": "Rapides - N23"
@@ -5088,11 +5088,11 @@
   "ocd-division/country:us/state:la/parish:jefferson/precinct:227": {
    "name": "Jefferson - 227"
   },
-  "ocd-division/country:us/state:la/parish:jefferson/precinct:229": {
-   "name": "Jefferson - 229"
-  },
   "ocd-division/country:us/state:la/parish:avoyelles/school_district:avoyelles_parish": {
    "name": "avoyelles parish"
+  },
+  "ocd-division/country:us/state:la/parish:jefferson/precinct:229": {
+   "name": "Jefferson - 229"
   },
   "ocd-division/country:us/state:la/parish:calcasieu/precinct:441": {
    "name": "Calcasieu - 441"
@@ -5100,11 +5100,11 @@
   "ocd-division/country:us/state:la/parish:iberville/precinct:15b": {
    "name": "Iberville - 15B"
   },
-  "ocd-division/country:us/state:la/parish:iberville/precinct:15a": {
-   "name": "Iberville - 15A"
-  },
   "ocd-division/country:us/state:la/parish:calcasieu/precinct:440": {
    "name": "Calcasieu - 440"
+  },
+  "ocd-division/country:us/state:la/parish:iberville/precinct:15a": {
+   "name": "Iberville - 15A"
   },
   "ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:2": {
    "name": "St Landry - Ward 01 Pct 02"
@@ -5112,17 +5112,17 @@
   "ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:1": {
    "name": "St Landry - Ward 01 Pct 01"
   },
-  "ocd-division/country:us/state:la/parish:lafayette/precinct:29z": {
-   "name": "Lafayette - 029Z"
-  },
   "ocd-division/country:us/state:la/parish:winn/ward:3/precinct:1c": {
    "name": "Winn - Ward 03 Pct 01C"
   },
-  "ocd-division/country:us/state:la/parish:lafayette/precinct:29y": {
-   "name": "Lafayette - 029Y"
+  "ocd-division/country:us/state:la/parish:lafayette/precinct:29z": {
+   "name": "Lafayette - 029Z"
   },
   "ocd-division/country:us/state:la/parish:winn/ward:3/precinct:1b": {
    "name": "Winn - Ward 03 Pct 01B"
+  },
+  "ocd-division/country:us/state:la/parish:lafayette/precinct:29y": {
+   "name": "Lafayette - 029Y"
   },
   "ocd-division/country:us/state:la/parish:winn/ward:3/precinct:1a": {
    "name": "Winn - Ward 03 Pct 01A"
@@ -5136,17 +5136,17 @@
   "ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:7": {
    "name": "St Landry - Ward 01 Pct 07"
   },
-  "ocd-division/country:us/state:la/parish:richland/precinct:34b": {
-   "name": "Richland - 34B"
-  },
   "ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:6": {
    "name": "St Landry - Ward 01 Pct 06"
   },
-  "ocd-division/country:us/state:la/parish:richland/precinct:34a": {
-   "name": "Richland - 34A"
+  "ocd-division/country:us/state:la/parish:richland/precinct:34b": {
+   "name": "Richland - 34B"
   },
   "ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:5": {
    "name": "St Landry - Ward 01 Pct 05"
+  },
+  "ocd-division/country:us/state:la/parish:richland/precinct:34a": {
+   "name": "Richland - 34A"
   },
   "ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:4": {
    "name": "St Landry - Ward 01 Pct 04"
@@ -5157,8 +5157,8 @@
   "ocd-division/country:us/state:la/parish:jefferson/precinct:215": {
    "name": "Jefferson - 215"
   },
-  "ocd-division/country:us/state:la/parish:iberia/ward:9/precinct:5": {
-   "name": "Iberia - Ward 09 Pct 05"
+  "ocd-division/country:us/state:la/parish:sabine/precinct:5-8": {
+   "name": "Sabine - 05-8"
   },
   "ocd-division/country:us/state:la/parish:acadia": {
    "name": "Acadia Parish",
@@ -5169,20 +5169,20 @@
     379
    ]
   },
-  "ocd-division/country:us/state:la/parish:sabine/precinct:5-8": {
-   "name": "Sabine - 05-8"
-  },
-  "ocd-division/country:us/state:la/parish:jefferson/precinct:217": {
-   "name": "Jefferson - 217"
+  "ocd-division/country:us/state:la/parish:iberia/ward:9/precinct:5": {
+   "name": "Iberia - Ward 09 Pct 05"
   },
   "ocd-division/country:us/state:la/parish:sabine/precinct:5-5": {
    "name": "Sabine - 05-5"
   },
-  "ocd-division/country:us/state:la/parish:iberia/ward:9/precinct:2": {
-   "name": "Iberia - Ward 09 Pct 02"
+  "ocd-division/country:us/state:la/parish:jefferson/precinct:217": {
+   "name": "Jefferson - 217"
   },
   "ocd-division/country:us/state:la/parish:sabine/precinct:5-3": {
    "name": "Sabine - 05-3"
+  },
+  "ocd-division/country:us/state:la/parish:iberia/ward:9/precinct:2": {
+   "name": "Iberia - Ward 09 Pct 02"
   },
   "ocd-division/country:us/state:la/parish:iberia/ward:9/precinct:1": {
    "name": "Iberia - Ward 09 Pct 01"
@@ -5193,11 +5193,11 @@
   "ocd-division/country:us/state:la/parish:iberia/ward:9/precinct:3": {
    "name": "Iberia - Ward 09 Pct 03"
   },
-  "ocd-division/country:us/state:la/parish:orleans/school_district:rsd-algiers_charter_schools_association_acsa": {
-   "name": "rsd-algiers charter schools association (acsa)"
-  },
   "ocd-division/country:us/state:la/parish:jefferson/precinct:211": {
    "name": "Jefferson - 211"
+  },
+  "ocd-division/country:us/state:la/parish:orleans/school_district:rsd-algiers_charter_schools_association_acsa": {
+   "name": "rsd-algiers charter schools association (acsa)"
   },
   "ocd-division/country:us/state:la/parish:jefferson/precinct:210": {
    "name": "Jefferson - 210"
@@ -5605,11 +5605,11 @@
   "ocd-division/country:us/state:la/parish:jefferson_davis/school_district:jefferson_davis_parish": {
    "name": "jefferson davis parish"
   },
-  "ocd-division/country:us/state:la/parish:orleans/ward:9": {
-   "name": "New Orleans LA City-Parish Ward 9"
-  },
   "ocd-division/country:us/state:la/parish:vernon/school_district:vernon_parish": {
    "name": "vernon parish"
+  },
+  "ocd-division/country:us/state:la/parish:orleans/ward:9": {
+   "name": "New Orleans LA City-Parish Ward 9"
   },
   "ocd-division/country:us/state:la/parish:orleans/ward:6": {
    "name": "New Orleans LA City-Parish Ward 6"
@@ -7847,19 +7847,19 @@
   "ocd-division/country:us/state:la/parish:de_soto/precinct:21": {
    "name": "De Soto - 21"
   },
-  "ocd-division/country:us/state:la/parish:st_tammany": {
-   "name": "St. Tammany Parish",
-   "officeIndices": [
-    472,
-    473,
-    474,
-    475,
-    476
-   ]
-  },
   "ocd-division/country:us/state:la/parish:washington/council_district:6": {
    "name": "Washington Parish District 6",
    "officeIndices": [
+    472
+   ]
+  },
+  "ocd-division/country:us/state:la/parish:st_tammany": {
+   "name": "St. Tammany Parish",
+   "officeIndices": [
+    473,
+    474,
+    475,
+    476,
     477
    ]
   },
@@ -10472,17 +10472,17 @@
   "ocd-division/country:us/state:la/parish:evangeline/ward:3/precinct:3031": {
    "name": "Evangeline - Ward 03 Pct 3031"
   },
-  "ocd-division/country:us/state:la/parish:jefferson_davis/precinct:4b": {
-   "name": "Jefferson Davis - 04B"
-  },
   "ocd-division/country:us/state:la/place:columbia": {
    "name": "Columbia town"
   },
-  "ocd-division/country:us/state:la/parish:jefferson_davis/precinct:4a": {
-   "name": "Jefferson Davis - 04A"
+  "ocd-division/country:us/state:la/parish:jefferson_davis/precinct:4b": {
+   "name": "Jefferson Davis - 04B"
   },
   "ocd-division/country:us/state:la/parish:avoyelles/ward:10/precinct:3a": {
    "name": "Avoyelles - Ward 10 Pct 03A"
+  },
+  "ocd-division/country:us/state:la/parish:jefferson_davis/precinct:4a": {
+   "name": "Jefferson Davis - 04A"
   },
   "ocd-division/country:us/state:la/parish:vernon/ward:2/precinct:1a": {
    "name": "Vernon - Ward 02 Pct 01A"
@@ -10539,14 +10539,14 @@
   "ocd-division/country:us/state:la/parish:st_tammany/precinct:201": {
    "name": "St Tammany - 201"
   },
-  "ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1101": {
-   "name": "Evangeline - Ward 01 Pct 1101"
+  "ocd-division/country:us/state:la/parish:tangipahoa/precinct:129a": {
+   "name": "Tangipahoa - 129A"
   },
   "ocd-division/country:us/state:la/parish:st_tammany/precinct:202": {
    "name": "St Tammany - 202"
   },
-  "ocd-division/country:us/state:la/parish:tangipahoa/precinct:129a": {
-   "name": "Tangipahoa - 129A"
+  "ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1101": {
+   "name": "Evangeline - Ward 01 Pct 1101"
   },
   "ocd-division/country:us/state:la/parish:st_tammany/precinct:203": {
    "name": "St Tammany - 203"
@@ -14175,17 +14175,17 @@
   "ocd-division/country:us/state:la/parish:east_carroll/precinct:5b": {
    "name": "East Carroll - 05B"
   },
-  "ocd-division/country:us/state:la/cd:1": {
-   "name": "Louisiana's 1st congressional district",
-   "officeIndices": [
-    1
-   ]
-  },
   "ocd-division/country:us/state:la/parish:calcasieu/precinct:319s": {
    "name": "Calcasieu - 319S"
   },
   "ocd-division/country:us/state:la/parish:avoyelles/ward:2/precinct:4c": {
    "name": "Avoyelles - Ward 02 Pct 04C"
+  },
+  "ocd-division/country:us/state:la/cd:1": {
+   "name": "Louisiana's 1st congressional district",
+   "officeIndices": [
+    1
+   ]
   },
   "ocd-division/country:us/state:la/cd:2": {
    "name": "Louisiana's 2nd congressional district",
@@ -14193,17 +14193,20 @@
     2
    ]
   },
+  "ocd-division/country:us/state:la/parish:avoyelles/ward:2/precinct:4a": {
+   "name": "Avoyelles - Ward 02 Pct 04A"
+  },
   "ocd-division/country:us/state:la/cd:3": {
    "name": "Louisiana's 3rd congressional district",
    "officeIndices": [
     3
    ]
   },
-  "ocd-division/country:us/state:la/parish:avoyelles/ward:2/precinct:4a": {
-   "name": "Avoyelles - Ward 02 Pct 04A"
-  },
   "ocd-division/country:us/state:la/parish:allen/ward:2/precinct:6": {
    "name": "Allen - Ward 02 Pct 06"
+  },
+  "ocd-division/country:us/state:la/parish:concordia/precinct:5-2b": {
+   "name": "Concordia - 5-2B"
   },
   "ocd-division/country:us/state:la/cd:4": {
    "name": "Louisiana's 4th congressional district",
@@ -14211,20 +14214,17 @@
     4
    ]
   },
-  "ocd-division/country:us/state:la/parish:concordia/precinct:5-2b": {
-   "name": "Concordia - 5-2B"
-  },
   "ocd-division/country:us/state:la/parish:allen/ward:2/precinct:5": {
    "name": "Allen - Ward 02 Pct 05"
+  },
+  "ocd-division/country:us/state:la/parish:concordia/precinct:5-2a": {
+   "name": "Concordia - 5-2A"
   },
   "ocd-division/country:us/state:la/cd:5": {
    "name": "Louisiana's 5th congressional district",
    "officeIndices": [
     5
    ]
-  },
-  "ocd-division/country:us/state:la/parish:concordia/precinct:5-2a": {
-   "name": "Concordia - 5-2A"
   },
   "ocd-division/country:us/state:la/cd:6": {
    "name": "Louisiana's 6th congressional district",
@@ -14343,6 +14343,9 @@
   "ocd-division/country:us/state:la/parish:avoyelles/ward:2/precinct:3a": {
    "name": "Avoyelles - Ward 02 Pct 03A"
   },
+  "ocd-division/country:us/state:la/place:baton_rouge/council_district:6": {
+   "name": "Baton Rouge LA city council district 6"
+  },
   "ocd-division/country:us/state:la/parish:ouachita": {
    "name": "Ouachita Parish",
    "officeIndices": [
@@ -14351,9 +14354,6 @@
     813,
     814
    ]
-  },
-  "ocd-division/country:us/state:la/place:baton_rouge/council_district:6": {
-   "name": "Baton Rouge LA city council district 6"
   },
   "ocd-division/country:us/state:la/parish:avoyelles/ward:8/precinct:1": {
    "name": "Avoyelles - Ward 08 Pct 01"
@@ -19172,11 +19172,11 @@
   "ocd-division/country:us/state:la/parish:orleans/ward:14": {
    "name": "New Orleans LA City-Parish Ward 14"
   },
-  "ocd-division/country:us/state:la/parish:orleans/ward:13": {
-   "name": "New Orleans LA City-Parish Ward 13"
-  },
   "ocd-division/country:us/state:la/parish:livingston/precinct:8b": {
    "name": "Livingston - 08B"
+  },
+  "ocd-division/country:us/state:la/parish:orleans/ward:13": {
+   "name": "New Orleans LA City-Parish Ward 13"
   },
   "ocd-division/country:us/state:la/parish:tangipahoa/precinct:49": {
    "name": "Tangipahoa - 049"
@@ -21956,15 +21956,15 @@
    ]
   },
   {
-   "name": "Police Jury",
-   "divisionId": "ocd-division/country:us/state:la/parish:calcasieu/council_district:9",
+   "name": "Parish Council",
+   "divisionId": "ocd-division/country:us/state:la/parish:st_martin/ward:4",
    "officialIndices": [
     178
    ]
   },
   {
-   "name": "Parish Council",
-   "divisionId": "ocd-division/country:us/state:la/parish:st_martin/ward:4",
+   "name": "Police Jury",
+   "divisionId": "ocd-division/country:us/state:la/parish:calcasieu/council_district:9",
    "officialIndices": [
     179
    ]
@@ -21984,29 +21984,29 @@
    ]
   },
   {
-   "name": "Police Jury",
-   "divisionId": "ocd-division/country:us/state:la/parish:calcasieu/council_district:6",
+   "name": "Parish Council",
+   "divisionId": "ocd-division/country:us/state:la/parish:st_martin/ward:9",
    "officialIndices": [
     182
    ]
   },
   {
-   "name": "Parish Council",
-   "divisionId": "ocd-division/country:us/state:la/parish:st_martin/ward:9",
+   "name": "Police Jury",
+   "divisionId": "ocd-division/country:us/state:la/parish:calcasieu/council_district:6",
    "officialIndices": [
     183
    ]
   },
   {
-   "name": "Police Jury",
-   "divisionId": "ocd-division/country:us/state:la/parish:calcasieu/council_district:5",
+   "name": "Parish Council",
+   "divisionId": "ocd-division/country:us/state:la/parish:st_martin/ward:8",
    "officialIndices": [
     184
    ]
   },
   {
-   "name": "Parish Council",
-   "divisionId": "ocd-division/country:us/state:la/parish:st_martin/ward:8",
+   "name": "Police Jury",
+   "divisionId": "ocd-division/country:us/state:la/parish:calcasieu/council_district:5",
    "officialIndices": [
     185
    ]
@@ -24031,43 +24031,43 @@
    ]
   },
   {
-   "name": "Coroner",
-   "divisionId": "ocd-division/country:us/state:la/parish:st_tammany",
+   "name": "Parish Council",
+   "divisionId": "ocd-division/country:us/state:la/parish:washington/council_district:6",
    "officialIndices": [
     477
    ]
   },
   {
-   "name": "Sheriff",
+   "name": "Coroner",
    "divisionId": "ocd-division/country:us/state:la/parish:st_tammany",
    "officialIndices": [
     478
    ]
   },
   {
-   "name": "Assessor",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:la/parish:st_tammany",
    "officialIndices": [
     479
    ]
   },
   {
-   "name": "Clerk of Court",
+   "name": "Assessor",
    "divisionId": "ocd-division/country:us/state:la/parish:st_tammany",
    "officialIndices": [
     480
    ]
   },
   {
-   "name": "Parish President",
+   "name": "Clerk of Court",
    "divisionId": "ocd-division/country:us/state:la/parish:st_tammany",
    "officialIndices": [
     481
    ]
   },
   {
-   "name": "Parish Council",
-   "divisionId": "ocd-division/country:us/state:la/parish:washington/council_district:6",
+   "name": "Parish President",
+   "divisionId": "ocd-division/country:us/state:la/parish:st_tammany",
    "officialIndices": [
     482
    ]
@@ -33671,6 +33671,21 @@
    ]
   },
   {
+   "name": "'Neil' Thibodeaux",
+   "address": [
+    {
+     "line1": "4787 bridge street hwy.",
+     "city": "saint martinville",
+     "state": "LA",
+     "zip": "70582"
+    }
+   ],
+   "party": "Independent",
+   "phones": [
+    "(337) 845-5555"
+   ]
+  },
+  {
    "name": "Kevin Guidry",
    "address": [
     {
@@ -33689,21 +33704,6 @@
    ],
    "emails": [
     "administration@cppj.net"
-   ]
-  },
-  {
-   "name": "'Neil' Thibodeaux",
-   "address": [
-    {
-     "line1": "4787 bridge street hwy.",
-     "city": "saint martinville",
-     "state": "LA",
-     "zip": "70582"
-    }
-   ],
-   "party": "Independent",
-   "phones": [
-    "(337) 845-5555"
    ]
   },
   {
@@ -33749,6 +33749,21 @@
    ]
   },
   {
+   "name": "Dean Dore'",
+   "address": [
+    {
+     "line1": "1075 oleste tauzin rd.",
+     "city": "breaux bridge",
+     "state": "LA",
+     "zip": "70517"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(337) 332-1850"
+   ]
+  },
+  {
    "name": "Dennis Ray Scott",
    "address": [
     {
@@ -33770,10 +33785,10 @@
    ]
   },
   {
-   "name": "Dean Dore'",
+   "name": "Mickey 'Meko' Robin",
    "address": [
     {
-     "line1": "1075 oleste tauzin rd.",
+     "line1": "1781 grand anse hwy.",
      "city": "breaux bridge",
      "state": "LA",
      "zip": "70517"
@@ -33781,7 +33796,7 @@
    ],
    "party": "Democratic",
    "phones": [
-    "(337) 332-1850"
+    "(337) 667-6775"
    ]
   },
   {
@@ -33803,21 +33818,6 @@
    ],
    "emails": [
     "administration@cppj.net"
-   ]
-  },
-  {
-   "name": "Mickey 'Meko' Robin",
-   "address": [
-    {
-     "line1": "1781 grand anse hwy.",
-     "city": "breaux bridge",
-     "state": "LA",
-     "zip": "70517"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(337) 667-6775"
    ]
   },
   {
@@ -39265,6 +39265,24 @@
    ]
   },
   {
+   "name": "'Greg' Route",
+   "address": [
+    {
+     "line1": "1828 desmare st.",
+     "city": "franklinton",
+     "state": "LA",
+     "zip": "70438"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(985) 839-4754"
+   ],
+   "urls": [
+    "http://www.washingtonparishalerts.org/Greg_Route__Sr__Chairman.html"
+   ]
+  },
+  {
    "name": "Peter Randall Galvan",
    "address": [
     {
@@ -39349,24 +39367,6 @@
    "party": "Republican",
    "phones": [
     "(985) 845-1752"
-   ]
-  },
-  {
-   "name": "'Greg' Route",
-   "address": [
-    {
-     "line1": "1828 desmare st.",
-     "city": "franklinton",
-     "state": "LA",
-     "zip": "70438"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(985) 839-4754"
-   ],
-   "urls": [
-    "http://www.washingtonparishalerts.org/Greg_Route__Sr__Chairman.html"
    ]
   },
   {

@@ -15,11 +15,11 @@
   "ocd-division/country:us/state:ct/place:stamford/precinct:13": {
    "name": "Stamford CT precinct 13"
   },
-  "ocd-division/country:us/state:ct/place:simsbury": {
-   "name": "Simsbury town"
-  },
   "ocd-division/country:us/state:ct/place:stamford/precinct:12": {
    "name": "Stamford CT precinct 12"
+  },
+  "ocd-division/country:us/state:ct/place:simsbury": {
+   "name": "Simsbury town"
   },
   "ocd-division/country:us/state:ct/place:chester": {
    "name": "Chester town"
@@ -150,11 +150,11 @@
   "ocd-division/country:us/state:ct/place:new_britain/ward:4/precinct:11": {
    "name": "New Britain CT precinct 11"
   },
-  "ocd-division/country:us/state:ct/place:new_britain/ward:4": {
-   "name": "New Britain CT ward 4"
-  },
   "ocd-division/country:us/state:ct/county:new_haven/school_district:derby_school_district": {
    "name": "derby school district"
+  },
+  "ocd-division/country:us/state:ct/place:new_britain/ward:4": {
+   "name": "New Britain CT ward 4"
   },
   "ocd-division/country:us/state:ct/place:newtown_borough": {
    "name": "Newtown borough"
@@ -195,23 +195,23 @@
   "ocd-division/country:us/state:ct/place:southington/precinct:1": {
    "name": "Southington 1 Voting District"
   },
-  "ocd-division/country:us/state:ct/place:greenwich/precinct:9": {
-   "name": "Greenwich CT precinct 9"
-  },
   "ocd-division/country:us/state:ct/place:southington/precinct:2": {
    "name": "Southington 2 Voting District"
   },
-  "ocd-division/country:us/state:ct/place:greenwich/precinct:8": {
-   "name": "Greenwich CT precinct 8"
+  "ocd-division/country:us/state:ct/place:greenwich/precinct:9": {
+   "name": "Greenwich CT precinct 9"
   },
   "ocd-division/country:us/state:ct/place:watertown/precinct:68-02": {
    "name": "Watertown 68-02 Voting District"
   },
-  "ocd-division/country:us/state:ct/place:greenwich/precinct:7": {
-   "name": "Greenwich CT precinct 7"
+  "ocd-division/country:us/state:ct/place:greenwich/precinct:8": {
+   "name": "Greenwich CT precinct 8"
   },
   "ocd-division/country:us/state:ct/place:watertown/precinct:68-01": {
    "name": "Watertown 68-01 Voting District"
+  },
+  "ocd-division/country:us/state:ct/place:greenwich/precinct:7": {
+   "name": "Greenwich CT precinct 7"
   },
   "ocd-division/country:us/state:ct/place:redding/precinct:1": {
    "name": "Redding 1 Voting District"
@@ -225,35 +225,35 @@
   "ocd-division/country:us/state:ct/place:greenwich/precinct:2": {
    "name": "Greenwich CT precinct 2"
   },
-  "ocd-division/country:us/state:ct/place:greenwich/precinct:1": {
-   "name": "Greenwich CT precinct 1"
-  },
   "ocd-division/country:us/state:ct/county:hartford/school_district:hartford_school_district": {
    "name": "hartford school district"
   },
-  "ocd-division/country:us/state:ct/place:bristol/precinct:79-1": {
-   "name": "Bristol CT precinct 79-1"
+  "ocd-division/country:us/state:ct/place:greenwich/precinct:1": {
+   "name": "Greenwich CT precinct 1"
   },
   "ocd-division/country:us/state:ct/place:norwich/precinct:2b": {
    "name": "Norwich 2B Voting District"
   },
-  "ocd-division/country:us/state:ct/place:bristol/precinct:79-2": {
-   "name": "Bristol CT precinct 79-2"
+  "ocd-division/country:us/state:ct/place:bristol/precinct:79-1": {
+   "name": "Bristol CT precinct 79-1"
   },
   "ocd-division/country:us/state:ct/place:norwich/precinct:2a": {
    "name": "Norwich 2A Voting District"
   },
-  "ocd-division/country:us/state:ct/place:greenwich/precinct:6": {
-   "name": "Greenwich CT precinct 6"
+  "ocd-division/country:us/state:ct/place:bristol/precinct:79-2": {
+   "name": "Bristol CT precinct 79-2"
   },
   "ocd-division/country:us/state:ct/place:bristol/precinct:79-3": {
    "name": "Bristol CT precinct 79-3"
   },
-  "ocd-division/country:us/state:ct/place:greenwich/precinct:5": {
-   "name": "Greenwich CT precinct 5"
+  "ocd-division/country:us/state:ct/place:greenwich/precinct:6": {
+   "name": "Greenwich CT precinct 6"
   },
   "ocd-division/country:us/state:ct/county:new_london/school_district:new_london_school_district": {
    "name": "new london school district"
+  },
+  "ocd-division/country:us/state:ct/place:greenwich/precinct:5": {
+   "name": "Greenwich CT precinct 5"
   },
   "ocd-division/country:us/state:ct/place:greenwich/precinct:4": {
    "name": "Greenwich CT precinct 4"
@@ -261,29 +261,29 @@
   "ocd-division/country:us/state:ct/place:greenwich/precinct:3": {
    "name": "Greenwich CT precinct 3"
   },
-  "ocd-division/country:us/state:ct/place:new_london/precinct:2": {
-   "name": "New London 2 Voting District"
-  },
-  "ocd-division/country:us/state:ct/place:hamden/council_district:6": {
-   "name": "Hamden CT City Council District 6"
+  "ocd-division/country:us/state:ct/county:litchfield/school_district:regional_school_district_06": {
+   "name": "regional school district 06"
   },
   "ocd-division/country:us/state:ct/place:haddam/precinct:2": {
    "name": "Haddam 2 Voting District"
   },
-  "ocd-division/country:us/state:ct/county:litchfield/school_district:regional_school_district_06": {
-   "name": "regional school district 06"
+  "ocd-division/country:us/state:ct/place:hamden/council_district:6": {
+   "name": "Hamden CT City Council District 6"
   },
-  "ocd-division/country:us/state:ct/place:new_london/precinct:3": {
-   "name": "New London 3 Voting District"
-  },
-  "ocd-division/country:us/state:ct/place:haddam/precinct:3": {
-   "name": "Haddam 3 Voting District"
+  "ocd-division/country:us/state:ct/place:new_london/precinct:2": {
+   "name": "New London 2 Voting District"
   },
   "ocd-division/country:us/state:ct/county:new_london/school_district:norwich_free_academy": {
    "name": "norwich free academy"
   },
+  "ocd-division/country:us/state:ct/place:haddam/precinct:3": {
+   "name": "Haddam 3 Voting District"
+  },
   "ocd-division/country:us/state:ct/place:hamden/council_district:7": {
    "name": "Hamden CT City Council District 7"
+  },
+  "ocd-division/country:us/state:ct/place:new_london/precinct:3": {
+   "name": "New London 3 Voting District"
   },
   "ocd-division/country:us/state:ct/place:hamden/council_district:4": {
    "name": "Hamden CT City Council District 4"
@@ -381,23 +381,23 @@
   "ocd-division/country:us/state:ct/county:litchfield/school_district:thomaston_school_district": {
    "name": "thomaston school district"
   },
-  "ocd-division/country:us/state:ct/place:new_canaan": {
-   "name": "New Canaan town"
-  },
   "ocd-division/country:us/state:ct/place:enfield/precinct:2a-58": {
    "name": "Enfield 2A-58 Voting District"
   },
-  "ocd-division/country:us/state:ct/place:montville": {
-   "name": "Montville town"
+  "ocd-division/country:us/state:ct/place:new_canaan": {
+   "name": "New Canaan town"
   },
   "ocd-division/country:us/state:ct/county:litchfield/school_district:regional_school_district_14": {
    "name": "regional school district 14"
   },
-  "ocd-division/country:us/state:ct/county:middlesex/school_district:east_hampton_school_district": {
-   "name": "east hampton school district"
+  "ocd-division/country:us/state:ct/place:montville": {
+   "name": "Montville town"
   },
   "ocd-division/country:us/state:ct/county:litchfield/school_district:regional_school_district_12": {
    "name": "regional school district 12"
+  },
+  "ocd-division/country:us/state:ct/county:middlesex/school_district:east_hampton_school_district": {
+   "name": "east hampton school district"
   },
   "ocd-division/country:us/state:ct/county:middlesex/school_district:middletown_school_district": {
    "name": "middletown school district"
@@ -414,11 +414,11 @@
   "ocd-division/country:us/state:ct/place:plainfield/precinct:2": {
    "name": "Plainfield 2 Voting District"
   },
-  "ocd-division/country:us/state:ct/county:hartford/school_district:enfield_school_district": {
-   "name": "enfield school district"
-  },
   "ocd-division/country:us/state:ct/place:plainfield/precinct:3": {
    "name": "Plainfield 3 Voting District"
+  },
+  "ocd-division/country:us/state:ct/county:hartford/school_district:enfield_school_district": {
+   "name": "enfield school district"
   },
   "ocd-division/country:us/state:ct/place:plainfield/precinct:4": {
    "name": "Plainfield 4 Voting District"
@@ -429,14 +429,14 @@
   "ocd-division/country:us/state:ct/place:windham": {
    "name": "Windham town"
   },
-  "ocd-division/country:us/state:ct/county:tolland/school_district:union_school_district": {
-   "name": "union school district"
+  "ocd-division/country:us/state:ct/place:southbury": {
+   "name": "Southbury town"
   },
   "ocd-division/country:us/state:ct/county:hartford/school_district:east_granby_school_district": {
    "name": "east granby school district"
   },
-  "ocd-division/country:us/state:ct/place:southbury": {
-   "name": "Southbury town"
+  "ocd-division/country:us/state:ct/county:tolland/school_district:union_school_district": {
+   "name": "union school district"
   },
   "ocd-division/country:us/state:ct/place:east_hartford": {
    "name": "East Hartford town"
@@ -471,11 +471,11 @@
   "ocd-division/country:us/state:ct/place:southington/precinct:7": {
    "name": "Southington 7 Voting District"
   },
-  "ocd-division/country:us/state:ct/county:middlesex/school_district:portland_school_district": {
-   "name": "portland school district"
-  },
   "ocd-division/country:us/state:ct/place:southington/precinct:9": {
    "name": "Southington 9 Voting District"
+  },
+  "ocd-division/country:us/state:ct/county:middlesex/school_district:portland_school_district": {
+   "name": "portland school district"
   },
   "ocd-division/country:us/state:ct/place:vernon/precinct:3": {
    "name": "Vernon 3 Voting District"
@@ -489,14 +489,14 @@
   "ocd-division/country:us/state:ct/place:vernon/precinct:5": {
    "name": "Vernon 5 Voting District"
   },
-  "ocd-division/country:us/state:ct/place:norfolk": {
-   "name": "Norfolk town"
-  },
   "ocd-division/country:us/state:ct/place:vernon/precinct:6": {
    "name": "Vernon 6 Voting District"
   },
   "ocd-division/country:us/state:ct/county:windham": {
    "name": "Windham County"
+  },
+  "ocd-division/country:us/state:ct/place:norfolk": {
+   "name": "Norfolk town"
   },
   "ocd-division/country:us/state:ct/county:fairfield/school_district:trumbull_school_district": {
    "name": "trumbull school district"
@@ -510,11 +510,11 @@
   "ocd-division/country:us/state:ct/place:bridgeport/precinct:13005": {
    "name": "Bridgeport 13005 Voting District"
   },
-  "ocd-division/country:us/state:ct/county:fairfield/school_district:new_beginnings_inc": {
-   "name": "new beginnings inc"
-  },
   "ocd-division/country:us/state:ct/county:hartford/school_district:windsor_locks_school_district": {
    "name": "windsor locks school district"
+  },
+  "ocd-division/country:us/state:ct/county:fairfield/school_district:new_beginnings_inc": {
+   "name": "new beginnings inc"
   },
   "ocd-division/country:us/state:ct/place:bridgeport/precinct:13001": {
    "name": "Bridgeport 13001 Voting District"
@@ -543,17 +543,17 @@
   "ocd-division/country:us/state:ct/place:shelton/precinct:6": {
    "name": "Shelton 6 Voting District"
   },
-  "ocd-division/country:us/state:ct/place:haddam": {
-   "name": "Haddam town"
-  },
   "ocd-division/country:us/state:ct/place:shelton/precinct:4": {
    "name": "Shelton 4 Voting District"
   },
-  "ocd-division/country:us/state:ct/county:hartford/school_district:south_windsor_school_district": {
-   "name": "south windsor school district"
+  "ocd-division/country:us/state:ct/place:haddam": {
+   "name": "Haddam town"
   },
   "ocd-division/country:us/state:ct/place:shelton/precinct:5": {
    "name": "Shelton 5 Voting District"
+  },
+  "ocd-division/country:us/state:ct/county:hartford/school_district:south_windsor_school_district": {
+   "name": "south windsor school district"
   },
   "ocd-division/country:us/state:ct/place:wallingford/precinct:8": {
    "name": "Wallingford CT precinct 8"
@@ -570,11 +570,11 @@
   "ocd-division/country:us/state:ct/place:shelton/precinct:3": {
    "name": "Shelton 3 Voting District"
   },
-  "ocd-division/country:us/state:ct/county:fairfield/school_district:park_city_prep_charter_school": {
-   "name": "park city prep charter school"
-  },
   "ocd-division/country:us/state:ct/place:shelton/precinct:1": {
    "name": "Shelton 1 Voting District"
+  },
+  "ocd-division/country:us/state:ct/county:fairfield/school_district:park_city_prep_charter_school": {
+   "name": "park city prep charter school"
   },
   "ocd-division/country:us/state:ct/county:new_london/school_district:griswold_school_district": {
    "name": "griswold school district"
@@ -879,14 +879,14 @@
   "ocd-division/country:us/state:ct/county:new_london/school_district:voluntown_school_district": {
    "name": "voluntown school district"
   },
+  "ocd-division/country:us/state:ct/place:stonington_town/precinct:5": {
+   "name": "Stonington 5 Voting District"
+  },
   "ocd-division/country:us/state:ct/cd:4": {
    "name": "Connecticut's 4th congressional district",
    "officeIndices": [
     0
    ]
-  },
-  "ocd-division/country:us/state:ct/place:stonington_town/precinct:5": {
-   "name": "Stonington 5 Voting District"
   },
   "ocd-division/country:us/state:ct/cd:5": {
    "name": "Connecticut's 5th congressional district",
@@ -1011,23 +1011,23 @@
   "ocd-division/country:us/state:ct/place:new_haven/ward:6": {
    "name": "New Haven CT ward 6"
   },
-  "ocd-division/country:us/state:ct/place:new_haven/ward:7": {
-   "name": "New Haven CT ward 7"
-  },
   "ocd-division/country:us/state:ct/county:new_london/school_district:lebanon_school_district": {
    "name": "lebanon school district"
   },
-  "ocd-division/country:us/state:ct/place:new_haven/ward:8": {
-   "name": "New Haven CT ward 8"
+  "ocd-division/country:us/state:ct/place:new_haven/ward:7": {
+   "name": "New Haven CT ward 7"
   },
   "ocd-division/country:us/state:ct/county:litchfield/school_district:explorations_district": {
    "name": "explorations district"
   },
-  "ocd-division/country:us/state:ct/place:new_haven/ward:9": {
-   "name": "New Haven CT ward 9"
+  "ocd-division/country:us/state:ct/place:new_haven/ward:8": {
+   "name": "New Haven CT ward 8"
   },
   "ocd-division/country:us/state:ct/place:ansonia/precinct:104-1": {
    "name": "Ansonia 104-1 Voting District"
+  },
+  "ocd-division/country:us/state:ct/place:new_haven/ward:9": {
+   "name": "New Haven CT ward 9"
   },
   "ocd-division/country:us/state:ct/sldl:19": {
    "name": "Connecticut State House district 19",
@@ -1041,14 +1041,14 @@
     9
    ]
   },
-  "ocd-division/country:us/state:ct/place:new_britain/ward:5/precinct:12": {
-   "name": "New Britain CT precinct 12"
-  },
   "ocd-division/country:us/state:ct/sldl:15": {
    "name": "Connecticut State House district 15",
    "officeIndices": [
     10
    ]
+  },
+  "ocd-division/country:us/state:ct/place:new_britain/ward:5/precinct:12": {
+   "name": "New Britain CT precinct 12"
   },
   "ocd-division/country:us/state:ct/sldl:18": {
    "name": "Connecticut State House district 18",
@@ -1056,23 +1056,23 @@
     11
    ]
   },
-  "ocd-division/country:us/state:ct/place:new_britain/ward:5/precinct:14": {
-   "name": "New Britain CT precinct 14"
-  },
   "ocd-division/country:us/state:ct/sldl:17": {
    "name": "Connecticut State House district 17",
    "officeIndices": [
     12
    ]
   },
+  "ocd-division/country:us/state:ct/place:new_britain/ward:5/precinct:14": {
+   "name": "New Britain CT precinct 14"
+  },
   "ocd-division/country:us/state:ct/county:windham/school_district:sterling_school_district": {
    "name": "sterling school district"
   },
-  "ocd-division/country:us/state:ct/place:portland": {
-   "name": "Portland town"
-  },
   "ocd-division/country:us/state:ct/place:stratford": {
    "name": "Stratford town"
+  },
+  "ocd-division/country:us/state:ct/place:portland": {
+   "name": "Portland town"
   },
   "ocd-division/country:us/state:ct/county:fairfield/school_district:westport_school_district": {
    "name": "westport school district"
@@ -1092,14 +1092,14 @@
     14
    ]
   },
-  "ocd-division/country:us/state:ct/county:new_haven/school_district:area_cooperative_educational": {
-   "name": "area cooperative educational"
-  },
   "ocd-division/country:us/state:ct/sldl:13": {
    "name": "Connecticut State House district 13",
    "officeIndices": [
     15
    ]
+  },
+  "ocd-division/country:us/state:ct/county:new_haven/school_district:area_cooperative_educational": {
+   "name": "area cooperative educational"
   },
   "ocd-division/country:us/state:ct/sldl:14": {
    "name": "Connecticut State House district 14",
@@ -1122,14 +1122,14 @@
     18
    ]
   },
-  "ocd-division/country:us/state:ct/county:new_london/school_district:north_stonington_school_distr": {
-   "name": "north stonington school distr"
-  },
   "ocd-division/country:us/state:ct/sldl:28": {
    "name": "Connecticut State House district 28",
    "officeIndices": [
     19
    ]
+  },
+  "ocd-division/country:us/state:ct/county:new_london/school_district:north_stonington_school_distr": {
+   "name": "north stonington school distr"
   },
   "ocd-division/country:us/state:ct/sldl:27": {
    "name": "Connecticut State House district 27",
@@ -1161,11 +1161,11 @@
     198
    ]
   },
-  "ocd-division/country:us/state:ct/place:newtown_town/precinct:1": {
-   "name": "Newtown 1 Voting District"
-  },
   "ocd-division/country:us/state:ct/place:ellington": {
    "name": "Ellington town"
+  },
+  "ocd-division/country:us/state:ct/place:newtown_town/precinct:1": {
+   "name": "Newtown 1 Voting District"
   },
   "ocd-division/country:us/state:ct/county:new_haven/school_district:madison_school_district": {
    "name": "madison school district"
@@ -1203,14 +1203,14 @@
     27
    ]
   },
-  "ocd-division/country:us/state:ct/county:middlesex/school_district:essex_school_district": {
-   "name": "essex school district"
-  },
   "ocd-division/country:us/state:ct/sldl:22": {
    "name": "Connecticut State House district 22",
    "officeIndices": [
     28
    ]
+  },
+  "ocd-division/country:us/state:ct/county:middlesex/school_district:essex_school_district": {
+   "name": "essex school district"
   },
   "ocd-division/country:us/state:ct/sldl:23": {
    "name": "Connecticut State House district 23",
@@ -1218,17 +1218,17 @@
     29
    ]
   },
-  "ocd-division/country:us/state:ct/place:new_haven/ward:1": {
-   "name": "New Haven CT ward 1"
-  },
-  "ocd-division/country:us/state:ct/place:killingly/precinct:1-44": {
-   "name": "Killingly 1-44 Voting District"
-  },
   "ocd-division/country:us/state:ct/sldl:38": {
    "name": "Connecticut State House district 38",
    "officeIndices": [
     30
    ]
+  },
+  "ocd-division/country:us/state:ct/place:killingly/precinct:1-44": {
+   "name": "Killingly 1-44 Voting District"
+  },
+  "ocd-division/country:us/state:ct/place:new_haven/ward:1": {
+   "name": "New Haven CT ward 1"
   },
   "ocd-division/country:us/state:ct/sldl:37": {
    "name": "Connecticut State House district 37",
@@ -1392,14 +1392,14 @@
     46
    ]
   },
-  "ocd-division/country:us/state:ct/place:killingworth": {
-   "name": "Killingworth town"
-  },
   "ocd-division/country:us/state:ct/sldl:42": {
    "name": "Connecticut State House district 42",
    "officeIndices": [
     47
    ]
+  },
+  "ocd-division/country:us/state:ct/place:killingworth": {
+   "name": "Killingworth town"
   },
   "ocd-division/country:us/state:ct/sldl:41": {
    "name": "Connecticut State House district 41",
@@ -2139,14 +2139,14 @@
   "ocd-division/country:us/state:ct/place:new_milford": {
    "name": "New Milford town"
   },
-  "ocd-division/country:us/state:ct/sldl:1": {
-   "name": "Connecticut State House district 1",
+  "ocd-division/country:us/state:ct/sldl:110": {
+   "name": "Connecticut State House district 110",
    "officeIndices": [
     120
    ]
   },
-  "ocd-division/country:us/state:ct/sldl:110": {
-   "name": "Connecticut State House district 110",
+  "ocd-division/country:us/state:ct/sldl:1": {
+   "name": "Connecticut State House district 1",
    "officeIndices": [
     121
    ]
@@ -2754,11 +2754,11 @@
   "ocd-division/country:us/state:ct/county:new_haven/school_district:north_haven_school_district": {
    "name": "north haven school district"
   },
-  "ocd-division/country:us/state:ct/place:hamden": {
-   "name": "Hamden town"
-  },
   "ocd-division/country:us/state:ct/county:litchfield/school_district:cornwall_school_district": {
    "name": "cornwall school district"
+  },
+  "ocd-division/country:us/state:ct/place:hamden": {
+   "name": "Hamden town"
   },
   "ocd-division/country:us/state:ct/place:barkhamsted/precinct:1-63": {
    "name": "Barkhamsted 1-63 Voting District"
@@ -2820,17 +2820,14 @@
   "ocd-division/country:us/state:ct/place:east_lyme/precinct:1": {
    "name": "East Lyme 1 Voting District"
   },
-  "ocd-division/country:us/state:ct/place:beacon_falls": {
-   "name": "Beacon Falls town"
-  },
   "ocd-division/country:us/state:ct/sldu:29": {
    "name": "Connecticut State Senate district 29",
    "officeIndices": [
     185
    ]
   },
-  "ocd-division/country:us/state:ct/place:bridgeport/council_district:137/precinct:1": {
-   "name": "Bridgeport CT Precinct 137-1"
+  "ocd-division/country:us/state:ct/place:beacon_falls": {
+   "name": "Beacon Falls town"
   },
   "ocd-division/country:us/state:ct/sldu:28": {
    "name": "Connecticut State Senate district 28",
@@ -2838,8 +2835,8 @@
     186
    ]
   },
-  "ocd-division/country:us/state:ct/place:bridgeport/council_district:137/precinct:2": {
-   "name": "Bridgeport CT Precinct 137-2"
+  "ocd-division/country:us/state:ct/place:bridgeport/council_district:137/precinct:1": {
+   "name": "Bridgeport CT Precinct 137-1"
   },
   "ocd-division/country:us/state:ct/sldu:27": {
    "name": "Connecticut State Senate district 27",
@@ -2847,17 +2844,20 @@
     187
    ]
   },
+  "ocd-division/country:us/state:ct/place:bridgeport/council_district:137/precinct:2": {
+   "name": "Bridgeport CT Precinct 137-2"
+  },
   "ocd-division/country:us/state:ct/county:windham/school_district:scotland_school_district": {
    "name": "scotland school district"
   },
   "ocd-division/country:us/state:ct/place:new_britain/ward:5/precinct:4": {
    "name": "New Britain CT precinct 4"
   },
-  "ocd-division/country:us/state:ct/county:fairfield/school_district:side_by_side_community_school": {
-   "name": "side by side community school"
-  },
   "ocd-division/country:us/state:ct/place:bethel/precinct:2": {
    "name": "Bethel 2 Voting District"
+  },
+  "ocd-division/country:us/state:ct/county:fairfield/school_district:side_by_side_community_school": {
+   "name": "side by side community school"
   },
   "ocd-division/country:us/state:ct/place:bethel/precinct:1": {
    "name": "Bethel 1 Voting District"
@@ -3117,14 +3117,14 @@
   "ocd-division/country:us/state:ct/place:ridgefield/precinct:3": {
    "name": "Ridgefield 3 Voting District"
   },
-  "ocd-division/country:us/state:ct/place:enfield": {
-   "name": "Enfield town"
-  },
   "ocd-division/country:us/state:ct/place:ridgefield/precinct:2": {
    "name": "Ridgefield 2 Voting District"
   },
   "ocd-division/country:us/state:ct/county:new_haven/school_district:ansonia_school_district": {
    "name": "ansonia school district"
+  },
+  "ocd-division/country:us/state:ct/place:enfield": {
+   "name": "Enfield town"
   },
   "ocd-division/country:us/state:ct/place:voluntown": {
    "name": "Voluntown town"
@@ -3750,11 +3750,11 @@
   "ocd-division/country:us/state:ct/place:torrington/precinct:6": {
    "name": "Torrington 6 Voting District"
   },
-  "ocd-division/country:us/state:ct/place:norwalk": {
-   "name": "Norwalk city"
-  },
   "ocd-division/country:us/state:ct/place:torrington/precinct:5": {
    "name": "Torrington 5 Voting District"
+  },
+  "ocd-division/country:us/state:ct/place:norwalk": {
+   "name": "Norwalk city"
   },
   "ocd-division/country:us/state:ct/place:west_haven/precinct:1": {
    "name": "West Haven 1 Voting District"
@@ -6040,8 +6040,8 @@
    ]
   },
   {
-   "name": "CT State House District 1",
-   "divisionId": "ocd-division/country:us/state:ct/sldl:1",
+   "name": "CT State House District 110",
+   "divisionId": "ocd-division/country:us/state:ct/sldl:110",
    "levels": [
     "administrativeArea1"
    ],
@@ -6053,8 +6053,8 @@
    ]
   },
   {
-   "name": "CT State House District 110",
-   "divisionId": "ocd-division/country:us/state:ct/sldl:110",
+   "name": "CT State House District 1",
+   "divisionId": "ocd-division/country:us/state:ct/sldl:1",
    "levels": [
     "administrativeArea1"
    ],
@@ -11235,6 +11235,38 @@
    ]
   },
   {
+   "name": "Bob Godfrey",
+   "address": [
+    {
+     "line1": "Legislative Office Building",
+     "line2": "Room",
+     "line3": "4107 hartford ct",
+     "city": "",
+     "state": "",
+     "zip": "06106"
+    },
+    {
+     "line1": "Legislative Office Building",
+     "line2": "Room",
+     "line3": "4107 hartford ct",
+     "city": "",
+     "state": "",
+     "zip": "06106"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(860) 240-8500"
+   ],
+   "urls": [
+    "http://www.housedems.ct.gov/Godfrey"
+   ],
+   "photoUrl": "http://www.housedems.ct.gov/Godfrey/images/Godfrey_blank.jpg",
+   "emails": [
+    "Bob.Godfrey@cga.ct.gov"
+   ]
+  },
+  {
    "name": "Matthew Ritter",
    "address": [
     {
@@ -11270,38 +11302,6 @@
      "type": "Facebook",
      "id": "RepresentativeMattRitter"
     }
-   ]
-  },
-  {
-   "name": "Bob Godfrey",
-   "address": [
-    {
-     "line1": "Legislative Office Building",
-     "line2": "Room",
-     "line3": "4107 hartford ct",
-     "city": "",
-     "state": "",
-     "zip": "06106"
-    },
-    {
-     "line1": "Legislative Office Building",
-     "line2": "Room",
-     "line3": "4107 hartford ct",
-     "city": "",
-     "state": "",
-     "zip": "06106"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(860) 240-8500"
-   ],
-   "urls": [
-    "http://www.housedems.ct.gov/Godfrey"
-   ],
-   "photoUrl": "http://www.housedems.ct.gov/Godfrey/images/Godfrey_blank.jpg",
-   "emails": [
-    "Bob.Godfrey@cga.ct.gov"
    ]
   },
   {

@@ -53,6 +53,9 @@
     262
    ]
   },
+  "ocd-division/country:us/state:ga/county:lincoln/precinct:martins_crossroad": {
+   "name": "Lincoln County GA - Precinct Martins Crossroad"
+  },
   "ocd-division/country:us/state:ga/county:long/council_district:4": {
    "name": "Long County Commission District 4",
    "officeIndices": [
@@ -60,8 +63,11 @@
     264
    ]
   },
-  "ocd-division/country:us/state:ga/county:lincoln/precinct:martins_crossroad": {
-   "name": "Lincoln County GA - Precinct Martins Crossroad"
+  "ocd-division/country:us/state:ga/county:telfair/precinct:scotland": {
+   "name": "Telfair County GA - Precinct Scotland"
+  },
+  "ocd-division/country:us/state:ga/county:hall/precinct:28-gainesville_5": {
+   "name": "Hall County GA - Precinct 28-Gainesville V"
   },
   "ocd-division/country:us/state:ga/county:long/council_district:1": {
    "name": "Long County Commission District 1",
@@ -69,12 +75,6 @@
     265,
     266
    ]
-  },
-  "ocd-division/country:us/state:ga/county:hall/precinct:28-gainesville_5": {
-   "name": "Hall County GA - Precinct 28-Gainesville V"
-  },
-  "ocd-division/country:us/state:ga/county:telfair/precinct:scotland": {
-   "name": "Telfair County GA - Precinct Scotland"
   },
   "ocd-division/country:us/state:ga/county:long/council_district:2": {
    "name": "Long County Commission District 2",
@@ -92,8 +92,11 @@
     269
    ]
   },
-  "ocd-division/country:us/state:ga/county:catoosa/precinct:westside": {
-   "name": "Catoosa County GA - Precinct WESTSIDE"
+  "ocd-division/country:us/state:ga/county:rockdale/precinct:smyrna": {
+   "name": "Rockdale County GA - Precinct Smyrna"
+  },
+  "ocd-division/country:us/state:ga/county:dekalb/precinct:miller_grove_middle": {
+   "name": "DeKalb County GA - Precinct MILLER GROVE MIDDLE"
   },
   "ocd-division/country:us/state:ga/county:baldwin/council_district:5": {
    "name": "Baldwin County Commission District 5",
@@ -101,11 +104,8 @@
     270
    ]
   },
-  "ocd-division/country:us/state:ga/county:dekalb/precinct:miller_grove_middle": {
-   "name": "DeKalb County GA - Precinct MILLER GROVE MIDDLE"
-  },
-  "ocd-division/country:us/state:ga/county:rockdale/precinct:smyrna": {
-   "name": "Rockdale County GA - Precinct Smyrna"
+  "ocd-division/country:us/state:ga/county:catoosa/precinct:westside": {
+   "name": "Catoosa County GA - Precinct WESTSIDE"
   },
   "ocd-division/country:us/state:ga/county:gwinnett/precinct:52-berkshire_g": {
    "name": "Gwinnett County GA - Precinct 052 Berkshire G"
@@ -209,14 +209,14 @@
     278
    ]
   },
+  "ocd-division/country:us/state:ga/county:bartow/precinct:woodland_high": {
+   "name": "Bartow County GA - Precinct WOODLAND HIGH"
+  },
   "ocd-division/country:us/state:ga/county:bibb/council_district:2": {
    "name": "Bibb County Commission District 2",
    "officeIndices": [
     279
    ]
-  },
-  "ocd-division/country:us/state:ga/county:bartow/precinct:woodland_high": {
-   "name": "Bartow County GA - Precinct WOODLAND HIGH"
   },
   "ocd-division/country:us/state:ga/county:bibb/council_district:3": {
    "name": "Bibb County Commission District 3",
@@ -227,11 +227,11 @@
   "ocd-division/country:us/state:ga/county:dekalb/precinct:flat_shoals_elementary": {
    "name": "DeKalb County GA - Precinct FLAT SHOALS ELEM"
   },
-  "ocd-division/country:us/state:ga/county:meriwether/precinct:chalybeate": {
-   "name": "Meriwether County GA - Precinct CHALYBEATE"
-  },
   "ocd-division/country:us/state:ga/county:cook/precinct:elm_pine": {
    "name": "Cook County GA - Precinct Elm Pine"
+  },
+  "ocd-division/country:us/state:ga/county:meriwether/precinct:chalybeate": {
+   "name": "Meriwether County GA - Precinct CHALYBEATE"
   },
   "ocd-division/country:us/state:ga/place:luthersville": {
    "name": "Luthersville city"
@@ -248,11 +248,11 @@
   "ocd-division/country:us/state:ga/county:gordon/precinct:ranger": {
    "name": "Gordon County GA - Precinct RANGER"
   },
-  "ocd-division/country:us/state:ga/county:pike/precinct:second_district": {
-   "name": "Pike County GA - Precinct Second District"
-  },
   "ocd-division/country:us/state:ga/county:washington/precinct:tennille": {
    "name": "Washington County GA - Precinct TENNILLE"
+  },
+  "ocd-division/country:us/state:ga/county:pike/precinct:second_district": {
+   "name": "Pike County GA - Precinct Second District"
   },
   "ocd-division/country:us/state:ga/county:webster": {
    "name": "Webster County",
@@ -440,14 +440,14 @@
     23
    ]
   },
-  "ocd-division/country:us/state:ga/place:cairo": {
-   "name": "Cairo city"
-  },
   "ocd-division/country:us/state:ga/sldu:13": {
    "name": "Georgia State Senate district 13",
    "officeIndices": [
     24
    ]
+  },
+  "ocd-division/country:us/state:ga/place:cairo": {
+   "name": "Cairo city"
   },
   "ocd-division/country:us/state:ga/county:dekalb/precinct:miller_grove_road": {
    "name": "DeKalb County GA - Precinct MILLER GROVE ROAD"
@@ -461,14 +461,14 @@
   "ocd-division/country:us/state:ga/county:jeff_davis/precinct:whitehead_2": {
    "name": "Jeff Davis County GA - Precinct Whitehead 2"
   },
+  "ocd-division/country:us/state:ga/county:jeff_davis/precinct:whitehead_1": {
+   "name": "Jeff Davis County GA - Precinct Whitehead 1"
+  },
   "ocd-division/country:us/state:ga/county:liberty/council_district:4": {
    "name": "Liberty County Commission District 4",
    "officeIndices": [
     295
    ]
-  },
-  "ocd-division/country:us/state:ga/county:jeff_davis/precinct:whitehead_1": {
-   "name": "Jeff Davis County GA - Precinct Whitehead 1"
   },
   "ocd-division/country:us/state:ga/county:liberty/council_district:5": {
    "name": "Liberty County Commission District 5",
@@ -476,14 +476,14 @@
     296
    ]
   },
+  "ocd-division/country:us/state:ga/county:cobb/precinct:timber_ridge_1": {
+   "name": "Cobb County GA - Precinct Timber Ridge 01"
+  },
   "ocd-division/country:us/state:ga/county:liberty/council_district:2": {
    "name": "Liberty County Commission District 2",
    "officeIndices": [
     297
    ]
-  },
-  "ocd-division/country:us/state:ga/county:cobb/precinct:timber_ridge_1": {
-   "name": "Cobb County GA - Precinct Timber Ridge 01"
   },
   "ocd-division/country:us/state:ga/county:liberty/council_district:3": {
    "name": "Liberty County Commission District 3",
@@ -529,11 +529,11 @@
   "ocd-division/country:us/state:ga/county:rockdale/precinct:hightower": {
    "name": "Rockdale County GA - Precinct Hightower"
   },
-  "ocd-division/country:us/state:ga/place:covington": {
-   "name": "Covington city"
-  },
   "ocd-division/country:us/state:ga/place:manchester": {
    "name": "Manchester city"
+  },
+  "ocd-division/country:us/state:ga/place:covington": {
+   "name": "Covington city"
   },
   "ocd-division/country:us/state:ga/county:dekalb/precinct:northlake": {
    "name": "DeKalb County GA - Precinct NORTHLAKE"
@@ -580,8 +580,8 @@
     308
    ]
   },
-  "ocd-division/country:us/state:ga/county:franklin/precinct:strange": {
-   "name": "Franklin County GA - Precinct Strange"
+  "ocd-division/country:us/state:ga/county:terrell/precinct:herod-dover": {
+   "name": "Terrell County GA - Precinct Herod-Dover"
   },
   "ocd-division/country:us/state:ga/county:terrell/council_district:2": {
    "name": "Terrell County Commission District 2",
@@ -589,11 +589,17 @@
     309
    ]
   },
-  "ocd-division/country:us/state:ga/county:terrell/precinct:herod-dover": {
-   "name": "Terrell County GA - Precinct Herod-Dover"
+  "ocd-division/country:us/state:ga/county:franklin/precinct:strange": {
+   "name": "Franklin County GA - Precinct Strange"
   },
   "ocd-division/country:us/state:ga/county:coweta/school_district:commission_charter_schools-_coweta_charter_academy": {
    "name": "commission charter schools- coweta charter academy"
+  },
+  "ocd-division/country:us/state:ga/sldu:40": {
+   "name": "Georgia State Senate district 40",
+   "officeIndices": [
+    25
+   ]
   },
   "ocd-division/country:us/state:ga/county:toombs": {
    "name": "Toombs County",
@@ -602,12 +608,6 @@
     311,
     312,
     313
-   ]
-  },
-  "ocd-division/country:us/state:ga/sldu:40": {
-   "name": "Georgia State Senate district 40",
-   "officeIndices": [
-    25
    ]
   },
   "ocd-division/country:us/state:ga/sldu:41": {
@@ -634,14 +634,26 @@
     29
    ]
   },
-  "ocd-division/country:us/state:ga/county:chatham/precinct:7-01": {
-   "name": "Chatham County GA - Precinct 7-01 Garden City Senior Ctr"
-  },
   "ocd-division/country:us/state:ga/sldu:45": {
    "name": "Georgia State Senate district 45",
    "officeIndices": [
     30
    ]
+  },
+  "ocd-division/country:us/state:ga/county:chatham/precinct:7-01": {
+   "name": "Chatham County GA - Precinct 7-01 Garden City Senior Ctr"
+  },
+  "ocd-division/country:us/state:ga/sldu:46": {
+   "name": "Georgia State Senate district 46",
+   "officeIndices": [
+    31
+   ]
+  },
+  "ocd-division/country:us/state:ga/county:bacon/precinct:warnock": {
+   "name": "Bacon County GA - Precinct Warnock"
+  },
+  "ocd-division/country:us/state:ga/county:chatham/precinct:7-04": {
+   "name": "Chatham County GA - Precinct 7-04 Lake Shore Comm Ctr"
   },
   "ocd-division/country:us/state:ga/county:haralson": {
    "name": "Haralson County",
@@ -655,29 +667,17 @@
     320
    ]
   },
-  "ocd-division/country:us/state:ga/county:chatham/precinct:7-04": {
-   "name": "Chatham County GA - Precinct 7-04 Lake Shore Comm Ctr"
-  },
-  "ocd-division/country:us/state:ga/county:bacon/precinct:warnock": {
-   "name": "Bacon County GA - Precinct Warnock"
-  },
-  "ocd-division/country:us/state:ga/sldu:46": {
-   "name": "Georgia State Senate district 46",
-   "officeIndices": [
-    31
-   ]
-  },
-  "ocd-division/country:us/state:ga/county:chatham/precinct:7-03": {
-   "name": "Chatham County GA - Precinct 7-03 P B Edwards Gym"
-  },
-  "ocd-division/country:us/state:ga/place:dexter": {
-   "name": "Dexter town"
-  },
   "ocd-division/country:us/state:ga/sldu:47": {
    "name": "Georgia State Senate district 47",
    "officeIndices": [
     32
    ]
+  },
+  "ocd-division/country:us/state:ga/place:dexter": {
+   "name": "Dexter town"
+  },
+  "ocd-division/country:us/state:ga/county:chatham/precinct:7-03": {
+   "name": "Chatham County GA - Precinct 7-03 P B Edwards Gym"
   },
   "ocd-division/country:us/state:ga/place:eatonton": {
    "name": "Eatonton city"
@@ -688,14 +688,14 @@
   "ocd-division/country:us/state:ga/county:cherokee/precinct:ball_ground": {
    "name": "Cherokee County GA - Precinct BALL GROUND"
   },
-  "ocd-division/country:us/state:ga/county:gwinnett/precinct:60-lawrenceville_d": {
-   "name": "Gwinnett County GA - Precinct 060 Lawrenceville D"
-  },
   "ocd-division/country:us/state:ga/sldu:49": {
    "name": "Georgia State Senate district 49",
    "officeIndices": [
     33
    ]
+  },
+  "ocd-division/country:us/state:ga/county:gwinnett/precinct:60-lawrenceville_d": {
+   "name": "Gwinnett County GA - Precinct 060 Lawrenceville D"
   },
   "ocd-division/country:us/state:ga/sldu:48": {
    "name": "Georgia State Senate district 48",
@@ -706,29 +706,29 @@
   "ocd-division/country:us/state:ga/county:newton/precinct:gum_creek": {
    "name": "Newton County GA - Precinct Gum Creek"
   },
-  "ocd-division/country:us/state:ga/county:chatham/precinct:7-11": {
-   "name": "Chatham County GA - Precinct 7-11 Seventh Day Adv Chr"
-  },
   "ocd-division/country:us/state:ga/sldu:53": {
    "name": "Georgia State Senate district 53",
    "officeIndices": [
     35
    ]
   },
-  "ocd-division/country:us/state:ga/county:gwinnett/precinct:85-lawrenceville_h": {
-   "name": "Gwinnett County GA - Precinct 085 Lawrenceville H"
-  },
-  "ocd-division/country:us/state:ga/county:chatham/precinct:7-10": {
-   "name": "Chatham County GA - Precinct 7-10 Progressive Rec Ctr"
-  },
-  "ocd-division/country:us/state:ga/county:dekalb/precinct:north_peachtree": {
-   "name": "DeKalb County GA - Precinct NORTH PEACHTREE"
+  "ocd-division/country:us/state:ga/county:chatham/precinct:7-11": {
+   "name": "Chatham County GA - Precinct 7-11 Seventh Day Adv Chr"
   },
   "ocd-division/country:us/state:ga/sldu:54": {
    "name": "Georgia State Senate district 54",
    "officeIndices": [
     36
    ]
+  },
+  "ocd-division/country:us/state:ga/county:dekalb/precinct:north_peachtree": {
+   "name": "DeKalb County GA - Precinct NORTH PEACHTREE"
+  },
+  "ocd-division/country:us/state:ga/county:chatham/precinct:7-10": {
+   "name": "Chatham County GA - Precinct 7-10 Progressive Rec Ctr"
+  },
+  "ocd-division/country:us/state:ga/county:gwinnett/precinct:85-lawrenceville_h": {
+   "name": "Gwinnett County GA - Precinct 085 Lawrenceville H"
   },
   "ocd-division/country:us/state:ga/sldu:51": {
    "name": "Georgia State Senate district 51",
@@ -745,14 +745,11 @@
   "ocd-division/country:us/state:ga/county:houston/precinct:tms": {
    "name": "Houston County GA - Precinct TMS"
   },
-  "ocd-division/country:us/state:ga/county:chatham/precinct:7-14": {
-   "name": "Chatham County GA - Precinct 7-14 Coastal Cathedral"
-  },
   "ocd-division/country:us/state:ga/county:wilkes/school_district:wilkes_county": {
    "name": "wilkes county"
   },
-  "ocd-division/country:us/state:ga/county:chatham/precinct:7-13": {
-   "name": "Chatham County GA - Precinct 7-13 Garden City City Hall"
+  "ocd-division/country:us/state:ga/county:chatham/precinct:7-14": {
+   "name": "Chatham County GA - Precinct 7-14 Coastal Cathedral"
   },
   "ocd-division/country:us/state:ga/sldu:55": {
    "name": "Georgia State Senate district 55",
@@ -760,14 +757,17 @@
     39
    ]
   },
-  "ocd-division/country:us/state:ga/county:chatham/precinct:7-12": {
-   "name": "Chatham County GA - Precinct 7-12 Risen Savior Chr"
+  "ocd-division/country:us/state:ga/county:chatham/precinct:7-13": {
+   "name": "Chatham County GA - Precinct 7-13 Garden City City Hall"
   },
   "ocd-division/country:us/state:ga/sldu:56": {
    "name": "Georgia State Senate district 56",
    "officeIndices": [
     40
    ]
+  },
+  "ocd-division/country:us/state:ga/county:chatham/precinct:7-12": {
+   "name": "Chatham County GA - Precinct 7-12 Risen Savior Chr"
   },
   "ocd-division/country:us/state:ga/sldu:50": {
    "name": "Georgia State Senate district 50",
@@ -1189,12 +1189,6 @@
   "ocd-division/country:us/state:ga/county:fulton/precinct:cp01b": {
    "name": "Fulton County GA - Precinct CP01B"
   },
-  "ocd-division/country:us/state:ga/county:laurens/precinct:reedy_springs": {
-   "name": "Laurens County GA - Precinct Reedy Springs"
-  },
-  "ocd-division/country:us/state:ga/county:grady/precinct:whigham": {
-   "name": "Grady County GA - Precinct Whigham"
-  },
   "ocd-division/country:us/state:ga/county:whitfield": {
    "name": "Whitfield County",
    "officeIndices": [
@@ -1205,6 +1199,12 @@
     343
    ]
   },
+  "ocd-division/country:us/state:ga/county:grady/precinct:whigham": {
+   "name": "Grady County GA - Precinct Whigham"
+  },
+  "ocd-division/country:us/state:ga/county:laurens/precinct:reedy_springs": {
+   "name": "Laurens County GA - Precinct Reedy Springs"
+  },
   "ocd-division/country:us/state:ga/county:gwinnett/precinct:28-rockycreek_a": {
    "name": "Gwinnett County GA - Precinct 028 Rockycreek A"
   },
@@ -1214,14 +1214,14 @@
   "ocd-division/country:us/state:ga/place:warner_robins": {
    "name": "Warner Robins city"
   },
+  "ocd-division/country:us/state:ga/county:dekalb/precinct:tucker": {
+   "name": "DeKalb County GA - Precinct TUCKER"
+  },
   "ocd-division/country:us/state:ga/county:newton/council_district:1": {
    "name": "Newton County Commission District 1",
    "officeIndices": [
     344
    ]
-  },
-  "ocd-division/country:us/state:ga/county:dekalb/precinct:tucker": {
-   "name": "DeKalb County GA - Precinct TUCKER"
   },
   "ocd-division/country:us/state:ga/county:newton/council_district:3": {
    "name": "Newton County Commission District 3",
@@ -1241,68 +1241,68 @@
     347
    ]
   },
+  "ocd-division/country:us/state:ga/county:carroll/precinct:1240-mt_zion": {
+   "name": "Carroll County GA - Precinct MT ZION (1240)"
+  },
   "ocd-division/country:us/state:ga/county:newton/council_district:4": {
    "name": "Newton County Commission District 4",
    "officeIndices": [
     348
    ]
   },
-  "ocd-division/country:us/state:ga/county:carroll/precinct:1240-mt_zion": {
-   "name": "Carroll County GA - Precinct MT ZION (1240)"
-  },
   "ocd-division/country:us/state:ga/county:richmond/precinct:107": {
    "name": "Richmond County GA - Precinct 107"
-  },
-  "ocd-division/country:us/state:ga/county:richmond/precinct:106": {
-   "name": "Richmond County GA - Precinct 106"
   },
   "ocd-division/country:us/state:ga/county:spalding/precinct:second_baptish_ch": {
    "name": "Spalding County GA - Precinct SECOND BAPTISH CH"
   },
-  "ocd-division/country:us/state:ga/county:fulton/precinct:cp011": {
-   "name": "Fulton County GA - Precinct CP011"
+  "ocd-division/country:us/state:ga/county:richmond/precinct:106": {
+   "name": "Richmond County GA - Precinct 106"
   },
   "ocd-division/country:us/state:ga/county:richmond/precinct:105": {
    "name": "Richmond County GA - Precinct 105"
   },
-  "ocd-division/country:us/state:ga/county:fulton/precinct:cp012": {
-   "name": "Fulton County GA - Precinct CP012"
-  },
-  "ocd-division/country:us/state:ga/county:emanuel/precinct:garfield": {
-   "name": "Emanuel County GA - Precinct Garfield"
+  "ocd-division/country:us/state:ga/county:fulton/precinct:cp011": {
+   "name": "Fulton County GA - Precinct CP011"
   },
   "ocd-division/country:us/state:ga/county:richmond/precinct:104": {
    "name": "Richmond County GA - Precinct 104"
   },
+  "ocd-division/country:us/state:ga/county:emanuel/precinct:garfield": {
+   "name": "Emanuel County GA - Precinct Garfield"
+  },
+  "ocd-division/country:us/state:ga/county:fulton/precinct:cp012": {
+   "name": "Fulton County GA - Precinct CP012"
+  },
   "ocd-division/country:us/state:ga/county:richmond/precinct:109": {
    "name": "Richmond County GA - Precinct 109"
-  },
-  "ocd-division/country:us/state:ga/county:gwinnett/precinct:121-pinckneyville_x": {
-   "name": "Gwinnett County GA - Precinct 121 Pinckneyville X"
   },
   "ocd-division/country:us/state:ga/county:richmond/precinct:108": {
    "name": "Richmond County GA - Precinct 108"
   },
-  "ocd-division/country:us/state:ga/county:greene/precinct:union_point": {
-   "name": "Greene County GA - Precinct Union Point"
+  "ocd-division/country:us/state:ga/county:gwinnett/precinct:121-pinckneyville_x": {
+   "name": "Gwinnett County GA - Precinct 121 Pinckneyville X"
   },
   "ocd-division/country:us/state:ga/county:dekalb/precinct:princeton_elementary": {
    "name": "DeKalb County GA - Precinct PRINCETON ELEM"
   },
-  "ocd-division/country:us/state:ga/county:richmond/precinct:110": {
-   "name": "Richmond County GA - Precinct 110"
+  "ocd-division/country:us/state:ga/county:greene/precinct:union_point": {
+   "name": "Greene County GA - Precinct Union Point"
   },
   "ocd-division/country:us/state:ga/county:white/precinct:nacoochee": {
    "name": "White County GA - Precinct Nacoochee"
   },
+  "ocd-division/country:us/state:ga/county:richmond/precinct:110": {
+   "name": "Richmond County GA - Precinct 110"
+  },
   "ocd-division/country:us/state:ga/county:jasper/precinct:smith-jordan-lazenby": {
    "name": "Jasper County GA - Precinct SMITH/JORDAN/LAZENBY"
   },
-  "ocd-division/country:us/state:ga/county:pierce/precinct:st_johns-blackshear": {
-   "name": "Pierce County GA - Precinct St Johns/Blackshear"
-  },
   "ocd-division/country:us/state:ga/county:richmond/precinct:113": {
    "name": "Richmond County GA - Precinct 113"
+  },
+  "ocd-division/country:us/state:ga/county:pierce/precinct:st_johns-blackshear": {
+   "name": "Pierce County GA - Precinct St Johns/Blackshear"
   },
   "ocd-division/country:us/state:ga/county:richmond/precinct:114": {
    "name": "Richmond County GA - Precinct 114"
@@ -1310,14 +1310,14 @@
   "ocd-division/country:us/state:ga/county:richmond/precinct:111": {
    "name": "Richmond County GA - Precinct 111"
   },
-  "ocd-division/country:us/state:ga/county:grady/precinct:limesink": {
-   "name": "Grady County GA - Precinct Limesink"
+  "ocd-division/country:us/state:ga/county:whitfield/precinct:grove_level": {
+   "name": "Whitfield County GA - Precinct GROVE LEVEL"
   },
   "ocd-division/country:us/state:ga/county:richmond/precinct:112": {
    "name": "Richmond County GA - Precinct 112"
   },
-  "ocd-division/country:us/state:ga/county:whitfield/precinct:grove_level": {
-   "name": "Whitfield County GA - Precinct GROVE LEVEL"
+  "ocd-division/country:us/state:ga/county:grady/precinct:limesink": {
+   "name": "Grady County GA - Precinct Limesink"
   },
   "ocd-division/country:us/state:ga/county:cherokee/precinct:bells": {
    "name": "Cherokee County GA - Precinct BELLS"
@@ -1355,11 +1355,11 @@
   "ocd-division/country:us/state:ga/county:cobb/precinct:mcclure_1": {
    "name": "Cobb County GA - Precinct McClure 01"
   },
-  "ocd-division/country:us/state:ga/county:gwinnett/precinct:6-goodwins_a": {
-   "name": "Gwinnett County GA - Precinct 006 Goodwins A"
-  },
   "ocd-division/country:us/state:ga/county:whitfield/precinct:upper_tenth": {
    "name": "Whitfield County GA - Precinct UPPER TENTH"
+  },
+  "ocd-division/country:us/state:ga/county:gwinnett/precinct:6-goodwins_a": {
+   "name": "Gwinnett County GA - Precinct 006 Goodwins A"
   },
   "ocd-division/country:us/state:ga/county:lee/precinct:smithville": {
    "name": "Lee County GA - Precinct Smithville"
@@ -1370,14 +1370,14 @@
   "ocd-division/country:us/state:ga/county:decatur/precinct:west_bainbridge": {
    "name": "Decatur County GA - Precinct West Bainbridge"
   },
-  "ocd-division/country:us/state:ga/county:cobb/precinct:lassiter_1": {
-   "name": "Cobb County GA - Precinct Lassiter 01"
-  },
   "ocd-division/country:us/state:ga/county:pike/school_board_district:6": {
    "name": "Pike County School Board District 6",
    "officeIndices": [
     352
    ]
+  },
+  "ocd-division/country:us/state:ga/county:cobb/precinct:lassiter_1": {
+   "name": "Cobb County GA - Precinct Lassiter 01"
   },
   "ocd-division/country:us/state:ga/county:pike/school_board_district:4": {
    "name": "Pike County School Board District 4",
@@ -1397,14 +1397,14 @@
     355
    ]
   },
-  "ocd-division/country:us/state:ga/county:dodge/precinct:mccranie": {
-   "name": "Dodge County GA - Precinct McCranie"
-  },
   "ocd-division/country:us/state:ga/county:pike/school_board_district:3": {
    "name": "Pike County School Board District 3",
    "officeIndices": [
     356
    ]
+  },
+  "ocd-division/country:us/state:ga/county:dodge/precinct:mccranie": {
+   "name": "Dodge County GA - Precinct McCranie"
   },
   "ocd-division/country:us/state:ga/county:pike/school_board_district:1": {
    "name": "Pike County School Board District 1",
@@ -1415,6 +1415,9 @@
   "ocd-division/country:us/state:ga/county:dekalb/precinct:stone_mountain_elementary": {
    "name": "DeKalb County GA - Precinct STONE MOUNTAIN ELEM"
   },
+  "ocd-division/country:us/state:ga/place:sandersville": {
+   "name": "Sandersville city"
+  },
   "ocd-division/country:us/state:ga/county:screven": {
    "name": "Screven County",
    "officeIndices": [
@@ -1422,9 +1425,6 @@
     359,
     360
    ]
-  },
-  "ocd-division/country:us/state:ga/place:sandersville": {
-   "name": "Sandersville city"
   },
   "ocd-division/country:us/state:ga/county:cobb/precinct:chestnut_ridge_1": {
    "name": "Cobb County GA - Precinct Chestnut Ridge 01"
@@ -1443,15 +1443,15 @@
     364
    ]
   },
-  "ocd-division/country:us/state:ga/county:pickens/precinct:nelson": {
-   "name": "Pickens County GA - Precinct NELSON"
-  },
   "ocd-division/country:us/state:ga/county:madison/council_district:3": {
    "name": "Madison County Commission District 3",
    "officeIndices": [
     365,
     366
    ]
+  },
+  "ocd-division/country:us/state:ga/county:pickens/precinct:nelson": {
+   "name": "Pickens County GA - Precinct NELSON"
   },
   "ocd-division/country:us/state:ga/county:madison/council_district:2": {
    "name": "Madison County Commission District 2",
@@ -1467,11 +1467,11 @@
     370
    ]
   },
-  "ocd-division/country:us/state:ga/county:floyd/precinct:texas_valley": {
-   "name": "Floyd County GA - Precinct TEXAS VALLEY"
-  },
   "ocd-division/country:us/state:ga/county:spalding/precinct:city_park": {
    "name": "Spalding County GA - Precinct CITY PARK"
+  },
+  "ocd-division/country:us/state:ga/county:floyd/precinct:texas_valley": {
+   "name": "Floyd County GA - Precinct TEXAS VALLEY"
   },
   "ocd-division/country:us/state:ga/county:coweta/precinct:westside": {
    "name": "Coweta County GA - Precinct WESTSIDE"
@@ -1479,20 +1479,20 @@
   "ocd-division/country:us/state:ga/county:dekalb/precinct:warren_tech": {
    "name": "DeKalb County GA - Precinct WARREN TECH"
   },
-  "ocd-division/country:us/state:ga/county:putnam/precinct:102": {
-   "name": "Putnam County GA - Precinct 102"
-  },
   "ocd-division/country:us/state:ga/county:walton/precinct:good_hope": {
    "name": "Walton County GA - Precinct Good Hope"
+  },
+  "ocd-division/country:us/state:ga/county:putnam/precinct:102": {
+   "name": "Putnam County GA - Precinct 102"
   },
   "ocd-division/country:us/state:ga/county:putnam/precinct:101": {
    "name": "Putnam County GA - Precinct 101"
   },
-  "ocd-division/country:us/state:ga/county:fulton/school_district:atlanta_public_schools": {
-   "name": "atlanta public schools"
-  },
   "ocd-division/country:us/state:ga/county:putnam/precinct:108": {
    "name": "Putnam County GA - Precinct 108"
+  },
+  "ocd-division/country:us/state:ga/county:fulton/school_district:atlanta_public_schools": {
+   "name": "atlanta public schools"
   },
   "ocd-division/country:us/state:ga/county:putnam/precinct:107": {
    "name": "Putnam County GA - Precinct 107"
@@ -1500,17 +1500,17 @@
   "ocd-division/country:us/state:ga/county:putnam/precinct:104": {
    "name": "Putnam County GA - Precinct 104"
   },
-  "ocd-division/country:us/state:ga/county:colquitt/precinct:warrior": {
-   "name": "Colquitt County GA - Precinct Warrior"
-  },
   "ocd-division/country:us/state:ga/county:putnam/precinct:103": {
    "name": "Putnam County GA - Precinct 103"
   },
-  "ocd-division/country:us/state:ga/county:gordon/precinct:gordon_county": {
-   "name": "Gordon County GA - Precinct GORDON COUNTY"
+  "ocd-division/country:us/state:ga/county:colquitt/precinct:warrior": {
+   "name": "Colquitt County GA - Precinct Warrior"
   },
   "ocd-division/country:us/state:ga/county:putnam/precinct:106": {
    "name": "Putnam County GA - Precinct 106"
+  },
+  "ocd-division/country:us/state:ga/county:gordon/precinct:gordon_county": {
+   "name": "Gordon County GA - Precinct GORDON COUNTY"
   },
   "ocd-division/country:us/state:ga/county:putnam/precinct:105": {
    "name": "Putnam County GA - Precinct 105"
@@ -1537,23 +1537,23 @@
     372
    ]
   },
-  "ocd-division/country:us/state:ga/county:newton/precinct:leguinn": {
-   "name": "Newton County GA - Precinct Leguinn"
+  "ocd-division/country:us/state:ga/county:talbot/precinct:box_springs": {
+   "name": "Talbot County GA - Precinct BOX SPRINGS"
   },
   "ocd-division/country:us/state:ga/county:burke/precinct:scotts_crossroads": {
    "name": "Burke County GA - Precinct Scotts Crossroads"
   },
-  "ocd-division/country:us/state:ga/county:talbot/precinct:box_springs": {
-   "name": "Talbot County GA - Precinct BOX SPRINGS"
+  "ocd-division/country:us/state:ga/county:newton/precinct:leguinn": {
+   "name": "Newton County GA - Precinct Leguinn"
   },
   "ocd-division/country:us/state:ga/place:clarkesville": {
    "name": "Clarkesville city"
   },
-  "ocd-division/country:us/state:ga/county:monroe/precinct:burgays": {
-   "name": "Monroe County GA - Precinct BURGAYS"
-  },
   "ocd-division/country:us/state:ga/place:peachtree_corners": {
    "name": "Peachtree Corners city"
+  },
+  "ocd-division/country:us/state:ga/county:monroe/precinct:burgays": {
+   "name": "Monroe County GA - Precinct BURGAYS"
   },
   "ocd-division/country:us/state:ga/county:telfair/precinct:jacksonville": {
    "name": "Telfair County GA - Precinct Jacksonville"
@@ -2461,21 +2461,21 @@
     445
    ]
   },
-  "ocd-division/country:us/state:ga/county:fulton/council_district:4": {
-   "name": "Fulton County GA Board of Commissioners District 4",
-   "officeIndices": [
-    446
-   ]
-  },
   "ocd-division/country:us/state:ga/county:walker/precinct:rossville": {
    "name": "Walker County GA - Precinct ROSSVILLE"
   },
   "ocd-division/country:us/state:ga/county:baker": {
    "name": "Baker County",
    "officeIndices": [
+    446,
     447,
     448,
-    449,
+    449
+   ]
+  },
+  "ocd-division/country:us/state:ga/county:fulton/council_district:4": {
+   "name": "Fulton County GA Board of Commissioners District 4",
+   "officeIndices": [
     450
    ]
   },
@@ -2518,14 +2518,14 @@
   "ocd-division/country:us/state:ga/county:columbia/precinct:132": {
    "name": "Columbia County GA - Precinct 132-Wesley Methodist Church"
   },
+  "ocd-division/country:us/state:ga/county:dodge/precinct:eddins": {
+   "name": "Dodge County GA - Precinct Eddins"
+  },
   "ocd-division/country:us/state:ga/county:fulton/council_district:5": {
    "name": "Fulton County GA Board of Commissioners District 5",
    "officeIndices": [
     455
    ]
-  },
-  "ocd-division/country:us/state:ga/county:dodge/precinct:eddins": {
-   "name": "Dodge County GA - Precinct Eddins"
   },
   "ocd-division/country:us/state:ga/county:columbia/precinct:134": {
    "name": "Columbia County GA - Precinct 134-Columbia Cty. Main Library"
@@ -2632,6 +2632,9 @@
   "ocd-division/country:us/state:ga/county:columbia/precinct:105": {
    "name": "Columbia County GA - Precinct 105-Stevens Creek Elementary School"
   },
+  "ocd-division/country:us/state:ga/county:cobb/precinct:shallowford_falls_1": {
+   "name": "Cobb County GA - Precinct Shallowford Falls 01"
+  },
   "ocd-division/country:us/state:ga/county:clarke": {
    "name": "Clarke County",
    "officeIndices": [
@@ -2640,9 +2643,6 @@
     459,
     460
    ]
-  },
-  "ocd-division/country:us/state:ga/county:cobb/precinct:shallowford_falls_1": {
-   "name": "Cobb County GA - Precinct Shallowford Falls 01"
   },
   "ocd-division/country:us/state:ga/county:columbia/precinct:110": {
    "name": "Columbia County GA - Precinct 110-Mtz.-Col. Fire Headquarters"
@@ -2668,17 +2668,17 @@
   "ocd-division/country:us/state:ga/county:oglethorpe/precinct:lexington": {
    "name": "Oglethorpe County GA - Precinct Lexington"
   },
-  "ocd-division/country:us/state:ga/county:lanier/school_district:lanier_county": {
-   "name": "lanier county"
-  },
   "ocd-division/country:us/state:ga/county:bibb/precinct:howard_1": {
    "name": "Bibb County GA - Precinct HOWARD 1"
   },
-  "ocd-division/country:us/state:ga/county:cherokee/precinct:avery": {
-   "name": "Cherokee County GA - Precinct AVERY"
+  "ocd-division/country:us/state:ga/county:lanier/school_district:lanier_county": {
+   "name": "lanier county"
   },
   "ocd-division/country:us/state:ga/county:bibb/precinct:howard_2": {
    "name": "Bibb County GA - Precinct HOWARD 2"
+  },
+  "ocd-division/country:us/state:ga/county:cherokee/precinct:avery": {
+   "name": "Cherokee County GA - Precinct AVERY"
   },
   "ocd-division/country:us/state:ga/county:bibb/precinct:howard_3": {
    "name": "Bibb County GA - Precinct HOWARD 3"
@@ -2704,23 +2704,23 @@
   "ocd-division/country:us/state:ga/place:resaca": {
    "name": "Resaca town"
   },
-  "ocd-division/country:us/state:ga/county:cobb/precinct:mccleskey_1": {
-   "name": "Cobb County GA - Precinct McCleskey 01"
+  "ocd-division/country:us/state:ga/county:columbia/precinct:115": {
+   "name": "Columbia County GA - Precinct 115-Martinez Baptist Church"
   },
   "ocd-division/country:us/state:ga/county:colquitt/precinct:murphy": {
    "name": "Colquitt County GA - Precinct Murphy"
   },
-  "ocd-division/country:us/state:ga/county:columbia/precinct:115": {
-   "name": "Columbia County GA - Precinct 115-Martinez Baptist Church"
+  "ocd-division/country:us/state:ga/county:cobb/precinct:mccleskey_1": {
+   "name": "Cobb County GA - Precinct McCleskey 01"
   },
   "ocd-division/country:us/state:ga/county:wilkes/precinct:young_farmer~s_building": {
    "name": "Wilkes County GA - Precinct Young Farmer's Bldg"
   },
-  "ocd-division/country:us/state:ga/county:pickens/precinct:hinton": {
-   "name": "Pickens County GA - Precinct HINTON"
-  },
   "ocd-division/country:us/state:ga/place:greensboro": {
    "name": "Greensboro city"
+  },
+  "ocd-division/country:us/state:ga/county:pickens/precinct:hinton": {
+   "name": "Pickens County GA - Precinct HINTON"
   },
   "ocd-division/country:us/state:ga/county:dekalb/precinct:lavista_road": {
    "name": "DeKalb County GA - Precinct LAVISTA ROAD"
@@ -2731,17 +2731,17 @@
   "ocd-division/country:us/state:ga/county:sumter/precinct:w-27": {
    "name": "Sumter County GA - Precinct W-27"
   },
-  "ocd-division/country:us/state:ga/county:habersham/precinct:view": {
-   "name": "Habersham County GA - Precinct View"
-  },
   "ocd-division/country:us/state:ga/county:gwinnett/school_district:buford_city": {
    "name": "buford city"
   },
-  "ocd-division/country:us/state:ga/county:mcduffie/precinct:fort_creek": {
-   "name": "McDuffie County GA - Precinct Fort Creek"
+  "ocd-division/country:us/state:ga/county:habersham/precinct:view": {
+   "name": "Habersham County GA - Precinct View"
   },
   "ocd-division/country:us/state:ga/county:cherokee/precinct:clayton": {
    "name": "Cherokee County GA - Precinct CLAYTON"
+  },
+  "ocd-division/country:us/state:ga/county:mcduffie/precinct:fort_creek": {
+   "name": "McDuffie County GA - Precinct Fort Creek"
   },
   "ocd-division/country:us/state:ga/county:bartow/precinct:folsom": {
    "name": "Bartow County GA - Precinct FOLSOM"
@@ -2749,11 +2749,11 @@
   "ocd-division/country:us/state:ga/county:ware/precinct:jamestown": {
    "name": "Ware County GA - Precinct Jamestown"
   },
-  "ocd-division/country:us/state:ga/county:pike/precinct:concord": {
-   "name": "Pike County GA - Precinct Concord"
-  },
   "ocd-division/country:us/state:ga/county:jasper/school_district:jasper_county": {
    "name": "jasper county"
+  },
+  "ocd-division/country:us/state:ga/county:pike/precinct:concord": {
+   "name": "Pike County GA - Precinct Concord"
   },
   "ocd-division/country:us/state:ga/place:milan": {
    "name": "Milan city"
@@ -2776,11 +2776,14 @@
   "ocd-division/country:us/state:ga/place:hiltonia": {
    "name": "Hiltonia town"
   },
+  "ocd-division/country:us/state:ga/county:gwinnett/precinct:23-pinckneyville_d": {
+   "name": "Gwinnett County GA - Precinct 023 Pinckneyville D"
+  },
   "ocd-division/country:us/state:ga/county:harris/precinct:mulberry_grove": {
    "name": "Harris County GA - Precinct MULBERRY GROVE"
   },
-  "ocd-division/country:us/state:ga/county:gwinnett/precinct:23-pinckneyville_d": {
-   "name": "Gwinnett County GA - Precinct 023 Pinckneyville D"
+  "ocd-division/country:us/state:ga/county:carroll/school_district:carroll_county": {
+   "name": "carroll county"
   },
   "ocd-division/country:us/state:ga/county:pierce/council_district:3": {
    "name": "Pierce County Commission District 3",
@@ -2788,22 +2791,19 @@
     465
    ]
   },
-  "ocd-division/country:us/state:ga/county:carroll/school_district:carroll_county": {
-   "name": "carroll county"
+  "ocd-division/country:us/state:ga/county:chatham": {
+   "name": "Chatham County",
+   "officeIndices": [
+    466,
+    467,
+    468,
+    469,
+    470
+   ]
   },
   "ocd-division/country:us/state:ga/county:pierce/council_district:4": {
    "name": "Pierce County Commission District 4",
    "officeIndices": [
-    466
-   ]
-  },
-  "ocd-division/country:us/state:ga/county:chatham": {
-   "name": "Chatham County",
-   "officeIndices": [
-    467,
-    468,
-    469,
-    470,
     471
    ]
   },
@@ -2825,11 +2825,11 @@
   "ocd-division/country:us/state:ga/county:walton/precinct:between": {
    "name": "Walton County GA - Precinct Between"
   },
-  "ocd-division/country:us/state:ga/county:elbert/precinct:wyche": {
-   "name": "Elbert County GA - Precinct Wyche"
-  },
   "ocd-division/country:us/state:ga/county:worth/precinct:red_rock": {
    "name": "Worth County GA - Precinct Red Rock"
+  },
+  "ocd-division/country:us/state:ga/county:elbert/precinct:wyche": {
+   "name": "Elbert County GA - Precinct Wyche"
   },
   "ocd-division/country:us/state:ga/county:camden/precinct:waverly": {
    "name": "Camden County GA - Precinct Waverly"
@@ -2854,14 +2854,14 @@
   "ocd-division/country:us/state:ga/county:walton/precinct:oasis": {
    "name": "Walton County GA - Precinct Oasis"
   },
-  "ocd-division/country:us/state:ga/county:houston/precinct:nsms": {
-   "name": "Houston County GA - Precinct NSMS"
+  "ocd-division/country:us/state:ga/county:dekalb/precinct:johnson_estates": {
+   "name": "DeKalb County GA - Precinct JOHNSON ESTATES"
   },
   "ocd-division/country:us/state:ga/county:cobb/precinct:ford_1": {
    "name": "Cobb County GA - Precinct Ford 01"
   },
-  "ocd-division/country:us/state:ga/county:dekalb/precinct:johnson_estates": {
-   "name": "DeKalb County GA - Precinct JOHNSON ESTATES"
+  "ocd-division/country:us/state:ga/county:houston/precinct:nsms": {
+   "name": "Houston County GA - Precinct NSMS"
   },
   "ocd-division/country:us/state:ga/county:meriwether/precinct:manchester_gill_ii": {
    "name": "Meriwether County GA - Precinct MANCHESTER GILL II"
@@ -2869,11 +2869,11 @@
   "ocd-division/country:us/state:ga/county:ben_hill/precinct:west": {
    "name": "Ben Hill County GA - Precinct West"
   },
-  "ocd-division/country:us/state:ga/county:fayette/precinct:oak_grove": {
-   "name": "Fayette County GA - Precinct OAK GROVE"
-  },
   "ocd-division/country:us/state:ga/place:kingsland": {
    "name": "Kingsland city"
+  },
+  "ocd-division/country:us/state:ga/county:fayette/precinct:oak_grove": {
+   "name": "Fayette County GA - Precinct OAK GROVE"
   },
   "ocd-division/country:us/state:ga/county:cobb/precinct:willeo_1": {
    "name": "Cobb County GA - Precinct Willeo 01"
@@ -2902,35 +2902,35 @@
   "ocd-division/country:us/state:ga/county:mitchell/precinct:hinsonton": {
    "name": "Mitchell County GA - Precinct Hinsonton"
   },
-  "ocd-division/country:us/state:ga/county:houston/precinct:rozr": {
-   "name": "Houston County GA - Precinct ROZR"
-  },
   "ocd-division/country:us/state:ga/county:gwinnett/precinct:75-rockbridge_c": {
    "name": "Gwinnett County GA - Precinct 075 Rockbridge C"
+  },
+  "ocd-division/country:us/state:ga/county:houston/precinct:rozr": {
+   "name": "Houston County GA - Precinct ROZR"
   },
   "ocd-division/country:us/state:ga/county:banks/school_district:banks_county": {
    "name": "banks county"
   },
-  "ocd-division/country:us/state:ga/county:gwinnett/precinct:126-pinckneyville_a1": {
-   "name": "Gwinnett County GA - Precinct 126 Pinckneyville A1"
-  },
   "ocd-division/country:us/state:ga/county:fannin/precinct:hothouse": {
    "name": "Fannin County GA - Precinct HOTHOUSE"
+  },
+  "ocd-division/country:us/state:ga/county:gwinnett/precinct:126-pinckneyville_a1": {
+   "name": "Gwinnett County GA - Precinct 126 Pinckneyville A1"
   },
   "ocd-division/country:us/state:ga/county:bulloch/precinct:statesboro": {
    "name": "Bulloch County GA - Precinct Statesboro"
   },
-  "ocd-division/country:us/state:ga/county:tift/precinct:docia": {
-   "name": "Tift County GA - Precinct Docia"
-  },
-  "ocd-division/country:us/state:ga/county:wheeler/precinct:glenwood": {
-   "name": "Wheeler County GA - Precinct Glenwood"
+  "ocd-division/country:us/state:ga/place:warm_springs": {
+   "name": "Warm Springs city"
   },
   "ocd-division/country:us/state:ga/county:worth/precinct:scooterville": {
    "name": "Worth County GA - Precinct Scooterville"
   },
-  "ocd-division/country:us/state:ga/place:warm_springs": {
-   "name": "Warm Springs city"
+  "ocd-division/country:us/state:ga/county:wheeler/precinct:glenwood": {
+   "name": "Wheeler County GA - Precinct Glenwood"
+  },
+  "ocd-division/country:us/state:ga/county:tift/precinct:docia": {
+   "name": "Tift County GA - Precinct Docia"
   },
   "ocd-division/country:us/state:ga/place:cartersville": {
    "name": "Cartersville city"
@@ -2947,11 +2947,11 @@
   "ocd-division/country:us/state:ga/county:laurens/precinct:calhoun_park": {
    "name": "Laurens County GA - Precinct Calhoun Park"
   },
-  "ocd-division/country:us/state:ga/county:newton/precinct:crowell": {
-   "name": "Newton County GA - Precinct Crowell"
-  },
   "ocd-division/country:us/state:ga/county:coweta/precinct:moreland": {
    "name": "Coweta County GA - Precinct MORELAND"
+  },
+  "ocd-division/country:us/state:ga/county:newton/precinct:crowell": {
+   "name": "Newton County GA - Precinct Crowell"
   },
   "ocd-division/country:us/state:ga/county:taylor/council_district:1": {
    "name": "Taylor County Commission District 1",
@@ -3698,6 +3698,9 @@
   "ocd-division/country:us/state:ga/county:upson/precinct:reeves": {
    "name": "Upson County GA - Precinct REEVES"
   },
+  "ocd-division/country:us/state:ga/county:bartow/precinct:adairsville": {
+   "name": "Bartow County GA - Precinct ADAIRSVILLE"
+  },
   "ocd-division/country:us/state:ga/county:fulton": {
    "name": "Fulton County",
    "officeIndices": [
@@ -3710,9 +3713,6 @@
     544,
     545
    ]
-  },
-  "ocd-division/country:us/state:ga/county:bartow/precinct:adairsville": {
-   "name": "Bartow County GA - Precinct ADAIRSVILLE"
   },
   "ocd-division/country:us/state:ga/county:hall/precinct:23-west_whelchel": {
    "name": "Hall County GA - Precinct 23-West Whelchel"
@@ -4670,14 +4670,14 @@
   "ocd-division/country:us/state:ga/county:terrell/school_district:terrell_county": {
    "name": "terrell county"
   },
+  "ocd-division/country:us/state:ga/county:rockdale/precinct:milstead": {
+   "name": "Rockdale County GA - Precinct Milstead"
+  },
   "ocd-division/country:us/state:ga/county:cobb/council_district:3": {
    "name": "Cobb County GA Board of Commissioners District 3",
    "officeIndices": [
     628
    ]
-  },
-  "ocd-division/country:us/state:ga/county:rockdale/precinct:milstead": {
-   "name": "Rockdale County GA - Precinct Milstead"
   },
   "ocd-division/country:us/state:ga/county:cobb/council_district:4": {
    "name": "Cobb County GA Board of Commissioners District 4",
@@ -5491,23 +5491,20 @@
     700
    ]
   },
-  "ocd-division/country:us/state:ga/county:haralson/school_district:bremen_city": {
-   "name": "bremen city"
-  },
   "ocd-division/country:us/state:ga/county:greene/precinct:greensboro": {
    "name": "Greene County GA - Precinct Greensboro"
   },
-  "ocd-division/country:us/state:ga/county:heard/precinct:enon_grove": {
-   "name": "Heard County GA - Precinct ENON GROVE"
+  "ocd-division/country:us/state:ga/county:haralson/school_district:bremen_city": {
+   "name": "bremen city"
   },
   "ocd-division/country:us/state:ga/county:dekalb/precinct:oak_grove_elementary": {
    "name": "DeKalb County GA - Precinct OAK GROVE ELEM"
   },
+  "ocd-division/country:us/state:ga/county:heard/precinct:enon_grove": {
+   "name": "Heard County GA - Precinct ENON GROVE"
+  },
   "ocd-division/country:us/state:ga/county:madison/precinct:ila": {
    "name": "Madison County GA - Precinct ILA"
-  },
-  "ocd-division/country:us/state:ga/county:coffee/school_district:coffee_county": {
-   "name": "coffee county"
   },
   "ocd-division/country:us/state:ga/county:turner": {
    "name": "Turner County",
@@ -5516,6 +5513,9 @@
     702,
     703
    ]
+  },
+  "ocd-division/country:us/state:ga/county:coffee/school_district:coffee_county": {
+   "name": "coffee county"
   },
   "ocd-division/country:us/state:ga/county:cobb/precinct:austell_1a": {
    "name": "Cobb County GA - Precinct Austell 1A"
@@ -5526,20 +5526,20 @@
   "ocd-division/country:us/state:ga/place:vidette": {
    "name": "Vidette city"
   },
-  "ocd-division/country:us/state:ga/county:gwinnett/precinct:35-cates_d": {
-   "name": "Gwinnett County GA - Precinct 035 Cates D"
-  },
   "ocd-division/country:us/state:ga/county:dade/precinct:north_dade": {
    "name": "Dade County GA - Precinct NORTH DADE"
+  },
+  "ocd-division/country:us/state:ga/county:gwinnett/precinct:35-cates_d": {
+   "name": "Gwinnett County GA - Precinct 035 Cates D"
   },
   "ocd-division/country:us/state:ga/county:toombs/precinct:1715th-normantown": {
    "name": "Toombs County GA - Precinct 1715th-Normantown"
   },
-  "ocd-division/country:us/state:ga/county:haralson/precinct:buchanan": {
-   "name": "Haralson County GA - Precinct BUCHANAN"
-  },
   "ocd-division/country:us/state:ga/county:calhoun/precinct:arlington": {
    "name": "Calhoun County GA - Precinct Arlington"
+  },
+  "ocd-division/country:us/state:ga/county:haralson/precinct:buchanan": {
+   "name": "Haralson County GA - Precinct BUCHANAN"
   },
   "ocd-division/country:us/state:ga/place:homerville": {
    "name": "Homerville city"
@@ -5571,14 +5571,14 @@
   "ocd-division/country:us/state:ga/county:brooks/precinct:south_brooks-nankin": {
    "name": "Brooks County GA - Precinct S.Brooks/Nankin"
   },
-  "ocd-division/country:us/state:ga/county:meriwether/precinct:lone_oak": {
-   "name": "Meriwether County GA - Precinct LONE OAK"
+  "ocd-division/country:us/state:ga/county:dekalb/precinct:lakeside_high": {
+   "name": "DeKalb County GA - Precinct LAKESIDE HIGH"
   },
   "ocd-division/country:us/state:ga/county:hall/precinct:19-murrayville": {
    "name": "Hall County GA - Precinct 19-Murrayville"
   },
-  "ocd-division/country:us/state:ga/county:dekalb/precinct:lakeside_high": {
-   "name": "DeKalb County GA - Precinct LAKESIDE HIGH"
+  "ocd-division/country:us/state:ga/county:meriwether/precinct:lone_oak": {
+   "name": "Meriwether County GA - Precinct LONE OAK"
   },
   "ocd-division/country:us/state:ga/county:towns": {
    "name": "Towns County",
@@ -5601,6 +5601,9 @@
   "ocd-division/country:us/state:ga/county:liberty/precinct:memorial_dr_east": {
    "name": "Liberty County GA - Precinct Memorial Dr. East"
   },
+  "ocd-division/country:us/state:ga/county:troup/precinct:hogansville": {
+   "name": "Troup County GA - Precinct HOGANSVILLE"
+  },
   "ocd-division/country:us/state:ga/county:seminole": {
    "name": "Seminole County",
    "officeIndices": [
@@ -5609,9 +5612,6 @@
     710,
     711
    ]
-  },
-  "ocd-division/country:us/state:ga/county:troup/precinct:hogansville": {
-   "name": "Troup County GA - Precinct HOGANSVILLE"
   },
   "ocd-division/country:us/state:ga/county:sumter/precinct:c1-27": {
    "name": "Sumter County GA - Precinct C1-27"
@@ -5631,9 +5631,6 @@
     712
    ]
   },
-  "ocd-division/country:us/state:ga/county:fulton/precinct:ap12a": {
-   "name": "Fulton County GA - Precinct AP12A"
-  },
   "ocd-division/country:us/state:ga/county:stephens": {
    "name": "Stephens County",
    "officeIndices": [
@@ -5647,6 +5644,9 @@
     720
    ]
   },
+  "ocd-division/country:us/state:ga/county:fulton/precinct:ap12a": {
+   "name": "Fulton County GA - Precinct AP12A"
+  },
   "ocd-division/country:us/state:ga/county:thomas/precinct:metcalfe": {
    "name": "Thomas County GA - Precinct Metcalfe"
   },
@@ -5659,14 +5659,14 @@
     721
    ]
   },
+  "ocd-division/country:us/state:ga/place:pelham": {
+   "name": "Pelham city"
+  },
   "ocd-division/country:us/state:ga/county:screven/council_district:2": {
    "name": "Screven County Commission District 2",
    "officeIndices": [
     722
    ]
-  },
-  "ocd-division/country:us/state:ga/place:pelham": {
-   "name": "Pelham city"
   },
   "ocd-division/country:us/state:ga/county:screven/council_district:5": {
    "name": "Screven County Commission District 5",
@@ -5716,11 +5716,11 @@
   "ocd-division/country:us/state:ga/county:habersham/precinct:center_hill": {
    "name": "Habersham County GA - Precinct Center Hill"
   },
-  "ocd-division/country:us/state:ga/county:stephens/precinct:big_smith": {
-   "name": "Stephens County GA - Precinct Big Smith"
-  },
   "ocd-division/country:us/state:ga/county:whitfield/precinct:eastside": {
    "name": "Whitfield County GA - Precinct EASTSIDE"
+  },
+  "ocd-division/country:us/state:ga/county:stephens/precinct:big_smith": {
+   "name": "Stephens County GA - Precinct Big Smith"
   },
   "ocd-division/country:us/state:ga/county:columbia/precinct:40": {
    "name": "Columbia County GA - Precinct 40-Eubank/Blanchard Center"
@@ -5731,11 +5731,11 @@
   "ocd-division/country:us/state:ga/county:columbia/precinct:30": {
    "name": "Columbia County GA - Precinct 30-Grovetown City Hall"
   },
-  "ocd-division/country:us/state:ga/county:coffee/precinct:west_green": {
-   "name": "Coffee County GA - Precinct West Green"
-  },
   "ocd-division/country:us/state:ga/county:columbia/precinct:31": {
    "name": "Columbia County GA - Precinct 31-Grovetown Methodist Church"
+  },
+  "ocd-division/country:us/state:ga/county:coffee/precinct:west_green": {
+   "name": "Coffee County GA - Precinct West Green"
   },
   "ocd-division/country:us/state:ga/county:columbia/precinct:32": {
    "name": "Columbia County GA - Precinct 32-Greater Aug. Apostolic Church"
@@ -5743,11 +5743,11 @@
   "ocd-division/country:us/state:ga/county:columbia/precinct:33": {
    "name": "Columbia County GA - Precinct 33-Grovetown Middle School"
   },
-  "ocd-division/country:us/state:ga/county:fulton/precinct:ml01a": {
-   "name": "Fulton County GA - Precinct ML01A"
-  },
   "ocd-division/country:us/state:ga/place:whigham": {
    "name": "Whigham city"
+  },
+  "ocd-division/country:us/state:ga/county:fulton/precinct:ml01a": {
+   "name": "Fulton County GA - Precinct ML01A"
   },
   "ocd-division/country:us/state:ga/county:fulton/precinct:ml01b": {
    "name": "Fulton County GA - Precinct ML01B"
@@ -5758,14 +5758,14 @@
     727
    ]
   },
-  "ocd-division/country:us/state:ga/county:coweta/precinct:jefferson_parkway": {
-   "name": "Coweta County GA - Precinct JEFFERSON PARKWAY"
-  },
   "ocd-division/country:us/state:ga/county:warren/council_district:2": {
    "name": "Warren County Commission District 2",
    "officeIndices": [
     728
    ]
+  },
+  "ocd-division/country:us/state:ga/county:coweta/precinct:jefferson_parkway": {
+   "name": "Coweta County GA - Precinct JEFFERSON PARKWAY"
   },
   "ocd-division/country:us/state:ga/county:johnson/precinct:bray": {
    "name": "Johnson County GA - Precinct Bray"
@@ -5794,14 +5794,14 @@
     2
    ]
   },
-  "ocd-division/country:us/state:ga/county:hart/school_district:hart_county": {
-   "name": "hart county"
-  },
   "ocd-division/country:us/state:ga/cd:4": {
    "name": "Georgia's 4th congressional district",
    "officeIndices": [
     3
    ]
+  },
+  "ocd-division/country:us/state:ga/county:hart/school_district:hart_county": {
+   "name": "hart county"
   },
   "ocd-division/country:us/state:ga/county:gwinnett/precinct:21-pinckneyville_b": {
    "name": "Gwinnett County GA - Precinct 021 Pinckneyville B"
@@ -5884,14 +5884,14 @@
     7
    ]
   },
+  "ocd-division/country:us/state:ga/county:columbia/precinct:15": {
+   "name": "Columbia County GA - Precinct 15-Lewis Methodist Church"
+  },
   "ocd-division/country:us/state:ga/cd:5": {
    "name": "Georgia's 5th congressional district",
    "officeIndices": [
     8
    ]
-  },
-  "ocd-division/country:us/state:ga/county:columbia/precinct:15": {
-   "name": "Columbia County GA - Precinct 15-Lewis Methodist Church"
   },
   "ocd-division/country:us/state:ga/county:columbia/precinct:16": {
    "name": "Columbia County GA - Precinct 16-Woodlawn Baptist Church"
@@ -6780,14 +6780,14 @@
   "ocd-division/country:us/state:ga/place:blairsville": {
    "name": "Blairsville city"
   },
+  "ocd-division/country:us/state:ga/county:wilcox/precinct:pineview_2": {
+   "name": "Wilcox County GA - Precinct Pineview 2"
+  },
   "ocd-division/country:us/state:ga/county:clayton/council_district:3": {
    "name": "Clayton County GA Board of County Commissioners District 3",
    "officeIndices": [
     808
    ]
-  },
-  "ocd-division/country:us/state:ga/county:wilcox/precinct:pineview_2": {
-   "name": "Wilcox County GA - Precinct Pineview 2"
   },
   "ocd-division/country:us/state:ga/county:pickens/precinct:yellow_creek": {
    "name": "Pickens County GA - Precinct YELLOW CREEK"
@@ -8032,11 +8032,11 @@
   "ocd-division/country:us/state:ga/county:randolph/school_district:randolph_county": {
    "name": "randolph county"
   },
-  "ocd-division/country:us/state:ga/place:madison": {
-   "name": "Madison city"
-  },
   "ocd-division/country:us/state:ga/place:pinehurst": {
    "name": "Pinehurst city"
+  },
+  "ocd-division/country:us/state:ga/place:madison": {
+   "name": "Madison city"
   },
   "ocd-division/country:us/state:ga/county:miller/school_district:miller_county": {
    "name": "miller county"
@@ -11318,11 +11318,11 @@
   "ocd-division/country:us/state:ga/county:fulton/precinct:ss14": {
    "name": "Fulton County GA - Precinct SS14"
   },
-  "ocd-division/country:us/state:ga/county:troup/precinct:long_cane": {
-   "name": "Troup County GA - Precinct LONG CANE"
-  },
   "ocd-division/country:us/state:ga/place:wrens": {
    "name": "Wrens city"
+  },
+  "ocd-division/country:us/state:ga/county:troup/precinct:long_cane": {
+   "name": "Troup County GA - Precinct LONG CANE"
   },
   "ocd-division/country:us/state:ga/place:clarkston": {
    "name": "Clarkston city"
@@ -11336,17 +11336,17 @@
   "ocd-division/country:us/state:ga/county:fulton/precinct:ss20": {
    "name": "Fulton County GA - Precinct SS20"
   },
-  "ocd-division/country:us/state:ga/county:burke/precinct:greenscut": {
-   "name": "Burke County GA - Precinct Greenscut"
-  },
   "ocd-division/country:us/state:ga/county:wayne/precinct:altamaha": {
    "name": "Wayne County GA - Precinct Altamaha"
   },
-  "ocd-division/country:us/state:ga/county:fayette/precinct:windgate": {
-   "name": "Fayette County GA - Precinct WINDGATE"
+  "ocd-division/country:us/state:ga/county:burke/precinct:greenscut": {
+   "name": "Burke County GA - Precinct Greenscut"
   },
   "ocd-division/country:us/state:ga/place:alamo": {
    "name": "Alamo town"
+  },
+  "ocd-division/country:us/state:ga/county:fayette/precinct:windgate": {
+   "name": "Fayette County GA - Precinct WINDGATE"
   },
   "ocd-division/country:us/state:ga/county:fulton/precinct:ss26": {
    "name": "Fulton County GA - Precinct SS26"
@@ -11357,23 +11357,23 @@
   "ocd-division/country:us/state:ga/county:carroll/precinct:1152-center_point": {
    "name": "Carroll County GA - Precinct CENTER POINT (1152)"
   },
-  "ocd-division/country:us/state:ga/county:spalding/precinct:sun_city": {
-   "name": "Spalding County GA - Precinct SUN CITY"
-  },
   "ocd-division/country:us/state:ga/place:oconee": {
    "name": "Oconee city"
+  },
+  "ocd-division/country:us/state:ga/county:spalding/precinct:sun_city": {
+   "name": "Spalding County GA - Precinct SUN CITY"
   },
   "ocd-division/country:us/state:ga/county:fulton/precinct:02f1": {
    "name": "Fulton County GA - Precinct 02F1"
   },
-  "ocd-division/country:us/state:ga/county:fulton/precinct:02f2": {
-   "name": "Fulton County GA - Precinct 02F2"
+  "ocd-division/country:us/state:ga/county:thomas/precinct:pavo": {
+   "name": "Thomas County GA - Precinct Pavo"
   },
   "ocd-division/country:us/state:ga/county:stephens/school_district:stephens_county": {
    "name": "stephens county"
   },
-  "ocd-division/country:us/state:ga/county:thomas/precinct:pavo": {
-   "name": "Thomas County GA - Precinct Pavo"
+  "ocd-division/country:us/state:ga/county:fulton/precinct:02f2": {
+   "name": "Fulton County GA - Precinct 02F2"
   },
   "ocd-division/country:us/state:ga/county:forsyth/council_district:1": {
    "name": "Forsyth County GA Board of Commissioners District 1",
@@ -11416,14 +11416,14 @@
   "ocd-division/country:us/state:ga/county:fulton/precinct:ss31": {
    "name": "Fulton County GA - Precinct SS31"
   },
-  "ocd-division/country:us/state:ga/county:murray/precinct:mcdonald": {
-   "name": "Murray County GA - Precinct MCDONALD"
+  "ocd-division/country:us/state:ga/county:white/school_district:white_county": {
+   "name": "white county"
   },
   "ocd-division/country:us/state:ga/county:crisp/precinct:arabi": {
    "name": "Crisp County GA - Precinct Arabi"
   },
-  "ocd-division/country:us/state:ga/county:white/school_district:white_county": {
-   "name": "white county"
+  "ocd-division/country:us/state:ga/county:murray/precinct:mcdonald": {
+   "name": "Murray County GA - Precinct MCDONALD"
   },
   "ocd-division/country:us/state:ga/place:atlanta/council_district:12": {
    "name": "Atlanta GA city council district 12",
@@ -11444,14 +11444,14 @@
     1191
    ]
   },
-  "ocd-division/country:us/state:ga/county:laurens/precinct:burgamy": {
-   "name": "Laurens County GA - Precinct Burgamy"
-  },
   "ocd-division/country:us/state:ga/place:atlanta/council_district:11": {
    "name": "Atlanta GA city council district 11",
    "officeIndices": [
     1192
    ]
+  },
+  "ocd-division/country:us/state:ga/county:laurens/precinct:burgamy": {
+   "name": "Laurens County GA - Precinct Burgamy"
   },
   "ocd-division/country:us/state:ga/county:warren": {
    "name": "Warren County",
@@ -11465,11 +11465,11 @@
   "ocd-division/country:us/state:ga/county:liberty/precinct:walthourville": {
    "name": "Liberty County GA - Precinct Walthourville"
   },
-  "ocd-division/country:us/state:ga/county:fannin/precinct:mobile": {
-   "name": "Fannin County GA - Precinct MOBILE"
-  },
   "ocd-division/country:us/state:ga/county:treutlen/precinct:oglethorpe": {
    "name": "Treutlen County GA - Precinct Oglethorpe"
+  },
+  "ocd-division/country:us/state:ga/county:fannin/precinct:mobile": {
+   "name": "Fannin County GA - Precinct MOBILE"
   },
   "ocd-division/country:us/state:ga/county:chattooga/precinct:seminole": {
    "name": "Chattooga County GA - Precinct SEMINOLE"
@@ -16022,14 +16022,14 @@
     1586
    ]
   },
+  "ocd-division/country:us/state:ga/county:fulton/precinct:02j": {
+   "name": "Fulton County GA - Precinct 02J"
+  },
   "ocd-division/country:us/state:ga/county:gwinnett/council_district:4": {
    "name": "Gwinnett County GA Board of Commissioners District 4",
    "officeIndices": [
     1587
    ]
-  },
-  "ocd-division/country:us/state:ga/county:fulton/precinct:02j": {
-   "name": "Fulton County GA - Precinct 02J"
   },
   "ocd-division/country:us/state:ga/county:gwinnett/council_district:3": {
    "name": "Gwinnett County GA Board of Commissioners District 3",
@@ -21941,39 +21941,39 @@
    ]
   },
   {
-   "name": "County Commission, District 4",
-   "divisionId": "ocd-division/country:us/state:ga/county:fulton/council_district:4",
-   "officialIndices": [
-    455
-   ]
-  },
-  {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ga/county:baker",
    "officialIndices": [
-    456
+    455
    ]
   },
   {
    "name": "Clerk of Courts",
    "divisionId": "ocd-division/country:us/state:ga/county:baker",
    "officialIndices": [
-    457
+    456
    ]
   },
   {
    "name": "County Commission",
    "divisionId": "ocd-division/country:us/state:ga/county:baker",
    "officialIndices": [
+    457,
     458,
     459,
-    460,
-    461
+    460
    ]
   },
   {
    "name": "Tax Commissioner/Chief Registrar",
    "divisionId": "ocd-division/country:us/state:ga/county:baker",
+   "officialIndices": [
+    461
+   ]
+  },
+  {
+   "name": "County Commission, District 4",
+   "divisionId": "ocd-division/country:us/state:ga/county:fulton/council_district:4",
    "officialIndices": [
     462
    ]
@@ -22086,43 +22086,43 @@
    ]
   },
   {
-   "name": "County Commission, District 4",
-   "divisionId": "ocd-division/country:us/state:ga/county:pierce/council_district:4",
-   "officialIndices": [
-    480
-   ]
-  },
-  {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ga/county:chatham",
    "officialIndices": [
-    481
+    480
    ]
   },
   {
    "name": "Clerk of Courts",
    "divisionId": "ocd-division/country:us/state:ga/county:chatham",
    "officialIndices": [
-    482
+    481
    ]
   },
   {
    "name": "Tax Commissioner",
    "divisionId": "ocd-division/country:us/state:ga/county:chatham",
    "officialIndices": [
-    483
+    482
    ]
   },
   {
    "name": "District Attorney",
    "divisionId": "ocd-division/country:us/state:ga/county:chatham",
    "officialIndices": [
-    484
+    483
    ]
   },
   {
    "name": "County Commission, District At-Large",
    "divisionId": "ocd-division/country:us/state:ga/county:chatham",
+   "officialIndices": [
+    484
+   ]
+  },
+  {
+   "name": "County Commission, District 4",
+   "divisionId": "ocd-division/country:us/state:ga/county:pierce/council_district:4",
    "officialIndices": [
     485
    ]
@@ -41466,19 +41466,6 @@
    ]
   },
   {
-   "name": "Tom Lowe",
-   "party": "Unknown",
-   "phones": [
-    "(404) 612-8218"
-   ],
-   "urls": [
-    "http://fultoncountyga.gov/commissioners"
-   ],
-   "emails": [
-    "tom.lowe@fultoncountyga.gov"
-   ]
-  },
-  {
    "name": "Dana Meade",
    "party": "Unknown"
   },
@@ -41505,6 +41492,19 @@
   {
    "name": "Mona Smith",
    "party": "Unknown"
+  },
+  {
+   "name": "Tom Lowe",
+   "party": "Unknown",
+   "phones": [
+    "(404) 612-8218"
+   ],
+   "urls": [
+    "http://fultoncountyga.gov/commissioners"
+   ],
+   "emails": [
+    "tom.lowe@fultoncountyga.gov"
+   ]
   },
   {
    "name": "Kenneth Smith",
@@ -41626,13 +41626,6 @@
    ]
   },
   {
-   "name": "Carl Boyette",
-   "party": "Unknown",
-   "urls": [
-    "http://www.piercecountyga.org/boardofcommissioners/district4commissioner.html"
-   ]
-  },
-  {
    "name": "Al St.Lawrence",
    "party": "Unknown",
    "urls": [
@@ -41662,6 +41655,13 @@
    "party": "Unknown",
    "emails": [
     "alscott@chathamcounty.org"
+   ]
+  },
+  {
+   "name": "Carl Boyette",
+   "party": "Unknown",
+   "urls": [
+    "http://www.piercecountyga.org/boardofcommissioners/district4commissioner.html"
    ]
   },
   {

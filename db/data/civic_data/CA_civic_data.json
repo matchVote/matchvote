@@ -1,16 +1,16 @@
 {
  "divisions": {
-  "ocd-division/country:us/state:ca/county:inyo/school_district:round_valley_joint_elementary": {
-   "name": "round valley joint elementary"
-  },
   "ocd-division/country:us/state:ca/county:kern/school_district:panama-buena_vista_union": {
    "name": "panama-buena vista union"
   },
-  "ocd-division/country:us/state:ca/county:marin/school_district:marin_county_office_of_education": {
-   "name": "marin county office of education"
+  "ocd-division/country:us/state:ca/county:inyo/school_district:round_valley_joint_elementary": {
+   "name": "round valley joint elementary"
   },
   "ocd-division/country:us/state:ca/place:ontario": {
    "name": "Ontario city"
+  },
+  "ocd-division/country:us/state:ca/county:marin/school_district:marin_county_office_of_education": {
+   "name": "marin county office of education"
   },
   "ocd-division/country:us/state:ca/place:tustin": {
    "name": "Tustin city"
@@ -27,11 +27,11 @@
   "ocd-division/country:us/state:ca/county:inyo/school_district:owens_valley_unified": {
    "name": "owens valley unified"
   },
-  "ocd-division/country:us/state:ca/county:riverside/school_district:val_verde_unified": {
-   "name": "val verde unified"
-  },
   "ocd-division/country:us/state:ca/county:el_dorado/school_district:el_dorado_county_office_of_education": {
    "name": "el dorado county office of education"
+  },
+  "ocd-division/country:us/state:ca/county:riverside/school_district:val_verde_unified": {
+   "name": "val verde unified"
   },
   "ocd-division/country:us/state:ca/place:pasadena": {
    "name": "Pasadena city"
@@ -117,14 +117,14 @@
     56
    ]
   },
-  "ocd-division/country:us/state:ca/place:morgan_hill": {
-   "name": "Morgan Hill city"
-  },
   "ocd-division/country:us/state:ca/sldu:30": {
    "name": "California State Senate district 30",
    "officeIndices": [
     57
    ]
+  },
+  "ocd-division/country:us/state:ca/place:morgan_hill": {
+   "name": "Morgan Hill city"
   },
   "ocd-division/country:us/state:ca/county:monterey/school_district:mission_union_elementary": {
    "name": "mission union elementary"
@@ -177,19 +177,6 @@
     59
    ]
   },
-  "ocd-division/country:us/state:ca/county:shasta/school_district:igo_ono_platina_union_elementary": {
-   "name": "igo ono platina union elementary"
-  },
-  "ocd-division/country:us/state:ca/county:alpine": {
-   "name": "Alpine County",
-   "officeIndices": [
-    217,
-    218,
-    219,
-    220,
-    221
-   ]
-  },
   "ocd-division/country:us/state:ca/sldu:38": {
    "name": "California State Senate district 38",
    "officeIndices": [
@@ -199,19 +186,32 @@
   "ocd-division/country:us/state:ca/county:los_angeles": {
    "name": "Los Angeles County",
    "officeIndices": [
+    217,
+    218,
+    219
+   ]
+  },
+  "ocd-division/country:us/state:ca/county:alpine": {
+   "name": "Alpine County",
+   "officeIndices": [
+    220,
+    221,
     222,
     223,
     224
    ]
   },
-  "ocd-division/country:us/state:ca/place:fullerton": {
-   "name": "Fullerton city"
+  "ocd-division/country:us/state:ca/county:shasta/school_district:igo_ono_platina_union_elementary": {
+   "name": "igo ono platina union elementary"
   },
   "ocd-division/country:us/state:ca/sldu:35": {
    "name": "California State Senate district 35",
    "officeIndices": [
     61
    ]
+  },
+  "ocd-division/country:us/state:ca/place:fullerton": {
+   "name": "Fullerton city"
   },
   "ocd-division/country:us/state:ca/sldu:36": {
    "name": "California State Senate district 36",
@@ -225,14 +225,14 @@
     63
    ]
   },
-  "ocd-division/country:us/state:ca/county:los_angeles/school_district:hawthorne": {
-   "name": "hawthorne"
-  },
   "ocd-division/country:us/state:ca/sldu:34": {
    "name": "California State Senate district 34",
    "officeIndices": [
     64
    ]
+  },
+  "ocd-division/country:us/state:ca/county:los_angeles/school_district:hawthorne": {
+   "name": "hawthorne"
   },
   "ocd-division/country:us/state:ca/county:tuolumne": {
    "name": "Tuolumne County",
@@ -243,11 +243,11 @@
     228
    ]
   },
-  "ocd-division/country:us/state:ca/county:lake/school_district:lake_county_rop": {
-   "name": "lake county rop"
-  },
   "ocd-division/country:us/state:ca/place:farmersville": {
    "name": "Farmersville city"
+  },
+  "ocd-division/country:us/state:ca/county:lake/school_district:lake_county_rop": {
+   "name": "lake county rop"
   },
   "ocd-division/country:us/state:ca/sldu:21": {
    "name": "California State Senate district 21",
@@ -297,29 +297,29 @@
   "ocd-division/country:us/state:ca/county:kern/school_district:blake_elementary": {
    "name": "blake elementary"
   },
-  "ocd-division/country:us/state:ca/county:san_bernardino/school_district:rialto_unified": {
-   "name": "rialto unified"
-  },
   "ocd-division/country:us/state:ca/county:butte/school_district:chico_unified": {
    "name": "chico unified"
   },
-  "ocd-division/country:us/state:ca/county:tulare/school_district:three_rivers_union_elementary": {
-   "name": "three rivers union elementary"
+  "ocd-division/country:us/state:ca/county:san_bernardino/school_district:rialto_unified": {
+   "name": "rialto unified"
   },
   "ocd-division/country:us/state:ca/county:san_diego/school_district:fallbrook_union_high": {
    "name": "fallbrook union high"
   },
+  "ocd-division/country:us/state:ca/county:tulare/school_district:three_rivers_union_elementary": {
+   "name": "three rivers union elementary"
+  },
   "ocd-division/country:us/state:ca/place:galt": {
    "name": "Galt city"
   },
-  "ocd-division/country:us/state:ca/county:alameda/school_district:hayward_unified": {
-   "name": "hayward unified"
+  "ocd-division/country:us/state:ca/place:pomona": {
+   "name": "Pomona city"
   },
   "ocd-division/country:us/state:ca/place:cupertino": {
    "name": "Cupertino city"
   },
-  "ocd-division/country:us/state:ca/place:pomona": {
-   "name": "Pomona city"
+  "ocd-division/country:us/state:ca/county:alameda/school_district:hayward_unified": {
+   "name": "hayward unified"
   },
   "ocd-division/country:us/state:ca/county:contra_costa/school_district:mt._diablo_unified": {
    "name": "mt. diablo unified"
@@ -354,6 +354,12 @@
     71
    ]
   },
+  "ocd-division/country:us/state:ca/sldu:23": {
+   "name": "California State Senate district 23",
+   "officeIndices": [
+    72
+   ]
+  },
   "ocd-division/country:us/state:ca/county:lake": {
    "name": "Lake County",
    "officeIndices": [
@@ -364,20 +370,14 @@
     237
    ]
   },
-  "ocd-division/country:us/state:ca/sldu:23": {
-   "name": "California State Senate district 23",
-   "officeIndices": [
-    72
-   ]
-  },
-  "ocd-division/country:us/state:ca/county:fresno/school_district:fresno_rop": {
-   "name": "fresno rop"
-  },
   "ocd-division/country:us/state:ca/sldu:24": {
    "name": "California State Senate district 24",
    "officeIndices": [
     73
    ]
+  },
+  "ocd-division/country:us/state:ca/county:fresno/school_district:fresno_rop": {
+   "name": "fresno rop"
   },
   "ocd-division/country:us/state:ca/sldu:25": {
    "name": "California State Senate district 25",
@@ -411,6 +411,12 @@
   "ocd-division/country:us/state:ca/place:alhambra": {
    "name": "Alhambra city"
   },
+  "ocd-division/country:us/state:ca/sldu:14": {
+   "name": "California State Senate district 14",
+   "officeIndices": [
+    76
+   ]
+  },
   "ocd-division/country:us/state:ca/county:orange": {
    "name": "Orange County",
    "officeIndices": [
@@ -420,12 +426,6 @@
     247,
     248,
     249
-   ]
-  },
-  "ocd-division/country:us/state:ca/sldu:14": {
-   "name": "California State Senate district 14",
-   "officeIndices": [
-    76
    ]
   },
   "ocd-division/country:us/state:ca/county:imperial/school_district:san_pasqual_valley_unified": {
@@ -832,14 +832,14 @@
     283
    ]
   },
-  "ocd-division/country:us/state:ca/county:santa_clara/school_district:mt._pleasant_elementary": {
-   "name": "mt. pleasant elementary"
-  },
   "ocd-division/country:us/state:ca/county:san_diego/council_district:1": {
    "name": "San Diego County CA Board of Supervisors District 1",
    "officeIndices": [
     284
    ]
+  },
+  "ocd-division/country:us/state:ca/county:santa_clara/school_district:mt._pleasant_elementary": {
+   "name": "mt. pleasant elementary"
   },
   "ocd-division/country:us/state:ca/county:kings/council_district:5": {
    "name": "Kings County Supervisor District 5",
@@ -859,28 +859,28 @@
     287
    ]
   },
-  "ocd-division/country:us/state:ca/county:kings/council_district:3": {
-   "name": "Kings County Supervisor District 3",
-   "officeIndices": [
-    288
-   ]
-  },
   "ocd-division/country:us/state:ca/place:manhattan_beach": {
    "name": "Manhattan Beach city"
-  },
-  "ocd-division/country:us/state:ca/county:sonoma/council_district:1": {
-   "name": "Sonoma County CA Board of Supervisors District 1",
-   "officeIndices": [
-    289
-   ]
   },
   "ocd-division/country:us/state:ca/county:merced": {
    "name": "Merced County",
    "officeIndices": [
+    288,
+    289,
     290,
     291,
-    292,
-    293,
+    292
+   ]
+  },
+  "ocd-division/country:us/state:ca/county:kings/council_district:3": {
+   "name": "Kings County Supervisor District 3",
+   "officeIndices": [
+    293
+   ]
+  },
+  "ocd-division/country:us/state:ca/county:sonoma/council_district:1": {
+   "name": "Sonoma County CA Board of Supervisors District 1",
+   "officeIndices": [
     294
    ]
   },
@@ -911,11 +911,11 @@
   "ocd-division/country:us/state:ca/county:siskiyou/school_district:little_shasta_elementary": {
    "name": "little shasta elementary"
   },
-  "ocd-division/country:us/state:ca/county:madera/school_district:golden_valley_unified": {
-   "name": "golden valley unified"
-  },
   "ocd-division/country:us/state:ca/place:walnut": {
    "name": "Walnut city"
+  },
+  "ocd-division/country:us/state:ca/county:madera/school_district:golden_valley_unified": {
+   "name": "golden valley unified"
   },
   "ocd-division/country:us/state:ca/county:alameda/school_district:mountain_house_elementary": {
    "name": "mountain house elementary"
@@ -923,11 +923,11 @@
   "ocd-division/country:us/state:ca/place:campbell": {
    "name": "Campbell city"
   },
-  "ocd-division/country:us/state:ca/county:tehama/school_district:corning_union_elementary": {
-   "name": "corning union elementary"
-  },
   "ocd-division/country:us/state:ca/county:kern/school_district:el_tejon_unified": {
    "name": "el tejon unified"
+  },
+  "ocd-division/country:us/state:ca/county:tehama/school_district:corning_union_elementary": {
+   "name": "corning union elementary"
   },
   "ocd-division/country:us/state:ca/place:del_rey_oaks": {
    "name": "Del Rey Oaks city"
@@ -941,11 +941,11 @@
   "ocd-division/country:us/state:ca/county:kern/school_district:pond_union_elementary": {
    "name": "pond union elementary"
   },
-  "ocd-division/country:us/state:ca/county:colusa/school_district:colusa_county_office_of_education": {
-   "name": "colusa county office of education"
-  },
   "ocd-division/country:us/state:ca/place:arcata": {
    "name": "Arcata city"
+  },
+  "ocd-division/country:us/state:ca/county:colusa/school_district:colusa_county_office_of_education": {
+   "name": "colusa county office of education"
   },
   "ocd-division/country:us/state:ca/county:monterey/school_district:chualar_union": {
    "name": "chualar union"
@@ -965,26 +965,26 @@
     298
    ]
   },
-  "ocd-division/country:us/state:ca/county:trinity/school_district:lewiston_elementary": {
-   "name": "lewiston elementary"
-  },
   "ocd-division/country:us/state:ca/county:siskiyou/council_district:4": {
    "name": "Siskiyou County Supervisor District 4",
    "officeIndices": [
     299
    ]
   },
+  "ocd-division/country:us/state:ca/county:trinity/school_district:lewiston_elementary": {
+   "name": "lewiston elementary"
+  },
+  "ocd-division/country:us/state:ca/county:colusa/school_district:maxwell_unified": {
+   "name": "maxwell unified"
+  },
+  "ocd-division/country:us/state:ca/county:san_joaquin/school_district:escalon_unified": {
+   "name": "escalon unified"
+  },
   "ocd-division/country:us/state:ca/county:siskiyou/council_district:5": {
    "name": "Siskiyou County Supervisor District 5",
    "officeIndices": [
     300
    ]
-  },
-  "ocd-division/country:us/state:ca/county:san_joaquin/school_district:escalon_unified": {
-   "name": "escalon unified"
-  },
-  "ocd-division/country:us/state:ca/county:colusa/school_district:maxwell_unified": {
-   "name": "maxwell unified"
   },
   "ocd-division/country:us/state:ca/county:san_bernardino/school_district:hesperia_unified": {
    "name": "hesperia unified"
@@ -998,11 +998,11 @@
   "ocd-division/country:us/state:ca/county:san_mateo/school_district:sequoia_union_high": {
    "name": "sequoia union high"
   },
-  "ocd-division/country:us/state:ca/county:san_joaquin/school_district:lammersville_joint_unified": {
-   "name": "lammersville joint unified"
-  },
   "ocd-division/country:us/state:ca/county:humboldt/school_district:trinidad_union_elementary": {
    "name": "trinidad union elementary"
+  },
+  "ocd-division/country:us/state:ca/county:san_joaquin/school_district:lammersville_joint_unified": {
+   "name": "lammersville joint unified"
   },
   "ocd-division/country:us/state:ca/county:los_angeles/school_district:temple_city_unified": {
    "name": "temple city unified"
@@ -1019,14 +1019,14 @@
   "ocd-division/country:us/state:ca/place:escalon": {
    "name": "Escalon city"
   },
-  "ocd-division/country:us/state:ca/county:tulare/school_district:terra_bella_union_elementary": {
-   "name": "terra bella union elementary"
+  "ocd-division/country:us/state:ca/place:temple_city": {
+   "name": "Temple City city"
   },
   "ocd-division/country:us/state:ca/county:kern/school_district:lost_hills_union_elementary": {
    "name": "lost hills union elementary"
   },
-  "ocd-division/country:us/state:ca/place:temple_city": {
-   "name": "Temple City city"
+  "ocd-division/country:us/state:ca/county:tulare/school_district:terra_bella_union_elementary": {
+   "name": "terra bella union elementary"
   },
   "ocd-division/country:us/state:ca/county:sonoma/school_district:wilmar_union_elementary": {
    "name": "wilmar union elementary"
@@ -1055,11 +1055,11 @@
   "ocd-division/country:us/state:ca/county:orange/school_district:huntington_beach_city_elementary": {
    "name": "huntington beach city elementary"
   },
-  "ocd-division/country:us/state:ca/county:santa_barbara/school_district:goleta_union_elementary": {
-   "name": "goleta union elementary"
-  },
   "ocd-division/country:us/state:ca/county:nevada/school_district:pleasant_valley_elementary": {
    "name": "pleasant valley elementary"
+  },
+  "ocd-division/country:us/state:ca/county:santa_barbara/school_district:goleta_union_elementary": {
+   "name": "goleta union elementary"
   },
   "ocd-division/country:us/state:ca/county:el_dorado": {
    "name": "El Dorado County",
@@ -1072,14 +1072,14 @@
     308
    ]
   },
-  "ocd-division/country:us/state:ca/county:sonoma/school_district:piner-olivet_union_elementary": {
-   "name": "piner-olivet union elementary"
-  },
   "ocd-division/country:us/state:ca/county:lassen/council_district:5": {
    "name": "Lassen County Supervisor District 5",
    "officeIndices": [
     309
    ]
+  },
+  "ocd-division/country:us/state:ca/county:sonoma/school_district:piner-olivet_union_elementary": {
+   "name": "piner-olivet union elementary"
   },
   "ocd-division/country:us/state:ca/county:lassen/council_district:4": {
    "name": "Lassen County Supervisor District 4",
@@ -1087,14 +1087,14 @@
     310
    ]
   },
-  "ocd-division/country:us/state:ca/county:siskiyou/school_district:butte_valley_unified": {
-   "name": "butte valley unified"
-  },
   "ocd-division/country:us/state:ca/county:lassen/council_district:3": {
    "name": "Lassen County Supervisor District 3",
    "officeIndices": [
     311
    ]
+  },
+  "ocd-division/country:us/state:ca/county:siskiyou/school_district:butte_valley_unified": {
+   "name": "butte valley unified"
   },
   "ocd-division/country:us/state:ca/county:lassen/council_district:2": {
    "name": "Lassen County Supervisor District 2",
@@ -1144,17 +1144,14 @@
   "ocd-division/country:us/state:ca/place:folsom": {
    "name": "Folsom city"
   },
-  "ocd-division/country:us/state:ca/county:tehama/school_district:evergreen_union": {
-   "name": "evergreen union"
-  },
   "ocd-division/country:us/state:ca/county:del_norte/council_district:4": {
    "name": "Del Norte County Supervisor District 4",
    "officeIndices": [
     315
    ]
   },
-  "ocd-division/country:us/state:ca/county:santa_clara/school_district:oak_grove_elementary": {
-   "name": "oak grove elementary"
+  "ocd-division/country:us/state:ca/county:tehama/school_district:evergreen_union": {
+   "name": "evergreen union"
   },
   "ocd-division/country:us/state:ca/county:del_norte/council_district:3": {
    "name": "Del Norte County Supervisor District 3",
@@ -1162,14 +1159,17 @@
     316
    ]
   },
+  "ocd-division/country:us/state:ca/county:santa_clara/school_district:oak_grove_elementary": {
+   "name": "oak grove elementary"
+  },
+  "ocd-division/country:us/state:ca/place:pomona/council_district:6": {
+   "name": "Pomona CA city council district 6"
+  },
   "ocd-division/country:us/state:ca/county:del_norte/council_district:2": {
    "name": "Del Norte County Supervisor District 2",
    "officeIndices": [
     317
    ]
-  },
-  "ocd-division/country:us/state:ca/place:pomona/council_district:6": {
-   "name": "Pomona CA city council district 6"
   },
   "ocd-division/country:us/state:ca/county:sacramento": {
    "name": "Sacramento County",
@@ -1191,17 +1191,17 @@
     322
    ]
   },
-  "ocd-division/country:us/state:ca/county:lake/school_district:upper_lake_union_elementary": {
-   "name": "upper lake union elementary"
-  },
   "ocd-division/country:us/state:ca/county:lassen/school_district:westwood_unified": {
    "name": "westwood unified"
   },
-  "ocd-division/country:us/state:ca/county:plumas/school_district:plumas_county_rop": {
-   "name": "plumas county rop"
+  "ocd-division/country:us/state:ca/county:lake/school_district:upper_lake_union_elementary": {
+   "name": "upper lake union elementary"
   },
   "ocd-division/country:us/state:ca/county:butte/school_district:feather_falls_union_elementary": {
    "name": "feather falls union elementary"
+  },
+  "ocd-division/country:us/state:ca/county:plumas/school_district:plumas_county_rop": {
+   "name": "plumas county rop"
   },
   "ocd-division/country:us/state:ca/place:porterville": {
    "name": "Porterville city"
@@ -1218,17 +1218,17 @@
   "ocd-division/country:us/state:ca/place:pomona/council_district:5": {
    "name": "Pomona CA city council district 5"
   },
-  "ocd-division/country:us/state:ca/place:grover_beach": {
-   "name": "Grover Beach city"
-  },
   "ocd-division/country:us/state:ca/place:pomona/council_district:4": {
    "name": "Pomona CA city council district 4"
   },
-  "ocd-division/country:us/state:ca/place:dinuba": {
-   "name": "Dinuba city"
+  "ocd-division/country:us/state:ca/place:grover_beach": {
+   "name": "Grover Beach city"
   },
   "ocd-division/country:us/state:ca/place:pomona/council_district:3": {
    "name": "Pomona CA city council district 3"
+  },
+  "ocd-division/country:us/state:ca/place:dinuba": {
+   "name": "Dinuba city"
   },
   "ocd-division/country:us/state:ca/place:pomona/council_district:2": {
    "name": "Pomona CA city council district 2"
@@ -1254,11 +1254,11 @@
   "ocd-division/country:us/state:ca/county:mendocino/school_district:mendocino_county_office_of_education": {
    "name": "mendocino county office of education"
   },
-  "ocd-division/country:us/state:ca/county:los_angeles/school_district:gorman_elementary": {
-   "name": "gorman elementary"
-  },
   "ocd-division/country:us/state:ca/county:merced/school_district:merced_county_rop": {
    "name": "merced county rop"
+  },
+  "ocd-division/country:us/state:ca/county:los_angeles/school_district:gorman_elementary": {
+   "name": "gorman elementary"
   },
   "ocd-division/country:us/state:ca/county:kern/school_district:general_shafter_elementary": {
    "name": "general shafter elementary"
@@ -1287,11 +1287,11 @@
   "ocd-division/country:us/state:ca/county:san_luis_obispo/school_district:pleasant_valley_joint_union_elementary": {
    "name": "pleasant valley joint union elementary"
   },
-  "ocd-division/country:us/state:ca/county:riverside/school_district:menifee_union_elementary": {
-   "name": "menifee union elementary"
-  },
   "ocd-division/country:us/state:ca/county:merced/school_district:dos_palos_oro_loma_joint_unified": {
    "name": "dos palos oro loma joint unified"
+  },
+  "ocd-division/country:us/state:ca/county:riverside/school_district:menifee_union_elementary": {
+   "name": "menifee union elementary"
   },
   "ocd-division/country:us/state:ca/county:tehama/school_district:red_bluff_joint_union_high": {
    "name": "red bluff joint union high"
@@ -1302,23 +1302,23 @@
   "ocd-division/country:us/state:ca/place:burbank": {
    "name": "Burbank city"
   },
-  "ocd-division/country:us/state:ca/county:siskiyou/school_district:mt._shasta_union_elementary": {
-   "name": "mt. shasta union elementary"
-  },
   "ocd-division/country:us/state:ca/county:kern/school_district:kern_county_rop": {
    "name": "kern county rop"
   },
-  "ocd-division/country:us/state:ca/county:tulare/school_district:pixley_union_elementary": {
-   "name": "pixley union elementary"
+  "ocd-division/country:us/state:ca/county:siskiyou/school_district:mt._shasta_union_elementary": {
+   "name": "mt. shasta union elementary"
   },
   "ocd-division/country:us/state:ca/county:kern/school_district:edison_elementary": {
    "name": "edison elementary"
   },
+  "ocd-division/country:us/state:ca/county:tulare/school_district:pixley_union_elementary": {
+   "name": "pixley union elementary"
+  },
   "ocd-division/country:us/state:ca/county:humboldt/school_district:garfield_elementary": {
    "name": "garfield elementary"
   },
-  "ocd-division/country:us/state:ca/county:santa_clara/school_district:evergreen_elementary": {
-   "name": "evergreen elementary"
+  "ocd-division/country:us/state:ca/county:butte/school_district:palermo_union_elementary": {
+   "name": "palermo union elementary"
   },
   "ocd-division/country:us/state:ca/county:imperial": {
    "name": "Imperial County",
@@ -1331,14 +1331,14 @@
     328
    ]
   },
-  "ocd-division/country:us/state:ca/county:butte/school_district:palermo_union_elementary": {
-   "name": "palermo union elementary"
-  },
-  "ocd-division/country:us/state:ca/county:sonoma/school_district:wright_elementary": {
-   "name": "wright elementary"
+  "ocd-division/country:us/state:ca/county:santa_clara/school_district:evergreen_elementary": {
+   "name": "evergreen elementary"
   },
   "ocd-division/country:us/state:ca/county:butte/school_district:bangor_union_elementary": {
    "name": "bangor union elementary"
+  },
+  "ocd-division/country:us/state:ca/county:sonoma/school_district:wright_elementary": {
+   "name": "wright elementary"
   },
   "ocd-division/country:us/state:ca/county:modoc/school_district:modoc_joint_unified": {
    "name": "modoc joint unified"
@@ -1355,14 +1355,14 @@
     330
    ]
   },
-  "ocd-division/country:us/state:ca/county:los_angeles/school_district:sbe_-_doris_topsy-elvord_academy": {
-   "name": "sbe - doris topsy-elvord academy"
-  },
   "ocd-division/country:us/state:ca/place:san_diego/council_district:4": {
    "name": "San Diego CA city council district 4",
    "officeIndices": [
     331
    ]
+  },
+  "ocd-division/country:us/state:ca/county:los_angeles/school_district:sbe_-_doris_topsy-elvord_academy": {
+   "name": "sbe - doris topsy-elvord academy"
   },
   "ocd-division/country:us/state:ca/place:san_diego/council_district:3": {
    "name": "San Diego CA city council district 3",
@@ -1382,14 +1382,14 @@
     333
    ]
   },
-  "ocd-division/country:us/state:ca/place:pacifica": {
-   "name": "Pacifica city"
-  },
   "ocd-division/country:us/state:ca/place:san_diego/council_district:7": {
    "name": "San Diego CA city council district 7",
    "officeIndices": [
     334
    ]
+  },
+  "ocd-division/country:us/state:ca/place:pacifica": {
+   "name": "Pacifica city"
   },
   "ocd-division/country:us/state:ca/place:san_diego/council_district:8": {
    "name": "San Diego CA city council district 8",
@@ -1409,26 +1409,26 @@
     337
    ]
   },
-  "ocd-division/country:us/state:ca/county:santa_clara/school_district:saratoga_union_elementary": {
-   "name": "saratoga union elementary"
-  },
   "ocd-division/country:us/state:ca/county:humboldt/school_district:maple_creek_elementary": {
    "name": "maple creek elementary"
+  },
+  "ocd-division/country:us/state:ca/county:santa_clara/school_district:saratoga_union_elementary": {
+   "name": "saratoga union elementary"
   },
   "ocd-division/country:us/state:ca/place:sierra_madre": {
    "name": "Sierra Madre city"
   },
-  "ocd-division/country:us/state:ca/county:san_joaquin/school_district:oak_view_union_elementary": {
-   "name": "oak view union elementary"
-  },
   "ocd-division/country:us/state:ca/county:imperial/school_district:seeley_union_elementary": {
    "name": "seeley union elementary"
   },
-  "ocd-division/country:us/state:ca/place:dixon": {
-   "name": "Dixon city"
+  "ocd-division/country:us/state:ca/county:san_joaquin/school_district:oak_view_union_elementary": {
+   "name": "oak view union elementary"
   },
   "ocd-division/country:us/state:ca/place:laguna_niguel": {
    "name": "Laguna Niguel city"
+  },
+  "ocd-division/country:us/state:ca/place:dixon": {
+   "name": "Dixon city"
   },
   "ocd-division/country:us/state:ca/place:madera": {
    "name": "Madera city"
@@ -1481,6 +1481,9 @@
   "ocd-division/country:us/state:ca/county:santa_cruz/school_district:santa_cruz_county_rop": {
    "name": "santa cruz county rop"
   },
+  "ocd-division/country:us/state:ca/county:del_norte/school_district:del_norte_county_unified": {
+   "name": "del norte county unified"
+  },
   "ocd-division/country:us/state:ca/county:plumas": {
    "name": "Plumas County",
    "officeIndices": [
@@ -1490,9 +1493,6 @@
     349,
     350
    ]
-  },
-  "ocd-division/country:us/state:ca/county:del_norte/school_district:del_norte_county_unified": {
-   "name": "del norte county unified"
   },
   "ocd-division/country:us/state:ca/county:merced/school_district:gustine_unified": {
    "name": "gustine unified"
@@ -1506,11 +1506,11 @@
   "ocd-division/country:us/state:ca/county:kern/school_district:norris_elementary": {
    "name": "norris elementary"
   },
-  "ocd-division/country:us/state:ca/place:firebaugh": {
-   "name": "Firebaugh city"
-  },
   "ocd-division/country:us/state:ca/place:sutter_creek": {
    "name": "Sutter Creek city"
+  },
+  "ocd-division/country:us/state:ca/place:firebaugh": {
+   "name": "Firebaugh city"
   },
   "ocd-division/country:us/state:ca/place:ione": {
    "name": "Ione city"
@@ -1521,17 +1521,17 @@
   "ocd-division/country:us/state:ca/county:humboldt/school_district:arcata_elementary": {
    "name": "arcata elementary"
   },
-  "ocd-division/country:us/state:ca/county:los_angeles/school_district:whittier_union_high": {
-   "name": "whittier union high"
-  },
   "ocd-division/country:us/state:ca/place:richmond": {
    "name": "Richmond city"
   },
-  "ocd-division/country:us/state:ca/place:irwindale": {
-   "name": "Irwindale city"
+  "ocd-division/country:us/state:ca/county:los_angeles/school_district:whittier_union_high": {
+   "name": "whittier union high"
   },
   "ocd-division/country:us/state:ca/place:oakley": {
    "name": "Oakley city"
+  },
+  "ocd-division/country:us/state:ca/place:irwindale": {
+   "name": "Irwindale city"
   },
   "ocd-division/country:us/state:ca/county:los_angeles/school_district:lowell_joint": {
    "name": "lowell joint"
@@ -1548,14 +1548,14 @@
     351
    ]
   },
+  "ocd-division/country:us/state:ca/place:calabasas": {
+   "name": "Calabasas city"
+  },
   "ocd-division/country:us/state:ca/county:san_francisco/council_district:6": {
    "name": "San Francisco CA city-county council district 6",
    "officeIndices": [
     352
    ]
-  },
-  "ocd-division/country:us/state:ca/place:calabasas": {
-   "name": "Calabasas city"
   },
   "ocd-division/country:us/state:ca/county:san_francisco/council_district:5": {
    "name": "San Francisco CA city-county council district 5",
@@ -1587,14 +1587,14 @@
     356
    ]
   },
+  "ocd-division/country:us/state:ca/county:nevada/school_district:nevada_joint_union_high": {
+   "name": "nevada joint union high"
+  },
   "ocd-division/country:us/state:ca/county:san_francisco/council_district:1": {
    "name": "San Francisco CA city-county council district 1",
    "officeIndices": [
     357
    ]
-  },
-  "ocd-division/country:us/state:ca/county:nevada/school_district:nevada_joint_union_high": {
-   "name": "nevada joint union high"
   },
   "ocd-division/country:us/state:ca/county:san_bernardino/school_district:oro_grande_elementary": {
    "name": "oro grande elementary"
@@ -1937,11 +1937,11 @@
   "ocd-division/country:us/state:ca/county:butte/school_district:manzanita_elementary": {
    "name": "manzanita elementary"
   },
-  "ocd-division/country:us/state:ca/county:los_angeles/school_district:baldy_view_rop": {
-   "name": "baldy view rop"
-  },
   "ocd-division/country:us/state:ca/place:west_hollywood": {
    "name": "West Hollywood city"
+  },
+  "ocd-division/country:us/state:ca/county:los_angeles/school_district:baldy_view_rop": {
+   "name": "baldy view rop"
   },
   "ocd-division/country:us/state:ca/county:santa_barbara/school_district:santa_barbara_elementary": {
    "name": "santa barbara elementary"
@@ -1961,20 +1961,20 @@
   "ocd-division/country:us/state:ca/county:fresno/school_district:firebaugh-las_deltas_joint_unified": {
    "name": "firebaugh-las deltas joint unified"
   },
-  "ocd-division/country:us/state:ca/place:downey/council_district:5": {
-   "name": "Downey CA city council district 5"
-  },
   "ocd-division/country:us/state:ca/place:lafayette": {
    "name": "Lafayette city"
+  },
+  "ocd-division/country:us/state:ca/place:downey/council_district:5": {
+   "name": "Downey CA city council district 5"
   },
   "ocd-division/country:us/state:ca/place:claremont": {
    "name": "Claremont city"
   },
-  "ocd-division/country:us/state:ca/place:downey/council_district:4": {
-   "name": "Downey CA city council district 4"
-  },
   "ocd-division/country:us/state:ca/place:wheatland": {
    "name": "Wheatland city"
+  },
+  "ocd-division/country:us/state:ca/place:downey/council_district:4": {
+   "name": "Downey CA city council district 4"
   },
   "ocd-division/country:us/state:ca/county:san_bernardino/school_district:snowline_joint_unified": {
    "name": "snowline joint unified"
@@ -1991,11 +1991,11 @@
   "ocd-division/country:us/state:ca/county:shasta/school_district:shasta_union_high": {
    "name": "shasta union high"
   },
-  "ocd-division/country:us/state:ca/county:san_diego/school_district:arizona_school_for_integrated_academics_and_technologies": {
-   "name": "arizona school for integrated academics and technologies"
-  },
   "ocd-division/country:us/state:ca/county:glenn/school_district:stony_creek_joint_unified": {
    "name": "stony creek joint unified"
+  },
+  "ocd-division/country:us/state:ca/county:san_diego/school_district:arizona_school_for_integrated_academics_and_technologies": {
+   "name": "arizona school for integrated academics and technologies"
   },
   "ocd-division/country:us/state:ca/place:santa_fe_springs": {
    "name": "Santa Fe Springs city"
@@ -2027,20 +2027,20 @@
   "ocd-division/country:us/state:ca/county:placer/school_district:roseville_city_elementary": {
    "name": "roseville city elementary"
   },
-  "ocd-division/country:us/state:ca/county:ventura/school_district:conejo_valley_unified": {
-   "name": "conejo valley unified"
-  },
   "ocd-division/country:us/state:ca/place:lawndale": {
    "name": "Lawndale city"
+  },
+  "ocd-division/country:us/state:ca/county:ventura/school_district:conejo_valley_unified": {
+   "name": "conejo valley unified"
   },
   "ocd-division/country:us/state:ca/county:tulare/school_district:exeter_union_high": {
    "name": "exeter union high"
   },
-  "ocd-division/country:us/state:ca/county:orange/school_district:centralia_elementary": {
-   "name": "centralia elementary"
-  },
   "ocd-division/country:us/state:ca/place:sausalito": {
    "name": "Sausalito city"
+  },
+  "ocd-division/country:us/state:ca/county:orange/school_district:centralia_elementary": {
+   "name": "centralia elementary"
   },
   "ocd-division/country:us/state:ca/place:elk_grove/council_district:3": {
    "name": "Elk Grove CA City Council District 3"
@@ -2117,17 +2117,17 @@
     385
    ]
   },
+  "ocd-division/country:us/state:ca/place:fountain_valley": {
+   "name": "Fountain Valley city"
+  },
+  "ocd-division/country:us/state:ca/county:kern/school_district:maple_elementary": {
+   "name": "maple elementary"
+  },
   "ocd-division/country:us/state:ca/county:sutter/council_district:2": {
    "name": "Sutter County Supervisor District 2",
    "officeIndices": [
     386
    ]
-  },
-  "ocd-division/country:us/state:ca/county:kern/school_district:maple_elementary": {
-   "name": "maple elementary"
-  },
-  "ocd-division/country:us/state:ca/place:fountain_valley": {
-   "name": "Fountain Valley city"
   },
   "ocd-division/country:us/state:ca/county:sutter/council_district:3": {
    "name": "Sutter County Supervisor District 3",
@@ -2165,11 +2165,11 @@
   "ocd-division/country:us/state:ca/county:calaveras/school_district:bret_harte_union_high": {
    "name": "bret harte union high"
   },
-  "ocd-division/country:us/state:ca/county:el_dorado/school_district:pollock_pines_elementary": {
-   "name": "pollock pines elementary"
-  },
   "ocd-division/country:us/state:ca/county:el_dorado/school_district:gold_oak_union_elementary": {
    "name": "gold oak union elementary"
+  },
+  "ocd-division/country:us/state:ca/county:el_dorado/school_district:pollock_pines_elementary": {
+   "name": "pollock pines elementary"
   },
   "ocd-division/country:us/state:ca/county:butte": {
    "name": "Butte County",
@@ -2191,14 +2191,14 @@
     395
    ]
   },
-  "ocd-division/country:us/state:ca/place:lake_elsinore": {
-   "name": "Lake Elsinore city"
-  },
   "ocd-division/country:us/state:ca/place:long_beach/council_district:2": {
    "name": "Long Beach CA City Council district 2",
    "officeIndices": [
     396
    ]
+  },
+  "ocd-division/country:us/state:ca/place:lake_elsinore": {
+   "name": "Lake Elsinore city"
   },
   "ocd-division/country:us/state:ca/place:long_beach/council_district:5": {
    "name": "Long Beach CA City Council district 5",
@@ -2206,17 +2206,17 @@
     397
    ]
   },
-  "ocd-division/country:us/state:ca/county:sonoma/school_district:harmony_union_elementary": {
-   "name": "harmony union elementary"
-  },
-  "ocd-division/country:us/state:ca/county:san_bernardino/school_district:san_bernardino_county_rop": {
-   "name": "san bernardino county rop"
-  },
   "ocd-division/country:us/state:ca/place:long_beach/council_district:4": {
    "name": "Long Beach CA City Council district 4",
    "officeIndices": [
     398
    ]
+  },
+  "ocd-division/country:us/state:ca/county:san_bernardino/school_district:san_bernardino_county_rop": {
+   "name": "san bernardino county rop"
+  },
+  "ocd-division/country:us/state:ca/county:sonoma/school_district:harmony_union_elementary": {
+   "name": "harmony union elementary"
   },
   "ocd-division/country:us/state:ca/place:long_beach/council_district:7": {
    "name": "Long Beach CA City Council district 7",
@@ -2242,11 +2242,11 @@
     402
    ]
   },
-  "ocd-division/country:us/state:ca/county:tulare/school_district:pleasant_view_elementary": {
-   "name": "pleasant view elementary"
-  },
   "ocd-division/country:us/state:ca/county:trinity/school_district:trinity_center_elementary": {
    "name": "trinity center elementary"
+  },
+  "ocd-division/country:us/state:ca/county:tulare/school_district:pleasant_view_elementary": {
+   "name": "pleasant view elementary"
   },
   "ocd-division/country:us/state:ca/county:tulare/school_district:cutler-orosi_joint_unified": {
    "name": "cutler-orosi joint unified"
@@ -2320,17 +2320,17 @@
   "ocd-division/country:us/state:ca/place:red_bluff": {
    "name": "Red Bluff city"
   },
-  "ocd-division/country:us/state:ca/county:los_angeles/school_district:claremont_unified": {
-   "name": "claremont unified"
-  },
   "ocd-division/country:us/state:ca/county:los_angeles/school_district:sbe_-_the_school_of_arts_and_enterprise": {
    "name": "sbe - the school of arts and enterprise"
   },
-  "ocd-division/country:us/state:ca/county:inyo/school_district:inyo_county_rop": {
-   "name": "inyo county rop"
+  "ocd-division/country:us/state:ca/county:los_angeles/school_district:claremont_unified": {
+   "name": "claremont unified"
   },
   "ocd-division/country:us/state:ca/place:goleta": {
    "name": "Goleta city"
+  },
+  "ocd-division/country:us/state:ca/county:inyo/school_district:inyo_county_rop": {
+   "name": "inyo county rop"
   },
   "ocd-division/country:us/state:ca/county:orange/school_district:los_alamitos_unified": {
    "name": "los alamitos unified"
@@ -2347,11 +2347,11 @@
   "ocd-division/country:us/state:ca/county:santa_clara/school_district:franklin-mckinley_elementary": {
    "name": "franklin-mckinley elementary"
   },
-  "ocd-division/country:us/state:ca/county:tulare/school_district:tulare_county_organization_for_vocational_education": {
-   "name": "tulare county organization for vocational education"
-  },
   "ocd-division/country:us/state:ca/county:santa_cruz/school_district:bonny_doon_union_elementary": {
    "name": "bonny doon union elementary"
+  },
+  "ocd-division/country:us/state:ca/county:tulare/school_district:tulare_county_organization_for_vocational_education": {
+   "name": "tulare county organization for vocational education"
   },
   "ocd-division/country:us/state:ca/county:alameda/school_district:sbe_-_aspire_vanguard_college_preparatory_academy": {
    "name": "sbe - aspire vanguard college preparatory academy"
@@ -2377,17 +2377,14 @@
     409
    ]
   },
-  "ocd-division/country:us/state:ca/county:napa/school_district:napa_county_rop": {
-   "name": "napa county rop"
-  },
   "ocd-division/country:us/state:ca/place:camarillo": {
    "name": "Camarillo city"
   },
+  "ocd-division/country:us/state:ca/county:napa/school_district:napa_county_rop": {
+   "name": "napa county rop"
+  },
   "ocd-division/country:us/state:ca/county:marin/school_district:kentfield_elementary": {
    "name": "kentfield elementary"
-  },
-  "ocd-division/country:us/state:ca/county:ventura/school_district:oxnard_union_high": {
-   "name": "oxnard union high"
   },
   "ocd-division/country:us/state:ca/county:mariposa/council_district:1": {
    "name": "Mariposa County Supervisor District 1",
@@ -2395,17 +2392,20 @@
     410
    ]
   },
+  "ocd-division/country:us/state:ca/county:ventura/school_district:oxnard_union_high": {
+   "name": "oxnard union high"
+  },
   "ocd-division/country:us/state:ca/county:mariposa/council_district:2": {
    "name": "Mariposa County Supervisor District 2",
    "officeIndices": [
     411
    ]
   },
-  "ocd-division/country:us/state:ca/county:solano/school_district:solano_county_office_of_education": {
-   "name": "solano county office of education"
-  },
   "ocd-division/country:us/state:ca/place:reedley": {
    "name": "Reedley city"
+  },
+  "ocd-division/country:us/state:ca/county:solano/school_district:solano_county_office_of_education": {
+   "name": "solano county office of education"
   },
   "ocd-division/country:us/state:ca/place:oxnard": {
    "name": "Oxnard city",
@@ -2422,11 +2422,11 @@
   "ocd-division/country:us/state:ca/county:shasta/school_district:grant_elementary": {
    "name": "grant elementary"
   },
-  "ocd-division/country:us/state:ca/county:santa_barbara/school_district:santa_barbara_county_office_of_education": {
-   "name": "santa barbara county office of education"
-  },
   "ocd-division/country:us/state:ca/county:los_angeles/school_district:william_s._hart_union_high": {
    "name": "william s. hart union high"
+  },
+  "ocd-division/country:us/state:ca/county:santa_barbara/school_district:santa_barbara_county_office_of_education": {
+   "name": "santa barbara county office of education"
   },
   "ocd-division/country:us/state:ca/place:sacramento": {
    "name": "Sacramento city",
@@ -2450,11 +2450,11 @@
   "ocd-division/country:us/state:ca/place:moreno_valley": {
    "name": "Moreno Valley city"
   },
-  "ocd-division/country:us/state:ca/place:los_alamitos": {
-   "name": "Los Alamitos city"
-  },
   "ocd-division/country:us/state:ca/place:nevada_city": {
    "name": "Nevada City city"
+  },
+  "ocd-division/country:us/state:ca/place:los_alamitos": {
+   "name": "Los Alamitos city"
   },
   "ocd-division/country:us/state:ca/county:tuolumne/school_district:jamestown_elementary": {
    "name": "jamestown elementary"
@@ -2474,17 +2474,20 @@
   "ocd-division/country:us/state:ca/county:los_angeles/school_district:garvey_elementary": {
    "name": "garvey elementary"
   },
+  "ocd-division/country:us/state:ca/county:los_angeles/school_district:antelope_valley_union_high": {
+   "name": "antelope valley union high"
+  },
   "ocd-division/country:us/state:ca/county:sonoma/school_district:healdsburg_unified": {
    "name": "healdsburg unified"
   },
-  "ocd-division/country:us/state:ca/county:los_angeles/school_district:antelope_valley_union_high": {
-   "name": "antelope valley union high"
+  "ocd-division/country:us/state:ca/place:coachella": {
+   "name": "Coachella city"
   },
   "ocd-division/country:us/state:ca/county:el_dorado/school_district:placerville_union_elementary": {
    "name": "placerville union elementary"
   },
-  "ocd-division/country:us/state:ca/place:coachella": {
-   "name": "Coachella city"
+  "ocd-division/country:us/state:ca/place:lomita": {
+   "name": "Lomita city"
   },
   "ocd-division/country:us/state:ca/county:trinity": {
    "name": "Trinity County",
@@ -2495,20 +2498,17 @@
     421
    ]
   },
-  "ocd-division/country:us/state:ca/place:lomita": {
-   "name": "Lomita city"
+  "ocd-division/country:us/state:ca/place:twentynine_palms": {
+   "name": "Twentynine Palms city"
   },
   "ocd-division/country:us/state:ca/county:mono/school_district:mono_county_roc~p": {
    "name": "mono county roc/p"
   },
-  "ocd-division/country:us/state:ca/place:twentynine_palms": {
-   "name": "Twentynine Palms city"
+  "ocd-division/country:us/state:ca/county:mendocino/school_district:manchester_union_elementary": {
+   "name": "manchester union elementary"
   },
   "ocd-division/country:us/state:ca/county:san_benito/school_district:tres_pinos_union_elementary": {
    "name": "tres pinos union elementary"
-  },
-  "ocd-division/country:us/state:ca/county:mendocino/school_district:manchester_union_elementary": {
-   "name": "manchester union elementary"
   },
   "ocd-division/country:us/state:ca/place:long_beach/council_district:1": {
    "name": "Long Beach CA City Council district 1",
@@ -2543,11 +2543,11 @@
     426
    ]
   },
-  "ocd-division/country:us/state:ca/county:ventura/school_district:oak_park_unified": {
-   "name": "oak park unified"
-  },
   "ocd-division/country:us/state:ca/county:san_diego/school_district:fallbrook_union_elementary": {
    "name": "fallbrook union elementary"
+  },
+  "ocd-division/country:us/state:ca/county:ventura/school_district:oak_park_unified": {
+   "name": "oak park unified"
   },
   "ocd-division/country:us/state:ca/county:humboldt/school_district:freshwater_elementary": {
    "name": "freshwater elementary"
@@ -2555,23 +2555,23 @@
   "ocd-division/country:us/state:ca/county:alameda/school_district:emery_unified": {
    "name": "emery unified"
   },
-  "ocd-division/country:us/state:ca/place:dos_palos": {
-   "name": "Dos Palos city"
-  },
   "ocd-division/country:us/state:ca/place:san_jose/council_district:10": {
    "name": "San Jose CA city council district 10",
    "officeIndices": [
     427
    ]
   },
-  "ocd-division/country:us/state:ca/county:sierra/school_district:william_r_rouse_rop": {
-   "name": "william (r) rouse rop"
+  "ocd-division/country:us/state:ca/place:dos_palos": {
+   "name": "Dos Palos city"
+  },
+  "ocd-division/country:us/state:ca/county:los_angeles/school_district:lynwood_unified": {
+   "name": "lynwood unified"
   },
   "ocd-division/country:us/state:ca/county:fresno/school_district:parlier_unified": {
    "name": "parlier unified"
   },
-  "ocd-division/country:us/state:ca/county:los_angeles/school_district:lynwood_unified": {
-   "name": "lynwood unified"
+  "ocd-division/country:us/state:ca/county:sierra/school_district:william_r_rouse_rop": {
+   "name": "william (r) rouse rop"
   },
   "ocd-division/country:us/state:ca/county:fresno/school_district:clay_joint_elementary": {
    "name": "clay joint elementary"
@@ -2579,11 +2579,11 @@
   "ocd-division/country:us/state:ca/county:san_mateo/school_district:pacifica": {
    "name": "pacifica"
   },
-  "ocd-division/country:us/state:ca/county:los_angeles/school_district:eastside_union_elementary": {
-   "name": "eastside union elementary"
-  },
   "ocd-division/country:us/state:ca/place:modesto": {
    "name": "Modesto city"
+  },
+  "ocd-division/country:us/state:ca/county:los_angeles/school_district:eastside_union_elementary": {
+   "name": "eastside union elementary"
   },
   "ocd-division/country:us/state:ca/county:trinity/school_district:mountain_valley_unified": {
    "name": "mountain valley unified"
@@ -2633,11 +2633,11 @@
   "ocd-division/country:us/state:ca/place:redwood_city": {
    "name": "Redwood City city"
   },
-  "ocd-division/country:us/state:ca/county:los_angeles/school_district:saugus_union": {
-   "name": "saugus union"
-  },
   "ocd-division/country:us/state:ca/place:national_city": {
    "name": "National City city"
+  },
+  "ocd-division/country:us/state:ca/county:los_angeles/school_district:saugus_union": {
+   "name": "saugus union"
   },
   "ocd-division/country:us/state:ca/place:westlake_village": {
    "name": "Westlake Village city"
@@ -2660,14 +2660,14 @@
     430
    ]
   },
-  "ocd-division/country:us/state:ca/county:lake/school_district:konocti_unified": {
-   "name": "konocti unified"
-  },
   "ocd-division/country:us/state:ca/county:los_angeles/council_district:1": {
    "name": "Los Angeles CA county supervisor district 1",
    "officeIndices": [
     431
    ]
+  },
+  "ocd-division/country:us/state:ca/county:lake/school_district:konocti_unified": {
+   "name": "konocti unified"
   },
   "ocd-division/country:us/state:ca/county:los_angeles/council_district:4": {
    "name": "Los Angeles CA county supervisor district 4",
@@ -2675,14 +2675,14 @@
     432
    ]
   },
-  "ocd-division/country:us/state:ca/county:stanislaus/school_district:empire_union_elementary": {
-   "name": "empire union elementary"
-  },
   "ocd-division/country:us/state:ca/county:los_angeles/council_district:3": {
    "name": "Los Angeles CA county supervisor district 3",
    "officeIndices": [
     433
    ]
+  },
+  "ocd-division/country:us/state:ca/county:stanislaus/school_district:empire_union_elementary": {
+   "name": "empire union elementary"
   },
   "ocd-division/country:us/state:ca/county:siskiyou/school_district:junction_elementary": {
    "name": "junction elementary"
@@ -2705,9 +2705,6 @@
   "ocd-division/country:us/state:ca/place:palos_verdes_estates": {
    "name": "Palos Verdes Estates city"
   },
-  "ocd-division/country:us/state:ca/county:stanislaus/school_district:shiloh_elementary": {
-   "name": "shiloh elementary"
-  },
   "ocd-division/country:us/state:ca/county:mendocino": {
    "name": "Mendocino County",
    "officeIndices": [
@@ -2717,6 +2714,9 @@
     438,
     439
    ]
+  },
+  "ocd-division/country:us/state:ca/county:stanislaus/school_district:shiloh_elementary": {
+   "name": "shiloh elementary"
   },
   "ocd-division/country:us/state:ca/county:kern/council_district:3": {
    "name": "Kern County CA Board of Supervisors District 3",
@@ -2736,14 +2736,14 @@
     442
    ]
   },
+  "ocd-division/country:us/state:ca/place:citrus_heights": {
+   "name": "Citrus Heights city"
+  },
   "ocd-division/country:us/state:ca/county:kern/council_district:2": {
    "name": "Kern County CA Board of Supervisors District 2",
    "officeIndices": [
     443
    ]
-  },
-  "ocd-division/country:us/state:ca/place:citrus_heights": {
-   "name": "Citrus Heights city"
   },
   "ocd-division/country:us/state:ca/county:los_angeles/school_district:compton_unified": {
    "name": "compton unified"
@@ -2778,9 +2778,6 @@
     445
    ]
   },
-  "ocd-division/country:us/state:ca/county:sonoma/school_district:old_adobe_union": {
-   "name": "old adobe union"
-  },
   "ocd-division/country:us/state:ca/place:american_canyon": {
    "name": "American Canyon city"
   },
@@ -2789,6 +2786,9 @@
    "officeIndices": [
     446
    ]
+  },
+  "ocd-division/country:us/state:ca/county:sonoma/school_district:old_adobe_union": {
+   "name": "old adobe union"
   },
   "ocd-division/country:us/state:ca/county:riverside/council_district:2": {
    "name": "Riverside County CA Board of Supervisors District 2",
@@ -2828,14 +2828,14 @@
   "ocd-division/country:us/state:ca/county:ventura/school_district:santa_paula_elementary": {
    "name": "santa paula elementary"
   },
-  "ocd-division/country:us/state:ca/county:stanislaus/school_district:newman-crows_landing_unified": {
-   "name": "newman-crows landing unified"
+  "ocd-division/country:us/state:ca/place:novato": {
+   "name": "Novato city"
   },
   "ocd-division/country:us/state:ca/county:san_diego/school_district:warner_unified": {
    "name": "warner unified"
   },
-  "ocd-division/country:us/state:ca/place:novato": {
-   "name": "Novato city"
+  "ocd-division/country:us/state:ca/county:stanislaus/school_district:newman-crows_landing_unified": {
+   "name": "newman-crows landing unified"
   },
   "ocd-division/country:us/state:ca/place:tiburon": {
    "name": "Tiburon town"
@@ -2846,11 +2846,11 @@
   "ocd-division/country:us/state:ca/county:tehama/school_district:plum_valley_elementary": {
    "name": "plum valley elementary"
   },
-  "ocd-division/country:us/state:ca/county:colusa/school_district:pierce_joint_unified": {
-   "name": "pierce joint unified"
-  },
   "ocd-division/country:us/state:ca/county:los_angeles/school_district:el_monte_city_elementary": {
    "name": "el monte city elementary"
+  },
+  "ocd-division/country:us/state:ca/county:colusa/school_district:pierce_joint_unified": {
+   "name": "pierce joint unified"
   },
   "ocd-division/country:us/state:ca/county:los_angeles/school_district:southeast_rop": {
    "name": "southeast rop"
@@ -2891,17 +2891,17 @@
     458
    ]
   },
-  "ocd-division/country:us/state:ca/county:orange/school_district:north_orange_county_rop": {
-   "name": "north orange county rop"
-  },
-  "ocd-division/country:us/state:ca/county:mendocino/school_district:round_valley_unified": {
-   "name": "round valley unified"
-  },
   "ocd-division/country:us/state:ca/place:los_angeles/council_district:6": {
    "name": "Los Angeles CA city council district 6",
    "officeIndices": [
     459
    ]
+  },
+  "ocd-division/country:us/state:ca/county:mendocino/school_district:round_valley_unified": {
+   "name": "round valley unified"
+  },
+  "ocd-division/country:us/state:ca/county:orange/school_district:north_orange_county_rop": {
+   "name": "north orange county rop"
   },
   "ocd-division/country:us/state:ca/place:los_angeles/council_district:5": {
    "name": "Los Angeles CA city council district 5",
@@ -2927,12 +2927,6 @@
     463
    ]
   },
-  "ocd-division/country:us/state:ca/county:ventura/school_district:ocean_view": {
-   "name": "ocean view"
-  },
-  "ocd-division/country:us/state:ca/county:sierra/school_district:sierra-plumas_joint_unified": {
-   "name": "sierra-plumas joint unified"
-  },
   "ocd-division/country:us/state:ca/place:salinas": {
    "name": "Salinas city"
   },
@@ -2942,23 +2936,29 @@
     464
    ]
   },
-  "ocd-division/country:us/state:ca/county:san_diego/school_district:santee_elementary": {
-   "name": "santee elementary"
+  "ocd-division/country:us/state:ca/county:sierra/school_district:sierra-plumas_joint_unified": {
+   "name": "sierra-plumas joint unified"
   },
-  "ocd-division/country:us/state:ca/place:brea": {
-   "name": "Brea city"
+  "ocd-division/country:us/state:ca/county:ventura/school_district:ocean_view": {
+   "name": "ocean view"
   },
   "ocd-division/country:us/state:ca/place:san_joaquin": {
    "name": "San Joaquin city"
   },
-  "ocd-division/country:us/state:ca/county:sonoma/school_district:city_of_santa_rosa_elementary~high": {
-   "name": "city of santa rosa elementary/high"
+  "ocd-division/country:us/state:ca/place:brea": {
+   "name": "Brea city"
+  },
+  "ocd-division/country:us/state:ca/county:san_diego/school_district:santee_elementary": {
+   "name": "santee elementary"
+  },
+  "ocd-division/country:us/state:ca/county:inyo/school_district:lone_pine_unified": {
+   "name": "lone pine unified"
   },
   "ocd-division/country:us/state:ca/county:placer/school_district:loomis_union_elementary": {
    "name": "loomis union elementary"
   },
-  "ocd-division/country:us/state:ca/county:inyo/school_district:lone_pine_unified": {
-   "name": "lone pine unified"
+  "ocd-division/country:us/state:ca/county:sonoma/school_district:city_of_santa_rosa_elementary~high": {
+   "name": "city of santa rosa elementary/high"
   },
   "ocd-division/country:us/state:ca/county:marin/school_district:dixie_elementary": {
    "name": "dixie elementary"
@@ -3272,23 +3272,20 @@
   "ocd-division/country:us/state:ca/county:amador/school_district:amador_county_unified": {
    "name": "amador county unified"
   },
-  "ocd-division/country:us/state:ca/cd:2": {
-   "name": "California's 2nd congressional district",
-   "officeIndices": [
-    1
-   ]
-  },
   "ocd-division/country:us/state:ca/place:fresno/council_district:5": {
    "name": "Fresno CA city council district 5",
    "officeIndices": [
     479
    ]
   },
-  "ocd-division/country:us/state:ca/cd:1": {
-   "name": "California's 1st congressional district",
+  "ocd-division/country:us/state:ca/cd:2": {
+   "name": "California's 2nd congressional district",
    "officeIndices": [
-    2
+    1
    ]
+  },
+  "ocd-division/country:us/state:ca/place:torrance": {
+   "name": "Torrance city"
   },
   "ocd-division/country:us/state:ca/place:fresno/council_district:6": {
    "name": "Fresno CA city council district 6",
@@ -3296,14 +3293,17 @@
     480
    ]
   },
-  "ocd-division/country:us/state:ca/place:torrance": {
-   "name": "Torrance city"
-  },
   "ocd-division/country:us/state:ca/place:fowler": {
    "name": "Fowler city"
   },
   "ocd-division/country:us/state:ca/place:arvin": {
    "name": "Arvin city"
+  },
+  "ocd-division/country:us/state:ca/cd:1": {
+   "name": "California's 1st congressional district",
+   "officeIndices": [
+    2
+   ]
   },
   "ocd-division/country:us/state:ca/county:ventura/council_district:1": {
    "name": "Ventura County CA Board of Supervisors District 1",
@@ -3311,16 +3311,16 @@
     481
    ]
   },
-  "ocd-division/country:us/state:ca/cd:4": {
-   "name": "California's 4th congressional district",
-   "officeIndices": [
-    3
-   ]
-  },
   "ocd-division/country:us/state:ca/place:fresno/council_district:7": {
    "name": "Fresno CA city council district 7",
    "officeIndices": [
     482
+   ]
+  },
+  "ocd-division/country:us/state:ca/cd:4": {
+   "name": "California's 4th congressional district",
+   "officeIndices": [
+    3
    ]
   },
   "ocd-division/country:us/state:ca/cd:3": {
@@ -3680,14 +3680,14 @@
     519
    ]
   },
-  "ocd-division/country:us/state:ca/county:alameda/council_district:4": {
-   "name": "Alameda County CA Board of Supervisors District 4",
+  "ocd-division/country:us/state:ca/county:calaveras/council_district:5": {
+   "name": "Calaveras County Supervisor District 5",
    "officeIndices": [
     520
    ]
   },
-  "ocd-division/country:us/state:ca/county:calaveras/council_district:5": {
-   "name": "Calaveras County Supervisor District 5",
+  "ocd-division/country:us/state:ca/county:alameda/council_district:4": {
+   "name": "Alameda County CA Board of Supervisors District 4",
    "officeIndices": [
     521
    ]
@@ -3851,14 +3851,14 @@
     545
    ]
   },
+  "ocd-division/country:us/state:ca/place:vernon": {
+   "name": "Vernon city"
+  },
   "ocd-division/country:us/state:ca/county:santa_clara/council_district:3": {
    "name": "Santa Clara County CA Board of Supervisors District 3",
    "officeIndices": [
     546
    ]
-  },
-  "ocd-division/country:us/state:ca/place:vernon": {
-   "name": "Vernon city"
   },
   "ocd-division/country:us/state:ca/county:santa_clara/council_district:2": {
    "name": "Santa Clara County CA Board of Supervisors District 2",
@@ -4243,14 +4243,14 @@
     108
    ]
   },
+  "ocd-division/country:us/state:ca/place:hollister": {
+   "name": "Hollister city"
+  },
   "ocd-division/country:us/state:ca/county:orange/council_district:3": {
    "name": "Orange County CA Board of Supervisors District 3",
    "officeIndices": [
     570
    ]
-  },
-  "ocd-division/country:us/state:ca/place:hollister": {
-   "name": "Hollister city"
   },
   "ocd-division/country:us/state:ca/county:mono/school_district:eastern_sierra_unified": {
    "name": "eastern sierra unified"
@@ -4902,20 +4902,20 @@
   "ocd-division/country:us/state:ca/county:tulare/school_district:hot_springs_elementary": {
    "name": "hot springs elementary"
   },
+  "ocd-division/country:us/state:ca/place:oakland/council_district:4": {
+   "name": "Oakland CA city council district 4",
+   "officeIndices": [
+    604
+   ]
+  },
   "ocd-division/country:us/state:ca/county:contra_costa": {
    "name": "Contra Costa County",
    "officeIndices": [
-    604,
     605,
     606,
     607,
     608,
-    609
-   ]
-  },
-  "ocd-division/country:us/state:ca/place:oakland/council_district:4": {
-   "name": "Oakland CA city council district 4",
-   "officeIndices": [
+    609,
     610
    ]
   },
@@ -5006,14 +5006,14 @@
     616
    ]
   },
-  "ocd-division/country:us/state:ca/place:covina": {
-   "name": "Covina city"
-  },
   "ocd-division/country:us/state:ca/place:santa_ana/ward:5": {
    "name": "Santa Ana CA City Council ward 5",
    "officeIndices": [
     617
    ]
+  },
+  "ocd-division/country:us/state:ca/place:covina": {
+   "name": "Covina city"
   },
   "ocd-division/country:us/state:ca/place:mill_valley": {
    "name": "Mill Valley city"
@@ -5081,26 +5081,26 @@
   "ocd-division/country:us/state:ca/county:san_benito/school_district:southside_elementary": {
    "name": "southside elementary"
   },
-  "ocd-division/country:us/state:ca/county:santa_cruz/council_district:1": {
-   "name": "Santa Cruz County Supervisor District 1",
+  "ocd-division/country:us/state:ca/place:san_jose": {
+   "name": "San Jose city",
    "officeIndices": [
     623
    ]
   },
-  "ocd-division/country:us/state:ca/place:san_jose": {
-   "name": "San Jose city",
+  "ocd-division/country:us/state:ca/county:santa_cruz/council_district:1": {
+   "name": "Santa Cruz County Supervisor District 1",
    "officeIndices": [
     624
    ]
+  },
+  "ocd-division/country:us/state:ca/place:lancaster": {
+   "name": "Lancaster city"
   },
   "ocd-division/country:us/state:ca/county:santa_cruz/council_district:2": {
    "name": "Santa Cruz County Supervisor District 2",
    "officeIndices": [
     625
    ]
-  },
-  "ocd-division/country:us/state:ca/place:lancaster": {
-   "name": "Lancaster city"
   },
   "ocd-division/country:us/state:ca/county:yuba/school_district:plumas_lake_elementary": {
    "name": "plumas lake elementary"
@@ -5348,14 +5348,14 @@
     646
    ]
   },
-  "ocd-division/country:us/state:ca/place:east_palo_alto": {
-   "name": "East Palo Alto city"
-  },
   "ocd-division/country:us/state:ca/place:riverside/ward:4": {
    "name": "Riverside CA City Council ward 4",
    "officeIndices": [
     647
    ]
+  },
+  "ocd-division/country:us/state:ca/place:east_palo_alto": {
+   "name": "East Palo Alto city"
   },
   "ocd-division/country:us/state:ca/place:riverside/ward:3": {
    "name": "Riverside CA City Council ward 3",
@@ -5564,14 +5564,14 @@
   "ocd-division/country:us/state:ca/place:diamond_bar": {
    "name": "Diamond Bar city"
   },
+  "ocd-division/country:us/state:ca/place:loma_linda": {
+   "name": "Loma Linda city"
+  },
   "ocd-division/country:us/state:ca/cd:13": {
    "name": "California's 13th congressional district",
    "officeIndices": [
     10
    ]
-  },
-  "ocd-division/country:us/state:ca/place:loma_linda": {
-   "name": "Loma Linda city"
   },
   "ocd-division/country:us/state:ca/cd:12": {
    "name": "California's 12th congressional district",
@@ -5612,14 +5612,14 @@
     16
    ]
   },
+  "ocd-division/country:us/state:ca/place:daly_city": {
+   "name": "Daly City city"
+  },
   "ocd-division/country:us/state:ca/cd:14": {
    "name": "California's 14th congressional district",
    "officeIndices": [
     17
    ]
-  },
-  "ocd-division/country:us/state:ca/place:daly_city": {
-   "name": "Daly City city"
   },
   "ocd-division/country:us/state:ca/county:santa_cruz/school_district:pacific_elementary": {
    "name": "pacific elementary"
@@ -5699,14 +5699,14 @@
     24
    ]
   },
+  "ocd-division/country:us/state:ca/place:la_habra": {
+   "name": "La Habra city"
+  },
   "ocd-division/country:us/state:ca/cd:28": {
    "name": "California's 28th congressional district",
    "officeIndices": [
     25
    ]
-  },
-  "ocd-division/country:us/state:ca/place:la_habra": {
-   "name": "La Habra city"
   },
   "ocd-division/country:us/state:ca/county:san_mateo/school_district:belmont-redwood_shores_elementary": {
    "name": "belmont-redwood shores elementary"
@@ -5717,14 +5717,14 @@
     26
    ]
   },
+  "ocd-division/country:us/state:ca/place:mission_viejo": {
+   "name": "Mission Viejo city"
+  },
   "ocd-division/country:us/state:ca/cd:18": {
    "name": "California's 18th congressional district",
    "officeIndices": [
     27
    ]
-  },
-  "ocd-division/country:us/state:ca/place:mission_viejo": {
-   "name": "Mission Viejo city"
   },
   "ocd-division/country:us/state:ca/cd:19": {
    "name": "California's 19th congressional district",
@@ -5732,14 +5732,17 @@
     28
    ]
   },
+  "ocd-division/country:us/state:ca/place:pasadena/council_district:5": {
+   "name": "Pasadena CA city council district 5"
+  },
   "ocd-division/country:us/state:ca/cd:38": {
    "name": "California's 38th congressional district",
    "officeIndices": [
     29
    ]
   },
-  "ocd-division/country:us/state:ca/place:pasadena/council_district:5": {
-   "name": "Pasadena CA city council district 5"
+  "ocd-division/country:us/state:ca/place:pasadena/council_district:6": {
+   "name": "Pasadena CA city council district 6"
   },
   "ocd-division/country:us/state:ca/cd:39": {
    "name": "California's 39th congressional district",
@@ -5747,17 +5750,14 @@
     30
    ]
   },
-  "ocd-division/country:us/state:ca/place:pasadena/council_district:6": {
-   "name": "Pasadena CA city council district 6"
+  "ocd-division/country:us/state:ca/place:pasadena/council_district:7": {
+   "name": "Pasadena CA city council district 7"
   },
   "ocd-division/country:us/state:ca/cd:36": {
    "name": "California's 36th congressional district",
    "officeIndices": [
     31
    ]
-  },
-  "ocd-division/country:us/state:ca/place:pasadena/council_district:7": {
-   "name": "Pasadena CA city council district 7"
   },
   "ocd-division/country:us/state:ca/county:san_francisco/school_district:sbe_-_edison_charter_academy": {
    "name": "sbe - edison charter academy"
@@ -5825,14 +5825,14 @@
     656
    ]
   },
-  "ocd-division/country:us/state:ca/county:tuolumne/school_district:big_oak_flat-groveland_unified": {
-   "name": "big oak flat-groveland unified"
-  },
   "ocd-division/country:us/state:ca/county:tulare/council_district:3": {
    "name": "Tulare County Supervisor District 3",
    "officeIndices": [
     657
    ]
+  },
+  "ocd-division/country:us/state:ca/county:tuolumne/school_district:big_oak_flat-groveland_unified": {
+   "name": "big oak flat-groveland unified"
   },
   "ocd-division/country:us/state:ca/county:tulare/council_district:2": {
    "name": "Tulare County Supervisor District 2",
@@ -5840,17 +5840,20 @@
     658
    ]
   },
+  "ocd-division/country:us/state:ca/place:pasadena/council_district:2": {
+   "name": "Pasadena CA city council district 2"
+  },
+  "ocd-division/country:us/state:ca/county:santa_cruz/school_district:scotts_valley_unified": {
+   "name": "scotts valley unified"
+  },
   "ocd-division/country:us/state:ca/county:tulare/council_district:5": {
    "name": "Tulare County Supervisor District 5",
    "officeIndices": [
     659
    ]
   },
-  "ocd-division/country:us/state:ca/county:santa_cruz/school_district:scotts_valley_unified": {
-   "name": "scotts valley unified"
-  },
-  "ocd-division/country:us/state:ca/place:pasadena/council_district:2": {
-   "name": "Pasadena CA city council district 2"
+  "ocd-division/country:us/state:ca/place:pasadena/council_district:1": {
+   "name": "Pasadena CA city council district 1"
   },
   "ocd-division/country:us/state:ca/county:tulare/council_district:4": {
    "name": "Tulare County Supervisor District 4",
@@ -5858,26 +5861,23 @@
     660
    ]
   },
-  "ocd-division/country:us/state:ca/place:pasadena/council_district:1": {
-   "name": "Pasadena CA city council district 1"
-  },
   "ocd-division/country:us/state:ca/place:pasadena/council_district:4": {
    "name": "Pasadena CA city council district 4"
   },
-  "ocd-division/country:us/state:ca/county:san_mateo/school_district:san_mateo-foster_city": {
-   "name": "san mateo-foster city"
+  "ocd-division/country:us/state:ca/place:pasadena/council_district:3": {
+   "name": "Pasadena CA city council district 3"
   },
   "ocd-division/country:us/state:ca/county:nevada/school_district:chicago_park_elementary": {
    "name": "chicago park elementary"
-  },
-  "ocd-division/country:us/state:ca/place:pasadena/council_district:3": {
-   "name": "Pasadena CA city council district 3"
   },
   "ocd-division/country:us/state:ca/cd:29": {
    "name": "California's 29th congressional district",
    "officeIndices": [
     39
    ]
+  },
+  "ocd-division/country:us/state:ca/county:san_mateo/school_district:san_mateo-foster_city": {
+   "name": "san mateo-foster city"
   },
   "ocd-division/country:us/state:ca/cd:47": {
    "name": "California's 47th congressional district",
@@ -5915,14 +5915,14 @@
     45
    ]
   },
-  "ocd-division/country:us/state:ca/county:san_joaquin/school_district:san_joaquin_county_office_of_education": {
-   "name": "san joaquin county office of education"
-  },
   "ocd-division/country:us/state:ca/cd:46": {
    "name": "California's 46th congressional district",
    "officeIndices": [
     46
    ]
+  },
+  "ocd-division/country:us/state:ca/county:san_joaquin/school_district:san_joaquin_county_office_of_education": {
+   "name": "san joaquin county office of education"
   },
   "ocd-division/country:us/state:ca/cd:40": {
    "name": "California's 40th congressional district",
@@ -5966,11 +5966,11 @@
   "ocd-division/country:us/state:ca/county:kern/school_district:elk_hills_elementary": {
    "name": "elk hills elementary"
   },
-  "ocd-division/country:us/state:ca/county:trinity/school_district:coffee_creek_elementary": {
-   "name": "coffee creek elementary"
-  },
   "ocd-division/country:us/state:ca/county:mendocino/school_district:arena_union_elementary~point_arena_joint_union_high": {
    "name": "arena union elementary/point arena joint union high"
+  },
+  "ocd-division/country:us/state:ca/county:trinity/school_district:coffee_creek_elementary": {
+   "name": "coffee creek elementary"
   },
   "ocd-division/country:us/state:ca/county:sacramento/school_district:elverta_joint_elementary": {
    "name": "elverta joint elementary"
@@ -5978,23 +5978,23 @@
   "ocd-division/country:us/state:ca/county:ventura/school_district:somis_union": {
    "name": "somis union"
   },
-  "ocd-division/country:us/state:ca/county:tuolumne/school_district:curtis_creek_elementary": {
-   "name": "curtis creek elementary"
-  },
   "ocd-division/country:us/state:ca/county:san_benito/school_district:panoche_elementary": {
    "name": "panoche elementary"
   },
-  "ocd-division/country:us/state:ca/county:alameda/school_district:oakland_unified": {
-   "name": "oakland unified"
+  "ocd-division/country:us/state:ca/county:tuolumne/school_district:curtis_creek_elementary": {
+   "name": "curtis creek elementary"
   },
   "ocd-division/country:us/state:ca/place:redding": {
    "name": "Redding city"
   },
-  "ocd-division/country:us/state:ca/county:sonoma/school_district:sebastopol_union_elementary": {
-   "name": "sebastopol union elementary"
+  "ocd-division/country:us/state:ca/county:alameda/school_district:oakland_unified": {
+   "name": "oakland unified"
   },
   "ocd-division/country:us/state:ca/county:contra_costa/school_district:pittsburg_unified": {
    "name": "pittsburg unified"
+  },
+  "ocd-division/country:us/state:ca/county:sonoma/school_district:sebastopol_union_elementary": {
+   "name": "sebastopol union elementary"
   },
   "ocd-division/country:us/state:ca/county:merced/school_district:el_nido_elementary": {
    "name": "el nido elementary"
@@ -6005,12 +6005,6 @@
   "ocd-division/country:us/state:ca/place:monterey_park": {
    "name": "Monterey Park city"
   },
-  "ocd-division/country:us/state:ca/county:san_joaquin/council_district:2": {
-   "name": "San Joaquin County CA Board of Supervisors District 2",
-   "officeIndices": [
-    661
-   ]
-  },
   "ocd-division/country:us/state:ca/place:aliso_viejo": {
    "name": "Aliso Viejo city"
   },
@@ -6020,10 +6014,10 @@
     50
    ]
   },
-  "ocd-division/country:us/state:ca/county:san_joaquin/council_district:1": {
-   "name": "San Joaquin County CA Board of Supervisors District 1",
+  "ocd-division/country:us/state:ca/county:san_joaquin/council_district:2": {
+   "name": "San Joaquin County CA Board of Supervisors District 2",
    "officeIndices": [
-    662
+    661
    ]
   },
   "ocd-division/country:us/state:ca/county:mono/school_district:mono_county_office_of_education": {
@@ -6035,10 +6029,10 @@
     51
    ]
   },
-  "ocd-division/country:us/state:ca/county:san_joaquin/council_district:4": {
-   "name": "San Joaquin County CA Board of Supervisors District 4",
+  "ocd-division/country:us/state:ca/county:san_joaquin/council_district:1": {
+   "name": "San Joaquin County CA Board of Supervisors District 1",
    "officeIndices": [
-    663
+    662
    ]
   },
   "ocd-division/country:us/state:ca/cd:50": {
@@ -6047,16 +6041,22 @@
     52
    ]
   },
-  "ocd-division/country:us/state:ca/county:san_joaquin/council_district:3": {
-   "name": "San Joaquin County CA Board of Supervisors District 3",
+  "ocd-division/country:us/state:ca/county:san_joaquin/council_district:4": {
+   "name": "San Joaquin County CA Board of Supervisors District 4",
    "officeIndices": [
-    664
+    663
    ]
   },
   "ocd-division/country:us/state:ca/cd:51": {
    "name": "California's 51st congressional district",
    "officeIndices": [
     53
+   ]
+  },
+  "ocd-division/country:us/state:ca/county:san_joaquin/council_district:3": {
+   "name": "San Joaquin County CA Board of Supervisors District 3",
+   "officeIndices": [
+    664
    ]
   },
   "ocd-division/country:us/state:ca/county:kern/school_district:fairfax_elementary": {
@@ -6076,20 +6076,17 @@
     670
    ]
   },
-  "ocd-division/country:us/state:ca/county:orange/school_district:buena_park_elementary": {
-   "name": "buena park elementary"
-  },
   "ocd-division/country:us/state:ca/county:el_dorado/school_district:pioneer_union_elementary": {
    "name": "pioneer union elementary"
   },
-  "ocd-division/country:us/state:ca/place:berkeley/council_district:1": {
-   "name": "Berkeley CA City Council district 1"
+  "ocd-division/country:us/state:ca/county:orange/school_district:buena_park_elementary": {
+   "name": "buena park elementary"
   },
   "ocd-division/country:us/state:ca/place:bishop": {
    "name": "Bishop city"
   },
-  "ocd-division/country:us/state:ca/county:imperial/school_district:calipatria_unified": {
-   "name": "calipatria unified"
+  "ocd-division/country:us/state:ca/place:berkeley/council_district:1": {
+   "name": "Berkeley CA City Council district 1"
   },
   "ocd-division/country:us/state:ca/place:berkeley/council_district:2": {
    "name": "Berkeley CA City Council district 2",
@@ -6097,26 +6094,29 @@
     207
    ]
   },
+  "ocd-division/country:us/state:ca/county:imperial/school_district:calipatria_unified": {
+   "name": "calipatria unified"
+  },
   "ocd-division/country:us/state:ca/place:berkeley/council_district:3": {
    "name": "Berkeley CA City Council district 3",
    "officeIndices": [
     208
    ]
   },
-  "ocd-division/country:us/state:ca/county:ventura/school_district:cea_ventura_co": {
-   "name": "cea ventura co"
-  },
   "ocd-division/country:us/state:ca/place:berkeley/council_district:4": {
    "name": "Berkeley CA City Council district 4"
   },
-  "ocd-division/country:us/state:ca/county:contra_costa/school_district:west_contra_costa_unified": {
-   "name": "west contra costa unified"
+  "ocd-division/country:us/state:ca/county:ventura/school_district:cea_ventura_co": {
+   "name": "cea ventura co"
   },
   "ocd-division/country:us/state:ca/place:berkeley/council_district:5": {
    "name": "Berkeley CA City Council district 5",
    "officeIndices": [
     209
    ]
+  },
+  "ocd-division/country:us/state:ca/county:contra_costa/school_district:west_contra_costa_unified": {
+   "name": "west contra costa unified"
   },
   "ocd-division/country:us/state:ca/place:berkeley/council_district:6": {
    "name": "Berkeley CA City Council district 6",
@@ -6136,11 +6136,11 @@
   "ocd-division/country:us/state:ca/place:san_carlos": {
    "name": "San Carlos city"
   },
-  "ocd-division/country:us/state:ca/county:stanislaus/school_district:yosemite_rop": {
-   "name": "yosemite rop"
-  },
   "ocd-division/country:us/state:ca/county:yuba/school_district:yuba_county_office_of_education": {
    "name": "yuba county office of education"
+  },
+  "ocd-division/country:us/state:ca/county:stanislaus/school_district:yosemite_rop": {
+   "name": "yosemite rop"
   },
   "ocd-division/country:us/state:ca/county:san_joaquin/council_district:5": {
    "name": "San Joaquin County CA Board of Supervisors District 5",
@@ -6154,14 +6154,14 @@
   "ocd-division/country:us/state:ca/place:canyon_lake": {
    "name": "Canyon Lake city"
   },
+  "ocd-division/country:us/state:ca/county:los_angeles/school_district:walnut_valley_unified": {
+   "name": "walnut valley unified"
+  },
   "ocd-division/country:us/state:ca/county:yolo/council_district:1": {
    "name": "Yolo County Supervisor District 1",
    "officeIndices": [
     672
    ]
-  },
-  "ocd-division/country:us/state:ca/county:los_angeles/school_district:walnut_valley_unified": {
-   "name": "walnut valley unified"
   },
   "ocd-division/country:us/state:ca/county:yolo/council_district:3": {
    "name": "Yolo County Supervisor District 3",
@@ -6175,17 +6175,20 @@
     674
    ]
   },
+  "ocd-division/country:us/state:ca/county:monterey/school_district:salinas_city_elementary": {
+   "name": "salinas city elementary"
+  },
+  "ocd-division/country:us/state:ca/county:sonoma/school_district:bennett_valley_union_elementary": {
+   "name": "bennett valley union elementary"
+  },
   "ocd-division/country:us/state:ca/county:yolo/council_district:5": {
    "name": "Yolo County Supervisor District 5",
    "officeIndices": [
     675
    ]
   },
-  "ocd-division/country:us/state:ca/county:sonoma/school_district:bennett_valley_union_elementary": {
-   "name": "bennett valley union elementary"
-  },
-  "ocd-division/country:us/state:ca/county:monterey/school_district:salinas_city_elementary": {
-   "name": "salinas city elementary"
+  "ocd-division/country:us/state:ca/county:tulare/school_district:saucelito_elementary": {
+   "name": "saucelito elementary"
   },
   "ocd-division/country:us/state:ca/county:yolo/council_district:4": {
    "name": "Yolo County Supervisor District 4",
@@ -6193,14 +6196,11 @@
     676
    ]
   },
-  "ocd-division/country:us/state:ca/county:tulare/school_district:saucelito_elementary": {
-   "name": "saucelito elementary"
+  "ocd-division/country:us/state:ca/place:pittsburg": {
+   "name": "Pittsburg city"
   },
   "ocd-division/country:us/state:ca/county:kern/school_district:west_side_rop": {
    "name": "west side rop"
-  },
-  "ocd-division/country:us/state:ca/place:pittsburg": {
-   "name": "Pittsburg city"
   },
   "ocd-division/country:us/state:ca/place:san_pablo": {
    "name": "San Pablo city"
@@ -6396,14 +6396,14 @@
     697
    ]
   },
+  "ocd-division/country:us/state:ca/county:alameda/school_district:mission_valley_roc~p": {
+   "name": "mission valley roc/p"
+  },
   "ocd-division/country:us/state:ca/county:sacramento/council_district:1": {
    "name": "Sacramento County CA Board of Supervisors District 1",
    "officeIndices": [
     698
    ]
-  },
-  "ocd-division/country:us/state:ca/county:alameda/school_district:mission_valley_roc~p": {
-   "name": "mission valley roc/p"
   },
   "ocd-division/country:us/state:ca/county:ventura/school_district:pleasant_valley": {
    "name": "pleasant valley"
@@ -6797,20 +6797,20 @@
     737
    ]
   },
-  "ocd-division/country:us/state:ca/county:riverside": {
-   "name": "Riverside County",
-   "officeIndices": [
-    739,
-    740,
-    741,
-    742,
-    743
-   ]
-  },
   "ocd-division/country:us/state:ca/county:mendocino/council_district:3": {
    "name": "Mendocino County Supervisor District 3",
    "officeIndices": [
-    738
+    743
+   ]
+  },
+  "ocd-division/country:us/state:ca/county:riverside": {
+   "name": "Riverside County",
+   "officeIndices": [
+    738,
+    739,
+    740,
+    741,
+    742
    ]
   },
   "ocd-division/country:us/state:ca/county:mendocino/council_district:2": {
@@ -6864,6 +6864,9 @@
   "ocd-division/country:us/state:ca/county:mariposa/school_district:mariposa_county_office_of_education": {
    "name": "mariposa county office of education"
   },
+  "ocd-division/country:us/state:ca/place:chowchilla": {
+   "name": "Chowchilla city"
+  },
   "ocd-division/country:us/state:ca/county:marin": {
    "name": "Marin County",
    "officeIndices": [
@@ -6871,9 +6874,6 @@
     747,
     748
    ]
-  },
-  "ocd-division/country:us/state:ca/place:chowchilla": {
-   "name": "Chowchilla city"
   },
   "ocd-division/country:us/state:ca/county:sacramento/school_district:galt_joint_union_high": {
    "name": "galt joint union high"
@@ -7090,17 +7090,17 @@
   "ocd-division/country:us/state:ca/county:sacramento/school_district:san_juan_unified": {
    "name": "san juan unified"
   },
-  "ocd-division/country:us/state:ca/county:contra_costa/council_district:5": {
-   "name": "Contra Costa County CA Board of Supervisors District 5",
-   "officeIndices": [
-    765
-   ]
-  },
   "ocd-division/country:us/state:ca/place:etna": {
    "name": "Etna city"
   },
   "ocd-division/country:us/state:ca/county:marin/school_district:nicasio": {
    "name": "nicasio"
+  },
+  "ocd-division/country:us/state:ca/county:contra_costa/council_district:5": {
+   "name": "Contra Costa County CA Board of Supervisors District 5",
+   "officeIndices": [
+    765
+   ]
   },
   "ocd-division/country:us/state:ca/place:la_verne": {
    "name": "La Verne city"
@@ -7483,14 +7483,14 @@
     782
    ]
   },
+  "ocd-division/country:us/state:ca/county:monterey/school_district:san_lucas_union_elementary": {
+   "name": "san lucas union elementary"
+  },
   "ocd-division/country:us/state:ca/county:monterey/council_district:1": {
    "name": "Monterey County CA Board of Supervisors District 1",
    "officeIndices": [
     783
    ]
-  },
-  "ocd-division/country:us/state:ca/county:monterey/school_district:san_lucas_union_elementary": {
-   "name": "san lucas union elementary"
   },
   "ocd-division/country:us/state:ca/place:loyalton": {
    "name": "Loyalton city"
@@ -7531,14 +7531,14 @@
   "ocd-division/country:us/state:ca/county:napa/school_district:howell_mountain_elementary": {
    "name": "howell mountain elementary"
   },
-  "ocd-division/country:us/state:ca/place:corte_madera": {
-   "name": "Corte Madera town"
-  },
   "ocd-division/country:us/state:ca/sldu:assigned-18": {
    "name": "California State Senate Deferred Area assigned to SD 18 for the 2013-2014 legislative session",
    "officeIndices": [
     197
    ]
+  },
+  "ocd-division/country:us/state:ca/place:corte_madera": {
+   "name": "Corte Madera town"
   },
   "ocd-division/country:us/state:ca/place:newman": {
    "name": "Newman city"
@@ -7631,14 +7631,14 @@
     792
    ]
   },
+  "ocd-division/country:us/state:ca/place:scotts_valley": {
+   "name": "Scotts Valley city"
+  },
   "ocd-division/country:us/state:ca/county:fresno/council_district:5": {
    "name": "Fresno County CA Board of Supervisors District 5",
    "officeIndices": [
     793
    ]
-  },
-  "ocd-division/country:us/state:ca/place:scotts_valley": {
-   "name": "Scotts Valley city"
   },
   "ocd-division/country:us/state:ca/county:alameda/school_district:east_bay_regional_occupational_agency_rop": {
    "name": "east bay regional occupational agency (rop)"
@@ -8092,22 +8092,22 @@
   "ocd-division/country:us/state:ca/county:los_angeles/school_district:el_segundo_unified": {
    "name": "el segundo unified"
   },
+  "ocd-division/country:us/state:ca/place:san_jose/council_district:5": {
+   "name": "San Jose CA city council district 5",
+   "officeIndices": [
+    847
+   ]
+  },
   "ocd-division/country:us/state:ca/county:lassen": {
    "name": "Lassen County",
    "officeIndices": [
+    840,
     841,
     842,
     843,
     844,
     845,
-    846,
-    847
-   ]
-  },
-  "ocd-division/country:us/state:ca/place:san_jose/council_district:5": {
-   "name": "San Jose CA city council district 5",
-   "officeIndices": [
-    840
+    846
    ]
   },
   "ocd-division/country:us/state:ca/place:san_jose/council_district:4": {
@@ -8212,14 +8212,14 @@
   "ocd-division/country:us/state:ca/county:colusa/school_district:princeton_joint_unified": {
    "name": "princeton joint unified"
   },
+  "ocd-division/country:us/state:ca/place:hidden_hills": {
+   "name": "Hidden Hills city"
+  },
   "ocd-division/country:us/state:ca/county:san_mateo/council_district:3": {
    "name": "San Mateo County CA Board of Supervisors District 3",
    "officeIndices": [
     854
    ]
-  },
-  "ocd-division/country:us/state:ca/place:hidden_hills": {
-   "name": "Hidden Hills city"
   },
   "ocd-division/country:us/state:ca/county:san_mateo/council_district:2": {
    "name": "San Mateo County CA Board of Supervisors District 2",
@@ -8278,14 +8278,14 @@
     859
    ]
   },
+  "ocd-division/country:us/state:ca/place:anderson": {
+   "name": "Anderson city"
+  },
   "ocd-division/country:us/state:ca/county:marin/council_district:3": {
    "name": "Marin County CA Board of Supervisors District 3",
    "officeIndices": [
     860
    ]
-  },
-  "ocd-division/country:us/state:ca/place:anderson": {
-   "name": "Anderson city"
   },
   "ocd-division/country:us/state:ca/county:marin/council_district:4": {
    "name": "Marin County CA Board of Supervisors District 4",
@@ -8677,11 +8677,11 @@
     882
    ]
   },
-  "ocd-division/country:us/state:ca/place:culver_city": {
-   "name": "Culver City city"
-  },
   "ocd-division/country:us/state:ca/place:larkspur": {
    "name": "Larkspur city"
+  },
+  "ocd-division/country:us/state:ca/place:culver_city": {
+   "name": "Culver City city"
   },
   "ocd-division/country:us/state:ca/county:tehama/school_district:mineral_elementary": {
    "name": "mineral elementary"
@@ -9162,14 +9162,14 @@
     908
    ]
   },
+  "ocd-division/country:us/state:ca/place:modesto/council_district:6": {
+   "name": "Modesto CA city council district 6"
+  },
   "ocd-division/country:us/state:ca/county:tehama/council_district:2": {
    "name": "Tehama County Supervisor District 2",
    "officeIndices": [
     909
    ]
-  },
-  "ocd-division/country:us/state:ca/place:modesto/council_district:6": {
-   "name": "Modesto CA city council district 6"
   },
   "ocd-division/country:us/state:ca/place:modesto/council_district:5": {
    "name": "Modesto CA city council district 5"
@@ -9192,6 +9192,9 @@
   "ocd-division/country:us/state:ca/county:tulare/school_district:outside_creek_elementary": {
    "name": "outside creek elementary"
   },
+  "ocd-division/country:us/state:ca/county:marin/school_district:lincoln_elementary": {
+   "name": "lincoln elementary"
+  },
   "ocd-division/country:us/state:ca/county:san_luis_obispo": {
    "name": "San Luis Obispo County",
    "officeIndices": [
@@ -9202,9 +9205,6 @@
     915,
     916
    ]
-  },
-  "ocd-division/country:us/state:ca/county:marin/school_district:lincoln_elementary": {
-   "name": "lincoln elementary"
   },
   "ocd-division/country:us/state:ca/place:avalon": {
    "name": "Avalon city"
@@ -12002,57 +12002,57 @@
    ]
   },
   {
-   "name": "County Clerk",
-   "divisionId": "ocd-division/country:us/state:ca/county:alpine",
-   "officialIndices": [
-    219
-   ]
-  },
-  {
-   "name": "Sheriff-Coroner",
-   "divisionId": "ocd-division/country:us/state:ca/county:alpine",
-   "officialIndices": [
-    220
-   ]
-  },
-  {
-   "name": "Assessor-Recorder",
-   "divisionId": "ocd-division/country:us/state:ca/county:alpine",
-   "officialIndices": [
-    221
-   ]
-  },
-  {
-   "name": "District Attorney",
-   "divisionId": "ocd-division/country:us/state:ca/county:alpine",
-   "officialIndices": [
-    222
-   ]
-  },
-  {
-   "name": "Treasurer-Tax Collector-Recorder",
-   "divisionId": "ocd-division/country:us/state:ca/county:alpine",
-   "officialIndices": [
-    223
-   ]
-  },
-  {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ca/county:los_angeles",
    "officialIndices": [
-    224
+    219
    ]
   },
   {
    "name": "Assessor",
    "divisionId": "ocd-division/country:us/state:ca/county:los_angeles",
    "officialIndices": [
-    225
+    220
    ]
   },
   {
    "name": "District Attorney",
    "divisionId": "ocd-division/country:us/state:ca/county:los_angeles",
+   "officialIndices": [
+    221
+   ]
+  },
+  {
+   "name": "County Clerk",
+   "divisionId": "ocd-division/country:us/state:ca/county:alpine",
+   "officialIndices": [
+    222
+   ]
+  },
+  {
+   "name": "Sheriff-Coroner",
+   "divisionId": "ocd-division/country:us/state:ca/county:alpine",
+   "officialIndices": [
+    223
+   ]
+  },
+  {
+   "name": "Assessor-Recorder",
+   "divisionId": "ocd-division/country:us/state:ca/county:alpine",
+   "officialIndices": [
+    224
+   ]
+  },
+  {
+   "name": "District Attorney",
+   "divisionId": "ocd-division/country:us/state:ca/county:alpine",
+   "officialIndices": [
+    225
+   ]
+  },
+  {
+   "name": "Treasurer-Tax Collector-Recorder",
+   "divisionId": "ocd-division/country:us/state:ca/county:alpine",
    "officialIndices": [
     226
    ]
@@ -12496,50 +12496,50 @@
    ]
   },
   {
-   "name": "Board of Supervisors, District 3",
-   "divisionId": "ocd-division/country:us/state:ca/county:kings/council_district:3",
-   "officialIndices": [
-    289
-   ]
-  },
-  {
-   "name": "Board of Supervisors, District 1",
-   "divisionId": "ocd-division/country:us/state:ca/county:sonoma/council_district:1",
-   "officialIndices": [
-    290
-   ]
-  },
-  {
    "name": "Sheriff-Coroner",
    "divisionId": "ocd-division/country:us/state:ca/county:merced",
    "officialIndices": [
-    291
+    289
    ]
   },
   {
    "name": "District Attorney",
    "divisionId": "ocd-division/country:us/state:ca/county:merced",
    "officialIndices": [
-    292
+    290
    ]
   },
   {
    "name": "Auditor - Controller",
    "divisionId": "ocd-division/country:us/state:ca/county:merced",
    "officialIndices": [
-    293
+    291
    ]
   },
   {
    "name": "Treasurer-Tax Collecter",
    "divisionId": "ocd-division/country:us/state:ca/county:merced",
    "officialIndices": [
-    294
+    292
    ]
   },
   {
    "name": "County Clerk-Recorder-Registar of Voters",
    "divisionId": "ocd-division/country:us/state:ca/county:merced",
+   "officialIndices": [
+    293
+   ]
+  },
+  {
+   "name": "Board of Supervisors, District 3",
+   "divisionId": "ocd-division/country:us/state:ca/county:kings/council_district:3",
+   "officialIndices": [
+    294
+   ]
+  },
+  {
+   "name": "Board of Supervisors, District 1",
+   "divisionId": "ocd-division/country:us/state:ca/county:sonoma/council_district:1",
    "officialIndices": [
     295
    ]
@@ -14123,15 +14123,15 @@
    ]
   },
   {
-   "name": "Board of Supervisors, District 4",
-   "divisionId": "ocd-division/country:us/state:ca/county:alameda/council_district:4",
+   "name": "Board of Supervisors, District 5",
+   "divisionId": "ocd-division/country:us/state:ca/county:calaveras/council_district:5",
    "officialIndices": [
     524
    ]
   },
   {
-   "name": "Board of Supervisors, District 5",
-   "divisionId": "ocd-division/country:us/state:ca/county:calaveras/council_district:5",
+   "name": "Board of Supervisors, District 4",
+   "divisionId": "ocd-division/country:us/state:ca/county:alameda/council_district:4",
    "officialIndices": [
     525
    ]
@@ -14711,31 +14711,38 @@
    ]
   },
   {
-   "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:ca/county:contra_costa",
+   "name": "Council, District 4",
+   "divisionId": "ocd-division/country:us/state:ca/place:oakland/council_district:4",
    "officialIndices": [
     608
    ]
   },
   {
-   "name": "Assessor",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ca/county:contra_costa",
    "officialIndices": [
     609
    ]
   },
   {
-   "name": "District Attorney",
+   "name": "Assessor",
    "divisionId": "ocd-division/country:us/state:ca/county:contra_costa",
    "officialIndices": [
     610
    ]
   },
   {
-   "name": "Auditor-Controller",
+   "name": "District Attorney",
    "divisionId": "ocd-division/country:us/state:ca/county:contra_costa",
    "officialIndices": [
     611
+   ]
+  },
+  {
+   "name": "Auditor-Controller",
+   "divisionId": "ocd-division/country:us/state:ca/county:contra_costa",
+   "officialIndices": [
+    612
    ]
   },
   {
@@ -14745,13 +14752,6 @@
   {
    "name": "County Treasurer-Tax Collector",
    "divisionId": "ocd-division/country:us/state:ca/county:contra_costa",
-   "officialIndices": [
-    612
-   ]
-  },
-  {
-   "name": "Council, District 4",
-   "divisionId": "ocd-division/country:us/state:ca/place:oakland/council_district:4",
    "officialIndices": [
     613
    ]
@@ -14841,15 +14841,15 @@
    ]
   },
   {
-   "name": "Board of Supervisors, District 1",
-   "divisionId": "ocd-division/country:us/state:ca/county:santa_cruz/council_district:1",
+   "name": "Mayor",
+   "divisionId": "ocd-division/country:us/state:ca/place:san_jose",
    "officialIndices": [
     626
    ]
   },
   {
-   "name": "Mayor",
-   "divisionId": "ocd-division/country:us/state:ca/place:san_jose",
+   "name": "Board of Supervisors, District 1",
+   "divisionId": "ocd-division/country:us/state:ca/county:santa_cruz/council_district:1",
    "officialIndices": [
     627
    ]
@@ -15646,43 +15646,43 @@
    ]
   },
   {
-   "name": "Board of Supervisors, District 3",
-   "divisionId": "ocd-division/country:us/state:ca/county:mendocino/council_district:3",
-   "officialIndices": [
-    741
-   ]
-  },
-  {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ca/county:riverside",
    "officialIndices": [
-    742
+    741
    ]
   },
   {
    "name": "District Attorney",
    "divisionId": "ocd-division/country:us/state:ca/county:riverside",
    "officialIndices": [
-    743
+    742
    ]
   },
   {
    "name": "Auditor-Controller",
    "divisionId": "ocd-division/country:us/state:ca/county:riverside",
    "officialIndices": [
-    744
+    743
    ]
   },
   {
    "name": "Treasurer-Tax Collector",
    "divisionId": "ocd-division/country:us/state:ca/county:riverside",
    "officialIndices": [
-    745
+    744
    ]
   },
   {
    "name": "Assessor-County Clerk-Recorder",
    "divisionId": "ocd-division/country:us/state:ca/county:riverside",
+   "officialIndices": [
+    745
+   ]
+  },
+  {
+   "name": "Board of Supervisors, District 3",
+   "divisionId": "ocd-division/country:us/state:ca/county:mendocino/council_district:3",
    "officialIndices": [
     746
    ]
@@ -16360,57 +16360,57 @@
    ]
   },
   {
-   "name": "Council, District 5",
-   "divisionId": "ocd-division/country:us/state:ca/place:san_jose/council_district:5",
-   "officialIndices": [
-    843
-   ]
-  },
-  {
    "name": "Auditor",
    "divisionId": "ocd-division/country:us/state:ca/county:lassen",
    "officialIndices": [
-    844
+    843
    ]
   },
   {
    "name": "Assessor",
    "divisionId": "ocd-division/country:us/state:ca/county:lassen",
    "officialIndices": [
-    845
+    844
    ]
   },
   {
    "name": "Sheriff-Coroner",
    "divisionId": "ocd-division/country:us/state:ca/county:lassen",
    "officialIndices": [
-    846
+    845
    ]
   },
   {
    "name": "District Attorney",
    "divisionId": "ocd-division/country:us/state:ca/county:lassen",
    "officialIndices": [
-    847
+    846
    ]
   },
   {
    "name": "County Clerk-Recorder",
    "divisionId": "ocd-division/country:us/state:ca/county:lassen",
    "officialIndices": [
-    848
+    847
    ]
   },
   {
    "name": "Treasurer-Tax Collector",
    "divisionId": "ocd-division/country:us/state:ca/county:lassen",
    "officialIndices": [
-    849
+    848
    ]
   },
   {
    "name": "Superintendent of Schools",
    "divisionId": "ocd-division/country:us/state:ca/county:lassen",
+   "officialIndices": [
+    849
+   ]
+  },
+  {
+   "name": "Council, District 5",
+   "divisionId": "ocd-division/country:us/state:ca/place:san_jose/council_district:5",
    "officialIndices": [
     850
    ]
@@ -23715,6 +23715,82 @@
    ]
   },
   {
+   "name": "John Scott",
+   "address": [
+    {
+     "line1": "4700 ramona blvd.",
+     "city": "monterey park",
+     "state": "CA",
+     "zip": "91754"
+    }
+   ],
+   "party": "Nonpartisan",
+   "phones": [
+    "(323) 267-4848"
+   ],
+   "urls": [
+    "http://sheriff.lacounty.gov/wps/portal/lasd"
+   ],
+   "emails": [
+    "info@lasd.org"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "LosAngelesCountySheriffsDepartment"
+    }
+   ]
+  },
+  {
+   "name": "John Noguez",
+   "address": [
+    {
+     "line1": "500 w. temple st.",
+     "city": "los angeles",
+     "state": "CA",
+     "zip": "90012"
+    }
+   ],
+   "party": "Nonpartisan",
+   "phones": [
+    "(213) 974-3211"
+   ],
+   "emails": [
+    "helpdesk@assessor.lacounty.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "LACAssessor"
+    },
+    {
+     "type": "Twitter",
+     "id": "LACASSESSOR"
+    }
+   ]
+  },
+  {
+   "name": "Jackie Lacey",
+   "address": [
+    {
+     "line1": "210 west temple street",
+     "city": "los angeles",
+     "state": "CA",
+     "zip": "90012"
+    }
+   ],
+   "party": "Nonpartisan",
+   "phones": [
+    "(213) 974-3512"
+   ],
+   "urls": [
+    "http://da.lacounty.gov/"
+   ],
+   "emails": [
+    "webmail@da.lacounty.gov"
+   ]
+  },
+  {
    "name": "Barbara Howard",
    "address": [
     {
@@ -23817,82 +23893,6 @@
    ],
    "emails": [
     "cmcelroy@alpinecountyca.gov"
-   ]
-  },
-  {
-   "name": "John Scott",
-   "address": [
-    {
-     "line1": "4700 ramona blvd.",
-     "city": "monterey park",
-     "state": "CA",
-     "zip": "91754"
-    }
-   ],
-   "party": "Nonpartisan",
-   "phones": [
-    "(323) 267-4848"
-   ],
-   "urls": [
-    "http://sheriff.lacounty.gov/wps/portal/lasd"
-   ],
-   "emails": [
-    "info@lasd.org"
-   ],
-   "channels": [
-    {
-     "type": "Facebook",
-     "id": "LosAngelesCountySheriffsDepartment"
-    }
-   ]
-  },
-  {
-   "name": "John Noguez",
-   "address": [
-    {
-     "line1": "500 w. temple st.",
-     "city": "los angeles",
-     "state": "CA",
-     "zip": "90012"
-    }
-   ],
-   "party": "Nonpartisan",
-   "phones": [
-    "(213) 974-3211"
-   ],
-   "emails": [
-    "helpdesk@assessor.lacounty.gov"
-   ],
-   "channels": [
-    {
-     "type": "Facebook",
-     "id": "LACAssessor"
-    },
-    {
-     "type": "Twitter",
-     "id": "LACASSESSOR"
-    }
-   ]
-  },
-  {
-   "name": "Jackie Lacey",
-   "address": [
-    {
-     "line1": "210 west temple street",
-     "city": "los angeles",
-     "state": "CA",
-     "zip": "90012"
-    }
-   ],
-   "party": "Nonpartisan",
-   "phones": [
-    "(213) 974-3512"
-   ],
-   "urls": [
-    "http://da.lacounty.gov/"
-   ],
-   "emails": [
-    "webmail@da.lacounty.gov"
    ]
   },
   {
@@ -25245,43 +25245,6 @@
    ]
   },
   {
-   "name": "Doug Verboon",
-   "address": [
-    {
-     "line1": "1400 w. lacey boulevard",
-     "city": "hanford",
-     "state": "CA",
-     "zip": "93230"
-    }
-   ],
-   "party": "Nonpartisan",
-   "phones": [
-    "(559) 852-2366"
-   ],
-   "emails": [
-    "doug.verboon@co.kings.ca.us"
-   ]
-  },
-  {
-   "name": "Susan Gorin",
-   "address": [
-    {
-     "line1": "575 Administration Drive",
-     "line2": "Room 100 A",
-     "city": "santa rosa",
-     "state": "CA",
-     "zip": "95403"
-    }
-   ],
-   "party": "Nonpartisan",
-   "phones": [
-    "(707) 565-2241"
-   ],
-   "emails": [
-    "Susan.Gorin@sonoma-county.org"
-   ]
-  },
-  {
    "name": "Mark Pazin",
    "address": [
     {
@@ -25369,6 +25332,43 @@
    ],
    "urls": [
     "http://www.co.merced.ca.us/index.aspx?nid=217"
+   ]
+  },
+  {
+   "name": "Doug Verboon",
+   "address": [
+    {
+     "line1": "1400 w. lacey boulevard",
+     "city": "hanford",
+     "state": "CA",
+     "zip": "93230"
+    }
+   ],
+   "party": "Nonpartisan",
+   "phones": [
+    "(559) 852-2366"
+   ],
+   "emails": [
+    "doug.verboon@co.kings.ca.us"
+   ]
+  },
+  {
+   "name": "Susan Gorin",
+   "address": [
+    {
+     "line1": "575 Administration Drive",
+     "line2": "Room 100 A",
+     "city": "santa rosa",
+     "state": "CA",
+     "zip": "95403"
+    }
+   ],
+   "party": "Nonpartisan",
+   "phones": [
+    "(707) 565-2241"
+   ],
+   "emails": [
+    "Susan.Gorin@sonoma-county.org"
    ]
   },
   {
@@ -30602,24 +30602,6 @@
    ]
   },
   {
-   "name": "Nate Miley",
-   "address": [
-    {
-     "line1": "1221 oak street",
-     "city": "oakland",
-     "state": "CA",
-     "zip": "94612"
-    }
-   ],
-   "party": "Nonpartisan",
-   "phones": [
-    "(510) 272-6694"
-   ],
-   "urls": [
-    "http://www.acgov.org/board/district4/"
-   ]
-  },
-  {
    "name": "Darren Spellman",
    "address": [
     {
@@ -30635,6 +30617,24 @@
    ],
    "emails": [
     "dspellman@co.calaveras.ca.us"
+   ]
+  },
+  {
+   "name": "Nate Miley",
+   "address": [
+    {
+     "line1": "1221 oak street",
+     "city": "oakland",
+     "state": "CA",
+     "zip": "94612"
+    }
+   ],
+   "party": "Nonpartisan",
+   "phones": [
+    "(510) 272-6694"
+   ],
+   "urls": [
+    "http://www.acgov.org/board/district4/"
    ]
   },
   {
@@ -32403,6 +32403,27 @@
    ]
   },
   {
+   "name": "Libby Schaaf",
+   "address": [
+    {
+     "line1": "1",
+     "line2": "2/F, frank ogawa plaza",
+     "city": "oakland",
+     "state": "CA",
+     "zip": "94612"
+    }
+   ],
+   "phones": [
+    "(510) 238-7004"
+   ],
+   "urls": [
+    "http://libbyschaaf.com/"
+   ],
+   "emails": [
+    "lschaaf@oaklandnet.com"
+   ]
+  },
+  {
    "name": "David O. Livingston",
    "party": "Nonpartisan",
    "phones": [
@@ -32480,27 +32501,6 @@
    "party": "Nonpartisan",
    "urls": [
     "http://www.co.contra-costa.ca.us/index.aspx?nid=60"
-   ]
-  },
-  {
-   "name": "Libby Schaaf",
-   "address": [
-    {
-     "line1": "1",
-     "line2": "2/F, frank ogawa plaza",
-     "city": "oakland",
-     "state": "CA",
-     "zip": "94612"
-    }
-   ],
-   "phones": [
-    "(510) 238-7004"
-   ],
-   "urls": [
-    "http://libbyschaaf.com/"
-   ],
-   "emails": [
-    "lschaaf@oaklandnet.com"
    ]
   },
   {
@@ -32777,27 +32777,6 @@
    ]
   },
   {
-   "name": "John Leopold",
-   "address": [
-    {
-     "line1": "701 ocean street",
-     "city": "santa cruz",
-     "state": "CA",
-     "zip": "95060"
-    }
-   ],
-   "party": "Nonpartisan",
-   "phones": [
-    "(831) 454-2200"
-   ],
-   "urls": [
-    "http://www.co.santa-cruz.ca.us/Government/BoardofSupervisors/District1.aspx"
-   ],
-   "emails": [
-    "john.leopold@co.santa-cruz.ca.us"
-   ]
-  },
-  {
    "name": "Chuck Reed",
    "address": [
     {
@@ -32821,6 +32800,27 @@
      "type": "Facebook",
      "id": "124504154245995"
     }
+   ]
+  },
+  {
+   "name": "John Leopold",
+   "address": [
+    {
+     "line1": "701 ocean street",
+     "city": "santa cruz",
+     "state": "CA",
+     "zip": "95060"
+    }
+   ],
+   "party": "Nonpartisan",
+   "phones": [
+    "(831) 454-2200"
+   ],
+   "urls": [
+    "http://www.co.santa-cruz.ca.us/Government/BoardofSupervisors/District1.aspx"
+   ],
+   "emails": [
+    "john.leopold@co.santa-cruz.ca.us"
    ]
   },
   {
@@ -35149,21 +35149,6 @@
    ]
   },
   {
-   "name": "John Pinches",
-   "address": [
-    {
-     "line1": "501 low gap road",
-     "city": "ukiah",
-     "state": "CA",
-     "zip": "95482"
-    }
-   ],
-   "party": "Nonpartisan",
-   "phones": [
-    "(707) 463-4441"
-   ]
-  },
-  {
    "name": "Stanley Sniff",
    "address": [
     {
@@ -35275,6 +35260,21 @@
      "type": "Facebook",
      "id": "riversideacr"
     }
+   ]
+  },
+  {
+   "name": "John Pinches",
+   "address": [
+    {
+     "line1": "501 low gap road",
+     "city": "ukiah",
+     "state": "CA",
+     "zip": "95482"
+    }
+   ],
+   "party": "Nonpartisan",
+   "phones": [
+    "(707) 463-4441"
    ]
   },
   {
@@ -37346,32 +37346,6 @@
    ]
   },
   {
-   "name": "Xavier Campos",
-   "address": [
-    {
-     "line1": "200 e. santa clara st",
-     "city": "san jose",
-     "state": "CA",
-     "zip": "95113"
-    }
-   ],
-   "phones": [
-    "(408) 535-4905"
-   ],
-   "urls": [
-    "http://www.sjdistrict5.com/"
-   ],
-   "emails": [
-    "District5@sanjoseca.gov"
-   ],
-   "channels": [
-    {
-     "type": "Facebook",
-     "id": "SjCouncilDistrict5"
-    }
-   ]
-  },
-  {
    "name": "Karen Fouch",
    "address": [
     {
@@ -37489,6 +37463,32 @@
    "party": "Nonpartisan",
    "phones": [
     "(530) 257-2196"
+   ]
+  },
+  {
+   "name": "Xavier Campos",
+   "address": [
+    {
+     "line1": "200 e. santa clara st",
+     "city": "san jose",
+     "state": "CA",
+     "zip": "95113"
+    }
+   ],
+   "phones": [
+    "(408) 535-4905"
+   ],
+   "urls": [
+    "http://www.sjdistrict5.com/"
+   ],
+   "emails": [
+    "District5@sanjoseca.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "SjCouncilDistrict5"
+    }
    ]
   },
   {

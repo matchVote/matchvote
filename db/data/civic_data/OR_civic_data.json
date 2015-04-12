@@ -12,17 +12,17 @@
   "ocd-division/country:us/state:or/county:lane/precinct:728": {
    "name": "Lane county precinct 728"
   },
-  "ocd-division/country:us/state:or/county:clackamas/precinct:511": {
-   "name": "Clackamas county precinct 511"
-  },
   "ocd-division/country:us/state:or/place:lebanon": {
    "name": "Lebanon city"
   },
-  "ocd-division/country:us/state:or/county:lane/precinct:726": {
-   "name": "Lane county precinct 726"
+  "ocd-division/country:us/state:or/county:clackamas/precinct:511": {
+   "name": "Clackamas county precinct 511"
   },
   "ocd-division/country:us/state:or/county:clackamas/precinct:510": {
    "name": "Clackamas county precinct 510"
+  },
+  "ocd-division/country:us/state:or/county:lane/precinct:726": {
+   "name": "Lane county precinct 726"
   },
   "ocd-division/country:us/state:or/county:clackamas/precinct:513": {
    "name": "Clackamas county precinct 513"
@@ -69,23 +69,23 @@
   "ocd-division/country:us/state:or/place:myrtle_creek": {
    "name": "Myrtle Creek city"
   },
-  "ocd-division/country:us/state:or/county:marion/precinct:694": {
-   "name": "Marion county precinct 694"
-  },
   "ocd-division/country:us/state:or/county:clackamas/precinct:122": {
    "name": "Clackamas county precinct 122"
   },
-  "ocd-division/country:us/state:or/county:multnomah/school_district:corbett_sd_39": {
-   "name": "corbett sd 39"
+  "ocd-division/country:us/state:or/county:marion/precinct:694": {
+   "name": "Marion county precinct 694"
   },
   "ocd-division/country:us/state:or/county:marion/precinct:691": {
    "name": "Marion county precinct 691"
   },
-  "ocd-division/country:us/state:or/county:marion/precinct:692": {
-   "name": "Marion county precinct 692"
+  "ocd-division/country:us/state:or/county:multnomah/school_district:corbett_sd_39": {
+   "name": "corbett sd 39"
   },
   "ocd-division/country:us/state:or/county:clackamas/precinct:124": {
    "name": "Clackamas county precinct 124"
+  },
+  "ocd-division/country:us/state:or/county:marion/precinct:692": {
+   "name": "Marion county precinct 692"
   },
   "ocd-division/country:us/state:or/county:clackamas/precinct:125": {
    "name": "Clackamas county precinct 125"
@@ -99,11 +99,11 @@
   "ocd-division/country:us/state:or/place:cascade_locks": {
    "name": "Cascade Locks city"
   },
-  "ocd-division/country:us/state:or/county:lane/precinct:710": {
-   "name": "Lane county precinct 710"
-  },
   "ocd-division/country:us/state:or/county:curry/precinct:2": {
    "name": "Curry county precinct 2"
+  },
+  "ocd-division/country:us/state:or/county:lane/precinct:710": {
+   "name": "Lane county precinct 710"
   },
   "ocd-division/country:us/state:or/county:curry/precinct:1": {
    "name": "Curry county precinct 1"
@@ -111,38 +111,38 @@
   "ocd-division/country:us/state:or/county:lane/precinct:712": {
    "name": "Lane county precinct 712"
   },
-  "ocd-division/country:us/state:or/county:lane/precinct:714": {
-   "name": "Lane county precinct 714"
-  },
   "ocd-division/country:us/state:or/county:curry/precinct:6": {
    "name": "Curry county precinct 6"
+  },
+  "ocd-division/country:us/state:or/county:lane/precinct:714": {
+   "name": "Lane county precinct 714"
   },
   "ocd-division/country:us/state:or/county:curry/precinct:5": {
    "name": "Curry county precinct 5"
   },
-  "ocd-division/country:us/state:or/county:lane/precinct:716": {
-   "name": "Lane county precinct 716"
+  "ocd-division/country:us/state:or/county:curry/precinct:4": {
+   "name": "Curry county precinct 4"
   },
   "ocd-division/country:us/state:or/county:clackamas/precinct:520": {
    "name": "Clackamas county precinct 520"
   },
-  "ocd-division/country:us/state:or/county:curry/precinct:4": {
-   "name": "Curry county precinct 4"
-  },
-  "ocd-division/country:us/state:or/county:curry/precinct:3": {
-   "name": "Curry county precinct 3"
+  "ocd-division/country:us/state:or/county:lane/precinct:716": {
+   "name": "Lane county precinct 716"
   },
   "ocd-division/country:us/state:or/county:clatsop/school_district:seaside_sd_10": {
    "name": "seaside sd 10"
   },
+  "ocd-division/country:us/state:or/county:curry/precinct:3": {
+   "name": "Curry county precinct 3"
+  },
   "ocd-division/country:us/state:or/county:lane/precinct:718": {
    "name": "Lane county precinct 718"
   },
-  "ocd-division/country:us/state:or/county:marion/precinct:679": {
-   "name": "Marion county precinct 679"
-  },
   "ocd-division/country:us/state:or/place:scappoose": {
    "name": "Scappoose city"
+  },
+  "ocd-division/country:us/state:or/county:marion/precinct:679": {
+   "name": "Marion county precinct 679"
   },
   "ocd-division/country:us/state:or/county:crook": {
    "name": "Crook County",
@@ -165,26 +165,26 @@
   "ocd-division/country:us/state:or/county:marion/precinct:677": {
    "name": "Marion county precinct 677"
   },
-  "ocd-division/country:us/state:or/county:marion/precinct:682": {
-   "name": "Marion county precinct 682"
-  },
   "ocd-division/country:us/state:or/county:lane/precinct:1233": {
    "name": "Lane county precinct 1233"
   },
-  "ocd-division/country:us/state:or/county:marion/precinct:683": {
-   "name": "Marion county precinct 683"
+  "ocd-division/country:us/state:or/county:marion/precinct:682": {
+   "name": "Marion county precinct 682"
   },
   "ocd-division/country:us/state:or/county:clackamas/precinct:111": {
    "name": "Clackamas county precinct 111"
   },
-  "ocd-division/country:us/state:or/county:wallowa/precinct:2": {
-   "name": "Wallowa county precinct 2"
+  "ocd-division/country:us/state:or/county:marion/precinct:683": {
+   "name": "Marion county precinct 683"
+  },
+  "ocd-division/country:us/state:or/county:lane/precinct:1231": {
+   "name": "Lane county precinct 1231"
   },
   "ocd-division/country:us/state:or/county:marion/precinct:684": {
    "name": "Marion county precinct 684"
   },
-  "ocd-division/country:us/state:or/county:lane/precinct:1231": {
-   "name": "Lane county precinct 1231"
+  "ocd-division/country:us/state:or/county:wallowa/precinct:2": {
+   "name": "Wallowa county precinct 2"
   },
   "ocd-division/country:us/state:or/county:wallowa/precinct:1": {
    "name": "Wallowa county precinct 1"
@@ -195,23 +195,23 @@
   "ocd-division/country:us/state:or/county:wallowa/precinct:3": {
    "name": "Wallowa county precinct 3"
   },
-  "ocd-division/country:us/state:or/county:wallowa/precinct:6": {
-   "name": "Wallowa county precinct 6"
-  },
   "ocd-division/country:us/state:or/county:marion/precinct:680": {
    "name": "Marion county precinct 680"
   },
-  "ocd-division/country:us/state:or/county:wallowa/precinct:5": {
-   "name": "Wallowa county precinct 5"
+  "ocd-division/country:us/state:or/county:wallowa/precinct:6": {
+   "name": "Wallowa county precinct 6"
   },
   "ocd-division/country:us/state:or/county:marion/precinct:681": {
    "name": "Marion county precinct 681"
   },
-  "ocd-division/country:us/state:or/county:wallowa/precinct:8": {
-   "name": "Wallowa county precinct 8"
+  "ocd-division/country:us/state:or/county:wallowa/precinct:5": {
+   "name": "Wallowa county precinct 5"
   },
   "ocd-division/country:us/state:or/county:curry/precinct:9": {
    "name": "Curry county precinct 9"
+  },
+  "ocd-division/country:us/state:or/county:wallowa/precinct:8": {
+   "name": "Wallowa county precinct 8"
   },
   "ocd-division/country:us/state:or/county:wallowa/precinct:7": {
    "name": "Wallowa county precinct 7"
@@ -219,56 +219,56 @@
   "ocd-division/country:us/state:or/county:curry/precinct:7": {
    "name": "Curry county precinct 7"
   },
-  "ocd-division/country:us/state:or/county:wallowa/precinct:9": {
-   "name": "Wallowa county precinct 9"
-  },
   "ocd-division/country:us/state:or/county:curry/precinct:8": {
    "name": "Curry county precinct 8"
   },
-  "ocd-division/country:us/state:or/county:lincoln/precinct:10": {
-   "name": "Lincoln county precinct 10"
+  "ocd-division/country:us/state:or/county:wallowa/precinct:9": {
+   "name": "Wallowa county precinct 9"
   },
   "ocd-division/country:us/state:or/county:lane/precinct:1237": {
    "name": "Lane county precinct 1237"
   },
+  "ocd-division/country:us/state:or/county:lincoln/precinct:10": {
+   "name": "Lincoln county precinct 10"
+  },
   "ocd-division/country:us/state:or/county:lincoln/precinct:11": {
    "name": "Lincoln county precinct 11"
-  },
-  "ocd-division/country:us/state:or/county:lane/precinct:720": {
-   "name": "Lane county precinct 720"
   },
   "ocd-division/country:us/state:or/county:lane/precinct:1235": {
    "name": "Lane county precinct 1235"
   },
-  "ocd-division/country:us/state:or/county:lincoln/precinct:17": {
-   "name": "Lincoln county precinct 17"
+  "ocd-division/country:us/state:or/county:lane/precinct:720": {
+   "name": "Lane county precinct 720"
   },
   "ocd-division/country:us/state:or/place:springfield": {
    "name": "Springfield city"
   },
-  "ocd-division/country:us/state:or/county:lincoln/precinct:16": {
-   "name": "Lincoln county precinct 16"
+  "ocd-division/country:us/state:or/county:lincoln/precinct:17": {
+   "name": "Lincoln county precinct 17"
   },
   "ocd-division/country:us/state:or/county:lane/precinct:706": {
    "name": "Lane county precinct 706"
   },
+  "ocd-division/country:us/state:or/county:lincoln/precinct:16": {
+   "name": "Lincoln county precinct 16"
+  },
   "ocd-division/country:us/state:or/county:lincoln/precinct:19": {
    "name": "Lincoln county precinct 19"
-  },
-  "ocd-division/country:us/state:or/county:lincoln/precinct:18": {
-   "name": "Lincoln county precinct 18"
   },
   "ocd-division/country:us/state:or/county:lane/precinct:704": {
    "name": "Lane county precinct 704"
   },
+  "ocd-division/country:us/state:or/county:lincoln/precinct:18": {
+   "name": "Lincoln county precinct 18"
+  },
   "ocd-division/country:us/state:or/county:lincoln/precinct:13": {
    "name": "Lincoln county precinct 13"
   },
-  "ocd-division/country:us/state:or/county:lincoln/precinct:12": {
-   "name": "Lincoln county precinct 12"
-  },
   "ocd-division/country:us/state:or/county:lane/precinct:702": {
    "name": "Lane county precinct 702"
+  },
+  "ocd-division/country:us/state:or/county:lincoln/precinct:12": {
+   "name": "Lincoln county precinct 12"
   },
   "ocd-division/country:us/state:or/county:lincoln/precinct:15": {
    "name": "Lincoln county precinct 15"
@@ -282,11 +282,11 @@
   "ocd-division/country:us/state:or/place:canby": {
    "name": "Canby city"
   },
-  "ocd-division/country:us/state:or/county:tillamook/school_district:neah-kah-nie_sd_56": {
-   "name": "neah-kah-nie sd 56"
-  },
   "ocd-division/country:us/state:or/county:marion/precinct:674": {
    "name": "Marion county precinct 674"
+  },
+  "ocd-division/country:us/state:or/county:tillamook/school_district:neah-kah-nie_sd_56": {
+   "name": "neah-kah-nie sd 56"
   },
   "ocd-division/country:us/state:or/county:lincoln/precinct:20": {
    "name": "Lincoln county precinct 20"
@@ -477,32 +477,32 @@
   "ocd-division/country:us/state:or/circuit_court:12": {
    "name": "OR State Circuit Court - 12th District"
   },
-  "ocd-division/country:us/state:or/county:lane/precinct:748": {
-   "name": "Lane county precinct 748"
-  },
   "ocd-division/country:us/state:or/circuit_court:13": {
    "name": "OR State Circuit Court - 13th District"
   },
-  "ocd-division/country:us/state:or/circuit_court:14": {
-   "name": "OR State Circuit Court - 14th District"
+  "ocd-division/country:us/state:or/county:lane/precinct:748": {
+   "name": "Lane county precinct 748"
   },
   "ocd-division/country:us/state:or/place:north_powder": {
    "name": "North Powder city"
   },
-  "ocd-division/country:us/state:or/county:lane/precinct:746": {
-   "name": "Lane county precinct 746"
+  "ocd-division/country:us/state:or/circuit_court:14": {
+   "name": "OR State Circuit Court - 14th District"
   },
   "ocd-division/country:us/state:or/circuit_court:15": {
    "name": "OR State Circuit Court - 15th District"
   },
+  "ocd-division/country:us/state:or/county:lane/precinct:746": {
+   "name": "Lane county precinct 746"
+  },
   "ocd-division/country:us/state:or/circuit_court:16": {
    "name": "OR State Circuit Court - 16th District"
   },
-  "ocd-division/country:us/state:or/county:lane/precinct:744": {
-   "name": "Lane county precinct 744"
-  },
   "ocd-division/country:us/state:or/circuit_court:17": {
    "name": "OR State Circuit Court - 17th District"
+  },
+  "ocd-division/country:us/state:or/county:lane/precinct:744": {
+   "name": "Lane county precinct 744"
   },
   "ocd-division/country:us/state:or/circuit_court:18": {
    "name": "OR State Circuit Court - 18th District"
@@ -575,17 +575,17 @@
   "ocd-division/country:us/state:or/county:marion/school_district:silver_falls_sd_4j": {
    "name": "silver falls sd 4j"
   },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:4710": {
-   "name": "Multnomah county precinct 4710"
-  },
   "ocd-division/country:us/state:or/county:douglas/precinct:18": {
    "name": "Douglas county precinct 18"
   },
-  "ocd-division/country:us/state:or/county:lane/precinct:2340": {
-   "name": "Lane county precinct 2340"
+  "ocd-division/country:us/state:or/county:multnomah/precinct:4710": {
+   "name": "Multnomah county precinct 4710"
   },
   "ocd-division/country:us/state:or/county:douglas/precinct:19": {
    "name": "Douglas county precinct 19"
+  },
+  "ocd-division/country:us/state:or/county:lane/precinct:2340": {
+   "name": "Lane county precinct 2340"
   },
   "ocd-division/country:us/state:or/county:polk/precinct:146": {
    "name": "Polk county precinct 146"
@@ -1065,68 +1065,68 @@
   "ocd-division/country:us/state:or/county:malheur/precinct:24": {
    "name": "Malheur county precinct 24"
   },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:5002": {
-   "name": "Multnomah county precinct 5002"
+  "ocd-division/country:us/state:or/county:linn/precinct:35": {
+   "name": "Linn county precinct 35"
   },
   "ocd-division/country:us/state:or/county:multnomah/precinct:4909": {
    "name": "Multnomah county precinct 4909"
   },
-  "ocd-division/country:us/state:or/county:linn/precinct:35": {
-   "name": "Linn county precinct 35"
-  },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:5003": {
-   "name": "Multnomah county precinct 5003"
-  },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:4908": {
-   "name": "Multnomah county precinct 4908"
+  "ocd-division/country:us/state:or/county:multnomah/precinct:5002": {
+   "name": "Multnomah county precinct 5002"
   },
   "ocd-division/country:us/state:or/county:linn/precinct:34": {
    "name": "Linn county precinct 34"
   },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:5004": {
-   "name": "Multnomah county precinct 5004"
+  "ocd-division/country:us/state:or/county:multnomah/precinct:4908": {
+   "name": "Multnomah county precinct 4908"
+  },
+  "ocd-division/country:us/state:or/county:multnomah/precinct:5003": {
+   "name": "Multnomah county precinct 5003"
   },
   "ocd-division/country:us/state:or/county:linn/precinct:37": {
    "name": "Linn county precinct 37"
   },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:5005": {
-   "name": "Multnomah county precinct 5005"
+  "ocd-division/country:us/state:or/county:multnomah/precinct:5004": {
+   "name": "Multnomah county precinct 5004"
   },
   "ocd-division/country:us/state:or/county:linn/precinct:36": {
    "name": "Linn county precinct 36"
   },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:5006": {
-   "name": "Multnomah county precinct 5006"
+  "ocd-division/country:us/state:or/county:multnomah/precinct:5005": {
+   "name": "Multnomah county precinct 5005"
   },
   "ocd-division/country:us/state:or/county:linn/precinct:39": {
    "name": "Linn county precinct 39"
   },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:5007": {
-   "name": "Multnomah county precinct 5007"
-  },
-  "ocd-division/country:us/state:or/county:linn/precinct:38": {
-   "name": "Linn county precinct 38"
+  "ocd-division/country:us/state:or/county:multnomah/precinct:5006": {
+   "name": "Multnomah county precinct 5006"
   },
   "ocd-division/country:us/state:or/county:yamhill/precinct:7": {
    "name": "Yamhill county precinct 7"
   },
+  "ocd-division/country:us/state:or/county:linn/precinct:38": {
+   "name": "Linn county precinct 38"
+  },
+  "ocd-division/country:us/state:or/county:multnomah/precinct:5007": {
+   "name": "Multnomah county precinct 5007"
+  },
   "ocd-division/country:us/state:or/county:multnomah/precinct:5008": {
    "name": "Multnomah county precinct 5008"
-  },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:5009": {
-   "name": "Multnomah county precinct 5009"
   },
   "ocd-division/country:us/state:or/county:yamhill/precinct:9": {
    "name": "Yamhill county precinct 9"
   },
+  "ocd-division/country:us/state:or/county:multnomah/precinct:5009": {
+   "name": "Multnomah county precinct 5009"
+  },
   "ocd-division/country:us/state:or/county:columbia/precinct:34": {
    "name": "Columbia county precinct 34"
   },
-  "ocd-division/country:us/state:or/county:crook/school_district:crook_county_sd": {
-   "name": "crook county sd"
-  },
   "ocd-division/country:us/state:or/county:columbia/precinct:33": {
    "name": "Columbia county precinct 33"
+  },
+  "ocd-division/country:us/state:or/county:crook/school_district:crook_county_sd": {
+   "name": "crook county sd"
   },
   "ocd-division/country:us/state:or/county:columbia/precinct:36": {
    "name": "Columbia county precinct 36"
@@ -1134,29 +1134,29 @@
   "ocd-division/country:us/state:or/county:columbia/precinct:35": {
    "name": "Columbia county precinct 35"
   },
-  "ocd-division/country:us/state:or/county:linn/precinct:31": {
-   "name": "Linn county precinct 31"
+  "ocd-division/country:us/state:or/place:yamhill": {
+   "name": "Yamhill city"
   },
   "ocd-division/country:us/state:or/county:columbia/precinct:30": {
    "name": "Columbia county precinct 30"
   },
-  "ocd-division/country:us/state:or/place:yamhill": {
-   "name": "Yamhill city"
+  "ocd-division/country:us/state:or/county:linn/precinct:31": {
+   "name": "Linn county precinct 31"
   },
   "ocd-division/country:us/state:or/county:linn/precinct:30": {
    "name": "Linn county precinct 30"
   },
-  "ocd-division/country:us/state:or/county:linn/precinct:33": {
-   "name": "Linn county precinct 33"
-  },
   "ocd-division/country:us/state:or/county:columbia/precinct:32": {
    "name": "Columbia county precinct 32"
   },
-  "ocd-division/country:us/state:or/county:linn/precinct:32": {
-   "name": "Linn county precinct 32"
+  "ocd-division/country:us/state:or/county:linn/precinct:33": {
+   "name": "Linn county precinct 33"
   },
   "ocd-division/country:us/state:or/county:columbia/precinct:31": {
    "name": "Columbia county precinct 31"
+  },
+  "ocd-division/country:us/state:or/county:linn/precinct:32": {
+   "name": "Linn county precinct 32"
   },
   "ocd-division/country:us/state:or/county:malheur/precinct:13": {
    "name": "Malheur county precinct 13"
@@ -1173,17 +1173,17 @@
   "ocd-division/country:us/state:or/county:columbia/precinct:37": {
    "name": "Columbia county precinct 37"
   },
-  "ocd-division/country:us/state:or/county:malheur/precinct:10": {
-   "name": "Malheur county precinct 10"
-  },
   "ocd-division/country:us/state:or/county:columbia/precinct:38": {
    "name": "Columbia county precinct 38"
   },
-  "ocd-division/country:us/state:or/county:malheur/precinct:11": {
-   "name": "Malheur county precinct 11"
+  "ocd-division/country:us/state:or/county:malheur/precinct:10": {
+   "name": "Malheur county precinct 10"
   },
   "ocd-division/country:us/state:or/county:columbia/precinct:39": {
    "name": "Columbia county precinct 39"
+  },
+  "ocd-division/country:us/state:or/county:malheur/precinct:11": {
+   "name": "Malheur county precinct 11"
   },
   "ocd-division/country:us/state:or/county:malheur/precinct:12": {
    "name": "Malheur county precinct 12"
@@ -1251,6 +1251,9 @@
   "ocd-division/country:us/state:or/county:columbia/precinct:25": {
    "name": "Columbia county precinct 25"
   },
+  "ocd-division/country:us/state:or/county:columbia/precinct:24": {
+   "name": "Columbia county precinct 24"
+  },
   "ocd-division/country:us/state:or/county:marion": {
    "name": "Marion County",
    "officeIndices": [
@@ -1262,9 +1265,6 @@
     135,
     136
    ]
-  },
-  "ocd-division/country:us/state:or/county:columbia/precinct:24": {
-   "name": "Columbia county precinct 24"
   },
   "ocd-division/country:us/state:or/county:columbia/precinct:23": {
    "name": "Columbia county precinct 23"
@@ -1547,6 +1547,9 @@
   "ocd-division/country:us/state:or/county:linn/precinct:15": {
    "name": "Linn county precinct 15"
   },
+  "ocd-division/country:us/state:or/county:washington/school_district:hillsboro_sd_1j": {
+   "name": "hillsboro sd 1j"
+  },
   "ocd-division/country:us/state:or/county:douglas": {
    "name": "Douglas County",
    "officeIndices": [
@@ -1558,9 +1561,6 @@
     169,
     170
    ]
-  },
-  "ocd-division/country:us/state:or/county:washington/school_district:hillsboro_sd_1j": {
-   "name": "hillsboro sd 1j"
   },
   "ocd-division/country:us/state:or/county:marion/school_district:woodburn_sd_103": {
    "name": "woodburn sd 103"
@@ -2236,6 +2236,9 @@
   "ocd-division/country:us/state:or/county:umatilla/precinct:110": {
    "name": "Umatilla county precinct 110"
   },
+  "ocd-division/country:us/state:or/county:jefferson/precinct:19": {
+   "name": "Jefferson county precinct 19"
+  },
   "ocd-division/country:us/state:or/county:curry": {
    "name": "Curry County",
    "officeIndices": [
@@ -2247,9 +2250,6 @@
     196,
     197
    ]
-  },
-  "ocd-division/country:us/state:or/county:jefferson/precinct:19": {
-   "name": "Jefferson county precinct 19"
   },
   "ocd-division/country:us/state:or/county:jefferson/precinct:14": {
    "name": "Jefferson county precinct 14"
@@ -2438,59 +2438,53 @@
   "ocd-division/country:us/state:or/place:monroe": {
    "name": "Monroe city"
   },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:3801": {
-   "name": "Multnomah county precinct 3801"
+  "ocd-division/country:us/state:or/county:washington/precinct:381": {
+   "name": "Washington county precinct 381"
   },
   "ocd-division/country:us/state:or/county:crook/precinct:1": {
    "name": "Crook county precinct 1"
   },
-  "ocd-division/country:us/state:or/county:washington/precinct:381": {
-   "name": "Washington county precinct 381"
-  },
-  "ocd-division/country:us/state:or/county:washington/precinct:382": {
-   "name": "Washington county precinct 382"
+  "ocd-division/country:us/state:or/county:multnomah/precinct:3801": {
+   "name": "Multnomah county precinct 3801"
   },
   "ocd-division/country:us/state:or/place:seneca": {
    "name": "Seneca city"
   },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:3803": {
-   "name": "Multnomah county precinct 3803"
+  "ocd-division/country:us/state:or/county:washington/precinct:382": {
+   "name": "Washington county precinct 382"
   },
   "ocd-division/country:us/state:or/county:crook/precinct:3": {
    "name": "Crook county precinct 3"
   },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:3802": {
-   "name": "Multnomah county precinct 3802"
-  },
-  "ocd-division/country:us/state:or/county:crook/precinct:2": {
-   "name": "Crook county precinct 2"
+  "ocd-division/country:us/state:or/county:multnomah/precinct:3803": {
+   "name": "Multnomah county precinct 3803"
   },
   "ocd-division/country:us/state:or/county:washington/precinct:380": {
    "name": "Washington county precinct 380"
   },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:3805": {
-   "name": "Multnomah county precinct 3805"
+  "ocd-division/country:us/state:or/county:crook/precinct:2": {
+   "name": "Crook county precinct 2"
+  },
+  "ocd-division/country:us/state:or/county:multnomah/precinct:3802": {
+   "name": "Multnomah county precinct 3802"
   },
   "ocd-division/country:us/state:or/county:washington/precinct:385": {
    "name": "Washington county precinct 385"
   },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:3804": {
-   "name": "Multnomah county precinct 3804"
+  "ocd-division/country:us/state:or/county:multnomah/precinct:3805": {
+   "name": "Multnomah county precinct 3805"
   },
   "ocd-division/country:us/state:or/county:washington/precinct:386": {
    "name": "Washington county precinct 386"
   },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:3807": {
-   "name": "Multnomah county precinct 3807"
+  "ocd-division/country:us/state:or/county:multnomah/precinct:3804": {
+   "name": "Multnomah county precinct 3804"
   },
   "ocd-division/country:us/state:or/county:washington/precinct:383": {
    "name": "Washington county precinct 383"
   },
-  "ocd-division/country:us/state:or/county:multnomah/precinct:3806": {
-   "name": "Multnomah county precinct 3806"
-  },
-  "ocd-division/country:us/state:or/county:washington/precinct:384": {
-   "name": "Washington county precinct 384"
+  "ocd-division/country:us/state:or/county:multnomah/precinct:3807": {
+   "name": "Multnomah county precinct 3807"
   },
   "ocd-division/country:us/state:or/sldu:30": {
    "name": "Oregon State Senate district 30",
@@ -2498,14 +2492,20 @@
     26
    ]
   },
-  "ocd-division/country:us/state:or/county:crook/precinct:9": {
-   "name": "Crook county precinct 9"
+  "ocd-division/country:us/state:or/county:washington/precinct:384": {
+   "name": "Washington county precinct 384"
+  },
+  "ocd-division/country:us/state:or/county:multnomah/precinct:3806": {
+   "name": "Multnomah county precinct 3806"
+  },
+  "ocd-division/country:us/state:or/county:washington/precinct:389": {
+   "name": "Washington county precinct 389"
   },
   "ocd-division/country:us/state:or/county:douglas/school_district:north_douglas_sd_22": {
    "name": "north douglas sd 22"
   },
-  "ocd-division/country:us/state:or/county:washington/precinct:389": {
-   "name": "Washington county precinct 389"
+  "ocd-division/country:us/state:or/county:crook/precinct:9": {
+   "name": "Crook county precinct 9"
   },
   "ocd-division/country:us/state:or/county:crook/precinct:8": {
    "name": "Crook county precinct 8"
@@ -2513,11 +2513,11 @@
   "ocd-division/country:us/state:or/county:washington/precinct:387": {
    "name": "Washington county precinct 387"
   },
-  "ocd-division/country:us/state:or/county:washington/precinct:388": {
-   "name": "Washington county precinct 388"
-  },
   "ocd-division/country:us/state:or/place:the_dalles": {
    "name": "The Dalles city"
+  },
+  "ocd-division/country:us/state:or/county:washington/precinct:388": {
+   "name": "Washington county precinct 388"
   },
   "ocd-division/country:us/state:or/county:crook/precinct:5": {
    "name": "Crook county precinct 5"
@@ -2768,28 +2768,22 @@
   "ocd-division/country:us/state:or/county:benton/precinct:1": {
    "name": "Benton county precinct 1"
   },
+  "ocd-division/country:us/state:or/county:washington/precinct:346": {
+   "name": "Washington county precinct 346"
+  },
   "ocd-division/country:us/state:or/county:multnomah/council_district:2": {
    "name": "Multnomah County OR County Commission District 2",
    "officeIndices": [
     217
    ]
   },
-  "ocd-division/country:us/state:or/county:washington/precinct:346": {
-   "name": "Washington county precinct 346"
+  "ocd-division/country:us/state:or/county:washington/precinct:345": {
+   "name": "Washington county precinct 345"
   },
   "ocd-division/country:us/state:or/county:multnomah/council_district:1": {
    "name": "Multnomah County OR County Commission District 1",
    "officeIndices": [
     218
-   ]
-  },
-  "ocd-division/country:us/state:or/county:washington/precinct:345": {
-   "name": "Washington county precinct 345"
-  },
-  "ocd-division/country:us/state:or/county:multnomah/council_district:4": {
-   "name": "Multnomah County OR County Commission District 4",
-   "officeIndices": [
-    219
    ]
   },
   "ocd-division/country:us/state:or/county:washington/precinct:344": {
@@ -2798,10 +2792,10 @@
   "ocd-division/country:us/state:or/county:clackamas/school_district:estacada_sd_108": {
    "name": "estacada sd 108"
   },
-  "ocd-division/country:us/state:or/county:multnomah/council_district:3": {
-   "name": "Multnomah County OR County Commission District 3",
+  "ocd-division/country:us/state:or/county:multnomah/council_district:4": {
+   "name": "Multnomah County OR County Commission District 4",
    "officeIndices": [
-    220
+    219
    ]
   },
   "ocd-division/country:us/state:or/county:washington/precinct:343": {
@@ -2809,6 +2803,12 @@
   },
   "ocd-division/country:us/state:or/county:marion/precinct:340": {
    "name": "Marion county precinct 340"
+  },
+  "ocd-division/country:us/state:or/county:multnomah/council_district:3": {
+   "name": "Multnomah County OR County Commission District 3",
+   "officeIndices": [
+    220
+   ]
   },
   "ocd-division/country:us/state:or/county:marion/precinct:341": {
    "name": "Marion county precinct 341"
@@ -4035,14 +4035,14 @@
     262
    ]
   },
+  "ocd-division/country:us/state:or/place:idanha": {
+   "name": "Idanha city"
+  },
   "ocd-division/country:us/state:or/county:washington/council_district:2": {
    "name": "Washington County OR Board of Commissioners District 2",
    "officeIndices": [
     263
    ]
-  },
-  "ocd-division/country:us/state:or/place:idanha": {
-   "name": "Idanha city"
   },
   "ocd-division/country:us/state:or/county:washington/council_district:4": {
    "name": "Washington County OR Board of Commissioners District 4",
@@ -5088,11 +5088,11 @@
   "ocd-division/country:us/state:or/county:union/precinct:2": {
    "name": "Union county precinct 2"
   },
-  "ocd-division/country:us/state:or/county:union/precinct:1": {
-   "name": "Union county precinct 1"
-  },
   "ocd-division/country:us/state:or/county:josephine/precinct:40": {
    "name": "Josephine county precinct 40"
+  },
+  "ocd-division/country:us/state:or/county:union/precinct:1": {
+   "name": "Union county precinct 1"
   },
   "ocd-division/country:us/state:or/place:brownsville": {
    "name": "Brownsville city"
@@ -6288,14 +6288,14 @@
     1
    ]
   },
+  "ocd-division/country:us/state:or/county:jackson/precinct:90": {
+   "name": "Jackson county precinct 90"
+  },
   "ocd-division/country:us/state:or/cd:4": {
    "name": "Oregon's 4th congressional district",
    "officeIndices": [
     2
    ]
-  },
-  "ocd-division/country:us/state:or/county:jackson/precinct:90": {
-   "name": "Jackson county precinct 90"
   },
   "ocd-division/country:us/state:or/cd:3": {
    "name": "Oregon's 3rd congressional district",

@@ -3,11 +3,11 @@
   "ocd-division/country:us/state:ny/county:orange/school_district:tuxedo_union_free_school_district": {
    "name": "tuxedo union free school district"
   },
-  "ocd-division/country:us/state:ny/county:steuben/place:corning": {
-   "name": "Corning town"
-  },
   "ocd-division/country:us/state:ny/county:nassau/school_district:plainview-old_bethpage_central_school_district": {
    "name": "plainview-old bethpage central school district"
+  },
+  "ocd-division/country:us/state:ny/county:steuben/place:corning": {
+   "name": "Corning town"
   },
   "ocd-division/country:us/state:ny/county:broome/place:vestal": {
    "name": "Vestal town"
@@ -133,11 +133,11 @@
   "ocd-division/country:us/state:ny/county:steuben/place:tuscarora": {
    "name": "Tuscarora town"
   },
-  "ocd-division/country:us/state:ny/county:suffolk/school_district:oysterponds_union_free_school_district": {
-   "name": "oysterponds union free school district"
-  },
   "ocd-division/country:us/state:ny/county:allegany/school_district:andover_central_school_district": {
    "name": "andover central school district"
+  },
+  "ocd-division/country:us/state:ny/county:suffolk/school_district:oysterponds_union_free_school_district": {
+   "name": "oysterponds union free school district"
   },
   "ocd-division/country:us/state:ny/county:columbia/place:livingston": {
    "name": "Livingston town",
@@ -148,17 +148,17 @@
   "ocd-division/country:us/state:ny/county:chautauqua/place:gerry": {
    "name": "Gerry town"
   },
-  "ocd-division/country:us/state:ny/place:lancaster": {
-   "name": "Lancaster village"
-  },
-  "ocd-division/country:us/state:ny/place:canandaigua": {
-   "name": "Canandaigua city"
-  },
   "ocd-division/country:us/state:ny/county:broome/council_district:1": {
    "name": "Broome County District 1",
    "officeIndices": [
     267
    ]
+  },
+  "ocd-division/country:us/state:ny/place:canandaigua": {
+   "name": "Canandaigua city"
+  },
+  "ocd-division/country:us/state:ny/place:lancaster": {
+   "name": "Lancaster village"
   },
   "ocd-division/country:us/state:ny/county:broome/council_district:3": {
    "name": "Broome County District 3",
@@ -190,14 +190,14 @@
     272
    ]
   },
+  "ocd-division/country:us/state:ny/county:onondaga/place:de_witt": {
+   "name": "De Witt town"
+  },
   "ocd-division/country:us/state:ny/county:broome/council_district:7": {
    "name": "Broome County District 7",
    "officeIndices": [
     273
    ]
-  },
-  "ocd-division/country:us/state:ny/county:onondaga/place:de_witt": {
-   "name": "De Witt town"
   },
   "ocd-division/country:us/state:ny/county:broome/council_district:8": {
    "name": "Broome County District 8",
@@ -217,11 +217,11 @@
   "ocd-division/country:us/state:ny/place:maybrook": {
    "name": "Maybrook village"
   },
-  "ocd-division/country:us/state:ny/county:columbia/school_district:kinderhook_central_school_district": {
-   "name": "kinderhook central school district"
-  },
   "ocd-division/country:us/state:ny/place:patchogue": {
    "name": "Patchogue village"
+  },
+  "ocd-division/country:us/state:ny/county:columbia/school_district:kinderhook_central_school_district": {
+   "name": "kinderhook central school district"
   },
   "ocd-division/country:us/state:ny/county:albany/school_district:capital_region_boces": {
    "name": "capital region boces"
@@ -394,11 +394,11 @@
   "ocd-division/country:us/state:ny/place:rushville": {
    "name": "Rushville village"
   },
-  "ocd-division/country:us/state:ny/place:buffalo/council_district:ellicott": {
-   "name": "Buffalo NY - common council Ellicot District"
-  },
   "ocd-division/country:us/state:ny/county:nassau/school_district:island_park_union_free_school_district": {
    "name": "island park union free school district"
+  },
+  "ocd-division/country:us/state:ny/place:buffalo/council_district:ellicott": {
+   "name": "Buffalo NY - common council Ellicot District"
   },
   "ocd-division/country:us/state:ny/county:oneida/school_district:oneida-herkimer-madison_boces": {
    "name": "oneida-herkimer-madison boces"
@@ -409,9 +409,6 @@
   "ocd-division/country:us/state:ny/county:franklin/place:brighton": {
    "name": "Brighton town"
   },
-  "ocd-division/country:us/state:ny/county:cayuga/place:ira": {
-   "name": "Ira town"
-  },
   "ocd-division/country:us/state:ny/county:greene": {
    "name": "Greene County",
    "officeIndices": [
@@ -421,6 +418,9 @@
     298,
     299
    ]
+  },
+  "ocd-division/country:us/state:ny/county:cayuga/place:ira": {
+   "name": "Ira town"
   },
   "ocd-division/country:us/state:ny/county:st_lawrence/place:hammond": {
    "name": "Hammond town"
@@ -512,14 +512,14 @@
     309
    ]
   },
-  "ocd-division/country:us/state:ny/county:cortland/council_district:11": {
-   "name": "Cortland County District 11",
+  "ocd-division/country:us/state:ny/county:madison/place:cazenovia": {
+   "name": "Cazenovia town",
    "officeIndices": [
     310
    ]
   },
-  "ocd-division/country:us/state:ny/county:madison/place:cazenovia": {
-   "name": "Cazenovia town",
+  "ocd-division/country:us/state:ny/county:cortland/council_district:11": {
+   "name": "Cortland County District 11",
    "officeIndices": [
     311
    ]
@@ -549,11 +549,11 @@
     316
    ]
   },
-  "ocd-division/country:us/state:ny/place:mannsville": {
-   "name": "Mannsville village"
-  },
   "ocd-division/country:us/state:ny/place:long_beach": {
    "name": "Long Beach city"
+  },
+  "ocd-division/country:us/state:ny/place:mannsville": {
+   "name": "Mannsville village"
   },
   "ocd-division/country:us/state:ny/place:huntington_bay": {
    "name": "Huntington Bay village"
@@ -588,11 +588,11 @@
   "ocd-division/country:us/state:ny/county:lewis/place:martinsburg": {
    "name": "Martinsburg town"
   },
-  "ocd-division/country:us/state:ny/county:erie/school_district:sweet_home_central_school_district": {
-   "name": "sweet home central school district"
-  },
   "ocd-division/country:us/state:ny/county:bronx/school_district:bronx_academy_of_promise_charter_school": {
    "name": "bronx academy of promise charter school"
+  },
+  "ocd-division/country:us/state:ny/county:erie/school_district:sweet_home_central_school_district": {
+   "name": "sweet home central school district"
   },
   "ocd-division/country:us/state:ny/place:victor": {
    "name": "Victor village"
@@ -621,20 +621,20 @@
   "ocd-division/country:us/state:ny/county:schenectady/place:duanesburg": {
    "name": "Duanesburg town"
   },
+  "ocd-division/country:us/state:ny/place:richfield_springs": {
+   "name": "Richfield Springs village"
+  },
   "ocd-division/country:us/state:ny/county:suffolk/school_district:east_quogue_union_free_school_district": {
    "name": "east quogue union free school district"
   },
-  "ocd-division/country:us/state:ny/place:richfield_springs": {
-   "name": "Richfield Springs village"
+  "ocd-division/country:us/state:ny/place:sands_point": {
+   "name": "Sands Point village"
   },
   "ocd-division/country:us/state:ny/county:schoharie/place:broome": {
    "name": "Broome town",
    "officeIndices": [
     318
    ]
-  },
-  "ocd-division/country:us/state:ny/place:sands_point": {
-   "name": "Sands Point village"
   },
   "ocd-division/country:us/state:ny/place:saugerties": {
    "name": "Saugerties village"
@@ -654,11 +654,11 @@
     319
    ]
   },
-  "ocd-division/country:us/state:ny/county:ulster/school_district:marlboro_central_school_district": {
-   "name": "marlboro central school district"
-  },
   "ocd-division/country:us/state:ny/county:cattaraugus/place:randolph": {
    "name": "Randolph town"
+  },
+  "ocd-division/country:us/state:ny/county:ulster/school_district:marlboro_central_school_district": {
+   "name": "marlboro central school district"
   },
   "ocd-division/country:us/state:ny/county:lewis/school_district:harrisville_central_school_district": {
    "name": "harrisville central school district"
@@ -687,11 +687,11 @@
   "ocd-division/country:us/state:ny/county:rockland/school_district:clarkstown_central_school_district": {
    "name": "clarkstown central school district"
   },
-  "ocd-division/country:us/state:ny/place:glens_falls": {
-   "name": "Glens Falls city"
-  },
   "ocd-division/country:us/state:ny/county:allegany/place:caneadea": {
    "name": "Caneadea town"
+  },
+  "ocd-division/country:us/state:ny/place:glens_falls": {
+   "name": "Glens Falls city"
   },
   "ocd-division/country:us/state:ny/county:clinton/school_district:ausable_valley_central_school_district": {
    "name": "ausable valley central school district"
@@ -726,26 +726,26 @@
     324
    ]
   },
-  "ocd-division/country:us/state:ny/county:wayne/school_district:north_rose-wolcott_central_school_district": {
-   "name": "north rose-wolcott central school district"
-  },
-  "ocd-division/country:us/state:ny/county:chautauqua/place:stockton": {
-   "name": "Stockton town"
-  },
   "ocd-division/country:us/state:ny/county:onondaga/council_district:6": {
    "name": "Onondaga County District 6",
    "officeIndices": [
     325
    ]
   },
-  "ocd-division/country:us/state:ny/county:oswego/place:scriba": {
-   "name": "Scriba town"
+  "ocd-division/country:us/state:ny/county:chautauqua/place:stockton": {
+   "name": "Stockton town"
+  },
+  "ocd-division/country:us/state:ny/county:wayne/school_district:north_rose-wolcott_central_school_district": {
+   "name": "north rose-wolcott central school district"
   },
   "ocd-division/country:us/state:ny/county:onondaga/council_district:5": {
    "name": "Onondaga County District 5",
    "officeIndices": [
     326
    ]
+  },
+  "ocd-division/country:us/state:ny/county:oswego/place:scriba": {
+   "name": "Scriba town"
   },
   "ocd-division/country:us/state:ny/county:onondaga/council_district:8": {
    "name": "Onondaga County District 8",
@@ -831,21 +831,21 @@
     335
    ]
   },
+  "ocd-division/country:us/state:ny/county:otsego/council_district:4": {
+   "name": "Otsego County District 4",
+   "officeIndices": [
+    344
+   ]
+  },
   "ocd-division/country:us/state:ny/county:suffolk": {
    "name": "Suffolk County",
    "officeIndices": [
+    338,
     339,
     340,
     341,
     342,
-    343,
-    344
-   ]
-  },
-  "ocd-division/country:us/state:ny/county:otsego/council_district:4": {
-   "name": "Otsego County District 4",
-   "officeIndices": [
-    338
+    343
    ]
   },
   "ocd-division/country:us/state:ny/place:geneva/ward:2": {
@@ -866,14 +866,14 @@
     345
    ]
   },
-  "ocd-division/country:us/state:ny/place:geneva/ward:4": {
-   "name": "Geneva City Ward 4",
+  "ocd-division/country:us/state:ny/county:otsego/council_district:6": {
+   "name": "Otsego County District 6",
    "officeIndices": [
     348
    ]
   },
-  "ocd-division/country:us/state:ny/county:otsego/council_district:6": {
-   "name": "Otsego County District 6",
+  "ocd-division/country:us/state:ny/place:geneva/ward:4": {
+   "name": "Geneva City Ward 4",
    "officeIndices": [
     347
    ]
@@ -902,14 +902,14 @@
     352
    ]
   },
+  "ocd-division/country:us/state:ny/county:herkimer/school_district:west_canada_valley_central_school_district": {
+   "name": "west canada valley central school district"
+  },
   "ocd-division/country:us/state:ny/place:geneva/ward:5": {
    "name": "Geneva City Ward 5",
    "officeIndices": [
     353
    ]
-  },
-  "ocd-division/country:us/state:ny/county:herkimer/school_district:west_canada_valley_central_school_district": {
-   "name": "west canada valley central school district"
   },
   "ocd-division/country:us/state:ny/county:jefferson/school_district:jefferson-lewis-hamilton-herkimer-oneida_boces": {
    "name": "jefferson-lewis-hamilton-herkimer-oneida boces"
@@ -923,11 +923,11 @@
   "ocd-division/country:us/state:ny/county:bronx/school_district:bronx_community_charter_school": {
    "name": "bronx community charter school"
   },
-  "ocd-division/country:us/state:ny/place:johnson_city": {
-   "name": "Johnson City village"
-  },
   "ocd-division/country:us/state:ny/county:albany/school_district:brighter_choice_school_for_girls": {
    "name": "brighter choice school for girls"
+  },
+  "ocd-division/country:us/state:ny/place:johnson_city": {
+   "name": "Johnson City village"
   },
   "ocd-division/country:us/state:ny/county:fulton/school_district:johnstown_city_school_district": {
    "name": "johnstown city school district"
@@ -1118,14 +1118,14 @@
     44
    ]
   },
-  "ocd-division/country:us/state:ny/county:onondaga/place:salina": {
-   "name": "Salina town"
-  },
   "ocd-division/country:us/state:ny/sldl:119": {
    "name": "New York Assembly district 119",
    "officeIndices": [
     45
    ]
+  },
+  "ocd-division/country:us/state:ny/county:onondaga/place:salina": {
+   "name": "Salina town"
   },
   "ocd-division/country:us/state:ny/sldl:116": {
    "name": "New York Assembly district 116",
@@ -1671,14 +1671,14 @@
   "ocd-division/country:us/state:ny/county:schoharie/school_district:sharon_springs_central_school_district": {
    "name": "sharon springs central school district"
   },
-  "ocd-division/country:us/state:ny/county:cattaraugus/place:hinsdale": {
-   "name": "Hinsdale town"
-  },
   "ocd-division/country:us/state:ny/county:fulton/place:bleecker": {
    "name": "Bleecker town",
    "officeIndices": [
     387
    ]
+  },
+  "ocd-division/country:us/state:ny/county:cattaraugus/place:hinsdale": {
+   "name": "Hinsdale town"
   },
   "ocd-division/country:us/state:ny/county:schenectady/place:glenville": {
    "name": "Glenville town"
@@ -1686,14 +1686,14 @@
   "ocd-division/country:us/state:ny/county:albany/place:green_island": {
    "name": "Green Island town"
   },
-  "ocd-division/country:us/state:ny/county:tompkins/school_district:lansing_central_school_district": {
-   "name": "lansing central school district"
-  },
   "ocd-division/country:us/state:ny/county:albany/council_district:19": {
    "name": "Albany County District 19",
    "officeIndices": [
     388
    ]
+  },
+  "ocd-division/country:us/state:ny/county:tompkins/school_district:lansing_central_school_district": {
+   "name": "lansing central school district"
   },
   "ocd-division/country:us/state:ny/county:albany/council_district:18": {
    "name": "Albany County District 18",
@@ -1701,14 +1701,14 @@
     389
    ]
   },
-  "ocd-division/country:us/state:ny/place:arcade": {
-   "name": "Arcade village"
-  },
   "ocd-division/country:us/state:ny/county:hamilton/place:arietta": {
    "name": "Arietta town",
    "officeIndices": [
     390
    ]
+  },
+  "ocd-division/country:us/state:ny/place:arcade": {
+   "name": "Arcade village"
   },
   "ocd-division/country:us/state:ny/county:albany/council_district:15": {
    "name": "Albany County District 15",
@@ -1734,9 +1734,6 @@
     394
    ]
   },
-  "ocd-division/country:us/state:ny/county:otsego/place:new_lisbon": {
-   "name": "New Lisbon town"
-  },
   "ocd-division/country:us/state:ny/place:south_blooming_grove": {
    "name": "South Blooming Grove village"
   },
@@ -1745,6 +1742,9 @@
    "officeIndices": [
     395
    ]
+  },
+  "ocd-division/country:us/state:ny/county:otsego/place:new_lisbon": {
+   "name": "New Lisbon town"
   },
   "ocd-division/country:us/state:ny/county:albany/council_district:10": {
    "name": "Albany County District 10",
@@ -1773,20 +1773,20 @@
   "ocd-division/country:us/state:ny/county:oswego/place:west_monroe": {
    "name": "West Monroe town"
   },
-  "ocd-division/country:us/state:ny/county:saratoga/school_district:edinburg_common_school_district": {
-   "name": "edinburg common school district"
-  },
   "ocd-division/country:us/state:ny/county:lewis/school_district:south_lewis_central_school_district": {
    "name": "south lewis central school district"
   },
-  "ocd-division/country:us/state:ny/county:ulster/place:new_paltz": {
-   "name": "New Paltz town"
+  "ocd-division/country:us/state:ny/county:saratoga/school_district:edinburg_common_school_district": {
+   "name": "edinburg common school district"
+  },
+  "ocd-division/country:us/state:ny/county:delaware/school_district:south_kortright_central_school_district": {
+   "name": "south kortright central school district"
   },
   "ocd-division/country:us/state:ny/county:erie/school_district:community_charter_school": {
    "name": "community charter school"
   },
-  "ocd-division/country:us/state:ny/county:delaware/school_district:south_kortright_central_school_district": {
-   "name": "south kortright central school district"
+  "ocd-division/country:us/state:ny/county:ulster/place:new_paltz": {
+   "name": "New Paltz town"
   },
   "ocd-division/country:us/state:ny/county:erie/place:clarence": {
    "name": "Clarence town"
@@ -1839,14 +1839,14 @@
     406
    ]
   },
-  "ocd-division/country:us/state:ny/place:bemus_point": {
-   "name": "Bemus Point village"
-  },
   "ocd-division/country:us/state:ny/county:albany/council_district:25": {
    "name": "Albany County District 25",
    "officeIndices": [
     407
    ]
+  },
+  "ocd-division/country:us/state:ny/place:bemus_point": {
+   "name": "Bemus Point village"
   },
   "ocd-division/country:us/state:ny/place:morristown": {
    "name": "Morristown village"
@@ -1860,11 +1860,11 @@
     408
    ]
   },
-  "ocd-division/country:us/state:ny/place:amityville": {
-   "name": "Amityville village"
-  },
   "ocd-division/country:us/state:ny/county:nassau/school_district:east_rockaway_union_free_school_district": {
    "name": "east rockaway union free school district"
+  },
+  "ocd-division/country:us/state:ny/place:amityville": {
+   "name": "Amityville village"
   },
   "ocd-division/country:us/state:ny/county:allegany/school_district:canaseraga_central_school_district": {
    "name": "canaseraga central school district"
@@ -1884,14 +1884,14 @@
   "ocd-division/country:us/state:ny/county:suffolk/school_district:huntington_union_free_school_district": {
    "name": "huntington union free school district"
   },
-  "ocd-division/country:us/state:ny/county:rensselaer/school_district:averill_park_central_school_district": {
-   "name": "averill park central school district"
-  },
   "ocd-division/country:us/state:ny/county:albany/council_district:33": {
    "name": "Albany County District 33",
    "officeIndices": [
     409
    ]
+  },
+  "ocd-division/country:us/state:ny/county:rensselaer/school_district:averill_park_central_school_district": {
+   "name": "averill park central school district"
   },
   "ocd-division/country:us/state:ny/county:albany/council_district:32": {
    "name": "Albany County District 32",
@@ -1917,23 +1917,23 @@
     413
    ]
   },
+  "ocd-division/country:us/state:ny/county:cayuga/place:cato": {
+   "name": "Cato town"
+  },
   "ocd-division/country:us/state:ny/county:albany/council_district:36": {
    "name": "Albany County District 36",
    "officeIndices": [
     414
    ]
   },
-  "ocd-division/country:us/state:ny/county:cayuga/place:cato": {
-   "name": "Cato town"
-  },
-  "ocd-division/country:us/state:ny/county:rockland/school_district:nyack_union_free_school_district": {
-   "name": "nyack union free school district"
-  },
   "ocd-division/country:us/state:ny/county:albany/council_district:39": {
    "name": "Albany County District 39",
    "officeIndices": [
     415
    ]
+  },
+  "ocd-division/country:us/state:ny/county:rockland/school_district:nyack_union_free_school_district": {
+   "name": "nyack union free school district"
   },
   "ocd-division/country:us/state:ny/county:albany/council_district:38": {
    "name": "Albany County District 38",
@@ -1944,14 +1944,14 @@
   "ocd-division/country:us/state:ny/county:rensselaer/place:east_greenbush": {
    "name": "East Greenbush town"
   },
-  "ocd-division/country:us/state:ny/county:chautauqua/school_district:clymer_central_school_district": {
-   "name": "clymer central school district"
-  },
   "ocd-division/country:us/state:ny/county:albany/council_district:30": {
    "name": "Albany County District 30",
    "officeIndices": [
     417
    ]
+  },
+  "ocd-division/country:us/state:ny/county:chautauqua/school_district:clymer_central_school_district": {
+   "name": "clymer central school district"
   },
   "ocd-division/country:us/state:ny/county:albany/council_district:31": {
    "name": "Albany County District 31",
@@ -2009,14 +2009,14 @@
     427
    ]
   },
-  "ocd-division/country:us/state:ny/place:lima": {
-   "name": "Lima village"
-  },
   "ocd-division/country:us/state:ny/county:st_lawrence/council_district:13": {
    "name": "St. Lawrence County District 13",
    "officeIndices": [
     428
    ]
+  },
+  "ocd-division/country:us/state:ny/place:lima": {
+   "name": "Lima village"
   },
   "ocd-division/country:us/state:ny/county:st_lawrence/council_district:14": {
    "name": "St. Lawrence County District 14",
@@ -2030,14 +2030,14 @@
     430
    ]
   },
+  "ocd-division/country:us/state:ny/county:delaware/school_district:walton_central_school_district": {
+   "name": "walton central school district"
+  },
   "ocd-division/country:us/state:ny/county:st_lawrence/council_district:10": {
    "name": "St. Lawrence County District 10",
    "officeIndices": [
     431
    ]
-  },
-  "ocd-division/country:us/state:ny/county:delaware/school_district:walton_central_school_district": {
-   "name": "walton central school district"
   },
   "ocd-division/country:us/state:ny/county:st_lawrence/council_district:11": {
    "name": "St. Lawrence County District 11",
@@ -2054,11 +2054,11 @@
   "ocd-division/country:us/state:ny/county:cattaraugus/place:conewango": {
    "name": "Conewango town"
   },
-  "ocd-division/country:us/state:ny/county:otsego/place:roseboom": {
-   "name": "Roseboom town"
-  },
   "ocd-division/country:us/state:ny/county:nassau/school_district:sewanhaka_central_high_school_district": {
    "name": "sewanhaka central high school district"
+  },
+  "ocd-division/country:us/state:ny/county:otsego/place:roseboom": {
+   "name": "Roseboom town"
   },
   "ocd-division/country:us/state:ny/county:nassau/school_district:freeport_union_free_school_district": {
    "name": "freeport union free school district"
@@ -2078,11 +2078,11 @@
   "ocd-division/country:us/state:ny/place:bronxville": {
    "name": "Bronxville village"
   },
-  "ocd-division/country:us/state:ny/county:cattaraugus/place:franklinville": {
-   "name": "Franklinville town"
-  },
   "ocd-division/country:us/state:ny/county:monroe/school_district:honeoye_falls-lima_central_school_district": {
    "name": "honeoye falls-lima central school district"
+  },
+  "ocd-division/country:us/state:ny/county:cattaraugus/place:franklinville": {
+   "name": "Franklinville town"
   },
   "ocd-division/country:us/state:ny/county:broome/place:windsor": {
    "name": "Windsor town"
@@ -2135,14 +2135,14 @@
   "ocd-division/country:us/state:ny/county:kings/school_district:achievement_first_bushwick_charter_school": {
    "name": "achievement first bushwick charter school"
   },
-  "ocd-division/country:us/state:ny/county:otsego/place:edmeston": {
-   "name": "Edmeston town"
-  },
   "ocd-division/country:us/state:ny/county:fulton/place:caroga": {
    "name": "Caroga town",
    "officeIndices": [
     435
    ]
+  },
+  "ocd-division/country:us/state:ny/county:otsego/place:edmeston": {
+   "name": "Edmeston town"
   },
   "ocd-division/country:us/state:ny/place:east_syracuse": {
    "name": "East Syracuse village"
@@ -2153,14 +2153,14 @@
   "ocd-division/country:us/state:ny/county:washington/school_district:putnam_central_school_district": {
    "name": "putnam central school district"
   },
-  "ocd-division/country:us/state:ny/county:suffolk/school_district:hauppauge_union_free_school_district": {
-   "name": "hauppauge union free school district"
-  },
   "ocd-division/country:us/state:ny/county:schoharie/place:sharon": {
    "name": "Sharon town",
    "officeIndices": [
     436
    ]
+  },
+  "ocd-division/country:us/state:ny/county:suffolk/school_district:hauppauge_union_free_school_district": {
+   "name": "hauppauge union free school district"
   },
   "ocd-division/country:us/state:ny/county:washington/place:fort_ann": {
    "name": "Fort Ann town",
@@ -2219,14 +2219,14 @@
   "ocd-division/country:us/state:ny/place:yonkers/council_district:6": {
    "name": "Yonkers NY city council district 6"
   },
+  "ocd-division/country:us/state:ny/county:genesee/school_district:new_york_state_school_for_the_blind": {
+   "name": "new york state school for the blind"
+  },
   "ocd-division/country:us/state:ny/county:warren/place:lake_george": {
    "name": "Lake George town",
    "officeIndices": [
     439
    ]
-  },
-  "ocd-division/country:us/state:ny/county:genesee/school_district:new_york_state_school_for_the_blind": {
-   "name": "new york state school for the blind"
   },
   "ocd-division/country:us/state:ny/county:westchester/school_district:valhalla_union_free_school_district": {
    "name": "valhalla union free school district"
@@ -2258,14 +2258,14 @@
     440
    ]
   },
+  "ocd-division/country:us/state:ny/county:orleans/place:carlton": {
+   "name": "Carlton town"
+  },
   "ocd-division/country:us/state:ny/county:ulster/council_district:3": {
    "name": "Ulster County District 3",
    "officeIndices": [
     441
    ]
-  },
-  "ocd-division/country:us/state:ny/county:orleans/place:carlton": {
-   "name": "Carlton town"
   },
   "ocd-division/country:us/state:ny/county:ulster/council_district:2": {
    "name": "Ulster County District 2",
@@ -2285,14 +2285,14 @@
     444
    ]
   },
+  "ocd-division/country:us/state:ny/county:cattaraugus/school_district:portville_central_school_district": {
+   "name": "portville central school district"
+  },
   "ocd-division/country:us/state:ny/county:ulster/council_district:7": {
    "name": "Ulster County District 7",
    "officeIndices": [
     445
    ]
-  },
-  "ocd-division/country:us/state:ny/county:cattaraugus/school_district:portville_central_school_district": {
-   "name": "portville central school district"
   },
   "ocd-division/country:us/state:ny/county:ulster/council_district:6": {
    "name": "Ulster County District 6",
@@ -2339,11 +2339,11 @@
   "ocd-division/country:us/state:ny/county:st_lawrence/place:russell": {
    "name": "Russell town"
   },
-  "ocd-division/country:us/state:ny/county:st_lawrence/place:louisville": {
-   "name": "Louisville town"
-  },
   "ocd-division/country:us/state:ny/county:albany/school_district:albany_leadership_charter_high_school_for_girls": {
    "name": "albany leadership charter high school for girls"
+  },
+  "ocd-division/country:us/state:ny/county:st_lawrence/place:louisville": {
+   "name": "Louisville town"
   },
   "ocd-division/country:us/state:ny/county:chemung/council_district:10": {
    "name": "Chemung County District 10",
@@ -2351,14 +2351,14 @@
     458
    ]
   },
-  "ocd-division/country:us/state:ny/county:chemung/council_district:11": {
-   "name": "Chemung County District 11",
+  "ocd-division/country:us/state:ny/county:oneida/council_district:1": {
+   "name": "Oneida County District 1",
    "officeIndices": [
     459
    ]
   },
-  "ocd-division/country:us/state:ny/county:oneida/council_district:1": {
-   "name": "Oneida County District 1",
+  "ocd-division/country:us/state:ny/county:chemung/council_district:11": {
+   "name": "Chemung County District 11",
    "officeIndices": [
     460
    ]
@@ -2369,14 +2369,14 @@
     461
    ]
   },
-  "ocd-division/country:us/state:ny/county:rensselaer/school_district:berlin_central_school_district": {
-   "name": "berlin central school district"
-  },
   "ocd-division/country:us/state:ny/county:oneida/council_district:3": {
    "name": "Oneida County District 3",
    "officeIndices": [
     462
    ]
+  },
+  "ocd-division/country:us/state:ny/county:rensselaer/school_district:berlin_central_school_district": {
+   "name": "berlin central school district"
   },
   "ocd-division/country:us/state:ny/county:chemung/council_district:14": {
    "name": "Chemung County District 14",
@@ -2384,14 +2384,14 @@
     463
    ]
   },
-  "ocd-division/country:us/state:ny/county:onondaga/school_district:north_syracuse_central_school_district": {
-   "name": "north syracuse central school district"
-  },
   "ocd-division/country:us/state:ny/county:chemung/council_district:15": {
    "name": "Chemung County District 15",
    "officeIndices": [
     464
    ]
+  },
+  "ocd-division/country:us/state:ny/county:onondaga/school_district:north_syracuse_central_school_district": {
+   "name": "north syracuse central school district"
   },
   "ocd-division/country:us/state:ny/place:buffalo": {
    "name": "Buffalo city",
@@ -2399,14 +2399,14 @@
     245
    ]
   },
-  "ocd-division/country:us/state:ny/county:ulster/place:marbletown": {
-   "name": "Marbletown town"
-  },
   "ocd-division/country:us/state:ny/county:chemung/council_district:12": {
    "name": "Chemung County District 12",
    "officeIndices": [
     465
    ]
+  },
+  "ocd-division/country:us/state:ny/county:ulster/place:marbletown": {
+   "name": "Marbletown town"
   },
   "ocd-division/country:us/state:ny/county:chemung/council_district:13": {
    "name": "Chemung County District 13",
@@ -2429,14 +2429,14 @@
   "ocd-division/country:us/state:ny/county:rockland/school_district:south_orangetown_central_school_district": {
    "name": "south orangetown central school district"
   },
-  "ocd-division/country:us/state:ny/county:cayuga/place:brutus": {
-   "name": "Brutus town"
-  },
   "ocd-division/country:us/state:ny/county:oneida/council_district:4": {
    "name": "Oneida County District 4",
    "officeIndices": [
     469
    ]
+  },
+  "ocd-division/country:us/state:ny/county:cayuga/place:brutus": {
+   "name": "Brutus town"
   },
   "ocd-division/country:us/state:ny/county:oneida/council_district:5": {
    "name": "Oneida County District 5",
@@ -2459,11 +2459,11 @@
   "ocd-division/country:us/state:ny/county:orleans/place:shelby": {
    "name": "Shelby town"
   },
-  "ocd-division/country:us/state:ny/place:madison": {
-   "name": "Madison village"
-  },
   "ocd-division/country:us/state:ny/county:allegany/school_district:belfast_central_school_district": {
    "name": "belfast central school district"
+  },
+  "ocd-division/country:us/state:ny/place:madison": {
+   "name": "Madison village"
   },
   "ocd-division/country:us/state:ny/place:wellsville": {
    "name": "Wellsville village"
@@ -2495,11 +2495,11 @@
   "ocd-division/country:us/state:ny/county:nassau/school_district:lynbrook_union_free_school_district": {
    "name": "lynbrook union free school district"
   },
-  "ocd-division/country:us/state:ny/place:clayton": {
-   "name": "Clayton village"
-  },
   "ocd-division/country:us/state:ny/county:putnam/place:carmel": {
    "name": "Carmel town"
+  },
+  "ocd-division/country:us/state:ny/place:clayton": {
+   "name": "Clayton village"
   },
   "ocd-division/country:us/state:ny/county:seneca/place:seneca_falls": {
    "name": "Seneca Falls town",
@@ -2531,14 +2531,14 @@
   "ocd-division/country:us/state:ny/place:ithaca": {
    "name": "Ithaca city"
   },
+  "ocd-division/country:us/state:ny/county:franklin/place:bombay": {
+   "name": "Bombay town"
+  },
   "ocd-division/country:us/state:ny/county:cattaraugus/council_district:3": {
    "name": "Cattaraugus County District 3",
    "officeIndices": [
     475
    ]
-  },
-  "ocd-division/country:us/state:ny/county:franklin/place:bombay": {
-   "name": "Bombay town"
   },
   "ocd-division/country:us/state:ny/place:canisteo": {
    "name": "Canisteo village"
@@ -2618,17 +2618,17 @@
   "ocd-division/country:us/state:ny/county:new_york/school_district:harlem_success_academy_charter_school_2": {
    "name": "harlem success academy charter school 2"
   },
-  "ocd-division/country:us/state:ny/place:east_aurora": {
-   "name": "East Aurora village"
-  },
   "ocd-division/country:us/state:ny/county:new_york/school_district:harlem_success_academy_charter_school_4": {
    "name": "harlem success academy charter school 4"
   },
-  "ocd-division/country:us/state:ny/county:tompkins/school_district:newfield_central_school_district": {
-   "name": "newfield central school district"
+  "ocd-division/country:us/state:ny/place:east_aurora": {
+   "name": "East Aurora village"
   },
   "ocd-division/country:us/state:ny/county:new_york/school_district:harlem_success_academy_charter_school_3": {
    "name": "harlem success academy charter school 3"
+  },
+  "ocd-division/country:us/state:ny/county:tompkins/school_district:newfield_central_school_district": {
+   "name": "newfield central school district"
   },
   "ocd-division/country:us/state:ny/county:new_york/school_district:harlem_success_academy_charter_school_5": {
    "name": "harlem success academy charter school 5"
@@ -2696,11 +2696,11 @@
   "ocd-division/country:us/state:ny/county:schuyler/place:tyrone": {
    "name": "Tyrone town"
   },
-  "ocd-division/country:us/state:ny/county:oswego/place:redfield": {
-   "name": "Redfield town"
-  },
   "ocd-division/country:us/state:ny/county:dutchess/school_district:arlington_central_school_district": {
    "name": "arlington central school district"
+  },
+  "ocd-division/country:us/state:ny/county:oswego/place:redfield": {
+   "name": "Redfield town"
   },
   "ocd-division/country:us/state:ny/county:sullivan/school_district:sullivan_west_central_school_district": {
    "name": "sullivan west central school district"
@@ -2714,11 +2714,11 @@
   "ocd-division/country:us/state:ny/place:lake_grove": {
    "name": "Lake Grove village"
   },
-  "ocd-division/country:us/state:ny/county:westchester/school_district:rye_neck_union_free_school_district": {
-   "name": "rye neck union free school district"
-  },
   "ocd-division/country:us/state:ny/county:rockland/place:clarkstown": {
    "name": "Clarkstown town"
+  },
+  "ocd-division/country:us/state:ny/county:westchester/school_district:rye_neck_union_free_school_district": {
+   "name": "rye neck union free school district"
   },
   "ocd-division/country:us/state:ny/county:sullivan/place:neversink": {
    "name": "Neversink town"
@@ -2753,11 +2753,11 @@
   "ocd-division/country:us/state:ny/county:yates/place:potter": {
    "name": "Potter town"
   },
-  "ocd-division/country:us/state:ny/place:mayfield": {
-   "name": "Mayfield village"
-  },
   "ocd-division/country:us/state:ny/place:akron": {
    "name": "Akron village"
+  },
+  "ocd-division/country:us/state:ny/place:mayfield": {
+   "name": "Mayfield village"
   },
   "ocd-division/country:us/state:ny/place:nassau": {
    "name": "Nassau village"
@@ -2771,11 +2771,11 @@
   "ocd-division/country:us/state:ny/place:lake_george": {
    "name": "Lake George village"
   },
-  "ocd-division/country:us/state:ny/place:buffalo/council_district:masten": {
-   "name": "Buffalo NY - common council Masten District"
-  },
   "ocd-division/country:us/state:ny/county:albany/place:knox": {
    "name": "Knox town"
+  },
+  "ocd-division/country:us/state:ny/place:buffalo/council_district:masten": {
+   "name": "Buffalo NY - common council Masten District"
   },
   "ocd-division/country:us/state:ny/county:wayne/place:rose": {
    "name": "Rose town",
@@ -2810,11 +2810,11 @@
   "ocd-division/country:us/state:ny/county:lewis/school_district:lowville_academy_and_central_school_district": {
    "name": "lowville academy & central school district"
   },
-  "ocd-division/country:us/state:ny/county:sullivan/school_district:eldred_central_school_district": {
-   "name": "eldred central school district"
-  },
   "ocd-division/country:us/state:ny/county:franklin/school_district:salmon_river_central_school_district": {
    "name": "salmon river central school district"
+  },
+  "ocd-division/country:us/state:ny/county:sullivan/school_district:eldred_central_school_district": {
+   "name": "eldred central school district"
   },
   "ocd-division/country:us/state:ny/county:orleans/council_district:central": {
    "name": "Orleans County District Central",
@@ -2831,11 +2831,11 @@
   "ocd-division/country:us/state:ny/county:monroe/place:rush": {
    "name": "Rush town"
   },
-  "ocd-division/country:us/state:ny/county:suffolk/school_district:middle_country_central_school_district": {
-   "name": "middle country central school district"
-  },
   "ocd-division/country:us/state:ny/county:allegany/place:wirt": {
    "name": "Wirt town"
+  },
+  "ocd-division/country:us/state:ny/county:suffolk/school_district:middle_country_central_school_district": {
+   "name": "middle country central school district"
   },
   "ocd-division/country:us/state:ny/county:hamilton/school_district:raquette_lake_union_free_school_district": {
    "name": "raquette lake union free school district"
@@ -2846,17 +2846,17 @@
   "ocd-division/country:us/state:ny/place:east_rockaway": {
    "name": "East Rockaway village"
   },
-  "ocd-division/country:us/state:ny/county:saratoga/school_district:ballston_spa_central_school_district": {
-   "name": "ballston spa central school district"
-  },
   "ocd-division/country:us/state:ny/county:cortland/place:solon": {
    "name": "Solon town"
   },
-  "ocd-division/country:us/state:ny/county:otsego/place:burlington": {
-   "name": "Burlington town"
+  "ocd-division/country:us/state:ny/county:saratoga/school_district:ballston_spa_central_school_district": {
+   "name": "ballston spa central school district"
   },
   "ocd-division/country:us/state:ny/county:essex/school_district:moriah_central_school_district": {
    "name": "moriah central school district"
+  },
+  "ocd-division/country:us/state:ny/county:otsego/place:burlington": {
+   "name": "Burlington town"
   },
   "ocd-division/country:us/state:ny/county:westchester/place:somers": {
    "name": "Somers town"
@@ -2932,23 +2932,23 @@
     497
    ]
   },
+  "ocd-division/country:us/state:ny/county:chautauqua/place:ripley": {
+   "name": "Ripley town"
+  },
   "ocd-division/country:us/state:ny/county:st_lawrence/council_district:4": {
    "name": "St. Lawrence County District 4",
    "officeIndices": [
     498
    ]
   },
-  "ocd-division/country:us/state:ny/county:chautauqua/place:ripley": {
-   "name": "Ripley town"
+  "ocd-division/country:us/state:ny/county:delaware/school_district:downsville_central_school_district": {
+   "name": "downsville central school district"
   },
   "ocd-division/country:us/state:ny/county:st_lawrence/council_district:3": {
    "name": "St. Lawrence County District 3",
    "officeIndices": [
     499
    ]
-  },
-  "ocd-division/country:us/state:ny/county:delaware/school_district:downsville_central_school_district": {
-   "name": "downsville central school district"
   },
   "ocd-division/country:us/state:ny/county:st_lawrence/council_district:6": {
    "name": "St. Lawrence County District 6",
@@ -2983,14 +2983,14 @@
   "ocd-division/country:us/state:ny/county:niagara/school_district:lockport_city_school_district": {
    "name": "lockport city school district"
   },
+  "ocd-division/country:us/state:ny/county:oneida/place:verona": {
+   "name": "Verona town"
+  },
   "ocd-division/country:us/state:ny/county:delaware/place:colchester": {
    "name": "Colchester town",
    "officeIndices": [
     504
    ]
-  },
-  "ocd-division/country:us/state:ny/county:oneida/place:verona": {
-   "name": "Verona town"
   },
   "ocd-division/country:us/state:ny/place:potsdam": {
    "name": "Potsdam village"
@@ -3016,23 +3016,23 @@
   "ocd-division/country:us/state:ny/county:steuben/school_district:avoca_central_school_district": {
    "name": "avoca central school district"
   },
-  "ocd-division/country:us/state:ny/place:clayville": {
-   "name": "Clayville village"
-  },
-  "ocd-division/country:us/state:ny/county:st_lawrence/school_district:massena_central_school_district": {
-   "name": "massena central school district"
-  },
   "ocd-division/country:us/state:ny/county:greene/place:windham": {
    "name": "Windham town",
    "officeIndices": [
     506
    ]
   },
-  "ocd-division/country:us/state:ny/place:laurens": {
-   "name": "Laurens village"
+  "ocd-division/country:us/state:ny/county:st_lawrence/school_district:massena_central_school_district": {
+   "name": "massena central school district"
+  },
+  "ocd-division/country:us/state:ny/place:clayville": {
+   "name": "Clayville village"
   },
   "ocd-division/country:us/state:ny/place:dryden": {
    "name": "Dryden village"
+  },
+  "ocd-division/country:us/state:ny/place:laurens": {
+   "name": "Laurens village"
   },
   "ocd-division/country:us/state:ny/county:jefferson/place:adams": {
    "name": "Adams town"
@@ -3052,11 +3052,11 @@
   "ocd-division/country:us/state:ny/county:new_york/school_district:harlem_children~s_zone_promise_academy_charter_school": {
    "name": "harlem children's zone promise academy charter school"
   },
-  "ocd-division/country:us/state:ny/county:westchester/school_district:blind_brook-rye_union_free_school_district": {
-   "name": "blind brook-rye union free school district"
-  },
   "ocd-division/country:us/state:ny/county:schuyler/place:dix": {
    "name": "Dix town"
+  },
+  "ocd-division/country:us/state:ny/county:westchester/school_district:blind_brook-rye_union_free_school_district": {
+   "name": "blind brook-rye union free school district"
   },
   "ocd-division/country:us/state:ny/county:herkimer/place:german_flatts": {
    "name": "German Flatts town"
@@ -3262,11 +3262,11 @@
   "ocd-division/country:us/state:ny/county:schenectady/place:princetown": {
    "name": "Princetown town"
   },
-  "ocd-division/country:us/state:ny/county:chautauqua/school_district:brocton_central_school_district": {
-   "name": "brocton central school district"
-  },
   "ocd-division/country:us/state:ny/county:montgomery/school_district:saint_johnsville_central_school_district": {
    "name": "saint johnsville central school district"
+  },
+  "ocd-division/country:us/state:ny/county:chautauqua/school_district:brocton_central_school_district": {
+   "name": "brocton central school district"
   },
   "ocd-division/country:us/state:ny/county:albany/school_district:new_york_state_omh": {
    "name": "new york state omh"
@@ -3421,9 +3421,6 @@
     85
    ]
   },
-  "ocd-division/country:us/state:ny/county:st_lawrence/place:gouverneur": {
-   "name": "Gouverneur town"
-  },
   "ocd-division/country:us/state:ny/sldl:7": {
    "name": "New York Assembly district 7",
    "officeIndices": [
@@ -3435,6 +3432,9 @@
    "officeIndices": [
     522
    ]
+  },
+  "ocd-division/country:us/state:ny/county:st_lawrence/place:gouverneur": {
+   "name": "Gouverneur town"
   },
   "ocd-division/country:us/state:ny/place:hudson/ward:5": {
    "name": "Hudson Ward 5",
@@ -3555,23 +3555,23 @@
   "ocd-division/country:us/state:ny/county:kings/school_district:new_york_city_geographic_district_~16": {
    "name": "new york city geographic district #16"
   },
-  "ocd-division/country:us/state:ny/place:mount_vernon": {
-   "name": "Mount Vernon city"
-  },
   "ocd-division/country:us/state:ny/county:kings/school_district:new_york_city_geographic_district_~15": {
    "name": "new york city geographic district #15"
   },
+  "ocd-division/country:us/state:ny/place:mount_vernon": {
+   "name": "Mount Vernon city"
+  },
   "ocd-division/country:us/state:ny/county:kings/school_district:new_york_city_geographic_district_~14": {
    "name": "new york city geographic district #14"
-  },
-  "ocd-division/country:us/state:ny/county:wayne/school_district:newark_central_school_district": {
-   "name": "newark central school district"
   },
   "ocd-division/country:us/state:ny/county:kings/school_district:new_york_city_geographic_district_~13": {
    "name": "new york city geographic district #13"
   },
   "ocd-division/country:us/state:ny/county:bronx/school_district:icahn_charter_school_1": {
    "name": "icahn charter school 1"
+  },
+  "ocd-division/country:us/state:ny/county:wayne/school_district:newark_central_school_district": {
+   "name": "newark central school district"
   },
   "ocd-division/country:us/state:ny/county:bronx/school_district:icahn_charter_school_2": {
    "name": "icahn charter school 2"
@@ -3777,11 +3777,11 @@
   "ocd-division/country:us/state:ny/place:tannersville": {
    "name": "Tannersville village"
   },
-  "ocd-division/country:us/state:ny/county:suffolk/school_district:connetquot_central_school_district": {
-   "name": "connetquot central school district"
-  },
   "ocd-division/country:us/state:ny/county:putnam/place:putnam_valley": {
    "name": "Putnam Valley town"
+  },
+  "ocd-division/country:us/state:ny/county:suffolk/school_district:connetquot_central_school_district": {
+   "name": "connetquot central school district"
   },
   "ocd-division/country:us/state:ny/county:orange/school_district:goshen_central_school_district": {
    "name": "goshen central school district"
@@ -3811,14 +3811,17 @@
   "ocd-division/country:us/state:ny/county:cortland/school_district:mcgraw_central_school_district": {
    "name": "mcgraw central school district"
   },
+  "ocd-division/country:us/state:ny/county:suffolk/school_district:southampton_union_free_school_district": {
+   "name": "southampton union free school district"
+  },
   "ocd-division/country:us/state:ny/county:tioga/council_district:7": {
    "name": "Tioga County District 7",
    "officeIndices": [
     550
    ]
   },
-  "ocd-division/country:us/state:ny/county:suffolk/school_district:southampton_union_free_school_district": {
-   "name": "southampton union free school district"
+  "ocd-division/country:us/state:ny/place:silver_creek": {
+   "name": "Silver Creek village"
   },
   "ocd-division/country:us/state:ny/county:tioga/council_district:6": {
    "name": "Tioga County District 6",
@@ -3826,17 +3829,14 @@
     551
    ]
   },
-  "ocd-division/country:us/state:ny/place:silver_creek": {
-   "name": "Silver Creek village"
+  "ocd-division/country:us/state:ny/county:niagara/school_district:royalton-hartland_central_school_district": {
+   "name": "royalton-hartland central school district"
   },
   "ocd-division/country:us/state:ny/county:tioga/council_district:9": {
    "name": "Tioga County District 9",
    "officeIndices": [
     552
    ]
-  },
-  "ocd-division/country:us/state:ny/county:niagara/school_district:royalton-hartland_central_school_district": {
-   "name": "royalton-hartland central school district"
   },
   "ocd-division/country:us/state:ny/county:tioga/council_district:8": {
    "name": "Tioga County District 8",
@@ -3899,26 +3899,26 @@
     566
    ]
   },
-  "ocd-division/country:us/state:ny/county:tioga/council_district:2": {
-   "name": "Tioga County District 2",
+  "ocd-division/country:us/state:ny/county:orleans/council_district:4": {
+   "name": "Orleans County District 4",
    "officeIndices": [
     568
    ]
   },
-  "ocd-division/country:us/state:ny/county:orleans/council_district:4": {
-   "name": "Orleans County District 4",
+  "ocd-division/country:us/state:ny/county:tioga/council_district:2": {
+   "name": "Tioga County District 2",
    "officeIndices": [
     567
    ]
   },
-  "ocd-division/country:us/state:ny/county:tioga/council_district:3": {
-   "name": "Tioga County District 3",
+  "ocd-division/country:us/state:ny/county:delaware/place:hamden": {
+   "name": "Hamden town",
    "officeIndices": [
     570
    ]
   },
-  "ocd-division/country:us/state:ny/county:delaware/place:hamden": {
-   "name": "Hamden town",
+  "ocd-division/country:us/state:ny/county:tioga/council_district:3": {
+   "name": "Tioga County District 3",
    "officeIndices": [
     569
    ]
@@ -3935,6 +3935,9 @@
     572
    ]
   },
+  "ocd-division/country:us/state:ny/county:rockland/school_district:rockland_boces": {
+   "name": "rockland boces"
+  },
   "ocd-division/country:us/state:ny/county:schoharie": {
    "name": "Schoharie County",
    "officeIndices": [
@@ -3946,17 +3949,14 @@
     578
    ]
   },
-  "ocd-division/country:us/state:ny/county:rockland/school_district:rockland_boces": {
-   "name": "rockland boces"
-  },
   "ocd-division/country:us/state:ny/county:ulster/place:denning": {
    "name": "Denning town"
   },
-  "ocd-division/country:us/state:ny/place:fredonia": {
-   "name": "Fredonia village"
-  },
   "ocd-division/country:us/state:ny/place:oriskany_falls": {
    "name": "Oriskany Falls village"
+  },
+  "ocd-division/country:us/state:ny/place:fredonia": {
+   "name": "Fredonia village"
   },
   "ocd-division/country:us/state:ny/place:plandome": {
    "name": "Plandome village"
@@ -3973,11 +3973,11 @@
   "ocd-division/country:us/state:ny/place:manlius": {
    "name": "Manlius village"
   },
-  "ocd-division/country:us/state:ny/county:columbia/school_district:chatham_central_school_district": {
-   "name": "chatham central school district"
-  },
   "ocd-division/country:us/state:ny/county:jefferson/school_district:alexandria_central_school_district": {
    "name": "alexandria central school district"
+  },
+  "ocd-division/country:us/state:ny/county:columbia/school_district:chatham_central_school_district": {
+   "name": "chatham central school district"
   },
   "ocd-division/country:us/state:ny/county:delaware/place:roxbury": {
    "name": "Roxbury town",
@@ -4045,14 +4045,14 @@
     585
    ]
   },
-  "ocd-division/country:us/state:ny/county:schuyler/place:cayuta": {
-   "name": "Cayuta town"
-  },
   "ocd-division/country:us/state:ny/place:oneida/ward:3": {
    "name": "Oneida Ward 3",
    "officeIndices": [
     586
    ]
+  },
+  "ocd-division/country:us/state:ny/county:schuyler/place:cayuta": {
+   "name": "Cayuta town"
   },
   "ocd-division/country:us/state:ny/place:oneida/ward:2": {
    "name": "Oneida Ward 2",
@@ -4072,17 +4072,17 @@
     589
    ]
   },
-  "ocd-division/country:us/state:ny/place:argyle": {
-   "name": "Argyle village"
-  },
-  "ocd-division/country:us/state:ny/county:nassau/school_district:academy_charter_school": {
-   "name": "academy charter school"
-  },
   "ocd-division/country:us/state:ny/place:oneida/ward:6": {
    "name": "Oneida Ward 6",
    "officeIndices": [
     590
    ]
+  },
+  "ocd-division/country:us/state:ny/county:nassau/school_district:academy_charter_school": {
+   "name": "academy charter school"
+  },
+  "ocd-division/country:us/state:ny/place:argyle": {
+   "name": "Argyle village"
   },
   "ocd-division/country:us/state:ny/county:essex/place:lewis": {
    "name": "Lewis town",
@@ -4114,11 +4114,11 @@
   "ocd-division/country:us/state:ny/place:head_of_the_harbor": {
    "name": "Head of the Harbor village"
   },
-  "ocd-division/country:us/state:ny/place:glen_park": {
-   "name": "Glen Park village"
-  },
   "ocd-division/country:us/state:ny/county:rensselaer/school_district:brunswick_central_school_district_brittonkill": {
    "name": "brunswick central school district (brittonkill)"
+  },
+  "ocd-division/country:us/state:ny/place:glen_park": {
+   "name": "Glen Park village"
   },
   "ocd-division/country:us/state:ny/county:madison/school_district:hamilton_central_school_district": {
    "name": "hamilton central school district"
@@ -4132,14 +4132,14 @@
     592
    ]
   },
-  "ocd-division/country:us/state:ny/county:westchester/school_district:eastchester_union_free_school_district": {
-   "name": "eastchester union free school district"
-  },
   "ocd-division/country:us/state:ny/county:monroe/council_district:6": {
    "name": "Monroe County NY Legislature District 6",
    "officeIndices": [
     593
    ]
+  },
+  "ocd-division/country:us/state:ny/county:westchester/school_district:eastchester_union_free_school_district": {
+   "name": "eastchester union free school district"
   },
   "ocd-division/country:us/state:ny/county:monroe/council_district:5": {
    "name": "Monroe County NY Legislature District 5",
@@ -4159,14 +4159,14 @@
     596
    ]
   },
-  "ocd-division/country:us/state:ny/county:chautauqua/school_district:chautauqua_lake_central_school_district": {
-   "name": "chautauqua lake central school district"
-  },
   "ocd-division/country:us/state:ny/county:monroe/council_district:2": {
    "name": "Monroe County NY Legislature District 2",
    "officeIndices": [
     597
    ]
+  },
+  "ocd-division/country:us/state:ny/county:chautauqua/school_district:chautauqua_lake_central_school_district": {
+   "name": "chautauqua lake central school district"
   },
   "ocd-division/country:us/state:ny/county:monroe/council_district:1": {
    "name": "Monroe County NY Legislature District 1",
@@ -4183,11 +4183,11 @@
   "ocd-division/country:us/state:ny/place:perry": {
    "name": "Perry village"
   },
-  "ocd-division/country:us/state:ny/county:tioga/school_district:candor_central_school_district": {
-   "name": "candor central school district"
-  },
   "ocd-division/country:us/state:ny/county:tioga/place:tioga": {
    "name": "Tioga town"
+  },
+  "ocd-division/country:us/state:ny/county:tioga/school_district:candor_central_school_district": {
+   "name": "candor central school district"
   },
   "ocd-division/country:us/state:ny/place:bolivar": {
    "name": "Bolivar village"
@@ -4195,26 +4195,26 @@
   "ocd-division/country:us/state:ny/county:suffolk/school_district:brentwood_union_free_school_district": {
    "name": "brentwood union free school district"
   },
-  "ocd-division/country:us/state:ny/county:otsego/school_district:otego-unadilla_central_school_district": {
-   "name": "otego-unadilla central school district"
-  },
   "ocd-division/country:us/state:ny/county:bronx/school_district:grand_concourse_academy_charter_school": {
    "name": "grand concourse academy charter school"
   },
-  "ocd-division/country:us/state:ny/place:hermon": {
-   "name": "Hermon village"
+  "ocd-division/country:us/state:ny/county:otsego/school_district:otego-unadilla_central_school_district": {
+   "name": "otego-unadilla central school district"
   },
   "ocd-division/country:us/state:ny/county:albany/place:guilderland": {
    "name": "Guilderland town"
   },
+  "ocd-division/country:us/state:ny/place:hermon": {
+   "name": "Hermon village"
+  },
   "ocd-division/country:us/state:ny/county:clinton/school_district:beekmantown_central_school_district": {
    "name": "beekmantown central school district"
   },
-  "ocd-division/country:us/state:ny/county:erie/place:grand_island": {
-   "name": "Grand Island town"
-  },
   "ocd-division/country:us/state:ny/county:cortland/place:virgil": {
    "name": "Virgil town"
+  },
+  "ocd-division/country:us/state:ny/county:erie/place:grand_island": {
+   "name": "Grand Island town"
   },
   "ocd-division/country:us/state:ny/county:monroe/council_district:8": {
    "name": "Monroe County NY Legislature District 8",
@@ -4243,14 +4243,14 @@
   "ocd-division/country:us/state:ny/county:kings/school_district:believe_southside_charter_high_school": {
    "name": "believe southside charter high school"
   },
-  "ocd-division/country:us/state:ny/place:belmont": {
-   "name": "Belmont village"
-  },
   "ocd-division/country:us/state:ny/county:chemung/council_district:1": {
    "name": "Chemung County District 1",
    "officeIndices": [
     602
    ]
+  },
+  "ocd-division/country:us/state:ny/place:belmont": {
+   "name": "Belmont village"
   },
   "ocd-division/country:us/state:ny/county:chemung/council_district:2": {
    "name": "Chemung County District 2",
@@ -4443,11 +4443,11 @@
   "ocd-division/country:us/state:ny/place:earlville": {
    "name": "Earlville village"
   },
-  "ocd-division/country:us/state:ny/county:jefferson/place:antwerp": {
-   "name": "Antwerp town"
-  },
   "ocd-division/country:us/state:ny/county:montgomery/school_district:canajoharie_central_school_district": {
    "name": "canajoharie central school district"
+  },
+  "ocd-division/country:us/state:ny/county:jefferson/place:antwerp": {
+   "name": "Antwerp town"
   },
   "ocd-division/country:us/state:ny/county:chautauqua/school_district:forestville_central_school_district": {
    "name": "forestville central school district"
@@ -4512,11 +4512,11 @@
   "ocd-division/country:us/state:ny/county:new_york/school_district:harlem_day_charter_school": {
    "name": "harlem day charter school"
   },
-  "ocd-division/country:us/state:ny/place:lindenhurst": {
-   "name": "Lindenhurst village"
-  },
   "ocd-division/country:us/state:ny/county:delaware/school_district:delhi_central_school_district": {
    "name": "delhi central school district"
+  },
+  "ocd-division/country:us/state:ny/place:lindenhurst": {
+   "name": "Lindenhurst village"
   },
   "ocd-division/country:us/state:ny/county:suffolk/school_district:babylon_union_free_school_district": {
    "name": "babylon union free school district"
@@ -4530,11 +4530,11 @@
     628
    ]
   },
-  "ocd-division/country:us/state:ny/county:cattaraugus/school_district:cattaraugus-allegany-erie-wyoming_boces": {
-   "name": "cattaraugus-allegany-erie-wyoming boces"
-  },
   "ocd-division/country:us/state:ny/place:peekskill": {
    "name": "Peekskill city"
+  },
+  "ocd-division/country:us/state:ny/county:cattaraugus/school_district:cattaraugus-allegany-erie-wyoming_boces": {
+   "name": "cattaraugus-allegany-erie-wyoming boces"
   },
   "ocd-division/country:us/state:ny/county:greene/school_district:windham-ashland-jewett_central_school_district": {
    "name": "windham-ashland-jewett central school district"
@@ -4569,14 +4569,14 @@
   "ocd-division/country:us/state:ny/county:queens/school_district:new_york_city_geographic_district_~24": {
    "name": "new york city geographic district #24"
   },
-  "ocd-division/country:us/state:ny/county:queens/school_district:new_york_city_geographic_district_~25": {
-   "name": "new york city geographic district #25"
-  },
   "ocd-division/country:us/state:ny/county:otsego/council_district:14": {
    "name": "Otsego County District 14",
    "officeIndices": [
     632
    ]
+  },
+  "ocd-division/country:us/state:ny/county:queens/school_district:new_york_city_geographic_district_~25": {
+   "name": "new york city geographic district #25"
   },
   "ocd-division/country:us/state:ny/county:queens/school_district:new_york_city_geographic_district_~26": {
    "name": "new york city geographic district #26"
@@ -4584,26 +4584,26 @@
   "ocd-division/country:us/state:ny/county:queens/school_district:new_york_city_geographic_district_~27": {
    "name": "new york city geographic district #27"
   },
-  "ocd-division/country:us/state:ny/place:montgomery": {
-   "name": "Montgomery village"
-  },
-  "ocd-division/country:us/state:ny/county:queens/school_district:new_york_city_geographic_district_~28": {
-   "name": "new york city geographic district #28"
-  },
   "ocd-division/country:us/state:ny/county:otsego/council_district:11": {
    "name": "Otsego County District 11",
    "officeIndices": [
     633
    ]
   },
-  "ocd-division/country:us/state:ny/county:queens/school_district:new_york_city_geographic_district_~29": {
-   "name": "new york city geographic district #29"
+  "ocd-division/country:us/state:ny/county:queens/school_district:new_york_city_geographic_district_~28": {
+   "name": "new york city geographic district #28"
+  },
+  "ocd-division/country:us/state:ny/place:montgomery": {
+   "name": "Montgomery village"
   },
   "ocd-division/country:us/state:ny/county:otsego/council_district:10": {
    "name": "Otsego County District 10",
    "officeIndices": [
     634
    ]
+  },
+  "ocd-division/country:us/state:ny/county:queens/school_district:new_york_city_geographic_district_~29": {
+   "name": "new york city geographic district #29"
   },
   "ocd-division/country:us/state:ny/county:columbia/place:kinderhook": {
    "name": "Kinderhook town",
@@ -4644,11 +4644,11 @@
   "ocd-division/country:us/state:ny/county:new_york/school_district:new_york_city_geographic_district_~2": {
    "name": "new york city geographic district #2"
   },
-  "ocd-division/country:us/state:ny/county:dutchess/place:poughkeepsie": {
-   "name": "Poughkeepsie town"
-  },
   "ocd-division/country:us/state:ny/county:new_york/school_district:new_york_city_geographic_district_~1": {
    "name": "new york city geographic district #1"
+  },
+  "ocd-division/country:us/state:ny/county:dutchess/place:poughkeepsie": {
+   "name": "Poughkeepsie town"
   },
   "ocd-division/country:us/state:ny/county:new_york/school_district:new_york_city_geographic_district_~4": {
    "name": "new york city geographic district #4"
@@ -4722,11 +4722,11 @@
   "ocd-division/country:us/state:ny/place:lyons": {
    "name": "Lyons village"
   },
-  "ocd-division/country:us/state:ny/county:onondaga/school_district:marcellus_central_school_district": {
-   "name": "marcellus central school district"
-  },
   "ocd-division/country:us/state:ny/county:dutchess/school_district:dutchess_boces": {
    "name": "dutchess boces"
+  },
+  "ocd-division/country:us/state:ny/county:onondaga/school_district:marcellus_central_school_district": {
+   "name": "marcellus central school district"
   },
   "ocd-division/country:us/state:ny/county:wyoming/place:gainesville": {
    "name": "Gainesville town",
@@ -4746,20 +4746,20 @@
   "ocd-division/country:us/state:ny/place:johnstown": {
    "name": "Johnstown city"
   },
-  "ocd-division/country:us/state:ny/county:rensselaer/place:grafton": {
-   "name": "Grafton town"
-  },
   "ocd-division/country:us/state:ny/county:chenango/school_district:oxford_academy_and_central_school_district": {
    "name": "oxford academy and central school district"
+  },
+  "ocd-division/country:us/state:ny/county:rensselaer/place:grafton": {
+   "name": "Grafton town"
   },
   "ocd-division/country:us/state:ny/place:old_field": {
    "name": "Old Field village"
   },
-  "ocd-division/country:us/state:ny/county:rockland/place:haverstraw": {
-   "name": "Haverstraw town"
-  },
   "ocd-division/country:us/state:ny/place:sylvan_beach": {
    "name": "Sylvan Beach village"
+  },
+  "ocd-division/country:us/state:ny/county:rockland/place:haverstraw": {
+   "name": "Haverstraw town"
   },
   "ocd-division/country:us/state:ny/place:new_hyde_park": {
    "name": "New Hyde Park village"
@@ -4845,20 +4845,20 @@
     657
    ]
   },
-  "ocd-division/country:us/state:ny/place:farmingdale": {
-   "name": "Farmingdale village"
-  },
-  "ocd-division/country:us/state:ny/county:chautauqua/place:sherman": {
-   "name": "Sherman town"
-  },
-  "ocd-division/country:us/state:ny/county:allegany/school_district:cuba-rushford_central_school_district": {
-   "name": "cuba-rushford central school district"
-  },
   "ocd-division/country:us/state:ny/county:monroe/council_district:15": {
    "name": "Monroe County NY Legislature District 15",
    "officeIndices": [
     658
    ]
+  },
+  "ocd-division/country:us/state:ny/county:allegany/school_district:cuba-rushford_central_school_district": {
+   "name": "cuba-rushford central school district"
+  },
+  "ocd-division/country:us/state:ny/county:chautauqua/place:sherman": {
+   "name": "Sherman town"
+  },
+  "ocd-division/country:us/state:ny/place:farmingdale": {
+   "name": "Farmingdale village"
   },
   "ocd-division/country:us/state:ny/county:monroe/council_district:16": {
    "name": "Monroe County NY Legislature District 16",
@@ -4866,32 +4866,32 @@
     659
    ]
   },
-  "ocd-division/country:us/state:ny/county:orange/council_district:17": {
-   "name": "Orange County District 17",
+  "ocd-division/country:us/state:ny/county:monroe/council_district:13": {
+   "name": "Monroe County NY Legislature District 13",
    "officeIndices": [
     661
    ]
   },
-  "ocd-division/country:us/state:ny/county:monroe/council_district:13": {
-   "name": "Monroe County NY Legislature District 13",
+  "ocd-division/country:us/state:ny/county:orange/council_district:17": {
+   "name": "Orange County District 17",
    "officeIndices": [
     660
-   ]
-  },
-  "ocd-division/country:us/state:ny/place:great_neck_estates": {
-   "name": "Great Neck Estates village"
-  },
-  "ocd-division/country:us/state:ny/county:orange/council_district:18": {
-   "name": "Orange County District 18",
-   "officeIndices": [
-    663
    ]
   },
   "ocd-division/country:us/state:ny/county:monroe/council_district:14": {
    "name": "Monroe County NY Legislature District 14",
    "officeIndices": [
+    663
+   ]
+  },
+  "ocd-division/country:us/state:ny/county:orange/council_district:18": {
+   "name": "Orange County District 18",
+   "officeIndices": [
     662
    ]
+  },
+  "ocd-division/country:us/state:ny/place:great_neck_estates": {
+   "name": "Great Neck Estates village"
   },
   "ocd-division/country:us/state:ny/county:monroe/council_district:11": {
    "name": "Monroe County NY Legislature District 11",
@@ -4920,17 +4920,17 @@
     667
    ]
   },
-  "ocd-division/country:us/state:ny/county:ontario/school_district:victor_central_school_district": {
-   "name": "victor central school district"
-  },
-  "ocd-division/country:us/state:ny/county:onondaga/school_district:syracuse_city_school_district": {
-   "name": "syracuse city school district"
-  },
   "ocd-division/country:us/state:ny/county:onondaga/council_district:11": {
    "name": "Onondaga County District 11",
    "officeIndices": [
     668
    ]
+  },
+  "ocd-division/country:us/state:ny/county:onondaga/school_district:syracuse_city_school_district": {
+   "name": "syracuse city school district"
+  },
+  "ocd-division/country:us/state:ny/county:ontario/school_district:victor_central_school_district": {
+   "name": "victor central school district"
   },
   "ocd-division/country:us/state:ny/county:onondaga/council_district:12": {
    "name": "Onondaga County District 12",
@@ -4986,26 +4986,26 @@
     676
    ]
   },
+  "ocd-division/country:us/state:ny/county:greene/place:jewett": {
+   "name": "Jewett town"
+  },
   "ocd-division/country:us/state:ny/county:orange/council_district:21": {
    "name": "Orange County District 21",
    "officeIndices": [
     677
    ]
   },
-  "ocd-division/country:us/state:ny/county:greene/place:jewett": {
-   "name": "Jewett town"
-  },
-  "ocd-division/country:us/state:ny/county:ulster/place:hurley": {
-   "name": "Hurley town"
-  },
-  "ocd-division/country:us/state:ny/county:genesee/place:byron": {
-   "name": "Byron town"
-  },
   "ocd-division/country:us/state:ny/county:monroe/council_district:23": {
    "name": "Monroe County NY Legislature District 23",
    "officeIndices": [
     678
    ]
+  },
+  "ocd-division/country:us/state:ny/county:genesee/place:byron": {
+   "name": "Byron town"
+  },
+  "ocd-division/country:us/state:ny/county:ulster/place:hurley": {
+   "name": "Hurley town"
   },
   "ocd-division/country:us/state:ny/county:monroe/council_district:22": {
    "name": "Monroe County NY Legislature District 22",
@@ -5019,28 +5019,19 @@
     680
    ]
   },
+  "ocd-division/country:us/state:ny/place:saltaire": {
+   "name": "Saltaire village"
+  },
   "ocd-division/country:us/state:ny/county:monroe/council_district:24": {
    "name": "Monroe County NY Legislature District 24",
    "officeIndices": [
     681
    ]
   },
-  "ocd-division/country:us/state:ny/place:saltaire": {
-   "name": "Saltaire village"
-  },
   "ocd-division/country:us/state:ny/county:monroe/council_district:27": {
    "name": "Monroe County NY Legislature District 27",
    "officeIndices": [
     682
-   ]
-  },
-  "ocd-division/country:us/state:ny/county:tioga/place:barton": {
-   "name": "Barton town"
-  },
-  "ocd-division/country:us/state:ny/county:monroe/council_district:26": {
-   "name": "Monroe County NY Legislature District 26",
-   "officeIndices": [
-    683
    ]
   },
   "ocd-division/country:us/state:ny/place:rochester/council_district:south": {
@@ -5049,14 +5040,23 @@
     246
    ]
   },
-  "ocd-division/country:us/state:ny/county:sullivan/place:thompson": {
-   "name": "Thompson town"
+  "ocd-division/country:us/state:ny/county:monroe/council_district:26": {
+   "name": "Monroe County NY Legislature District 26",
+   "officeIndices": [
+    683
+   ]
+  },
+  "ocd-division/country:us/state:ny/county:tioga/place:barton": {
+   "name": "Barton town"
   },
   "ocd-division/country:us/state:ny/county:monroe/council_district:29": {
    "name": "Monroe County NY Legislature District 29",
    "officeIndices": [
     684
    ]
+  },
+  "ocd-division/country:us/state:ny/county:sullivan/place:thompson": {
+   "name": "Thompson town"
   },
   "ocd-division/country:us/state:ny/county:monroe/council_district:28": {
    "name": "Monroe County NY Legislature District 28",
@@ -5151,14 +5151,14 @@
     695
    ]
   },
-  "ocd-division/country:us/state:ny/place:fort_johnson": {
-   "name": "Fort Johnson village"
-  },
   "ocd-division/country:us/state:ny/county:genesee/council_district:8": {
    "name": "Genesee County District 8",
    "officeIndices": [
     696
    ]
+  },
+  "ocd-division/country:us/state:ny/place:fort_johnson": {
+   "name": "Fort Johnson village"
   },
   "ocd-division/country:us/state:ny/place:kiryas_joel": {
    "name": "Kiryas Joel village"
@@ -5208,14 +5208,14 @@
   "ocd-division/country:us/state:ny/county:herkimer/school_district:ilion_central_school_district": {
    "name": "ilion central school district"
   },
+  "ocd-division/country:us/state:ny/county:chautauqua/school_district:dunkirk_city_school_district": {
+   "name": "dunkirk city school district"
+  },
   "ocd-division/country:us/state:ny/county:washington/place:kingsbury": {
    "name": "Kingsbury town",
    "officeIndices": [
     697
    ]
-  },
-  "ocd-division/country:us/state:ny/county:chautauqua/school_district:dunkirk_city_school_district": {
-   "name": "dunkirk city school district"
   },
   "ocd-division/country:us/state:ny/place:muttontown": {
    "name": "Muttontown village"
@@ -5253,20 +5253,20 @@
   "ocd-division/country:us/state:ny/county:onondaga/place:geddes": {
    "name": "Geddes town"
   },
-  "ocd-division/country:us/state:ny/county:yates/council_district:3": {
-   "name": "Yates County District 3",
-   "officeIndices": [
-    701
-   ]
+  "ocd-division/country:us/state:ny/county:nassau/school_district:floral_park-bellerose_union_free_school_district": {
+   "name": "floral park-bellerose union free school district"
   },
   "ocd-division/country:us/state:ny/county:lewis/council_district:10": {
    "name": "Lewis County District 10",
    "officeIndices": [
-    700
+    701
    ]
   },
-  "ocd-division/country:us/state:ny/county:nassau/school_district:floral_park-bellerose_union_free_school_district": {
-   "name": "floral park-bellerose union free school district"
+  "ocd-division/country:us/state:ny/county:yates/council_district:3": {
+   "name": "Yates County District 3",
+   "officeIndices": [
+    700
+   ]
   },
   "ocd-division/country:us/state:ny/county:yates/council_district:2": {
    "name": "Yates County District 2",
@@ -5292,14 +5292,14 @@
     705
    ]
   },
-  "ocd-division/country:us/state:ny/county:steuben/place:avoca": {
-   "name": "Avoca town"
-  },
   "ocd-division/country:us/state:ny/county:rockland/council_district:12": {
    "name": "Rockland County District 12",
    "officeIndices": [
     706
    ]
+  },
+  "ocd-division/country:us/state:ny/county:steuben/place:avoca": {
+   "name": "Avoca town"
   },
   "ocd-division/country:us/state:ny/county:rockland/council_district:13": {
    "name": "Rockland County District 13",
@@ -5307,14 +5307,14 @@
     707
    ]
   },
+  "ocd-division/country:us/state:ny/county:nassau/school_district:evergreen_charter_school": {
+   "name": "evergreen charter school"
+  },
   "ocd-division/country:us/state:ny/county:rockland/council_district:14": {
    "name": "Rockland County District 14",
    "officeIndices": [
     708
    ]
-  },
-  "ocd-division/country:us/state:ny/county:nassau/school_district:evergreen_charter_school": {
-   "name": "evergreen charter school"
   },
   "ocd-division/country:us/state:ny/county:rockland/council_district:10": {
    "name": "Rockland County District 10",
@@ -5322,14 +5322,11 @@
     709
    ]
   },
-  "ocd-division/country:us/state:ny/place:lyons_falls": {
-   "name": "Lyons Falls village"
-  },
   "ocd-division/country:us/state:ny/county:erie/school_district:cheektowaga-maryvale_union_free_school_district": {
    "name": "cheektowaga-maryvale union free school district"
   },
-  "ocd-division/country:us/state:ny/place:homer": {
-   "name": "Homer village"
+  "ocd-division/country:us/state:ny/place:lyons_falls": {
+   "name": "Lyons Falls village"
   },
   "ocd-division/country:us/state:ny/county:rockland/council_district:16": {
    "name": "Rockland County District 16",
@@ -5337,17 +5334,20 @@
     710
    ]
   },
+  "ocd-division/country:us/state:ny/place:homer": {
+   "name": "Homer village"
+  },
+  "ocd-division/country:us/state:ny/county:bronx/school_district:mott_haven_academy_charter_school": {
+   "name": "mott haven academy charter school"
+  },
+  "ocd-division/country:us/state:ny/county:onondaga/school_district:syracuse_academy_of_science_charter_school": {
+   "name": "syracuse academy of science charter school"
+  },
   "ocd-division/country:us/state:ny/county:rockland/council_district:15": {
    "name": "Rockland County District 15",
    "officeIndices": [
     711
    ]
-  },
-  "ocd-division/country:us/state:ny/county:onondaga/school_district:syracuse_academy_of_science_charter_school": {
-   "name": "syracuse academy of science charter school"
-  },
-  "ocd-division/country:us/state:ny/county:bronx/school_district:mott_haven_academy_charter_school": {
-   "name": "mott haven academy charter school"
   },
   "ocd-division/country:us/state:ny/county:westchester/place:mount_pleasant": {
    "name": "Mount Pleasant town"
@@ -5361,14 +5361,14 @@
   "ocd-division/country:us/state:ny/county:sullivan/place:highland": {
    "name": "Highland town"
   },
+  "ocd-division/country:us/state:ny/place:oxford": {
+   "name": "Oxford village"
+  },
   "ocd-division/country:us/state:ny/county:livingston/place:lima": {
    "name": "Lima town",
    "officeIndices": [
     713
    ]
-  },
-  "ocd-division/country:us/state:ny/place:oxford": {
-   "name": "Oxford village"
   },
   "ocd-division/country:us/state:ny/place:great_neck_plaza": {
    "name": "Great Neck Plaza village"
@@ -5379,17 +5379,17 @@
   "ocd-division/country:us/state:ny/county:erie/school_district:kenmore-tonawanda_union_free_school_district": {
    "name": "kenmore-tonawanda union free school district"
   },
-  "ocd-division/country:us/state:ny/county:new_york/school_district:st_hope_leadership_academy_charter_school": {
-   "name": "st hope leadership academy charter school"
-  },
   "ocd-division/country:us/state:ny/place:port_jefferson": {
    "name": "Port Jefferson village"
   },
-  "ocd-division/country:us/state:ny/place:meridian": {
-   "name": "Meridian village"
+  "ocd-division/country:us/state:ny/county:new_york/school_district:st_hope_leadership_academy_charter_school": {
+   "name": "st hope leadership academy charter school"
   },
   "ocd-division/country:us/state:ny/county:st_lawrence/place:lisbon": {
    "name": "Lisbon town"
+  },
+  "ocd-division/country:us/state:ny/place:meridian": {
+   "name": "Meridian village"
   },
   "ocd-division/country:us/state:ny/county:nassau/school_district:elmont_union_free_school_district": {
    "name": "elmont union free school district"
@@ -5406,14 +5406,14 @@
     714
    ]
   },
-  "ocd-division/country:us/state:ny/county:albany/school_district:brighter_choice_charter_middle_school_for_girls": {
-   "name": "brighter choice charter middle school for girls"
-  },
   "ocd-division/country:us/state:ny/county:chautauqua/council_district:14": {
    "name": "Chautauqua County District 14",
    "officeIndices": [
     715
    ]
+  },
+  "ocd-division/country:us/state:ny/county:albany/school_district:brighter_choice_charter_middle_school_for_girls": {
+   "name": "brighter choice charter middle school for girls"
   },
   "ocd-division/country:us/state:ny/county:chautauqua/council_district:15": {
    "name": "Chautauqua County District 15",
@@ -5439,14 +5439,14 @@
     718
    ]
   },
+  "ocd-division/country:us/state:ny/county:nassau/school_district:westbury_union_free_school_district": {
+   "name": "westbury union free school district"
+  },
   "ocd-division/country:us/state:ny/county:chautauqua/council_district:11": {
    "name": "Chautauqua County District 11",
    "officeIndices": [
     719
    ]
-  },
-  "ocd-division/country:us/state:ny/county:nassau/school_district:westbury_union_free_school_district": {
-   "name": "westbury union free school district"
   },
   "ocd-division/country:us/state:ny/county:chautauqua/council_district:12": {
    "name": "Chautauqua County District 12",
@@ -5454,24 +5454,24 @@
     720
    ]
   },
-  "ocd-division/country:us/state:ny/county:suffolk/school_district:west_islip_union_free_school_district": {
-   "name": "west islip union free school district"
+  "ocd-division/country:us/state:ny/county:onondaga": {
+   "name": "Onondaga County",
+   "officeIndices": [
+    722,
+    723,
+    724,
+    725,
+    726
+   ]
   },
   "ocd-division/country:us/state:ny/county:chautauqua/council_district:18": {
    "name": "Chautauqua County District 18",
    "officeIndices": [
-    726
+    721
    ]
   },
-  "ocd-division/country:us/state:ny/county:onondaga": {
-   "name": "Onondaga County",
-   "officeIndices": [
-    721,
-    722,
-    723,
-    724,
-    725
-   ]
+  "ocd-division/country:us/state:ny/county:suffolk/school_district:west_islip_union_free_school_district": {
+   "name": "west islip union free school district"
   },
   "ocd-division/country:us/state:ny/county:chautauqua/council_district:17": {
    "name": "Chautauqua County District 17",
@@ -5485,11 +5485,11 @@
     728
    ]
   },
-  "ocd-division/country:us/state:ny/county:washington/school_district:washington-saratoga-warren-hamilton-essex_boces": {
-   "name": "washington-saratoga-warren-hamilton-essex boces"
-  },
   "ocd-division/country:us/state:ny/county:clinton/place:schuyler_falls": {
    "name": "Schuyler Falls town"
+  },
+  "ocd-division/country:us/state:ny/county:washington/school_district:washington-saratoga-warren-hamilton-essex_boces": {
+   "name": "washington-saratoga-warren-hamilton-essex boces"
   },
   "ocd-division/country:us/state:ny/county:chautauqua/council_district:23": {
    "name": "Chautauqua County District 23",
@@ -5533,11 +5533,11 @@
   "ocd-division/country:us/state:ny/county:monroe/place:penfield": {
    "name": "Penfield town"
   },
-  "ocd-division/country:us/state:ny/place:dresden": {
-   "name": "Dresden village"
-  },
   "ocd-division/country:us/state:ny/county:herkimer/school_district:mohawk_central_school_district": {
    "name": "mohawk central school district"
+  },
+  "ocd-division/country:us/state:ny/place:dresden": {
+   "name": "Dresden village"
   },
   "ocd-division/country:us/state:ny/county:queens/school_district:merrick_academy-queens_public_charter_school": {
    "name": "merrick academy-queens public charter school"
@@ -5557,11 +5557,11 @@
   "ocd-division/country:us/state:ny/county:steuben/place:prattsburgh": {
    "name": "Prattsburgh town"
   },
-  "ocd-division/country:us/state:ny/county:steuben/place:hornellsville": {
-   "name": "Hornellsville town"
-  },
   "ocd-division/country:us/state:ny/county:lewis/place:pinckney": {
    "name": "Pinckney town"
+  },
+  "ocd-division/country:us/state:ny/county:steuben/place:hornellsville": {
+   "name": "Hornellsville town"
   },
   "ocd-division/country:us/state:ny/county:rensselaer/school_district:troy_city_school_district": {
    "name": "troy city school district"
@@ -5575,11 +5575,11 @@
   "ocd-division/country:us/state:ny/county:monroe/place:wheatland": {
    "name": "Wheatland town"
   },
-  "ocd-division/country:us/state:ny/place:hudson": {
-   "name": "Hudson city"
-  },
   "ocd-division/country:us/state:ny/county:bronx/school_district:nyc_charter_hs-architecture_engineering_construction_industries": {
    "name": "nyc charter hs-architecture engineering construction industries"
+  },
+  "ocd-division/country:us/state:ny/place:hudson": {
+   "name": "Hudson city"
   },
   "ocd-division/country:us/state:ny/county:erie/school_district:cheektowaga-sloan_union_free_school_district": {
    "name": "cheektowaga-sloan union free school district"
@@ -5623,14 +5623,14 @@
   "ocd-division/country:us/state:ny/county:greene/school_district:cairo-durham_central_school_district": {
    "name": "cairo-durham central school district"
   },
+  "ocd-division/country:us/state:ny/county:genesee/school_district:alexander_central_school_district": {
+   "name": "alexander central school district"
+  },
   "ocd-division/country:us/state:ny/county:chenango/place:preston": {
    "name": "Preston town",
    "officeIndices": [
     735
    ]
-  },
-  "ocd-division/country:us/state:ny/county:genesee/school_district:alexander_central_school_district": {
-   "name": "alexander central school district"
   },
   "ocd-division/country:us/state:ny/county:orange/place:goshen": {
    "name": "Goshen town"
@@ -5668,20 +5668,20 @@
   "ocd-division/country:us/state:ny/county:suffolk/school_district:central_islip_union_free_school_district": {
    "name": "central islip union free school district"
   },
-  "ocd-division/country:us/state:ny/place:east_nassau": {
-   "name": "East Nassau village"
-  },
   "ocd-division/country:us/state:ny/county:suffolk/school_district:cold_spring_harbor_central_school_district": {
    "name": "cold spring harbor central school district"
+  },
+  "ocd-division/country:us/state:ny/place:east_nassau": {
+   "name": "East Nassau village"
   },
   "ocd-division/country:us/state:ny/county:new_york/school_district:future_leaders_institute_charter_school": {
    "name": "future leaders institute charter school"
   },
-  "ocd-division/country:us/state:ny/county:herkimer/place:webb": {
-   "name": "Webb town"
-  },
   "ocd-division/country:us/state:ny/place:richmondville": {
    "name": "Richmondville village"
+  },
+  "ocd-division/country:us/state:ny/county:herkimer/place:webb": {
+   "name": "Webb town"
   },
   "ocd-division/country:us/state:ny/county:orange/school_district:newburgh_city_school_district": {
    "name": "newburgh city school district"
@@ -5710,14 +5710,14 @@
     742
    ]
   },
-  "ocd-division/country:us/state:ny/county:sullivan/place:fallsburg": {
-   "name": "Fallsburg town"
-  },
   "ocd-division/country:us/state:ny/county:schoharie/place:blenheim": {
    "name": "Blenheim town",
    "officeIndices": [
     743
    ]
+  },
+  "ocd-division/country:us/state:ny/county:sullivan/place:fallsburg": {
+   "name": "Fallsburg town"
   },
   "ocd-division/country:us/state:ny/county:greene/place:halcott": {
    "name": "Halcott town"
@@ -5746,14 +5746,14 @@
     746
    ]
   },
+  "ocd-division/country:us/state:ny/county:erie/school_district:orchard_park_central_school_district": {
+   "name": "orchard park central school district"
+  },
   "ocd-division/country:us/state:ny/county:rockland/council_district:5": {
    "name": "Rockland County District 5",
    "officeIndices": [
     747
    ]
-  },
-  "ocd-division/country:us/state:ny/county:erie/school_district:orchard_park_central_school_district": {
-   "name": "orchard park central school district"
   },
   "ocd-division/country:us/state:ny/county:monroe/school_district:true_north_rochester_preparatory_charter_school_the": {
    "name": "true north rochester preparatory charter school (the)"
@@ -5773,14 +5773,14 @@
   "ocd-division/country:us/state:ny/place:allegany": {
    "name": "Allegany village"
   },
+  "ocd-division/country:us/state:ny/county:allegany/place:rushford": {
+   "name": "Rushford town"
+  },
   "ocd-division/country:us/state:ny/county:warren/place:horicon": {
    "name": "Horicon town",
    "officeIndices": [
     750
    ]
-  },
-  "ocd-division/country:us/state:ny/county:allegany/place:rushford": {
-   "name": "Rushford town"
   },
   "ocd-division/country:us/state:ny/county:rockland/council_district:2": {
    "name": "Rockland County District 2",
@@ -5794,11 +5794,11 @@
     752
    ]
   },
-  "ocd-division/country:us/state:ny/county:nassau/school_district:syosset_central_school_district": {
-   "name": "syosset central school district"
-  },
   "ocd-division/country:us/state:ny/county:new_york/school_district:the_equity_project_charter_school": {
    "name": "the equity project charter school"
+  },
+  "ocd-division/country:us/state:ny/county:nassau/school_district:syosset_central_school_district": {
+   "name": "syosset central school district"
   },
   "ocd-division/country:us/state:ny/county:rockland/council_district:1": {
    "name": "Rockland County District 1",
@@ -5806,14 +5806,14 @@
     753
    ]
   },
-  "ocd-division/country:us/state:ny/county:rensselaer/place:sand_lake": {
-   "name": "Sand Lake town"
+  "ocd-division/country:us/state:ny/county:new_york/school_district:nyc_special_schools_-_district_75": {
+   "name": "nyc special schools - district 75"
   },
   "ocd-division/country:us/state:ny/county:bronx/school_district:bronx_charter_school_for_children": {
    "name": "bronx charter school for children"
   },
-  "ocd-division/country:us/state:ny/county:new_york/school_district:nyc_special_schools_-_district_75": {
-   "name": "nyc special schools - district 75"
+  "ocd-division/country:us/state:ny/county:rensselaer/place:sand_lake": {
+   "name": "Sand Lake town"
   },
   "ocd-division/country:us/state:ny/county:wyoming/place:attica": {
    "name": "Attica town",
@@ -5833,20 +5833,20 @@
   "ocd-division/country:us/state:ny/county:monroe/school_district:east_irondequoit_central_school_district": {
    "name": "east irondequoit central school district"
   },
-  "ocd-division/country:us/state:ny/place:east_williston": {
-   "name": "East Williston village"
-  },
   "ocd-division/country:us/state:ny/county:warren/place:warrensburg": {
    "name": "Warrensburg town",
    "officeIndices": [
     755
    ]
   },
-  "ocd-division/country:us/state:ny/county:suffolk/school_district:shoreham-wading_river_central_school_district": {
-   "name": "shoreham-wading river central school district"
+  "ocd-division/country:us/state:ny/place:east_williston": {
+   "name": "East Williston village"
   },
   "ocd-division/country:us/state:ny/county:steuben/place:greenwood": {
    "name": "Greenwood town"
+  },
+  "ocd-division/country:us/state:ny/county:suffolk/school_district:shoreham-wading_river_central_school_district": {
+   "name": "shoreham-wading river central school district"
   },
   "ocd-division/country:us/state:ny/county:columbia/school_district:new_lebanon_central_school_district": {
    "name": "new lebanon central school district"
@@ -5980,11 +5980,11 @@
     763
    ]
   },
-  "ocd-division/country:us/state:ny/county:warren/school_district:glens_falls_city_school_district": {
-   "name": "glens falls city school district"
-  },
   "ocd-division/country:us/state:ny/county:monroe/school_district:penfield_central_school_district": {
    "name": "penfield central school district"
+  },
+  "ocd-division/country:us/state:ny/county:warren/school_district:glens_falls_city_school_district": {
+   "name": "glens falls city school district"
   },
   "ocd-division/country:us/state:ny/county:livingston/place:sparta": {
    "name": "Sparta town",
@@ -6064,11 +6064,11 @@
   "ocd-division/country:us/state:ny/county:albany/school_district:bethlehem_central_school_district": {
    "name": "bethlehem central school district"
   },
-  "ocd-division/country:us/state:ny/county:nassau/school_district:island_trees_union_free_school_district": {
-   "name": "island trees union free school district"
-  },
   "ocd-division/country:us/state:ny/place:west_carthage": {
    "name": "West Carthage village"
+  },
+  "ocd-division/country:us/state:ny/county:nassau/school_district:island_trees_union_free_school_district": {
+   "name": "island trees union free school district"
   },
   "ocd-division/country:us/state:ny/county:rensselaer/school_district:north_greenbush_common_school_district_williams": {
    "name": "north greenbush common school district (williams)"
@@ -6088,11 +6088,11 @@
   "ocd-division/country:us/state:ny/county:otsego/place:pittsfield": {
    "name": "Pittsfield town"
   },
-  "ocd-division/country:us/state:ny/county:rensselaer/place:poestenkill": {
-   "name": "Poestenkill town"
-  },
   "ocd-division/country:us/state:ny/county:dutchess/place:pleasant_valley": {
    "name": "Pleasant Valley town"
+  },
+  "ocd-division/country:us/state:ny/county:rensselaer/place:poestenkill": {
+   "name": "Poestenkill town"
   },
   "ocd-division/country:us/state:ny/place:parish": {
    "name": "Parish village"
@@ -6121,11 +6121,11 @@
   "ocd-division/country:us/state:ny/county:bronx/school_district:new_york_city_geographic_district_~11": {
    "name": "new york city geographic district #11"
   },
-  "ocd-division/country:us/state:ny/place:heuvelton": {
-   "name": "Heuvelton village"
-  },
   "ocd-division/country:us/state:ny/county:bronx/school_district:new_york_city_geographic_district_~12": {
    "name": "new york city geographic district #12"
+  },
+  "ocd-division/country:us/state:ny/place:heuvelton": {
+   "name": "Heuvelton village"
   },
   "ocd-division/country:us/state:ny/county:bronx/school_district:new_york_city_geographic_district_~10": {
    "name": "new york city geographic district #10"
@@ -6157,20 +6157,20 @@
   "ocd-division/country:us/state:ny/county:kings/school_district:hyde_leadership_charter_school-brooklyn": {
    "name": "hyde leadership charter school-brooklyn"
   },
+  "ocd-division/country:us/state:ny/place:oneonta": {
+   "name": "Oneonta city"
+  },
   "ocd-division/country:us/state:ny/place:deferiet": {
    "name": "Deferiet village"
   },
-  "ocd-division/country:us/state:ny/place:oneonta": {
-   "name": "Oneonta city"
+  "ocd-division/country:us/state:ny/county:monroe/school_district:hilton_central_school_district": {
+   "name": "hilton central school district"
   },
   "ocd-division/country:us/state:ny/county:essex/place:minerva": {
    "name": "Minerva town",
    "officeIndices": [
     770
    ]
-  },
-  "ocd-division/country:us/state:ny/county:monroe/school_district:hilton_central_school_district": {
-   "name": "hilton central school district"
   },
   "ocd-division/country:us/state:ny/county:suffolk/school_district:new_suffolk_common_school_district": {
    "name": "new suffolk common school district"
@@ -6349,14 +6349,14 @@
   "ocd-division/country:us/state:ny/county:cattaraugus/place:salamanca": {
    "name": "Salamanca town"
   },
-  "ocd-division/country:us/state:ny/place:cohoes": {
-   "name": "Cohoes city"
-  },
   "ocd-division/country:us/state:ny/sldu:8": {
    "name": "New York State Senate district 8",
    "officeIndices": [
     94
    ]
+  },
+  "ocd-division/country:us/state:ny/place:cohoes": {
+   "name": "Cohoes city"
   },
   "ocd-division/country:us/state:ny/sldu:5": {
    "name": "New York State Senate district 5",
@@ -6447,14 +6447,14 @@
   "ocd-division/country:us/state:ny/place:sloan": {
    "name": "Sloan village"
   },
-  "ocd-division/country:us/state:ny/county:westchester/school_district:irvington_union_free_school_district": {
-   "name": "irvington union free school district"
-  },
   "ocd-division/country:us/state:ny/county:saratoga/place:greenfield": {
    "name": "Greenfield town",
    "officeIndices": [
     781
    ]
+  },
+  "ocd-division/country:us/state:ny/county:westchester/school_district:irvington_union_free_school_district": {
+   "name": "irvington union free school district"
   },
   "ocd-division/country:us/state:ny/place:dexter": {
    "name": "Dexter village"
@@ -6504,14 +6504,14 @@
   "ocd-division/country:us/state:ny/county:ontario/school_district:phelps-clifton_springs_central_school_district": {
    "name": "phelps-clifton springs central school district"
   },
-  "ocd-division/country:us/state:ny/county:westchester/school_district:putnam-northern_westchester_boces": {
-   "name": "putnam-northern westchester boces"
-  },
   "ocd-division/country:us/state:ny/county:herkimer/council_district:15": {
    "name": "Herkimer County District 15",
    "officeIndices": [
     785
    ]
+  },
+  "ocd-division/country:us/state:ny/county:westchester/school_district:putnam-northern_westchester_boces": {
+   "name": "putnam-northern westchester boces"
   },
   "ocd-division/country:us/state:ny/county:herkimer/council_district:14": {
    "name": "Herkimer County District 14",
@@ -6564,14 +6564,14 @@
     793
    ]
   },
+  "ocd-division/country:us/state:ny/place:sandy_creek": {
+   "name": "Sandy Creek village"
+  },
   "ocd-division/country:us/state:ny/county:nassau/council_district:4": {
    "name": "Nassau County NY Legislature District 4",
    "officeIndices": [
     794
    ]
-  },
-  "ocd-division/country:us/state:ny/place:sandy_creek": {
-   "name": "Sandy Creek village"
   },
   "ocd-division/country:us/state:ny/county:herkimer/council_district:16": {
    "name": "Herkimer County District 16",
@@ -6783,14 +6783,14 @@
     813
    ]
   },
+  "ocd-division/country:us/state:ny/county:kings/school_district:imagine_me_leadership_charter_school": {
+   "name": "imagine me leadership charter school"
+  },
   "ocd-division/country:us/state:ny/county:westchester/council_district:6": {
    "name": "Westchester County NY Legislature District 6",
    "officeIndices": [
     814
    ]
-  },
-  "ocd-division/country:us/state:ny/county:kings/school_district:imagine_me_leadership_charter_school": {
-   "name": "imagine me leadership charter school"
   },
   "ocd-division/country:us/state:ny/county:westchester/council_district:7": {
    "name": "Westchester County NY Legislature District 7",
@@ -6814,14 +6814,14 @@
     821
    ]
   },
+  "ocd-division/country:us/state:ny/county:erie/school_district:west_buffalo_charter_school": {
+   "name": "west buffalo charter school"
+  },
   "ocd-division/country:us/state:ny/county:westchester/council_district:9": {
    "name": "Westchester County NY Legislature District 9",
    "officeIndices": [
     822
    ]
-  },
-  "ocd-division/country:us/state:ny/county:erie/school_district:west_buffalo_charter_school": {
-   "name": "west buffalo charter school"
   },
   "ocd-division/country:us/state:ny/place:oneida": {
    "name": "Oneida city"
@@ -6883,20 +6883,20 @@
   "ocd-division/country:us/state:ny/county:st_lawrence/place:fine": {
    "name": "Fine town"
   },
-  "ocd-division/country:us/state:ny/county:ulster/school_district:rondout_valley_central_school_district": {
-   "name": "rondout valley central school district"
-  },
   "ocd-division/country:us/state:ny/county:hamilton/school_district:indian_lake_central_school_district": {
    "name": "indian lake central school district"
+  },
+  "ocd-division/country:us/state:ny/county:ulster/school_district:rondout_valley_central_school_district": {
+   "name": "rondout valley central school district"
   },
   "ocd-division/country:us/state:ny/county:delaware/school_district:andes_central_school_district": {
    "name": "andes central school district"
   },
-  "ocd-division/country:us/state:ny/place:phelps": {
-   "name": "Phelps village"
-  },
   "ocd-division/country:us/state:ny/place:thomaston": {
    "name": "Thomaston village"
+  },
+  "ocd-division/country:us/state:ny/place:phelps": {
+   "name": "Phelps village"
   },
   "ocd-division/country:us/state:ny/place:new_york/council_district:3": {
    "name": "New York City NY - city council district 3",
@@ -6904,17 +6904,17 @@
     825
    ]
   },
+  "ocd-division/country:us/state:ny/county:sullivan/place:callicoon": {
+   "name": "Callicoon town"
+  },
+  "ocd-division/country:us/state:ny/county:westchester/school_district:mamaroneck_union_free_school_district": {
+   "name": "mamaroneck union free school district"
+  },
   "ocd-division/country:us/state:ny/place:new_york/council_district:4": {
    "name": "New York City NY - city council district 4",
    "officeIndices": [
     826
    ]
-  },
-  "ocd-division/country:us/state:ny/county:westchester/school_district:mamaroneck_union_free_school_district": {
-   "name": "mamaroneck union free school district"
-  },
-  "ocd-division/country:us/state:ny/county:sullivan/place:callicoon": {
-   "name": "Callicoon town"
   },
   "ocd-division/country:us/state:ny/place:new_york/council_district:5": {
    "name": "New York City NY - city council district 5",
@@ -7177,11 +7177,11 @@
   "ocd-division/country:us/state:ny/county:monroe/school_district:rochester_academy_charter_school": {
    "name": "rochester academy charter school"
   },
-  "ocd-division/country:us/state:ny/place:evans_mills": {
-   "name": "Evans Mills village"
-  },
   "ocd-division/country:us/state:ny/county:cattaraugus/place:lyndon": {
    "name": "Lyndon town"
+  },
+  "ocd-division/country:us/state:ny/place:evans_mills": {
+   "name": "Evans Mills village"
   },
   "ocd-division/country:us/state:ny/county:bronx/school_district:harriet_tubman_charter_school": {
    "name": "harriet tubman charter school"
@@ -7286,20 +7286,20 @@
   "ocd-division/country:us/state:ny/place:clinton": {
    "name": "Clinton village"
   },
-  "ocd-division/country:us/state:ny/county:ontario/school_district:geneva_city_school_district": {
-   "name": "geneva city school district"
-  },
   "ocd-division/country:us/state:ny/county:oneida/school_district:sauquoit_valley_central_school_district": {
    "name": "sauquoit valley central school district"
+  },
+  "ocd-division/country:us/state:ny/county:ontario/school_district:geneva_city_school_district": {
+   "name": "geneva city school district"
   },
   "ocd-division/country:us/state:ny/county:westchester/place:harrison": {
    "name": "Harrison town"
   },
-  "ocd-division/country:us/state:ny/county:fulton/school_district:broadalbin-perth_central_school_district": {
-   "name": "broadalbin-perth central school district"
-  },
   "ocd-division/country:us/state:ny/county:montgomery/school_district:amsterdam_city_school_district": {
    "name": "amsterdam city school district"
+  },
+  "ocd-division/country:us/state:ny/county:fulton/school_district:broadalbin-perth_central_school_district": {
+   "name": "broadalbin-perth central school district"
   },
   "ocd-division/country:us/state:ny/county:dutchess/council_district:9": {
    "name": "Dutchess County District 9",
@@ -7313,14 +7313,14 @@
     864
    ]
   },
-  "ocd-division/country:us/state:ny/county:warren/place:lake_luzerne": {
-   "name": "Lake Luzerne town",
+  "ocd-division/country:us/state:ny/county:sullivan/council_district:6": {
+   "name": "Sullivan County District 6",
    "officeIndices": [
     865
    ]
   },
-  "ocd-division/country:us/state:ny/county:sullivan/council_district:6": {
-   "name": "Sullivan County District 6",
+  "ocd-division/country:us/state:ny/county:warren/place:lake_luzerne": {
+   "name": "Lake Luzerne town",
    "officeIndices": [
     866
    ]
@@ -7397,14 +7397,14 @@
     877
    ]
   },
+  "ocd-division/country:us/state:ny/county:herkimer/place:salisbury": {
+   "name": "Salisbury town"
+  },
   "ocd-division/country:us/state:ny/county:dutchess/council_district:7": {
    "name": "Dutchess County District 7",
    "officeIndices": [
     878
    ]
-  },
-  "ocd-division/country:us/state:ny/county:herkimer/place:salisbury": {
-   "name": "Salisbury town"
   },
   "ocd-division/country:us/state:ny/county:st_lawrence/place:morristown": {
    "name": "Morristown town"
@@ -7561,14 +7561,14 @@
     900
    ]
   },
+  "ocd-division/country:us/state:ny/county:nassau/school_district:great_neck_union_free_school_district": {
+   "name": "great neck union free school district"
+  },
   "ocd-division/country:us/state:ny/place:new_york/council_district:14": {
    "name": "New York City NY - city council district 14",
    "officeIndices": [
     901
    ]
-  },
-  "ocd-division/country:us/state:ny/county:nassau/school_district:great_neck_union_free_school_district": {
-   "name": "great neck union free school district"
   },
   "ocd-division/country:us/state:ny/place:new_york/council_district:13": {
    "name": "New York City NY - city council district 13",
@@ -7689,14 +7689,14 @@
     917
    ]
   },
-  "ocd-division/country:us/state:ny/county:rensselaer/place:pittstown": {
-   "name": "Pittstown town"
-  },
   "ocd-division/country:us/state:ny/county:nassau/council_district:17": {
    "name": "Nassau County NY Legislature District 17",
    "officeIndices": [
     918
    ]
+  },
+  "ocd-division/country:us/state:ny/county:rensselaer/place:pittstown": {
+   "name": "Pittstown town"
   },
   "ocd-division/country:us/state:ny/county:nassau/council_district:18": {
    "name": "Nassau County NY Legislature District 18",
@@ -7755,14 +7755,14 @@
   "ocd-division/country:us/state:ny/place:north_hornell": {
    "name": "North Hornell village"
   },
-  "ocd-division/country:us/state:ny/place:norwich": {
-   "name": "Norwich city"
-  },
   "ocd-division/country:us/state:ny/county:jefferson/council_district:14": {
    "name": "Jefferson County District 14",
    "officeIndices": [
     926
    ]
+  },
+  "ocd-division/country:us/state:ny/place:norwich": {
+   "name": "Norwich city"
   },
   "ocd-division/country:us/state:ny/county:saratoga/place:providence": {
    "name": "Providence town",
@@ -7870,11 +7870,11 @@
     937
    ]
   },
-  "ocd-division/country:us/state:ny/county:delaware/school_district:stamford_central_school_district": {
-   "name": "stamford central school district"
-  },
   "ocd-division/country:us/state:ny/place:oswego": {
    "name": "Oswego city"
+  },
+  "ocd-division/country:us/state:ny/county:delaware/school_district:stamford_central_school_district": {
+   "name": "stamford central school district"
   },
   "ocd-division/country:us/state:ny/county:tompkins/council_district:3": {
    "name": "Tompkins County District 3",
@@ -8018,17 +8018,17 @@
     958
    ]
   },
-  "ocd-division/country:us/state:ny/place:new_york/council_district:41": {
-   "name": "New York City NY - city council district 41",
-   "officeIndices": [
-    959
-   ]
-  },
   "ocd-division/country:us/state:ny/county:allegany/school_district:alfred-almond_central_school_district": {
    "name": "alfred-almond central school district"
   },
   "ocd-division/country:us/state:ny/county:warren/place:hague": {
    "name": "Hague town",
+   "officeIndices": [
+    959
+   ]
+  },
+  "ocd-division/country:us/state:ny/place:new_york/council_district:41": {
+   "name": "New York City NY - city council district 41",
    "officeIndices": [
     960
    ]
@@ -8099,23 +8099,23 @@
     968
    ]
   },
+  "ocd-division/country:us/state:ny/place:haverstraw": {
+   "name": "Haverstraw village"
+  },
   "ocd-division/country:us/state:ny/place:new_york/council_district:35": {
    "name": "New York City NY - city council district 35",
    "officeIndices": [
     969
    ]
   },
-  "ocd-division/country:us/state:ny/place:haverstraw": {
-   "name": "Haverstraw village"
+  "ocd-division/country:us/state:ny/county:cayuga/school_district:cato-meridian_central_school_district": {
+   "name": "cato-meridian central school district"
   },
   "ocd-division/country:us/state:ny/place:new_york/council_district:36": {
    "name": "New York City NY - city council district 36",
    "officeIndices": [
     970
    ]
-  },
-  "ocd-division/country:us/state:ny/county:cayuga/school_district:cato-meridian_central_school_district": {
-   "name": "cato-meridian central school district"
   },
   "ocd-division/country:us/state:ny/place:new_york/council_district:37": {
    "name": "New York City NY - city council district 37",
@@ -8159,14 +8159,14 @@
   "ocd-division/country:us/state:ny/county:otsego/place:otego": {
    "name": "Otego town"
   },
+  "ocd-division/country:us/state:ny/county:tompkins/school_district:ithaca_city_school_district": {
+   "name": "ithaca city school district"
+  },
   "ocd-division/country:us/state:ny/place:new_york/council_district:27": {
    "name": "New York City NY - city council district 27",
    "officeIndices": [
     974
    ]
-  },
-  "ocd-division/country:us/state:ny/county:tompkins/school_district:ithaca_city_school_district": {
-   "name": "ithaca city school district"
   },
   "ocd-division/country:us/state:ny/place:new_york/council_district:28": {
    "name": "New York City NY - city council district 28",
@@ -8213,14 +8213,14 @@
     981
    ]
   },
+  "ocd-division/country:us/state:ny/place:round_lake": {
+   "name": "Round Lake village"
+  },
   "ocd-division/country:us/state:ny/place:new_york/council_district:24": {
    "name": "New York City NY - city council district 24",
    "officeIndices": [
     982
    ]
-  },
-  "ocd-division/country:us/state:ny/place:round_lake": {
-   "name": "Round Lake village"
   },
   "ocd-division/country:us/state:ny/county:oneida/council_district:27": {
    "name": "Oneida County District 27"
@@ -8288,14 +8288,14 @@
   "ocd-division/country:us/state:ny/county:cayuga/place:aurelius": {
    "name": "Aurelius town"
   },
-  "ocd-division/country:us/state:ny/place:corning": {
-   "name": "Corning city"
-  },
   "ocd-division/country:us/state:ny/county:oneida/council_district:19": {
    "name": "Oneida County District 19",
    "officeIndices": [
     988
    ]
+  },
+  "ocd-division/country:us/state:ny/place:corning": {
+   "name": "Corning city"
   },
   "ocd-division/country:us/state:ny/place:panama": {
    "name": "Panama village"
@@ -8489,14 +8489,14 @@
     1004
    ]
   },
+  "ocd-division/country:us/state:ny/county:essex/school_district:keene_central_school_district": {
+   "name": "keene central school district"
+  },
   "ocd-division/country:us/state:ny/county:cayuga/council_district:6": {
    "name": "Cayuga County District 6",
    "officeIndices": [
     1005
    ]
-  },
-  "ocd-division/country:us/state:ny/county:essex/school_district:keene_central_school_district": {
-   "name": "keene central school district"
   },
   "ocd-division/country:us/state:ny/county:cayuga/council_district:7": {
    "name": "Cayuga County District 7",
@@ -8688,23 +8688,23 @@
     1025
    ]
   },
+  "ocd-division/country:us/state:ny/supreme_court:9": {
+   "name": "NY State Supreme Court - 9th District"
+  },
   "ocd-division/country:us/state:ny/county:albany/council_district:3": {
    "name": "Albany County District 3",
    "officeIndices": [
     1026
    ]
   },
-  "ocd-division/country:us/state:ny/supreme_court:9": {
-   "name": "NY State Supreme Court - 9th District"
+  "ocd-division/country:us/state:ny/supreme_court:8": {
+   "name": "NY State Supreme Court - 8th District"
   },
   "ocd-division/country:us/state:ny/county:albany/council_district:4": {
    "name": "Albany County District 4",
    "officeIndices": [
     1027
    ]
-  },
-  "ocd-division/country:us/state:ny/supreme_court:8": {
-   "name": "NY State Supreme Court - 8th District"
   },
   "ocd-division/country:us/state:ny/county:albany/council_district:1": {
    "name": "Albany County District 1",
@@ -8793,11 +8793,11 @@
   "ocd-division/country:us/state:ny/county:orange/school_district:warwick_valley_central_school_district": {
    "name": "warwick valley central school district"
   },
-  "ocd-division/country:us/state:ny/county:oswego/place:volney": {
-   "name": "Volney town"
-  },
   "ocd-division/country:us/state:ny/county:ontario/school_district:honeoye_central_school_district": {
    "name": "honeoye central school district"
+  },
+  "ocd-division/country:us/state:ny/county:oswego/place:volney": {
+   "name": "Volney town"
   },
   "ocd-division/country:us/state:ny/county:essex/school_district:ticonderoga_central_school_district": {
    "name": "ticonderoga central school district"
@@ -8901,6 +8901,9 @@
   "ocd-division/country:us/state:ny/county:schenectady/place:niskayuna": {
    "name": "Niskayuna town"
   },
+  "ocd-division/country:us/state:ny/county:chautauqua/place:pomfret": {
+   "name": "Pomfret town"
+  },
   "ocd-division/country:us/state:ny/county:wayne": {
    "name": "Wayne County",
    "officeIndices": [
@@ -8910,9 +8913,6 @@
     1040,
     1041
    ]
-  },
-  "ocd-division/country:us/state:ny/county:chautauqua/place:pomfret": {
-   "name": "Pomfret town"
   },
   "ocd-division/country:us/state:ny/place:nyack": {
    "name": "Nyack village"
@@ -9069,9 +9069,6 @@
   "ocd-division/country:us/state:ny/place:moravia": {
    "name": "Moravia village"
   },
-  "ocd-division/country:us/state:ny/county:otsego/school_district:worcester_central_school_district": {
-   "name": "worcester central school district"
-  },
   "ocd-division/country:us/state:ny/county:niagara/council_district:15": {
    "name": "Niagara County District 15",
    "officeIndices": [
@@ -9080,6 +9077,9 @@
   },
   "ocd-division/country:us/state:ny/county:monroe/school_district:brockport_central_school_district": {
    "name": "brockport central school district"
+  },
+  "ocd-division/country:us/state:ny/county:otsego/school_district:worcester_central_school_district": {
+   "name": "worcester central school district"
   },
   "ocd-division/country:us/state:ny/county:niagara/council_district:14": {
    "name": "Niagara County District 14",
@@ -9629,14 +9629,14 @@
     1127
    ]
   },
-  "ocd-division/country:us/state:ny/county:seneca/school_district:romulus_central_school_district": {
-   "name": "romulus central school district"
-  },
   "ocd-division/country:us/state:ny/county:cortland/council_district:7": {
    "name": "Cortland County District 7",
    "officeIndices": [
     1128
    ]
+  },
+  "ocd-division/country:us/state:ny/county:seneca/school_district:romulus_central_school_district": {
+   "name": "romulus central school district"
   },
   "ocd-division/country:us/state:ny/place:roslyn": {
    "name": "Roslyn village"
@@ -9662,14 +9662,14 @@
   "ocd-division/country:us/state:ny/county:genesee/place:batavia": {
    "name": "Batavia town"
   },
-  "ocd-division/country:us/state:ny/place:elba": {
-   "name": "Elba village"
-  },
   "ocd-division/country:us/state:ny/county:essex/place:elizabethtown": {
    "name": "Elizabethtown town",
    "officeIndices": [
     1131
    ]
+  },
+  "ocd-division/country:us/state:ny/place:elba": {
+   "name": "Elba village"
   },
   "ocd-division/country:us/state:ny/county:broome/place:chenango": {
    "name": "Chenango town"
@@ -10136,14 +10136,14 @@
   "ocd-division/country:us/state:ny/county:suffolk/school_district:commack_union_free_school_district": {
    "name": "commack union free school district"
   },
-  "ocd-division/country:us/state:ny/county:tioga/place:candor": {
-   "name": "Candor town"
-  },
   "ocd-division/country:us/state:ny/county:franklin/place:franklin": {
    "name": "Franklin town"
   },
   "ocd-division/country:us/state:ny/county:saratoga/school_district:mechanicville_city_school_district": {
    "name": "mechanicville city school district"
+  },
+  "ocd-division/country:us/state:ny/county:tioga/place:candor": {
+   "name": "Candor town"
   },
   "ocd-division/country:us/state:ny/place:camden": {
    "name": "Camden village"
@@ -10190,6 +10190,9 @@
   "ocd-division/country:us/state:ny/county:suffolk/school_district:wainscott_common_school_district": {
    "name": "wainscott common school district"
   },
+  "ocd-division/country:us/state:ny/place:utica": {
+   "name": "Utica city"
+  },
   "ocd-division/country:us/state:ny/county:chenango": {
    "name": "Chenango County",
    "officeIndices": [
@@ -10198,9 +10201,6 @@
     1153,
     1154
    ]
-  },
-  "ocd-division/country:us/state:ny/place:utica": {
-   "name": "Utica city"
   },
   "ocd-division/country:us/state:ny/county:monroe/school_district:west_irondequoit_central_school_district": {
    "name": "west irondequoit central school district"
@@ -10226,11 +10226,11 @@
   "ocd-division/country:us/state:ny/county:kings/school_district:brooklyn_ascend_charter_school": {
    "name": "brooklyn ascend charter school"
   },
-  "ocd-division/country:us/state:ny/county:albany/school_district:brighter_choice_charter_school_for_boys": {
-   "name": "brighter choice charter school for boys"
-  },
   "ocd-division/country:us/state:ny/county:madison/school_district:morrisville-eaton_central_school_district": {
    "name": "morrisville-eaton central school district"
+  },
+  "ocd-division/country:us/state:ny/county:albany/school_district:brighter_choice_charter_school_for_boys": {
+   "name": "brighter choice charter school for boys"
   },
   "ocd-division/country:us/state:ny/county:lewis/council_district:4": {
    "name": "Lewis County District 4",
@@ -10626,14 +10626,14 @@
     1196
    ]
   },
+  "ocd-division/country:us/state:ny/county:suffolk/school_district:sayville_union_free_school_district": {
+   "name": "sayville union free school district"
+  },
   "ocd-division/country:us/state:ny/county:ulster/council_district:16": {
    "name": "Ulster County District 16",
    "officeIndices": [
     1197
    ]
-  },
-  "ocd-division/country:us/state:ny/county:suffolk/school_district:sayville_union_free_school_district": {
-   "name": "sayville union free school district"
   },
   "ocd-division/country:us/state:ny/county:ulster/council_district:17": {
    "name": "Ulster County District 17",
@@ -10687,14 +10687,14 @@
   "ocd-division/country:us/state:ny/county:dutchess/place:red_hook": {
    "name": "Red Hook town"
   },
+  "ocd-division/country:us/state:ny/county:monroe/place:perinton": {
+   "name": "Perinton town"
+  },
   "ocd-division/country:us/state:ny/county:ulster/council_district:20": {
    "name": "Ulster County District 20",
    "officeIndices": [
     1208
    ]
-  },
-  "ocd-division/country:us/state:ny/county:monroe/place:perinton": {
-   "name": "Perinton town"
   },
   "ocd-division/country:us/state:ny/county:jefferson/place:clayton": {
    "name": "Clayton town"
@@ -10735,11 +10735,11 @@
   "ocd-division/country:us/state:ny/place:lodi": {
    "name": "Lodi village"
   },
-  "ocd-division/country:us/state:ny/county:otsego/school_district:milford_central_school_district": {
-   "name": "milford central school district"
-  },
   "ocd-division/country:us/state:ny/county:onondaga/school_district:tully_central_school_district": {
    "name": "tully central school district"
+  },
+  "ocd-division/country:us/state:ny/county:otsego/school_district:milford_central_school_district": {
+   "name": "milford central school district"
   },
   "ocd-division/country:us/state:ny/county:st_lawrence/school_district:saint_lawrence-lewis_boces": {
    "name": "saint lawrence-lewis boces"
@@ -10834,11 +10834,11 @@
     1223
    ]
   },
-  "ocd-division/country:us/state:ny/county:nassau/school_district:roosevelt_union_free_school_district": {
-   "name": "roosevelt union free school district"
-  },
   "ocd-division/country:us/state:ny/county:onondaga/place:elbridge": {
    "name": "Elbridge town"
+  },
+  "ocd-division/country:us/state:ny/county:nassau/school_district:roosevelt_union_free_school_district": {
+   "name": "roosevelt union free school district"
   },
   "ocd-division/country:us/state:ny/county:chautauqua/school_district:sherman_central_school_district": {
    "name": "sherman central school district"
@@ -10930,23 +10930,23 @@
   "ocd-division/country:us/state:ny/place:albany/ward:15": {
    "name": "Albany NY - ward 15"
   },
-  "ocd-division/country:us/state:ny/place:albany/ward:10": {
-   "name": "Albany NY - ward 10"
-  },
-  "ocd-division/country:us/state:ny/place:chaumont": {
-   "name": "Chaumont village"
-  },
   "ocd-division/country:us/state:ny/county:fulton/place:ephratah": {
    "name": "Ephratah town",
    "officeIndices": [
     1225
    ]
   },
-  "ocd-division/country:us/state:ny/place:albany/ward:12": {
-   "name": "Albany NY - ward 12"
+  "ocd-division/country:us/state:ny/place:albany/ward:10": {
+   "name": "Albany NY - ward 10"
+  },
+  "ocd-division/country:us/state:ny/place:chaumont": {
+   "name": "Chaumont village"
   },
   "ocd-division/country:us/state:ny/county:herkimer/place:norway": {
    "name": "Norway town"
+  },
+  "ocd-division/country:us/state:ny/place:albany/ward:12": {
+   "name": "Albany NY - ward 12"
   },
   "ocd-division/country:us/state:ny/place:albany/ward:11": {
    "name": "Albany NY - ward 11"
@@ -11203,14 +11203,14 @@
     139
    ]
   },
-  "ocd-division/country:us/state:ny/county:lewis/place:lowville": {
-   "name": "Lowville town"
-  },
   "ocd-division/country:us/state:ny/sldl:82": {
    "name": "New York Assembly district 82",
    "officeIndices": [
     140
    ]
+  },
+  "ocd-division/country:us/state:ny/county:lewis/place:lowville": {
+   "name": "Lowville town"
   },
   "ocd-division/country:us/state:ny/sldl:83": {
    "name": "New York Assembly district 83",
@@ -11243,17 +11243,17 @@
   "ocd-division/country:us/state:ny/county:suffolk/school_district:shelter_island_union_free_school_district": {
    "name": "shelter island union free school district"
   },
-  "ocd-division/country:us/state:ny/county:nassau/place:hempstead": {
-   "name": "Hempstead town"
-  },
-  "ocd-division/country:us/state:ny/place:auburn": {
-   "name": "Auburn city"
-  },
   "ocd-division/country:us/state:ny/place:village_of_the_branch": {
    "name": "Village of the Branch village"
   },
+  "ocd-division/country:us/state:ny/county:nassau/place:hempstead": {
+   "name": "Hempstead town"
+  },
   "ocd-division/country:us/state:ny/county:bronx/school_district:south_bronx_classical_charter_school": {
    "name": "south bronx classical charter school"
+  },
+  "ocd-division/country:us/state:ny/place:auburn": {
+   "name": "Auburn city"
   },
   "ocd-division/country:us/state:ny/place:plattsburgh": {
    "name": "Plattsburgh city"
@@ -11390,9 +11390,6 @@
     1241
    ]
   },
-  "ocd-division/country:us/state:ny/place:asharoken": {
-   "name": "Asharoken village"
-  },
   "ocd-division/country:us/state:ny/place:upper_brookville": {
    "name": "Upper Brookville village"
   },
@@ -11401,6 +11398,9 @@
    "officeIndices": [
     1242
    ]
+  },
+  "ocd-division/country:us/state:ny/place:asharoken": {
+   "name": "Asharoken village"
   },
   "ocd-division/country:us/state:ny/county:monroe/school_district:university_preparatory_charter_school_for_young_men": {
    "name": "university preparatory charter school for young men"
@@ -11531,20 +11531,20 @@
     1258
    ]
   },
-  "ocd-division/country:us/state:ny/place:cherry_creek": {
-   "name": "Cherry Creek village"
-  },
   "ocd-division/country:us/state:ny/county:chautauqua/council_district:3": {
    "name": "Chautauqua County District 3",
    "officeIndices": [
     1259
    ]
   },
-  "ocd-division/country:us/state:ny/place:albany/ward:3": {
-   "name": "Albany NY - ward 3"
+  "ocd-division/country:us/state:ny/place:cherry_creek": {
+   "name": "Cherry Creek village"
   },
   "ocd-division/country:us/state:ny/county:genesee/place:alexander": {
    "name": "Alexander town"
+  },
+  "ocd-division/country:us/state:ny/place:albany/ward:3": {
+   "name": "Albany NY - ward 3"
   },
   "ocd-division/country:us/state:ny/place:albany/ward:2": {
    "name": "Albany NY - ward 2"
@@ -11567,11 +11567,11 @@
   "ocd-division/country:us/state:ny/place:albany/ward:6": {
    "name": "Albany NY - ward 6"
   },
-  "ocd-division/country:us/state:ny/place:albany/ward:9": {
-   "name": "Albany NY - ward 9"
-  },
   "ocd-division/country:us/state:ny/county:ulster/place:rochester": {
    "name": "Rochester town"
+  },
+  "ocd-division/country:us/state:ny/place:albany/ward:9": {
+   "name": "Albany NY - ward 9"
   },
   "ocd-division/country:us/state:ny/place:albany/ward:8": {
    "name": "Albany NY - ward 8"
@@ -11769,11 +11769,11 @@
     1281
    ]
   },
-  "ocd-division/country:us/state:ny/county:clinton/place:plattsburgh": {
-   "name": "Plattsburgh town"
-  },
   "ocd-division/country:us/state:ny/place:warwick": {
    "name": "Warwick village"
+  },
+  "ocd-division/country:us/state:ny/county:clinton/place:plattsburgh": {
+   "name": "Plattsburgh town"
   },
   "ocd-division/country:us/state:ny/county:erie/school_district:buffalo_city_school_district": {
    "name": "buffalo city school district"
@@ -11808,14 +11808,14 @@
     1286
    ]
   },
-  "ocd-division/country:us/state:ny/county:st_lawrence/place:hermon": {
-   "name": "Hermon town"
-  },
   "ocd-division/country:us/state:ny/county:orange/council_district:7": {
    "name": "Orange County District 7",
    "officeIndices": [
     1287
    ]
+  },
+  "ocd-division/country:us/state:ny/county:st_lawrence/place:hermon": {
+   "name": "Hermon town"
   },
   "ocd-division/country:us/state:ny/county:orange/council_district:6": {
    "name": "Orange County District 6",
@@ -11869,14 +11869,17 @@
   "ocd-division/country:us/state:ny/county:monroe/school_district:east_rochester_union_free_school_district": {
    "name": "east rochester union free school district"
   },
+  "ocd-division/country:us/state:ny/place:troy": {
+   "name": "Troy city"
+  },
   "ocd-division/country:us/state:ny/county:greene/council_district:4": {
    "name": "Greene County District 4",
    "officeIndices": [
     1295
    ]
   },
-  "ocd-division/country:us/state:ny/place:troy": {
-   "name": "Troy city"
+  "ocd-division/country:us/state:ny/county:oneida/school_district:new_hartford_central_school_district": {
+   "name": "new hartford central school district"
   },
   "ocd-division/country:us/state:ny/county:greene/council_district:5": {
    "name": "Greene County District 5",
@@ -11884,14 +11887,14 @@
     1296
    ]
   },
-  "ocd-division/country:us/state:ny/county:oneida/school_district:new_hartford_central_school_district": {
-   "name": "new hartford central school district"
-  },
   "ocd-division/country:us/state:ny/county:greene/council_district:2": {
    "name": "Greene County District 2",
    "officeIndices": [
     1297
    ]
+  },
+  "ocd-division/country:us/state:ny/county:madison/school_district:canastota_central_school_district": {
+   "name": "canastota central school district"
   },
   "ocd-division/country:us/state:ny/county:greene/council_district:3": {
    "name": "Greene County District 3",
@@ -11899,28 +11902,25 @@
     1298
    ]
   },
-  "ocd-division/country:us/state:ny/county:madison/school_district:canastota_central_school_district": {
-   "name": "canastota central school district"
-  },
   "ocd-division/country:us/state:ny/county:greene/council_district:8": {
    "name": "Greene County District 8",
    "officeIndices": [
     1299
    ]
   },
-  "ocd-division/country:us/state:ny/county:greene/council_district:9": {
-   "name": "Greene County District 9",
-   "officeIndices": [
-    1300
-   ]
-  },
   "ocd-division/country:us/state:ny/county:niagara": {
    "name": "Niagara County",
    "officeIndices": [
+    1300,
     1301,
     1302,
     1303,
-    1304,
+    1304
+   ]
+  },
+  "ocd-division/country:us/state:ny/county:greene/council_district:9": {
+   "name": "Greene County District 9",
+   "officeIndices": [
     1305
    ]
   },
@@ -11981,29 +11981,29 @@
   "ocd-division/country:us/state:ny/place:cato": {
    "name": "Cato village"
   },
-  "ocd-division/country:us/state:ny/place:deposit": {
-   "name": "Deposit village"
-  },
-  "ocd-division/country:us/state:ny/county:chautauqua/school_district:southwestern_central_school_district_at_jamestown": {
-   "name": "southwestern central school district at jamestown"
-  },
-  "ocd-division/country:us/state:ny/county:chautauqua/place:ellery": {
-   "name": "Ellery town"
-  },
   "ocd-division/country:us/state:ny/county:greene/council_district:10": {
    "name": "Greene County District 10",
    "officeIndices": [
     1312
    ]
   },
-  "ocd-division/country:us/state:ny/county:cayuga/place:ledyard": {
-   "name": "Ledyard town"
+  "ocd-division/country:us/state:ny/county:chautauqua/place:ellery": {
+   "name": "Ellery town"
+  },
+  "ocd-division/country:us/state:ny/county:chautauqua/school_district:southwestern_central_school_district_at_jamestown": {
+   "name": "southwestern central school district at jamestown"
+  },
+  "ocd-division/country:us/state:ny/place:deposit": {
+   "name": "Deposit village"
   },
   "ocd-division/country:us/state:ny/county:livingston/place:geneseo": {
    "name": "Geneseo town",
    "officeIndices": [
     1313
    ]
+  },
+  "ocd-division/country:us/state:ny/county:cayuga/place:ledyard": {
+   "name": "Ledyard town"
   },
   "ocd-division/country:us/state:ny/place:springville": {
    "name": "Springville village"
@@ -12014,11 +12014,11 @@
   "ocd-division/country:us/state:ny/county:oneida/place:camden": {
    "name": "Camden town"
   },
-  "ocd-division/country:us/state:ny/county:essex/school_district:westport_central_school_district": {
-   "name": "westport central school district"
-  },
   "ocd-division/country:us/state:ny/county:franklin/place:brandon": {
    "name": "Brandon town"
+  },
+  "ocd-division/country:us/state:ny/county:essex/school_district:westport_central_school_district": {
+   "name": "westport central school district"
   },
   "ocd-division/country:us/state:ny/county:clinton/council_district:9": {
    "name": "Clinton County District 9",
@@ -12047,11 +12047,11 @@
   "ocd-division/country:us/state:ny/county:st_lawrence/school_district:parishville-hopkinton_central_school_district": {
    "name": "parishville-hopkinton central school district"
   },
-  "ocd-division/country:us/state:ny/place:hewlett_bay_park": {
-   "name": "Hewlett Bay Park village"
-  },
   "ocd-division/country:us/state:ny/county:greene/place:catskill": {
    "name": "Catskill town"
+  },
+  "ocd-division/country:us/state:ny/place:hewlett_bay_park": {
+   "name": "Hewlett Bay Park village"
   },
   "ocd-division/country:us/state:ny/county:tioga/place:nichols": {
    "name": "Nichols town"
@@ -12086,20 +12086,20 @@
     1321
    ]
   },
-  "ocd-division/country:us/state:ny/county:schoharie/place:carlisle": {
-   "name": "Carlisle town",
-   "officeIndices": [
-    1322
-   ]
+  "ocd-division/country:us/state:ny/county:chautauqua/place:arkwright": {
+   "name": "Arkwright town"
   },
   "ocd-division/country:us/state:ny/county:clinton/council_district:1": {
    "name": "Clinton County District 1",
    "officeIndices": [
-    1323
+    1322
    ]
   },
-  "ocd-division/country:us/state:ny/county:chautauqua/place:arkwright": {
-   "name": "Arkwright town"
+  "ocd-division/country:us/state:ny/county:schoharie/place:carlisle": {
+   "name": "Carlisle town",
+   "officeIndices": [
+    1323
+   ]
   },
   "ocd-division/country:us/state:ny/place:batavia": {
    "name": "Batavia city"
@@ -12110,11 +12110,11 @@
   "ocd-division/country:us/state:ny/county:suffolk/school_district:western_suffolk_boces": {
    "name": "western suffolk boces"
   },
-  "ocd-division/country:us/state:ny/place:canastota": {
-   "name": "Canastota village"
-  },
   "ocd-division/country:us/state:ny/place:sodus": {
    "name": "Sodus village"
+  },
+  "ocd-division/country:us/state:ny/place:canastota": {
+   "name": "Canastota village"
   },
   "ocd-division/country:us/state:ny/county:wayne/school_district:lyons_central_school_district": {
    "name": "lyons central school district"
@@ -12140,14 +12140,14 @@
   "ocd-division/country:us/state:ny/county:erie/place:newstead": {
    "name": "Newstead town"
   },
+  "ocd-division/country:us/state:ny/county:tompkins/place:dryden": {
+   "name": "Dryden town"
+  },
   "ocd-division/country:us/state:ny/county:wyoming/place:bennington": {
    "name": "Bennington town",
    "officeIndices": [
     1324
    ]
-  },
-  "ocd-division/country:us/state:ny/county:tompkins/place:dryden": {
-   "name": "Dryden town"
   },
   "ocd-division/country:us/state:ny/county:herkimer/school_district:herkimer_central_school_district": {
    "name": "herkimer central school district"
@@ -12155,14 +12155,14 @@
   "ocd-division/country:us/state:ny/county:montgomery/school_district:hamilton-fulton-montgomery_boces": {
    "name": "hamilton-fulton-montgomery boces"
   },
-  "ocd-division/country:us/state:ny/place:norwood": {
-   "name": "Norwood village"
-  },
   "ocd-division/country:us/state:ny/county:westchester/council_district:17": {
    "name": "Westchester County NY Legislature District 17",
    "officeIndices": [
     1325
    ]
+  },
+  "ocd-division/country:us/state:ny/place:norwood": {
+   "name": "Norwood village"
   },
   "ocd-division/country:us/state:ny/county:westchester/council_district:16": {
    "name": "Westchester County NY Legislature District 16",
@@ -12272,14 +12272,14 @@
   "ocd-division/country:us/state:ny/county:livingston/school_district:livonia_central_school_district": {
    "name": "livonia central school district"
   },
-  "ocd-division/country:us/state:ny/county:rensselaer/school_district:wynantskill_union_free_school_district": {
-   "name": "wynantskill union free school district"
-  },
   "ocd-division/country:us/state:ny/county:greene/place:cairo": {
    "name": "Cairo town",
    "officeIndices": [
     1335
    ]
+  },
+  "ocd-division/country:us/state:ny/county:rensselaer/school_district:wynantskill_union_free_school_district": {
+   "name": "wynantskill union free school district"
   },
   "ocd-division/country:us/state:ny/county:nassau/school_district:hempstead_union_free_school_district": {
    "name": "hempstead union free school district"
@@ -12290,17 +12290,17 @@
   "ocd-division/country:us/state:ny/place:nelliston": {
    "name": "Nelliston village"
   },
-  "ocd-division/country:us/state:ny/place:bellerose": {
-   "name": "Bellerose village"
-  },
   "ocd-division/country:us/state:ny/county:broome/school_district:broome-delaware-tioga_boces": {
    "name": "broome-delaware-tioga boces"
   },
-  "ocd-division/country:us/state:ny/county:oswego/place:schroeppel": {
-   "name": "Schroeppel town"
+  "ocd-division/country:us/state:ny/place:bellerose": {
+   "name": "Bellerose village"
   },
   "ocd-division/country:us/state:ny/place:portville": {
    "name": "Portville village"
+  },
+  "ocd-division/country:us/state:ny/county:oswego/place:schroeppel": {
+   "name": "Schroeppel town"
   },
   "ocd-division/country:us/state:ny/county:nassau/school_district:lawrence_union_free_school_district": {
    "name": "lawrence union free school district"
@@ -12311,14 +12311,14 @@
     1336
    ]
   },
+  "ocd-division/country:us/state:ny/county:sullivan/place:rockland": {
+   "name": "Rockland town"
+  },
   "ocd-division/country:us/state:ny/place:glens_falls/ward:3": {
    "name": "Glens Falls Ward 3",
    "officeIndices": [
     1337
    ]
-  },
-  "ocd-division/country:us/state:ny/county:sullivan/place:rockland": {
-   "name": "Rockland town"
   },
   "ocd-division/country:us/state:ny/county:steuben/place:west_union": {
    "name": "West Union town"
@@ -12335,14 +12335,14 @@
     1339
    ]
   },
+  "ocd-division/country:us/state:ny/county:oneida/place:steuben": {
+   "name": "Steuben town"
+  },
   "ocd-division/country:us/state:ny/place:glens_falls/ward:1": {
    "name": "Glens Falls Ward 1",
    "officeIndices": [
     1340
    ]
-  },
-  "ocd-division/country:us/state:ny/county:oneida/place:steuben": {
-   "name": "Steuben town"
   },
   "ocd-division/country:us/state:ny/county:cayuga/place:mentz": {
    "name": "Mentz town"
@@ -12386,23 +12386,23 @@
   "ocd-division/country:us/state:ny/county:monroe/place:gates": {
    "name": "Gates town"
   },
-  "ocd-division/country:us/state:ny/county:erie/school_district:clarence_central_school_district": {
-   "name": "clarence central school district"
+  "ocd-division/country:us/state:ny/county:onondaga/place:marcellus": {
+   "name": "Marcellus town"
   },
   "ocd-division/country:us/state:ny/county:allegany/school_district:bolivar-richburg_central_school_district": {
    "name": "bolivar-richburg central school district"
   },
-  "ocd-division/country:us/state:ny/county:onondaga/place:marcellus": {
-   "name": "Marcellus town"
+  "ocd-division/country:us/state:ny/county:erie/school_district:clarence_central_school_district": {
+   "name": "clarence central school district"
   },
   "ocd-division/country:us/state:ny/county:wyoming/school_district:wyoming_central_school_district": {
    "name": "wyoming central school district"
   },
-  "ocd-division/country:us/state:ny/place:kensington": {
-   "name": "Kensington village"
-  },
   "ocd-division/country:us/state:ny/county:schenectady/school_district:duanesburg_central_school_district": {
    "name": "duanesburg central school district"
+  },
+  "ocd-division/country:us/state:ny/place:kensington": {
+   "name": "Kensington village"
   },
   "ocd-division/country:us/state:ny/county:cayuga/place:conquest": {
    "name": "Conquest town"
@@ -12493,20 +12493,20 @@
     1355
    ]
   },
-  "ocd-division/country:us/state:ny/place:nunda": {
-   "name": "Nunda village"
-  },
-  "ocd-division/country:us/state:ny/county:westchester/place:yorktown": {
-   "name": "Yorktown town"
-  },
-  "ocd-division/country:us/state:ny/county:queens/school_district:our_world_neighborhood_charter_school": {
-   "name": "our world neighborhood charter school"
+  "ocd-division/country:us/state:ny/place:yonkers": {
+   "name": "Yonkers city"
   },
   "ocd-division/country:us/state:ny/county:erie/place:hamburg": {
    "name": "Hamburg town"
   },
-  "ocd-division/country:us/state:ny/place:yonkers": {
-   "name": "Yonkers city"
+  "ocd-division/country:us/state:ny/county:queens/school_district:our_world_neighborhood_charter_school": {
+   "name": "our world neighborhood charter school"
+  },
+  "ocd-division/country:us/state:ny/county:westchester/place:yorktown": {
+   "name": "Yorktown town"
+  },
+  "ocd-division/country:us/state:ny/place:nunda": {
+   "name": "Nunda village"
   },
   "ocd-division/country:us/state:ny/county:seneca/place:fayette": {
    "name": "Fayette town",
@@ -12532,11 +12532,11 @@
   "ocd-division/country:us/state:ny/place:cohocton": {
    "name": "Cohocton village"
   },
-  "ocd-division/country:us/state:ny/place:oakfield": {
-   "name": "Oakfield village"
-  },
   "ocd-division/country:us/state:ny/county:saratoga/school_district:corinth_central_school_district": {
    "name": "corinth central school district"
+  },
+  "ocd-division/country:us/state:ny/place:oakfield": {
+   "name": "Oakfield village"
   },
   "ocd-division/country:us/state:ny/county:steuben/council_district:10": {
    "name": "Steuben County District 10",
@@ -12556,14 +12556,14 @@
     1360
    ]
   },
-  "ocd-division/country:us/state:ny/county:steuben/council_district:12": {
-   "name": "Steuben County District 12",
+  "ocd-division/country:us/state:ny/county:livingston/place:caledonia": {
+   "name": "Caledonia town",
    "officeIndices": [
     1361
    ]
   },
-  "ocd-division/country:us/state:ny/county:livingston/place:caledonia": {
-   "name": "Caledonia town",
+  "ocd-division/country:us/state:ny/county:steuben/council_district:12": {
+   "name": "Steuben County District 12",
    "officeIndices": [
     1362
    ]
@@ -12571,17 +12571,17 @@
   "ocd-division/country:us/state:ny/place:malone": {
    "name": "Malone village"
   },
-  "ocd-division/country:us/state:ny/place:fabius": {
-   "name": "Fabius village"
-  },
-  "ocd-division/country:us/state:ny/county:saratoga/school_district:shenendehowa_central_school_district": {
-   "name": "shenendehowa central school district"
-  },
   "ocd-division/country:us/state:ny/county:delaware/place:harpersfield": {
    "name": "Harpersfield town",
    "officeIndices": [
     1363
    ]
+  },
+  "ocd-division/country:us/state:ny/county:saratoga/school_district:shenendehowa_central_school_district": {
+   "name": "shenendehowa central school district"
+  },
+  "ocd-division/country:us/state:ny/place:fabius": {
+   "name": "Fabius village"
   },
   "ocd-division/country:us/state:ny/county:jefferson/school_district:indian_river_central_school_district": {
    "name": "indian river central school district"
@@ -12778,11 +12778,11 @@
   "ocd-division/country:us/state:ny/county:onondaga/school_district:skaneateles_central_school_district": {
    "name": "skaneateles central school district"
   },
-  "ocd-division/country:us/state:ny/county:kings/school_district:williamsburg_collegiate_charter_school": {
-   "name": "williamsburg collegiate charter school"
-  },
   "ocd-division/country:us/state:ny/place:voorheesville": {
    "name": "Voorheesville village"
+  },
+  "ocd-division/country:us/state:ny/county:kings/school_district:williamsburg_collegiate_charter_school": {
+   "name": "williamsburg collegiate charter school"
   },
   "ocd-division/country:us/state:ny/place:brightwaters": {
    "name": "Brightwaters village"
@@ -12886,17 +12886,17 @@
   "ocd-division/country:us/state:ny/place:ogdensburg": {
    "name": "Ogdensburg city"
   },
-  "ocd-division/country:us/state:ny/place:elmsford": {
-   "name": "Elmsford village"
-  },
-  "ocd-division/country:us/state:ny/place:harrisville": {
-   "name": "Harrisville village"
-  },
   "ocd-division/country:us/state:ny/county:erie/school_district:hamburg_central_school_district": {
    "name": "hamburg central school district"
   },
   "ocd-division/country:us/state:ny/county:orange/place:woodbury": {
    "name": "Woodbury town"
+  },
+  "ocd-division/country:us/state:ny/place:elmsford": {
+   "name": "Elmsford village"
+  },
+  "ocd-division/country:us/state:ny/place:harrisville": {
+   "name": "Harrisville village"
   },
   "ocd-division/country:us/state:ny/county:herkimer/council_district:7": {
    "name": "Herkimer County District 7",
@@ -12913,14 +12913,14 @@
     1395
    ]
   },
-  "ocd-division/country:us/state:ny/place:fonda": {
-   "name": "Fonda village"
-  },
   "ocd-division/country:us/state:ny/county:herkimer/council_district:9": {
    "name": "Herkimer County District 9",
    "officeIndices": [
     1396
    ]
+  },
+  "ocd-division/country:us/state:ny/place:fonda": {
+   "name": "Fonda village"
   },
   "ocd-division/country:us/state:ny/county:herkimer/council_district:3": {
    "name": "Herkimer County District 3",
@@ -12973,14 +12973,14 @@
   "ocd-division/country:us/state:ny/county:essex/school_district:willsboro_central_school_district": {
    "name": "willsboro central school district"
   },
-  "ocd-division/country:us/state:ny/county:tompkins/place:newfield": {
-   "name": "Newfield town"
-  },
   "ocd-division/country:us/state:ny/place:syracuse/council_district:2": {
    "name": "Syracuse NY Common Council district 2",
    "officeIndices": [
     253
    ]
+  },
+  "ocd-division/country:us/state:ny/county:tompkins/place:newfield": {
+   "name": "Newfield town"
   },
   "ocd-division/country:us/state:ny/county:essex/place:wilmington": {
    "name": "Wilmington town",
@@ -13108,14 +13108,14 @@
     1416
    ]
   },
+  "ocd-division/country:us/state:ny/place:rensselaer": {
+   "name": "Rensselaer city"
+  },
   "ocd-division/country:us/state:ny/county:dutchess/council_district:13": {
    "name": "Dutchess County District 13",
    "officeIndices": [
     1418
    ]
-  },
-  "ocd-division/country:us/state:ny/place:rensselaer": {
-   "name": "Rensselaer city"
   },
   "ocd-division/country:us/state:ny/county:dutchess/council_district:10": {
    "name": "Dutchess County District 10",
@@ -13165,14 +13165,14 @@
   "ocd-division/country:us/state:ny/county:westchester/school_district:katonah-lewisboro_union_free_school_district": {
    "name": "katonah-lewisboro union free school district"
   },
+  "ocd-division/country:us/state:ny/county:orange/place:wallkill": {
+   "name": "Wallkill town"
+  },
   "ocd-division/country:us/state:ny/county:oswego/council_district:5": {
    "name": "Oswego County District 5",
    "officeIndices": [
     1424
    ]
-  },
-  "ocd-division/country:us/state:ny/county:orange/place:wallkill": {
-   "name": "Wallkill town"
   },
   "ocd-division/country:us/state:ny/county:oswego/council_district:1": {
    "name": "Oswego County District 1",
@@ -13213,11 +13213,11 @@
   "ocd-division/country:us/state:ny/county:chautauqua/place:french_creek": {
    "name": "French Creek town"
   },
-  "ocd-division/country:us/state:ny/place:little_valley": {
-   "name": "Little Valley village"
-  },
   "ocd-division/country:us/state:ny/county:albany/school_district:brighter_choice_charter_middle_school_for_boys": {
    "name": "brighter choice charter middle school for boys"
+  },
+  "ocd-division/country:us/state:ny/place:little_valley": {
+   "name": "Little Valley village"
   },
   "ocd-division/country:us/state:ny/county:cortland/place:freetown": {
    "name": "Freetown town"
@@ -13252,11 +13252,11 @@
   "ocd-division/country:us/state:ny/county:monroe/school_district:urban_choice_charter_school": {
    "name": "urban choice charter school"
   },
-  "ocd-division/country:us/state:ny/county:st_lawrence/place:de_peyster": {
-   "name": "De Peyster town"
-  },
   "ocd-division/country:us/state:ny/county:essex/school_district:lake_placid_central_school_district": {
    "name": "lake placid central school district"
+  },
+  "ocd-division/country:us/state:ny/county:st_lawrence/place:de_peyster": {
+   "name": "De Peyster town"
   },
   "ocd-division/country:us/state:ny/county:putnam": {
    "name": "Putnam County",
@@ -13271,14 +13271,14 @@
   "ocd-division/country:us/state:ny/county:steuben/place:dansville": {
    "name": "Dansville town"
   },
+  "ocd-division/country:us/state:ny/county:niagara/place:newfane": {
+   "name": "Newfane town"
+  },
   "ocd-division/country:us/state:ny/county:cattaraugus/council_district:10": {
    "name": "Cattaraugus County District 10",
    "officeIndices": [
     1437
    ]
-  },
-  "ocd-division/country:us/state:ny/county:niagara/place:newfane": {
-   "name": "Newfane town"
   },
   "ocd-division/country:us/state:ny/county:livingston/school_district:york_central_school_district": {
    "name": "york central school district"
@@ -13515,14 +13515,14 @@
     155
    ]
   },
-  "ocd-division/country:us/state:ny/county:cattaraugus/place:ashford": {
-   "name": "Ashford town"
-  },
   "ocd-division/country:us/state:ny/sldl:46": {
    "name": "New York Assembly district 46",
    "officeIndices": [
     156
    ]
+  },
+  "ocd-division/country:us/state:ny/county:cattaraugus/place:ashford": {
+   "name": "Ashford town"
   },
   "ocd-division/country:us/state:ny/sldl:49": {
    "name": "New York Assembly district 49",
@@ -13578,16 +13578,16 @@
     1461
    ]
   },
-  "ocd-division/country:us/state:ny/county:erie/council_district:3": {
-   "name": "Erie County NY Legislature District 3",
-   "officeIndices": [
-    1462
-   ]
-  },
   "ocd-division/country:us/state:ny/sldl:33": {
    "name": "New York Assembly district 33",
    "officeIndices": [
     161
+   ]
+  },
+  "ocd-division/country:us/state:ny/county:erie/council_district:3": {
+   "name": "Erie County NY Legislature District 3",
+   "officeIndices": [
+    1462
    ]
   },
   "ocd-division/country:us/state:ny/sldl:32": {
@@ -13647,11 +13647,11 @@
     168
    ]
   },
-  "ocd-division/country:us/state:ny/place:cayuga_heights": {
-   "name": "Cayuga Heights village"
-  },
   "ocd-division/country:us/state:ny/county:oneida/place:boonville": {
    "name": "Boonville town"
+  },
+  "ocd-division/country:us/state:ny/place:cayuga_heights": {
+   "name": "Cayuga Heights village"
   },
   "ocd-division/country:us/state:ny/county:onondaga/school_district:jamesville-dewitt_central_school_district": {
    "name": "jamesville-dewitt central school district"
@@ -13731,14 +13731,14 @@
     173
    ]
   },
-  "ocd-division/country:us/state:ny/county:cayuga/place:montezuma": {
-   "name": "Montezuma town"
-  },
   "ocd-division/country:us/state:ny/sldl:28": {
    "name": "New York Assembly district 28",
    "officeIndices": [
     174
    ]
+  },
+  "ocd-division/country:us/state:ny/county:cayuga/place:montezuma": {
+   "name": "Montezuma town"
   },
   "ocd-division/country:us/state:ny/sldl:25": {
    "name": "New York Assembly district 25",
@@ -13794,11 +13794,11 @@
   "ocd-division/country:us/state:ny/place:farnham": {
    "name": "Farnham village"
   },
-  "ocd-division/country:us/state:ny/county:putnam/school_district:carmel_central_school_district": {
-   "name": "carmel central school district"
-  },
   "ocd-division/country:us/state:ny/county:orleans/place:kendall": {
    "name": "Kendall town"
+  },
+  "ocd-division/country:us/state:ny/county:putnam/school_district:carmel_central_school_district": {
+   "name": "carmel central school district"
   },
   "ocd-division/country:us/state:ny/sldl:12": {
    "name": "New York Assembly district 12",
@@ -13857,26 +13857,26 @@
     189
    ]
   },
-  "ocd-division/country:us/state:ny/sldl:16": {
-   "name": "New York Assembly district 16",
+  "ocd-division/country:us/state:ny/sldu:17": {
+   "name": "New York State Senate district 17",
    "officeIndices": [
     192
    ]
   },
-  "ocd-division/country:us/state:ny/sldu:17": {
-   "name": "New York State Senate district 17",
+  "ocd-division/country:us/state:ny/sldl:16": {
+   "name": "New York Assembly district 16",
    "officeIndices": [
     191
    ]
   },
-  "ocd-division/country:us/state:ny/sldl:15": {
-   "name": "New York Assembly district 15",
+  "ocd-division/country:us/state:ny/sldu:16": {
+   "name": "New York State Senate district 16",
    "officeIndices": [
     194
    ]
   },
-  "ocd-division/country:us/state:ny/sldu:16": {
-   "name": "New York State Senate district 16",
+  "ocd-division/country:us/state:ny/sldl:15": {
+   "name": "New York Assembly district 15",
    "officeIndices": [
     193
    ]
@@ -13893,14 +13893,14 @@
     195
    ]
   },
-  "ocd-division/country:us/state:ny/sldl:13": {
-   "name": "New York Assembly district 13",
+  "ocd-division/country:us/state:ny/sldu:14": {
+   "name": "New York State Senate district 14",
    "officeIndices": [
     198
    ]
   },
-  "ocd-division/country:us/state:ny/sldu:14": {
-   "name": "New York State Senate district 14",
+  "ocd-division/country:us/state:ny/sldl:13": {
+   "name": "New York Assembly district 13",
    "officeIndices": [
     197
    ]
@@ -14055,14 +14055,14 @@
     213
    ]
   },
+  "ocd-division/country:us/state:ny/county:franklin/place:chateaugay": {
+   "name": "Chateaugay town"
+  },
   "ocd-division/country:us/state:ny/county:schoharie/place:summit": {
    "name": "Summit town",
    "officeIndices": [
     1484
    ]
-  },
-  "ocd-division/country:us/state:ny/county:franklin/place:chateaugay": {
-   "name": "Chateaugay town"
   },
   "ocd-division/country:us/state:ny/sldu:29": {
    "name": "New York State Senate district 29",
@@ -14226,14 +14226,14 @@
   "ocd-division/country:us/state:ny/county:erie/school_district:oracle_charter_school": {
    "name": "oracle charter school"
   },
-  "ocd-division/country:us/state:ny/county:westchester/school_district:mount_pleasant-cottage_union_free_school_district": {
-   "name": "mount pleasant-cottage union free school district"
-  },
   "ocd-division/country:us/state:ny/sldu:57": {
    "name": "New York State Senate district 57",
    "officeIndices": [
     226
    ]
+  },
+  "ocd-division/country:us/state:ny/county:westchester/school_district:mount_pleasant-cottage_union_free_school_district": {
+   "name": "mount pleasant-cottage union free school district"
   },
   "ocd-division/country:us/state:ny/sldu:56": {
    "name": "New York State Senate district 56",
@@ -14359,9 +14359,6 @@
     1512
    ]
   },
-  "ocd-division/country:us/state:ny/place:mastic_beach": {
-   "name": "Mastic Beach village"
-  },
   "ocd-division/country:us/state:ny/sldu:62": {
    "name": "New York State Senate district 62",
    "officeIndices": [
@@ -14370,6 +14367,9 @@
   },
   "ocd-division/country:us/state:ny/county:delaware/school_district:hancock_central_school_district": {
    "name": "hancock central school district"
+  },
+  "ocd-division/country:us/state:ny/place:mastic_beach": {
+   "name": "Mastic Beach village"
   },
   "ocd-division/country:us/state:ny/sldu:61": {
    "name": "New York State Senate district 61",
@@ -14491,14 +14491,14 @@
   "ocd-division/country:us/state:ny/county:chautauqua/school_district:bemus_point_central_school_district": {
    "name": "bemus point central school district"
   },
+  "ocd-division/country:us/state:ny/county:genesee/place:bethany": {
+   "name": "Bethany town"
+  },
   "ocd-division/country:us/state:ny/cd:27": {
    "name": "New York's 27th congressional district",
    "officeIndices": [
     12
    ]
-  },
-  "ocd-division/country:us/state:ny/county:genesee/place:bethany": {
-   "name": "Bethany town"
   },
   "ocd-division/country:us/state:ny/cd:26": {
    "name": "New York's 26th congressional district",
@@ -14596,17 +14596,17 @@
   "ocd-division/country:us/state:ny/place:southampton": {
    "name": "Southampton village"
   },
-  "ocd-division/country:us/state:ny/cd:18": {
-   "name": "New York's 18th congressional district",
-   "officeIndices": [
-    23
-   ]
-  },
   "ocd-division/country:us/state:ny/county:lewis/school_district:copenhagen_central_school_district": {
    "name": "copenhagen central school district"
   },
   "ocd-division/country:us/state:ny/county:lewis/place:turin": {
    "name": "Turin town"
+  },
+  "ocd-division/country:us/state:ny/cd:18": {
+   "name": "New York's 18th congressional district",
+   "officeIndices": [
+    23
+   ]
   },
   "ocd-division/country:us/state:ny/cd:17": {
    "name": "New York's 17th congressional district",
@@ -17158,19 +17158,6 @@
    ]
   },
   {
-   "name": "NY State Senate District 17",
-   "divisionId": "ocd-division/country:us/state:ny/sldu:17",
-   "levels": [
-    "administrativeArea1"
-   ],
-   "roles": [
-    "legislatorUpperBody"
-   ],
-   "officialIndices": [
-    192
-   ]
-  },
-  {
    "name": "NY State Assembly District 16",
    "divisionId": "ocd-division/country:us/state:ny/sldl:16",
    "levels": [
@@ -17180,12 +17167,12 @@
     "legislatorLowerBody"
    ],
    "officialIndices": [
-    193
+    192
    ]
   },
   {
-   "name": "NY State Senate District 16",
-   "divisionId": "ocd-division/country:us/state:ny/sldu:16",
+   "name": "NY State Senate District 17",
+   "divisionId": "ocd-division/country:us/state:ny/sldu:17",
    "levels": [
     "administrativeArea1"
    ],
@@ -17193,7 +17180,7 @@
     "legislatorUpperBody"
    ],
    "officialIndices": [
-    194
+    193
    ]
   },
   {
@@ -17204,6 +17191,19 @@
    ],
    "roles": [
     "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    194
+   ]
+  },
+  {
+   "name": "NY State Senate District 16",
+   "divisionId": "ocd-division/country:us/state:ny/sldu:16",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
    ],
    "officialIndices": [
     195
@@ -17236,19 +17236,6 @@
    ]
   },
   {
-   "name": "NY State Senate District 14",
-   "divisionId": "ocd-division/country:us/state:ny/sldu:14",
-   "levels": [
-    "administrativeArea1"
-   ],
-   "roles": [
-    "legislatorUpperBody"
-   ],
-   "officialIndices": [
-    198
-   ]
-  },
-  {
    "name": "NY State Assembly District 13",
    "divisionId": "ocd-division/country:us/state:ny/sldl:13",
    "levels": [
@@ -17256,6 +17243,19 @@
    ],
    "roles": [
     "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    198
+   ]
+  },
+  {
+   "name": "NY State Senate District 14",
+   "divisionId": "ocd-division/country:us/state:ny/sldu:14",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
    ],
    "officialIndices": [
     199
@@ -18383,17 +18383,17 @@
    ]
   },
   {
-   "name": "County Legislature, District 11",
-   "divisionId": "ocd-division/country:us/state:ny/county:cortland/council_district:11",
-   "officialIndices": [
-    325
-   ]
-  },
-  {
    "name": "Town Supervisor, Cazenovia",
    "divisionId": "ocd-division/country:us/state:ny/county:madison/place:cazenovia",
    "officialIndices": [
-    326,
+    325,
+    326
+   ]
+  },
+  {
+   "name": "County Legislature, District 11",
+   "divisionId": "ocd-division/country:us/state:ny/county:cortland/council_district:11",
+   "officialIndices": [
     327
    ]
   },
@@ -18581,50 +18581,50 @@
    ]
   },
   {
-   "name": "County Legislature, District 4",
-   "divisionId": "ocd-division/country:us/state:ny/county:otsego/council_district:4",
-   "officialIndices": [
-    355
-   ]
-  },
-  {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ny/county:suffolk",
    "officialIndices": [
-    356
+    355
    ]
   },
   {
    "name": "Comptroller",
    "divisionId": "ocd-division/country:us/state:ny/county:suffolk",
    "officialIndices": [
-    357
+    356
    ]
   },
   {
    "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:ny/county:suffolk",
    "officialIndices": [
-    358
+    357
    ]
   },
   {
    "name": "County Executive",
    "divisionId": "ocd-division/country:us/state:ny/county:suffolk",
    "officialIndices": [
-    359
+    358
    ]
   },
   {
    "name": "County Treasurer",
    "divisionId": "ocd-division/country:us/state:ny/county:suffolk",
    "officialIndices": [
-    360
+    359
    ]
   },
   {
    "name": "District Attorney",
    "divisionId": "ocd-division/country:us/state:ny/county:suffolk",
+   "officialIndices": [
+    360
+   ]
+  },
+  {
+   "name": "County Legislature, District 4",
+   "divisionId": "ocd-division/country:us/state:ny/county:otsego/council_district:4",
    "officialIndices": [
     361
    ]
@@ -18644,15 +18644,15 @@
    ]
   },
   {
-   "name": "County Legislature, District 6",
-   "divisionId": "ocd-division/country:us/state:ny/county:otsego/council_district:6",
+   "name": "Town Supervisor, City of Geneva District 2",
+   "divisionId": "ocd-division/country:us/state:ny/place:geneva/ward:4",
    "officialIndices": [
     364
    ]
   },
   {
-   "name": "Town Supervisor, City of Geneva District 2",
-   "divisionId": "ocd-division/country:us/state:ny/place:geneva/ward:4",
+   "name": "County Legislature, District 6",
+   "divisionId": "ocd-division/country:us/state:ny/county:otsego/council_district:6",
    "officialIndices": [
     365
    ]
@@ -19428,15 +19428,15 @@
    ]
   },
   {
-   "name": "County Legislature, District 11",
-   "divisionId": "ocd-division/country:us/state:ny/county:chemung/council_district:11",
+   "name": "County Legislature, District 1",
+   "divisionId": "ocd-division/country:us/state:ny/county:oneida/council_district:1",
    "officialIndices": [
     476
    ]
   },
   {
-   "name": "County Legislature, District 1",
-   "divisionId": "ocd-division/country:us/state:ny/county:oneida/council_district:1",
+   "name": "County Legislature, District 11",
+   "divisionId": "ocd-division/country:us/state:ny/county:chemung/council_district:11",
    "officialIndices": [
     477
    ]
@@ -20198,29 +20198,29 @@
    ]
   },
   {
-   "name": "County Legislature, District 4",
-   "divisionId": "ocd-division/country:us/state:ny/county:orleans/council_district:4",
+   "name": "County Legislature, District 2",
+   "divisionId": "ocd-division/country:us/state:ny/county:tioga/council_district:2",
    "officialIndices": [
     598
    ]
   },
   {
-   "name": "County Legislature, District 2",
-   "divisionId": "ocd-division/country:us/state:ny/county:tioga/council_district:2",
+   "name": "County Legislature, District 4",
+   "divisionId": "ocd-division/country:us/state:ny/county:orleans/council_district:4",
    "officialIndices": [
     599
    ]
   },
   {
-   "name": "Town Supervisor, Hamden",
-   "divisionId": "ocd-division/country:us/state:ny/county:delaware/place:hamden",
+   "name": "County Legislature, District 3",
+   "divisionId": "ocd-division/country:us/state:ny/county:tioga/council_district:3",
    "officialIndices": [
     600
    ]
   },
   {
-   "name": "County Legislature, District 3",
-   "divisionId": "ocd-division/country:us/state:ny/county:tioga/council_district:3",
+   "name": "Town Supervisor, Hamden",
+   "divisionId": "ocd-division/country:us/state:ny/county:delaware/place:hamden",
    "officialIndices": [
     601
    ]
@@ -20866,29 +20866,29 @@
    ]
   },
   {
-   "name": "County Legislature, District 13",
-   "divisionId": "ocd-division/country:us/state:ny/county:monroe/council_district:13",
+   "name": "County Legislature, District 17",
+   "divisionId": "ocd-division/country:us/state:ny/county:orange/council_district:17",
    "officialIndices": [
     708
    ]
   },
   {
-   "name": "County Legislature, District 17",
-   "divisionId": "ocd-division/country:us/state:ny/county:orange/council_district:17",
+   "name": "County Legislature, District 13",
+   "divisionId": "ocd-division/country:us/state:ny/county:monroe/council_district:13",
    "officialIndices": [
     709
    ]
   },
   {
-   "name": "County Legislature, District 14",
-   "divisionId": "ocd-division/country:us/state:ny/county:monroe/council_district:14",
+   "name": "County Legislature, District 18",
+   "divisionId": "ocd-division/country:us/state:ny/county:orange/council_district:18",
    "officialIndices": [
     710
    ]
   },
   {
-   "name": "County Legislature, District 18",
-   "divisionId": "ocd-division/country:us/state:ny/county:orange/council_district:18",
+   "name": "County Legislature, District 14",
+   "divisionId": "ocd-division/country:us/state:ny/county:monroe/council_district:14",
    "officialIndices": [
     711
    ]
@@ -21148,19 +21148,19 @@
    ]
   },
   {
-   "name": "County Legislature, District 10",
-   "divisionId": "ocd-division/country:us/state:ny/county:lewis/council_district:10",
-   "officialIndices": [
-    750
-   ]
-  },
-  {
    "name": "County Legislature, District 3",
    "divisionId": "ocd-division/country:us/state:ny/county:yates/council_district:3",
    "officialIndices": [
+    750,
     751,
     752,
-    753,
+    753
+   ]
+  },
+  {
+   "name": "County Legislature, District 10",
+   "divisionId": "ocd-division/country:us/state:ny/county:lewis/council_district:10",
+   "officialIndices": [
     754
    ]
   },
@@ -21303,43 +21303,43 @@
    ]
   },
   {
-   "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:ny/county:onondaga",
+   "name": "County Legislature, District 18",
+   "divisionId": "ocd-division/country:us/state:ny/county:chautauqua/council_district:18",
    "officialIndices": [
     779
    ]
   },
   {
-   "name": "Comptroller",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ny/county:onondaga",
    "officialIndices": [
     780
    ]
   },
   {
-   "name": "County Clerk",
+   "name": "Comptroller",
    "divisionId": "ocd-division/country:us/state:ny/county:onondaga",
    "officialIndices": [
     781
    ]
   },
   {
-   "name": "County Executive",
+   "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:ny/county:onondaga",
    "officialIndices": [
     782
    ]
   },
   {
-   "name": "District Attorney",
+   "name": "County Executive",
    "divisionId": "ocd-division/country:us/state:ny/county:onondaga",
    "officialIndices": [
     783
    ]
   },
   {
-   "name": "County Legislature, District 18",
-   "divisionId": "ocd-division/country:us/state:ny/county:chautauqua/council_district:18",
+   "name": "District Attorney",
+   "divisionId": "ocd-division/country:us/state:ny/county:onondaga",
    "officialIndices": [
     784
    ]
@@ -22329,15 +22329,15 @@
    ]
   },
   {
-   "name": "Town Supervisor, Lake Luzerne",
-   "divisionId": "ocd-division/country:us/state:ny/county:warren/place:lake_luzerne",
+   "name": "County Legislature, District 6",
+   "divisionId": "ocd-division/country:us/state:ny/county:sullivan/council_district:6",
    "officialIndices": [
     941
    ]
   },
   {
-   "name": "County Legislature, District 6",
-   "divisionId": "ocd-division/country:us/state:ny/county:sullivan/council_district:6",
+   "name": "Town Supervisor, Lake Luzerne",
+   "divisionId": "ocd-division/country:us/state:ny/county:warren/place:lake_luzerne",
    "officialIndices": [
     942
    ]
@@ -23004,15 +23004,15 @@
    ]
   },
   {
-   "name": "Council, District 41",
-   "divisionId": "ocd-division/country:us/state:ny/place:new_york/council_district:41",
+   "name": "Town Supervisor, Hague",
+   "divisionId": "ocd-division/country:us/state:ny/county:warren/place:hague",
    "officialIndices": [
     1052
    ]
   },
   {
-   "name": "Town Supervisor, Hague",
-   "divisionId": "ocd-division/country:us/state:ny/county:warren/place:hague",
+   "name": "Council, District 41",
+   "divisionId": "ocd-division/country:us/state:ny/place:new_york/council_district:41",
    "officialIndices": [
     1053
    ]
@@ -25405,46 +25405,46 @@
    ]
   },
   {
-   "name": "County Legislature, District 8",
-   "divisionId": "ocd-division/country:us/state:ny/county:greene/council_district:9",
-   "officialIndices": [
-    1407
-   ]
-  },
-  {
    "name": "Coroner",
    "divisionId": "ocd-division/country:us/state:ny/county:niagara",
    "officialIndices": [
+    1407,
     1408,
     1409,
-    1410,
-    1411
+    1410
    ]
   },
   {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ny/county:niagara",
    "officialIndices": [
-    1412
+    1411
    ]
   },
   {
    "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:ny/county:niagara",
    "officialIndices": [
-    1413
+    1412
    ]
   },
   {
    "name": "County Treasurer",
    "divisionId": "ocd-division/country:us/state:ny/county:niagara",
    "officialIndices": [
-    1414
+    1413
    ]
   },
   {
    "name": "District Attorney/Public Defender",
    "divisionId": "ocd-division/country:us/state:ny/county:niagara",
+   "officialIndices": [
+    1414
+   ]
+  },
+  {
+   "name": "County Legislature, District 8",
+   "divisionId": "ocd-division/country:us/state:ny/county:greene/council_district:9",
    "officialIndices": [
     1415
    ]
@@ -25562,15 +25562,15 @@
    ]
   },
   {
-   "name": "Town Supervisor, Carlisle",
-   "divisionId": "ocd-division/country:us/state:ny/county:schoharie/place:carlisle",
+   "name": "County Legislature, District 1",
+   "divisionId": "ocd-division/country:us/state:ny/county:clinton/council_district:1",
    "officialIndices": [
     1432
    ]
   },
   {
-   "name": "County Legislature, District 1",
-   "divisionId": "ocd-division/country:us/state:ny/county:clinton/council_district:1",
+   "name": "Town Supervisor, Carlisle",
+   "divisionId": "ocd-division/country:us/state:ny/county:schoharie/place:carlisle",
    "officialIndices": [
     1433
    ]
@@ -25836,15 +25836,15 @@
    ]
   },
   {
-   "name": "County Legislature, District 12",
-   "divisionId": "ocd-division/country:us/state:ny/county:steuben/council_district:12",
+   "name": "Town Supervisor, Caledonia",
+   "divisionId": "ocd-division/country:us/state:ny/county:livingston/place:caledonia",
    "officialIndices": [
     1472
    ]
   },
   {
-   "name": "Town Supervisor, Caledonia",
-   "divisionId": "ocd-division/country:us/state:ny/county:livingston/place:caledonia",
+   "name": "County Legislature, District 12",
+   "divisionId": "ocd-division/country:us/state:ny/county:steuben/council_district:12",
    "officialIndices": [
     1473
    ]
@@ -34076,40 +34076,6 @@
    ]
   },
   {
-   "name": "Simcha Felder",
-   "address": [
-    {
-     "line1": "New York State Senate",
-     "line2": "Legislative Office Building",
-     "line3": "Room 944",
-     "city": "Albany",
-     "state": "NY",
-     "zip": "12247"
-    },
-    {
-     "line1": "1412 Avenue J Suite 2E",
-     "line2": "",
-     "line3": "",
-     "city": "Brooklyn",
-     "state": "NY",
-     "zip": "11230"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(212) 788-7357",
-    "(718) 853-2704",
-    "(718) 253-2015"
-   ],
-   "urls": [
-    "http://www.nysenate.gov/senator/simcha-felder"
-   ],
-   "photoUrl": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Felder-HS-012_web.jpg",
-   "emails": [
-    "felder@nysenate.gov"
-   ]
-  },
-  {
    "name": "Michelle Schimel",
    "address": [
     {
@@ -34145,6 +34111,75 @@
     {
      "type": "Twitter",
      "id": "MichelleSchimel"
+    }
+   ]
+  },
+  {
+   "name": "Simcha Felder",
+   "address": [
+    {
+     "line1": "New York State Senate",
+     "line2": "Legislative Office Building",
+     "line3": "Room 944",
+     "city": "Albany",
+     "state": "NY",
+     "zip": "12247"
+    },
+    {
+     "line1": "1412 Avenue J Suite 2E",
+     "line2": "",
+     "line3": "",
+     "city": "Brooklyn",
+     "state": "NY",
+     "zip": "11230"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(212) 788-7357",
+    "(718) 853-2704",
+    "(718) 253-2015"
+   ],
+   "urls": [
+    "http://www.nysenate.gov/senator/simcha-felder"
+   ],
+   "photoUrl": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Felder-HS-012_web.jpg",
+   "emails": [
+    "felder@nysenate.gov"
+   ]
+  },
+  {
+   "name": "Michael Montesano",
+   "address": [
+    {
+     "line1": "111 levittown parkway",
+     "city": "hicksville",
+     "state": "NY",
+     "zip": "11801"
+    },
+    {
+     "line1": "Room 437\nLegislative Office Bldg.",
+     "city": "albany",
+     "state": "NY",
+     "zip": "12248"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(516) 937-3571",
+    "(518) 455-4684"
+   ],
+   "urls": [
+    "http://assembly.state.ny.us/mem/Michael-Montesano"
+   ],
+   "photoUrl": "http://assembly.state.ny.us/mem/hdgimages/015_hdrhs.png",
+   "emails": [
+    "MontesanoM@assembly.state.ny.us"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "assemblyman.michael.montesano"
     }
    ]
   },
@@ -34189,41 +34224,6 @@
     {
      "type": "YouTube",
      "id": "UCSzrSVtqYOONZLFpBEfCmzw"
-    }
-   ]
-  },
-  {
-   "name": "Michael Montesano",
-   "address": [
-    {
-     "line1": "111 levittown parkway",
-     "city": "hicksville",
-     "state": "NY",
-     "zip": "11801"
-    },
-    {
-     "line1": "Room 437\nLegislative Office Bldg.",
-     "city": "albany",
-     "state": "NY",
-     "zip": "12248"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(516) 937-3571",
-    "(518) 455-4684"
-   ],
-   "urls": [
-    "http://assembly.state.ny.us/mem/Michael-Montesano"
-   ],
-   "photoUrl": "http://assembly.state.ny.us/mem/hdgimages/015_hdrhs.png",
-   "emails": [
-    "MontesanoM@assembly.state.ny.us"
-   ],
-   "channels": [
-    {
-     "type": "Facebook",
-     "id": "assemblyman.michael.montesano"
     }
    ]
   },
@@ -34297,33 +34297,6 @@
    ]
   },
   {
-   "name": "Leroy G. Comrie Jr.",
-   "address": [
-    {
-     "line1": "New York State Senate",
-     "line2": "Legislative Office Building",
-     "line3": "Room 918",
-     "city": "Albany",
-     "state": "NY",
-     "zip": "12247"
-    }
-   ],
-   "party": "Democratic",
-   "urls": [
-    "http://www.nysenate.gov/senator/leroy-comrie"
-   ],
-   "photoUrl": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2801-12-15%29%20Comrie-HS-079.jpg",
-   "emails": [
-    "Comrie@nysenate.gov"
-   ],
-   "channels": [
-    {
-     "type": "Twitter",
-     "id": "leroycomrie"
-    }
-   ]
-  },
-  {
    "name": "Charles Lavine",
    "address": [
     {
@@ -34358,6 +34331,33 @@
     {
      "type": "Twitter",
      "id": "Charles_Lavine"
+    }
+   ]
+  },
+  {
+   "name": "Leroy G. Comrie Jr.",
+   "address": [
+    {
+     "line1": "New York State Senate",
+     "line2": "Legislative Office Building",
+     "line3": "Room 918",
+     "city": "Albany",
+     "state": "NY",
+     "zip": "12247"
+    }
+   ],
+   "party": "Democratic",
+   "urls": [
+    "http://www.nysenate.gov/senator/leroy-comrie"
+   ],
+   "photoUrl": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2801-12-15%29%20Comrie-HS-079.jpg",
+   "emails": [
+    "Comrie@nysenate.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "leroycomrie"
     }
    ]
   },
@@ -38073,29 +38073,6 @@
    ]
   },
   {
-   "name": "Michael Park",
-   "address": [
-    {
-     "line1": "County Office Building",
-     "line2": "3rd Floor",
-     "line3": "60 central ave",
-     "city": "cortland",
-     "state": "NY",
-     "zip": "13045"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(607) 753-5049"
-   ],
-   "urls": [
-    "http://www.cortland-co.org/Legislature/ld11.html"
-   ],
-   "emails": [
-    "mpark@cortland-co.org"
-   ]
-  },
-  {
    "name": "Ralph Monforte",
    "address": [
     {
@@ -38129,6 +38106,29 @@
    ],
    "urls": [
     "https://www.madisoncounty.ny.gov/board-supervisors/home"
+   ]
+  },
+  {
+   "name": "Michael Park",
+   "address": [
+    {
+     "line1": "County Office Building",
+     "line2": "3rd Floor",
+     "line3": "60 central ave",
+     "city": "cortland",
+     "state": "NY",
+     "zip": "13045"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(607) 753-5049"
+   ],
+   "urls": [
+    "http://www.cortland-co.org/Legislature/ld11.html"
+   ],
+   "emails": [
+    "mpark@cortland-co.org"
    ]
   },
   {
@@ -38704,28 +38704,6 @@
    ]
   },
   {
-   "name": "Janet Hurley Quackenbush",
-   "address": [
-    {
-     "line1": "Board of Representatives County Office Building",
-     "line2": "197 main street",
-     "city": "cooperstown",
-     "state": "NY",
-     "zip": "13326"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(607) 547-4202"
-   ],
-   "urls": [
-    "http://www.otsegocounty.com/depts/bor/"
-   ],
-   "emails": [
-    "HurleyQuackenbushJ@OtsegoCounty.com"
-   ]
-  },
-  {
    "name": "Vincent DeMarco",
    "address": [
     {
@@ -38870,6 +38848,28 @@
    ]
   },
   {
+   "name": "Janet Hurley Quackenbush",
+   "address": [
+    {
+     "line1": "Board of Representatives County Office Building",
+     "line2": "197 main street",
+     "city": "cooperstown",
+     "state": "NY",
+     "zip": "13326"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(607) 547-4202"
+   ],
+   "urls": [
+    "http://www.otsegocounty.com/depts/bor/"
+   ],
+   "emails": [
+    "HurleyQuackenbushJ@OtsegoCounty.com"
+   ]
+  },
+  {
    "name": "Charles Evangelista",
    "address": [
     {
@@ -38914,25 +38914,6 @@
    ]
   },
   {
-   "name": "Donald L. Lindberg",
-   "address": [
-    {
-     "line1": "Board of Representatives County Office Building",
-     "line2": "197 main street",
-     "city": "cooperstown",
-     "state": "NY",
-     "zip": "13326"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(607) 547-4202"
-   ],
-   "urls": [
-    "http://www.otsegocounty.com/depts/bor/"
-   ]
-  },
-  {
    "name": "Charles Evangelista",
    "address": [
     {
@@ -38952,6 +38933,25 @@
    ],
    "emails": [
     "bos@co.ontario.ny.us"
+   ]
+  },
+  {
+   "name": "Donald L. Lindberg",
+   "address": [
+    {
+     "line1": "Board of Representatives County Office Building",
+     "line2": "197 main street",
+     "city": "cooperstown",
+     "state": "NY",
+     "zip": "13326"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(607) 547-4202"
+   ],
+   "urls": [
+    "http://www.otsegocounty.com/depts/bor/"
    ]
   },
   {
@@ -41262,19 +41262,6 @@
    ]
   },
   {
-   "name": "Aola Jackson",
-   "party": "Unknown",
-   "phones": [
-    "(607) 737-2066"
-   ],
-   "urls": [
-    "http://www.chemungcounty.com/index.asp?pageId=123"
-   ],
-   "emails": [
-    "ajackson@co.chemung.ny.us"
-   ]
-  },
-  {
    "name": "Kenneth Fort",
    "address": [
     {
@@ -41290,6 +41277,19 @@
    ],
    "emails": [
     "rtownsend@ocgov.net"
+   ]
+  },
+  {
+   "name": "Aola Jackson",
+   "party": "Unknown",
+   "phones": [
+    "(607) 737-2066"
+   ],
+   "urls": [
+    "http://www.chemungcounty.com/index.asp?pageId=123"
+   ],
+   "emails": [
+    "ajackson@co.chemung.ny.us"
    ]
   },
   {
@@ -43728,27 +43728,6 @@
    ]
   },
   {
-   "name": "Kenneth Rush",
-   "address": [
-    {
-     "line1": "3 s. main st.",
-     "city": "albion",
-     "state": "NY",
-     "zip": "14411"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(585) 589-7053"
-   ],
-   "urls": [
-    "http://www.orleansny.com/Government/Legislature.aspx"
-   ],
-   "emails": [
-    "Ken.Rush@orleansny.com"
-   ]
-  },
-  {
    "name": "Martha Sauerbrey",
    "address": [
     {
@@ -43770,18 +43749,24 @@
    ]
   },
   {
-   "name": "Wayne Marshfield",
+   "name": "Kenneth Rush",
    "address": [
     {
-     "line1": "111 main street",
-     "city": "delhi",
+     "line1": "3 s. main st.",
+     "city": "albion",
      "state": "NY",
-     "zip": "13753"
+     "zip": "14411"
     }
    ],
-   "party": "Democratic",
+   "party": "Unknown",
    "phones": [
-    "(607) 832-5110"
+    "(585) 589-7053"
+   ],
+   "urls": [
+    "http://www.orleansny.com/Government/Legislature.aspx"
+   ],
+   "emails": [
+    "Ken.Rush@orleansny.com"
    ]
   },
   {
@@ -43803,6 +43788,21 @@
    ],
    "emails": [
     "robertsm@co.tioga.ny.us"
+   ]
+  },
+  {
+   "name": "Wayne Marshfield",
+   "address": [
+    {
+     "line1": "111 main street",
+     "city": "delhi",
+     "state": "NY",
+     "zip": "13753"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(607) 832-5110"
    ]
   },
   {
@@ -45986,6 +45986,21 @@
    ]
   },
   {
+   "name": "Mike Anagnostakis",
+   "address": [
+    {
+     "line1": "15 matthews street",
+     "city": "goshen",
+     "state": "NY",
+     "zip": "10924"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(845) 291-4800"
+   ]
+  },
+  {
    "name": "John Howland",
    "address": [
     {
@@ -46008,7 +46023,7 @@
    ]
   },
   {
-   "name": "Mike Anagnostakis",
+   "name": "Roseanne Sullivan",
    "address": [
     {
      "line1": "15 matthews street",
@@ -46042,21 +46057,6 @@
    ],
    "emails": [
     "jfwilcox@frontiernet.net"
-   ]
-  },
-  {
-   "name": "Roseanne Sullivan",
-   "address": [
-    {
-     "line1": "15 matthews street",
-     "city": "goshen",
-     "state": "NY",
-     "zip": "10924"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(845) 291-4800"
    ]
   },
   {
@@ -46840,16 +46840,6 @@
    ]
   },
   {
-   "name": "Jerry King",
-   "party": "Unknown",
-   "phones": [
-    "(315) 942-4791"
-   ],
-   "urls": [
-    "http://lewiscountyny.org/content/Offices/View/12"
-   ]
-  },
-  {
    "name": "Leslie Church",
    "address": [
     {
@@ -46931,6 +46921,16 @@
    ],
    "emails": [
     "legislature@yatescounty.org"
+   ]
+  },
+  {
+   "name": "Jerry King",
+   "party": "Unknown",
+   "phones": [
+    "(315) 942-4791"
+   ],
+   "urls": [
+    "http://lewiscountyny.org/content/Offices/View/12"
    ]
   },
   {
@@ -47475,6 +47475,31 @@
    ]
   },
   {
+   "name": "Paul M. Wendel",
+   "address": [
+    {
+     "line1": "Gerace Office Building",
+     "line2": "3 north erie street",
+     "city": "mayville",
+     "state": "NY",
+     "zip": "14757"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(716) 753-4215"
+   ],
+   "emails": [
+    "legislatorpj@yahoo.com"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "ChautauquaGov"
+    }
+   ]
+  },
+  {
    "name": "Kevin Walsh",
    "address": [
     {
@@ -47577,31 +47602,6 @@
    "party": "Unknown",
    "phones": [
     "(315) 435-2470"
-   ]
-  },
-  {
-   "name": "Paul M. Wendel",
-   "address": [
-    {
-     "line1": "Gerace Office Building",
-     "line2": "3 north erie street",
-     "city": "mayville",
-     "state": "NY",
-     "zip": "14757"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(716) 753-4215"
-   ],
-   "emails": [
-    "legislatorpj@yahoo.com"
-   ],
-   "channels": [
-    {
-     "type": "Twitter",
-     "id": "ChautauquaGov"
-    }
    ]
   },
   {
@@ -50840,24 +50840,6 @@
    ]
   },
   {
-   "name": "Eugene Merlino",
-   "address": [
-    {
-     "line1": "Warren County Municipal Center 1340 State Rt. 9",
-     "city": "lake george",
-     "state": "NY",
-     "zip": "12845"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(518) 761-6563"
-   ],
-   "urls": [
-    "http://warrencountyny.gov/gov/bos.php"
-   ]
-  },
-  {
    "name": "Cora Edwards",
    "address": [
     {
@@ -50877,6 +50859,24 @@
    ],
    "emails": [
     "Cora.edwards@co.sullivan.ny.us"
+   ]
+  },
+  {
+   "name": "Eugene Merlino",
+   "address": [
+    {
+     "line1": "Warren County Municipal Center 1340 State Rt. 9",
+     "city": "lake george",
+     "state": "NY",
+     "zip": "12845"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(518) 761-6563"
+   ],
+   "urls": [
+    "http://warrencountyny.gov/gov/bos.php"
    ]
   },
   {
@@ -53083,6 +53083,24 @@
    ]
   },
   {
+   "name": "Edna A. Frasier",
+   "address": [
+    {
+     "line1": "Warren County Municipal Center 1340 State Rt. 9",
+     "city": "lake george",
+     "state": "NY",
+     "zip": "12845"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(518) 761-6563"
+   ],
+   "urls": [
+    "http://warrencountyny.gov/gov/bos.php"
+   ]
+  },
+  {
    "name": "Darlene Mealy",
    "address": [
     {
@@ -53108,24 +53126,6 @@
      "type": "Facebook",
      "id": "CityCouncilwomanDarleneMealy"
     }
-   ]
-  },
-  {
-   "name": "Edna A. Frasier",
-   "address": [
-    {
-     "line1": "Warren County Municipal Center 1340 State Rt. 9",
-     "city": "lake george",
-     "state": "NY",
-     "zip": "12845"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(518) 761-6563"
-   ],
-   "urls": [
-    "http://warrencountyny.gov/gov/bos.php"
    ]
   },
   {
@@ -60329,28 +60329,6 @@
    ]
   },
   {
-   "name": "Harry Lennon",
-   "address": [
-    {
-     "line1": "Suite 408 411 Main Street",
-     "line2": "4th Floor",
-     "city": "catskill",
-     "state": "NY",
-     "zip": "12414"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(518) 719-3270"
-   ],
-   "urls": [
-    "http://greenegovernment.com/legislature/elected-officials/"
-   ],
-   "emails": [
-    "hlennon@discovergreene.com"
-   ]
-  },
-  {
    "name": "Joseph V. Mantione",
    "address": [
     {
@@ -60521,6 +60499,28 @@
    ],
    "emails": [
     "ncda@niagaracounty.com"
+   ]
+  },
+  {
+   "name": "Harry Lennon",
+   "address": [
+    {
+     "line1": "Suite 408 411 Main Street",
+     "line2": "4th Floor",
+     "city": "catskill",
+     "state": "NY",
+     "zip": "12414"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(518) 719-3270"
+   ],
+   "urls": [
+    "http://greenegovernment.com/legislature/elected-officials/"
+   ],
+   "emails": [
+    "hlennon@discovergreene.com"
    ]
   },
   {
@@ -60845,27 +60845,6 @@
    ]
   },
   {
-   "name": "Larry Bradt",
-   "address": [
-    {
-     "line1": "P.O. Box 429",
-     "city": "schoharie",
-     "state": "NY",
-     "zip": "12157"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(518) 295-8347"
-   ],
-   "urls": [
-    "http://www.schohariecounty-ny.gov/CountyWebSite/BoardOfSupervisors/boardofsupervisorsoffice.html"
-   ],
-   "emails": [
-    "slargeteau@co.schoharie.ny.us"
-   ]
-  },
-  {
    "name": "Harry McManus",
    "address": [
     {
@@ -60884,6 +60863,27 @@
    ],
    "emails": [
     "harrymcmanus@gmail.com"
+   ]
+  },
+  {
+   "name": "Larry Bradt",
+   "address": [
+    {
+     "line1": "P.O. Box 429",
+     "city": "schoharie",
+     "state": "NY",
+     "zip": "12157"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(518) 295-8347"
+   ],
+   "urls": [
+    "http://www.schohariecounty-ny.gov/CountyWebSite/BoardOfSupervisors/boardofsupervisorsoffice.html"
+   ],
+   "emails": [
+    "slargeteau@co.schoharie.ny.us"
    ]
   },
   {
@@ -61670,24 +61670,6 @@
    ]
   },
   {
-   "name": "Gary Roush",
-   "address": [
-    {
-     "line1": "3 east pulteney square",
-     "city": "bath",
-     "state": "NY",
-     "zip": "14810"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(607) 664-2247"
-   ],
-   "urls": [
-    "http://www.steubencony.org/Pages.asp?PID=297"
-   ]
-  },
-  {
    "name": "Daniel Pangrazio",
    "address": [
     {
@@ -61706,6 +61688,24 @@
    ],
    "emails": [
     "vamico@co.livingston.ny.us"
+   ]
+  },
+  {
+   "name": "Gary Roush",
+   "address": [
+    {
+     "line1": "3 east pulteney square",
+     "city": "bath",
+     "state": "NY",
+     "zip": "14810"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(607) 664-2247"
+   ],
+   "urls": [
+    "http://www.steubencony.org/Pages.asp?PID=297"
    ]
   },
   {
