@@ -18,7 +18,7 @@ facebook: https://www.facebook.com/barackobama
 twitter: https://twitter.com/barackobama
 youtube: https://www.youtube.com/user/BarackObamadotcom
 wiki: http://en.wikipedia.org/wiki/Barack_Obama
-profile_pic:
+profile_pic: http://data.matchvote.com/images/2015/highprofile/Barack_Obama.png
 
 rep_status: In Office
 title: Vice President
@@ -40,7 +40,7 @@ facebook: https://www.facebook.com/joebiden
 twitter: https://twitter.com/joebiden
 youtube:
 wiki: http://en.wikipedia.org/wiki/Joe_Biden
-profile_pic:
+profile_pic: http://data.matchvote.com/images/2015/highprofile/Joe_Biden.png
 
 rep_status: In Office
 title: Secretary
@@ -62,7 +62,7 @@ facebook: https://www.facebook.com/johnkerry
 twitter: https://twitter.com/johnkerry
 youtube:
 wiki: http://en.wikipedia.org/wiki/John_Kerry
-profile_pic:
+profile_pic: http://data.matchvote.com/images/2015/highprofile/John_Kerry.png
 
 rep_status: Running
 title: Secretary
@@ -84,7 +84,7 @@ facebook: https://www.facebook.com/Hillary2016
 twitter: https://twitter.com/hillaryclinton
 youtube:
 wiki: http://en.wikipedia.org/wiki/Hillary_Rodham_Clinton
-profile_pic:
+profile_pic: http://data.matchvote.com/images/2015/highprofile/Hillary_Clinton.png
 
 rep_status: Out of Office
 title: Governor
@@ -106,7 +106,7 @@ facebook: https://www.facebook.com/mittromney
 twitter: https://twitter.com/mittromney
 youtube:
 wiki: http://en.wikipedia.org/wiki/Mitt_Romney
-profile_pic:
+profile_pic: http://data.matchvote.com/images/2015/highprofile/Mitt_Romney.png
 
 rep_status: Out of Office
 title: Vice President
@@ -128,11 +128,11 @@ facebook: https://www.facebook.com/algore
 twitter: https://twitter.com/algore
 youtube:
 wiki: http://en.wikipedia.org/wiki/Al_Gore
-profile_pic:
+profile_pic: http://data.matchvote.com/images/2015/highprofile/Al_Gore.png
 
 rep_status: Out of Office
 title: President
-first_name: George
+first_name: George W.
 last_name: Bush
 address:
 fax:
@@ -150,7 +150,7 @@ facebook: https://www.facebook.com/georgewbush
 twitter: https://twitter.com/georgewbush
 youtube:
 wiki: http://en.wikipedia.org/wiki/George_W._Bush
-profile_pic:
+profile_pic: http://data.matchvote.com/images/2015/highprofile/George_W_Bush.png
 
 rep_status: Out of Office
 title: President
@@ -172,7 +172,7 @@ facebook: https://www.facebook.com/billclinton
 twitter: https://twitter.com/billclinton
 youtube:
 wiki: http://en.wikipedia.org/wiki/Bill_Clinton
-profile_pic:
+profile_pic: http://data.matchvote.com/images/2015/highprofile/Bill_Clinton.png
 
 rep_status: Out of Office
 title: Governor
@@ -194,7 +194,7 @@ facebook: https://www.facebook.com/arnold
 twitter: https://twitter.com/schwarzenegger
 youtube: https://www.youtube.com/user/GovSchwarzenegger
 wiki: http://en.wikipedia.org/wiki/Arnold_Schwarzenegger
-profile_pic:
+profile_pic: http://data.matchvote.com/images/2015/highprofile/Arnold_Schwarzenegger.png
 
 rep_status: Out of Office
 title: Vice President
@@ -216,7 +216,7 @@ facebook:
 twitter:
 youtube:
 wiki: http://en.wikipedia.org/wiki/Dick_Cheney
-profile_pic:
+profile_pic: http://data.matchvote.com/images/2015/highprofile/Dick_Cheney.png
 
 rep_status: Out of Office
 title: Governor
@@ -238,7 +238,7 @@ facebook: https://www.facebook.com/sarahpalin
 twitter: https://twitter.com/sarahpalinusa
 youtube:
 wiki: http://en.wikipedia.org/wiki/Sarah_Palin
-profile_pic:
+profile_pic: http://data.matchvote.com/images/2015/highprofile/Sarah_Palin.png
 
 rep_status: Out of Office
 title: Senator
@@ -260,4 +260,4 @@ facebook: https://www.facebook.com/ronpaul
 twitter: https://twitter.com/ronpaul
 youtube: https://www.youtube.com/user/ronpaul
 wiki: http://en.wikipedia.org/wiki/Ron_Paul
-profile_pic:
+profile_pic: http://data.matchvote.com/images/2015/highprofile/Ron_Paul.png
