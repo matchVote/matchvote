@@ -1,0 +1,6795 @@
+{
+ "divisions": {
+  "ocd-division/country:us/state:de/sldl:35/precinct:4": {
+   "name": "Delaware precinct 04-35"
+  },
+  "ocd-division/country:us/state:de/sldl:35/precinct:3": {
+   "name": "Delaware precinct 03-35"
+  },
+  "ocd-division/country:us/state:de/sldl:35/precinct:6": {
+   "name": "Delaware precinct 06-35"
+  },
+  "ocd-division/country:us/state:de/sldl:35/precinct:5": {
+   "name": "Delaware precinct 05-35"
+  },
+  "ocd-division/country:us/state:de/sldl:35/precinct:7": {
+   "name": "Delaware precinct 07-35"
+  },
+  "ocd-division/country:us/state:de/sldl:26/precinct:3": {
+   "name": "Delaware precinct 03-26"
+  },
+  "ocd-division/country:us/state:de/sldl:26/precinct:4": {
+   "name": "Delaware precinct 04-26"
+  },
+  "ocd-division/country:us/state:de/sldl:26/precinct:1": {
+   "name": "Delaware precinct 01-26"
+  },
+  "ocd-division/country:us/state:de/sldl:26/precinct:2": {
+   "name": "Delaware precinct 02-26"
+  },
+  "ocd-division/country:us/state:de/place:woodside": {
+   "name": "Woodside town"
+  },
+  "ocd-division/country:us/state:de/county:kent/school_district:polytech_school_district": {
+   "name": "polytech school district"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:moyer_maurice_j._academy": {
+   "name": "moyer (maurice j.) academy"
+  },
+  "ocd-division/country:us/state:de/place:millsboro": {
+   "name": "Millsboro town"
+  },
+  "ocd-division/country:us/state:de/place:smyrna": {
+   "name": "Smyrna town"
+  },
+  "ocd-division/country:us/state:de/sldl:9/precinct:1": {
+   "name": "Delaware precinct 01-09"
+  },
+  "ocd-division/country:us/state:de/sldl:9/precinct:6": {
+   "name": "Delaware precinct 06-09"
+  },
+  "ocd-division/country:us/state:de/sldl:9/precinct:7": {
+   "name": "Delaware precinct 07-09"
+  },
+  "ocd-division/country:us/state:de/sldl:9/precinct:8": {
+   "name": "Delaware precinct 08-09"
+  },
+  "ocd-division/country:us/state:de/sldl:9/precinct:9": {
+   "name": "Delaware precinct 09-09"
+  },
+  "ocd-division/country:us/state:de/sldl:39": {
+   "name": "Delaware State House district 39",
+   "officeIndices": [
+    2
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:9/precinct:2": {
+   "name": "Delaware precinct 02-09"
+  },
+  "ocd-division/country:us/state:de/sldl:9/precinct:3": {
+   "name": "Delaware precinct 03-09"
+  },
+  "ocd-division/country:us/state:de/sldl:37": {
+   "name": "Delaware State House district 37",
+   "officeIndices": [
+    3
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:9/precinct:4": {
+   "name": "Delaware precinct 04-09"
+  },
+  "ocd-division/country:us/state:de/sldl:9/precinct:5": {
+   "name": "Delaware precinct 05-09"
+  },
+  "ocd-division/country:us/state:de/sldl:38": {
+   "name": "Delaware State House district 38",
+   "officeIndices": [
+    4
+   ]
+  },
+  "ocd-division/country:us/state:de/county:kent/school_district:capital_school_district": {
+   "name": "capital school district"
+  },
+  "ocd-division/country:us/state:de/county:kent/school_district:campus_community_charter_school": {
+   "name": "campus community charter school"
+  },
+  "ocd-division/country:us/state:de/sldl:34/precinct:11": {
+   "name": "Delaware precinct 11-34"
+  },
+  "ocd-division/country:us/state:de/sldl:34/precinct:10": {
+   "name": "Delaware precinct 10-34"
+  },
+  "ocd-division/country:us/state:de/sldl:35/precinct:1": {
+   "name": "Delaware precinct 01-35"
+  },
+  "ocd-division/country:us/state:de/sldl:35/precinct:2": {
+   "name": "Delaware precinct 02-35"
+  },
+  "ocd-division/country:us/state:de/sldl:41": {
+   "name": "Delaware State House district 41",
+   "officeIndices": [
+    5
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:40": {
+   "name": "Delaware State House district 40",
+   "officeIndices": [
+    6
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:17/precinct:5": {
+   "name": "Delaware precinct 05-17"
+  },
+  "ocd-division/country:us/state:de/sldl:17/precinct:6": {
+   "name": "Delaware precinct 06-17"
+  },
+  "ocd-division/country:us/state:de/sldl:11/precinct:9": {
+   "name": "Delaware precinct 09-11"
+  },
+  "ocd-division/country:us/state:de/sldl:17/precinct:3": {
+   "name": "Delaware precinct 03-17"
+  },
+  "ocd-division/country:us/state:de/place:kenton": {
+   "name": "Kenton town"
+  },
+  "ocd-division/country:us/state:de/sldl:17/precinct:4": {
+   "name": "Delaware precinct 04-17"
+  },
+  "ocd-division/country:us/state:de/sldl:17/precinct:1": {
+   "name": "Delaware precinct 01-17"
+  },
+  "ocd-division/country:us/state:de/sldl:17/precinct:2": {
+   "name": "Delaware precinct 02-17"
+  },
+  "ocd-division/country:us/state:de/sldl:11/precinct:2": {
+   "name": "Delaware precinct 02-11"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:new_castle_county_vocational-technical_school_district": {
+   "name": "new castle county vocational-technical school district"
+  },
+  "ocd-division/country:us/state:de/sldl:11/precinct:1": {
+   "name": "Delaware precinct 01-11"
+  },
+  "ocd-division/country:us/state:de/sldl:11/precinct:4": {
+   "name": "Delaware precinct 04-11"
+  },
+  "ocd-division/country:us/state:de/sldl:11/precinct:3": {
+   "name": "Delaware precinct 03-11"
+  },
+  "ocd-division/country:us/state:de/sldl:11/precinct:6": {
+   "name": "Delaware precinct 06-11"
+  },
+  "ocd-division/country:us/state:de/sldl:11/precinct:5": {
+   "name": "Delaware precinct 05-11"
+  },
+  "ocd-division/country:us/state:de/sldl:11/precinct:8": {
+   "name": "Delaware precinct 08-11"
+  },
+  "ocd-division/country:us/state:de/sldl:11/precinct:7": {
+   "name": "Delaware precinct 07-11"
+  },
+  "ocd-division/country:us/state:de/sldl:25/precinct:2": {
+   "name": "Delaware precinct 02-25"
+  },
+  "ocd-division/country:us/state:de/sldl:25/precinct:3": {
+   "name": "Delaware precinct 03-25"
+  },
+  "ocd-division/country:us/state:de/sldl:25/precinct:1": {
+   "name": "Delaware precinct 01-25"
+  },
+  "ocd-division/country:us/state:de/place:seaford": {
+   "name": "Seaford city"
+  },
+  "ocd-division/country:us/state:de/place:lewes": {
+   "name": "Lewes city"
+  },
+  "ocd-division/country:us/state:de/sldl:25/precinct:8": {
+   "name": "Delaware precinct 08-25"
+  },
+  "ocd-division/country:us/state:de/place:arden": {
+   "name": "Arden village"
+  },
+  "ocd-division/country:us/state:de/sldl:25/precinct:5": {
+   "name": "Delaware precinct 05-25"
+  },
+  "ocd-division/country:us/state:de/sldl:25/precinct:4": {
+   "name": "Delaware precinct 04-25"
+  },
+  "ocd-division/country:us/state:de/sldl:25/precinct:7": {
+   "name": "Delaware precinct 07-25"
+  },
+  "ocd-division/country:us/state:de/sldl:25/precinct:6": {
+   "name": "Delaware precinct 06-25"
+  },
+  "ocd-division/country:us/state:de/sldl:26/precinct:9": {
+   "name": "Delaware precinct 09-26"
+  },
+  "ocd-division/country:us/state:de/sldl:26/precinct:6": {
+   "name": "Delaware precinct 06-26"
+  },
+  "ocd-division/country:us/state:de/sldl:26/precinct:5": {
+   "name": "Delaware precinct 05-26"
+  },
+  "ocd-division/country:us/state:de/sldl:26/precinct:8": {
+   "name": "Delaware precinct 08-26"
+  },
+  "ocd-division/country:us/state:de/sldl:26/precinct:7": {
+   "name": "Delaware precinct 07-26"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:10": {
+   "name": "Delaware precinct 10-13"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:11": {
+   "name": "Delaware precinct 11-13"
+  },
+  "ocd-division/country:us/state:de/sldl:18/precinct:8": {
+   "name": "Delaware precinct 08-18"
+  },
+  "ocd-division/country:us/state:de/sldl:18/precinct:9": {
+   "name": "Delaware precinct 09-18"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:14": {
+   "name": "Delaware precinct 14-13"
+  },
+  "ocd-division/country:us/state:de/sldl:17/precinct:8": {
+   "name": "Delaware precinct 08-17"
+  },
+  "ocd-division/country:us/state:de/sldl:17/precinct:7": {
+   "name": "Delaware precinct 07-17"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:12": {
+   "name": "Delaware precinct 12-13"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:13": {
+   "name": "Delaware precinct 13-13"
+  },
+  "ocd-division/country:us/state:de/sldl:17/precinct:9": {
+   "name": "Delaware precinct 09-17"
+  },
+  "ocd-division/country:us/state:de/sldl:31/precinct:11": {
+   "name": "Delaware precinct 11-31"
+  },
+  "ocd-division/country:us/state:de/sldl:31/precinct:10": {
+   "name": "Delaware precinct 10-31"
+  },
+  "ocd-division/country:us/state:de/county:sussex/school_district:laurel_school_district": {
+   "name": "laurel school district"
+  },
+  "ocd-division/country:us/state:de/sldl:7/precinct:10": {
+   "name": "Delaware precinct 10-07"
+  },
+  "ocd-division/country:us/state:de/place:new_castle": {
+   "name": "New Castle city"
+  },
+  "ocd-division/country:us/state:de/sldl:18/precinct:4": {
+   "name": "Delaware precinct 04-18"
+  },
+  "ocd-division/country:us/state:de/sldl:18/precinct:5": {
+   "name": "Delaware precinct 05-18"
+  },
+  "ocd-division/country:us/state:de/place:henlopen_acres": {
+   "name": "Henlopen Acres town"
+  },
+  "ocd-division/country:us/state:de/sldl:18/precinct:6": {
+   "name": "Delaware precinct 06-18"
+  },
+  "ocd-division/country:us/state:de/sldl:18/precinct:7": {
+   "name": "Delaware precinct 07-18"
+  },
+  "ocd-division/country:us/state:de/sldl:16/precinct:7": {
+   "name": "Delaware precinct 07-16"
+  },
+  "ocd-division/country:us/state:de/sldl:18/precinct:1": {
+   "name": "Delaware precinct 01-18"
+  },
+  "ocd-division/country:us/state:de/sldl:16/precinct:6": {
+   "name": "Delaware precinct 06-16"
+  },
+  "ocd-division/country:us/state:de/sldl:18/precinct:2": {
+   "name": "Delaware precinct 02-18"
+  },
+  "ocd-division/country:us/state:de/sldl:16/precinct:9": {
+   "name": "Delaware precinct 09-16"
+  },
+  "ocd-division/country:us/state:de/sldl:18/precinct:3": {
+   "name": "Delaware precinct 03-18"
+  },
+  "ocd-division/country:us/state:de/sldl:16/precinct:8": {
+   "name": "Delaware precinct 08-16"
+  },
+  "ocd-division/country:us/state:de/place:newport": {
+   "name": "Newport town"
+  },
+  "ocd-division/country:us/state:de/sldl:11": {
+   "name": "Delaware State House district 11",
+   "officeIndices": [
+    7
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:12": {
+   "name": "Delaware State House district 12",
+   "officeIndices": [
+    8
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:6/precinct:2": {
+   "name": "Delaware precinct 02-06"
+  },
+  "ocd-division/country:us/state:de/sldl:13": {
+   "name": "Delaware State House district 13",
+   "officeIndices": [
+    9
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:6/precinct:1": {
+   "name": "Delaware precinct 01-06"
+  },
+  "ocd-division/country:us/state:de/sldl:14": {
+   "name": "Delaware State House district 14",
+   "officeIndices": [
+    10
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:6/precinct:4": {
+   "name": "Delaware precinct 04-06"
+  },
+  "ocd-division/country:us/state:de/sldl:30/precinct:11": {
+   "name": "Delaware precinct 11-30"
+  },
+  "ocd-division/country:us/state:de/sldl:6/precinct:3": {
+   "name": "Delaware precinct 03-06"
+  },
+  "ocd-division/country:us/state:de/sldl:30/precinct:12": {
+   "name": "Delaware precinct 12-30"
+  },
+  "ocd-division/country:us/state:de/sldl:6/precinct:6": {
+   "name": "Delaware precinct 06-06"
+  },
+  "ocd-division/country:us/state:de/sldl:6/precinct:5": {
+   "name": "Delaware precinct 05-06"
+  },
+  "ocd-division/country:us/state:de/sldl:30/precinct:10": {
+   "name": "Delaware precinct 10-30"
+  },
+  "ocd-division/country:us/state:de/sldl:10": {
+   "name": "Delaware State House district 10",
+   "officeIndices": [
+    11
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:6/precinct:8": {
+   "name": "Delaware precinct 08-06"
+  },
+  "ocd-division/country:us/state:de/sldl:6/precinct:7": {
+   "name": "Delaware precinct 07-06"
+  },
+  "ocd-division/country:us/state:de/sldl:31/precinct:16": {
+   "name": "Delaware precinct 16-31"
+  },
+  "ocd-division/country:us/state:de/sldl:6/precinct:9": {
+   "name": "Delaware precinct 09-06"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:pencader_business_and_finance_charter_high_school": {
+   "name": "pencader business and finance charter high school"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:red_clay_consolidated_school_district": {
+   "name": "red clay consolidated school district"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:christina_school_district": {
+   "name": "christina school district"
+  },
+  "ocd-division/country:us/state:de/place:dover": {
+   "name": "Dover city"
+  },
+  "ocd-division/country:us/state:de/sldl:3/precinct:2": {
+   "name": "Delaware precinct 02-03"
+  },
+  "ocd-division/country:us/state:de/place:ocean_view": {
+   "name": "Ocean View town"
+  },
+  "ocd-division/country:us/state:de/sldl:3/precinct:3": {
+   "name": "Delaware precinct 03-03"
+  },
+  "ocd-division/country:us/state:de/sldl:3/precinct:1": {
+   "name": "Delaware precinct 01-03"
+  },
+  "ocd-division/country:us/state:de/sldl:3/precinct:6": {
+   "name": "Delaware precinct 06-03"
+  },
+  "ocd-division/country:us/state:de/sldl:3/precinct:7": {
+   "name": "Delaware precinct 07-03"
+  },
+  "ocd-division/country:us/state:de/sldl:3/precinct:4": {
+   "name": "Delaware precinct 04-03"
+  },
+  "ocd-division/country:us/state:de/sldl:3/precinct:5": {
+   "name": "Delaware precinct 05-03"
+  },
+  "ocd-division/country:us/state:de/sldl:3/precinct:8": {
+   "name": "Delaware precinct 08-03"
+  },
+  "ocd-division/country:us/state:de/sldl:3/precinct:9": {
+   "name": "Delaware precinct 09-03"
+  },
+  "ocd-division/country:us/state:de/place:wilmington/council_district:8": {
+   "name": "Wilmington DE city council district 8",
+   "officeIndices": [
+    66
+   ]
+  },
+  "ocd-division/country:us/state:de/place:wilmington/council_district:7": {
+   "name": "Wilmington DE city council district 7",
+   "officeIndices": [
+    67
+   ]
+  },
+  "ocd-division/country:us/state:de/place:wilmington/council_district:4": {
+   "name": "Wilmington DE city council district 4",
+   "officeIndices": [
+    68
+   ]
+  },
+  "ocd-division/country:us/state:de/place:wilmington/council_district:3": {
+   "name": "Wilmington DE city council district 3",
+   "officeIndices": [
+    69
+   ]
+  },
+  "ocd-division/country:us/state:de/place:wilmington/council_district:6": {
+   "name": "Wilmington DE city council district 6",
+   "officeIndices": [
+    70
+   ]
+  },
+  "ocd-division/country:us/state:de/place:milton": {
+   "name": "Milton town"
+  },
+  "ocd-division/country:us/state:de/place:wilmington/council_district:5": {
+   "name": "Wilmington DE city council district 5",
+   "officeIndices": [
+    71
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:7/precinct:9": {
+   "name": "Delaware precinct 09-07"
+  },
+  "ocd-division/country:us/state:de/sldl:7/precinct:8": {
+   "name": "Delaware precinct 08-07"
+  },
+  "ocd-division/country:us/state:de/place:wilmington/council_district:1": {
+   "name": "Wilmington DE city council district 1",
+   "officeIndices": [
+    72
+   ]
+  },
+  "ocd-division/country:us/state:de/place:wilmington/council_district:2": {
+   "name": "Wilmington DE city council district 2",
+   "officeIndices": [
+    73
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:7/precinct:3": {
+   "name": "Delaware precinct 03-07"
+  },
+  "ocd-division/country:us/state:de/sldl:27": {
+   "name": "Delaware State House district 27",
+   "officeIndices": [
+    12
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:7/precinct:2": {
+   "name": "Delaware precinct 02-07"
+  },
+  "ocd-division/country:us/state:de/sldl:26": {
+   "name": "Delaware State House district 26",
+   "officeIndices": [
+    13
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:7/precinct:1": {
+   "name": "Delaware precinct 01-07"
+  },
+  "ocd-division/country:us/state:de/sldl:29": {
+   "name": "Delaware State House district 29",
+   "officeIndices": [
+    14
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:28": {
+   "name": "Delaware State House district 28",
+   "officeIndices": [
+    15
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:7/precinct:7": {
+   "name": "Delaware precinct 07-07"
+  },
+  "ocd-division/country:us/state:de/county:kent/school_district:caesar_rodney_school_district": {
+   "name": "caesar rodney school district"
+  },
+  "ocd-division/country:us/state:de/sldl:7/precinct:6": {
+   "name": "Delaware precinct 06-07"
+  },
+  "ocd-division/country:us/state:de/sldl:7/precinct:5": {
+   "name": "Delaware precinct 05-07"
+  },
+  "ocd-division/country:us/state:de/sldl:7/precinct:4": {
+   "name": "Delaware precinct 04-07"
+  },
+  "ocd-division/country:us/state:de/sldl:14/precinct:6": {
+   "name": "Delaware precinct 06-14"
+  },
+  "ocd-division/country:us/state:de/sldl:30": {
+   "name": "Delaware State House district 30",
+   "officeIndices": [
+    16
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:14/precinct:7": {
+   "name": "Delaware precinct 07-14"
+  },
+  "ocd-division/country:us/state:de/sldl:31": {
+   "name": "Delaware State House district 31",
+   "officeIndices": [
+    17
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:14/precinct:4": {
+   "name": "Delaware precinct 04-14"
+  },
+  "ocd-division/country:us/state:de/sldl:32": {
+   "name": "Delaware State House district 32",
+   "officeIndices": [
+    18
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:14/precinct:5": {
+   "name": "Delaware precinct 05-14"
+  },
+  "ocd-division/country:us/state:de/sldl:33": {
+   "name": "Delaware State House district 33",
+   "officeIndices": [
+    19
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:34": {
+   "name": "Delaware State House district 34",
+   "officeIndices": [
+    20
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:35": {
+   "name": "Delaware State House district 35",
+   "officeIndices": [
+    21
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:36": {
+   "name": "Delaware State House district 36",
+   "officeIndices": [
+    22
+   ]
+  },
+  "ocd-division/country:us/state:de/place:ardentown": {
+   "name": "Ardentown village"
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:5": {
+   "name": "Delaware precinct 05-04"
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:6": {
+   "name": "Delaware precinct 06-04"
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:7": {
+   "name": "Delaware precinct 07-04"
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:8": {
+   "name": "Delaware precinct 08-04"
+  },
+  "ocd-division/country:us/state:de/place:clayton": {
+   "name": "Clayton town"
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:9": {
+   "name": "Delaware precinct 09-04"
+  },
+  "ocd-division/country:us/state:de/county:sussex/school_district:woodbridge_school_district": {
+   "name": "woodbridge school district"
+  },
+  "ocd-division/country:us/state:de/sldl:18": {
+   "name": "Delaware State House district 18",
+   "officeIndices": [
+    23
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:17": {
+   "name": "Delaware State House district 17",
+   "officeIndices": [
+    24
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:16": {
+   "name": "Delaware State House district 16",
+   "officeIndices": [
+    25
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:15": {
+   "name": "Delaware State House district 15",
+   "officeIndices": [
+    26
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:1": {
+   "name": "Delaware precinct 01-04"
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:2": {
+   "name": "Delaware precinct 02-04"
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:3": {
+   "name": "Delaware precinct 03-04"
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:4": {
+   "name": "Delaware precinct 04-04"
+  },
+  "ocd-division/country:us/state:de/sldl:19": {
+   "name": "Delaware State House district 19",
+   "officeIndices": [
+    27
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:20": {
+   "name": "Delaware State House district 20",
+   "officeIndices": [
+    28
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:21": {
+   "name": "Delaware State House district 21",
+   "officeIndices": [
+    29
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:16/precinct:1": {
+   "name": "Delaware precinct 01-16"
+  },
+  "ocd-division/country:us/state:de/sldl:24": {
+   "name": "Delaware State House district 24",
+   "officeIndices": [
+    30
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:16/precinct:4": {
+   "name": "Delaware precinct 04-16"
+  },
+  "ocd-division/country:us/state:de/sldl:25": {
+   "name": "Delaware State House district 25",
+   "officeIndices": [
+    31
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:16/precinct:5": {
+   "name": "Delaware precinct 05-16"
+  },
+  "ocd-division/country:us/state:de/sldl:22": {
+   "name": "Delaware State House district 22",
+   "officeIndices": [
+    32
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:16/precinct:2": {
+   "name": "Delaware precinct 02-16"
+  },
+  "ocd-division/country:us/state:de/sldl:23": {
+   "name": "Delaware State House district 23",
+   "officeIndices": [
+    33
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:16/precinct:3": {
+   "name": "Delaware precinct 03-16"
+  },
+  "ocd-division/country:us/state:de/place:wyoming": {
+   "name": "Wyoming town"
+  },
+  "ocd-division/country:us/state:de/place:ardencroft": {
+   "name": "Ardencroft village"
+  },
+  "ocd-division/country:us/state:de/place:dagsboro": {
+   "name": "Dagsboro town"
+  },
+  "ocd-division/country:us/state:de/sldl:6/precinct:12": {
+   "name": "Delaware precinct 12-06"
+  },
+  "ocd-division/country:us/state:de/place:leipsic": {
+   "name": "Leipsic town"
+  },
+  "ocd-division/country:us/state:de/sldl:16/precinct:10": {
+   "name": "Delaware precinct 10-16"
+  },
+  "ocd-division/country:us/state:de/county:kent/council_district:1": {
+   "name": "Kent County District 1",
+   "officeIndices": [
+    74
+   ]
+  },
+  "ocd-division/country:us/state:de/county:sussex/school_district:milford_school_district": {
+   "name": "milford school district"
+  },
+  "ocd-division/country:us/state:de/sldl:6/precinct:11": {
+   "name": "Delaware precinct 11-06"
+  },
+  "ocd-division/country:us/state:de/sldl:6/precinct:10": {
+   "name": "Delaware precinct 10-06"
+  },
+  "ocd-division/country:us/state:de/place:bellefonte": {
+   "name": "Bellefonte town"
+  },
+  "ocd-division/country:us/state:de/place:frankford": {
+   "name": "Frankford town"
+  },
+  "ocd-division/country:us/state:de/sldl:36/precinct:1": {
+   "name": "Delaware precinct 01-36"
+  },
+  "ocd-division/country:us/state:de/sldl:36/precinct:2": {
+   "name": "Delaware precinct 02-36"
+  },
+  "ocd-division/country:us/state:de/sldl:36/precinct:3": {
+   "name": "Delaware precinct 03-36"
+  },
+  "ocd-division/country:us/state:de/sldl:33/precinct:7": {
+   "name": "Delaware precinct 07-33"
+  },
+  "ocd-division/country:us/state:de/sldl:33/precinct:8": {
+   "name": "Delaware precinct 08-33"
+  },
+  "ocd-division/country:us/state:de/sldl:33/precinct:5": {
+   "name": "Delaware precinct 05-33"
+  },
+  "ocd-division/country:us/state:de/sldl:33/precinct:6": {
+   "name": "Delaware precinct 06-33"
+  },
+  "ocd-division/country:us/state:de/sldl:33/precinct:3": {
+   "name": "Delaware precinct 03-33"
+  },
+  "ocd-division/country:us/state:de/sldl:33/precinct:4": {
+   "name": "Delaware precinct 04-33"
+  },
+  "ocd-division/country:us/state:de/place:slaughter_beach": {
+   "name": "Slaughter Beach town"
+  },
+  "ocd-division/country:us/state:de/sldl:33/precinct:1": {
+   "name": "Delaware precinct 01-33"
+  },
+  "ocd-division/country:us/state:de/sldl:33/precinct:2": {
+   "name": "Delaware precinct 02-33"
+  },
+  "ocd-division/country:us/state:de/sldl:36/precinct:7": {
+   "name": "Delaware precinct 07-36"
+  },
+  "ocd-division/country:us/state:de/sldl:36/precinct:6": {
+   "name": "Delaware precinct 06-36"
+  },
+  "ocd-division/country:us/state:de/sldl:36/precinct:5": {
+   "name": "Delaware precinct 05-36"
+  },
+  "ocd-division/country:us/state:de/sldl:36/precinct:4": {
+   "name": "Delaware precinct 04-36"
+  },
+  "ocd-division/country:us/state:de/sldl:36/precinct:9": {
+   "name": "Delaware precinct 09-36"
+  },
+  "ocd-division/country:us/state:de/sldl:33/precinct:9": {
+   "name": "Delaware precinct 09-33"
+  },
+  "ocd-division/country:us/state:de/sldl:36/precinct:8": {
+   "name": "Delaware precinct 08-36"
+  },
+  "ocd-division/country:us/state:de/sldu:8": {
+   "name": "Delaware State Senate district 8",
+   "officeIndices": [
+    34
+   ]
+  },
+  "ocd-division/country:us/state:de/sldu:7": {
+   "name": "Delaware State Senate district 7",
+   "officeIndices": [
+    35
+   ]
+  },
+  "ocd-division/country:us/state:de/sldu:9": {
+   "name": "Delaware State Senate district 9",
+   "officeIndices": [
+    36
+   ]
+  },
+  "ocd-division/country:us/state:de/sldu:4": {
+   "name": "Delaware State Senate district 4",
+   "officeIndices": [
+    37
+   ]
+  },
+  "ocd-division/country:us/state:de/sldu:3": {
+   "name": "Delaware State Senate district 3",
+   "officeIndices": [
+    38
+   ]
+  },
+  "ocd-division/country:us/state:de/sldu:6": {
+   "name": "Delaware State Senate district 6",
+   "officeIndices": [
+    39
+   ]
+  },
+  "ocd-division/country:us/state:de/sldu:5": {
+   "name": "Delaware State Senate district 5",
+   "officeIndices": [
+    40
+   ]
+  },
+  "ocd-division/country:us/state:de/county:sussex/school_district:sussex_technical_school_district": {
+   "name": "sussex technical school district"
+  },
+  "ocd-division/country:us/state:de/county:sussex/council_district:1": {
+   "name": "Sussex County District 1",
+   "officeIndices": [
+    75
+   ]
+  },
+  "ocd-division/country:us/state:de/place:felton": {
+   "name": "Felton town"
+  },
+  "ocd-division/country:us/state:de/county:sussex/council_district:2": {
+   "name": "Sussex County District 2",
+   "officeIndices": [
+    76
+   ]
+  },
+  "ocd-division/country:us/state:de/county:sussex/council_district:5": {
+   "name": "Sussex County District 5",
+   "officeIndices": [
+    77
+   ]
+  },
+  "ocd-division/country:us/state:de/county:sussex/council_district:3": {
+   "name": "Sussex County District 3",
+   "officeIndices": [
+    78
+   ]
+  },
+  "ocd-division/country:us/state:de/county:sussex/council_district:4": {
+   "name": "Sussex County District 4",
+   "officeIndices": [
+    79
+   ]
+  },
+  "ocd-division/country:us/state:de/sldu:1": {
+   "name": "Delaware State Senate district 1",
+   "officeIndices": [
+    41
+   ]
+  },
+  "ocd-division/country:us/state:de/sldu:2": {
+   "name": "Delaware State Senate district 2",
+   "officeIndices": [
+    42
+   ]
+  },
+  "ocd-division/country:us/state:de/county:kent/council_district:6": {
+   "name": "Kent County District 6",
+   "officeIndices": [
+    80
+   ]
+  },
+  "ocd-division/country:us/state:de/county:kent/council_district:3": {
+   "name": "Kent County District 3",
+   "officeIndices": [
+    81
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:20/precinct:9": {
+   "name": "Delaware precinct 09-20"
+  },
+  "ocd-division/country:us/state:de/county:kent/council_district:2": {
+   "name": "Kent County District 2",
+   "officeIndices": [
+    82
+   ]
+  },
+  "ocd-division/country:us/state:de/county:kent/council_district:5": {
+   "name": "Kent County District 5",
+   "officeIndices": [
+    83
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:20/precinct:7": {
+   "name": "Delaware precinct 07-20"
+  },
+  "ocd-division/country:us/state:de/county:kent/council_district:4": {
+   "name": "Kent County District 4",
+   "officeIndices": [
+    84
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:20/precinct:8": {
+   "name": "Delaware precinct 08-20"
+  },
+  "ocd-division/country:us/state:de/sldl:20/precinct:5": {
+   "name": "Delaware precinct 05-20"
+  },
+  "ocd-division/country:us/state:de/sldl:20/precinct:6": {
+   "name": "Delaware precinct 06-20"
+  },
+  "ocd-division/country:us/state:de/sldl:20/precinct:3": {
+   "name": "Delaware precinct 03-20"
+  },
+  "ocd-division/country:us/state:de/sldl:20/precinct:4": {
+   "name": "Delaware precinct 04-20"
+  },
+  "ocd-division/country:us/state:de/sldl:20/precinct:1": {
+   "name": "Delaware precinct 01-20"
+  },
+  "ocd-division/country:us/state:de/sldl:20/precinct:2": {
+   "name": "Delaware precinct 02-20"
+  },
+  "ocd-division/country:us/state:de/place:harrington": {
+   "name": "Harrington city"
+  },
+  "ocd-division/country:us/state:de/sldl:29/precinct:6": {
+   "name": "Delaware precinct 06-29"
+  },
+  "ocd-division/country:us/state:de/sldl:29/precinct:7": {
+   "name": "Delaware precinct 07-29"
+  },
+  "ocd-division/country:us/state:de/sldl:29/precinct:4": {
+   "name": "Delaware precinct 04-29"
+  },
+  "ocd-division/country:us/state:de/sldl:29/precinct:5": {
+   "name": "Delaware precinct 05-29"
+  },
+  "ocd-division/country:us/state:de/sldl:29/precinct:2": {
+   "name": "Delaware precinct 02-29"
+  },
+  "ocd-division/country:us/state:de/sldl:21/precinct:8": {
+   "name": "Delaware precinct 08-21"
+  },
+  "ocd-division/country:us/state:de/sldl:29/precinct:3": {
+   "name": "Delaware precinct 03-29"
+  },
+  "ocd-division/country:us/state:de/sldl:21/precinct:9": {
+   "name": "Delaware precinct 09-21"
+  },
+  "ocd-division/country:us/state:de/sldl:29/precinct:1": {
+   "name": "Delaware precinct 01-29"
+  },
+  "ocd-division/country:us/state:de/sldl:21/precinct:4": {
+   "name": "Delaware precinct 04-21"
+  },
+  "ocd-division/country:us/state:de/sldl:21/precinct:5": {
+   "name": "Delaware precinct 05-21"
+  },
+  "ocd-division/country:us/state:de/sldl:21/precinct:6": {
+   "name": "Delaware precinct 06-21"
+  },
+  "ocd-division/country:us/state:de/sldl:21/precinct:7": {
+   "name": "Delaware precinct 07-21"
+  },
+  "ocd-division/country:us/state:de/sldl:21/precinct:1": {
+   "name": "Delaware precinct 01-21"
+  },
+  "ocd-division/country:us/state:de/sldl:21/precinct:2": {
+   "name": "Delaware precinct 02-21"
+  },
+  "ocd-division/country:us/state:de/county:kent/school_district:positive_outcomes_charter_school": {
+   "name": "positive outcomes charter school"
+  },
+  "ocd-division/country:us/state:de/sldl:21/precinct:3": {
+   "name": "Delaware precinct 03-21"
+  },
+  "ocd-division/country:us/state:de/county:kent": {
+   "name": "Kent County",
+   "officeIndices": [
+    85,
+    86,
+    87,
+    88,
+    89,
+    90
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:29/precinct:9": {
+   "name": "Delaware precinct 09-29"
+  },
+  "ocd-division/country:us/state:de/sldl:29/precinct:8": {
+   "name": "Delaware precinct 08-29"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:colonial_school_district": {
+   "name": "colonial school district"
+  },
+  "ocd-division/country:us/state:de/place:delaware_city": {
+   "name": "Delaware City city"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/council_district:12": {
+   "name": "New Castle DE County Council District 12",
+   "officeIndices": [
+    91
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:15/precinct:7": {
+   "name": "Delaware precinct 07-15"
+  },
+  "ocd-division/country:us/state:de/sldl:15/precinct:8": {
+   "name": "Delaware precinct 08-15"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/council_district:10": {
+   "name": "New Castle DE County Council District 10",
+   "officeIndices": [
+    92
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:15/precinct:5": {
+   "name": "Delaware precinct 05-15"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/council_district:11": {
+   "name": "New Castle DE County Council District 11",
+   "officeIndices": [
+    93
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:15/precinct:6": {
+   "name": "Delaware precinct 06-15"
+  },
+  "ocd-division/country:us/state:de/sldl:15/precinct:9": {
+   "name": "Delaware precinct 09-15"
+  },
+  "ocd-division/country:us/state:de/sldl:29/precinct:10": {
+   "name": "Delaware precinct 10-29"
+  },
+  "ocd-division/country:us/state:de/sldl:29/precinct:12": {
+   "name": "Delaware precinct 12-29"
+  },
+  "ocd-division/country:us/state:de/sldl:29/precinct:11": {
+   "name": "Delaware precinct 11-29"
+  },
+  "ocd-division/country:us/state:de/sldl:29/precinct:13": {
+   "name": "Delaware precinct 13-29"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:2": {
+   "name": "Delaware precinct 02-13"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:1": {
+   "name": "Delaware precinct 01-13"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:5": {
+   "name": "Delaware precinct 05-13"
+  },
+  "ocd-division/country:us/state:de/place:blades": {
+   "name": "Blades town"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:6": {
+   "name": "Delaware precinct 06-13"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:3": {
+   "name": "Delaware precinct 03-13"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:4": {
+   "name": "Delaware precinct 04-13"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:9": {
+   "name": "Delaware precinct 09-13"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:7": {
+   "name": "Delaware precinct 07-13"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:8": {
+   "name": "Delaware precinct 08-13"
+  },
+  "ocd-division/country:us/state:de/place:hartly": {
+   "name": "Hartly town"
+  },
+  "ocd-division/country:us/state:de/sldl:15/precinct:10": {
+   "name": "Delaware precinct 10-15"
+  },
+  "ocd-division/country:us/state:de/sldl:15/precinct:2": {
+   "name": "Delaware precinct 02-15"
+  },
+  "ocd-division/country:us/state:de/sldl:15/precinct:1": {
+   "name": "Delaware precinct 01-15"
+  },
+  "ocd-division/country:us/state:de/sldl:15/precinct:4": {
+   "name": "Delaware precinct 04-15"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:mot_charter_school": {
+   "name": "mot charter school"
+  },
+  "ocd-division/country:us/state:de/sldl:15/precinct:3": {
+   "name": "Delaware precinct 03-15"
+  },
+  "ocd-division/country:us/state:de/sldl:28/precinct:8": {
+   "name": "Delaware precinct 08-28"
+  },
+  "ocd-division/country:us/state:de/sldl:28/precinct:7": {
+   "name": "Delaware precinct 07-28"
+  },
+  "ocd-division/country:us/state:de/sldl:28/precinct:9": {
+   "name": "Delaware precinct 09-28"
+  },
+  "ocd-division/country:us/state:de/place:wilmington": {
+   "name": "Wilmington city",
+   "officeIndices": [
+    94,
+    95,
+    96,
+    97
+   ]
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:appoquinimink_school_district": {
+   "name": "appoquinimink school district"
+  },
+  "ocd-division/country:us/state:de/sldl:39/precinct:7": {
+   "name": "Delaware precinct 07-39"
+  },
+  "ocd-division/country:us/state:de/county:sussex/school_district:indian_river_school_district": {
+   "name": "indian river school district"
+  },
+  "ocd-division/country:us/state:de/place:odessa": {
+   "name": "Odessa town"
+  },
+  "ocd-division/country:us/state:de/place:newark": {
+   "name": "Newark city"
+  },
+  "ocd-division/country:us/state:de/sldl:37/precinct:6": {
+   "name": "Delaware precinct 06-37"
+  },
+  "ocd-division/country:us/state:de/sldl:37/precinct:5": {
+   "name": "Delaware precinct 05-37"
+  },
+  "ocd-division/country:us/state:de/sldl:37/precinct:7": {
+   "name": "Delaware precinct 07-37"
+  },
+  "ocd-division/country:us/state:de/place:rehoboth_beach": {
+   "name": "Rehoboth Beach city"
+  },
+  "ocd-division/country:us/state:de/county:kent/school_district:providence_creek_academy_charter_school": {
+   "name": "providence creek academy charter school"
+  },
+  "ocd-division/country:us/state:de/sldl:5/precinct:9": {
+   "name": "Delaware precinct 09-05"
+  },
+  "ocd-division/country:us/state:de/county:kent/school_district:smyrna_school_district": {
+   "name": "smyrna school district"
+  },
+  "ocd-division/country:us/state:de/sldl:24/precinct:1": {
+   "name": "Delaware precinct 01-24"
+  },
+  "ocd-division/country:us/state:de/sldl:5/precinct:8": {
+   "name": "Delaware precinct 08-05"
+  },
+  "ocd-division/country:us/state:de/sldl:24/precinct:2": {
+   "name": "Delaware precinct 02-24"
+  },
+  "ocd-division/country:us/state:de/sldl:5/precinct:7": {
+   "name": "Delaware precinct 07-05"
+  },
+  "ocd-division/country:us/state:de/sldl:5/precinct:6": {
+   "name": "Delaware precinct 06-05"
+  },
+  "ocd-division/country:us/state:de/sldl:5/precinct:1": {
+   "name": "Delaware precinct 01-05"
+  },
+  "ocd-division/country:us/state:de/sldl:37/precinct:3": {
+   "name": "Delaware precinct 03-37"
+  },
+  "ocd-division/country:us/state:de/sldl:37/precinct:4": {
+   "name": "Delaware precinct 04-37"
+  },
+  "ocd-division/country:us/state:de/sldl:37/precinct:1": {
+   "name": "Delaware precinct 01-37"
+  },
+  "ocd-division/country:us/state:de/sldl:37/precinct:2": {
+   "name": "Delaware precinct 02-37"
+  },
+  "ocd-division/country:us/state:de/sldl:5/precinct:5": {
+   "name": "Delaware precinct 05-05"
+  },
+  "ocd-division/country:us/state:de/sldl:5/precinct:4": {
+   "name": "Delaware precinct 04-05"
+  },
+  "ocd-division/country:us/state:de/sldl:5/precinct:3": {
+   "name": "Delaware precinct 03-05"
+  },
+  "ocd-division/country:us/state:de/sldl:5/precinct:2": {
+   "name": "Delaware precinct 02-05"
+  },
+  "ocd-division/country:us/state:de/sldl:39/precinct:1": {
+   "name": "Delaware precinct 01-39"
+  },
+  "ocd-division/country:us/state:de/sldl:39/precinct:2": {
+   "name": "Delaware precinct 02-39"
+  },
+  "ocd-division/country:us/state:de/sldl:39/precinct:5": {
+   "name": "Delaware precinct 05-39"
+  },
+  "ocd-division/country:us/state:de/sldl:39/precinct:6": {
+   "name": "Delaware precinct 06-39"
+  },
+  "ocd-division/country:us/state:de/sldl:39/precinct:3": {
+   "name": "Delaware precinct 03-39"
+  },
+  "ocd-division/country:us/state:de/sldl:39/precinct:4": {
+   "name": "Delaware precinct 04-39"
+  },
+  "ocd-division/country:us/state:de/place:bridgeville": {
+   "name": "Bridgeville town"
+  },
+  "ocd-division/country:us/state:de": {
+   "name": "Delaware",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:de/cd:1"
+   ],
+   "officeIndices": [
+    0,
+    1,
+    43,
+    44,
+    98,
+    99,
+    100,
+    101
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:2/precinct:17": {
+   "name": "Delaware precinct 17-02"
+  },
+  "ocd-division/country:us/state:de/sldl:2/precinct:12": {
+   "name": "Delaware precinct 12-02"
+  },
+  "ocd-division/country:us/state:de/sldl:2/precinct:13": {
+   "name": "Delaware precinct 13-02"
+  },
+  "ocd-division/country:us/state:de/sldl:28/precinct:2": {
+   "name": "Delaware precinct 02-28"
+  },
+  "ocd-division/country:us/state:de/place:farmington": {
+   "name": "Farmington town"
+  },
+  "ocd-division/country:us/state:de/sldl:28/precinct:1": {
+   "name": "Delaware precinct 01-28"
+  },
+  "ocd-division/country:us/state:de/sldl:5/precinct:10": {
+   "name": "Delaware precinct 10-05"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:newark_charter_school": {
+   "name": "newark charter school"
+  },
+  "ocd-division/country:us/state:de/sldl:28/precinct:4": {
+   "name": "Delaware precinct 04-28"
+  },
+  "ocd-division/country:us/state:de/sldl:28/precinct:3": {
+   "name": "Delaware precinct 03-28"
+  },
+  "ocd-division/country:us/state:de/sldl:2/precinct:10": {
+   "name": "Delaware precinct 10-02"
+  },
+  "ocd-division/country:us/state:de/sldl:28/precinct:6": {
+   "name": "Delaware precinct 06-28"
+  },
+  "ocd-division/country:us/state:de/sldl:2/precinct:11": {
+   "name": "Delaware precinct 11-02"
+  },
+  "ocd-division/country:us/state:de/sldl:28/precinct:5": {
+   "name": "Delaware precinct 05-28"
+  },
+  "ocd-division/country:us/state:de/sldl:18/precinct:10": {
+   "name": "Delaware precinct 10-18"
+  },
+  "ocd-division/country:us/state:de/sldl:20/precinct:10": {
+   "name": "Delaware precinct 10-20"
+  },
+  "ocd-division/country:us/state:de/sldl:10/precinct:2": {
+   "name": "Delaware precinct 02-10"
+  },
+  "ocd-division/country:us/state:de/sldl:10/precinct:3": {
+   "name": "Delaware precinct 03-10"
+  },
+  "ocd-division/country:us/state:de/sldl:10/precinct:1": {
+   "name": "Delaware precinct 01-10"
+  },
+  "ocd-division/country:us/state:de/sldl:10/precinct:6": {
+   "name": "Delaware precinct 06-10"
+  },
+  "ocd-division/country:us/state:de/sldl:10/precinct:7": {
+   "name": "Delaware precinct 07-10"
+  },
+  "ocd-division/country:us/state:de/sldl:10/precinct:4": {
+   "name": "Delaware precinct 04-10"
+  },
+  "ocd-division/country:us/state:de/sldl:10/precinct:5": {
+   "name": "Delaware precinct 05-10"
+  },
+  "ocd-division/country:us/state:de/sldl:10/precinct:8": {
+   "name": "Delaware precinct 08-10"
+  },
+  "ocd-division/country:us/state:de/sldl:10/precinct:9": {
+   "name": "Delaware precinct 09-10"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:odyssey_charter_school": {
+   "name": "odyssey charter school"
+  },
+  "ocd-division/country:us/state:de/sldl:40/precinct:4": {
+   "name": "Delaware precinct 04-40"
+  },
+  "ocd-division/country:us/state:de/sldl:40/precinct:3": {
+   "name": "Delaware precinct 03-40"
+  },
+  "ocd-division/country:us/state:de/sldl:40/precinct:2": {
+   "name": "Delaware precinct 02-40"
+  },
+  "ocd-division/country:us/state:de/sldl:40/precinct:1": {
+   "name": "Delaware precinct 01-40"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:delaware_military_academy": {
+   "name": "delaware military academy"
+  },
+  "ocd-division/country:us/state:de/sldl:40/precinct:8": {
+   "name": "Delaware precinct 08-40"
+  },
+  "ocd-division/country:us/state:de/sldl:40/precinct:7": {
+   "name": "Delaware precinct 07-40"
+  },
+  "ocd-division/country:us/state:de/sldl:27/precinct:10": {
+   "name": "Delaware precinct 10-27"
+  },
+  "ocd-division/country:us/state:de/sldl:40/precinct:6": {
+   "name": "Delaware precinct 06-40"
+  },
+  "ocd-division/country:us/state:de/sldl:40/precinct:5": {
+   "name": "Delaware precinct 05-40"
+  },
+  "ocd-division/country:us/state:de/sldl:6": {
+   "name": "Delaware State House district 6",
+   "officeIndices": [
+    45
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:7": {
+   "name": "Delaware State House district 7",
+   "officeIndices": [
+    46
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:4": {
+   "name": "Delaware State House district 4",
+   "officeIndices": [
+    47
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:5": {
+   "name": "Delaware State House district 5",
+   "officeIndices": [
+    48
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:22/precinct:12": {
+   "name": "Delaware precinct 12-22"
+  },
+  "ocd-division/country:us/state:de/sldl:22/precinct:11": {
+   "name": "Delaware precinct 11-22"
+  },
+  "ocd-division/country:us/state:de/sldl:8": {
+   "name": "Delaware State House district 8",
+   "officeIndices": [
+    49
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:9": {
+   "name": "Delaware State House district 9",
+   "officeIndices": [
+    50
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:22/precinct:10": {
+   "name": "Delaware precinct 10-22"
+  },
+  "ocd-division/country:us/state:de/place:delmar": {
+   "name": "Delmar town"
+  },
+  "ocd-division/country:us/state:de/sldl:2": {
+   "name": "Delaware State House district 2",
+   "officeIndices": [
+    51
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:3": {
+   "name": "Delaware State House district 3",
+   "officeIndices": [
+    52
+   ]
+  },
+  "ocd-division/country:us/state:de/county:kent/school_district:lake_forest_school_district": {
+   "name": "lake forest school district"
+  },
+  "ocd-division/country:us/state:de/sldl:1": {
+   "name": "Delaware State House district 1",
+   "officeIndices": [
+    53
+   ]
+  },
+  "ocd-division/country:us/state:de/place:bethany_beach": {
+   "name": "Bethany Beach town"
+  },
+  "ocd-division/country:us/state:de/sldl:21/precinct:10": {
+   "name": "Delaware precinct 10-21"
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:14": {
+   "name": "Delaware precinct 14-04"
+  },
+  "ocd-division/country:us/state:de/place:cheswold": {
+   "name": "Cheswold town"
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:15": {
+   "name": "Delaware precinct 15-04"
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:16": {
+   "name": "Delaware precinct 16-04"
+  },
+  "ocd-division/country:us/state:de/sldl:33/precinct:10": {
+   "name": "Delaware precinct 10-33"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/council_district:1": {
+   "name": "New Castle DE County Council District 1",
+   "officeIndices": [
+    102
+   ]
+  },
+  "ocd-division/country:us/state:de/county:new_castle/council_district:2": {
+   "name": "New Castle DE County Council District 2",
+   "officeIndices": [
+    103
+   ]
+  },
+  "ocd-division/country:us/state:de/county:new_castle/council_district:3": {
+   "name": "New Castle DE County Council District 3",
+   "officeIndices": [
+    104
+   ]
+  },
+  "ocd-division/country:us/state:de/county:new_castle/council_district:4": {
+   "name": "New Castle DE County Council District 4",
+   "officeIndices": [
+    105
+   ]
+  },
+  "ocd-division/country:us/state:de/county:new_castle/council_district:5": {
+   "name": "New Castle DE County Council District 5",
+   "officeIndices": [
+    106
+   ]
+  },
+  "ocd-division/country:us/state:de/county:new_castle/council_district:6": {
+   "name": "New Castle DE County Council District 6",
+   "officeIndices": [
+    107
+   ]
+  },
+  "ocd-division/country:us/state:de/county:new_castle/council_district:7": {
+   "name": "New Castle DE County Council District 7",
+   "officeIndices": [
+    108
+   ]
+  },
+  "ocd-division/country:us/state:de/county:new_castle/council_district:8": {
+   "name": "New Castle DE County Council District 8",
+   "officeIndices": [
+    109
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:23/precinct:9": {
+   "name": "Delaware precinct 09-23"
+  },
+  "ocd-division/country:us/state:de/sldl:24/precinct:3": {
+   "name": "Delaware precinct 03-24"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/council_district:9": {
+   "name": "New Castle DE County Council District 9",
+   "officeIndices": [
+    110
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:8/precinct:9": {
+   "name": "Delaware precinct 09-08"
+  },
+  "ocd-division/country:us/state:de/sldl:23/precinct:8": {
+   "name": "Delaware precinct 08-23"
+  },
+  "ocd-division/country:us/state:de/sldl:24/precinct:4": {
+   "name": "Delaware precinct 04-24"
+  },
+  "ocd-division/country:us/state:de/sldl:23/precinct:7": {
+   "name": "Delaware precinct 07-23"
+  },
+  "ocd-division/country:us/state:de/sldl:24/precinct:5": {
+   "name": "Delaware precinct 05-24"
+  },
+  "ocd-division/country:us/state:de/sldl:23/precinct:6": {
+   "name": "Delaware precinct 06-23"
+  },
+  "ocd-division/country:us/state:de/sldl:24/precinct:6": {
+   "name": "Delaware precinct 06-24"
+  },
+  "ocd-division/country:us/state:de/sldl:23/precinct:5": {
+   "name": "Delaware precinct 05-23"
+  },
+  "ocd-division/country:us/state:de/sldl:24/precinct:7": {
+   "name": "Delaware precinct 07-24"
+  },
+  "ocd-division/country:us/state:de/sldl:23/precinct:4": {
+   "name": "Delaware precinct 04-23"
+  },
+  "ocd-division/country:us/state:de/sldl:24/precinct:8": {
+   "name": "Delaware precinct 08-24"
+  },
+  "ocd-division/country:us/state:de/sldl:34/precinct:1": {
+   "name": "Delaware precinct 01-34"
+  },
+  "ocd-division/country:us/state:de/sldl:23/precinct:3": {
+   "name": "Delaware precinct 03-23"
+  },
+  "ocd-division/country:us/state:de/sldl:24/precinct:9": {
+   "name": "Delaware precinct 09-24"
+  },
+  "ocd-division/country:us/state:de/sldl:23/precinct:2": {
+   "name": "Delaware precinct 02-23"
+  },
+  "ocd-division/country:us/state:de/sldl:8/precinct:2": {
+   "name": "Delaware precinct 02-08"
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:11": {
+   "name": "Delaware precinct 11-04"
+  },
+  "ocd-division/country:us/state:de/sldl:8/precinct:1": {
+   "name": "Delaware precinct 01-08"
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:10": {
+   "name": "Delaware precinct 10-04"
+  },
+  "ocd-division/country:us/state:de/sldl:8/precinct:4": {
+   "name": "Delaware precinct 04-08"
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:13": {
+   "name": "Delaware precinct 13-04"
+  },
+  "ocd-division/country:us/state:de/sldl:8/precinct:3": {
+   "name": "Delaware precinct 03-08"
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:12": {
+   "name": "Delaware precinct 12-04"
+  },
+  "ocd-division/country:us/state:de/sldl:8/precinct:6": {
+   "name": "Delaware precinct 06-08"
+  },
+  "ocd-division/country:us/state:de/sldl:8/precinct:5": {
+   "name": "Delaware precinct 05-08"
+  },
+  "ocd-division/country:us/state:de/sldl:8/precinct:8": {
+   "name": "Delaware precinct 08-08"
+  },
+  "ocd-division/country:us/state:de/sldl:8/precinct:7": {
+   "name": "Delaware precinct 07-08"
+  },
+  "ocd-division/country:us/state:de/sldl:21/precinct:11": {
+   "name": "Delaware precinct 11-21"
+  },
+  "ocd-division/country:us/state:de/county:sussex/school_district:delmar_school_district": {
+   "name": "delmar school district"
+  },
+  "ocd-division/country:us/state:de/place:camden": {
+   "name": "Camden town"
+  },
+  "ocd-division/country:us/state:de/county:sussex/school_district:sussex_academy_of_arts_and_sciences": {
+   "name": "sussex academy of arts & sciences"
+  },
+  "ocd-division/country:us/state:de/sldl:23/precinct:1": {
+   "name": "Delaware precinct 01-23"
+  },
+  "ocd-division/country:us/state:de/sldl:14/precinct:3": {
+   "name": "Delaware precinct 03-14"
+  },
+  "ocd-division/country:us/state:de/sldl:14/precinct:2": {
+   "name": "Delaware precinct 02-14"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:brandywine_school_district": {
+   "name": "brandywine school district"
+  },
+  "ocd-division/country:us/state:de/sldl:14/precinct:1": {
+   "name": "Delaware precinct 01-14"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:prestige_academy": {
+   "name": "prestige academy"
+  },
+  "ocd-division/country:us/state:de/sldl:3/precinct:10": {
+   "name": "Delaware precinct 10-03"
+  },
+  "ocd-division/country:us/state:de/sldl:24/precinct:10": {
+   "name": "Delaware precinct 10-24"
+  },
+  "ocd-division/country:us/state:de/place:bethel": {
+   "name": "Bethel town"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:east_side_charter_school": {
+   "name": "east side charter school"
+  },
+  "ocd-division/country:us/state:de/sldl:8/precinct:10": {
+   "name": "Delaware precinct 10-08"
+  },
+  "ocd-division/country:us/state:de/sldl:27/precinct:7": {
+   "name": "Delaware precinct 07-27"
+  },
+  "ocd-division/country:us/state:de/sldl:27/precinct:6": {
+   "name": "Delaware precinct 06-27"
+  },
+  "ocd-division/country:us/state:de/sldl:27/precinct:9": {
+   "name": "Delaware precinct 09-27"
+  },
+  "ocd-division/country:us/state:de/sldl:27/precinct:8": {
+   "name": "Delaware precinct 08-27"
+  },
+  "ocd-division/country:us/state:de/place:magnolia": {
+   "name": "Magnolia town"
+  },
+  "ocd-division/country:us/state:de/sldl:27/precinct:4": {
+   "name": "Delaware precinct 04-27"
+  },
+  "ocd-division/country:us/state:de/place:milford": {
+   "name": "Milford city"
+  },
+  "ocd-division/country:us/state:de/sldl:27/precinct:5": {
+   "name": "Delaware precinct 05-27"
+  },
+  "ocd-division/country:us/state:de/sldl:27/precinct:2": {
+   "name": "Delaware precinct 02-27"
+  },
+  "ocd-division/country:us/state:de/sldl:27/precinct:3": {
+   "name": "Delaware precinct 03-27"
+  },
+  "ocd-division/country:us/state:de/sldl:27/precinct:1": {
+   "name": "Delaware precinct 01-27"
+  },
+  "ocd-division/country:us/state:de/sldl:22/precinct:9": {
+   "name": "Delaware precinct 09-22"
+  },
+  "ocd-division/country:us/state:de/sldl:22/precinct:8": {
+   "name": "Delaware precinct 08-22"
+  },
+  "ocd-division/country:us/state:de/place:georgetown": {
+   "name": "Georgetown town"
+  },
+  "ocd-division/country:us/state:de/sldl:22/precinct:7": {
+   "name": "Delaware precinct 07-22"
+  },
+  "ocd-division/country:us/state:de/sldl:22/precinct:6": {
+   "name": "Delaware precinct 06-22"
+  },
+  "ocd-division/country:us/state:de/sldl:22/precinct:5": {
+   "name": "Delaware precinct 05-22"
+  },
+  "ocd-division/country:us/state:de/sldl:22/precinct:4": {
+   "name": "Delaware precinct 04-22"
+  },
+  "ocd-division/country:us/state:de/sldl:22/precinct:3": {
+   "name": "Delaware precinct 03-22"
+  },
+  "ocd-division/country:us/state:de/sldl:22/precinct:2": {
+   "name": "Delaware precinct 02-22"
+  },
+  "ocd-division/country:us/state:de/sldl:22/precinct:1": {
+   "name": "Delaware precinct 01-22"
+  },
+  "ocd-division/country:us/state:de/sldl:34/precinct:7": {
+   "name": "Delaware precinct 07-34"
+  },
+  "ocd-division/country:us/state:de/sldl:12/precinct:11": {
+   "name": "Delaware precinct 11-12"
+  },
+  "ocd-division/country:us/state:de/sldl:34/precinct:6": {
+   "name": "Delaware precinct 06-34"
+  },
+  "ocd-division/country:us/state:de/sldl:12/precinct:12": {
+   "name": "Delaware precinct 12-12"
+  },
+  "ocd-division/country:us/state:de/sldl:19/precinct:12": {
+   "name": "Delaware precinct 12-19"
+  },
+  "ocd-division/country:us/state:de/sldl:34/precinct:9": {
+   "name": "Delaware precinct 09-34"
+  },
+  "ocd-division/country:us/state:de/sldl:19/precinct:11": {
+   "name": "Delaware precinct 11-19"
+  },
+  "ocd-division/country:us/state:de/sldl:34/precinct:8": {
+   "name": "Delaware precinct 08-34"
+  },
+  "ocd-division/country:us/state:de/sldl:12/precinct:10": {
+   "name": "Delaware precinct 10-12"
+  },
+  "ocd-division/country:us/state:de/sldl:19/precinct:10": {
+   "name": "Delaware precinct 10-19"
+  },
+  "ocd-division/country:us/state:de/sldl:34/precinct:3": {
+   "name": "Delaware precinct 03-34"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:reach_academy_for_girls": {
+   "name": "reach academy for girls"
+  },
+  "ocd-division/country:us/state:de/sldl:34/precinct:2": {
+   "name": "Delaware precinct 02-34"
+  },
+  "ocd-division/country:us/state:de/sldl:34/precinct:5": {
+   "name": "Delaware precinct 05-34"
+  },
+  "ocd-division/country:us/state:de/sldl:12/precinct:13": {
+   "name": "Delaware precinct 13-12"
+  },
+  "ocd-division/country:us/state:de/sldl:34/precinct:4": {
+   "name": "Delaware precinct 04-34"
+  },
+  "ocd-division/country:us/state:de/sldl:12/precinct:14": {
+   "name": "Delaware precinct 14-12"
+  },
+  "ocd-division/country:us/state:de/place:dewey_beach": {
+   "name": "Dewey Beach town"
+  },
+  "ocd-division/country:us/state:de/sldl:1/precinct:1": {
+   "name": "Delaware precinct 01-01"
+  },
+  "ocd-division/country:us/state:de/sldl:1/precinct:2": {
+   "name": "Delaware precinct 02-01"
+  },
+  "ocd-division/country:us/state:de/sldl:1/precinct:3": {
+   "name": "Delaware precinct 03-01"
+  },
+  "ocd-division/country:us/state:de/sldl:1/precinct:4": {
+   "name": "Delaware precinct 04-01"
+  },
+  "ocd-division/country:us/state:de/county:sussex": {
+   "name": "Sussex County",
+   "officeIndices": [
+    111,
+    112,
+    113,
+    114
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:1/precinct:5": {
+   "name": "Delaware precinct 05-01"
+  },
+  "ocd-division/country:us/state:de/sldl:1/precinct:6": {
+   "name": "Delaware precinct 06-01"
+  },
+  "ocd-division/country:us/state:de/sldl:1/precinct:7": {
+   "name": "Delaware precinct 07-01"
+  },
+  "ocd-division/country:us/state:de/sldl:1/precinct:8": {
+   "name": "Delaware precinct 08-01"
+  },
+  "ocd-division/country:us/state:de/sldl:1/precinct:9": {
+   "name": "Delaware precinct 09-01"
+  },
+  "ocd-division/country:us/state:de/place:little_creek": {
+   "name": "Little Creek town"
+  },
+  "ocd-division/country:us/state:de/place:townsend": {
+   "name": "Townsend town"
+  },
+  "ocd-division/country:us/state:de/place:middletown": {
+   "name": "Middletown town"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:edison_thomas_a._charter_school": {
+   "name": "edison (thomas a.) charter school"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:family_foundations_academy": {
+   "name": "family foundations academy"
+  },
+  "ocd-division/country:us/state:de/sldl:38/precinct:7": {
+   "name": "Delaware precinct 07-38"
+  },
+  "ocd-division/country:us/state:de/sldl:38/precinct:6": {
+   "name": "Delaware precinct 06-38"
+  },
+  "ocd-division/country:us/state:de/county:sussex/school_district:seaford_school_district": {
+   "name": "seaford school district"
+  },
+  "ocd-division/country:us/state:de/sldl:38/precinct:8": {
+   "name": "Delaware precinct 08-38"
+  },
+  "ocd-division/country:us/state:de/place:frederica": {
+   "name": "Frederica town"
+  },
+  "ocd-division/country:us/state:de/sldl:10/precinct:10": {
+   "name": "Delaware precinct 10-10"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:kuumba_academy_charter_school": {
+   "name": "kuumba academy charter school"
+  },
+  "ocd-division/country:us/state:de/sldl:2/precinct:3": {
+   "name": "Delaware precinct 03-02"
+  },
+  "ocd-division/country:us/state:de/sldl:41/precinct:1": {
+   "name": "Delaware precinct 01-41"
+  },
+  "ocd-division/country:us/state:de/sldl:2/precinct:4": {
+   "name": "Delaware precinct 04-02"
+  },
+  "ocd-division/country:us/state:de/sldl:32/precinct:11": {
+   "name": "Delaware precinct 11-32"
+  },
+  "ocd-division/country:us/state:de/sldl:2/precinct:5": {
+   "name": "Delaware precinct 05-02"
+  },
+  "ocd-division/country:us/state:de/sldl:28/precinct:11": {
+   "name": "Delaware precinct 11-28"
+  },
+  "ocd-division/country:us/state:de/sldl:32/precinct:12": {
+   "name": "Delaware precinct 12-32"
+  },
+  "ocd-division/country:us/state:de/sldl:2/precinct:6": {
+   "name": "Delaware precinct 06-02"
+  },
+  "ocd-division/country:us/state:de/sldl:28/precinct:10": {
+   "name": "Delaware precinct 10-28"
+  },
+  "ocd-division/country:us/state:de/sldl:41/precinct:4": {
+   "name": "Delaware precinct 04-41"
+  },
+  "ocd-division/country:us/state:de/sldl:2/precinct:7": {
+   "name": "Delaware precinct 07-02"
+  },
+  "ocd-division/country:us/state:de/sldl:41/precinct:5": {
+   "name": "Delaware precinct 05-41"
+  },
+  "ocd-division/country:us/state:de/sldl:2/precinct:8": {
+   "name": "Delaware precinct 08-02"
+  },
+  "ocd-division/country:us/state:de/sldl:41/precinct:2": {
+   "name": "Delaware precinct 02-41"
+  },
+  "ocd-division/country:us/state:de/sldl:2/precinct:9": {
+   "name": "Delaware precinct 09-02"
+  },
+  "ocd-division/country:us/state:de/sldl:41/precinct:3": {
+   "name": "Delaware precinct 03-41"
+  },
+  "ocd-division/country:us/state:de/sldl:41/precinct:8": {
+   "name": "Delaware precinct 08-41"
+  },
+  "ocd-division/country:us/state:de/place:millville": {
+   "name": "Millville town"
+  },
+  "ocd-division/country:us/state:de/sldl:41/precinct:6": {
+   "name": "Delaware precinct 06-41"
+  },
+  "ocd-division/country:us/state:de/place:selbyville": {
+   "name": "Selbyville town"
+  },
+  "ocd-division/country:us/state:de/sldl:41/precinct:7": {
+   "name": "Delaware precinct 07-41"
+  },
+  "ocd-division/country:us/state:de/sldl:28/precinct:13": {
+   "name": "Delaware precinct 13-28"
+  },
+  "ocd-division/country:us/state:de/sldl:28/precinct:12": {
+   "name": "Delaware precinct 12-28"
+  },
+  "ocd-division/country:us/state:de/sldl:2/precinct:1": {
+   "name": "Delaware precinct 01-02"
+  },
+  "ocd-division/country:us/state:de/sldl:2/precinct:2": {
+   "name": "Delaware precinct 02-02"
+  },
+  "ocd-division/country:us/state:de/sldl:28/precinct:14": {
+   "name": "Delaware precinct 14-28"
+  },
+  "ocd-division/country:us/state:de/sldl:38/precinct:1": {
+   "name": "Delaware precinct 01-38"
+  },
+  "ocd-division/country:us/state:de/sldl:12/precinct:2": {
+   "name": "Delaware precinct 02-12"
+  },
+  "ocd-division/country:us/state:de/sldl:12/precinct:3": {
+   "name": "Delaware precinct 03-12"
+  },
+  "ocd-division/country:us/state:de/sldl:12/precinct:4": {
+   "name": "Delaware precinct 04-12"
+  },
+  "ocd-division/country:us/state:de/sldl:12/precinct:5": {
+   "name": "Delaware precinct 05-12"
+  },
+  "ocd-division/country:us/state:de/sldl:38/precinct:5": {
+   "name": "Delaware precinct 05-38"
+  },
+  "ocd-division/country:us/state:de/sldl:30/precinct:7": {
+   "name": "Delaware precinct 07-30"
+  },
+  "ocd-division/country:us/state:de/sldl:12/precinct:6": {
+   "name": "Delaware precinct 06-12"
+  },
+  "ocd-division/country:us/state:de/sldl:38/precinct:4": {
+   "name": "Delaware precinct 04-38"
+  },
+  "ocd-division/country:us/state:de/sldl:30/precinct:6": {
+   "name": "Delaware precinct 06-30"
+  },
+  "ocd-division/country:us/state:de/sldl:12/precinct:7": {
+   "name": "Delaware precinct 07-12"
+  },
+  "ocd-division/country:us/state:de/place:ellendale": {
+   "name": "Ellendale town"
+  },
+  "ocd-division/country:us/state:de/sldl:38/precinct:3": {
+   "name": "Delaware precinct 03-38"
+  },
+  "ocd-division/country:us/state:de/sldl:30/precinct:9": {
+   "name": "Delaware precinct 09-30"
+  },
+  "ocd-division/country:us/state:de/sldl:12/precinct:8": {
+   "name": "Delaware precinct 08-12"
+  },
+  "ocd-division/country:us/state:de/sldl:38/precinct:2": {
+   "name": "Delaware precinct 02-38"
+  },
+  "ocd-division/country:us/state:de/sldl:30/precinct:8": {
+   "name": "Delaware precinct 08-30"
+  },
+  "ocd-division/country:us/state:de/sldl:12/precinct:9": {
+   "name": "Delaware precinct 09-12"
+  },
+  "ocd-division/country:us/state:de/sldl:30/precinct:3": {
+   "name": "Delaware precinct 03-30"
+  },
+  "ocd-division/country:us/state:de/sldl:30/precinct:2": {
+   "name": "Delaware precinct 02-30"
+  },
+  "ocd-division/country:us/state:de/sldl:30/precinct:5": {
+   "name": "Delaware precinct 05-30"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:delaware_college_preparatory_academy": {
+   "name": "delaware college preparatory academy"
+  },
+  "ocd-division/country:us/state:de/sldl:30/precinct:4": {
+   "name": "Delaware precinct 04-30"
+  },
+  "ocd-division/country:us/state:de/place:bowers": {
+   "name": "Bowers town"
+  },
+  "ocd-division/country:us/state:de/sldl:32/precinct:10": {
+   "name": "Delaware precinct 10-32"
+  },
+  "ocd-division/country:us/state:de/sldl:17/precinct:11": {
+   "name": "Delaware precinct 11-17"
+  },
+  "ocd-division/country:us/state:de/sldl:17/precinct:10": {
+   "name": "Delaware precinct 10-17"
+  },
+  "ocd-division/country:us/state:de/sldl:30/precinct:1": {
+   "name": "Delaware precinct 01-30"
+  },
+  "ocd-division/country:us/state:de/sldl:11/precinct:10": {
+   "name": "Delaware precinct 10-11"
+  },
+  "ocd-division/country:us/state:de/sldl:1/precinct:14": {
+   "name": "Delaware precinct 14-01"
+  },
+  "ocd-division/country:us/state:de/sldl:1/precinct:13": {
+   "name": "Delaware precinct 13-01"
+  },
+  "ocd-division/country:us/state:de/sldl:1/precinct:10": {
+   "name": "Delaware precinct 10-01"
+  },
+  "ocd-division/country:us/state:de/sldl:32/precinct:8": {
+   "name": "Delaware precinct 08-32"
+  },
+  "ocd-division/country:us/state:de/sldl:1/precinct:12": {
+   "name": "Delaware precinct 12-01"
+  },
+  "ocd-division/country:us/state:de/sldl:32/precinct:9": {
+   "name": "Delaware precinct 09-32"
+  },
+  "ocd-division/country:us/state:de/sldl:1/precinct:11": {
+   "name": "Delaware precinct 11-01"
+  },
+  "ocd-division/country:us/state:de/sldl:32/precinct:6": {
+   "name": "Delaware precinct 06-32"
+  },
+  "ocd-division/country:us/state:de/sldl:32/precinct:7": {
+   "name": "Delaware precinct 07-32"
+  },
+  "ocd-division/country:us/state:de/sldl:32/precinct:4": {
+   "name": "Delaware precinct 04-32"
+  },
+  "ocd-division/country:us/state:de/county:sussex/school_district:cape_henlopen_school_district": {
+   "name": "cape henlopen school district"
+  },
+  "ocd-division/country:us/state:de/sldl:32/precinct:5": {
+   "name": "Delaware precinct 05-32"
+  },
+  "ocd-division/country:us/state:de/county:kent/school_district:academy_of_dover_charter_school": {
+   "name": "academy of dover charter school"
+  },
+  "ocd-division/country:us/state:de/sldl:32/precinct:2": {
+   "name": "Delaware precinct 02-32"
+  },
+  "ocd-division/country:us/state:de/sldl:32/precinct:3": {
+   "name": "Delaware precinct 03-32"
+  },
+  "ocd-division/country:us/state:de/sldl:32/precinct:1": {
+   "name": "Delaware precinct 01-32"
+  },
+  "ocd-division/country:us/state:de/county:new_castle/school_district:charter_school_of_wilmington": {
+   "name": "charter school of wilmington"
+  },
+  "ocd-division/country:us/state:de/sldl:36/precinct:11": {
+   "name": "Delaware precinct 11-36"
+  },
+  "ocd-division/country:us/state:de/sldl:41/precinct:16": {
+   "name": "Delaware precinct 16-41"
+  },
+  "ocd-division/country:us/state:de/place:south_bethany": {
+   "name": "South Bethany town"
+  },
+  "ocd-division/country:us/state:de/sldl:36/precinct:10": {
+   "name": "Delaware precinct 10-36"
+  },
+  "ocd-division/country:us/state:de/place:laurel": {
+   "name": "Laurel town"
+  },
+  "ocd-division/country:us/state:de/place:houston": {
+   "name": "Houston town"
+  },
+  "ocd-division/country:us/state:de/sldu:16": {
+   "name": "Delaware State Senate district 16",
+   "officeIndices": [
+    54
+   ]
+  },
+  "ocd-division/country:us/state:de/sldu:17": {
+   "name": "Delaware State Senate district 17",
+   "officeIndices": [
+    55
+   ]
+  },
+  "ocd-division/country:us/state:de/sldu:18": {
+   "name": "Delaware State Senate district 18",
+   "officeIndices": [
+    56
+   ]
+  },
+  "ocd-division/country:us/state:de/sldu:19": {
+   "name": "Delaware State Senate district 19",
+   "officeIndices": [
+    57
+   ]
+  },
+  "ocd-division/country:us/state:de/place:viola": {
+   "name": "Viola town"
+  },
+  "ocd-division/country:us/state:de/sldl:19/precinct:6": {
+   "name": "Delaware precinct 06-19"
+  },
+  "ocd-division/country:us/state:de/sldl:19/precinct:5": {
+   "name": "Delaware precinct 05-19"
+  },
+  "ocd-division/country:us/state:de/sldu:10": {
+   "name": "Delaware State Senate district 10",
+   "officeIndices": [
+    58
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:19/precinct:8": {
+   "name": "Delaware precinct 08-19"
+  },
+  "ocd-division/country:us/state:de/sldu:11": {
+   "name": "Delaware State Senate district 11",
+   "officeIndices": [
+    59
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:19/precinct:7": {
+   "name": "Delaware precinct 07-19"
+  },
+  "ocd-division/country:us/state:de/sldu:12": {
+   "name": "Delaware State Senate district 12",
+   "officeIndices": [
+    60
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:19/precinct:2": {
+   "name": "Delaware precinct 02-19"
+  },
+  "ocd-division/country:us/state:de/sldu:13": {
+   "name": "Delaware State Senate district 13",
+   "officeIndices": [
+    61
+   ]
+  },
+  "ocd-division/country:us/state:de/place:greenwood": {
+   "name": "Greenwood town"
+  },
+  "ocd-division/country:us/state:de/sldl:19/precinct:1": {
+   "name": "Delaware precinct 01-19"
+  },
+  "ocd-division/country:us/state:de/sldu:14": {
+   "name": "Delaware State Senate district 14",
+   "officeIndices": [
+    62
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:19/precinct:4": {
+   "name": "Delaware precinct 04-19"
+  },
+  "ocd-division/country:us/state:de/sldu:15": {
+   "name": "Delaware State Senate district 15",
+   "officeIndices": [
+    63
+   ]
+  },
+  "ocd-division/country:us/state:de/sldl:19/precinct:3": {
+   "name": "Delaware precinct 03-19"
+  },
+  "ocd-division/country:us/state:de/sldl:31/precinct:2": {
+   "name": "Delaware precinct 02-31"
+  },
+  "ocd-division/country:us/state:de/sldl:31/precinct:1": {
+   "name": "Delaware precinct 01-31"
+  },
+  "ocd-division/country:us/state:de/place:fenwick_island": {
+   "name": "Fenwick Island town"
+  },
+  "ocd-division/country:us/state:de/sldl:31/precinct:6": {
+   "name": "Delaware precinct 06-31"
+  },
+  "ocd-division/country:us/state:de/sldl:31/precinct:5": {
+   "name": "Delaware precinct 05-31"
+  },
+  "ocd-division/country:us/state:de/sldl:31/precinct:4": {
+   "name": "Delaware precinct 04-31"
+  },
+  "ocd-division/country:us/state:de/sldl:19/precinct:9": {
+   "name": "Delaware precinct 09-19"
+  },
+  "ocd-division/country:us/state:de/sldl:31/precinct:3": {
+   "name": "Delaware precinct 03-31"
+  },
+  "ocd-division/country:us/state:de/sldl:12/precinct:1": {
+   "name": "Delaware precinct 01-12"
+  },
+  "ocd-division/country:us/state:de/sldl:31/precinct:9": {
+   "name": "Delaware precinct 09-31"
+  },
+  "ocd-division/country:us/state:de/sldl:31/precinct:8": {
+   "name": "Delaware precinct 08-31"
+  },
+  "ocd-division/country:us/state:de/sldl:31/precinct:7": {
+   "name": "Delaware precinct 07-31"
+  },
+  "ocd-division/country:us/state:de/county:new_castle": {
+   "name": "New Castle County",
+   "officeIndices": [
+    115,
+    116,
+    117,
+    118,
+    119,
+    120
+   ]
+  },
+  "ocd-division/country:us/state:de/sldu:21": {
+   "name": "Delaware State Senate district 21",
+   "officeIndices": [
+    64
+   ]
+  },
+  "ocd-division/country:us/state:de/place:elsmere": {
+   "name": "Elsmere town"
+  },
+  "ocd-division/country:us/state:de/sldu:20": {
+   "name": "Delaware State Senate district 20",
+   "officeIndices": [
+    65
+   ]
+  }
+ },
+ "offices": [
+  {
+   "name": "United States Senate",
+   "divisionId": "ocd-division/country:us/state:de",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    0,
+    1
+   ]
+  },
+  {
+   "name": "United States House of Representatives DE",
+   "divisionId": "ocd-division/country:us/state:de",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    2
+   ]
+  },
+  {
+   "name": "DE State House District 39",
+   "divisionId": "ocd-division/country:us/state:de/sldl:39",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    3
+   ]
+  },
+  {
+   "name": "DE State House District 37",
+   "divisionId": "ocd-division/country:us/state:de/sldl:37",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    4
+   ]
+  },
+  {
+   "name": "DE State House District 38",
+   "divisionId": "ocd-division/country:us/state:de/sldl:38",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    5
+   ]
+  },
+  {
+   "name": "DE State House District 41",
+   "divisionId": "ocd-division/country:us/state:de/sldl:41",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    6
+   ]
+  },
+  {
+   "name": "DE State House District 40",
+   "divisionId": "ocd-division/country:us/state:de/sldl:40",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    7
+   ]
+  },
+  {
+   "name": "DE State House District 11",
+   "divisionId": "ocd-division/country:us/state:de/sldl:11",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    8
+   ]
+  },
+  {
+   "name": "DE State House District 12",
+   "divisionId": "ocd-division/country:us/state:de/sldl:12",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    9
+   ]
+  },
+  {
+   "name": "DE State House District 13",
+   "divisionId": "ocd-division/country:us/state:de/sldl:13",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    10
+   ]
+  },
+  {
+   "name": "DE State House District 14",
+   "divisionId": "ocd-division/country:us/state:de/sldl:14",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    11
+   ]
+  },
+  {
+   "name": "DE State House District 10",
+   "divisionId": "ocd-division/country:us/state:de/sldl:10",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    12
+   ]
+  },
+  {
+   "name": "DE State House District 27",
+   "divisionId": "ocd-division/country:us/state:de/sldl:27",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    13
+   ]
+  },
+  {
+   "name": "DE State House District 26",
+   "divisionId": "ocd-division/country:us/state:de/sldl:26",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    14
+   ]
+  },
+  {
+   "name": "DE State House District 29",
+   "divisionId": "ocd-division/country:us/state:de/sldl:29",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    15
+   ]
+  },
+  {
+   "name": "DE State House District 28",
+   "divisionId": "ocd-division/country:us/state:de/sldl:28",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    16
+   ]
+  },
+  {
+   "name": "DE State House District 30",
+   "divisionId": "ocd-division/country:us/state:de/sldl:30",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    17
+   ]
+  },
+  {
+   "name": "DE State House District 31",
+   "divisionId": "ocd-division/country:us/state:de/sldl:31",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    18
+   ]
+  },
+  {
+   "name": "DE State House District 32",
+   "divisionId": "ocd-division/country:us/state:de/sldl:32",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    19
+   ]
+  },
+  {
+   "name": "DE State House District 33",
+   "divisionId": "ocd-division/country:us/state:de/sldl:33",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    20
+   ]
+  },
+  {
+   "name": "DE State House District 34",
+   "divisionId": "ocd-division/country:us/state:de/sldl:34",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    21
+   ]
+  },
+  {
+   "name": "DE State House District 35",
+   "divisionId": "ocd-division/country:us/state:de/sldl:35",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    22
+   ]
+  },
+  {
+   "name": "DE State House District 36",
+   "divisionId": "ocd-division/country:us/state:de/sldl:36",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    23
+   ]
+  },
+  {
+   "name": "DE State House District 18",
+   "divisionId": "ocd-division/country:us/state:de/sldl:18",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    24
+   ]
+  },
+  {
+   "name": "DE State House District 17",
+   "divisionId": "ocd-division/country:us/state:de/sldl:17",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    25
+   ]
+  },
+  {
+   "name": "DE State House District 16",
+   "divisionId": "ocd-division/country:us/state:de/sldl:16",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    26
+   ]
+  },
+  {
+   "name": "DE State House District 15",
+   "divisionId": "ocd-division/country:us/state:de/sldl:15",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    27
+   ]
+  },
+  {
+   "name": "DE State House District 19",
+   "divisionId": "ocd-division/country:us/state:de/sldl:19",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    28
+   ]
+  },
+  {
+   "name": "DE State House District 20",
+   "divisionId": "ocd-division/country:us/state:de/sldl:20",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    29
+   ]
+  },
+  {
+   "name": "DE State House District 21",
+   "divisionId": "ocd-division/country:us/state:de/sldl:21",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    30
+   ]
+  },
+  {
+   "name": "DE State House District 24",
+   "divisionId": "ocd-division/country:us/state:de/sldl:24",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    31
+   ]
+  },
+  {
+   "name": "DE State House District 25",
+   "divisionId": "ocd-division/country:us/state:de/sldl:25",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    32
+   ]
+  },
+  {
+   "name": "DE State House District 22",
+   "divisionId": "ocd-division/country:us/state:de/sldl:22",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    33
+   ]
+  },
+  {
+   "name": "DE State House District 23",
+   "divisionId": "ocd-division/country:us/state:de/sldl:23",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    34
+   ]
+  },
+  {
+   "name": "DE State Senate District 8",
+   "divisionId": "ocd-division/country:us/state:de/sldu:8",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    35
+   ]
+  },
+  {
+   "name": "DE State Senate District 7",
+   "divisionId": "ocd-division/country:us/state:de/sldu:7",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    36
+   ]
+  },
+  {
+   "name": "DE State Senate District 9",
+   "divisionId": "ocd-division/country:us/state:de/sldu:9",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    37
+   ]
+  },
+  {
+   "name": "DE State Senate District 4",
+   "divisionId": "ocd-division/country:us/state:de/sldu:4",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    38
+   ]
+  },
+  {
+   "name": "DE State Senate District 3",
+   "divisionId": "ocd-division/country:us/state:de/sldu:3",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    39
+   ]
+  },
+  {
+   "name": "DE State Senate District 6",
+   "divisionId": "ocd-division/country:us/state:de/sldu:6",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    40
+   ]
+  },
+  {
+   "name": "DE State Senate District 5",
+   "divisionId": "ocd-division/country:us/state:de/sldu:5",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    41
+   ]
+  },
+  {
+   "name": "DE State Senate District 1",
+   "divisionId": "ocd-division/country:us/state:de/sldu:1",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    42
+   ]
+  },
+  {
+   "name": "DE State Senate District 2",
+   "divisionId": "ocd-division/country:us/state:de/sldu:2",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    43
+   ]
+  },
+  {
+   "name": "Governor",
+   "divisionId": "ocd-division/country:us/state:de",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "headOfGovernment"
+   ],
+   "officialIndices": [
+    44
+   ]
+  },
+  {
+   "name": "Lieutenant Governor",
+   "divisionId": "ocd-division/country:us/state:de",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "deputyHeadOfGovernment"
+   ],
+   "officialIndices": [
+    45
+   ]
+  },
+  {
+   "name": "DE State House District 6",
+   "divisionId": "ocd-division/country:us/state:de/sldl:6",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    46
+   ]
+  },
+  {
+   "name": "DE State House District 7",
+   "divisionId": "ocd-division/country:us/state:de/sldl:7",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    47
+   ]
+  },
+  {
+   "name": "DE State House District 4",
+   "divisionId": "ocd-division/country:us/state:de/sldl:4",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    48
+   ]
+  },
+  {
+   "name": "DE State House District 5",
+   "divisionId": "ocd-division/country:us/state:de/sldl:5",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    49
+   ]
+  },
+  {
+   "name": "DE State House District 8",
+   "divisionId": "ocd-division/country:us/state:de/sldl:8",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    50
+   ]
+  },
+  {
+   "name": "DE State House District 9",
+   "divisionId": "ocd-division/country:us/state:de/sldl:9",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    51
+   ]
+  },
+  {
+   "name": "DE State House District 2",
+   "divisionId": "ocd-division/country:us/state:de/sldl:2",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    52
+   ]
+  },
+  {
+   "name": "DE State House District 3",
+   "divisionId": "ocd-division/country:us/state:de/sldl:3",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    53
+   ]
+  },
+  {
+   "name": "DE State House District 1",
+   "divisionId": "ocd-division/country:us/state:de/sldl:1",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    54
+   ]
+  },
+  {
+   "name": "DE State Senate District 16",
+   "divisionId": "ocd-division/country:us/state:de/sldu:16",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    55
+   ]
+  },
+  {
+   "name": "DE State Senate District 17",
+   "divisionId": "ocd-division/country:us/state:de/sldu:17",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    56
+   ]
+  },
+  {
+   "name": "DE State Senate District 18",
+   "divisionId": "ocd-division/country:us/state:de/sldu:18",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    57
+   ]
+  },
+  {
+   "name": "DE State Senate District 19",
+   "divisionId": "ocd-division/country:us/state:de/sldu:19",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    58
+   ]
+  },
+  {
+   "name": "DE State Senate District 10",
+   "divisionId": "ocd-division/country:us/state:de/sldu:10",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    59
+   ]
+  },
+  {
+   "name": "DE State Senate District 11",
+   "divisionId": "ocd-division/country:us/state:de/sldu:11",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    60
+   ]
+  },
+  {
+   "name": "DE State Senate District 12",
+   "divisionId": "ocd-division/country:us/state:de/sldu:12",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    61
+   ]
+  },
+  {
+   "name": "DE State Senate District 13",
+   "divisionId": "ocd-division/country:us/state:de/sldu:13",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    62
+   ]
+  },
+  {
+   "name": "DE State Senate District 14",
+   "divisionId": "ocd-division/country:us/state:de/sldu:14",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    63
+   ]
+  },
+  {
+   "name": "DE State Senate District 15",
+   "divisionId": "ocd-division/country:us/state:de/sldu:15",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    64
+   ]
+  },
+  {
+   "name": "DE State Senate District 21",
+   "divisionId": "ocd-division/country:us/state:de/sldu:21",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    65
+   ]
+  },
+  {
+   "name": "DE State Senate District 20",
+   "divisionId": "ocd-division/country:us/state:de/sldu:20",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorUpperBody"
+   ],
+   "officialIndices": [
+    66
+   ]
+  },
+  {
+   "name": "Council, District 8",
+   "divisionId": "ocd-division/country:us/state:de/place:wilmington/council_district:8",
+   "officialIndices": [
+    67
+   ]
+  },
+  {
+   "name": "Council, District 7",
+   "divisionId": "ocd-division/country:us/state:de/place:wilmington/council_district:7",
+   "officialIndices": [
+    68
+   ]
+  },
+  {
+   "name": "Council, District 4",
+   "divisionId": "ocd-division/country:us/state:de/place:wilmington/council_district:4",
+   "officialIndices": [
+    69
+   ]
+  },
+  {
+   "name": "Council, District 3",
+   "divisionId": "ocd-division/country:us/state:de/place:wilmington/council_district:3",
+   "officialIndices": [
+    70
+   ]
+  },
+  {
+   "name": "Council, District 6",
+   "divisionId": "ocd-division/country:us/state:de/place:wilmington/council_district:6",
+   "officialIndices": [
+    71
+   ]
+  },
+  {
+   "name": "Council, District 5",
+   "divisionId": "ocd-division/country:us/state:de/place:wilmington/council_district:5",
+   "officialIndices": [
+    72
+   ]
+  },
+  {
+   "name": "Council, District 1",
+   "divisionId": "ocd-division/country:us/state:de/place:wilmington/council_district:1",
+   "officialIndices": [
+    73
+   ]
+  },
+  {
+   "name": "Council, District 2",
+   "divisionId": "ocd-division/country:us/state:de/place:wilmington/council_district:2",
+   "officialIndices": [
+    74
+   ]
+  },
+  {
+   "name": "Levy Court Commissioner, District 1",
+   "divisionId": "ocd-division/country:us/state:de/county:kent/council_district:1",
+   "officialIndices": [
+    75
+   ]
+  },
+  {
+   "name": "County Council, District 1",
+   "divisionId": "ocd-division/country:us/state:de/county:sussex/council_district:1",
+   "officialIndices": [
+    76
+   ]
+  },
+  {
+   "name": "County Council, District 2",
+   "divisionId": "ocd-division/country:us/state:de/county:sussex/council_district:2",
+   "officialIndices": [
+    77
+   ]
+  },
+  {
+   "name": "County Council, District 5",
+   "divisionId": "ocd-division/country:us/state:de/county:sussex/council_district:5",
+   "officialIndices": [
+    78
+   ]
+  },
+  {
+   "name": "County Council, District 3",
+   "divisionId": "ocd-division/country:us/state:de/county:sussex/council_district:3",
+   "officialIndices": [
+    79
+   ]
+  },
+  {
+   "name": "County Council, District 4",
+   "divisionId": "ocd-division/country:us/state:de/county:sussex/council_district:4",
+   "officialIndices": [
+    80
+   ]
+  },
+  {
+   "name": "Levy Court Commissioner, District 6",
+   "divisionId": "ocd-division/country:us/state:de/county:kent/council_district:6",
+   "officialIndices": [
+    81
+   ]
+  },
+  {
+   "name": "Levy Court Commissioner, District 3",
+   "divisionId": "ocd-division/country:us/state:de/county:kent/council_district:3",
+   "officialIndices": [
+    82
+   ]
+  },
+  {
+   "name": "Levy Court Commissioner, District 2",
+   "divisionId": "ocd-division/country:us/state:de/county:kent/council_district:2",
+   "officialIndices": [
+    83
+   ]
+  },
+  {
+   "name": "Levy Court Commissioner, District 5",
+   "divisionId": "ocd-division/country:us/state:de/county:kent/council_district:5",
+   "officialIndices": [
+    84
+   ]
+  },
+  {
+   "name": "Levy Court Commissioner, District 4",
+   "divisionId": "ocd-division/country:us/state:de/county:kent/council_district:4",
+   "officialIndices": [
+    85
+   ]
+  },
+  {
+   "name": "Sheriff",
+   "divisionId": "ocd-division/country:us/state:de/county:kent",
+   "officialIndices": [
+    86
+   ]
+  },
+  {
+   "name": "Comptroller",
+   "divisionId": "ocd-division/country:us/state:de/county:kent",
+   "officialIndices": [
+    87
+   ]
+  },
+  {
+   "name": "Recorder of Deeds",
+   "divisionId": "ocd-division/country:us/state:de/county:kent",
+   "officialIndices": [
+    88
+   ]
+  },
+  {
+   "name": "Register of Wills",
+   "divisionId": "ocd-division/country:us/state:de/county:kent",
+   "officialIndices": [
+    89
+   ]
+  },
+  {
+   "name": "Clerk of the Peace",
+   "divisionId": "ocd-division/country:us/state:de/county:kent",
+   "officialIndices": [
+    90
+   ]
+  },
+  {
+   "name": "Levy Court Commissioner, District AtLarge",
+   "divisionId": "ocd-division/country:us/state:de/county:kent",
+   "officialIndices": [
+    91
+   ]
+  },
+  {
+   "name": "County Council, District 12",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle/council_district:12",
+   "officialIndices": [
+    92
+   ]
+  },
+  {
+   "name": "County Council, District 10",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle/council_district:10",
+   "officialIndices": [
+    93
+   ]
+  },
+  {
+   "name": "County Council, District 11",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle/council_district:11",
+   "officialIndices": [
+    94
+   ]
+  },
+  {
+   "name": "Mayor",
+   "divisionId": "ocd-division/country:us/state:de/place:wilmington",
+   "officialIndices": [
+    95
+   ]
+  },
+  {
+   "name": "Council",
+   "divisionId": "ocd-division/country:us/state:de/place:wilmington",
+   "officialIndices": [
+    96,
+    97,
+    98,
+    99
+   ]
+  },
+  {
+   "name": "Treasurer",
+   "divisionId": "ocd-division/country:us/state:de/place:wilmington",
+   "officialIndices": [
+    100
+   ]
+  },
+  {
+   "name": "Council President",
+   "divisionId": "ocd-division/country:us/state:de/place:wilmington",
+   "officialIndices": [
+    101
+   ]
+  },
+  {
+   "name": "State Treasurer",
+   "divisionId": "ocd-division/country:us/state:de",
+   "officialIndices": [
+    102
+   ]
+  },
+  {
+   "name": "Attorney General",
+   "divisionId": "ocd-division/country:us/state:de",
+   "officialIndices": [
+    103
+   ]
+  },
+  {
+   "name": "Auditor of Accounts",
+   "divisionId": "ocd-division/country:us/state:de",
+   "officialIndices": [
+    104
+   ]
+  },
+  {
+   "name": "Insurance Commissioner",
+   "divisionId": "ocd-division/country:us/state:de",
+   "officialIndices": [
+    105
+   ]
+  },
+  {
+   "name": "County Council, District 1",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle/council_district:1",
+   "officialIndices": [
+    106
+   ]
+  },
+  {
+   "name": "County Council, District 2",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle/council_district:2",
+   "officialIndices": [
+    107
+   ]
+  },
+  {
+   "name": "County Council, District 3",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle/council_district:3",
+   "officialIndices": [
+    108
+   ]
+  },
+  {
+   "name": "County Council, District 4",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle/council_district:4",
+   "officialIndices": [
+    109
+   ]
+  },
+  {
+   "name": "County Council, District 5",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle/council_district:5",
+   "officialIndices": [
+    110
+   ]
+  },
+  {
+   "name": "County Council, District 6",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle/council_district:6",
+   "officialIndices": [
+    111
+   ]
+  },
+  {
+   "name": "County Council, District 7",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle/council_district:7",
+   "officialIndices": [
+    112
+   ]
+  },
+  {
+   "name": "County Council, District 8",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle/council_district:8",
+   "officialIndices": [
+    113
+   ]
+  },
+  {
+   "name": "County Council, District 9",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle/council_district:9",
+   "officialIndices": [
+    114
+   ]
+  },
+  {
+   "name": "Sheriff",
+   "divisionId": "ocd-division/country:us/state:de/county:sussex",
+   "officialIndices": [
+    115
+   ]
+  },
+  {
+   "name": "Recorder of Deeds",
+   "divisionId": "ocd-division/country:us/state:de/county:sussex",
+   "officialIndices": [
+    116
+   ]
+  },
+  {
+   "name": "Register of Wills",
+   "divisionId": "ocd-division/country:us/state:de/county:sussex",
+   "officialIndices": [
+    117
+   ]
+  },
+  {
+   "name": "Clerk Of The Peace",
+   "divisionId": "ocd-division/country:us/state:de/county:sussex",
+   "officialIndices": [
+    118
+   ]
+  },
+  {
+   "name": "Sheriff",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle",
+   "officialIndices": [
+    119
+   ]
+  },
+  {
+   "name": "County Executive",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle",
+   "officialIndices": [
+    120
+   ]
+  },
+  {
+   "name": "Council President",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle",
+   "officialIndices": [
+    121
+   ]
+  },
+  {
+   "name": "Recorder of Deeds",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle",
+   "officialIndices": [
+    122
+   ]
+  },
+  {
+   "name": "Register of Wills",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle",
+   "officialIndices": [
+    123
+   ]
+  },
+  {
+   "name": "Clerk Of The Peace",
+   "divisionId": "ocd-division/country:us/state:de/county:new_castle",
+   "officialIndices": [
+    124
+   ]
+  }
+ ],
+ "officials": [
+  {
+   "name": "Christopher A. Coons",
+   "address": [
+    {
+     "line1": "127A Russell Senate Office Building",
+     "city": "washington",
+     "state": "DC",
+     "zip": "20510"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 224-5042"
+   ],
+   "urls": [
+    "http://www.coons.senate.gov/"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "senatorchriscoons"
+    },
+    {
+     "type": "Twitter",
+     "id": "SenCoonsOffice"
+    }
+   ]
+  },
+  {
+   "name": "Thomas R. Carper",
+   "address": [
+    {
+     "line1": "513 Hart Senate Office Building",
+     "city": "washington",
+     "state": "DC",
+     "zip": "20510"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 224-2441"
+   ],
+   "urls": [
+    "http://www.carper.senate.gov/public/"
+   ],
+   "photoUrl": "http://carper.senate.gov/public/index.cfm?a=Files.Serve&File_id=77f771ed-3f36-4997-9c44-cba543110f97",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "tomcarper"
+    },
+    {
+     "type": "Twitter",
+     "id": "senatorcarper"
+    },
+    {
+     "type": "YouTube",
+     "id": "senatorcarper"
+    }
+   ]
+  },
+  {
+   "name": "John C. Carney Jr.",
+   "address": [
+    {
+     "line1": "1406 longworth hob",
+     "city": "washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 225-4165"
+   ],
+   "urls": [
+    "http://johncarney.house.gov/"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "JohnCarneyDE"
+    },
+    {
+     "type": "Twitter",
+     "id": "johncarneyde"
+    }
+   ]
+  },
+  {
+   "name": "Daniel B. Short",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4172",
+    "(302) 744-4171",
+    "(302) 628-5222",
+    "(302) 577-8723"
+   ],
+   "urls": [
+    "http://www.repdannyshort.com/"
+   ],
+   "emails": [
+    "Daniel.Short@state.de.us"
+   ]
+  },
+  {
+   "name": "Ruth Briggs King",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4251",
+    "(302) 744-4171",
+    "(302) 856-2772",
+    "(302) 577-8723"
+   ],
+   "urls": [
+    "http://www.ruthbriggsking.com/"
+   ],
+   "photoUrl": "http://www.delawarestatehouse.com/pics/briggs_king--headshot--cropped2--sept_09.jpg",
+   "emails": [
+    "ruthbriggsking@aol.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "114880693615"
+    }
+   ]
+  },
+  {
+   "name": "Ronald E. Gray",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4171",
+    "(302) 577-8723",
+    "(302) 436-7024"
+   ],
+   "urls": [
+    "http://www.reprongray.com/"
+   ],
+   "emails": [
+    "Ronald.Gray@state.de.us"
+   ]
+  },
+  {
+   "name": "Richard G. Collins",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4171",
+    "(302) 577-8723"
+   ],
+   "urls": [
+    "http://www.reprichcollins.com/"
+   ],
+   "photoUrl": "http://www.delawarestatehouse.com/pics/Collins_1.jpg",
+   "emails": [
+    "Richard.G.Collins@state.de.us"
+   ]
+  },
+  {
+   "name": "Timothy D. Dukes",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4171",
+    "(302) 280-6344",
+    "(443) 235-9806"
+   ],
+   "urls": [
+    "http://www.reptimdukes.com/"
+   ],
+   "emails": [
+    "ptdukes@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "representativetimdukes"
+    }
+   ]
+  },
+  {
+   "name": "Jeffrey N. Spiegelman",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4171",
+    "(302) 577-8723",
+    "(302) 399-7728"
+   ],
+   "urls": [
+    "http://www.jeffderepresentative.com/"
+   ],
+   "photoUrl": "http://www.delawarestatehouse.com/pics/spiegelman_place_holder.jpg",
+   "emails": [
+    "jeff@jeffderepresentative.com"
+   ],
+   "channels": [
+    {
+     "type": "YouTube",
+     "id": "friends4jeff"
+    },
+    {
+     "type": "Facebook",
+     "id": "friends4jeff"
+    },
+    {
+     "type": "Twitter",
+     "id": "friends4jeff"
+    }
+   ]
+  },
+  {
+   "name": "Deborah Hudson",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4171",
+    "(302) 577-8723",
+    "(302) 651-9571"
+   ],
+   "urls": [
+    "http://www.repdeborahhudson.com/"
+   ],
+   "emails": [
+    "Deborah.Hudson@state.de.us"
+   ]
+  },
+  {
+   "name": "John L. Mitchell Jr.",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8476"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/john-l-larry-mitchell"
+   ],
+   "emails": [
+    "john.l.mitchell@state.de.us"
+   ]
+  },
+  {
+   "name": "Peter C. Schwartzkopf",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351"
+   ],
+   "emails": [
+    "Peter.Schwartzkopf@state.de.us"
+   ]
+  },
+  {
+   "name": "Sean Matthews",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19903"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8476"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/sean-matthews"
+   ]
+  },
+  {
+   "name": "Earl G. Jaques Jr",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4142",
+    "(302) 577-8476"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/earl-jaques"
+   ],
+   "emails": [
+    "earl.jaques@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "RepDeborahHudson"
+    }
+   ]
+  },
+  {
+   "name": "John J. Viola",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8187",
+    "(302) 598-8311"
+   ],
+   "emails": [
+    "John.Viola@state.de.us"
+   ]
+  },
+  {
+   "name": "W. Charles Paradee",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8476"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/trey-paradee"
+   ],
+   "emails": [
+    "trey.paradee@state.de.us"
+   ]
+  },
+  {
+   "name": "William J. Carson",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4113",
+    "(302) 577-8476"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/william-carson"
+   ],
+   "emails": [
+    "william.carson@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "representativewilliam.carson"
+    }
+   ]
+  },
+  {
+   "name": "William R. \"Bobby\" Outten",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4083",
+    "(302) 398-3816"
+   ],
+   "urls": [
+    "http://www.repbobbyoutten.com/"
+   ],
+   "emails": [
+    "bobby.outten@state.de.us"
+   ]
+  },
+  {
+   "name": "Sean M. Lynn",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 735-1781"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/sean-m-lynn"
+   ]
+  },
+  {
+   "name": "Andria L. Bennett",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8476"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/andria-bennett"
+   ],
+   "emails": [
+    "andria.bennett@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "andria.viola"
+    }
+   ]
+  },
+  {
+   "name": "Harold J. Peterman",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4171",
+    "(302) 335-4261"
+   ],
+   "urls": [
+    "http://www.repjackpeterman.com/"
+   ],
+   "photoUrl": "http://www.delawarestatehouse.com/pics/PetermanLab.jpg",
+   "emails": [
+    "jack.peterman@state.de.us"
+   ]
+  },
+  {
+   "name": "Lyndon D. Yearick",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4171",
+    "(302) 577-8723"
+   ],
+   "urls": [
+    "http://www.replyndonyearick.com/"
+   ],
+   "photoUrl": "http://www.delawarestatehouse.com/pics/Yearick10_mugshot.jpg",
+   "emails": [
+    "Lyndon.Yearick@state.de.us"
+   ]
+  },
+  {
+   "name": "David L. Wilson",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4150",
+    "(302) 422-9270",
+    "(302) 577-8723"
+   ],
+   "urls": [
+    "http://www.repdavewilson.com/"
+   ],
+   "emails": [
+    "David.L.Wilson@state.de.us"
+   ]
+  },
+  {
+   "name": "Harvey R. Kenton",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4171",
+    "(302) 422-6155",
+    "(302) 577-8723"
+   ],
+   "urls": [
+    "http://www.repharveykenton.com/"
+   ],
+   "photoUrl": "http://www.delawarestatehouse.com/pics/Harvey1mug.jpg",
+   "emails": [
+    "Harvey.Kenton@state.de.us"
+   ]
+  },
+  {
+   "name": "Michael A. Barbieri",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 n. french st.",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4279",
+    "(302) 420-6564"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/michael-barbieri"
+   ],
+   "emails": [
+    "michael.barbieri@state.de.us"
+   ]
+  },
+  {
+   "name": "Michael P. Mulrooney",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 n. french st.",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8476"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/mike-p-mulrooney"
+   ],
+   "emails": [
+    "Michael.Mulrooney@state.de.us"
+   ]
+  },
+  {
+   "name": "James Johnson",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8476",
+    "(302) 322-3521"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/jj-johnson"
+   ],
+   "emails": [
+    "jj.johnson@state.de.us"
+   ]
+  },
+  {
+   "name": "Valerie Longhurst",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 n. french st.",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4047",
+    "(302) 577-8476"
+   ],
+   "emails": [
+    "Valerie.Longhurst@state.de.us"
+   ]
+  },
+  {
+   "name": "Kimberly Williams",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8476"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/kimberly-williams"
+   ],
+   "emails": [
+    "kimberly.williams@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "KimWilliamsForStateRepresentative"
+    }
+   ]
+  },
+  {
+   "name": "Stephen T. Smyk",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4321",
+    "(302) 577-8723"
+   ],
+   "urls": [
+    "http://www.repstevesmyk.com/"
+   ],
+   "emails": [
+    "Steve.Smyk@state.de.us"
+   ]
+  },
+  {
+   "name": "Michael Ramone",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4108",
+    "(302) 577-8723",
+    "(302) 584-8601"
+   ],
+   "urls": [
+    "http://www.repmichaelramone.com/"
+   ],
+   "emails": [
+    "Michael.Ramone@state.de.us"
+   ]
+  },
+  {
+   "name": "Edward S. Osienski",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8476",
+    "(302) 292-8903"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/ed-osienski"
+   ],
+   "emails": [
+    "Edward.Osienski@state.de.us"
+   ]
+  },
+  {
+   "name": "John A. Kowalko Jr.",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8342",
+    "(302) 737-2396"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/john-kowalko"
+   ],
+   "emails": [
+    "john.kowalko@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "KowalkoForThe25th"
+    }
+   ]
+  },
+  {
+   "name": "Joseph E. Miro",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 n. french st.",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4171",
+    "(302) 577-8723"
+   ],
+   "urls": [
+    "http://www.repjoemiro.com/"
+   ],
+   "emails": [
+    "joseph.miro@state.de.us"
+   ]
+  },
+  {
+   "name": "Paul S. Baumbach",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8489"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/paul-baumbach"
+   ],
+   "emails": [
+    "paul.baumbach@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "paulbaumbach23"
+    }
+   ]
+  },
+  {
+   "name": "David P. Sokola",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building\n11th Floor",
+     "line2": "820 n. french st.",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4139",
+    "(302) 239-2193"
+   ],
+   "urls": [
+    "http://www.desenatedems.com/david-p-sokola.html"
+   ],
+   "emails": [
+    "David.Sokola@state.de.us"
+   ]
+  },
+  {
+   "name": "Patricia M. Blevins",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "11th Floor",
+     "line3": "820 N. French Street",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4133",
+    "(302) 744-4286",
+    "(302) 577-8542",
+    "(302) 577-8744"
+   ],
+   "urls": [
+    "http://www.senatorblevins.com/"
+   ],
+   "emails": [
+    "Patricia.Blevins@state.de.us"
+   ]
+  },
+  {
+   "name": "Karen  E. Peterson",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building\n11th Floor",
+     "line2": "820 n. french st.",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4163",
+    "(302) 999-7522"
+   ],
+   "urls": [
+    "http://www.desenatedems.com/karen-e-peterson.html"
+   ],
+   "emails": [
+    "Karen.Peterson@state.de.us"
+   ]
+  },
+  {
+   "name": "Gregory F. Lavelle",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "11th Floor",
+     "line3": "820 N. French Street",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4048",
+    "(302) 577-8714",
+    "(302) 478-6128"
+   ],
+   "urls": [
+    "http://www.greglavelle.com/"
+   ],
+   "emails": [
+    "greg.lavelle@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "GregLavelle302"
+    },
+    {
+     "type": "Twitter",
+     "id": "GregLavelle302"
+    }
+   ]
+  },
+  {
+   "name": "Robert I. Marshall",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building\n11th Floor",
+     "line2": "820 n. french st.",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4168",
+    "(302) 577-8519"
+   ],
+   "urls": [
+    "http://www.desenatedems.com/robert-i-marshall.html"
+   ],
+   "emails": [
+    "robert.marshall@state.de.us"
+   ]
+  },
+  {
+   "name": "Ernesto B. Lopez",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "34108 Juniper Drive",
+     "line2": "",
+     "line3": "",
+     "city": "Lewes",
+     "state": "DE",
+     "zip": "19958"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4136",
+    "(302) 744-4048",
+    "(302) 598-7669",
+    "(302) 577-8714"
+   ],
+   "urls": [
+    "http://www.lopezforde.com/"
+   ],
+   "emails": [
+    "Ernesto.Lopez@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "LopezforDE"
+    }
+   ]
+  },
+  {
+   "name": "Catherine Cloutier",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "11th Floor",
+     "line3": "820 N. French Street",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4197",
+    "(302) 744-4048",
+    "(302) 577-8517",
+    "(302) 478-9616"
+   ],
+   "urls": [
+    "http://www.delawaresenate.com/index.cfm?ref=10100&ref5=20"
+   ],
+   "emails": [
+    "catherine.cloutier@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "SenatorCathyCloutier"
+    }
+   ]
+  },
+  {
+   "name": "Harris B. McDowell III",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building\n11th Floor",
+     "line2": "820 n. french st.",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4147",
+    "(302) 577-8744"
+   ],
+   "urls": [
+    "http://www.desenatedems.com/harris-b-mcdowell-iii.html"
+   ],
+   "emails": [
+    "Harris.McDowell@state.de.us"
+   ]
+  },
+  {
+   "name": "Margaret Rose Henry",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building\n11th Floor",
+     "line2": "820 n. french st.",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4191",
+    "(302) 577-8719"
+   ],
+   "urls": [
+    "http://www.desenatedems.com/margaret-rose-henry-majority-whip.html"
+   ],
+   "emails": [
+    "MargaretRose.Henry@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "margaret.r.henry.1"
+    }
+   ]
+  },
+  {
+   "name": "Jack Markell",
+   "address": [
+    {
+     "line1": "150 Martin Luther King Jr. Blvd. South 2nd Floor",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4101"
+   ],
+   "urls": [
+    "http://governor.delaware.gov/index.shtml"
+   ],
+   "photoUrl": "http://governor.delaware.gov/usr/img/jackmarkell_bio.jpg",
+   "emails": [
+    "jmarkell@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "108806646272371382367"
+    },
+    {
+     "type": "Facebook",
+     "id": "GovernorMarkell"
+    },
+    {
+     "type": "Twitter",
+     "id": "GovernorMarkell"
+    },
+    {
+     "type": "YouTube",
+     "id": "GovernorMarkell"
+    }
+   ]
+  },
+  {
+   "name": "Matt Denn",
+   "address": [
+    {
+     "line1": "Tatnall Building 3rd Floor",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4333"
+   ],
+   "emails": [
+    "matthew.denn@state.de.us"
+   ]
+  },
+  {
+   "name": "Debra J. Heffernan",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 n. french st.",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8476",
+    "(302) 762-3478"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/debra-heffernan"
+   ],
+   "emails": [
+    "debra.heffernan@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "DebraHeffernan"
+    },
+    {
+     "type": "Facebook",
+     "id": "RepDebraHeffernan"
+    }
+   ]
+  },
+  {
+   "name": "Bryon H. Short",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 n. french st.",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4297",
+    "(302) 475-2552"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/bryon-short"
+   ],
+   "emails": [
+    "Bryon.Short@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "Bryon.Short"
+    }
+   ]
+  },
+  {
+   "name": "Gerald L. Brady",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 n. french st.",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8476"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/gerald-l-brady"
+   ],
+   "emails": [
+    "gerald.brady@state.de.us"
+   ]
+  },
+  {
+   "name": "Melanie George Smith",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4126",
+    "(302) 577-8476"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/melanie-george-smith"
+   ],
+   "emails": [
+    "melanie.g.smith@state.de.us"
+   ]
+  },
+  {
+   "name": "S. Quinton Johnson",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8476",
+    "(302) 378-2681"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/s-quinton-quinn-johnson"
+   ],
+   "emails": [
+    "Quinton.Johnson@state.de.us"
+   ]
+  },
+  {
+   "name": "Kevin S. Hensley",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4171",
+    "(302) 577-8723"
+   ],
+   "urls": [
+    "http://www.repkevinhensley.com/"
+   ]
+  },
+  {
+   "name": "Stephanie T. Bolden",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8476",
+    "(302) 428-1269"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/stephanie-t-bolden"
+   ],
+   "emails": [
+    "StephanieT.Bolden@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "YouTube",
+     "id": "UCaW7lhy_nAFuN5VQQbseD-Q"
+    },
+    {
+     "type": "Facebook",
+     "id": "StephanieTBolden"
+    }
+   ]
+  },
+  {
+   "name": "Helene M. Keeley",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-8476"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/helene-m-keeley"
+   ],
+   "emails": [
+    "helene.keeley@state.de.us"
+   ]
+  },
+  {
+   "name": "Charles Potter Jr.",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "820 N. French Street",
+     "line3": "",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4351",
+    "(302) 577-5312",
+    "(302) 762-8322"
+   ],
+   "urls": [
+    "http://www.dehousedems.com/profile/charles-potter-jr"
+   ],
+   "emails": [
+    "Charles.Potter@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "CharlesPotterJr"
+    },
+    {
+     "type": "Facebook",
+     "id": "charlespotterjr"
+    }
+   ]
+  },
+  {
+   "name": "Colin R. J. Bonini",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "276 Banning Road",
+     "line2": "",
+     "line3": "",
+     "city": "Camden-Wyoming",
+     "state": "DE",
+     "zip": "19904"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4169",
+    "(302) 744-4048",
+    "(302) 698-0960",
+    "(302) 577-8714"
+   ],
+   "urls": [
+    "http://www.delawaresenate.com/index.cfm?ref=10100&ref5=18"
+   ],
+   "emails": [
+    "senator-colin@prodigy.net"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "colinbonini"
+    }
+   ]
+  },
+  {
+   "name": "Brian J. Bushweller",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "11th Floor",
+     "line3": "820 N. French Street",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4162",
+    "(302) 744-4286",
+    "(302) 674-5442",
+    "(302) 577-8744"
+   ],
+   "urls": [
+    "http://bushwellersenate.com/"
+   ],
+   "emails": [
+    "brian.bushweller@state.de.us"
+   ]
+  },
+  {
+   "name": "F. Gary Simpson",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "6 W Clark Avenue",
+     "line2": "",
+     "line3": "",
+     "city": "Milford",
+     "state": "DE",
+     "zip": "19963"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4134",
+    "(302) 744-4048",
+    "(302) 577-8714"
+   ],
+   "urls": [
+    "http://www.delawaresenate.com/index.cfm?ref=10100&ref5=16"
+   ],
+   "emails": [
+    "gsimpson@udel.edu"
+   ]
+  },
+  {
+   "name": "Brian Pettyjohn",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "P.O. Box 616",
+     "line2": "",
+     "line3": "",
+     "city": "Georgetown",
+     "state": "DE",
+     "zip": "19947"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4117",
+    "(302) 744-4048",
+    "(302) 858-0694",
+    "(302) 577-8714"
+   ],
+   "urls": [
+    "http://www.delawaresenate.com/index.cfm?ref=10100&ref5=28"
+   ],
+   "emails": [
+    "Brian.Pettyjohn@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "BrianGPettyjohn"
+    }
+   ]
+  },
+  {
+   "name": "Bethany A. Hall-Long",
+   "address": [
+    {
+     "line1": "199013",
+     "line2": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": ""
+    },
+    {
+     "line1": "Carvel State Office Building\n11th Floor",
+     "line2": "820 n. french st.",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4286",
+    "(302) 744-4286"
+   ],
+   "urls": [
+    "http://www.desenatedems.com/bethany-a-hall-long.html"
+   ],
+   "emails": [
+    "bethany.hall-long@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "bethanyhalllong"
+    }
+   ]
+  },
+  {
+   "name": "Bryan Townsend",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "11th Floor",
+     "line3": "820 N. French Street",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4165",
+    "(302) 744-4286",
+    "(302) 577-5316",
+    "(302) 709-1516"
+   ],
+   "urls": [
+    "http://bryande.com/"
+   ],
+   "emails": [
+    "Bryan.Townsend@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "BryanTownsendDE"
+    },
+    {
+     "type": "Twitter",
+     "id": "BryanTownsendDE"
+    }
+   ]
+  },
+  {
+   "name": "Nicole Poore",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building",
+     "line2": "11th Floor",
+     "line3": "820 N. French Street",
+     "city": "Wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4164",
+    "(302) 744-4286",
+    "(302) 577-8744"
+   ],
+   "urls": [
+    "http://nicolepoore.com/"
+   ],
+   "photoUrl": "https://scontent-a.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/521354_378360438877331_1456772381_n.jpg?oh=d3cca0ab02881fa450296142311e1a15&oe=553D6181",
+   "emails": [
+    "Nicole.Poore@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "YouTube",
+     "id": "UCFbf4tuyFYIBDtJino2CLJg"
+    },
+    {
+     "type": "Twitter",
+     "id": "NicolePoore12"
+    }
+   ]
+  },
+  {
+   "name": "David B. McBride",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "Carvel State Office Building\n11th Floor",
+     "line2": "820 n. french st.",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4167",
+    "(302) 577-8744"
+   ],
+   "urls": [
+    "http://www.desenatedems.com/david-b-mcbride-majority-leader.html"
+   ],
+   "emails": [
+    "David.McBride@state.de.us"
+   ]
+  },
+  {
+   "name": "Bruce C. Ennis",
+   "address": [
+    {
+     "line1": "411 legislative avenue",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 744-4310"
+   ],
+   "urls": [
+    "http://brucecennis.weebly.com/index.html"
+   ],
+   "emails": [
+    "bruce.ennis@state.de.us"
+   ]
+  },
+  {
+   "name": "David G. Lawson",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "2257 Westville Road",
+     "line2": "",
+     "line3": "",
+     "city": "Marydel",
+     "state": "DE",
+     "zip": "19964"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4237",
+    "(302) 744-4048",
+    "(302) 270-1038",
+    "(302) 577-8714"
+   ],
+   "urls": [
+    "http://www.delawaresenate.com/index.cfm?ref=10100&ref5=22"
+   ],
+   "photoUrl": "http://www.delawaresenate.com/pics/Lawson.jpg",
+   "emails": [
+    "Dave.Lawson@state.de.us"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "davelawsonforsenate"
+    }
+   ]
+  },
+  {
+   "name": "Bryant L. Richardson",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4048"
+   ]
+  },
+  {
+   "name": "Gerald W. Hocker",
+   "address": [
+    {
+     "line1": "Legislative Hall",
+     "line2": "411 Legislative Avenue",
+     "line3": "",
+     "city": "Dover",
+     "state": "DE",
+     "zip": "19901"
+    },
+    {
+     "line1": "38489 Hickman Road",
+     "line2": "",
+     "line3": "",
+     "city": "Ocean View",
+     "state": "DE",
+     "zip": "19970"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 744-4144",
+    "(302) 744-4048",
+    "(302) 537-6016",
+    "(302) 539-4140"
+   ],
+   "urls": [
+    "http://www.geraldhocker.com/"
+   ],
+   "emails": [
+    "Gerald.Hocker@state.de.us"
+   ]
+  },
+  {
+   "name": "Charles M. \"Bud\" Freel",
+   "address": [
+    {
+     "line1": "800 n. french street",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "phones": [
+    "(302) 576-2140"
+   ],
+   "urls": [
+    "http://www.ci.wilmington.de.us/government/8thdistrict"
+   ],
+   "emails": [
+    "budfreel@aol.com"
+   ]
+  },
+  {
+   "name": "Robert A. Williams",
+   "address": [
+    {
+     "line1": "800 n. french street",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "phones": [
+    "(302) 576-2140"
+   ],
+   "urls": [
+    "http://www.ci.wilmington.de.us/government/7thdistrict"
+   ],
+   "emails": [
+    "williams7thdistrict@gmail.com"
+   ]
+  },
+  {
+   "name": "Hanifa G.N. Shabazz",
+   "address": [
+    {
+     "line1": "800 n. french street",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "phones": [
+    "(302) 576-2140"
+   ],
+   "urls": [
+    "http://www.ci.wilmington.de.us/government/4thdistrict"
+   ],
+   "emails": [
+    "hshabazz@wilmingtonde.gov"
+   ]
+  },
+  {
+   "name": "Darius J. Brown",
+   "address": [
+    {
+     "line1": "800 n. french street",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "phones": [
+    "(302) 576-2140"
+   ],
+   "urls": [
+    "http://www.ci.wilmington.de.us/government/3rddistrict"
+   ],
+   "emails": [
+    "darius@dariusbrown.com"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "DariusJBrown"
+    }
+   ]
+  },
+  {
+   "name": "Sherry Dorsey Walker",
+   "address": [
+    {
+     "line1": "800 n. french street",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "phones": [
+    "(302) 576-2140"
+   ],
+   "urls": [
+    "http://www.ci.wilmington.de.us/government/6thdistrict"
+   ],
+   "emails": [
+    "dorseyforcouncil@aol.com"
+   ]
+  },
+  {
+   "name": "Samuel Prado",
+   "address": [
+    {
+     "line1": "800 n. french street",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "phones": [
+    "(302) 576-2140"
+   ],
+   "urls": [
+    "http://www.ci.wilmington.de.us/government/5thdistrict"
+   ],
+   "emails": [
+    "sammy_wilm@yahoo.com"
+   ]
+  },
+  {
+   "name": "Nnamdi O. Chukwuocha",
+   "address": [
+    {
+     "line1": "800 n. french street",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "phones": [
+    "(302) 576-2140"
+   ],
+   "urls": [
+    "http://www.ci.wilmington.de.us/government/1stdistrict"
+   ],
+   "emails": [
+    "nnamdichukwu@aol.com"
+   ]
+  },
+  {
+   "name": "Ernest \"Trippi\" Congo II",
+   "address": [
+    {
+     "line1": "800 n. french street",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "phones": [
+    "(302) 576-2140"
+   ],
+   "urls": [
+    "http://www.ci.wilmington.de.us/government/2nddistrict"
+   ],
+   "emails": [
+    "sammycongo@aol.com"
+   ]
+  },
+  {
+   "name": "P. Brooks Banta",
+   "address": [
+    {
+     "line1": "555 bay rd",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 242-2572"
+   ],
+   "urls": [
+    "http://co.kent.de.us/levy-court/1st-district-representative.aspx"
+   ],
+   "emails": [
+    "pbbanta@aol.com"
+   ]
+  },
+  {
+   "name": "Michael Vincent",
+   "address": [
+    {
+     "line1": "2 The Circle (PO Box",
+     "line2": "589), georgetown",
+     "city": "",
+     "state": "DE",
+     "zip": "19947"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 629-2396"
+   ]
+  },
+  {
+   "name": "Samuel Wilson",
+   "address": [
+    {
+     "line1": "2 The Circle (PO Box",
+     "line2": "589), georgetown",
+     "city": "",
+     "state": "DE",
+     "zip": "19947"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 856-2972"
+   ]
+  },
+  {
+   "name": "Vance Phillips",
+   "address": [
+    {
+     "line1": "2 The Circle (PO Box",
+     "line2": "589), georgetown",
+     "city": "",
+     "state": "DE",
+     "zip": "19947"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 539-1611"
+   ]
+  },
+  {
+   "name": "Joan Deaver",
+   "address": [
+    {
+     "line1": "2 The Circle (PO Box",
+     "line2": "589), georgetown",
+     "city": "",
+     "state": "DE",
+     "zip": "19947"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 645-6657"
+   ]
+  },
+  {
+   "name": "George Cole",
+   "address": [
+    {
+     "line1": "2 The Circle (PO Box",
+     "line2": "589), georgetown",
+     "city": "",
+     "state": "DE",
+     "zip": "19947"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 539-1611"
+   ]
+  },
+  {
+   "name": "Glenn Howell",
+   "address": [
+    {
+     "line1": "555 bay rd",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 531-8832"
+   ],
+   "urls": [
+    "http://www.co.kent.de.us/levy-court/6th-district-representative.aspx"
+   ],
+   "emails": [
+    "glen.howell@co.kent.de.us"
+   ]
+  },
+  {
+   "name": "Allan Angel",
+   "address": [
+    {
+     "line1": "555 bay rd",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 382-6735"
+   ],
+   "urls": [
+    "http://www.co.kent.de.us/levy-court/3rd-district-representative.aspx"
+   ],
+   "emails": [
+    "angel3levycourt@aol.com"
+   ]
+  },
+  {
+   "name": "Bradley Eaby",
+   "address": [
+    {
+     "line1": "555 bay rd",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 670-4806"
+   ],
+   "urls": [
+    "http://www.co.kent.de.us/levy-court/2nd-district-representative.aspx"
+   ],
+   "emails": [
+    "brad.eaby@co.kent.de.us"
+   ]
+  },
+  {
+   "name": "George Sweeney",
+   "address": [
+    {
+     "line1": "555 bay rd",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 943-7328"
+   ],
+   "urls": [
+    "http://www.co.kent.de.us/levy-court/5th-district-representative.aspx"
+   ],
+   "emails": [
+    "jody.sweeney@co.kent.de.us"
+   ]
+  },
+  {
+   "name": "Eric Buckson",
+   "address": [
+    {
+     "line1": "555 bay rd",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 943-2832"
+   ],
+   "urls": [
+    "http://www.co.kent.de.us/levy-court/4th-district-representative.aspx"
+   ],
+   "emails": [
+    "eric.buckson@co.kent.de.us"
+   ]
+  },
+  {
+   "name": "Norman Wood",
+   "address": [
+    {
+     "line1": "555 bay rd",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 736-2161"
+   ],
+   "urls": [
+    "http://www.co.kent.de.us/sheriffs-office.aspx"
+   ],
+   "emails": [
+    "sheriff@co.kent.de.us"
+   ]
+  },
+  {
+   "name": "Georgette Williams",
+   "address": [
+    {
+     "line1": "555 bay rd",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 744-2414"
+   ],
+   "urls": [
+    "http://co.kent.de.us/comptrollers-office.aspx"
+   ],
+   "emails": [
+    "comptroller@co.kent.de.us"
+   ]
+  },
+  {
+   "name": "Betty Lou McKenna",
+   "address": [
+    {
+     "line1": "555 bay rd",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 744-2314"
+   ],
+   "urls": [
+    "http://www.co.kent.de.us/recorder-of-deeds-office/kent-county-recorder.aspx"
+   ],
+   "emails": [
+    "BettyLou.Mckenna@co.kent.de.us"
+   ]
+  },
+  {
+   "name": "Harold K. Brode",
+   "address": [
+    {
+     "line1": "555 bay rd",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 744-2330"
+   ],
+   "urls": [
+    "http://www.co.kent.de.us/register-of-wills-office.aspx"
+   ],
+   "emails": [
+    "registrar@co.kent.de.us"
+   ]
+  },
+  {
+   "name": "Loretta Wootten",
+   "address": [
+    {
+     "line1": "555 bay rd.",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 744-2346"
+   ],
+   "urls": [
+    "http://co.kent.de.us/clerk-of-the-peace-office/kent-county-clerk.aspx"
+   ],
+   "emails": [
+    "loretta.wootten@co.kent.de.us"
+   ]
+  },
+  {
+   "name": "Terry Pepper",
+   "address": [
+    {
+     "line1": "555 bay rd",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 531-8803"
+   ],
+   "urls": [
+    "http://co.kent.de.us/levy-court/at-large-representative.aspx"
+   ],
+   "emails": [
+    "terry.pepper@co.kent.de.us"
+   ]
+  },
+  {
+   "name": "Bill Bell",
+   "address": [
+    {
+     "line1": "800 N. French Street",
+     "line2": "8th Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-8352"
+   ],
+   "emails": [
+    "jwbell@nccde.org"
+   ]
+  },
+  {
+   "name": "Jea Street",
+   "address": [
+    {
+     "line1": "800 N. French Street",
+     "line2": "8th Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-8350"
+   ],
+   "emails": [
+    "jpstreet@nccde.org"
+   ]
+  },
+  {
+   "name": "David Tackett",
+   "address": [
+    {
+     "line1": "800 N. French Street",
+     "line2": "8th Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-8351"
+   ],
+   "emails": [
+    "dltackett@nccde.org"
+   ]
+  },
+  {
+   "name": "Dennis P. Williams",
+   "address": [
+    {
+     "line1": "800 n. french street",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "phones": [
+    "(302) 576-2100"
+   ],
+   "urls": [
+    "http://www.ci.wilmington.de.us/government/mayor"
+   ]
+  },
+  {
+   "name": "Michael A. Brown, Sr.",
+   "address": [
+    {
+     "line1": "800 n. french street",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "phones": [
+    "(302) 576-2140"
+   ],
+   "urls": [
+    "http://www.ci.wilmington.de.us/government/brown-at-large"
+   ],
+   "emails": [
+    "mabrown@wilmingtonde.gov"
+   ]
+  },
+  {
+   "name": "Loretta Walsh",
+   "address": [
+    {
+     "line1": "800 n. french street",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "phones": [
+    "(302) 576-2140"
+   ],
+   "urls": [
+    "http://www.ci.wilmington.de.us/government/walsh-at-large"
+   ],
+   "emails": [
+    "lwalsh@wilmingtonde.gov"
+   ]
+  },
+  {
+   "name": "Justen A. Wright",
+   "address": [
+    {
+     "line1": "800 n. french street",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "phones": [
+    "(302) 576-2140"
+   ],
+   "urls": [
+    "http://www.ci.wilmington.de.us/government/wright-at-large"
+   ],
+   "emails": [
+    "justen@justenwright.org"
+   ]
+  },
+  {
+   "name": "Maria D. Cabrera",
+   "address": [
+    {
+     "line1": "800 n. french street",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "phones": [
+    "(302) 576-2140"
+   ],
+   "urls": [
+    "http://www.ci.wilmington.de.us/government/cabrera-at-large"
+   ],
+   "emails": [
+    "mcabrera@WilmingtonDE.gov"
+   ]
+  },
+  {
+   "name": "Henry W. Supinski",
+   "address": [
+    {
+     "line1": "800 n. french street",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "phones": [
+    "(302) 576-2480"
+   ],
+   "urls": [
+    "http://www.ci.wilmington.de.us/government/treasurerbio"
+   ],
+   "emails": [
+    "hsupinsk@WilmingtonDE.gov"
+   ]
+  },
+  {
+   "name": "Theopalis K. Gregory, Sr.",
+   "address": [
+    {
+     "line1": "800 n. french street",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "phones": [
+    "(302) 576-2140"
+   ],
+   "urls": [
+    "http://www.ci.wilmington.de.us/government/councilpresident"
+   ],
+   "emails": [
+    "tgregory@WilmingtonDE.gov"
+   ]
+  },
+  {
+   "name": "Kenneth Simpler",
+   "party": "Republican",
+   "urls": [
+    "http://treasury.delaware.gov/"
+   ],
+   "emails": [
+    "StateTreasurer@state.de.us"
+   ]
+  },
+  {
+   "name": "Matthew Denn",
+   "party": "Democratic",
+   "urls": [
+    "http://attorneygeneral.delaware.gov/"
+   ],
+   "emails": [
+    "Attorney.General@State.DE.US"
+   ]
+  },
+  {
+   "name": "R. Thomas Wagner Jr.",
+   "address": [
+    {
+     "line1": "401 Federal Street Townsend Building",
+     "line2": "Suite 1",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19901"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(302) 739-5055"
+   ],
+   "emails": [
+    "r.thomas.wagner@state.de.us"
+   ]
+  },
+  {
+   "name": "Karen Weldin Stewart",
+   "address": [
+    {
+     "line1": "841 silver lake blvd.",
+     "city": "dover",
+     "state": "DE",
+     "zip": "19904"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(302) 674-7300"
+   ],
+   "urls": [
+    "http://www.delawareinsurance.gov/"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "DelawareInsurance"
+    }
+   ]
+  },
+  {
+   "name": "Joseph Reda",
+   "address": [
+    {
+     "line1": "800 N. French Street",
+     "line2": "8th Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-8341"
+   ],
+   "emails": [
+    "jmreda@nccde.org"
+   ]
+  },
+  {
+   "name": "Robert Weiner",
+   "address": [
+    {
+     "line1": "800 N. French Street",
+     "line2": "8th Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-8342"
+   ],
+   "emails": [
+    "rsweiner@nccde.org"
+   ]
+  },
+  {
+   "name": "Janet Kilpatrick",
+   "address": [
+    {
+     "line1": "800 N. French Street",
+     "line2": "8th Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-8363"
+   ],
+   "emails": [
+    "jkilpatrick@nccde.org"
+   ]
+  },
+  {
+   "name": "Penrose Hollins",
+   "address": [
+    {
+     "line1": "800 N. French Street",
+     "line2": "8th Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-8344"
+   ],
+   "emails": [
+    "phollins@nccde.org"
+   ]
+  },
+  {
+   "name": "Lisa Diller",
+   "address": [
+    {
+     "line1": "800 N. French Street",
+     "line2": "8th Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-8345"
+   ],
+   "emails": [
+    "ediller@nccde.org"
+   ]
+  },
+  {
+   "name": "William Powers",
+   "address": [
+    {
+     "line1": "800 N. French Street",
+     "line2": "8th Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-8346"
+   ],
+   "emails": [
+    "wepowersjr@nccde.org"
+   ]
+  },
+  {
+   "name": "George Smiley",
+   "address": [
+    {
+     "line1": "800 N. French Street",
+     "line2": "8th Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-8347"
+   ],
+   "emails": [
+    "gsmiley@nccde.org"
+   ]
+  },
+  {
+   "name": "John Cartier",
+   "address": [
+    {
+     "line1": "800 N. French Street",
+     "line2": "8th Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-8348"
+   ],
+   "emails": [
+    "jjcartier@nccde.org"
+   ]
+  },
+  {
+   "name": "Timothy Sheldon",
+   "address": [
+    {
+     "line1": "800 N. French Street",
+     "line2": "8th Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-8349"
+   ],
+   "emails": [
+    "tpsheldon@nccde.org"
+   ]
+  },
+  {
+   "name": "Jeffrey Christopher",
+   "address": [
+    {
+     "line1": "Sussex County Sheriff Office",
+     "line2": "P.O. Box",
+     "line3": "948, georgetown",
+     "city": "",
+     "state": "DE",
+     "zip": "19947"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 855-7830"
+   ],
+   "urls": [
+    "http://www.sussexcountyde.gov/dept/sheriff/"
+   ]
+  },
+  {
+   "name": "Richard Bell II",
+   "address": [
+    {
+     "line1": "2 The Circle",
+     "line2": "P.O. Box",
+     "line3": "827, georgetown",
+     "city": "",
+     "state": "DE",
+     "zip": "19947"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 855-7785"
+   ]
+  },
+  {
+   "name": "Cynthia Green",
+   "address": [
+    {
+     "line1": "Sussex County Courthouse Annex",
+     "line2": "5 E. Pine St.",
+     "line3": "P.O. Box, 743, georgetown",
+     "city": "",
+     "state": "DE",
+     "zip": "19947"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 855-7875"
+   ]
+  },
+  {
+   "name": "John Brady",
+   "address": [
+    {
+     "line1": "Sussex County Marriage Bureau",
+     "line2": "Clerk of the Peace",
+     "line3": "P.O. Box, 29, georgetown",
+     "city": "",
+     "state": "DE",
+     "zip": "19947"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 853-1717"
+   ],
+   "urls": [
+    "http://www.sussexcountyde.gov/dept/cop/"
+   ],
+   "emails": [
+    "jbrady@sussexcountyde.gov"
+   ]
+  },
+  {
+   "name": "Trinidad Navarro",
+   "address": [
+    {
+     "line1": "Sheriff's Office",
+     "line2": "Louis L. Redding",
+     "line3": "City/County Bldg., 800 North French Street, 5th Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-8450"
+   ]
+  },
+  {
+   "name": "Thomas P. Gordon",
+   "address": [
+    {
+     "line1": "New Castle County Executive",
+     "line2": "87 reads way",
+     "city": "new castle",
+     "state": "DE",
+     "zip": "19720"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-5101"
+   ],
+   "emails": [
+    "executiveoffice@nccde.org"
+   ]
+  },
+  {
+   "name": "Chris Bullock",
+   "address": [
+    {
+     "line1": "800 N. French Street",
+     "line2": "8th Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-8340"
+   ],
+   "emails": [
+    "cabullock@nccde.org"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "327180824858"
+    },
+    {
+     "type": "Twitter",
+     "id": "ncco_de"
+    }
+   ]
+  },
+  {
+   "name": "Michael Kozikowski",
+   "address": [
+    {
+     "line1": "Recorder of Deeds",
+     "line2": "Louis L. Redding",
+     "line3": "City/County Bldg, 800 North French Street, 4th Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-7700"
+   ]
+  },
+  {
+   "name": "Ciro Poppiti III",
+   "address": [
+    {
+     "line1": "Register of Wills Louis L. Redding",
+     "line2": "City/County Bldg.",
+     "line3": "800 North French Street, 2nd Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-7800"
+   ],
+   "emails": [
+    "wills@nccde.org"
+   ]
+  },
+  {
+   "name": "Kenneth Boulden Jr.",
+   "address": [
+    {
+     "line1": "City/County Bldg. 800 North French Street 2nd Floor",
+     "city": "wilmington",
+     "state": "DE",
+     "zip": "19801"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(302) 395-7780"
+   ]
+  }
+ ]
+}
