@@ -1,5 +1,5 @@
 require "spec_helper"
-require_relative "../../lib/address_parser"
+require "#{Rails.root}/lib/address_parser"
 
 describe AddressParser do
   let(:address) { "713 HART SENATE OFFICE BUILDING WASHINGTON DC 20510" }

@@ -1,9 +1,9 @@
 require "rails_helper"
 require "webmock/rspec"
 require "support/civic_data_spec_helper"
-require_relative "../../lib/civic_data_service"
+require "#{Rails.root}/lib/civic_data/service"
 
-describe CivicDataService do
+describe CivicData::Service do
   let(:helper) { CivicDataSpecHelper }
   subject { described_class.new }
 

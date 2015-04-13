@@ -1,5 +1,5 @@
 require "rails_helper"
-require_relative "../../lib/image_url_parser"
+require "#{Rails.root}/lib/image_url_parser"
 
 describe ImageURLParser do
   let(:urls) do

@@ -1,14 +1,14 @@
 module Slug
   module_function
 
-  def generate(first_name, last_name)
-    first = sanitize(first_name)
-    last = sanitize(last_name)
+  def generate(string1, string2)
+    first = sanitize(string1)
+    last = sanitize(string2)
     "#{first}-#{last}".downcase.gsub(/[\s']/, "-").tr(".", "")
   end
 
-  def sanitize(name)
-    I18n.transliterate(name)
+  def sanitize(string)
+    I18n.transliterate(string)
   end
 end
 
