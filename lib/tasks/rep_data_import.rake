@@ -7,6 +7,12 @@ namespace :reps do
   end
 
   task load_profile_data: :environment do
+    Rake::Task["reps:load_legislators_files"].invoke
+    # Rake::Task["reps:load_governors_file"].invoke
+    # Rake::Task["reps:import_google_civic_data"].invoke
+  end
+
+  task load_legislators_files: :environment do
     legislators = YAML.load_file("db/data/legislators-current.yaml")
     social_ids = YAML.load_file("db/data/legislators-social-media.yaml")
 
@@ -20,17 +26,20 @@ namespace :reps do
     end
   end
 
+  task load_governors_file: :environment do
+  end
+
   task load_image_urls: :environment do
-    urls = File.readlines("#{Rails.root}/db/data/2015_SenatorProfileImageURLs.txt").
-      concat(File.readlines("#{Rails.root}/db/data/2015_CongressProfileImageURLs.txt"))
+    file1 = File.readlines("#{Rails.root}/db/data/2015_SenatorProfileImageURLs.txt")
+    file2 = File.readlines("#{Rails.root}/db/data/2015_CongressProfileImageURLs.txt")
+    file3 = File.readlines("#{Rails.root}/db/data/2015_GovernorProfileImageURLs.txt")
+    urls = file1.concat(file2.concat(file3))
     parser = ImageURLParser.new(urls.map(&:chomp))
 
     Representative.all.each do |rep|
       rep.update_attribute(:profile_image_url, parser.find_url(rep))
     end
 
-    #BH hardcoded for now; these reps don't have source data that matches
-    # names in url file
     Rake::Task["reps:manully_load_image_urls"].invoke
   end
 
