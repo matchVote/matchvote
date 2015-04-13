@@ -7,7 +7,12 @@
     %div
       %h4= rep.full_name
     %div
-      = "#{Random.rand(100)}% match"
+      =rep.government_role
+      |
+      =rep.state
+    /
+      %div
+        = "#{Random.rand(100)}% match"
     .directory_block_btns
       = link_to "View Profile", rep_path(rep.slug), class: "btn btn-sm btn-default"
       = link_to "Follow", rep_path(rep.slug), class: "btn btn-sm btn-default"
