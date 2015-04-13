@@ -6,6 +6,10 @@ namespace :reps do
       CivicDataService.new.dump_data_for_all_states
     end
 
-    # load json into DB
+    Dir["#{Rails.root}/db/data/civic_data/*_civic_data.json"].each do |file|
+      json = JSON.parse(File.read(file))
+      # compiler = CivicDataCompiler.new(json)
+      # rep = Representative.find_or_create_by(slug: compiler.generate_slug)
+    end
   end
 end

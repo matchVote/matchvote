@@ -1,5 +1,6 @@
 require_relative "address_parser"
 require_relative "wikipedia_service"
+require_relative "slug"
 
 class CongressLegislatorsDataCompiler
   def initialize(rep_data, social_ids)
@@ -16,8 +17,8 @@ class CongressLegislatorsDataCompiler
   end
 
   def generate_slug
-    first_name = rep_data["name"]["nickname"] || first_name_sanitized
-    "#{first_name}-#{last_name_sanitized}".downcase.gsub(/[\s']/, "-").tr(".", "")
+    first_name = rep_data["name"]["nickname"] || rep_data["name"]["first"]
+    Slug.generate(first_name, rep_data["name"]["last"])
   end
 
   def first_name_sanitized
