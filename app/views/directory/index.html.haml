@@ -3,13 +3,18 @@
     .col-md-7
       %h2 Find elected officials to follow
       %h5
+        We'll keep you up to date on the news and political positions of those you choose to follow.
+      %h5
         = @filter_count
         elected officials meet your search criteria.
         Add more filters to refine your search.
       .well.well-sm.filter_well
-        %a.btn.btn-default
+        %a.btn.btn-default.disabled
           .glyphicon.glyphicon-remove
           Federal
+        %a.btn.btn-default
+          .glyphicon.glyphicon-remove
+          In Office
 
         %a.btn.btn-danger.pull-right
           .glyphicon.glyphicon-plus
