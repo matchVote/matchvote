@@ -17,6 +17,11 @@ module CivicData
     def full_name
       @full_name ||= fetch("name")
     end
+
+    def to_hash
+      { first_name: first_name,
+        last_name: last_name }
+    end
   end
 end
 

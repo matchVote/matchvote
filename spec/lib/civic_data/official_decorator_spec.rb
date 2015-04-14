@@ -17,4 +17,11 @@ describe CivicData::OfficialDecorator do
       expect(subject.full_name).to eq "Terri A. Sewell"
     end
   end
+
+  describe "#to_hash" do
+    it "returns a data hash conforming to the Representative model" do
+      pending "Not implemented"
+      fail
+    end
+  end
 end

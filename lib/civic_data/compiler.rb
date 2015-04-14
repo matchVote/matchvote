@@ -4,15 +4,19 @@ module CivicData
   class Compiler
     attr_reader :office, :officials
 
-    def initialize(office, all_officials)
+    def initialize(office, office_officials)
       @office = office
-      @officials = decorate(all_officials)
+      @officials = decorate(office_officials)
+    end
+
+    def each_official
+      officials.each { |official| yield official }
     end
 
     private
-      def decorate(all_officials)
-        office["official_indices"].map do |i|
-          OfficialDecorator.new(all_officials[i])
+      def decorate(office_officials)
+        office["officialIndices"].map do |i|
+          OfficialDecorator.new(office_officials[i])
         end
       end
   end
