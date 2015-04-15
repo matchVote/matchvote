@@ -18,9 +18,15 @@ module CivicData
       @full_name ||= fetch("name")
     end
 
+    def contact
+      ContactDecorator.new(self)
+    end
+
     def to_hash
       { first_name: first_name,
-        last_name: last_name }
+        last_name: last_name,
+        official_full_name: full_name,
+        party: self["party"] }
     end
   end
 end

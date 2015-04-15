@@ -20,8 +20,8 @@ describe CivicData::OfficialDecorator do
 
   describe "#to_hash" do
     it "returns a data hash conforming to the Representative model" do
-      pending "Not implemented"
-      fail
+      keys = subject.to_hash.keys.map(&:to_s)
+      expect(Representative.column_names).to include(*keys)
     end
   end
 end
