@@ -34,7 +34,7 @@ class CivicDataSpecHelper
         "phones" => [ "(202) 225-2665" ],
         "urls" => [ "http://sewell.house.gov/" ],
         "photoUrl" => "n/a",
-        "channels" => []
+        "channels" => [{"type" => "Facebook", "id" => "terrisewell"}]
       }] 
     }
   end
