@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150416110538) do
+ActiveRecord::Schema.define(version: 20150417030231) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -51,14 +51,13 @@ ActiveRecord::Schema.define(version: 20150416110538) do
   add_index "issue_categories", ["name"], name: "index_issue_categories_on_name", unique: true, using: :btree
 
   create_table "postal_addresses", force: :cascade do |t|
-    t.text     "street_number"
-    t.text     "street_name"
     t.text     "city"
     t.text     "state"
     t.text     "zip"
     t.integer  "contact_id"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.text     "line1"
     t.text     "line2"
   end
 

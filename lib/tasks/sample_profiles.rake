@@ -19,8 +19,7 @@ namespace :db do
         emails: ["one@gmail.com", "two@yahoo.com"],
         phone_numbers: ["123-123-1234"],
         postal_addresses: [PostalAddress.create(
-          street_number: "123",
-          street_name: "Boberry Lane",
+          line1: "123 Boberry Lane",
           city: "Bogart",
           state: "XY",
           zip: "98765-1234"
@@ -52,8 +51,7 @@ namespace :db do
           emails: ["one@gmail.com", "two@yahoo.com"],
           phone_numbers: ["123-123-1234"],
           postal_addresses: [PostalAddress.create(
-            street_number: "123",
-            street_name: "Boberry Lane",
+            street_name: "123 Boberry Lane",
             city: "Bogart",
             state: "XY",
             zip: "98765-1234"

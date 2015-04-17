@@ -22,12 +22,31 @@ module CivicData
     end
 
     def update_contact(rep, contact_hash)
+      if rep.contact
+      else
+        rep.contact = Contact.create(
+          phone_numbers: contact_hash["phones"],
+          postal_addresses: create_postal_addresses(contact_hash["addresses"]),
+          website_url: contact_hash["website_url"])
+      end
     end
 
     private
       def compile(office_officials)
         office["officialIndices"].map do |i|
           Compiler.new(office_officials[i])
+        end
+      end
+
+      def create_postal_addresses(addresses)
+        addresses.map do |address|
+          PostalAddress.create({
+            line1: address["line1"],
+            line2: address["line2"],
+            city: address["city"].split.map(&:capitalize).join(" "),
+            state: address["state"].upcase,
+            zip: address["zip"]
+          })
         end
       end
   end

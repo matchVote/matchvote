@@ -10,6 +10,17 @@ class CivicDataSpecHelper
       headers: { "Content-Type": "application/json" } }
   end
 
+  def self.mock_contact_hash
+    { "addresses" => [{
+        "line1" => "69 fake street",
+        "city" => "fake city",
+        "state" => "Nc",
+        "zip" => "69696"
+      }],
+      "phones" => ["(123) 999-9999"],
+      "website_url" => ["http://www.heythere.com"] }
+  end
+
   def self.mock_alabama_data
     { 
       "divisions" => { 

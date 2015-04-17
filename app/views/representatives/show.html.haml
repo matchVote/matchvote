@@ -72,7 +72,7 @@
       %strong #{@rep.government_role} #{@rep.first_name} #{@rep.last_name}
       %br
       - @rep.contact.postal_addresses.each do |address|
-        = address.full_street
+        = address.line1
         %br
         = address.city_state_zip
       %br
