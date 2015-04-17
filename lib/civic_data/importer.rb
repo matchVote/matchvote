@@ -31,6 +31,7 @@ module CivicData
 
     private
       def compile(office_officials)
+        return [] if office["officialIndices"].nil?
         office["officialIndices"].map do |i|
           Compiler.new(office_officials[i])
         end
