@@ -12,23 +12,20 @@ module CivicData
     def import
       officials.each do |compiler|
         rep = Representative.find_or_create_by(slug: compiler.generate_slug)
-        rep.update_attribute(:office, office)
         rep.update_attributes(compiler.official_hash)
+        rep.update_attribute(:office, office)
 
         update_contact(rep, compiler.contact_hash)
-        rep.external_credentials.merge!(compiler.external_credentials)
+        rep.update_credentials(compiler.external_credentials)
         rep.save
       end
     end
 
     def update_contact(rep, contact_hash)
-      if rep.contact
-      else
-        rep.contact = Contact.create(
-          phone_numbers: contact_hash["phones"],
-          postal_addresses: create_postal_addresses(contact_hash["addresses"]),
-          website_url: contact_hash["website_url"])
-      end
+      rep.update_or_create_contact(
+        phone_numbers: contact_hash[:phones],
+        postal_addresses: create_postal_addresses(contact_hash[:addresses]),
+        website_url: contact_hash[:website_url].first)
     end
 
     private
@@ -41,13 +38,17 @@ module CivicData
       def create_postal_addresses(addresses)
         addresses.map do |address|
           PostalAddress.create({
-            line1: address["line1"],
+            line1: sanitize_line1(address["line1"]),
             line2: address["line2"],
             city: address["city"].split.map(&:capitalize).join(" "),
             state: address["state"].upcase,
-            zip: address["zip"]
-          })
+            zip: address["zip"] })
         end
+      end
+
+      def sanitize_line1(street)
+        street.split.map(&:capitalize).join(" ").sub(/hob/i, "House Office Building")
       end
   end
 end
+

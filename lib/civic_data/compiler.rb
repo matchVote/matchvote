@@ -32,9 +32,9 @@ module CivicData
     end
 
     def external_credentials
-      { facebook_username: find_username("facebook"),
-        twitter_username: find_username("twitter"),
-        youtube_username: find_username("youtube") }
+      { "facebook_username" => find_username("facebook"),
+        "twitter_username" => find_username("twitter"),
+        "youtube_username" => find_username("youtube") }
     end
 
     private

@@ -24,7 +24,7 @@ feature "Viewing Representative profile" do
   it { is_expected.to have_content "Borky Buffet" }
   it { is_expected.to have_content truncate(rep.biography, length: 550) }
   it { is_expected.to have_content "March 8, 1967" }
-  it { is_expected.to have_content "#{address.street_number} #{address.street_name}" }
+  it { is_expected.to have_content "#{address.line1}" }
   it { is_expected.to have_content "#{address.city}, #{address.state} #{address.zip}" }
 
   feature "Editing profile" do

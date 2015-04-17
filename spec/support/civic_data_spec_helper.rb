@@ -1,7 +1,7 @@
 class CivicDataSpecHelper
   def self.url(state)
     resource = CGI.escape("ocd-division/country:us/state:#{state}")
-    query = "?recursive=true&key=#{CivicDataService::API_KEY}"
+    query = "?recursive=true&key=#{CivicData::Service::API_KEY}"
     "https://www.googleapis.com/civicinfo/v2/representatives/#{resource}#{query}"
   end
 
@@ -11,14 +11,14 @@ class CivicDataSpecHelper
   end
 
   def self.mock_contact_hash
-    { "addresses" => [{
-        "line1" => "69 fake street",
+    { addresses: [{
+        "line1" => "69 fake street hob",
         "city" => "fake city",
         "state" => "Nc",
         "zip" => "69696"
       }],
-      "phones" => ["(123) 999-9999"],
-      "website_url" => ["http://www.heythere.com"] }
+      phones: ["(123) 999-9999"],
+      website_url: ["http://www.heythere.com"] }
   end
 
   def self.mock_alabama_data
