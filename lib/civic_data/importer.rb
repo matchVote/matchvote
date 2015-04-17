@@ -1,4 +1,5 @@
 require "#{Rails.root}/lib/civic_data/compiler"
+require "#{Rails.root}/lib/null_object"
 
 module CivicData
   class Importer
@@ -13,7 +14,7 @@ module CivicData
       officials.each do |compiler|
         rep = Representative.find_or_create_by(slug: compiler.generate_slug)
         rep.update_attributes(compiler.official_hash)
-        rep.update_attribute(:office, office)
+        rep.update_attribute(:office, office["name"])
 
         update_contact(rep, compiler.contact_hash)
         rep.update_credentials(compiler.external_credentials)
@@ -25,7 +26,7 @@ module CivicData
       rep.update_or_create_contact(
         phone_numbers: contact_hash[:phones],
         postal_addresses: create_postal_addresses(contact_hash[:addresses]),
-        website_url: contact_hash[:website_url].first)
+        website_url: NullObject.nullify(contact_hash[:website_url]).first)
     end
 
     private
@@ -36,6 +37,7 @@ module CivicData
       end
 
       def create_postal_addresses(addresses)
+        return [] if addresses.nil?
         addresses.map do |address|
           PostalAddress.create({
             line1: sanitize_line1(address["line1"]),

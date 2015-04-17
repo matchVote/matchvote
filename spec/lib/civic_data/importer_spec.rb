@@ -12,11 +12,17 @@ describe CivicData::Importer do
   subject { described_class.new(office, officials) }
 
   describe "#import" do
+    before(:each) { subject.import }
+
     it "saves or updates all the officials of the office" do
-      subject.import
       expect(Representative.count).to eq 1
       expect(Contact.count).to eq 1
       expect(PostalAddress.count).to eq 1
+    end
+    
+    it "saves the office name to the rep" do
+      office = "United States House of Representatives AL-07"
+      expect(Representative.first.office).to eq office
     end
   end
 

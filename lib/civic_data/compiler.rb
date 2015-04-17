@@ -1,4 +1,5 @@
 require "#{Rails.root}/lib/slug"
+require "#{Rails.root}/lib/null_object"
 
 module CivicData
   class Compiler < SimpleDelegator
@@ -39,7 +40,8 @@ module CivicData
 
     private
       def find_username(type)
-        username = self["channels"].find { |c| c["type"].downcase == type }
+        channels = NullObject.nullify(self["channels"])
+        username = channels.find { |c| c["type"].downcase == type }
         username.nil? ? nil : username["id"]
       end
   end

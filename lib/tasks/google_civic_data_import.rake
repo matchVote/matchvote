@@ -1,5 +1,5 @@
 require "#{Rails.root}/lib/civic_data/service"
-require "#{Rails.root}/lib/civic_data/compiler"
+require "#{Rails.root}/lib/civic_data/importer"
 
 namespace :reps do
   task import_google_civic_data: :environment do
@@ -7,8 +7,7 @@ namespace :reps do
       CivicData::Service.new.dump_data_for_all_states
     end
 
-    # Dir["#{Rails.root}/db/data/civic_data/*_civic_data.json"].each do |file|
-    Dir["#{Rails.root}/db/data/civic_data/AK*"].each do |file|
+    Dir["#{Rails.root}/db/data/civic_data/*_civic_data.json"].each do |file|
       json = JSON.parse(File.read(file))
 
       json["offices"].each do |office|
