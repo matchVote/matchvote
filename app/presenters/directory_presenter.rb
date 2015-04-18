@@ -5,7 +5,7 @@ class DirectoryPresenter
      ["Sort by Most Similar Views", "similarity"],
      ["Sort by Least Similar Views", "difference"],
      ["Sort by Approval Rating", "approval"],
-     ["Sort by Seniority", "seniority"],
+     ["Sort by Longest Serving", "seniority"],
      ["Sort by Age", "age"],
      ["Sort by State", "state"]]
   end
@@ -33,8 +33,7 @@ class DirectoryPresenter
 
   private
     def query_string
-      "first_name @@ :name or last_name @@ :name or nickname @@ :name "+ 
+      "first_name @@ :name or last_name @@ :name or nickname @@ :name "+
         "or official_full_name @@ :name"
     end
 end
-

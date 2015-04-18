@@ -53,4 +53,3 @@ class RepresentativePresenter < SimpleDelegator
     "https://youtube.com/#{rep.external_credentials["youtube_username"]}"
   end
 end
-
