@@ -3,17 +3,38 @@ module CivicData
     API_KEY = ENV["CIVIC_DATA_API_KEY"]
 
     def initialize
-      @base_url = "https://www.googleapis.com/civicinfo/v2/representatives/"
-      @query = "?recursive=true&key=#{API_KEY}"
+      @base_url = "https://www.googleapis.com/civicinfo/v2"
+      @reps_url = "#{@base_url}/representatives"
+      @divisions_url = "#{@base_url}/divisions"
+      @key = "key=#{API_KEY}"
+      @query = "?recursive=true&#{@key}"
     end
 
     def dump_data_for_all_states
-      state_abbreviations.each do |state|
-        resource = CGI.escape("ocd-division/country:us/state:#{state}")
-        json = fetch_json("#{@base_url}#{resource}#{@query}").body
-        path = "#{Rails.root}/db/data/civic_data/#{state.upcase}_civic_data.json"
-        save_file(json, path)
+      state_abbreviations.each { |state| fetch_officials_for(state: state) }
+    end
+
+    def fetch_officials_for(state:)
+      resource = CGI.escape("/ocd-division/country:us/state:#{state.downcase}")
+      json = fetch_json("#{@reps_url}#{resource}#{@query}").body
+      path = "#{Rails.root}/db/data/civic_data/#{state.upcase}_civic_data.json"
+      save_file(json, path)
+    end
+
+    def fetch_officials_by_division_for(state:)
+      fetch_divisions_for(state: state).each_with_index do |division, index|
+        resource = CGI.escape(division["ocdId"])
+        official_json = fetch_json("#{@divisions_url}/#{resource}?#{@key}")
+
+        path = "#{Rails.root}/db/data/civic_data/#{state.upcase}/"+
+          "#{state.upcase}_civic_data_div#{index}.json"
+        save_file(official_json.to_json, path)
       end
+    end
+
+    def fetch_divisions_for(state:)
+      json = fetch_json("#{@divisions_url}?query=#{state.downcase}&#{@key}").body
+      JSON.parse(json)["results"]
     end
 
     def save_file(string, path)
