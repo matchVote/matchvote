@@ -3,20 +3,20 @@
   "ocd-division/country:us/state:in/county:tippecanoe/place:tippecanoe": {
    "name": "Tippecanoe township"
   },
-  "ocd-division/country:us/state:in/county:jefferson/precinct:4-3": {
-   "name": "Jefferson County Precinct 4-3"
-  },
   "ocd-division/country:us/state:in/county:laporte/precinct:galena_2": {
    "name": "Laporte County Precinct Galena 2"
   },
-  "ocd-division/country:us/state:in/county:jefferson/precinct:4-2": {
-   "name": "Jefferson County Precinct 4-2"
+  "ocd-division/country:us/state:in/county:jefferson/precinct:4-3": {
+   "name": "Jefferson County Precinct 4-3"
+  },
+  "ocd-division/country:us/state:in/county:laporte/precinct:galena_1": {
+   "name": "Laporte County Precinct Galena 1"
   },
   "ocd-division/country:us/state:in/county:lake/place:eagle_creek": {
    "name": "Eagle Creek township"
   },
-  "ocd-division/country:us/state:in/county:laporte/precinct:galena_1": {
-   "name": "Laporte County Precinct Galena 1"
+  "ocd-division/country:us/state:in/county:jefferson/precinct:4-2": {
+   "name": "Jefferson County Precinct 4-2"
   },
   "ocd-division/country:us/state:in/county:jefferson/precinct:4-1": {
    "name": "Jefferson County Precinct 4-1"
@@ -51,17 +51,17 @@
     162
    ]
   },
-  "ocd-division/country:us/state:in/county:clinton/school_district:clinton_central_school_corp": {
-   "name": "clinton central school corp"
-  },
-  "ocd-division/country:us/state:in/county:martin/precinct:rutherford": {
-   "name": "Martin County Precinct Rutherford"
-  },
   "ocd-division/country:us/state:in/county:noble/council_district:3": {
    "name": "Noble County Council District 3",
    "officeIndices": [
     163
    ]
+  },
+  "ocd-division/country:us/state:in/county:clinton/school_district:clinton_central_school_corp": {
+   "name": "clinton central school corp"
+  },
+  "ocd-division/country:us/state:in/county:martin/precinct:rutherford": {
+   "name": "Martin County Precinct Rutherford"
   },
   "ocd-division/country:us/state:in/county:madison/place:monroe": {
    "name": "Monroe township"
@@ -102,11 +102,11 @@
   "ocd-division/country:us/state:in/county:lake/school_district:charter_school_of_the_dunes": {
    "name": "charter school of the dunes"
   },
-  "ocd-division/country:us/state:in/county:steuben/precinct:jamestown_2": {
-   "name": "Steuben County Precinct Jamestown 2"
-  },
   "ocd-division/country:us/state:in/county:marion/school_district:stonegate_early_clg_hs_for_sci~tec": {
    "name": "stonegate early clg hs for sci/tec"
+  },
+  "ocd-division/country:us/state:in/county:steuben/precinct:jamestown_2": {
+   "name": "Steuben County Precinct Jamestown 2"
   },
   "ocd-division/country:us/state:in/county:steuben/precinct:jamestown_1": {
    "name": "Steuben County Precinct Jamestown 1"
@@ -114,11 +114,11 @@
   "ocd-division/country:us/state:in/county:tippecanoe/precinct:perry_1": {
    "name": "Tippecanoe County Precinct Perry 1"
   },
-  "ocd-division/country:us/state:in/county:tippecanoe/precinct:perry_2": {
-   "name": "Tippecanoe County Precinct Perry 2"
-  },
   "ocd-division/country:us/state:in/county:marshall/school_district:plymouth_community_school_corp": {
    "name": "plymouth community school corp"
+  },
+  "ocd-division/country:us/state:in/county:tippecanoe/precinct:perry_2": {
+   "name": "Tippecanoe County Precinct Perry 2"
   },
   "ocd-division/country:us/state:in/county:tippecanoe/precinct:perry_3": {
    "name": "Tippecanoe County Precinct Perry 3"
@@ -163,11 +163,11 @@
   "ocd-division/country:us/state:in/county:bartholomew/precinct:columbus_100": {
    "name": "Bartholomew County Precinct Columbus 100"
   },
-  "ocd-division/country:us/state:in/county:cass/precinct:clay_city": {
-   "name": "Cass County Precinct Clay City"
-  },
   "ocd-division/country:us/state:in/county:lagrange/school_district:westview_school_corporation": {
    "name": "westview school corporation"
+  },
+  "ocd-division/country:us/state:in/county:cass/precinct:clay_city": {
+   "name": "Cass County Precinct Clay City"
   },
   "ocd-division/country:us/state:in/county:madison/precinct:at_2": {
    "name": "Madison County Precinct At 2"
@@ -325,11 +325,11 @@
   "ocd-division/country:us/state:in/county:lake/precinct:g3_16": {
    "name": "Lake County Precinct G3 16"
   },
-  "ocd-division/country:us/state:in/county:lake/precinct:g3_15": {
-   "name": "Lake County Precinct G3 15"
-  },
   "ocd-division/country:us/state:in/county:marion/school_district:excel_center_for_adult_learners": {
    "name": "excel center for adult learners"
+  },
+  "ocd-division/country:us/state:in/county:lake/precinct:g3_15": {
+   "name": "Lake County Precinct G3 15"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:g3_18": {
    "name": "Lake County Precinct G3 18"
@@ -349,11 +349,11 @@
   "ocd-division/country:us/state:in/county:lake/precinct:g5_1": {
    "name": "Lake County Precinct G5 1"
   },
-  "ocd-division/country:us/state:in/county:elkhart/place:washington": {
-   "name": "Washington township"
-  },
   "ocd-division/country:us/state:in/county:lake/precinct:g5_5": {
    "name": "Lake County Precinct G5 5"
+  },
+  "ocd-division/country:us/state:in/county:elkhart/place:washington": {
+   "name": "Washington township"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:g5_4": {
    "name": "Lake County Precinct G5 4"
@@ -367,11 +367,11 @@
   "ocd-division/country:us/state:in/county:st_joseph/precinct:90402": {
    "name": "St. Joseph County Precinct 90402"
   },
-  "ocd-division/country:us/state:in/county:st_joseph/precinct:90403": {
-   "name": "St. Joseph County Precinct 90403"
-  },
   "ocd-division/country:us/state:in/county:bartholomew/precinct:sandcreek_5400": {
    "name": "Bartholomew County Precinct Sandcreek 5400"
+  },
+  "ocd-division/country:us/state:in/county:st_joseph/precinct:90403": {
+   "name": "St. Joseph County Precinct 90403"
   },
   "ocd-division/country:us/state:in/county:st_joseph/precinct:90404": {
    "name": "St. Joseph County Precinct 90404"
@@ -391,11 +391,11 @@
   "ocd-division/country:us/state:in/county:benton/precinct:center_north": {
    "name": "Benton County Precinct Center North"
   },
-  "ocd-division/country:us/state:in/county:st_joseph/precinct:90406": {
-   "name": "St. Joseph County Precinct 90406"
-  },
   "ocd-division/country:us/state:in/county:dubois/school_district:greater_jasper_con_schs": {
    "name": "greater jasper con schs"
+  },
+  "ocd-division/country:us/state:in/county:st_joseph/precinct:90406": {
+   "name": "St. Joseph County Precinct 90406"
   },
   "ocd-division/country:us/state:in/county:st_joseph/precinct:90407": {
    "name": "St. Joseph County Precinct 90407"
@@ -613,11 +613,11 @@
   "ocd-division/country:us/state:in/county:ripley/precinct:franklin_2": {
    "name": "Ripley County Precinct Franklin 2"
   },
-  "ocd-division/country:us/state:in/county:warrick/precinct:ohio_2": {
-   "name": "Warrick County Precinct Ohio 2"
-  },
   "ocd-division/country:us/state:in/county:ripley/precinct:franklin_1": {
    "name": "Ripley County Precinct Franklin 1"
+  },
+  "ocd-division/country:us/state:in/county:warrick/precinct:ohio_2": {
+   "name": "Warrick County Precinct Ohio 2"
   },
   "ocd-division/country:us/state:in/county:ripley/precinct:franklin_3": {
    "name": "Ripley County Precinct Franklin 3"
@@ -677,11 +677,11 @@
   "ocd-division/country:us/state:in/county:washington/place:monroe": {
    "name": "Monroe township"
   },
-  "ocd-division/country:us/state:in/county:marshall/place:bourbon": {
-   "name": "Bourbon township"
-  },
   "ocd-division/country:us/state:in/county:pike/precinct:clay": {
    "name": "Pike County Precinct Clay"
+  },
+  "ocd-division/country:us/state:in/county:marshall/place:bourbon": {
+   "name": "Bourbon township"
   },
   "ocd-division/country:us/state:in/county:vanderburgh/school_district:joshua_academy": {
    "name": "joshua academy"
@@ -713,8 +713,8 @@
     202
    ]
   },
-  "ocd-division/country:us/state:in/county:marion/school_district:christel_house_academy": {
-   "name": "christel house academy"
+  "ocd-division/country:us/state:in/county:pulaski/place:franklin": {
+   "name": "Franklin township"
   },
   "ocd-division/country:us/state:in/county:martin/executive_district:3": {
    "name": "Martin County Commission District 3",
@@ -725,8 +725,8 @@
     203
    ]
   },
-  "ocd-division/country:us/state:in/county:pulaski/place:franklin": {
-   "name": "Franklin township"
+  "ocd-division/country:us/state:in/county:marion/school_district:christel_house_academy": {
+   "name": "christel house academy"
   },
   "ocd-division/country:us/state:in/county:martin/executive_district:1": {
    "name": "Martin County Commission District 1",
@@ -764,9 +764,6 @@
     206
    ]
   },
-  "ocd-division/country:us/state:in/place:carthage": {
-   "name": "Carthage town"
-  },
   "ocd-division/country:us/state:in/county:delaware/executive_district:1": {
    "name": "Delaware County IN County Commission District 1",
    "alsoKnownAs": [
@@ -775,6 +772,9 @@
    "officeIndices": [
     207
    ]
+  },
+  "ocd-division/country:us/state:in/place:carthage": {
+   "name": "Carthage town"
   },
   "ocd-division/country:us/state:in/place:wilkinson": {
    "name": "Wilkinson town"
@@ -812,11 +812,11 @@
   "ocd-division/country:us/state:in/place:cedar_grove": {
    "name": "Cedar Grove town"
   },
-  "ocd-division/country:us/state:in/county:johnson/place:pleasant": {
-   "name": "Pleasant township"
-  },
   "ocd-division/country:us/state:in/county:harrison/precinct:south_franklin": {
    "name": "Harrison County Precinct South Franklin"
+  },
+  "ocd-division/country:us/state:in/county:johnson/place:pleasant": {
+   "name": "Pleasant township"
   },
   "ocd-division/country:us/state:in/place:huntertown": {
    "name": "Huntertown town"
@@ -860,41 +860,41 @@
   "ocd-division/country:us/state:in/county:hendricks/precinct:union_2": {
    "name": "Hendricks County Precinct Union 2"
   },
-  "ocd-division/country:us/state:in/county:hendricks/precinct:union_1": {
-   "name": "Hendricks County Precinct Union 1"
-  },
   "ocd-division/country:us/state:in/county:spencer/school_district:south_spencer_county_sch_corp": {
    "name": "south spencer county sch corp"
   },
-  "ocd-division/country:us/state:in/county:blackford/precinct:harrison_2": {
-   "name": "Blackford County Precinct Harrison 2"
-  },
-  "ocd-division/country:us/state:in/county:madison/precinct:sc_1": {
-   "name": "Madison County Precinct Sc 1"
+  "ocd-division/country:us/state:in/county:hendricks/precinct:union_1": {
+   "name": "Hendricks County Precinct Union 1"
   },
   "ocd-division/country:us/state:in/county:perry/precinct:troy_township_1": {
    "name": "Perry County Precinct Troy Township 1"
   },
+  "ocd-division/country:us/state:in/county:madison/precinct:sc_1": {
+   "name": "Madison County Precinct Sc 1"
+  },
+  "ocd-division/country:us/state:in/county:blackford/precinct:harrison_2": {
+   "name": "Blackford County Precinct Harrison 2"
+  },
   "ocd-division/country:us/state:in/county:blackford/precinct:harrison_1": {
    "name": "Blackford County Precinct Harrison 1"
-  },
-  "ocd-division/country:us/state:in/county:lagrange/place:van_buren": {
-   "name": "Van Buren township"
   },
   "ocd-division/country:us/state:in/county:madison/precinct:sc_3": {
    "name": "Madison County Precinct Sc 3"
   },
-  "ocd-division/country:us/state:in/county:wells/place:harrison": {
-   "name": "Harrison township"
+  "ocd-division/country:us/state:in/county:lagrange/place:van_buren": {
+   "name": "Van Buren township"
   },
-  "ocd-division/country:us/state:in/county:madison/precinct:sc_2": {
-   "name": "Madison County Precinct Sc 2"
+  "ocd-division/country:us/state:in/county:rush/precinct:orange_13": {
+   "name": "Rush County Precinct Orange 13"
   },
   "ocd-division/country:us/state:in/county:perry/precinct:troy_township_2": {
    "name": "Perry County Precinct Troy Township 2"
   },
-  "ocd-division/country:us/state:in/county:rush/precinct:orange_13": {
-   "name": "Rush County Precinct Orange 13"
+  "ocd-division/country:us/state:in/county:madison/precinct:sc_2": {
+   "name": "Madison County Precinct Sc 2"
+  },
+  "ocd-division/country:us/state:in/county:wells/place:harrison": {
+   "name": "Harrison township"
   },
   "ocd-division/country:us/state:in/county:grant/precinct:center_24": {
    "name": "Grant County Precinct Center 24"
@@ -962,26 +962,26 @@
   "ocd-division/country:us/state:in/county:vermillion/precinct:highland": {
    "name": "Vermillion County Precinct Highland"
   },
-  "ocd-division/country:us/state:in/county:dubois/precinct:jefferson_2": {
-   "name": "Dubois County Precinct Jefferson 2"
-  },
   "ocd-division/country:us/state:in/county:marion/precinct:29_11": {
    "name": "Marion County Precinct 29 11"
   },
-  "ocd-division/country:us/state:in/county:hamilton/precinct:waterford": {
-   "name": "Hamilton County Precinct Waterford"
-  },
-  "ocd-division/country:us/state:in/county:dubois/precinct:jefferson_1": {
-   "name": "Dubois County Precinct Jefferson 1"
+  "ocd-division/country:us/state:in/county:dubois/precinct:jefferson_2": {
+   "name": "Dubois County Precinct Jefferson 2"
   },
   "ocd-division/country:us/state:in/county:marion/precinct:29_12": {
    "name": "Marion County Precinct 29 12"
   },
-  "ocd-division/country:us/state:in/county:marion/precinct:29_10": {
-   "name": "Marion County Precinct 29 10"
+  "ocd-division/country:us/state:in/county:dubois/precinct:jefferson_1": {
+   "name": "Dubois County Precinct Jefferson 1"
+  },
+  "ocd-division/country:us/state:in/county:hamilton/precinct:waterford": {
+   "name": "Hamilton County Precinct Waterford"
   },
   "ocd-division/country:us/state:in/county:marshall/school_district:bremen_public_schools": {
    "name": "bremen public schools"
+  },
+  "ocd-division/country:us/state:in/county:marion/precinct:29_10": {
+   "name": "Marion County Precinct 29 10"
   },
   "ocd-division/country:us/state:in/county:marion/precinct:29_15": {
    "name": "Marion County Precinct 29 15"
@@ -1013,11 +1013,11 @@
   "ocd-division/country:us/state:in/county:kosciusko/place:clay": {
    "name": "Clay township"
   },
-  "ocd-division/country:us/state:in/place:woodlawn_heights": {
-   "name": "Woodlawn Heights town"
-  },
   "ocd-division/country:us/state:in/county:porter/place:porter": {
    "name": "Porter township"
+  },
+  "ocd-division/country:us/state:in/place:woodlawn_heights": {
+   "name": "Woodlawn Heights town"
   },
   "ocd-division/country:us/state:in/county:sullivan/precinct:jefferson": {
    "name": "Sullivan County Precinct Jefferson"
@@ -1043,23 +1043,23 @@
     212
    ]
   },
-  "ocd-division/country:us/state:in/county:adams/precinct:geneva": {
-   "name": "Adams County Precinct Geneva"
-  },
   "ocd-division/country:us/state:in/county:marion/precinct:12_3": {
    "name": "Marion County Precinct 12 3"
   },
+  "ocd-division/country:us/state:in/county:adams/precinct:geneva": {
+   "name": "Adams County Precinct Geneva"
+  },
   "ocd-division/country:us/state:in/county:marion/precinct:12_2": {
    "name": "Marion County Precinct 12 2"
+  },
+  "ocd-division/country:us/state:in/county:marion/precinct:12_1": {
+   "name": "Marion County Precinct 12 1"
   },
   "ocd-division/country:us/state:in/county:clay/council_district:4": {
    "name": "Clay County Council District 4",
    "officeIndices": [
     213
    ]
-  },
-  "ocd-division/country:us/state:in/county:marion/precinct:12_1": {
-   "name": "Marion County Precinct 12 1"
   },
   "ocd-division/country:us/state:in/county:clay/council_district:3": {
    "name": "Clay County Council District 3",
@@ -1091,11 +1091,11 @@
   "ocd-division/country:us/state:in/county:boone/precinct:sugar_creek_2": {
    "name": "Boone County Precinct Sugar Creek 2"
   },
-  "ocd-division/country:us/state:in/county:boone/precinct:sugar_creek_1": {
-   "name": "Boone County Precinct Sugar Creek 1"
-  },
   "ocd-division/country:us/state:in/county:porter/school_district:portage_township_schools": {
    "name": "portage township schools"
+  },
+  "ocd-division/country:us/state:in/county:boone/precinct:sugar_creek_1": {
+   "name": "Boone County Precinct Sugar Creek 1"
   },
   "ocd-division/country:us/state:in/county:madison/precinct:un_5": {
    "name": "Madison County Precinct Un 5"
@@ -1151,38 +1151,38 @@
   "ocd-division/country:us/state:in/county:vanderburgh/precinct:5_5": {
    "name": "Vanderburgh County Precinct 5 5"
   },
-  "ocd-division/country:us/state:in/place:tipton": {
-   "name": "Tipton city"
-  },
   "ocd-division/country:us/state:in/county:vanderburgh/precinct:5_4": {
    "name": "Vanderburgh County Precinct 5 4"
   },
-  "ocd-division/country:us/state:in/county:greene/precinct:stockton_5": {
-   "name": "Greene County Precinct Stockton 5"
+  "ocd-division/country:us/state:in/place:tipton": {
+   "name": "Tipton city"
   },
   "ocd-division/country:us/state:in/county:putnam/place:cloverdale": {
    "name": "Cloverdale township"
   },
-  "ocd-division/country:us/state:in/county:vanderburgh/precinct:5_6": {
-   "name": "Vanderburgh County Precinct 5 6"
+  "ocd-division/country:us/state:in/county:greene/precinct:stockton_5": {
+   "name": "Greene County Precinct Stockton 5"
   },
   "ocd-division/country:us/state:in/county:greene/precinct:stockton_4": {
    "name": "Greene County Precinct Stockton 4"
   },
-  "ocd-division/country:us/state:in/county:vanderburgh/precinct:5_9": {
-   "name": "Vanderburgh County Precinct 5 9"
-  },
-  "ocd-division/country:us/state:in/county:greene/precinct:stockton_7": {
-   "name": "Greene County Precinct Stockton 7"
+  "ocd-division/country:us/state:in/county:vanderburgh/precinct:5_6": {
+   "name": "Vanderburgh County Precinct 5 6"
   },
   "ocd-division/country:us/state:in/county:bartholomew/precinct:columbus_3000": {
    "name": "Bartholomew County Precinct Columbus 3000"
   },
-  "ocd-division/country:us/state:in/county:vanderburgh/precinct:5_8": {
-   "name": "Vanderburgh County Precinct 5 8"
+  "ocd-division/country:us/state:in/county:greene/precinct:stockton_7": {
+   "name": "Greene County Precinct Stockton 7"
+  },
+  "ocd-division/country:us/state:in/county:vanderburgh/precinct:5_9": {
+   "name": "Vanderburgh County Precinct 5 9"
   },
   "ocd-division/country:us/state:in/county:greene/precinct:stockton_6": {
    "name": "Greene County Precinct Stockton 6"
+  },
+  "ocd-division/country:us/state:in/county:vanderburgh/precinct:5_8": {
+   "name": "Vanderburgh County Precinct 5 8"
   },
   "ocd-division/country:us/state:in/county:marion/precinct:28_2": {
    "name": "Marion County Precinct 28 2"
@@ -1199,11 +1199,11 @@
   "ocd-division/country:us/state:in/county:steuben/place:steuben": {
    "name": "Steuben township"
   },
-  "ocd-division/country:us/state:in/county:tipton/precinct:madison_1": {
-   "name": "Tipton County Precinct Madison 1"
-  },
   "ocd-division/country:us/state:in/county:harrison/precinct:northwest_harrison": {
    "name": "Harrison County Precinct Northwest Harrison"
+  },
+  "ocd-division/country:us/state:in/county:tipton/precinct:madison_1": {
+   "name": "Tipton County Precinct Madison 1"
   },
   "ocd-division/country:us/state:in/county:marion/precinct:28_5": {
    "name": "Marion County Precinct 28 5"
@@ -1214,20 +1214,20 @@
   "ocd-division/country:us/state:in/county:marion/precinct:28_3": {
    "name": "Marion County Precinct 28 3"
   },
-  "ocd-division/country:us/state:in/place:jasper": {
-   "name": "Jasper city"
+  "ocd-division/country:us/state:in/county:marion/precinct:28_4": {
+   "name": "Marion County Precinct 28 4"
   },
   "ocd-division/country:us/state:in/county:lagrange/precinct:newbury": {
    "name": "Lagrange County Precinct Newbury"
   },
-  "ocd-division/country:us/state:in/county:marion/precinct:28_4": {
-   "name": "Marion County Precinct 28 4"
-  },
-  "ocd-division/country:us/state:in/county:tipton/precinct:madison_2": {
-   "name": "Tipton County Precinct Madison 2"
+  "ocd-division/country:us/state:in/place:jasper": {
+   "name": "Jasper city"
   },
   "ocd-division/country:us/state:in/county:marion/precinct:28_9": {
    "name": "Marion County Precinct 28 9"
+  },
+  "ocd-division/country:us/state:in/county:tipton/precinct:madison_2": {
+   "name": "Tipton County Precinct Madison 2"
   },
   "ocd-division/country:us/state:in/county:marion/precinct:28_7": {
    "name": "Marion County Precinct 28 7"
@@ -1451,14 +1451,14 @@
     244
    ]
   },
-  "ocd-division/country:us/state:in/place:huntingburg": {
-   "name": "Huntingburg city"
-  },
   "ocd-division/country:us/state:in/county:ripley/council_district:4": {
    "name": "Ripley County Council District 4",
    "officeIndices": [
     245
    ]
+  },
+  "ocd-division/country:us/state:in/place:huntingburg": {
+   "name": "Huntingburg city"
   },
   "ocd-division/country:us/state:in/county:posey/precinct:robinson_2": {
    "name": "Posey County Precinct Robinson 2"
@@ -1858,14 +1858,14 @@
   "ocd-division/country:us/state:in/county:wells/precinct:union": {
    "name": "Wells County Precinct Union"
   },
-  "ocd-division/country:us/state:in/place:dunreith": {
-   "name": "Dunreith town"
+  "ocd-division/country:us/state:in/county:jefferson/place:hanover": {
+   "name": "Hanover township"
   },
   "ocd-division/country:us/state:in/county:switzerland/precinct:york_1": {
    "name": "Switzerland County Precinct York 1"
   },
-  "ocd-division/country:us/state:in/county:jefferson/place:hanover": {
-   "name": "Hanover township"
+  "ocd-division/country:us/state:in/place:dunreith": {
+   "name": "Dunreith town"
   },
   "ocd-division/country:us/state:in/county:marion/precinct:26_1": {
    "name": "Marion County Precinct 26 1"
@@ -1876,11 +1876,11 @@
   "ocd-division/country:us/state:in/county:marion/precinct:26_3": {
    "name": "Marion County Precinct 26 3"
   },
-  "ocd-division/country:us/state:in/county:madison/place:adams": {
-   "name": "Adams township"
-  },
   "ocd-division/country:us/state:in/county:pulaski/precinct:tippecanoe": {
    "name": "Pulaski County Precinct Tippecanoe"
+  },
+  "ocd-division/country:us/state:in/county:madison/place:adams": {
+   "name": "Adams township"
   },
   "ocd-division/country:us/state:in/county:porter/school_district:east_porter_county_school_corp": {
    "name": "east porter county school corp"
@@ -1909,11 +1909,11 @@
   "ocd-division/country:us/state:in/county:clark/place:utica": {
    "name": "Utica township"
   },
-  "ocd-division/country:us/state:in/county:fulton/place:rochester": {
-   "name": "Rochester township"
-  },
   "ocd-division/country:us/state:in/county:lake/precinct:g4_8": {
    "name": "Lake County Precinct G4 8"
+  },
+  "ocd-division/country:us/state:in/county:fulton/place:rochester": {
+   "name": "Rochester township"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:g4_9": {
    "name": "Lake County Precinct G4 9"
@@ -1921,20 +1921,20 @@
   "ocd-division/country:us/state:in/county:lake/precinct:g4_5": {
    "name": "Lake County Precinct G4 5"
   },
-  "ocd-division/country:us/state:in/county:adams/precinct:berne_a": {
-   "name": "Adams County Precinct Berne A"
+  "ocd-division/country:us/state:in/county:parke/place:penn": {
+   "name": "Penn township"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:g4_4": {
    "name": "Lake County Precinct G4 4"
   },
-  "ocd-division/country:us/state:in/county:parke/place:penn": {
-   "name": "Penn township"
-  },
-  "ocd-division/country:us/state:in/county:adams/precinct:berne_b": {
-   "name": "Adams County Precinct Berne B"
+  "ocd-division/country:us/state:in/county:adams/precinct:berne_a": {
+   "name": "Adams County Precinct Berne A"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:g4_3": {
    "name": "Lake County Precinct G4 3"
+  },
+  "ocd-division/country:us/state:in/county:adams/precinct:berne_b": {
+   "name": "Adams County Precinct Berne B"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:g4_2": {
    "name": "Lake County Precinct G4 2"
@@ -1945,11 +1945,11 @@
   "ocd-division/country:us/state:in/county:adams/precinct:berne_c": {
    "name": "Adams County Precinct Berne C"
   },
-  "ocd-division/country:us/state:in/county:laporte/place:springfield": {
-   "name": "Springfield township"
-  },
   "ocd-division/country:us/state:in/county:laporte/precinct:dewey": {
    "name": "Laporte County Precinct Dewey"
+  },
+  "ocd-division/country:us/state:in/county:laporte/place:springfield": {
+   "name": "Springfield township"
   },
   "ocd-division/country:us/state:in/county:bartholomew/precinct:columbus_200": {
    "name": "Bartholomew County Precinct Columbus 200"
@@ -1969,35 +1969,35 @@
   "ocd-division/country:us/state:in/county:perry/precinct:cannelton_1": {
    "name": "Perry County Precinct Cannelton 1"
   },
-  "ocd-division/country:us/state:in/county:henry/precinct:liberty_2": {
-   "name": "Henry County Precinct Liberty 2"
-  },
   "ocd-division/country:us/state:in/county:perry/precinct:cannelton_2": {
    "name": "Perry County Precinct Cannelton 2"
+  },
+  "ocd-division/country:us/state:in/county:henry/precinct:liberty_2": {
+   "name": "Henry County Precinct Liberty 2"
   },
   "ocd-division/country:us/state:in/county:fulton/precinct:rochester_2": {
    "name": "Fulton County Precinct Rochester 2"
   },
-  "ocd-division/country:us/state:in/county:whitley/school_district:smith-green_community_schools": {
-   "name": "smith-green community schools"
-  },
   "ocd-division/country:us/state:in/county:fulton/precinct:rochester_3": {
    "name": "Fulton County Precinct Rochester 3"
+  },
+  "ocd-division/country:us/state:in/county:whitley/school_district:smith-green_community_schools": {
+   "name": "smith-green community schools"
   },
   "ocd-division/country:us/state:in/county:fulton/precinct:rochester_1": {
    "name": "Fulton County Precinct Rochester 1"
   },
-  "ocd-division/country:us/state:in/county:warrick/precinct:hart_1": {
-   "name": "Warrick County Precinct Hart 1"
-  },
   "ocd-division/country:us/state:in/county:fulton/precinct:rochester_6": {
    "name": "Fulton County Precinct Rochester 6"
   },
-  "ocd-division/country:us/state:in/county:warrick/precinct:hart_2": {
-   "name": "Warrick County Precinct Hart 2"
+  "ocd-division/country:us/state:in/county:warrick/precinct:hart_1": {
+   "name": "Warrick County Precinct Hart 1"
   },
   "ocd-division/country:us/state:in/county:fulton/precinct:rochester_7": {
    "name": "Fulton County Precinct Rochester 7"
+  },
+  "ocd-division/country:us/state:in/county:warrick/precinct:hart_2": {
+   "name": "Warrick County Precinct Hart 2"
   },
   "ocd-division/country:us/state:in/county:fulton/precinct:rochester_4": {
    "name": "Fulton County Precinct Rochester 4"
@@ -2005,20 +2005,14 @@
   "ocd-division/country:us/state:in/county:fulton/precinct:rochester_5": {
    "name": "Fulton County Precinct Rochester 5"
   },
-  "ocd-division/country:us/state:in/county:fulton/precinct:rochester_8": {
-   "name": "Fulton County Precinct Rochester 8"
-  },
   "ocd-division/country:us/state:in/county:parke/precinct:sugar_creek": {
    "name": "Parke County Precinct Sugar Creek"
   },
+  "ocd-division/country:us/state:in/county:fulton/precinct:rochester_8": {
+   "name": "Fulton County Precinct Rochester 8"
+  },
   "ocd-division/country:us/state:in/county:jennings/precinct:marion": {
    "name": "Jennings County Precinct Marion"
-  },
-  "ocd-division/country:us/state:in/county:wells/precinct:rockcreek": {
-   "name": "Wells County Precinct Rockcreek"
-  },
-  "ocd-division/country:us/state:in/county:fountain/precinct:van_buren_1": {
-   "name": "Fountain County Precinct Van Buren 1"
   },
   "ocd-division/country:us/state:in/county:randolph/council_district:4": {
    "name": "Randolph County Council District 4",
@@ -2026,14 +2020,17 @@
     268
    ]
   },
-  "ocd-division/country:us/state:in/county:fountain/precinct:van_buren_2": {
-   "name": "Fountain County Precinct Van Buren 2"
+  "ocd-division/country:us/state:in/county:fountain/precinct:van_buren_1": {
+   "name": "Fountain County Precinct Van Buren 1"
+  },
+  "ocd-division/country:us/state:in/county:wells/precinct:rockcreek": {
+   "name": "Wells County Precinct Rockcreek"
   },
   "ocd-division/country:us/state:in/county:martin/precinct:lost_river": {
    "name": "Martin County Precinct Lost River"
   },
-  "ocd-division/country:us/state:in/county:parke/precinct:wabash": {
-   "name": "Parke County Precinct Wabash"
+  "ocd-division/country:us/state:in/county:fountain/precinct:van_buren_2": {
+   "name": "Fountain County Precinct Van Buren 2"
   },
   "ocd-division/country:us/state:in/county:randolph/council_district:2": {
    "name": "Randolph County Council District 2",
@@ -2041,8 +2038,8 @@
     269
    ]
   },
-  "ocd-division/country:us/state:in/county:allen/precinct:st_joe_a": {
-   "name": "Allen County Precinct St Joe A"
+  "ocd-division/country:us/state:in/county:parke/precinct:wabash": {
+   "name": "Parke County Precinct Wabash"
   },
   "ocd-division/country:us/state:in/county:randolph/council_district:3": {
    "name": "Randolph County Council District 3",
@@ -2050,17 +2047,20 @@
     270
    ]
   },
+  "ocd-division/country:us/state:in/county:allen/precinct:st_joe_a": {
+   "name": "Allen County Precinct St Joe A"
+  },
   "ocd-division/country:us/state:in/county:allen/precinct:st_joe_d": {
    "name": "Allen County Precinct St Joe D"
-  },
-  "ocd-division/country:us/state:in/county:allen/precinct:st_joe_c": {
-   "name": "Allen County Precinct St Joe C"
   },
   "ocd-division/country:us/state:in/county:randolph/council_district:1": {
    "name": "Randolph County Council District 1",
    "officeIndices": [
     271
    ]
+  },
+  "ocd-division/country:us/state:in/county:allen/precinct:st_joe_c": {
+   "name": "Allen County Precinct St Joe C"
   },
   "ocd-division/country:us/state:in/county:dekalb/precinct:stafford": {
    "name": "Dekalb County Precinct Stafford"
@@ -2074,11 +2074,11 @@
   "ocd-division/country:us/state:in/county:allen/precinct:st_joe_e": {
    "name": "Allen County Precinct St Joe E"
   },
-  "ocd-division/country:us/state:in/county:allen/precinct:st_joe_f": {
-   "name": "Allen County Precinct St Joe F"
-  },
   "ocd-division/country:us/state:in/county:shelby/precinct:3_east": {
    "name": "Shelby County Precinct 3 East"
+  },
+  "ocd-division/country:us/state:in/county:allen/precinct:st_joe_f": {
+   "name": "Allen County Precinct St Joe F"
   },
   "ocd-division/country:us/state:in/county:allen/precinct:st_joe_g": {
    "name": "Allen County Precinct St Joe G"
@@ -2095,20 +2095,20 @@
   "ocd-division/country:us/state:in/county:starke/school_district:oregon-davis_school_corp": {
    "name": "oregon-davis school corp"
   },
-  "ocd-division/country:us/state:in/county:jackson/place:pershing": {
-   "name": "Pershing township"
-  },
   "ocd-division/country:us/state:in/county:hendricks/school_district:avon_community_school_corp": {
    "name": "avon community school corp"
+  },
+  "ocd-division/country:us/state:in/county:jackson/place:pershing": {
+   "name": "Pershing township"
   },
   "ocd-division/country:us/state:in/county:crawford/precinct:jennings_1": {
    "name": "Crawford County Precinct Jennings 1"
   },
-  "ocd-division/country:us/state:in/county:allen/precinct:woodburn": {
-   "name": "Allen County Precinct Woodburn"
-  },
   "ocd-division/country:us/state:in/county:crawford/precinct:jennings_2": {
    "name": "Crawford County Precinct Jennings 2"
+  },
+  "ocd-division/country:us/state:in/county:allen/precinct:woodburn": {
+   "name": "Allen County Precinct Woodburn"
   },
   "ocd-division/country:us/state:in/county:posey/executive_district:2": {
    "name": "Posey County Commission District 2",
@@ -2119,9 +2119,6 @@
     272
    ]
   },
-  "ocd-division/country:us/state:in/county:washington/place:howard": {
-   "name": "Howard township"
-  },
   "ocd-division/country:us/state:in/county:posey/executive_district:1": {
    "name": "Posey County Commission District 1",
    "alsoKnownAs": [
@@ -2130,6 +2127,9 @@
    "officeIndices": [
     273
    ]
+  },
+  "ocd-division/country:us/state:in/county:washington/place:howard": {
+   "name": "Howard township"
   },
   "ocd-division/country:us/state:in/county:posey/executive_district:3": {
    "name": "Posey County Commission District 3",
@@ -2167,11 +2167,11 @@
   "ocd-division/country:us/state:in/county:hendricks/place:lincoln": {
    "name": "Lincoln township"
   },
-  "ocd-division/country:us/state:in/county:hancock/precinct:sugar_creek_9": {
-   "name": "Hancock County Precinct Sugar Creek 9"
-  },
   "ocd-division/country:us/state:in/county:fountain/precinct:van_buren_3": {
    "name": "Fountain County Precinct Van Buren 3"
+  },
+  "ocd-division/country:us/state:in/county:hancock/precinct:sugar_creek_9": {
+   "name": "Hancock County Precinct Sugar Creek 9"
   },
   "ocd-division/country:us/state:in/county:switzerland/place:jefferson": {
    "name": "Jefferson township"
@@ -2194,14 +2194,14 @@
   "ocd-division/country:us/state:in/county:pike/precinct:patoka_2": {
    "name": "Pike County Precinct Patoka 2"
   },
-  "ocd-division/country:us/state:in/place:auburn": {
-   "name": "Auburn city"
+  "ocd-division/country:us/state:in/county:perry/precinct:troy": {
+   "name": "Perry County Precinct Troy"
   },
   "ocd-division/country:us/state:in/county:dekalb/place:concord": {
    "name": "Concord township"
   },
-  "ocd-division/country:us/state:in/county:perry/precinct:troy": {
-   "name": "Perry County Precinct Troy"
+  "ocd-division/country:us/state:in/place:auburn": {
+   "name": "Auburn city"
   },
   "ocd-division/country:us/state:in/county:pike/precinct:patoka_1": {
    "name": "Pike County Precinct Patoka 1"
@@ -2260,20 +2260,20 @@
   "ocd-division/country:us/state:in/county:dearborn/precinct:miller_5": {
    "name": "Dearborn County Precinct Miller 5"
   },
-  "ocd-division/country:us/state:in/county:dearborn/precinct:miller_6": {
-   "name": "Dearborn County Precinct Miller 6"
-  },
   "ocd-division/country:us/state:in/county:putnam/precinct:floyd_east": {
    "name": "Putnam County Precinct Floyd East"
+  },
+  "ocd-division/country:us/state:in/county:dearborn/precinct:miller_6": {
+   "name": "Dearborn County Precinct Miller 6"
   },
   "ocd-division/country:us/state:in/county:dearborn/precinct:miller_1": {
    "name": "Dearborn County Precinct Miller 1"
   },
-  "ocd-division/country:us/state:in/county:warren/place:adams": {
-   "name": "Adams township"
-  },
   "ocd-division/country:us/state:in/county:dearborn/precinct:miller_2": {
    "name": "Dearborn County Precinct Miller 2"
+  },
+  "ocd-division/country:us/state:in/county:warren/place:adams": {
+   "name": "Adams township"
   },
   "ocd-division/country:us/state:in/county:jackson/precinct:carr": {
    "name": "Jackson County Precinct Carr"
@@ -2281,11 +2281,11 @@
   "ocd-division/country:us/state:in/county:hendricks/place:brown": {
    "name": "Brown township"
   },
-  "ocd-division/country:us/state:in/county:dearborn/precinct:miller_7": {
-   "name": "Dearborn County Precinct Miller 7"
-  },
   "ocd-division/country:us/state:in/county:knox/precinct:bicknell_3": {
    "name": "Knox County Precinct Bicknell 3"
+  },
+  "ocd-division/country:us/state:in/county:dearborn/precinct:miller_7": {
+   "name": "Dearborn County Precinct Miller 7"
   },
   "ocd-division/country:us/state:in/county:knox/precinct:bicknell_4": {
    "name": "Knox County Precinct Bicknell 4"
@@ -2293,11 +2293,11 @@
   "ocd-division/country:us/state:in/county:knox/precinct:bicknell_1": {
    "name": "Knox County Precinct Bicknell 1"
   },
-  "ocd-division/country:us/state:in/county:franklin/place:blooming_grove": {
-   "name": "Blooming Grove township"
-  },
   "ocd-division/country:us/state:in/county:knox/precinct:bicknell_2": {
    "name": "Knox County Precinct Bicknell 2"
+  },
+  "ocd-division/country:us/state:in/county:franklin/place:blooming_grove": {
+   "name": "Blooming Grove township"
   },
   "ocd-division/country:us/state:in/place:greens_fork": {
    "name": "Greens Fork town"
@@ -2332,9 +2332,6 @@
   "ocd-division/country:us/state:in/county:sullivan/precinct:curry_3": {
    "name": "Sullivan County Precinct Curry 3"
   },
-  "ocd-division/country:us/state:in/county:sullivan/precinct:curry_2": {
-   "name": "Sullivan County Precinct Curry 2"
-  },
   "ocd-division/country:us/state:in/county:jennings": {
    "name": "Jennings County",
    "officeIndices": [
@@ -2350,11 +2347,14 @@
     294
    ]
   },
-  "ocd-division/country:us/state:in/place:mauckport": {
-   "name": "Mauckport town"
+  "ocd-division/country:us/state:in/county:sullivan/precinct:curry_2": {
+   "name": "Sullivan County Precinct Curry 2"
   },
   "ocd-division/country:us/state:in/county:sullivan/precinct:curry_1": {
    "name": "Sullivan County Precinct Curry 1"
+  },
+  "ocd-division/country:us/state:in/place:mauckport": {
+   "name": "Mauckport town"
   },
   "ocd-division/country:us/state:in/county:st_joseph/place:clay": {
    "name": "Clay township"
@@ -2383,56 +2383,56 @@
   "ocd-division/country:us/state:in/county:starke/school_district:knox_community_school_corp": {
    "name": "knox community school corp"
   },
-  "ocd-division/country:us/state:in/county:wayne/precinct:wayne_1": {
-   "name": "Wayne County Precinct Wayne 1"
+  "ocd-division/country:us/state:in/county:morgan/precinct:jefferson_2": {
+   "name": "Morgan County Precinct Jefferson 2"
   },
   "ocd-division/country:us/state:in/county:tippecanoe/precinct:lauramie_2": {
    "name": "Tippecanoe County Precinct Lauramie 2"
   },
-  "ocd-division/country:us/state:in/county:morgan/precinct:jefferson_2": {
-   "name": "Morgan County Precinct Jefferson 2"
-  },
-  "ocd-division/country:us/state:in/county:wayne/precinct:wayne_2": {
-   "name": "Wayne County Precinct Wayne 2"
-  },
-  "ocd-division/country:us/state:in/county:tippecanoe/precinct:lauramie_1": {
-   "name": "Tippecanoe County Precinct Lauramie 1"
+  "ocd-division/country:us/state:in/county:wayne/precinct:wayne_1": {
+   "name": "Wayne County Precinct Wayne 1"
   },
   "ocd-division/country:us/state:in/county:morgan/precinct:jefferson_1": {
    "name": "Morgan County Precinct Jefferson 1"
   },
-  "ocd-division/country:us/state:in/county:wayne/precinct:wayne_3": {
-   "name": "Wayne County Precinct Wayne 3"
+  "ocd-division/country:us/state:in/county:tippecanoe/precinct:lauramie_1": {
+   "name": "Tippecanoe County Precinct Lauramie 1"
+  },
+  "ocd-division/country:us/state:in/county:wayne/precinct:wayne_2": {
+   "name": "Wayne County Precinct Wayne 2"
   },
   "ocd-division/country:us/state:in/county:bartholomew/precinct:german_4000": {
    "name": "Bartholomew County Precinct German 4000"
   },
-  "ocd-division/country:us/state:in/county:wayne/precinct:wayne_4": {
-   "name": "Wayne County Precinct Wayne 4"
+  "ocd-division/country:us/state:in/county:wayne/precinct:wayne_3": {
+   "name": "Wayne County Precinct Wayne 3"
   },
   "ocd-division/country:us/state:in/county:morgan/precinct:jefferson_3": {
    "name": "Morgan County Precinct Jefferson 3"
   },
+  "ocd-division/country:us/state:in/county:wayne/precinct:wayne_4": {
+   "name": "Wayne County Precinct Wayne 4"
+  },
   "ocd-division/country:us/state:in/county:wayne/precinct:wayne_5": {
    "name": "Wayne County Precinct Wayne 5"
-  },
-  "ocd-division/country:us/state:in/county:wayne/precinct:wayne_6": {
-   "name": "Wayne County Precinct Wayne 6"
   },
   "ocd-division/country:us/state:in/county:delaware/school_district:wes-del_community_schools": {
    "name": "wes-del community schools"
   },
-  "ocd-division/country:us/state:in/county:wayne/precinct:wayne_7": {
-   "name": "Wayne County Precinct Wayne 7"
+  "ocd-division/country:us/state:in/county:wayne/precinct:wayne_6": {
+   "name": "Wayne County Precinct Wayne 6"
   },
   "ocd-division/country:us/state:in/county:owen/precinct:clay_2": {
    "name": "Owen County Precinct Clay 2"
   },
-  "ocd-division/country:us/state:in/county:wayne/precinct:wayne_8": {
-   "name": "Wayne County Precinct Wayne 8"
+  "ocd-division/country:us/state:in/county:wayne/precinct:wayne_7": {
+   "name": "Wayne County Precinct Wayne 7"
   },
   "ocd-division/country:us/state:in/county:owen/precinct:clay_1": {
    "name": "Owen County Precinct Clay 1"
+  },
+  "ocd-division/country:us/state:in/county:wayne/precinct:wayne_8": {
+   "name": "Wayne County Precinct Wayne 8"
   },
   "ocd-division/country:us/state:in/county:wayne/precinct:wayne_9": {
    "name": "Wayne County Precinct Wayne 9"
@@ -2440,11 +2440,11 @@
   "ocd-division/country:us/state:in/county:kosciusko/place:van_buren": {
    "name": "Van Buren township"
   },
-  "ocd-division/country:us/state:in/county:marion/school_district:flanner_house_elementary_school": {
-   "name": "flanner house elementary school"
-  },
   "ocd-division/country:us/state:in/county:miami/precinct:clay": {
    "name": "Miami County Precinct Clay"
+  },
+  "ocd-division/country:us/state:in/county:marion/school_district:flanner_house_elementary_school": {
+   "name": "flanner house elementary school"
   },
   "ocd-division/country:us/state:in/county:vigo/precinct:ri-b": {
    "name": "Vigo County Precinct Ri-B"
@@ -2476,56 +2476,56 @@
   "ocd-division/country:us/state:in/county:harrison/place:blue_river": {
    "name": "Blue River township"
   },
-  "ocd-division/country:us/state:in/county:johnson/precinct:white_river_40": {
-   "name": "Johnson County Precinct White River 40"
-  },
   "ocd-division/country:us/state:in/county:laporte/precinct:westville": {
    "name": "Laporte County Precinct Westville"
+  },
+  "ocd-division/country:us/state:in/county:johnson/precinct:white_river_40": {
+   "name": "Johnson County Precinct White River 40"
   },
   "ocd-division/country:us/state:in/county:johnson/precinct:white_river_41": {
    "name": "Johnson County Precinct White River 41"
   },
-  "ocd-division/country:us/state:in/county:harrison/precinct:central_franklin": {
-   "name": "Harrison County Precinct Central Franklin"
-  },
   "ocd-division/country:us/state:in/county:johnson/precinct:white_river_42": {
    "name": "Johnson County Precinct White River 42"
+  },
+  "ocd-division/country:us/state:in/county:harrison/precinct:central_franklin": {
+   "name": "Harrison County Precinct Central Franklin"
   },
   "ocd-division/country:us/state:in/county:johnson/precinct:white_river_43": {
    "name": "Johnson County Precinct White River 43"
   },
-  "ocd-division/country:us/state:in/county:dearborn/precinct:center_4": {
-   "name": "Dearborn County Precinct Center 4"
-  },
   "ocd-division/country:us/state:in/county:johnson/precinct:white_river_38": {
    "name": "Johnson County Precinct White River 38"
   },
-  "ocd-division/country:us/state:in/county:dearborn/precinct:center_3": {
-   "name": "Dearborn County Precinct Center 3"
+  "ocd-division/country:us/state:in/county:dearborn/precinct:center_4": {
+   "name": "Dearborn County Precinct Center 4"
   },
   "ocd-division/country:us/state:in/county:johnson/precinct:white_river_37": {
    "name": "Johnson County Precinct White River 37"
   },
-  "ocd-division/country:us/state:in/county:dearborn/precinct:center_6": {
-   "name": "Dearborn County Precinct Center 6"
+  "ocd-division/country:us/state:in/county:dearborn/precinct:center_3": {
+   "name": "Dearborn County Precinct Center 3"
   },
   "ocd-division/country:us/state:in/county:johnson/precinct:white_river_36": {
    "name": "Johnson County Precinct White River 36"
   },
-  "ocd-division/country:us/state:in/county:dearborn/precinct:center_5": {
-   "name": "Dearborn County Precinct Center 5"
+  "ocd-division/country:us/state:in/county:dearborn/precinct:center_6": {
+   "name": "Dearborn County Precinct Center 6"
   },
   "ocd-division/country:us/state:in/county:johnson/precinct:white_river_35": {
    "name": "Johnson County Precinct White River 35"
   },
+  "ocd-division/country:us/state:in/county:dearborn/precinct:center_5": {
+   "name": "Dearborn County Precinct Center 5"
+  },
   "ocd-division/country:us/state:in/county:johnson/precinct:white_river_39": {
    "name": "Johnson County Precinct White River 39"
   },
-  "ocd-division/country:us/state:in/county:grant/precinct:richland_1": {
-   "name": "Grant County Precinct Richland 1"
-  },
   "ocd-division/country:us/state:in/county:lake/precinct:wt_2": {
    "name": "Lake County Precinct Wt 2"
+  },
+  "ocd-division/country:us/state:in/county:grant/precinct:richland_1": {
+   "name": "Grant County Precinct Richland 1"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:wt_1": {
    "name": "Lake County Precinct Wt 1"
@@ -2542,29 +2542,29 @@
   "ocd-division/country:us/state:in/county:lake/precinct:wt_5": {
    "name": "Lake County Precinct Wt 5"
   },
+  "ocd-division/country:us/state:in/county:lake/precinct:wt_7": {
+   "name": "Lake County Precinct Wt 7"
+  },
   "ocd-division/country:us/state:in/county:kosciusko/council_district:3": {
    "name": "Kosciusko County Council District 3",
    "officeIndices": [
     305
    ]
   },
-  "ocd-division/country:us/state:in/county:lake/precinct:wt_7": {
-   "name": "Lake County Precinct Wt 7"
+  "ocd-division/country:us/state:in/county:owen/precinct:jennings": {
+   "name": "Owen County Precinct Jennings"
+  },
+  "ocd-division/country:us/state:in/county:marshall/precinct:walnut_1": {
+   "name": "Marshall County Precinct Walnut 1"
+  },
+  "ocd-division/country:us/state:in/county:lake/precinct:wt_8": {
+   "name": "Lake County Precinct Wt 8"
   },
   "ocd-division/country:us/state:in/county:kosciusko/council_district:4": {
    "name": "Kosciusko County Council District 4",
    "officeIndices": [
     306
    ]
-  },
-  "ocd-division/country:us/state:in/county:lake/precinct:wt_8": {
-   "name": "Lake County Precinct Wt 8"
-  },
-  "ocd-division/country:us/state:in/county:marshall/precinct:walnut_1": {
-   "name": "Marshall County Precinct Walnut 1"
-  },
-  "ocd-division/country:us/state:in/county:owen/precinct:jennings": {
-   "name": "Owen County Precinct Jennings"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:wt_9": {
    "name": "Lake County Precinct Wt 9"
@@ -2587,35 +2587,35 @@
   "ocd-division/country:us/state:in/county:johnson/precinct:white_river_30": {
    "name": "Johnson County Precinct White River 30"
   },
-  "ocd-division/country:us/state:in/county:greene/precinct:richland_2": {
-   "name": "Greene County Precinct Richland 2"
-  },
   "ocd-division/country:us/state:in/county:johnson/precinct:white_river_33": {
    "name": "Johnson County Precinct White River 33"
   },
-  "ocd-division/country:us/state:in/county:greene/precinct:richland_3": {
-   "name": "Greene County Precinct Richland 3"
+  "ocd-division/country:us/state:in/county:greene/precinct:richland_2": {
+   "name": "Greene County Precinct Richland 2"
   },
   "ocd-division/country:us/state:in/county:johnson/precinct:white_river_34": {
    "name": "Johnson County Precinct White River 34"
   },
-  "ocd-division/country:us/state:in/county:greene/precinct:richland_4": {
-   "name": "Greene County Precinct Richland 4"
-  },
-  "ocd-division/country:us/state:in/county:dearborn/precinct:center_1": {
-   "name": "Dearborn County Precinct Center 1"
-  },
-  "ocd-division/country:us/state:in/county:johnson/precinct:white_river_31": {
-   "name": "Johnson County Precinct White River 31"
+  "ocd-division/country:us/state:in/county:greene/precinct:richland_3": {
+   "name": "Greene County Precinct Richland 3"
   },
   "ocd-division/country:us/state:in/county:marshall/precinct:walnut_2": {
    "name": "Marshall County Precinct Walnut 2"
   },
-  "ocd-division/country:us/state:in/county:dearborn/precinct:center_2": {
-   "name": "Dearborn County Precinct Center 2"
+  "ocd-division/country:us/state:in/county:johnson/precinct:white_river_31": {
+   "name": "Johnson County Precinct White River 31"
+  },
+  "ocd-division/country:us/state:in/county:dearborn/precinct:center_1": {
+   "name": "Dearborn County Precinct Center 1"
+  },
+  "ocd-division/country:us/state:in/county:greene/precinct:richland_4": {
+   "name": "Greene County Precinct Richland 4"
   },
   "ocd-division/country:us/state:in/county:johnson/precinct:white_river_32": {
    "name": "Johnson County Precinct White River 32"
+  },
+  "ocd-division/country:us/state:in/county:dearborn/precinct:center_2": {
+   "name": "Dearborn County Precinct Center 2"
   },
   "ocd-division/country:us/state:in/county:vigo/precinct:hc-e": {
    "name": "Vigo County Precinct Hc-E"
@@ -2623,23 +2623,23 @@
   "ocd-division/country:us/state:in/county:vigo/precinct:hc-f": {
    "name": "Vigo County Precinct Hc-F"
   },
-  "ocd-division/country:us/state:in/county:vigo/precinct:hc-c": {
-   "name": "Vigo County Precinct Hc-C"
-  },
   "ocd-division/country:us/state:in/county:lake/school_district:school_city_of_hobart": {
    "name": "school city of hobart"
+  },
+  "ocd-division/country:us/state:in/county:vigo/precinct:hc-c": {
+   "name": "Vigo County Precinct Hc-C"
   },
   "ocd-division/country:us/state:in/county:vigo/precinct:hc-d": {
    "name": "Vigo County Precinct Hc-D"
   },
-  "ocd-division/country:us/state:in/place:mentone": {
-   "name": "Mentone town"
+  "ocd-division/country:us/state:in/county:sullivan/precinct:jackson_2": {
+   "name": "Sullivan County Precinct Jackson 2"
   },
   "ocd-division/country:us/state:in/county:vigo/precinct:hc-i": {
    "name": "Vigo County Precinct Hc-I"
   },
-  "ocd-division/country:us/state:in/county:sullivan/precinct:jackson_2": {
-   "name": "Sullivan County Precinct Jackson 2"
+  "ocd-division/country:us/state:in/place:mentone": {
+   "name": "Mentone town"
   },
   "ocd-division/country:us/state:in/county:vigo/precinct:hc-g": {
    "name": "Vigo County Precinct Hc-G"
@@ -2686,9 +2686,6 @@
   "ocd-division/country:us/state:in/county:miami/precinct:jefferson_2": {
    "name": "Miami County Precinct Jefferson 2"
   },
-  "ocd-division/country:us/state:in/county:johnson/precinct:white_river_26": {
-   "name": "Johnson County Precinct White River 26"
-  },
   "ocd-division/country:us/state:in/county:lake": {
    "name": "Lake County",
    "officeIndices": [
@@ -2702,6 +2699,9 @@
     316,
     317
    ]
+  },
+  "ocd-division/country:us/state:in/county:johnson/precinct:white_river_26": {
+   "name": "Johnson County Precinct White River 26"
   },
   "ocd-division/country:us/state:in/county:miami/precinct:jefferson_1": {
    "name": "Miami County Precinct Jefferson 1"
@@ -3883,9 +3883,6 @@
   "ocd-division/country:us/state:in/county:marion/precinct:per_16": {
    "name": "Marion County Precinct Per 16"
   },
-  "ocd-division/country:us/state:in/county:marion/precinct:per_15": {
-   "name": "Marion County Precinct Per 15"
-  },
   "ocd-division/country:us/state:in/county:ripley": {
    "name": "Ripley County",
    "officeIndices": [
@@ -3900,6 +3897,9 @@
     369,
     370
    ]
+  },
+  "ocd-division/country:us/state:in/county:marion/precinct:per_15": {
+   "name": "Marion County Precinct Per 15"
   },
   "ocd-division/country:us/state:in/place:homecroft": {
    "name": "Homecroft town"
@@ -4492,28 +4492,28 @@
     397
    ]
   },
-  "ocd-division/country:us/state:in/sldl:71": {
-   "name": "Indiana State House district 71",
-   "officeIndices": [
-    27
-   ]
-  },
   "ocd-division/country:us/state:in/county:madison/council_district:3": {
    "name": "Madison County IN County Council district 3",
    "officeIndices": [
     398
    ]
   },
-  "ocd-division/country:us/state:in/sldl:70": {
-   "name": "Indiana State House district 70",
+  "ocd-division/country:us/state:in/sldl:71": {
+   "name": "Indiana State House district 71",
    "officeIndices": [
-    28
+    27
    ]
   },
   "ocd-division/country:us/state:in/county:madison/council_district:2": {
    "name": "Madison County IN County Council district 2",
    "officeIndices": [
     399
+   ]
+  },
+  "ocd-division/country:us/state:in/sldl:70": {
+   "name": "Indiana State House district 70",
+   "officeIndices": [
+    28
    ]
   },
   "ocd-division/country:us/state:in/county:madison/council_district:1": {
@@ -4528,14 +4528,14 @@
     29
    ]
   },
+  "ocd-division/country:us/state:in/county:jennings/precinct:montgomery": {
+   "name": "Jennings County Precinct Montgomery"
+  },
   "ocd-division/country:us/state:in/sldl:75": {
    "name": "Indiana State House district 75",
    "officeIndices": [
     30
    ]
-  },
-  "ocd-division/country:us/state:in/county:jennings/precinct:montgomery": {
-   "name": "Jennings County Precinct Montgomery"
   },
   "ocd-division/country:us/state:in/sldl:74": {
    "name": "Indiana State House district 74",
@@ -4561,47 +4561,47 @@
     34
    ]
   },
+  "ocd-division/country:us/state:in/county:monroe/school_district:the_bloomington_project_school": {
+   "name": "the bloomington project school"
+  },
+  "ocd-division/country:us/state:in/place:alton": {
+   "name": "Alton town"
+  },
   "ocd-division/country:us/state:in/sldl:79": {
    "name": "Indiana State House district 79",
    "officeIndices": [
     35
    ]
   },
-  "ocd-division/country:us/state:in/place:alton": {
-   "name": "Alton town"
-  },
-  "ocd-division/country:us/state:in/county:monroe/school_district:the_bloomington_project_school": {
-   "name": "the bloomington project school"
-  },
   "ocd-division/country:us/state:in/place:dana": {
    "name": "Dana town"
-  },
-  "ocd-division/country:us/state:in/county:tippecanoe/precinct:washington_2": {
-   "name": "Tippecanoe County Precinct Washington 2"
   },
   "ocd-division/country:us/state:in/county:shelby/precinct:4_east": {
    "name": "Shelby County Precinct 4 East"
   },
-  "ocd-division/country:us/state:in/county:tippecanoe/precinct:washington_1": {
-   "name": "Tippecanoe County Precinct Washington 1"
+  "ocd-division/country:us/state:in/county:tippecanoe/precinct:washington_2": {
+   "name": "Tippecanoe County Precinct Washington 2"
   },
   "ocd-division/country:us/state:in/county:hamilton/precinct:west_westfield": {
    "name": "Hamilton County Precinct West Westfield"
   },
-  "ocd-division/country:us/state:in/county:laporte/precinct:kingsford_heights": {
-   "name": "Laporte County Precinct Kingsford Heights"
+  "ocd-division/country:us/state:in/county:tippecanoe/precinct:washington_1": {
+   "name": "Tippecanoe County Precinct Washington 1"
   },
   "ocd-division/country:us/state:in/county:morgan/precinct:ashland_1": {
    "name": "Morgan County Precinct Ashland 1"
   },
+  "ocd-division/country:us/state:in/county:laporte/precinct:kingsford_heights": {
+   "name": "Laporte County Precinct Kingsford Heights"
+  },
   "ocd-division/country:us/state:in/county:spencer/place:hammond": {
    "name": "Hammond township"
   },
-  "ocd-division/country:us/state:in/county:harrison/precinct:south_west_harrison": {
-   "name": "Harrison County Precinct South West Harrison"
-  },
   "ocd-division/country:us/state:in/county:lake/precinct:mer_10": {
    "name": "Lake County Precinct Mer 10"
+  },
+  "ocd-division/country:us/state:in/county:harrison/precinct:south_west_harrison": {
+   "name": "Harrison County Precinct South West Harrison"
   },
   "ocd-division/country:us/state:in/county:morgan/precinct:ashland_2": {
    "name": "Morgan County Precinct Ashland 2"
@@ -4618,23 +4618,23 @@
     37
    ]
   },
+  "ocd-division/country:us/state:in/county:sullivan/precinct:cass_2": {
+   "name": "Sullivan County Precinct Cass 2"
+  },
   "ocd-division/country:us/state:in/sldl:83": {
    "name": "Indiana State House district 83",
    "officeIndices": [
     38
    ]
   },
-  "ocd-division/country:us/state:in/county:sullivan/precinct:cass_2": {
-   "name": "Sullivan County Precinct Cass 2"
+  "ocd-division/country:us/state:in/county:sullivan/precinct:cass_1": {
+   "name": "Sullivan County Precinct Cass 1"
   },
   "ocd-division/country:us/state:in/sldl:82": {
    "name": "Indiana State House district 82",
    "officeIndices": [
     39
    ]
-  },
-  "ocd-division/country:us/state:in/county:sullivan/precinct:cass_1": {
-   "name": "Sullivan County Precinct Cass 1"
   },
   "ocd-division/country:us/state:in/sldl:85": {
    "name": "Indiana State House district 85",
@@ -4648,14 +4648,14 @@
     41
    ]
   },
+  "ocd-division/country:us/state:in/place:richland": {
+   "name": "Richland town"
+  },
   "ocd-division/country:us/state:in/sldl:87": {
    "name": "Indiana State House district 87",
    "officeIndices": [
     42
    ]
-  },
-  "ocd-division/country:us/state:in/place:richland": {
-   "name": "Richland town"
   },
   "ocd-division/country:us/state:in/sldl:86": {
    "name": "Indiana State House district 86",
@@ -4678,19 +4678,19 @@
     45
    ]
   },
-  "ocd-division/country:us/state:in/sldl:47": {
-   "name": "Indiana State House district 47",
+  "ocd-division/country:us/state:in/county:spencer/council_district:4": {
+   "name": "Spencer County Council District 4",
    "officeIndices": [
-    46
+    401
    ]
   },
   "ocd-division/country:us/state:in/place:monroeville": {
    "name": "Monroeville town"
   },
-  "ocd-division/country:us/state:in/county:spencer/council_district:4": {
-   "name": "Spencer County Council District 4",
+  "ocd-division/country:us/state:in/sldl:47": {
+   "name": "Indiana State House district 47",
    "officeIndices": [
-    401
+    46
    ]
   },
   "ocd-division/country:us/state:in/sldl:46": {
@@ -4699,28 +4699,28 @@
     47
    ]
   },
-  "ocd-division/country:us/state:in/sldl:45": {
-   "name": "Indiana State House district 45",
-   "officeIndices": [
-    48
-   ]
-  },
   "ocd-division/country:us/state:in/county:spencer/council_district:2": {
    "name": "Spencer County Council District 2",
    "officeIndices": [
     402
    ]
   },
-  "ocd-division/country:us/state:in/sldl:44": {
-   "name": "Indiana State House district 44",
+  "ocd-division/country:us/state:in/sldl:45": {
+   "name": "Indiana State House district 45",
    "officeIndices": [
-    49
+    48
    ]
   },
   "ocd-division/country:us/state:in/county:spencer/council_district:3": {
    "name": "Spencer County Council District 3",
    "officeIndices": [
     403
+   ]
+  },
+  "ocd-division/country:us/state:in/sldl:44": {
+   "name": "Indiana State House district 44",
+   "officeIndices": [
+    49
    ]
   },
   "ocd-division/country:us/state:in/sldl:53": {
@@ -4762,14 +4762,14 @@
   "ocd-division/country:us/state:in/county:putnam/place:jackson": {
    "name": "Jackson township"
   },
+  "ocd-division/country:us/state:in/county:greene/precinct:fairplay": {
+   "name": "Greene County Precinct Fairplay"
+  },
   "ocd-division/country:us/state:in/sldl:59": {
    "name": "Indiana State House district 59",
    "officeIndices": [
     55
    ]
-  },
-  "ocd-division/country:us/state:in/county:greene/precinct:fairplay": {
-   "name": "Greene County Precinct Fairplay"
   },
   "ocd-division/country:us/state:in/sldl:56": {
    "name": "Indiana State House district 56",
@@ -4777,14 +4777,14 @@
     56
    ]
   },
+  "ocd-division/country:us/state:in/county:noble/place:wayne": {
+   "name": "Wayne township"
+  },
   "ocd-division/country:us/state:in/sldl:55": {
    "name": "Indiana State House district 55",
    "officeIndices": [
     57
    ]
-  },
-  "ocd-division/country:us/state:in/county:noble/place:wayne": {
-   "name": "Wayne township"
   },
   "ocd-division/country:us/state:in/sldl:58": {
    "name": "Indiana State House district 58",
@@ -4798,14 +4798,20 @@
     59
    ]
   },
+  "ocd-division/country:us/state:in/county:hendricks/precinct:center_6": {
+   "name": "Hendricks County Precinct Center 6"
+  },
   "ocd-division/country:us/state:in/sldl:62": {
    "name": "Indiana State House district 62",
    "officeIndices": [
     60
    ]
   },
-  "ocd-division/country:us/state:in/county:hendricks/precinct:center_6": {
-   "name": "Hendricks County Precinct Center 6"
+  "ocd-division/country:us/state:in/county:hendricks/precinct:center_5": {
+   "name": "Hendricks County Precinct Center 5"
+  },
+  "ocd-division/country:us/state:in/county:steuben/place:york": {
+   "name": "York township"
   },
   "ocd-division/country:us/state:in/sldl:63": {
    "name": "Indiana State House district 63",
@@ -4813,11 +4819,8 @@
     61
    ]
   },
-  "ocd-division/country:us/state:in/county:steuben/place:york": {
-   "name": "York township"
-  },
-  "ocd-division/country:us/state:in/county:hendricks/precinct:center_5": {
-   "name": "Hendricks County Precinct Center 5"
+  "ocd-division/country:us/state:in/county:hendricks/precinct:center_4": {
+   "name": "Hendricks County Precinct Center 4"
   },
   "ocd-division/country:us/state:in/sldl:64": {
    "name": "Indiana State House district 64",
@@ -4825,8 +4828,8 @@
     62
    ]
   },
-  "ocd-division/country:us/state:in/county:hendricks/precinct:center_4": {
-   "name": "Hendricks County Precinct Center 4"
+  "ocd-division/country:us/state:in/county:hendricks/precinct:center_3": {
+   "name": "Hendricks County Precinct Center 3"
   },
   "ocd-division/country:us/state:in/sldl:65": {
    "name": "Indiana State House district 65",
@@ -4834,14 +4837,14 @@
     63
    ]
   },
-  "ocd-division/country:us/state:in/county:hendricks/precinct:center_3": {
-   "name": "Hendricks County Precinct Center 3"
+  "ocd-division/country:us/state:in/county:adams/precinct:no_washington": {
+   "name": "Adams County Precinct No Washington"
   },
   "ocd-division/country:us/state:in/county:hendricks/precinct:center_9": {
    "name": "Hendricks County Precinct Center 9"
   },
-  "ocd-division/country:us/state:in/county:adams/precinct:no_washington": {
-   "name": "Adams County Precinct No Washington"
+  "ocd-division/country:us/state:in/county:hendricks/precinct:center_8": {
+   "name": "Hendricks County Precinct Center 8"
   },
   "ocd-division/country:us/state:in/sldl:60": {
    "name": "Indiana State House district 60",
@@ -4849,8 +4852,17 @@
     64
    ]
   },
-  "ocd-division/country:us/state:in/county:hendricks/precinct:center_8": {
-   "name": "Hendricks County Precinct Center 8"
+  "ocd-division/country:us/state:in/county:morgan/place:gregg": {
+   "name": "Gregg township"
+  },
+  "ocd-division/country:us/state:in/county:hendricks/precinct:center_7": {
+   "name": "Hendricks County Precinct Center 7"
+  },
+  "ocd-division/country:us/state:in/county:wells/place:nottingham": {
+   "name": "Nottingham township"
+  },
+  "ocd-division/country:us/state:in/place:perrysville": {
+   "name": "Perrysville town"
   },
   "ocd-division/country:us/state:in/sldl:61": {
    "name": "Indiana State House district 61",
@@ -4858,26 +4870,14 @@
     65
    ]
   },
-  "ocd-division/country:us/state:in/place:perrysville": {
-   "name": "Perrysville town"
-  },
-  "ocd-division/country:us/state:in/county:wells/place:nottingham": {
-   "name": "Nottingham township"
-  },
-  "ocd-division/country:us/state:in/county:hendricks/precinct:center_7": {
-   "name": "Hendricks County Precinct Center 7"
-  },
-  "ocd-division/country:us/state:in/county:morgan/place:gregg": {
-   "name": "Gregg township"
-  },
-  "ocd-division/country:us/state:in/county:hendricks/precinct:center_2": {
-   "name": "Hendricks County Precinct Center 2"
-  },
   "ocd-division/country:us/state:in/county:madison/executive_district:middle": {
    "name": "Madison County IN County Commission Middle District",
    "alsoKnownAs": [
     "ocd-division/country:us/state:in/county:madison/commissioner_district:middle"
    ]
+  },
+  "ocd-division/country:us/state:in/county:hendricks/precinct:center_2": {
+   "name": "Hendricks County Precinct Center 2"
   },
   "ocd-division/country:us/state:in/county:hendricks/precinct:center_1": {
    "name": "Hendricks County Precinct Center 1"
@@ -4888,14 +4888,14 @@
   "ocd-division/country:us/state:in/county:pike/precinct:jefferson_2": {
    "name": "Pike County Precinct Jefferson 2"
   },
+  "ocd-division/country:us/state:in/county:switzerland/school_district:switzerland_county_school_corp": {
+   "name": "switzerland county school corp"
+  },
   "ocd-division/country:us/state:in/sldl:25": {
    "name": "Indiana State House district 25",
    "officeIndices": [
     66
    ]
-  },
-  "ocd-division/country:us/state:in/county:switzerland/school_district:switzerland_county_school_corp": {
-   "name": "switzerland county school corp"
   },
   "ocd-division/country:us/state:in/sldl:24": {
    "name": "Indiana State House district 24",
@@ -4963,26 +4963,26 @@
     76
    ]
   },
-  "ocd-division/country:us/state:in/place:covington": {
-   "name": "Covington city"
-  },
   "ocd-division/country:us/state:in/county:putnam/precinct:clinton": {
    "name": "Putnam County Precinct Clinton"
   },
-  "ocd-division/country:us/state:in/place:west_terre_haute": {
-   "name": "West Terre Haute town"
+  "ocd-division/country:us/state:in/place:covington": {
+   "name": "Covington city"
   },
   "ocd-division/country:us/state:in/county:cass/school_district:southeastern_school_corp": {
    "name": "southeastern school corp"
   },
+  "ocd-division/country:us/state:in/place:west_terre_haute": {
+   "name": "West Terre Haute town"
+  },
   "ocd-division/country:us/state:in/county:henry/precinct:prairie_3": {
    "name": "Henry County Precinct Prairie 3"
   },
-  "ocd-division/country:us/state:in/place:monroe_city": {
-   "name": "Monroe City town"
-  },
   "ocd-division/country:us/state:in/county:henry/precinct:prairie_1": {
    "name": "Henry County Precinct Prairie 1"
+  },
+  "ocd-division/country:us/state:in/place:monroe_city": {
+   "name": "Monroe City town"
   },
   "ocd-division/country:us/state:in/county:henry/precinct:prairie_2": {
    "name": "Henry County Precinct Prairie 2"
@@ -5032,14 +5032,14 @@
     79
    ]
   },
+  "ocd-division/country:us/state:in/county:noble/place:perry": {
+   "name": "Perry township"
+  },
   "ocd-division/country:us/state:in/sldl:35": {
    "name": "Indiana State House district 35",
    "officeIndices": [
     80
    ]
-  },
-  "ocd-division/country:us/state:in/county:noble/place:perry": {
-   "name": "Perry township"
   },
   "ocd-division/country:us/state:in/sldl:38": {
    "name": "Indiana State House district 38",
@@ -5062,11 +5062,11 @@
   "ocd-division/country:us/state:in/county:lake/precinct:ho_2": {
    "name": "Lake County Precinct Ho 2"
   },
-  "ocd-division/country:us/state:in/county:lake/precinct:ho_1": {
-   "name": "Lake County Precinct Ho 1"
-  },
   "ocd-division/country:us/state:in/county:madison/place:union": {
    "name": "Union township"
+  },
+  "ocd-division/country:us/state:in/county:lake/precinct:ho_1": {
+   "name": "Lake County Precinct Ho 1"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:ho_4": {
    "name": "Lake County Precinct Ho 4"
@@ -5086,16 +5086,16 @@
     85
    ]
   },
-  "ocd-division/country:us/state:in/sldl:42": {
-   "name": "Indiana State House district 42",
-   "officeIndices": [
-    86
-   ]
-  },
   "ocd-division/country:us/state:in/county:spencer/council_district:1": {
    "name": "Spencer County Council District 1",
    "officeIndices": [
     407
+   ]
+  },
+  "ocd-division/country:us/state:in/sldl:42": {
+   "name": "Indiana State House district 42",
+   "officeIndices": [
+    86
    ]
   },
   "ocd-division/country:us/state:in/sldl:43": {
@@ -5110,11 +5110,11 @@
   "ocd-division/country:us/state:in/county:lake/precinct:ho_9": {
    "name": "Lake County Precinct Ho 9"
   },
-  "ocd-division/country:us/state:in/county:lake/precinct:ho_6": {
-   "name": "Lake County Precinct Ho 6"
-  },
   "ocd-division/country:us/state:in/county:morgan/place:green": {
    "name": "Green township"
+  },
+  "ocd-division/country:us/state:in/county:lake/precinct:ho_6": {
+   "name": "Lake County Precinct Ho 6"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:ho_5": {
    "name": "Lake County Precinct Ho 5"
@@ -5122,11 +5122,11 @@
   "ocd-division/country:us/state:in/county:lake/precinct:ho_8": {
    "name": "Lake County Precinct Ho 8"
   },
-  "ocd-division/country:us/state:in/county:henry/school_district:shenandoah_school_corporation": {
-   "name": "shenandoah school corporation"
-  },
   "ocd-division/country:us/state:in/county:lake/precinct:ho_7": {
    "name": "Lake County Precinct Ho 7"
+  },
+  "ocd-division/country:us/state:in/county:henry/school_district:shenandoah_school_corporation": {
+   "name": "shenandoah school corporation"
   },
   "ocd-division/country:us/state:in/county:monroe/precinct:perry_31": {
    "name": "Monroe County Precinct Perry 31"
@@ -5146,26 +5146,26 @@
   "ocd-division/country:us/state:in/county:morgan/precinct:madison_1": {
    "name": "Morgan County Precinct Madison 1"
   },
-  "ocd-division/country:us/state:in/county:washington/school_district:west_washington_school_corp": {
-   "name": "west washington school corp"
-  },
   "ocd-division/country:us/state:in/county:morgan/precinct:madison_5": {
    "name": "Morgan County Precinct Madison 5"
+  },
+  "ocd-division/country:us/state:in/county:washington/school_district:west_washington_school_corp": {
+   "name": "west washington school corp"
   },
   "ocd-division/country:us/state:in/county:morgan/precinct:madison_4": {
    "name": "Morgan County Precinct Madison 4"
   },
-  "ocd-division/country:us/state:in/county:johnson/precinct:franklin_2": {
-   "name": "Johnson County Precinct Franklin 2"
-  },
   "ocd-division/country:us/state:in/county:morgan/precinct:madison_3": {
    "name": "Morgan County Precinct Madison 3"
   },
-  "ocd-division/country:us/state:in/county:johnson/precinct:franklin_1": {
-   "name": "Johnson County Precinct Franklin 1"
+  "ocd-division/country:us/state:in/county:johnson/precinct:franklin_2": {
+   "name": "Johnson County Precinct Franklin 2"
   },
   "ocd-division/country:us/state:in/county:morgan/precinct:madison_2": {
    "name": "Morgan County Precinct Madison 2"
+  },
+  "ocd-division/country:us/state:in/county:johnson/precinct:franklin_1": {
+   "name": "Johnson County Precinct Franklin 1"
   },
   "ocd-division/country:us/state:in/county:johnson/precinct:franklin_4": {
    "name": "Johnson County Precinct Franklin 4"
@@ -5194,17 +5194,20 @@
   "ocd-division/country:us/state:in/county:union/school_district:union_co~clg_corner_joint_sch_dist": {
    "name": "union co/clg corner joint sch dist"
   },
+  "ocd-division/country:us/state:in/county:morgan/precinct:madison_6": {
+   "name": "Morgan County Precinct Madison 6"
+  },
+  "ocd-division/country:us/state:in/county:starke/precinct:wayne_1": {
+   "name": "Starke County Precinct Wayne 1"
+  },
   "ocd-division/country:us/state:in/sldl:21": {
    "name": "Indiana State House district 21",
    "officeIndices": [
     89
    ]
   },
-  "ocd-division/country:us/state:in/county:starke/precinct:wayne_1": {
-   "name": "Starke County Precinct Wayne 1"
-  },
-  "ocd-division/country:us/state:in/county:morgan/precinct:madison_6": {
-   "name": "Morgan County Precinct Madison 6"
+  "ocd-division/country:us/state:in/county:starke/precinct:wayne_2": {
+   "name": "Starke County Precinct Wayne 2"
   },
   "ocd-division/country:us/state:in/sldl:20": {
    "name": "Indiana State House district 20",
@@ -5212,14 +5215,11 @@
     90
    ]
   },
-  "ocd-division/country:us/state:in/county:starke/precinct:wayne_2": {
-   "name": "Starke County Precinct Wayne 2"
+  "ocd-division/country:us/state:in/county:starke/precinct:wayne_3": {
+   "name": "Starke County Precinct Wayne 3"
   },
   "ocd-division/country:us/state:in/county:wayne/precinct:washington_1": {
    "name": "Wayne County Precinct Washington 1"
-  },
-  "ocd-division/country:us/state:in/county:starke/precinct:wayne_3": {
-   "name": "Starke County Precinct Wayne 3"
   },
   "ocd-division/country:us/state:in/county:starke/precinct:wayne_4": {
    "name": "Starke County Precinct Wayne 4"
@@ -5230,17 +5230,17 @@
     91
    ]
   },
+  "ocd-division/country:us/state:in/county:rush/precinct:ripley_9": {
+   "name": "Rush County Precinct Ripley 9"
+  },
+  "ocd-division/country:us/state:in/county:vermillion/place:eugene": {
+   "name": "Eugene township"
+  },
   "ocd-division/country:us/state:in/sldl:18": {
    "name": "Indiana State House district 18",
    "officeIndices": [
     92
    ]
-  },
-  "ocd-division/country:us/state:in/county:vermillion/place:eugene": {
-   "name": "Eugene township"
-  },
-  "ocd-division/country:us/state:in/county:rush/precinct:ripley_9": {
-   "name": "Rush County Precinct Ripley 9"
   },
   "ocd-division/country:us/state:in/sldl:15": {
    "name": "Indiana State House district 15",
@@ -5302,26 +5302,26 @@
   "ocd-division/country:us/state:in/county:monroe/precinct:perry_14": {
    "name": "Monroe County Precinct Perry 14"
   },
-  "ocd-division/country:us/state:in/county:lake/precinct:g1_18": {
-   "name": "Lake County Precinct G1 18"
-  },
   "ocd-division/country:us/state:in/county:rush/precinct:ripley_10": {
    "name": "Rush County Precinct Ripley 10"
+  },
+  "ocd-division/country:us/state:in/county:lake/precinct:g1_18": {
+   "name": "Lake County Precinct G1 18"
   },
   "ocd-division/country:us/state:in/county:monroe/precinct:perry_11": {
    "name": "Monroe County Precinct Perry 11"
   },
-  "ocd-division/country:us/state:in/county:lake/precinct:g1_19": {
-   "name": "Lake County Precinct G1 19"
-  },
   "ocd-division/country:us/state:in/county:monroe/precinct:perry_10": {
    "name": "Monroe County Precinct Perry 10"
   },
-  "ocd-division/country:us/state:in/county:monroe/precinct:perry_17": {
-   "name": "Monroe County Precinct Perry 17"
+  "ocd-division/country:us/state:in/county:lake/precinct:g1_19": {
+   "name": "Lake County Precinct G1 19"
   },
   "ocd-division/country:us/state:in/county:morgan/school_district:eminence_community_school_corp": {
    "name": "eminence community school corp"
+  },
+  "ocd-division/country:us/state:in/county:monroe/precinct:perry_17": {
+   "name": "Monroe County Precinct Perry 17"
   },
   "ocd-division/country:us/state:in/county:monroe/precinct:perry_16": {
    "name": "Monroe County Precinct Perry 16"
@@ -5335,11 +5335,11 @@
   "ocd-division/country:us/state:in/county:jay/precinct:bearcreek": {
    "name": "Jay County Precinct Bearcreek"
   },
-  "ocd-division/country:us/state:in/county:lake/precinct:g1_24": {
-   "name": "Lake County Precinct G1 24"
-  },
   "ocd-division/country:us/state:in/county:putnam/precinct:monroe_west": {
    "name": "Putnam County Precinct Monroe West"
+  },
+  "ocd-division/country:us/state:in/county:lake/precinct:g1_24": {
+   "name": "Lake County Precinct G1 24"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:g1_25": {
    "name": "Lake County Precinct G1 25"
@@ -5353,11 +5353,11 @@
   "ocd-division/country:us/state:in/county:lake/precinct:g1_22": {
    "name": "Lake County Precinct G1 22"
   },
-  "ocd-division/country:us/state:in/county:dekalb/place:spencer": {
-   "name": "Spencer township"
-  },
   "ocd-division/country:us/state:in/county:lake/precinct:g1_23": {
    "name": "Lake County Precinct G1 23"
+  },
+  "ocd-division/country:us/state:in/county:dekalb/place:spencer": {
+   "name": "Spencer township"
   },
   "ocd-division/country:us/state:in/county:monroe/precinct:perry_26": {
    "name": "Monroe County Precinct Perry 26"
@@ -5389,32 +5389,32 @@
   "ocd-division/country:us/state:in/county:allen/precinct:lafayette_a": {
    "name": "Allen County Precinct Lafayette A"
   },
-  "ocd-division/country:us/state:in/county:st_joseph/precinct:70003": {
-   "name": "St. Joseph County Precinct 70003"
-  },
   "ocd-division/country:us/state:in/county:allen/precinct:lafayette_b": {
    "name": "Allen County Precinct Lafayette B"
   },
-  "ocd-division/country:us/state:in/county:st_joseph/precinct:70002": {
-   "name": "St. Joseph County Precinct 70002"
-  },
-  "ocd-division/country:us/state:in/county:allen/precinct:lafayette_c": {
-   "name": "Allen County Precinct Lafayette C"
+  "ocd-division/country:us/state:in/county:st_joseph/precinct:70003": {
+   "name": "St. Joseph County Precinct 70003"
   },
   "ocd-division/country:us/state:in/county:monroe/precinct:perry_29": {
    "name": "Monroe County Precinct Perry 29"
   },
-  "ocd-division/country:us/state:in/county:st_joseph/precinct:70001": {
-   "name": "St. Joseph County Precinct 70001"
+  "ocd-division/country:us/state:in/county:allen/precinct:lafayette_c": {
+   "name": "Allen County Precinct Lafayette C"
+  },
+  "ocd-division/country:us/state:in/county:st_joseph/precinct:70002": {
+   "name": "St. Joseph County Precinct 70002"
   },
   "ocd-division/country:us/state:in/county:monroe/precinct:perry_28": {
    "name": "Monroe County Precinct Perry 28"
   },
-  "ocd-division/country:us/state:in/county:marion/precinct:20_12": {
-   "name": "Marion County Precinct 20 12"
+  "ocd-division/country:us/state:in/county:st_joseph/precinct:70001": {
+   "name": "St. Joseph County Precinct 70001"
   },
   "ocd-division/country:us/state:in/county:monroe/precinct:perry_27": {
    "name": "Monroe County Precinct Perry 27"
+  },
+  "ocd-division/country:us/state:in/county:marion/precinct:20_12": {
+   "name": "Marion County Precinct 20 12"
   },
   "ocd-division/country:us/state:in/county:st_joseph/place:lincoln": {
    "name": "Lincoln township"
@@ -5491,14 +5491,14 @@
     408
    ]
   },
-  "ocd-division/country:us/state:in/county:white/precinct:union_7": {
-   "name": "White County Precinct Union 7"
-  },
   "ocd-division/country:us/state:in/county:marion/council_district:8": {
    "name": "Marion County and Indianapolis City - Unigov council district 8",
    "officeIndices": [
     409
    ]
+  },
+  "ocd-division/country:us/state:in/county:white/precinct:union_7": {
+   "name": "White County Precinct Union 7"
   },
   "ocd-division/country:us/state:in/place:bargersville": {
    "name": "Bargersville town"
@@ -5545,14 +5545,14 @@
     414
    ]
   },
-  "ocd-division/country:us/state:in/place:griffin": {
-   "name": "Griffin town"
-  },
   "ocd-division/country:us/state:in/county:marion/council_district:7": {
    "name": "Marion County and Indianapolis City - Unigov council district 7",
    "officeIndices": [
     415
    ]
+  },
+  "ocd-division/country:us/state:in/place:griffin": {
+   "name": "Griffin town"
   },
   "ocd-division/country:us/state:in/county:marion/council_district:6": {
    "name": "Marion County and Indianapolis City - Unigov council district 6",
@@ -8439,9 +8439,6 @@
   "ocd-division/country:us/state:in/county:floyd/precinct:new_albany_9": {
    "name": "Floyd County Precinct New Albany 9"
   },
-  "ocd-division/country:us/state:in/place:north_judson": {
-   "name": "North Judson town"
-  },
   "ocd-division/country:us/state:in": {
    "name": "Indiana",
    "officeIndices": [
@@ -8454,6 +8451,9 @@
     565,
     566
    ]
+  },
+  "ocd-division/country:us/state:in/place:north_judson": {
+   "name": "North Judson town"
   },
   "ocd-division/country:us/state:in/county:dearborn/precinct:greendale_1": {
    "name": "Dearborn County Precinct Greendale 1"
@@ -9037,12 +9037,6 @@
   "ocd-division/country:us/state:in/county:howard/precinct:center_d": {
    "name": "Howard County Precinct Center D"
   },
-  "ocd-division/country:us/state:in/county:howard/precinct:center_a": {
-   "name": "Howard County Precinct Center A"
-  },
-  "ocd-division/country:us/state:in/county:lagrange/place:johnson": {
-   "name": "Johnson township"
-  },
   "ocd-division/country:us/state:in/county:martin": {
    "name": "Martin County",
    "officeIndices": [
@@ -9057,6 +9051,12 @@
     603,
     604
    ]
+  },
+  "ocd-division/country:us/state:in/county:howard/precinct:center_a": {
+   "name": "Howard County Precinct Center A"
+  },
+  "ocd-division/country:us/state:in/county:lagrange/place:johnson": {
+   "name": "Johnson township"
   },
   "ocd-division/country:us/state:in/county:howard/precinct:center_b": {
    "name": "Howard County Precinct Center B"
@@ -9592,9 +9592,6 @@
   "ocd-division/country:us/state:in/county:morgan/precinct:monroe_1": {
    "name": "Morgan County Precinct Monroe 1"
   },
-  "ocd-division/country:us/state:in/place:matthews": {
-   "name": "Matthews town"
-  },
   "ocd-division/country:us/state:in/county:newton": {
    "name": "Newton County",
    "officeIndices": [
@@ -9609,6 +9606,9 @@
     661,
     662
    ]
+  },
+  "ocd-division/country:us/state:in/place:matthews": {
+   "name": "Matthews town"
   },
   "ocd-division/country:us/state:in/county:ohio/executive_district:3": {
    "name": "Ohio County Commission District 3",
@@ -10231,11 +10231,11 @@
   "ocd-division/country:us/state:in/county:monroe/precinct:richland_8": {
    "name": "Monroe County Precinct Richland 8"
   },
-  "ocd-division/country:us/state:in/county:greene/precinct:beech_creek_2": {
-   "name": "Greene County Precinct Beech Creek 2"
-  },
   "ocd-division/country:us/state:in/county:monroe/precinct:richland_1": {
    "name": "Monroe County Precinct Richland 1"
+  },
+  "ocd-division/country:us/state:in/county:greene/precinct:beech_creek_2": {
+   "name": "Greene County Precinct Beech Creek 2"
   },
   "ocd-division/country:us/state:in/county:greene/precinct:beech_creek_1": {
    "name": "Greene County Precinct Beech Creek 1"
@@ -10246,11 +10246,11 @@
   "ocd-division/country:us/state:in/county:monroe/precinct:richland_2": {
    "name": "Monroe County Precinct Richland 2"
   },
-  "ocd-division/country:us/state:in/county:cass/precinct:logansport_1": {
-   "name": "Cass County Precinct Logansport 1"
-  },
   "ocd-division/country:us/state:in/county:monroe/precinct:richland_5": {
    "name": "Monroe County Precinct Richland 5"
+  },
+  "ocd-division/country:us/state:in/county:cass/precinct:logansport_1": {
+   "name": "Cass County Precinct Logansport 1"
   },
   "ocd-division/country:us/state:in/county:monroe/precinct:richland_4": {
    "name": "Monroe County Precinct Richland 4"
@@ -10276,26 +10276,26 @@
   "ocd-division/country:us/state:in/county:porter/precinct:wst_13": {
    "name": "Porter County Precinct Wst 13"
   },
-  "ocd-division/country:us/state:in/county:porter/precinct:wst_12": {
-   "name": "Porter County Precinct Wst 12"
-  },
   "ocd-division/country:us/state:in/county:posey/precinct:point": {
    "name": "Posey County Precinct Point"
+  },
+  "ocd-division/country:us/state:in/county:porter/precinct:wst_12": {
+   "name": "Porter County Precinct Wst 12"
   },
   "ocd-division/country:us/state:in/county:porter/precinct:wst_11": {
    "name": "Porter County Precinct Wst 11"
   },
-  "ocd-division/country:us/state:in/county:perry/precinct:leopold": {
-   "name": "Perry County Precinct Leopold"
-  },
   "ocd-division/country:us/state:in/county:porter/precinct:wst_10": {
    "name": "Porter County Precinct Wst 10"
   },
-  "ocd-division/country:us/state:in/place:churubusco": {
-   "name": "Churubusco town"
+  "ocd-division/country:us/state:in/county:perry/precinct:leopold": {
+   "name": "Perry County Precinct Leopold"
   },
   "ocd-division/country:us/state:in/county:porter/precinct:wst_17": {
    "name": "Porter County Precinct Wst 17"
+  },
+  "ocd-division/country:us/state:in/place:churubusco": {
+   "name": "Churubusco town"
   },
   "ocd-division/country:us/state:in/county:porter/precinct:wst_16": {
    "name": "Porter County Precinct Wst 16"
@@ -10303,20 +10303,20 @@
   "ocd-division/country:us/state:in/county:porter/precinct:wst_14": {
    "name": "Porter County Precinct Wst 14"
   },
-  "ocd-division/country:us/state:in/place:ridgeville": {
-   "name": "Ridgeville town"
-  },
   "ocd-division/country:us/state:in/county:miami/precinct:union": {
    "name": "Miami County Precinct Union"
+  },
+  "ocd-division/country:us/state:in/place:ridgeville": {
+   "name": "Ridgeville town"
   },
   "ocd-division/country:us/state:in/place:zionsville": {
    "name": "Zionsville town"
   },
-  "ocd-division/country:us/state:in/place:kouts": {
-   "name": "Kouts town"
-  },
   "ocd-division/country:us/state:in/county:orange/precinct:orleans_southwest": {
    "name": "Orange County Precinct Orleans Southwest"
+  },
+  "ocd-division/country:us/state:in/place:kouts": {
+   "name": "Kouts town"
   },
   "ocd-division/country:us/state:in/place:kingman": {
    "name": "Kingman town"
@@ -10327,11 +10327,11 @@
   "ocd-division/country:us/state:in/county:tippecanoe/precinct:jackson_1": {
    "name": "Tippecanoe County Precinct Jackson 1"
   },
-  "ocd-division/country:us/state:in/place:greensboro": {
-   "name": "Greensboro town"
-  },
   "ocd-division/country:us/state:in/county:dubois/precinct:madison_1": {
    "name": "Dubois County Precinct Madison 1"
+  },
+  "ocd-division/country:us/state:in/place:greensboro": {
+   "name": "Greensboro town"
   },
   "ocd-division/country:us/state:in/place:frankfort": {
    "name": "Frankfort city"
@@ -10339,11 +10339,11 @@
   "ocd-division/country:us/state:in/county:dubois/precinct:madison_2": {
    "name": "Dubois County Precinct Madison 2"
   },
-  "ocd-division/country:us/state:in/place:sheridan": {
-   "name": "Sheridan town"
-  },
   "ocd-division/country:us/state:in/county:scott/precinct:finley_1": {
    "name": "Scott County Precinct Finley 1"
+  },
+  "ocd-division/country:us/state:in/place:sheridan": {
+   "name": "Sheridan town"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:cp_32": {
    "name": "Lake County Precinct Cp 32"
@@ -10354,20 +10354,20 @@
   "ocd-division/country:us/state:in/county:lake/precinct:cp_30": {
    "name": "Lake County Precinct Cp 30"
   },
-  "ocd-division/country:us/state:in/county:lake/precinct:cp_31": {
-   "name": "Lake County Precinct Cp 31"
-  },
   "ocd-division/country:us/state:in/county:lawrence/precinct:pleasant_run": {
    "name": "Lawrence County Precinct Pleasant Run"
+  },
+  "ocd-division/country:us/state:in/county:lake/precinct:cp_31": {
+   "name": "Lake County Precinct Cp 31"
   },
   "ocd-division/country:us/state:in/county:warren/place:prairie": {
    "name": "Prairie township"
   },
-  "ocd-division/country:us/state:in/county:dekalb/place:grant": {
-   "name": "Grant township"
-  },
   "ocd-division/country:us/state:in/county:lawrence/precinct:shawswick_5a": {
    "name": "Lawrence County Precinct Shawswick 5A"
+  },
+  "ocd-division/country:us/state:in/county:dekalb/place:grant": {
+   "name": "Grant township"
   },
   "ocd-division/country:us/state:in/county:lawrence/precinct:shawswick_5b": {
    "name": "Lawrence County Precinct Shawswick 5B"
@@ -10387,11 +10387,11 @@
   "ocd-division/country:us/state:in/county:crawford/precinct:ohio_1": {
    "name": "Crawford County Precinct Ohio 1"
   },
-  "ocd-division/country:us/state:in/place:walkerton": {
-   "name": "Walkerton town"
-  },
   "ocd-division/country:us/state:in/county:crawford/precinct:ohio_2": {
    "name": "Crawford County Precinct Ohio 2"
+  },
+  "ocd-division/country:us/state:in/place:walkerton": {
+   "name": "Walkerton town"
   },
   "ocd-division/country:us/state:in/county:tippecanoe/precinct:union_1": {
    "name": "Tippecanoe County Precinct Union 1"
@@ -10414,6 +10414,9 @@
     707
    ]
   },
+  "ocd-division/country:us/state:in/county:hancock/place:blue_river": {
+   "name": "Blue River township"
+  },
   "ocd-division/country:us/state:in/county:wabash/executive_district:2": {
    "name": "Wabash County Commission District 2",
    "alsoKnownAs": [
@@ -10422,9 +10425,6 @@
    "officeIndices": [
     708
    ]
-  },
-  "ocd-division/country:us/state:in/county:hancock/place:blue_river": {
-   "name": "Blue River township"
   },
   "ocd-division/country:us/state:in/county:wabash/executive_district:3": {
    "name": "Wabash County Commission District 3",
@@ -10453,11 +10453,11 @@
   "ocd-division/country:us/state:in/county:adams/place:washington": {
    "name": "Washington township"
   },
-  "ocd-division/country:us/state:in/county:elkhart/place:olive": {
-   "name": "Olive township"
-  },
   "ocd-division/country:us/state:in/county:martin/school_district:loogootee_community_sch_corp": {
    "name": "loogootee community sch corp"
+  },
+  "ocd-division/country:us/state:in/county:elkhart/place:olive": {
+   "name": "Olive township"
   },
   "ocd-division/country:us/state:in/place:crown_point": {
    "name": "Crown Point city"
@@ -10501,11 +10501,11 @@
   "ocd-division/country:us/state:in/county:howard/school_district:northwestern_school_corp": {
    "name": "northwestern school corp"
   },
-  "ocd-division/country:us/state:in/place:fairland": {
-   "name": "Fairland town"
-  },
   "ocd-division/country:us/state:in/county:putnam/place:greencastle": {
    "name": "Greencastle township"
+  },
+  "ocd-division/country:us/state:in/place:fairland": {
+   "name": "Fairland town"
   },
   "ocd-division/country:us/state:in/county:cass/precinct:clay_2": {
    "name": "Cass County Precinct Clay 2"
@@ -10513,11 +10513,11 @@
   "ocd-division/country:us/state:in/county:cass/precinct:clay_3": {
    "name": "Cass County Precinct Clay 3"
   },
-  "ocd-division/country:us/state:in/county:hamilton/school_district:carmel_clay_schools": {
-   "name": "carmel clay schools"
-  },
   "ocd-division/country:us/state:in/county:perry/school_district:perry_central_com_schools_corp": {
    "name": "perry central com schools corp"
+  },
+  "ocd-division/country:us/state:in/county:hamilton/school_district:carmel_clay_schools": {
+   "name": "carmel clay schools"
   },
   "ocd-division/country:us/state:in/county:cass/precinct:clay_1": {
    "name": "Cass County Precinct Clay 1"
@@ -10543,17 +10543,17 @@
   "ocd-division/country:us/state:in/county:hamilton/precinct:centennial_2": {
    "name": "Hamilton County Precinct Centennial 2"
   },
-  "ocd-division/country:us/state:in/county:wells/precinct:chester": {
-   "name": "Wells County Precinct Chester"
-  },
   "ocd-division/country:us/state:in/county:daviess/place:madison": {
    "name": "Madison township"
   },
-  "ocd-division/country:us/state:in/county:franklin/place:fairfield": {
-   "name": "Fairfield township"
+  "ocd-division/country:us/state:in/county:wells/precinct:chester": {
+   "name": "Wells County Precinct Chester"
   },
   "ocd-division/country:us/state:in/county:ripley/precinct:washington_1": {
    "name": "Ripley County Precinct Washington 1"
+  },
+  "ocd-division/country:us/state:in/county:franklin/place:fairfield": {
+   "name": "Fairfield township"
   },
   "ocd-division/country:us/state:in/county:ripley/precinct:washington_2": {
    "name": "Ripley County Precinct Washington 2"
@@ -10639,11 +10639,11 @@
   "ocd-division/country:us/state:in/county:owen/precinct:morgan": {
    "name": "Owen County Precinct Morgan"
   },
-  "ocd-division/country:us/state:in/county:vigo/precinct:1-c": {
-   "name": "Vigo County Precinct 1-C"
-  },
   "ocd-division/country:us/state:in/county:st_joseph/school_district:xavier_school_of_excellence": {
    "name": "xavier school of excellence"
+  },
+  "ocd-division/country:us/state:in/county:vigo/precinct:1-c": {
+   "name": "Vigo County Precinct 1-C"
   },
   "ocd-division/country:us/state:in/county:vigo/precinct:1-d": {
    "name": "Vigo County Precinct 1-D"
@@ -10732,14 +10732,14 @@
   "ocd-division/country:us/state:in/county:lake/precinct:cl_9": {
    "name": "Lake County Precinct Cl 9"
   },
-  "ocd-division/country:us/state:in/county:jackson/place:vernon": {
-   "name": "Vernon township"
+  "ocd-division/country:us/state:in/county:morgan/precinct:washington_10": {
+   "name": "Morgan County Precinct Washington 10"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:cl_1": {
    "name": "Lake County Precinct Cl 1"
   },
-  "ocd-division/country:us/state:in/county:morgan/precinct:washington_10": {
-   "name": "Morgan County Precinct Washington 10"
+  "ocd-division/country:us/state:in/county:jackson/place:vernon": {
+   "name": "Vernon township"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:cl_2": {
    "name": "Lake County Precinct Cl 2"
@@ -11596,12 +11596,6 @@
   "ocd-division/country:us/state:in/county:henry/precinct:henry_8": {
    "name": "Henry County Precinct Henry 8"
   },
-  "ocd-division/country:us/state:in/county:johnson/precinct:union_2": {
-   "name": "Johnson County Precinct Union 2"
-  },
-  "ocd-division/country:us/state:in/county:henry/precinct:henry_5": {
-   "name": "Henry County Precinct Henry 5"
-  },
   "ocd-division/country:us/state:in/county:kosciusko": {
    "name": "Kosciusko County",
    "officeIndices": [
@@ -11617,6 +11611,12 @@
     777,
     778
    ]
+  },
+  "ocd-division/country:us/state:in/county:johnson/precinct:union_2": {
+   "name": "Johnson County Precinct Union 2"
+  },
+  "ocd-division/country:us/state:in/county:henry/precinct:henry_5": {
+   "name": "Henry County Precinct Henry 5"
   },
   "ocd-division/country:us/state:in/county:johnson/precinct:union_1": {
    "name": "Johnson County Precinct Union 1"
@@ -11642,14 +11642,14 @@
   "ocd-division/country:us/state:in/county:henry/precinct:henry_2": {
    "name": "Henry County Precinct Henry 2"
   },
-  "ocd-division/country:us/state:in/place:parker_city": {
-   "name": "Parker City town"
-  },
   "ocd-division/country:us/state:in/county:tipton/council_district:3": {
    "name": "Tipton County Council District 3",
    "officeIndices": [
     780
    ]
+  },
+  "ocd-division/country:us/state:in/place:parker_city": {
+   "name": "Parker City town"
   },
   "ocd-division/country:us/state:in/county:laporte/precinct:michigan_city_6-1": {
    "name": "Laporte County Precinct Michigan City 6-1"
@@ -11855,9 +11855,6 @@
   "ocd-division/country:us/state:in/county:warrick/precinct:ohio_20": {
    "name": "Warrick County Precinct Ohio 20"
   },
-  "ocd-division/country:us/state:in/county:warren/place:liberty": {
-   "name": "Liberty township"
-  },
   "ocd-division/country:us/state:in/county:montgomery": {
    "name": "Montgomery County",
    "officeIndices": [
@@ -11872,6 +11869,9 @@
     795,
     796
    ]
+  },
+  "ocd-division/country:us/state:in/county:warren/place:liberty": {
+   "name": "Liberty township"
   },
   "ocd-division/country:us/state:in/county:st_joseph/precinct:90204": {
    "name": "St. Joseph County Precinct 90204"
@@ -12485,9 +12485,6 @@
   "ocd-division/country:us/state:in/county:st_joseph/school_district:union-north_united_school_corp": {
    "name": "union-north united school corp"
   },
-  "ocd-division/country:us/state:in/county:orange/place:paoli": {
-   "name": "Paoli township"
-  },
   "ocd-division/country:us/state:in/county:spencer": {
    "name": "Spencer County",
    "officeIndices": [
@@ -12502,6 +12499,9 @@
     843,
     844
    ]
+  },
+  "ocd-division/country:us/state:in/county:orange/place:paoli": {
+   "name": "Paoli township"
   },
   "ocd-division/country:us/state:in/county:laporte/precinct:hanna": {
    "name": "Laporte County Precinct Hanna"
@@ -12873,17 +12873,17 @@
     870
    ]
   },
-  "ocd-division/country:us/state:in/county:jennings/place:lovett": {
-   "name": "Lovett township"
-  },
-  "ocd-division/country:us/state:in/county:clark/precinct:slvr_2": {
-   "name": "Clark County Precinct Slvr 2"
-  },
   "ocd-division/country:us/state:in/county:putnam/council_district:3": {
    "name": "Putnam County Council District 3",
    "officeIndices": [
     871
    ]
+  },
+  "ocd-division/country:us/state:in/county:jennings/place:lovett": {
+   "name": "Lovett township"
+  },
+  "ocd-division/country:us/state:in/county:clark/precinct:slvr_2": {
+   "name": "Clark County Precinct Slvr 2"
   },
   "ocd-division/country:us/state:in/county:putnam/council_district:2": {
    "name": "Putnam County Council District 2",
@@ -13897,14 +13897,14 @@
     919
    ]
   },
-  "ocd-division/country:us/state:in/county:hendricks/precinct:middle_3": {
-   "name": "Hendricks County Precinct Middle 3"
-  },
   "ocd-division/country:us/state:in/county:shelby/council_district:1": {
    "name": "Shelby County Council District 1",
    "officeIndices": [
     920
    ]
+  },
+  "ocd-division/country:us/state:in/county:hendricks/precinct:middle_3": {
+   "name": "Hendricks County Precinct Middle 3"
   },
   "ocd-division/country:us/state:in/county:shelby/council_district:4": {
    "name": "Shelby County Council District 4",
@@ -14344,26 +14344,26 @@
     933
    ]
   },
-  "ocd-division/country:us/state:in/county:hamilton/precinct:southwest_arcadia": {
-   "name": "Hamilton County Precinct Southwest Arcadia"
-  },
-  "ocd-division/country:us/state:in/county:adams/precinct:decatur_4": {
-   "name": "Adams County Precinct Decatur 4"
-  },
   "ocd-division/country:us/state:in/county:st_joseph/council_district:d": {
    "name": "St Joseph County IN County Council district D",
    "officeIndices": [
     934
    ]
   },
-  "ocd-division/country:us/state:in/county:adams/precinct:decatur_3": {
-   "name": "Adams County Precinct Decatur 3"
+  "ocd-division/country:us/state:in/county:hamilton/precinct:southwest_arcadia": {
+   "name": "Hamilton County Precinct Southwest Arcadia"
+  },
+  "ocd-division/country:us/state:in/county:adams/precinct:decatur_4": {
+   "name": "Adams County Precinct Decatur 4"
   },
   "ocd-division/country:us/state:in/county:st_joseph/council_district:c": {
    "name": "St Joseph County IN County Council district C",
    "officeIndices": [
     935
    ]
+  },
+  "ocd-division/country:us/state:in/county:adams/precinct:decatur_3": {
+   "name": "Adams County Precinct Decatur 3"
   },
   "ocd-division/country:us/state:in/county:adams/precinct:decatur_2": {
    "name": "Adams County Precinct Decatur 2"
@@ -14419,14 +14419,14 @@
     936
    ]
   },
-  "ocd-division/country:us/state:in/county:cass/precinct:washington_city": {
-   "name": "Cass County Precinct Washington City"
-  },
   "ocd-division/country:us/state:in/county:st_joseph/council_district:e": {
    "name": "St Joseph County IN County Council district E",
    "officeIndices": [
     937
    ]
+  },
+  "ocd-division/country:us/state:in/county:cass/precinct:washington_city": {
+   "name": "Cass County Precinct Washington City"
   },
   "ocd-division/country:us/state:in/county:allen/precinct:670": {
    "name": "Allen County Precinct 670"
@@ -14518,9 +14518,6 @@
   "ocd-division/country:us/state:in/county:marion/precinct:1_6": {
    "name": "Marion County Precinct 1 6"
   },
-  "ocd-division/country:us/state:in/place:princes_lakes": {
-   "name": "Princes Lakes town"
-  },
   "ocd-division/country:us/state:in/county:gibson": {
    "name": "Gibson County",
    "officeIndices": [
@@ -14535,6 +14532,9 @@
     949,
     950
    ]
+  },
+  "ocd-division/country:us/state:in/place:princes_lakes": {
+   "name": "Princes Lakes town"
   },
   "ocd-division/country:us/state:in/county:marion/precinct:1_7": {
    "name": "Marion County Precinct 1 7"
@@ -15049,9 +15049,6 @@
   "ocd-division/country:us/state:in/county:clay/place:dick_johnson": {
    "name": "Dick Johnson township"
   },
-  "ocd-division/country:us/state:in/place:altona": {
-   "name": "Altona town"
-  },
   "ocd-division/country:us/state:in/county:warrick": {
    "name": "Warrick County",
    "officeIndices": [
@@ -15066,6 +15063,9 @@
     1007,
     1008
    ]
+  },
+  "ocd-division/country:us/state:in/place:altona": {
+   "name": "Altona town"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:h2_5": {
    "name": "Lake County Precinct H2 5"
@@ -15193,11 +15193,11 @@
   "ocd-division/country:us/state:in/place:fort_wayne/council_district:2": {
    "name": "Fort Wayne IN City Council District 2"
   },
-  "ocd-division/country:us/state:in/place:rome_city": {
-   "name": "Rome City town"
-  },
   "ocd-division/country:us/state:in/place:fort_wayne/council_district:3": {
    "name": "Fort Wayne IN City Council District 3"
+  },
+  "ocd-division/country:us/state:in/place:rome_city": {
+   "name": "Rome City town"
   },
   "ocd-division/country:us/state:in/county:greene/school_district:linton-stockton_school_corp": {
    "name": "linton-stockton school corp"
@@ -16306,14 +16306,14 @@
   "ocd-division/country:us/state:in/county:ripley/precinct:adams_3": {
    "name": "Ripley County Precinct Adams 3"
   },
-  "ocd-division/country:us/state:in/county:harrison/precinct:north_east_posey": {
-   "name": "Harrison County Precinct North East Posey"
-  },
   "ocd-division/country:us/state:in/county:delaware/council_district:4": {
    "name": "Delaware County IN County Council District 4",
    "officeIndices": [
     1079
    ]
+  },
+  "ocd-division/country:us/state:in/county:harrison/precinct:north_east_posey": {
+   "name": "Harrison County Precinct North East Posey"
   },
   "ocd-division/country:us/state:in/county:delaware/council_district:3": {
    "name": "Delaware County IN County Council District 3",
@@ -16546,9 +16546,6 @@
   "ocd-division/country:us/state:in/county:vanderburgh/precinct:1_15": {
    "name": "Vanderburgh County Precinct 1 15"
   },
-  "ocd-division/country:us/state:in/county:vanderburgh/precinct:1_16": {
-   "name": "Vanderburgh County Precinct 1 16"
-  },
   "ocd-division/country:us/state:in/county:monroe": {
    "name": "Monroe County",
    "officeIndices": [
@@ -16563,6 +16560,9 @@
     1104,
     1105
    ]
+  },
+  "ocd-division/country:us/state:in/county:vanderburgh/precinct:1_16": {
+   "name": "Vanderburgh County Precinct 1 16"
   },
   "ocd-division/country:us/state:in/county:vanderburgh/precinct:1_13": {
    "name": "Vanderburgh County Precinct 1 13"
@@ -16924,17 +16924,17 @@
     1118
    ]
   },
-  "ocd-division/country:us/state:in/county:porter/precinct:ptg_7": {
-   "name": "Porter County Precinct Ptg 7"
-  },
-  "ocd-division/country:us/state:in/county:posey/precinct:marrs_west": {
-   "name": "Posey County Precinct Marrs West"
-  },
   "ocd-division/country:us/state:in/county:scott/council_district:2": {
    "name": "Scott County Council District 2",
    "officeIndices": [
     1119
    ]
+  },
+  "ocd-division/country:us/state:in/county:porter/precinct:ptg_7": {
+   "name": "Porter County Precinct Ptg 7"
+  },
+  "ocd-division/country:us/state:in/county:posey/precinct:marrs_west": {
+   "name": "Posey County Precinct Marrs West"
   },
   "ocd-division/country:us/state:in/county:porter/precinct:ptg_6": {
    "name": "Porter County Precinct Ptg 6"
@@ -19692,17 +19692,17 @@
     1275
    ]
   },
+  "ocd-division/country:us/state:in/county:lake/council_district:4": {
+   "name": "Lake County IN County Council District 4",
+   "officeIndices": [
+    1276
+   ]
+  },
   "ocd-division/country:us/state:in/county:harrison/executive_district:3": {
    "name": "Harrison County Commission District 3",
    "alsoKnownAs": [
     "ocd-division/country:us/state:in/county:harrison/commissioner_district:3"
    ],
-   "officeIndices": [
-    1276
-   ]
-  },
-  "ocd-division/country:us/state:in/county:lake/council_district:4": {
-   "name": "Lake County IN County Council District 4",
    "officeIndices": [
     1277
    ]
@@ -21468,14 +21468,14 @@
   "ocd-division/country:us/state:in/county:carroll/precinct:carrollton": {
    "name": "Carroll County Precinct Carrollton"
   },
-  "ocd-division/country:us/state:in/county:grant/school_district:mississinewa_community_school_corp": {
-   "name": "mississinewa community school corp"
+  "ocd-division/country:us/state:in/county:monroe/precinct:bloomington_24": {
+   "name": "Monroe County Precinct Bloomington 24"
   },
   "ocd-division/country:us/state:in/county:lake/school_district:river_forest_community_sch_corp": {
    "name": "river forest community sch corp"
   },
-  "ocd-division/country:us/state:in/county:monroe/precinct:bloomington_24": {
-   "name": "Monroe County Precinct Bloomington 24"
+  "ocd-division/country:us/state:in/county:grant/school_district:mississinewa_community_school_corp": {
+   "name": "mississinewa community school corp"
   },
   "ocd-division/country:us/state:in/county:monroe/precinct:bloomington_23": {
    "name": "Monroe County Precinct Bloomington 23"
@@ -21492,11 +21492,11 @@
   "ocd-division/country:us/state:in/place:michigantown": {
    "name": "Michigantown town"
   },
-  "ocd-division/country:us/state:in/county:vanderburgh/place:armstrong": {
-   "name": "Armstrong township"
-  },
   "ocd-division/country:us/state:in/county:adams/precinct:monroe_a": {
    "name": "Adams County Precinct Monroe A"
+  },
+  "ocd-division/country:us/state:in/county:vanderburgh/place:armstrong": {
+   "name": "Armstrong township"
   },
   "ocd-division/country:us/state:in/county:adams/precinct:monroe_b": {
    "name": "Adams County Precinct Monroe B"
@@ -21507,29 +21507,29 @@
   "ocd-division/country:us/state:in/place:aurora": {
    "name": "Aurora city"
   },
-  "ocd-division/country:us/state:in/county:sullivan/precinct:hamilton_6": {
-   "name": "Sullivan County Precinct Hamilton 6"
-  },
   "ocd-division/country:us/state:in/county:martin/precinct:perry_2": {
    "name": "Martin County Precinct Perry 2"
   },
-  "ocd-division/country:us/state:in/county:sullivan/precinct:hamilton_5": {
-   "name": "Sullivan County Precinct Hamilton 5"
+  "ocd-division/country:us/state:in/county:sullivan/precinct:hamilton_6": {
+   "name": "Sullivan County Precinct Hamilton 6"
   },
   "ocd-division/country:us/state:in/county:martin/precinct:perry_3": {
    "name": "Martin County Precinct Perry 3"
   },
-  "ocd-division/country:us/state:in/county:sullivan/precinct:hamilton_4": {
-   "name": "Sullivan County Precinct Hamilton 4"
+  "ocd-division/country:us/state:in/county:sullivan/precinct:hamilton_5": {
+   "name": "Sullivan County Precinct Hamilton 5"
   },
   "ocd-division/country:us/state:in/county:martin/precinct:perry_4": {
    "name": "Martin County Precinct Perry 4"
   },
-  "ocd-division/country:us/state:in/county:sullivan/precinct:hamilton_3": {
-   "name": "Sullivan County Precinct Hamilton 3"
+  "ocd-division/country:us/state:in/county:sullivan/precinct:hamilton_4": {
+   "name": "Sullivan County Precinct Hamilton 4"
   },
   "ocd-division/country:us/state:in/county:martin/precinct:perry_5": {
    "name": "Martin County Precinct Perry 5"
+  },
+  "ocd-division/country:us/state:in/county:sullivan/precinct:hamilton_3": {
+   "name": "Sullivan County Precinct Hamilton 3"
   },
   "ocd-division/country:us/state:in/county:martin/precinct:perry_6": {
    "name": "Martin County Precinct Perry 6"
@@ -21546,23 +21546,23 @@
   "ocd-division/country:us/state:in/county:kosciusko/place:scott": {
    "name": "Scott township"
   },
-  "ocd-division/country:us/state:in/county:sullivan/precinct:hamilton_2": {
-   "name": "Sullivan County Precinct Hamilton 2"
-  },
   "ocd-division/country:us/state:in/county:allen/precinct:cedar_creek_f": {
    "name": "Allen County Precinct Cedar Creek F"
   },
-  "ocd-division/country:us/state:in/county:sullivan/precinct:hamilton_1": {
-   "name": "Sullivan County Precinct Hamilton 1"
+  "ocd-division/country:us/state:in/county:sullivan/precinct:hamilton_2": {
+   "name": "Sullivan County Precinct Hamilton 2"
   },
   "ocd-division/country:us/state:in/county:allen/precinct:cedar_creek_e": {
    "name": "Allen County Precinct Cedar Creek E"
   },
-  "ocd-division/country:us/state:in/place:elnora": {
-   "name": "Elnora town"
+  "ocd-division/country:us/state:in/county:sullivan/precinct:hamilton_1": {
+   "name": "Sullivan County Precinct Hamilton 1"
   },
   "ocd-division/country:us/state:in/county:allen/precinct:cedar_creek_d": {
    "name": "Allen County Precinct Cedar Creek D"
+  },
+  "ocd-division/country:us/state:in/place:elnora": {
+   "name": "Elnora town"
   },
   "ocd-division/country:us/state:in/county:allen/precinct:cedar_creek_c": {
    "name": "Allen County Precinct Cedar Creek C"
@@ -21573,11 +21573,11 @@
   "ocd-division/country:us/state:in/county:hancock/place:buck_creek": {
    "name": "Buck Creek township"
   },
-  "ocd-division/country:us/state:in/county:hamilton/place:adams": {
-   "name": "Adams township"
-  },
   "ocd-division/country:us/state:in/county:martin/precinct:perry_1": {
    "name": "Martin County Precinct Perry 1"
+  },
+  "ocd-division/country:us/state:in/county:hamilton/place:adams": {
+   "name": "Adams township"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:g2_18": {
    "name": "Lake County Precinct G2 18"
@@ -21585,11 +21585,11 @@
   "ocd-division/country:us/state:in/county:noble/place:elkhart": {
    "name": "Elkhart township"
   },
-  "ocd-division/country:us/state:in/county:vanderburgh/precinct:knight_1": {
-   "name": "Vanderburgh County Precinct Knight 1"
-  },
   "ocd-division/country:us/state:in/county:miami/place:erie": {
    "name": "Erie township"
+  },
+  "ocd-division/country:us/state:in/county:vanderburgh/precinct:knight_1": {
+   "name": "Vanderburgh County Precinct Knight 1"
   },
   "ocd-division/country:us/state:in/county:allen/precinct:263": {
    "name": "Allen County Precinct 263"
@@ -21600,20 +21600,20 @@
   "ocd-division/country:us/state:in/county:allen/precinct:261": {
    "name": "Allen County Precinct 261"
   },
-  "ocd-division/country:us/state:in/county:steuben/precinct:salem": {
-   "name": "Steuben County Precinct Salem"
+  "ocd-division/country:us/state:in/county:allen/precinct:260": {
+   "name": "Allen County Precinct 260"
   },
   "ocd-division/country:us/state:in/county:fountain/school_district:covington_community_sch_corp": {
    "name": "covington community sch corp"
   },
-  "ocd-division/country:us/state:in/county:allen/precinct:260": {
-   "name": "Allen County Precinct 260"
-  },
-  "ocd-division/country:us/state:in/county:lake/precinct:g2_20": {
-   "name": "Lake County Precinct G2 20"
+  "ocd-division/country:us/state:in/county:steuben/precinct:salem": {
+   "name": "Steuben County Precinct Salem"
   },
   "ocd-division/country:us/state:in/county:pulaski/place:indian_creek": {
    "name": "Indian Creek township"
+  },
+  "ocd-division/country:us/state:in/county:lake/precinct:g2_20": {
+   "name": "Lake County Precinct G2 20"
   },
   "ocd-division/country:us/state:in/county:vanderburgh/precinct:knight_3": {
    "name": "Vanderburgh County Precinct Knight 3"
@@ -24829,14 +24829,14 @@
     1539
    ]
   },
-  "ocd-division/country:us/state:in/county:fulton/precinct:henry_3": {
-   "name": "Fulton County Precinct Henry 3"
-  },
   "ocd-division/country:us/state:in/county:marion/council_district:17": {
    "name": "Marion County and Indianapolis City - Unigov council district 17",
    "officeIndices": [
     1540
    ]
+  },
+  "ocd-division/country:us/state:in/county:fulton/precinct:henry_3": {
+   "name": "Fulton County Precinct Henry 3"
   },
   "ocd-division/country:us/state:in/county:marion/council_district:18": {
    "name": "Marion County and Indianapolis City - Unigov council district 18",
@@ -24853,14 +24853,14 @@
     1542
    ]
   },
-  "ocd-division/country:us/state:in/county:fulton/precinct:henry_2": {
-   "name": "Fulton County Precinct Henry 2"
-  },
   "ocd-division/country:us/state:in/county:marion/council_district:16": {
    "name": "Marion County and Indianapolis City - Unigov council district 16",
    "officeIndices": [
     1543
    ]
+  },
+  "ocd-division/country:us/state:in/county:fulton/precinct:henry_2": {
+   "name": "Fulton County Precinct Henry 2"
   },
   "ocd-division/country:us/state:in/county:marion/council_district:13": {
    "name": "Marion County and Indianapolis City - Unigov council district 13",
@@ -25279,14 +25279,14 @@
   "ocd-division/country:us/state:in/county:wayne/precinct:center_4": {
    "name": "Wayne County Precinct Center 4"
   },
-  "ocd-division/country:us/state:in/county:lake/precinct:g5_19": {
-   "name": "Lake County Precinct G5 19"
-  },
   "ocd-division/country:us/state:in/county:marion/council_district:10": {
    "name": "Marion County and Indianapolis City - Unigov council district 10",
    "officeIndices": [
     1567
    ]
+  },
+  "ocd-division/country:us/state:in/county:lake/precinct:g5_19": {
+   "name": "Lake County Precinct G5 19"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:g5_16": {
    "name": "Lake County Precinct G5 16"
@@ -25357,9 +25357,6 @@
   "ocd-division/country:us/state:in/place:beverly_shores": {
    "name": "Beverly Shores town"
   },
-  "ocd-division/country:us/state:in/county:white/precinct:prairie_2": {
-   "name": "White County Precinct Prairie 2"
-  },
   "ocd-division/country:us/state:in/county:hamilton": {
    "name": "Hamilton County",
    "officeIndices": [
@@ -25374,6 +25371,9 @@
     1576,
     1577
    ]
+  },
+  "ocd-division/country:us/state:in/county:white/precinct:prairie_2": {
+   "name": "White County Precinct Prairie 2"
   },
   "ocd-division/country:us/state:in/county:porter/precinct:por_7": {
    "name": "Porter County Precinct Por 7"
@@ -25513,16 +25513,16 @@
     1579
    ]
   },
-  "ocd-division/country:us/state:in/sldu:49": {
-   "name": "Indiana State Senate district 49",
-   "officeIndices": [
-    121
-   ]
-  },
   "ocd-division/country:us/state:in/county:boone/council_district:1": {
    "name": "Boone County Council District 1",
    "officeIndices": [
     1580
+   ]
+  },
+  "ocd-division/country:us/state:in/sldu:49": {
+   "name": "Indiana State Senate district 49",
+   "officeIndices": [
+    121
    ]
   },
   "ocd-division/country:us/state:in/county:boone/council_district:2": {
@@ -25606,9 +25606,6 @@
   "ocd-division/country:us/state:in/county:allen/precinct:458": {
    "name": "Allen County Precinct 458"
   },
-  "ocd-division/country:us/state:in/county:allen/precinct:457": {
-   "name": "Allen County Precinct 457"
-  },
   "ocd-division/country:us/state:in/county:marion": {
    "name": "Marion County",
    "officeIndices": [
@@ -25624,6 +25621,9 @@
     1591,
     1592
    ]
+  },
+  "ocd-division/country:us/state:in/county:allen/precinct:457": {
+   "name": "Allen County Precinct 457"
   },
   "ocd-division/country:us/state:in/county:allen/precinct:456": {
    "name": "Allen County Precinct 456"
@@ -26240,14 +26240,14 @@
     1605
    ]
   },
-  "ocd-division/country:us/state:in/county:harrison/place:jackson": {
-   "name": "Jackson township"
-  },
   "ocd-division/country:us/state:in/county:allen/council_district:4": {
    "name": "Allen County IN County Council District 4",
    "officeIndices": [
     1606
    ]
+  },
+  "ocd-division/country:us/state:in/county:harrison/place:jackson": {
+   "name": "Jackson township"
   },
   "ocd-division/country:us/state:in/county:allen/council_district:3": {
    "name": "Allen County IN County Council District 3",
@@ -26468,14 +26468,14 @@
   "ocd-division/country:us/state:in/county:clinton/place:kirklin": {
    "name": "Kirklin township"
   },
-  "ocd-division/country:us/state:in/county:union/place:harrison": {
-   "name": "Harrison township"
-  },
   "ocd-division/country:us/state:in/county:allen/council_district:1": {
    "name": "Allen County IN County Council District 1",
    "officeIndices": [
     1619
    ]
+  },
+  "ocd-division/country:us/state:in/county:union/place:harrison": {
+   "name": "Harrison township"
   },
   "ocd-division/country:us/state:in/county:wayne/precinct:wayne_17": {
    "name": "Wayne County Precinct Wayne 17"
@@ -26984,11 +26984,11 @@
   "ocd-division/country:us/state:in/county:lake/precinct:ec_28": {
    "name": "Lake County Precinct Ec 28"
   },
-  "ocd-division/country:us/state:in/place:linden": {
-   "name": "Linden town"
-  },
   "ocd-division/country:us/state:in/place:albion": {
    "name": "Albion town"
+  },
+  "ocd-division/country:us/state:in/place:linden": {
+   "name": "Linden town"
   },
   "ocd-division/country:us/state:in/county:lake/precinct:ec_29": {
    "name": "Lake County Precinct Ec 29"
@@ -27461,14 +27461,14 @@
   "ocd-division/country:us/state:in/county:marion/precinct:pik_19": {
    "name": "Marion County Precinct Pik 19"
   },
-  "ocd-division/country:us/state:in/county:hendricks/precinct:guilford_17": {
-   "name": "Hendricks County Precinct Guilford 17"
-  },
   "ocd-division/country:us/state:in/county:fayette/council_district:3": {
    "name": "Fayette County Council District 3",
    "officeIndices": [
     1660
    ]
+  },
+  "ocd-division/country:us/state:in/county:hendricks/precinct:guilford_17": {
+   "name": "Hendricks County Precinct Guilford 17"
   },
   "ocd-division/country:us/state:in/county:marion/precinct:pik_16": {
    "name": "Marion County Precinct Pik 16"
@@ -38833,15 +38833,15 @@
    ]
   },
   {
-   "name": "Commissioner",
-   "divisionId": "ocd-division/country:us/state:in/county:harrison/executive_district:3",
+   "name": "County Council",
+   "divisionId": "ocd-division/country:us/state:in/county:lake/council_district:4",
    "officialIndices": [
     1432
    ]
   },
   {
-   "name": "County Council",
-   "divisionId": "ocd-division/country:us/state:in/county:lake/council_district:4",
+   "name": "Commissioner",
+   "divisionId": "ocd-division/country:us/state:in/county:harrison/executive_district:3",
    "officialIndices": [
     1433
    ]
@@ -42531,12 +42531,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "179263660689"
-    },
-    {
      "type": "Twitter",
      "id": "mikespeedy"
+    },
+    {
+     "type": "Facebook",
+     "id": "179263660689"
     }
    ]
   },
@@ -42614,12 +42614,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "NeighborsforJustinMoed"
-    },
-    {
      "type": "Twitter",
      "id": "JustinMoed"
+    },
+    {
+     "type": "Facebook",
+     "id": "NeighborsforJustinMoed"
     }
    ]
   },
@@ -43027,12 +43027,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "RepWendyMac"
-    },
-    {
      "type": "Facebook",
      "id": "wendymcnamara3"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepWendyMac"
     }
    ]
   },
@@ -43123,11 +43123,11 @@
    "channels": [
     {
      "type": "Facebook",
-     "id": "steve.davisson.9"
+     "id": "StateRepresentativeSteveDavissonForHd73"
     },
     {
      "type": "Facebook",
-     "id": "StateRepresentativeSteveDavissonForHd73"
+     "id": "steve.davisson.9"
     }
    ]
   },
@@ -43259,12 +43259,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "martincarbaugh"
-    },
-    {
      "type": "Facebook",
      "id": "355281281152870"
+    },
+    {
+     "type": "Twitter",
+     "id": "martincarbaugh"
     }
    ]
   },
@@ -43357,12 +43357,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "DaveOber"
-    },
-    {
      "type": "Facebook",
      "id": "ober.dl"
+    },
+    {
+     "type": "Twitter",
+     "id": "DaveOber"
     }
    ]
   },
@@ -43458,12 +43458,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "SayHaleYes"
-    },
-    {
      "type": "Twitter",
      "id": "HaleIndy"
+    },
+    {
+     "type": "Facebook",
+     "id": "SayHaleYes"
     }
    ]
   },
@@ -43490,11 +43490,11 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "eddelaney86"
     },
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "eddelaney86"
     }
    ]
@@ -43556,12 +43556,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "DougMiller4StateRep"
-    },
-    {
      "type": "Twitter",
      "id": "dougmillerIN"
+    },
+    {
+     "type": "Facebook",
+     "id": "DougMiller4StateRep"
     }
    ]
   },
@@ -44357,12 +44357,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "RepKlinker"
-    },
-    {
      "type": "Facebook",
      "id": "sheilaklinker"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepKlinker"
     }
    ]
   },
@@ -44438,11 +44438,11 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "voteformahan"
     },
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "voteformahan"
     }
    ]
@@ -44480,12 +44480,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "mike.karickhoff.1"
-    },
-    {
      "type": "Twitter",
      "id": "MikeKarickhoff"
+    },
+    {
+     "type": "Facebook",
+     "id": "mike.karickhoff.1"
     }
    ]
   },
@@ -44873,12 +44873,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "TimothyWesco"
-    },
-    {
      "type": "Twitter",
      "id": "RepWesco"
+    },
+    {
+     "type": "Facebook",
+     "id": "TimothyWesco"
     }
    ]
   },
@@ -46212,12 +46212,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "mikedelph"
-    },
-    {
      "type": "Twitter",
      "id": "MikeDelph"
+    },
+    {
+     "type": "Facebook",
+     "id": "mikedelph"
     }
    ]
   },
@@ -61649,9 +61649,6 @@
    ],
    "phones": [
     "(219) 755-3280"
-   ],
-   "urls": [
-    "http://www.lakecountyin.org/portal/media-type/html/group/council/page/default.psml/js_pane/P-13b9cba6081-103d1"
    ]
   },
   {
@@ -61893,15 +61890,6 @@
    ]
   },
   {
-   "name": "Jim Klinstiver",
-   "phones": [
-    "(812) 572-5310"
-   ],
-   "emails": [
-    "jklinstiver@harrisoncounty.in.gov"
-   ]
-  },
-  {
    "name": "Daniel Edward Dernulc",
    "address": [
     {
@@ -61916,6 +61904,15 @@
    ],
    "urls": [
     "http://www.lakecountyin.org/portal/media-type/html/group/council/page/default.psml/js_pane/P-13b9cba6081-103cd"
+   ]
+  },
+  {
+   "name": "Jim Klinstiver",
+   "phones": [
+    "(812) 572-5310"
+   ],
+   "emails": [
+    "jklinstiver@harrisoncounty.in.gov"
    ]
   },
   {
@@ -68242,9 +68239,6 @@
    ],
    "phones": [
     "(765) 641-9669"
-   ],
-   "urls": [
-    "http://treasurer.madisoncounty48.us/"
    ],
    "emails": [
     "kgaskill@madisoncounty.in.gov"

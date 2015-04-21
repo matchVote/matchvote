@@ -6,11 +6,11 @@
   "ocd-division/country:us/state:tn/county:washington/precinct:18": {
    "name": "Washington County Precinct 18"
   },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:12": {
-   "name": "Hamilton County Precinct 12"
-  },
   "ocd-division/country:us/state:tn/county:washington/precinct:19": {
    "name": "Washington County Precinct 19"
+  },
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:12": {
+   "name": "Hamilton County Precinct 12"
   },
   "ocd-division/country:us/state:tn/place:finger": {
    "name": "Finger city"
@@ -110,32 +110,32 @@
   "ocd-division/country:us/state:tn/place:tiptonville": {
    "name": "Tiptonville town"
   },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:18": {
-   "name": "Hamilton County Precinct 18"
-  },
   "ocd-division/country:us/state:tn/county:clay/precinct:7": {
    "name": "Clay County Precinct 7"
   },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:19": {
-   "name": "Hamilton County Precinct 19"
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:18": {
+   "name": "Hamilton County Precinct 18"
   },
   "ocd-division/country:us/state:tn/county:clay/precinct:6": {
    "name": "Clay County Precinct 6"
   },
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:19": {
+   "name": "Hamilton County Precinct 19"
+  },
   "ocd-division/country:us/state:tn/county:clay/precinct:5": {
    "name": "Clay County Precinct 5"
-  },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:17": {
-   "name": "Hamilton County Precinct 17"
   },
   "ocd-division/country:us/state:tn/county:clay/precinct:4": {
    "name": "Clay County Precinct 4"
   },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:14": {
-   "name": "Hamilton County Precinct 14"
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:17": {
+   "name": "Hamilton County Precinct 17"
   },
   "ocd-division/country:us/state:tn/county:clay/precinct:3": {
    "name": "Clay County Precinct 3"
+  },
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:14": {
+   "name": "Hamilton County Precinct 14"
   },
   "ocd-division/country:us/state:tn/county:clay/precinct:2": {
    "name": "Clay County Precinct 2"
@@ -146,26 +146,26 @@
   "ocd-division/country:us/state:tn/county:hardeman/precinct:6": {
    "name": "Hardeman County Precinct 6"
   },
-  "ocd-division/country:us/state:tn/county:hardeman/precinct:7": {
-   "name": "Hardeman County Precinct 7"
-  },
   "ocd-division/country:us/state:tn/county:hamilton/precinct:31": {
    "name": "Hamilton County Precinct 31"
+  },
+  "ocd-division/country:us/state:tn/county:hardeman/precinct:7": {
+   "name": "Hardeman County Precinct 7"
   },
   "ocd-division/country:us/state:tn/county:hardeman/precinct:8": {
    "name": "Hardeman County Precinct 8"
   },
-  "ocd-division/country:us/state:tn/county:hardeman/precinct:1": {
-   "name": "Hardeman County Precinct 1"
-  },
   "ocd-division/country:us/state:tn/county:hamilton/precinct:33": {
    "name": "Hamilton County Precinct 33"
   },
-  "ocd-division/country:us/state:tn/county:hardeman/precinct:2": {
-   "name": "Hardeman County Precinct 2"
+  "ocd-division/country:us/state:tn/county:hardeman/precinct:1": {
+   "name": "Hardeman County Precinct 1"
   },
   "ocd-division/country:us/state:tn/county:hamilton/precinct:32": {
    "name": "Hamilton County Precinct 32"
+  },
+  "ocd-division/country:us/state:tn/county:hardeman/precinct:2": {
+   "name": "Hardeman County Precinct 2"
   },
   "ocd-division/country:us/state:tn/county:hardeman/precinct:3": {
    "name": "Hardeman County Precinct 3"
@@ -337,32 +337,32 @@
   "ocd-division/country:us/state:tn/county:hamilton/precinct:60": {
    "name": "Hamilton County Precinct 60"
   },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:67": {
-   "name": "Hamilton County Precinct 67"
-  },
   "ocd-division/country:us/state:tn/county:davidson/precinct:2501": {
    "name": "Davidson County Precinct 2501"
+  },
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:67": {
+   "name": "Hamilton County Precinct 67"
   },
   "ocd-division/country:us/state:tn/county:hickman/school_district:hickman_county": {
    "name": "hickman county"
   },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:64": {
-   "name": "Hamilton County Precinct 64"
-  },
   "ocd-division/country:us/state:tn/county:davidson/precinct:2504": {
    "name": "Davidson County Precinct 2504"
   },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:61": {
-   "name": "Hamilton County Precinct 61"
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:64": {
+   "name": "Hamilton County Precinct 64"
   },
   "ocd-division/country:us/state:tn/county:davidson/precinct:2503": {
    "name": "Davidson County Precinct 2503"
   },
-  "ocd-division/country:us/state:tn/place:silerton": {
-   "name": "Silerton town"
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:61": {
+   "name": "Hamilton County Precinct 61"
   },
   "ocd-division/country:us/state:tn/county:davidson/precinct:2502": {
    "name": "Davidson County Precinct 2502"
+  },
+  "ocd-division/country:us/state:tn/place:silerton": {
+   "name": "Silerton town"
   },
   "ocd-division/country:us/state:tn/county:lincoln/precinct:302": {
    "name": "Lincoln County Precinct 302"
@@ -385,14 +385,14 @@
     166
    ]
   },
+  "ocd-division/country:us/state:tn/county:washington/precinct:40": {
+   "name": "Washington County Precinct 40"
+  },
   "ocd-division/country:us/state:tn/county:putnam/council_district:9": {
    "name": "Putnam County Commission District 9",
    "officeIndices": [
     167
    ]
-  },
-  "ocd-division/country:us/state:tn/county:washington/precinct:40": {
-   "name": "Washington County Precinct 40"
   },
   "ocd-division/country:us/state:tn/county:putnam/council_district:6": {
    "name": "Putnam County Commission District 6",
@@ -406,17 +406,20 @@
     169
    ]
   },
-  "ocd-division/country:us/state:tn/county:washington/precinct:39": {
-   "name": "Washington County Precinct 39"
-  },
   "ocd-division/country:us/state:tn/county:williamson/council_district:1": {
    "name": "Williamson County Commission District 1",
    "officeIndices": [
     170
    ]
   },
+  "ocd-division/country:us/state:tn/county:washington/precinct:39": {
+   "name": "Washington County Precinct 39"
+  },
   "ocd-division/country:us/state:tn/county:washington/precinct:38": {
    "name": "Washington County Precinct 38"
+  },
+  "ocd-division/country:us/state:tn/county:washington/precinct:37": {
+   "name": "Washington County Precinct 37"
   },
   "ocd-division/country:us/state:tn/county:putnam/council_district:1": {
    "name": "Putnam County Commission District 1",
@@ -424,11 +427,14 @@
     171
    ]
   },
-  "ocd-division/country:us/state:tn/county:washington/precinct:37": {
-   "name": "Washington County Precinct 37"
-  },
   "ocd-division/country:us/state:tn/county:washington/precinct:36": {
    "name": "Washington County Precinct 36"
+  },
+  "ocd-division/country:us/state:tn/county:wilson/precinct:7-2": {
+   "name": "Wilson County Precinct 7-2"
+  },
+  "ocd-division/country:us/state:tn/county:washington/precinct:35": {
+   "name": "Washington County Precinct 35"
   },
   "ocd-division/country:us/state:tn/county:putnam/council_district:3": {
    "name": "Putnam County Commission District 3",
@@ -436,11 +442,11 @@
     172
    ]
   },
-  "ocd-division/country:us/state:tn/county:washington/precinct:35": {
-   "name": "Washington County Precinct 35"
+  "ocd-division/country:us/state:tn/county:wilson/precinct:7-1": {
+   "name": "Wilson County Precinct 7-1"
   },
-  "ocd-division/country:us/state:tn/county:wilson/precinct:7-2": {
-   "name": "Wilson County Precinct 7-2"
+  "ocd-division/country:us/state:tn/county:washington/precinct:34": {
+   "name": "Washington County Precinct 34"
   },
   "ocd-division/country:us/state:tn/county:putnam/council_district:2": {
    "name": "Putnam County Commission District 2",
@@ -448,14 +454,8 @@
     173
    ]
   },
-  "ocd-division/country:us/state:tn/county:washington/precinct:34": {
-   "name": "Washington County Precinct 34"
-  },
-  "ocd-division/country:us/state:tn/county:wilson/precinct:7-1": {
-   "name": "Wilson County Precinct 7-1"
-  },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:70": {
-   "name": "Hamilton County Precinct 70"
+  "ocd-division/country:us/state:tn/county:washington/precinct:33": {
+   "name": "Washington County Precinct 33"
   },
   "ocd-division/country:us/state:tn/county:putnam/council_district:5": {
    "name": "Putnam County Commission District 5",
@@ -463,11 +463,11 @@
     174
    ]
   },
-  "ocd-division/country:us/state:tn/county:washington/precinct:33": {
-   "name": "Washington County Precinct 33"
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:70": {
+   "name": "Hamilton County Precinct 70"
   },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:71": {
-   "name": "Hamilton County Precinct 71"
+  "ocd-division/country:us/state:tn/county:washington/precinct:32": {
+   "name": "Washington County Precinct 32"
   },
   "ocd-division/country:us/state:tn/county:putnam/council_district:4": {
    "name": "Putnam County Commission District 4",
@@ -475,11 +475,8 @@
     175
    ]
   },
-  "ocd-division/country:us/state:tn/county:washington/precinct:32": {
-   "name": "Washington County Precinct 32"
-  },
-  "ocd-division/country:us/state:tn/county:cocke/precinct:rk": {
-   "name": "Cocke County Precinct Rk"
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:71": {
+   "name": "Hamilton County Precinct 71"
   },
   "ocd-division/country:us/state:tn/county:williamson/council_district:9": {
    "name": "Williamson County Commission District 9",
@@ -487,14 +484,14 @@
     176
    ]
   },
+  "ocd-division/country:us/state:tn/county:cocke/precinct:rk": {
+   "name": "Cocke County Precinct Rk"
+  },
   "ocd-division/country:us/state:tn/county:williamson/council_district:8": {
    "name": "Williamson County Commission District 8",
    "officeIndices": [
     177
    ]
-  },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:74": {
-   "name": "Hamilton County Precinct 74"
   },
   "ocd-division/country:us/state:tn/county:williamson/council_district:7": {
    "name": "Williamson County Commission District 7",
@@ -502,8 +499,8 @@
     178
    ]
   },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:75": {
-   "name": "Hamilton County Precinct 75"
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:74": {
+   "name": "Hamilton County Precinct 74"
   },
   "ocd-division/country:us/state:tn/county:williamson/council_district:6": {
    "name": "Williamson County Commission District 6",
@@ -511,11 +508,8 @@
     179
    ]
   },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:76": {
-   "name": "Hamilton County Precinct 76"
-  },
-  "ocd-division/country:us/state:tn/county:shelby/precinct:8902": {
-   "name": "Shelby County Precinct 8902"
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:75": {
+   "name": "Hamilton County Precinct 75"
   },
   "ocd-division/country:us/state:tn/county:williamson/council_district:5": {
    "name": "Williamson County Commission District 5",
@@ -523,11 +517,11 @@
     180
    ]
   },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:77": {
-   "name": "Hamilton County Precinct 77"
+  "ocd-division/country:us/state:tn/county:shelby/precinct:8902": {
+   "name": "Shelby County Precinct 8902"
   },
-  "ocd-division/country:us/state:tn/county:shelby/precinct:8901": {
-   "name": "Shelby County Precinct 8901"
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:76": {
+   "name": "Hamilton County Precinct 76"
   },
   "ocd-division/country:us/state:tn/county:williamson/council_district:4": {
    "name": "Williamson County Commission District 4",
@@ -535,14 +529,20 @@
     181
    ]
   },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:78": {
-   "name": "Hamilton County Precinct 78"
+  "ocd-division/country:us/state:tn/county:shelby/precinct:8901": {
+   "name": "Shelby County Precinct 8901"
+  },
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:77": {
+   "name": "Hamilton County Precinct 77"
   },
   "ocd-division/country:us/state:tn/county:williamson/council_district:3": {
    "name": "Williamson County Commission District 3",
    "officeIndices": [
     182
    ]
+  },
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:78": {
+   "name": "Hamilton County Precinct 78"
   },
   "ocd-division/country:us/state:tn/county:williamson/council_district:2": {
    "name": "Williamson County Commission District 2",
@@ -586,14 +586,14 @@
   "ocd-division/country:us/state:tn/county:washington/precinct:24": {
    "name": "Washington County Precinct 24"
   },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:80": {
-   "name": "Hamilton County Precinct 80"
+  "ocd-division/country:us/state:tn/county:washington/precinct:23": {
+   "name": "Washington County Precinct 23"
   },
   "ocd-division/country:us/state:tn/circuit_court:29": {
    "name": "TN State Circuit Court - 29th District"
   },
-  "ocd-division/country:us/state:tn/county:washington/precinct:23": {
-   "name": "Washington County Precinct 23"
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:80": {
+   "name": "Hamilton County Precinct 80"
   },
   "ocd-division/country:us/state:tn/county:hamilton/precinct:85": {
    "name": "Hamilton County Precinct 85"
@@ -601,23 +601,23 @@
   "ocd-division/country:us/state:tn/county:hamilton/precinct:86": {
    "name": "Hamilton County Precinct 86"
   },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:83": {
-   "name": "Hamilton County Precinct 83"
-  },
   "ocd-division/country:us/state:tn/county:robertson/council_district:1": {
    "name": "Robertson County Commission District 1",
    "officeIndices": [
     184
    ]
   },
-  "ocd-division/country:us/state:tn/county:hamilton/precinct:84": {
-   "name": "Hamilton County Precinct 84"
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:83": {
+   "name": "Hamilton County Precinct 83"
   },
   "ocd-division/country:us/state:tn/county:robertson/council_district:2": {
    "name": "Robertson County Commission District 2",
    "officeIndices": [
     185
    ]
+  },
+  "ocd-division/country:us/state:tn/county:hamilton/precinct:84": {
+   "name": "Hamilton County Precinct 84"
   },
   "ocd-division/country:us/state:tn/county:hamilton/precinct:89": {
    "name": "Hamilton County Precinct 89"
@@ -634,14 +634,14 @@
     186
    ]
   },
-  "ocd-division/country:us/state:tn/circuit_court:20": {
-   "name": "TN State Circuit Court - 20th District"
-  },
   "ocd-division/country:us/state:tn/county:robertson/council_district:7": {
    "name": "Robertson County Commission District 7",
    "officeIndices": [
     187
    ]
+  },
+  "ocd-division/country:us/state:tn/circuit_court:20": {
+   "name": "TN State Circuit Court - 20th District"
   },
   "ocd-division/country:us/state:tn/county:robertson/council_district:9": {
    "name": "Robertson County Commission District 9",
@@ -673,11 +673,11 @@
     192
    ]
   },
-  "ocd-division/country:us/state:tn/circuit_court:27": {
-   "name": "TN State Circuit Court - 27th District"
-  },
   "ocd-division/country:us/state:tn/county:cocke/precinct:pv": {
    "name": "Cocke County Precinct Pv"
+  },
+  "ocd-division/country:us/state:tn/circuit_court:27": {
+   "name": "TN State Circuit Court - 27th District"
   },
   "ocd-division/country:us/state:tn/circuit_court:28": {
    "name": "TN State Circuit Court - 28th District"
@@ -685,11 +685,11 @@
   "ocd-division/country:us/state:tn/circuit_court:25": {
    "name": "TN State Circuit Court - 25th District"
   },
-  "ocd-division/country:us/state:tn/circuit_court:26": {
-   "name": "TN State Circuit Court - 26th District"
-  },
   "ocd-division/country:us/state:tn/county:washington/precinct:20": {
    "name": "Washington County Precinct 20"
+  },
+  "ocd-division/country:us/state:tn/circuit_court:26": {
+   "name": "TN State Circuit Court - 26th District"
   },
   "ocd-division/country:us/state:tn/circuit_court:23": {
    "name": "TN State Circuit Court - 23rd District"
@@ -730,14 +730,14 @@
   "ocd-division/country:us/state:tn/county:davidson/precinct:1403": {
    "name": "Davidson County Precinct 1403"
   },
-  "ocd-division/country:us/state:tn/county:greene/precinct:15jo": {
-   "name": "Greene County Precinct 15Jo"
+  "ocd-division/country:us/state:tn/county:davidson/precinct:1402": {
+   "name": "Davidson County Precinct 1402"
   },
   "ocd-division/country:us/state:tn/county:cocke/precinct:lc": {
    "name": "Cocke County Precinct Lc"
   },
-  "ocd-division/country:us/state:tn/county:davidson/precinct:1402": {
-   "name": "Davidson County Precinct 1402"
+  "ocd-division/country:us/state:tn/county:greene/precinct:15jo": {
+   "name": "Greene County Precinct 15Jo"
   },
   "ocd-division/country:us/state:tn/county:davidson/precinct:1405": {
    "name": "Davidson County Precinct 1405"
@@ -802,11 +802,11 @@
   "ocd-division/country:us/state:tn/county:shelby/precinct:ger11": {
    "name": "Shelby County Precinct Ger11"
   },
-  "ocd-division/country:us/state:tn/place:south_fulton": {
-   "name": "South Fulton city"
-  },
   "ocd-division/country:us/state:tn/place:alamo": {
    "name": "Alamo town"
+  },
+  "ocd-division/country:us/state:tn/place:south_fulton": {
+   "name": "South Fulton city"
   },
   "ocd-division/country:us/state:tn/county:perry/precinct:202": {
    "name": "Perry County Precinct 202"
@@ -814,11 +814,11 @@
   "ocd-division/country:us/state:tn/county:perry/precinct:201": {
    "name": "Perry County Precinct 201"
   },
-  "ocd-division/country:us/state:tn/place:mcminnville": {
-   "name": "McMinnville city"
-  },
   "ocd-division/country:us/state:tn/county:fentress/precinct:wfe": {
    "name": "Fentress County Precinct Wfe"
+  },
+  "ocd-division/country:us/state:tn/place:mcminnville": {
+   "name": "McMinnville city"
   },
   "ocd-division/country:us/state:tn/county:cocke/precinct:ng": {
    "name": "Cocke County Precinct Ng"
@@ -856,14 +856,14 @@
     196
    ]
   },
+  "ocd-division/country:us/state:tn/county:shelby/precinct:9301": {
+   "name": "Shelby County Precinct 9301"
+  },
   "ocd-division/country:us/state:tn/county:blount/council_district:7": {
    "name": "Blount County Commission District 7",
    "officeIndices": [
     197
    ]
-  },
-  "ocd-division/country:us/state:tn/county:shelby/precinct:9301": {
-   "name": "Shelby County Precinct 9301"
   },
   "ocd-division/country:us/state:tn/county:blount/council_district:8": {
    "name": "Blount County Commission District 8",
@@ -920,11 +920,11 @@
   "ocd-division/country:us/state:tn/place:grand_junction": {
    "name": "Grand Junction city"
   },
-  "ocd-division/country:us/state:tn/place:plainview": {
-   "name": "Plainview city"
-  },
   "ocd-division/country:us/state:tn/county:marshall/precinct:601": {
    "name": "Marshall County Precinct 601"
+  },
+  "ocd-division/country:us/state:tn/place:plainview": {
+   "name": "Plainview city"
   },
   "ocd-division/country:us/state:tn/county:shelby/precinct:9303": {
    "name": "Shelby County Precinct 9303"
@@ -951,26 +951,26 @@
   "ocd-division/country:us/state:tn/county:lawrence/precinct:502": {
    "name": "Lawrence County Precinct 502"
   },
-  "ocd-division/country:us/state:tn/place:selmer": {
-   "name": "Selmer town"
+  "ocd-division/country:us/state:tn/county:shelby/precinct:7409": {
+   "name": "Shelby County Precinct 7409"
   },
   "ocd-division/country:us/state:tn/county:cocke/precinct:gf": {
    "name": "Cocke County Precinct Gf"
   },
-  "ocd-division/country:us/state:tn/county:shelby/precinct:7409": {
-   "name": "Shelby County Precinct 7409"
-  },
-  "ocd-division/country:us/state:tn/place:three_way": {
-   "name": "Three Way city"
+  "ocd-division/country:us/state:tn/place:selmer": {
+   "name": "Selmer town"
   },
   "ocd-division/country:us/state:tn/county:sumner/precinct:703": {
    "name": "Sumner County Precinct 703"
   },
-  "ocd-division/country:us/state:tn/county:shelby/precinct:7404": {
-   "name": "Shelby County Precinct 7404"
+  "ocd-division/country:us/state:tn/place:three_way": {
+   "name": "Three Way city"
   },
   "ocd-division/country:us/state:tn/county:sumner/precinct:701": {
    "name": "Sumner County Precinct 701"
+  },
+  "ocd-division/country:us/state:tn/county:shelby/precinct:7404": {
+   "name": "Shelby County Precinct 7404"
   },
   "ocd-division/country:us/state:tn/county:shelby/precinct:7405": {
    "name": "Shelby County Precinct 7405"
@@ -990,11 +990,11 @@
   "ocd-division/country:us/state:tn/county:shelby/precinct:ros15": {
    "name": "Shelby County Precinct Ros15"
   },
-  "ocd-division/country:us/state:tn/place:union_city": {
-   "name": "Union City city"
-  },
   "ocd-division/country:us/state:tn/county:shelby/precinct:ros14": {
    "name": "Shelby County Precinct Ros14"
+  },
+  "ocd-division/country:us/state:tn/place:union_city": {
+   "name": "Union City city"
   },
   "ocd-division/country:us/state:tn/county:shelby/precinct:ros13": {
    "name": "Shelby County Precinct Ros13"
@@ -1005,23 +1005,23 @@
     220
    ]
   },
-  "ocd-division/country:us/state:tn/county:johnson/council_district:3": {
-   "name": "Johnson County Commission District 3",
-   "officeIndices": [
-    229
-   ]
-  },
   "ocd-division/country:us/state:tn/county:rhea": {
    "name": "Rhea County",
    "officeIndices": [
-    221,
     222,
     223,
     224,
     225,
     226,
     227,
-    228
+    228,
+    229
+   ]
+  },
+  "ocd-division/country:us/state:tn/county:johnson/council_district:3": {
+   "name": "Johnson County Commission District 3",
+   "officeIndices": [
+    221
    ]
   },
   "ocd-division/country:us/state:tn/county:johnson/council_district:2": {
@@ -1048,14 +1048,14 @@
     233
    ]
   },
-  "ocd-division/country:us/state:tn/place:crossville": {
-   "name": "Crossville city"
-  },
   "ocd-division/country:us/state:tn/county:johnson/council_district:6": {
    "name": "Johnson County Commission District 6",
    "officeIndices": [
     234
    ]
+  },
+  "ocd-division/country:us/state:tn/place:crossville": {
+   "name": "Crossville city"
   },
   "ocd-division/country:us/state:tn/county:anderson/precinct:lcc": {
    "name": "Anderson County Precinct Lcc"
@@ -1072,11 +1072,11 @@
   "ocd-division/country:us/state:tn/county:carter/precinct:4ch": {
    "name": "Carter County Precinct 4Ch"
   },
-  "ocd-division/country:us/state:tn/county:cocke/precinct:hv": {
-   "name": "Cocke County Precinct Hv"
-  },
   "ocd-division/country:us/state:tn/county:shelby/precinct:ros05": {
    "name": "Shelby County Precinct Ros05"
+  },
+  "ocd-division/country:us/state:tn/county:cocke/precinct:hv": {
+   "name": "Cocke County Precinct Hv"
   },
   "ocd-division/country:us/state:tn/county:grundy/school_district:grundy_county": {
    "name": "grundy county"
@@ -1111,11 +1111,11 @@
   "ocd-division/country:us/state:tn/circuit_court:6": {
    "name": "TN State Circuit Court - 6th District"
   },
-  "ocd-division/country:us/state:tn/place:liberty": {
-   "name": "Liberty town"
-  },
   "ocd-division/country:us/state:tn/circuit_court:5": {
    "name": "TN State Circuit Court - 5th District"
+  },
+  "ocd-division/country:us/state:tn/place:liberty": {
+   "name": "Liberty town"
   },
   "ocd-division/country:us/state:tn/circuit_court:9": {
    "name": "TN State Circuit Court - 9th District"
@@ -1176,11 +1176,11 @@
   "ocd-division/country:us/state:tn/county:wilson/precinct:12-1": {
    "name": "Wilson County Precinct 12-1"
   },
-  "ocd-division/country:us/state:tn/place:manchester": {
-   "name": "Manchester city"
-  },
   "ocd-division/country:us/state:tn/county:wilson/precinct:12-2": {
    "name": "Wilson County Precinct 12-2"
+  },
+  "ocd-division/country:us/state:tn/place:manchester": {
+   "name": "Manchester city"
   },
   "ocd-division/country:us/state:tn/place:byrdstown": {
    "name": "Byrdstown town"
@@ -1191,17 +1191,17 @@
   "ocd-division/country:us/state:tn/county:greene/precinct:7mt": {
    "name": "Greene County Precinct 7Mt"
   },
-  "ocd-division/country:us/state:tn/county:hamblen/precinct:101": {
-   "name": "Hamblen County Precinct 101"
-  },
-  "ocd-division/country:us/state:tn/county:chester/precinct:6-1": {
-   "name": "Chester County Precinct 6-1"
-  },
   "ocd-division/country:us/state:tn/county:cheatham/council_district:1": {
    "name": "Cheatham County Commission District 1",
    "officeIndices": [
     264
    ]
+  },
+  "ocd-division/country:us/state:tn/county:chester/precinct:6-1": {
+   "name": "Chester County Precinct 6-1"
+  },
+  "ocd-division/country:us/state:tn/county:hamblen/precinct:101": {
+   "name": "Hamblen County Precinct 101"
   },
   "ocd-division/country:us/state:tn/county:cheatham/council_district:3": {
    "name": "Cheatham County Commission District 3",
@@ -1215,26 +1215,26 @@
     266
    ]
   },
-  "ocd-division/country:us/state:tn/county:hawkins/council_district:7": {
-   "name": "Hawkins County Commission District 7",
+  "ocd-division/country:us/state:tn/county:cheatham/council_district:5": {
+   "name": "Cheatham County Commission District 5",
    "officeIndices": [
     268
    ]
   },
-  "ocd-division/country:us/state:tn/county:cheatham/council_district:5": {
-   "name": "Cheatham County Commission District 5",
+  "ocd-division/country:us/state:tn/county:hawkins/council_district:7": {
+   "name": "Hawkins County Commission District 7",
    "officeIndices": [
     267
    ]
   },
-  "ocd-division/country:us/state:tn/county:hawkins/council_district:6": {
-   "name": "Hawkins County Commission District 6",
+  "ocd-division/country:us/state:tn/county:cheatham/council_district:4": {
+   "name": "Cheatham County Commission District 4",
    "officeIndices": [
     270
    ]
   },
-  "ocd-division/country:us/state:tn/county:cheatham/council_district:4": {
-   "name": "Cheatham County Commission District 4",
+  "ocd-division/country:us/state:tn/county:hawkins/council_district:6": {
+   "name": "Hawkins County Commission District 6",
    "officeIndices": [
     269
    ]
@@ -1245,20 +1245,20 @@
     271
    ]
   },
-  "ocd-division/country:us/state:tn/place:morristown": {
-   "name": "Morristown city"
-  },
-  "ocd-division/country:us/state:tn/county:hawkins/council_district:4": {
-   "name": "Hawkins County Commission District 4",
+  "ocd-division/country:us/state:tn/county:cheatham/council_district:6": {
+   "name": "Cheatham County Commission District 6",
    "officeIndices": [
     273
    ]
   },
-  "ocd-division/country:us/state:tn/county:cheatham/council_district:6": {
-   "name": "Cheatham County Commission District 6",
+  "ocd-division/country:us/state:tn/county:hawkins/council_district:4": {
+   "name": "Hawkins County Commission District 4",
    "officeIndices": [
     272
    ]
+  },
+  "ocd-division/country:us/state:tn/place:morristown": {
+   "name": "Morristown city"
   },
   "ocd-division/country:us/state:tn/county:putnam/school_district:putnam_county": {
    "name": "putnam county"
@@ -1302,9 +1302,6 @@
   "ocd-division/country:us/state:tn/county:shelby/precinct:cor09": {
    "name": "Shelby County Precinct Cor09"
   },
-  "ocd-division/country:us/state:tn/county:cheatham/precinct:2-2": {
-   "name": "Cheatham County Precinct 2-2"
-  },
   "ocd-division/country:us/state:tn/county:obion": {
    "name": "Obion County",
    "officeIndices": [
@@ -1319,11 +1316,17 @@
     282
    ]
   },
-  "ocd-division/country:us/state:tn/place:etowah": {
-   "name": "Etowah city"
+  "ocd-division/country:us/state:tn/county:cheatham/precinct:2-2": {
+   "name": "Cheatham County Precinct 2-2"
   },
   "ocd-division/country:us/state:tn/county:jefferson/precinct:201": {
    "name": "Jefferson County Precinct 201"
+  },
+  "ocd-division/country:us/state:tn/place:etowah": {
+   "name": "Etowah city"
+  },
+  "ocd-division/country:us/state:tn/county:shelby/precinct:cor03": {
+   "name": "Shelby County Precinct Cor03"
   },
   "ocd-division/country:us/state:tn/county:putnam": {
    "name": "Putnam County",
@@ -1337,9 +1340,6 @@
     289,
     290
    ]
-  },
-  "ocd-division/country:us/state:tn/county:shelby/precinct:cor03": {
-   "name": "Shelby County Precinct Cor03"
   },
   "ocd-division/country:us/state:tn/county:shelby/precinct:cor04": {
    "name": "Shelby County Precinct Cor04"
@@ -1370,11 +1370,11 @@
   "ocd-division/country:us/state:tn/county:shelby/precinct:5201": {
    "name": "Shelby County Precinct 5201"
   },
-  "ocd-division/country:us/state:tn/county:campbell/precinct:cary": {
-   "name": "Campbell County Precinct Cary"
-  },
   "ocd-division/country:us/state:tn/county:shelby/precinct:5202": {
    "name": "Shelby County Precinct 5202"
+  },
+  "ocd-division/country:us/state:tn/county:campbell/precinct:cary": {
+   "name": "Campbell County Precinct Cary"
   },
   "ocd-division/country:us/state:tn/county:shelby/precinct:5203": {
    "name": "Shelby County Precinct 5203"
@@ -1435,11 +1435,11 @@
     310
    ]
   },
-  "ocd-division/country:us/state:tn/place:troy": {
-   "name": "Troy town"
-  },
   "ocd-division/country:us/state:tn/county:rutherford/precinct:71": {
    "name": "Rutherford County Precinct 71"
+  },
+  "ocd-division/country:us/state:tn/place:troy": {
+   "name": "Troy town"
   },
   "ocd-division/country:us/state:tn/county:rutherford/precinct:72": {
    "name": "Rutherford County Precinct 72"
@@ -1456,14 +1456,14 @@
     311
    ]
   },
+  "ocd-division/country:us/state:tn/county:meigs/precinct:5-1": {
+   "name": "Meigs County Precinct 5-1"
+  },
   "ocd-division/country:us/state:tn/county:benton/council_district:6": {
    "name": "Benton County Commission District 6",
    "officeIndices": [
     312
    ]
-  },
-  "ocd-division/country:us/state:tn/county:meigs/precinct:5-1": {
-   "name": "Meigs County Precinct 5-1"
   },
   "ocd-division/country:us/state:tn/county:benton/council_district:3": {
    "name": "Benton County Commission District 3",
@@ -1672,14 +1672,14 @@
     335
    ]
   },
-  "ocd-division/country:us/state:tn/county:maury/precinct:bgby": {
-   "name": "Maury County Precinct Bgby"
-  },
   "ocd-division/country:us/state:tn/county:washington/council_district:3": {
    "name": "Washington County Commission District 3",
    "officeIndices": [
     336
    ]
+  },
+  "ocd-division/country:us/state:tn/county:maury/precinct:bgby": {
+   "name": "Maury County Precinct Bgby"
   },
   "ocd-division/country:us/state:tn/county:washington/council_district:4": {
    "name": "Washington County Commission District 4",
@@ -1921,14 +1921,14 @@
     365
    ]
   },
-  "ocd-division/country:us/state:tn/place:elizabethton": {
-   "name": "Elizabethton city"
-  },
   "ocd-division/country:us/state:tn/county:carter/council_district:5": {
    "name": "Carter County Commission District 5",
    "officeIndices": [
     366
    ]
+  },
+  "ocd-division/country:us/state:tn/place:elizabethton": {
+   "name": "Elizabethton city"
   },
   "ocd-division/country:us/state:tn/county:carter/council_district:4": {
    "name": "Carter County Commission District 4",
@@ -2349,14 +2349,14 @@
   "ocd-division/country:us/state:tn/county:mcminn/precinct:10": {
    "name": "Mcminn County Precinct 10"
   },
-  "ocd-division/country:us/state:tn/county:claiborne/precinct:slk": {
-   "name": "Claiborne County Precinct Slk"
-  },
   "ocd-division/country:us/state:tn/county:rhea/council_district:1": {
    "name": "Rhea County Commission District 1",
    "officeIndices": [
     423
    ]
+  },
+  "ocd-division/country:us/state:tn/county:claiborne/precinct:slk": {
+   "name": "Claiborne County Precinct Slk"
   },
   "ocd-division/country:us/state:tn/county:rhea/council_district:2": {
    "name": "Rhea County Commission District 2",
@@ -2475,14 +2475,17 @@
   "ocd-division/country:us/state:tn/county:lauderdale/precinct:edi": {
    "name": "Lauderdale County Precinct Edi"
   },
-  "ocd-division/country:us/state:tn/county:marshall/precinct:501": {
-   "name": "Marshall County Precinct 501"
-  },
   "ocd-division/country:us/state:tn/county:rutherford/precinct:192": {
    "name": "Rutherford County Precinct 192"
   },
+  "ocd-division/country:us/state:tn/county:marshall/precinct:501": {
+   "name": "Marshall County Precinct 501"
+  },
   "ocd-division/country:us/state:tn/county:knox/precinct:19e": {
    "name": "Knox County Precinct 19E"
+  },
+  "ocd-division/country:us/state:tn/county:davidson/precinct:1304": {
+   "name": "Davidson County Precinct 1304"
   },
   "ocd-division/country:us/state:tn/county:gibson/council_district:16": {
    "name": "Gibson County Commission District 16",
@@ -2490,17 +2493,14 @@
     441
    ]
   },
-  "ocd-division/country:us/state:tn/county:davidson/precinct:1304": {
-   "name": "Davidson County Precinct 1304"
+  "ocd-division/country:us/state:tn/county:davidson/precinct:1303": {
+   "name": "Davidson County Precinct 1303"
   },
   "ocd-division/country:us/state:tn/county:gibson/council_district:17": {
    "name": "Gibson County Commission District 17",
    "officeIndices": [
     442
    ]
-  },
-  "ocd-division/country:us/state:tn/county:davidson/precinct:1303": {
-   "name": "Davidson County Precinct 1303"
   },
   "ocd-division/country:us/state:tn/county:gibson/council_district:14": {
    "name": "Gibson County Commission District 14",
@@ -2514,23 +2514,23 @@
     444
    ]
   },
+  "ocd-division/country:us/state:tn/county:davidson/precinct:1302": {
+   "name": "Davidson County Precinct 1302"
+  },
   "ocd-division/country:us/state:tn/county:gibson/council_district:18": {
    "name": "Gibson County Commission District 18",
    "officeIndices": [
     445
    ]
   },
-  "ocd-division/country:us/state:tn/county:davidson/precinct:1302": {
-   "name": "Davidson County Precinct 1302"
+  "ocd-division/country:us/state:tn/county:davidson/precinct:1301": {
+   "name": "Davidson County Precinct 1301"
   },
   "ocd-division/country:us/state:tn/county:gibson/council_district:19": {
    "name": "Gibson County Commission District 19",
    "officeIndices": [
     446
    ]
-  },
-  "ocd-division/country:us/state:tn/county:davidson/precinct:1301": {
-   "name": "Davidson County Precinct 1301"
   },
   "ocd-division/country:us/state:tn/county:carter/school_district:carter_county": {
    "name": "carter county"
@@ -2544,14 +2544,14 @@
     447
    ]
   },
-  "ocd-division/country:us/state:tn/county:knox/precinct:19w": {
-   "name": "Knox County Precinct 19W"
-  },
   "ocd-division/country:us/state:tn/county:macon/council_district:19": {
    "name": "Macon County Commission District 19",
    "officeIndices": [
     448
    ]
+  },
+  "ocd-division/country:us/state:tn/county:knox/precinct:19w": {
+   "name": "Knox County Precinct 19W"
   },
   "ocd-division/country:us/state:tn/county:macon/council_district:16": {
    "name": "Macon County Commission District 16",
@@ -2565,17 +2565,17 @@
     450
    ]
   },
-  "ocd-division/country:us/state:tn/place:jasper": {
-   "name": "Jasper town"
-  },
-  "ocd-division/country:us/state:tn/county:lawrence/precinct:401": {
-   "name": "Lawrence County Precinct 401"
-  },
   "ocd-division/country:us/state:tn/county:macon/council_district:14": {
    "name": "Macon County Commission District 14",
    "officeIndices": [
     451
    ]
+  },
+  "ocd-division/country:us/state:tn/county:lawrence/precinct:401": {
+   "name": "Lawrence County Precinct 401"
+  },
+  "ocd-division/country:us/state:tn/place:jasper": {
+   "name": "Jasper town"
   },
   "ocd-division/country:us/state:tn/county:macon/council_district:15": {
    "name": "Macon County Commission District 15",
@@ -2583,23 +2583,23 @@
     452
    ]
   },
-  "ocd-division/country:us/state:tn/place:williston": {
-   "name": "Williston city"
-  },
   "ocd-division/country:us/state:tn/county:macon/council_district:12": {
    "name": "Macon County Commission District 12",
    "officeIndices": [
     453
    ]
   },
+  "ocd-division/country:us/state:tn/place:williston": {
+   "name": "Williston city"
+  },
+  "ocd-division/country:us/state:tn/county:sevier/precinct:jc": {
+   "name": "Sevier County Precinct Jc"
+  },
   "ocd-division/country:us/state:tn/county:macon/council_district:13": {
    "name": "Macon County Commission District 13",
    "officeIndices": [
     454
    ]
-  },
-  "ocd-division/country:us/state:tn/county:sevier/precinct:jc": {
-   "name": "Sevier County Precinct Jc"
   },
   "ocd-division/country:us/state:tn/county:macon/council_district:10": {
    "name": "Macon County Commission District 10",
@@ -2613,17 +2613,17 @@
     456
    ]
   },
+  "ocd-division/country:us/state:tn/county:rutherford/precinct:182": {
+   "name": "Rutherford County Precinct 182"
+  },
+  "ocd-division/country:us/state:tn/county:perry/precinct:101": {
+   "name": "Perry County Precinct 101"
+  },
   "ocd-division/country:us/state:tn/county:macon/council_district:20": {
    "name": "Macon County Commission District 20",
    "officeIndices": [
     457
    ]
-  },
-  "ocd-division/country:us/state:tn/county:perry/precinct:101": {
-   "name": "Perry County Precinct 101"
-  },
-  "ocd-division/country:us/state:tn/county:rutherford/precinct:182": {
-   "name": "Rutherford County Precinct 182"
   },
   "ocd-division/country:us/state:tn/county:rutherford/precinct:181": {
    "name": "Rutherford County Precinct 181"
@@ -2671,11 +2671,11 @@
   "ocd-division/country:us/state:tn/county:cheatham/precinct:4-1": {
    "name": "Cheatham County Precinct 4-1"
   },
-  "ocd-division/country:us/state:tn/county:cheatham/precinct:4-3": {
-   "name": "Cheatham County Precinct 4-3"
-  },
   "ocd-division/country:us/state:tn/county:sevier/precinct:hb": {
    "name": "Sevier County Precinct Hb"
+  },
+  "ocd-division/country:us/state:tn/county:cheatham/precinct:4-3": {
+   "name": "Cheatham County Precinct 4-3"
   },
   "ocd-division/country:us/state:tn/county:sevier/school_district:sevier_county": {
    "name": "sevier county"
@@ -2683,14 +2683,17 @@
   "ocd-division/country:us/state:tn/place:orlinda": {
    "name": "Orlinda city"
   },
+  "ocd-division/country:us/state:tn/county:blount/precinct:1": {
+   "name": "Blount County Precinct 1"
+  },
   "ocd-division/country:us/state:tn/sldl:99": {
    "name": "Tennessee State House district 99",
    "officeIndices": [
     10
    ]
   },
-  "ocd-division/country:us/state:tn/county:blount/precinct:1": {
-   "name": "Blount County Precinct 1"
+  "ocd-division/country:us/state:tn/county:blount/precinct:2": {
+   "name": "Blount County Precinct 2"
   },
   "ocd-division/country:us/state:tn/sldl:98": {
    "name": "Tennessee State House district 98",
@@ -2698,8 +2701,8 @@
     11
    ]
   },
-  "ocd-division/country:us/state:tn/county:blount/precinct:2": {
-   "name": "Blount County Precinct 2"
+  "ocd-division/country:us/state:tn/county:blount/precinct:3": {
+   "name": "Blount County Precinct 3"
   },
   "ocd-division/country:us/state:tn/sldl:97": {
    "name": "Tennessee State House district 97",
@@ -2707,8 +2710,8 @@
     12
    ]
   },
-  "ocd-division/country:us/state:tn/county:blount/precinct:3": {
-   "name": "Blount County Precinct 3"
+  "ocd-division/country:us/state:tn/county:blount/precinct:4": {
+   "name": "Blount County Precinct 4"
   },
   "ocd-division/country:us/state:tn/sldl:96": {
    "name": "Tennessee State House district 96",
@@ -2716,8 +2719,8 @@
     13
    ]
   },
-  "ocd-division/country:us/state:tn/county:blount/precinct:4": {
-   "name": "Blount County Precinct 4"
+  "ocd-division/country:us/state:tn/county:blount/precinct:5": {
+   "name": "Blount County Precinct 5"
   },
   "ocd-division/country:us/state:tn/sldl:95": {
    "name": "Tennessee State House district 95",
@@ -2725,17 +2728,14 @@
     14
    ]
   },
-  "ocd-division/country:us/state:tn/county:blount/precinct:5": {
-   "name": "Blount County Precinct 5"
+  "ocd-division/country:us/state:tn/county:blount/precinct:6": {
+   "name": "Blount County Precinct 6"
   },
   "ocd-division/country:us/state:tn/sldl:94": {
    "name": "Tennessee State House district 94",
    "officeIndices": [
     15
    ]
-  },
-  "ocd-division/country:us/state:tn/county:blount/precinct:6": {
-   "name": "Blount County Precinct 6"
   },
   "ocd-division/country:us/state:tn/place:lenoir_city": {
    "name": "Lenoir City city"
@@ -2761,11 +2761,11 @@
   "ocd-division/country:us/state:tn/county:shelby/precinct:9407": {
    "name": "Shelby County Precinct 9407"
   },
-  "ocd-division/country:us/state:tn/place:lakeland": {
-   "name": "Lakeland city"
-  },
   "ocd-division/country:us/state:tn/county:shelby/precinct:9408": {
    "name": "Shelby County Precinct 9408"
+  },
+  "ocd-division/country:us/state:tn/place:lakeland": {
+   "name": "Lakeland city"
   },
   "ocd-division/country:us/state:tn/sldl:92": {
    "name": "Tennessee State House district 92",
@@ -2797,14 +2797,14 @@
     20
    ]
   },
+  "ocd-division/country:us/state:tn/place:tullahoma": {
+   "name": "Tullahoma city"
+  },
   "ocd-division/country:us/state:tn/sldl:87": {
    "name": "Tennessee State House district 87",
    "officeIndices": [
     21
    ]
-  },
-  "ocd-division/country:us/state:tn/place:tullahoma": {
-   "name": "Tullahoma city"
   },
   "ocd-division/country:us/state:tn/sldl:89": {
    "name": "Tennessee State House district 89",
@@ -2812,14 +2812,14 @@
     22
    ]
   },
+  "ocd-division/country:us/state:tn/county:bradley/precinct:202": {
+   "name": "Bradley County Precinct 202"
+  },
   "ocd-division/country:us/state:tn/sldl:84": {
    "name": "Tennessee State House district 84",
    "officeIndices": [
     23
    ]
-  },
-  "ocd-division/country:us/state:tn/county:bradley/precinct:202": {
-   "name": "Bradley County Precinct 202"
   },
   "ocd-division/country:us/state:tn/sldl:83": {
    "name": "Tennessee State House district 83",
@@ -2827,14 +2827,17 @@
     24
    ]
   },
+  "ocd-division/country:us/state:tn/county:cumberland/precinct:rin": {
+   "name": "Cumberland County Precinct Rin"
+  },
   "ocd-division/country:us/state:tn/sldl:86": {
    "name": "Tennessee State House district 86",
    "officeIndices": [
     25
    ]
   },
-  "ocd-division/country:us/state:tn/county:cumberland/precinct:rin": {
-   "name": "Cumberland County Precinct Rin"
+  "ocd-division/country:us/state:tn/county:bradley/precinct:201": {
+   "name": "Bradley County Precinct 201"
   },
   "ocd-division/country:us/state:tn/sldl:85": {
    "name": "Tennessee State House district 85",
@@ -2842,11 +2845,11 @@
     26
    ]
   },
-  "ocd-division/country:us/state:tn/county:bradley/precinct:201": {
-   "name": "Bradley County Precinct 201"
-  },
   "ocd-division/country:us/state:tn/place:minor_hill": {
    "name": "Minor Hill city"
+  },
+  "ocd-division/country:us/state:tn/county:blount/precinct:9": {
+   "name": "Blount County Precinct 9"
   },
   "ocd-division/country:us/state:tn/sldl:80": {
    "name": "Tennessee State House district 80",
@@ -2854,8 +2857,11 @@
     27
    ]
   },
-  "ocd-division/country:us/state:tn/county:blount/precinct:9": {
-   "name": "Blount County Precinct 9"
+  "ocd-division/country:us/state:tn/county:sumner/precinct:801": {
+   "name": "Sumner County Precinct 801"
+  },
+  "ocd-division/country:us/state:tn/county:blount/precinct:8": {
+   "name": "Blount County Precinct 8"
   },
   "ocd-division/country:us/state:tn/sldl:81": {
    "name": "Tennessee State House district 81",
@@ -2863,23 +2869,17 @@
     28
    ]
   },
-  "ocd-division/country:us/state:tn/county:blount/precinct:8": {
-   "name": "Blount County Precinct 8"
+  "ocd-division/country:us/state:tn/county:sumner/precinct:802": {
+   "name": "Sumner County Precinct 802"
   },
-  "ocd-division/country:us/state:tn/county:sumner/precinct:801": {
-   "name": "Sumner County Precinct 801"
+  "ocd-division/country:us/state:tn/county:blount/precinct:7": {
+   "name": "Blount County Precinct 7"
   },
   "ocd-division/country:us/state:tn/sldl:82": {
    "name": "Tennessee State House district 82",
    "officeIndices": [
     29
    ]
-  },
-  "ocd-division/country:us/state:tn/county:blount/precinct:7": {
-   "name": "Blount County Precinct 7"
-  },
-  "ocd-division/country:us/state:tn/county:sumner/precinct:802": {
-   "name": "Sumner County Precinct 802"
   },
   "ocd-division/country:us/state:tn/place:alexandria": {
    "name": "Alexandria town"
@@ -2934,11 +2934,11 @@
     477
    ]
   },
-  "ocd-division/country:us/state:tn/place:viola": {
-   "name": "Viola town"
-  },
   "ocd-division/country:us/state:tn/county:weakley/precinct:2a": {
    "name": "Weakley County Precinct 2A"
+  },
+  "ocd-division/country:us/state:tn/place:viola": {
+   "name": "Viola town"
   },
   "ocd-division/country:us/state:tn/place:jacksboro": {
    "name": "Jacksboro town"
@@ -2949,11 +2949,11 @@
   "ocd-division/country:us/state:tn/county:shelby/precinct:7303": {
    "name": "Shelby County Precinct 7303"
   },
-  "ocd-division/country:us/state:tn/place:portland": {
-   "name": "Portland city"
-  },
   "ocd-division/country:us/state:tn/county:shelby/precinct:7301": {
    "name": "Shelby County Precinct 7301"
+  },
+  "ocd-division/country:us/state:tn/place:portland": {
+   "name": "Portland city"
   },
   "ocd-division/country:us/state:tn/sldl:49": {
    "name": "Tennessee State House district 49",
@@ -2991,14 +2991,14 @@
     35
    ]
   },
+  "ocd-division/country:us/state:tn/county:weakley/precinct:3a": {
+   "name": "Weakley County Precinct 3A"
+  },
   "ocd-division/country:us/state:tn/sldl:45": {
    "name": "Tennessee State House district 45",
    "officeIndices": [
     36
    ]
-  },
-  "ocd-division/country:us/state:tn/county:weakley/precinct:3a": {
-   "name": "Weakley County Precinct 3A"
   },
   "ocd-division/country:us/state:tn/sldl:46": {
    "name": "Tennessee State House district 46",
@@ -3039,14 +3039,14 @@
   "ocd-division/country:us/state:tn/county:knox/precinct:10s": {
    "name": "Knox County Precinct 10S"
   },
+  "ocd-division/country:us/state:tn/place:gibson": {
+   "name": "Gibson town"
+  },
   "ocd-division/country:us/state:tn/sldl:50": {
    "name": "Tennessee State House district 50",
    "officeIndices": [
     42
    ]
-  },
-  "ocd-division/country:us/state:tn/place:gibson": {
-   "name": "Gibson town"
   },
   "ocd-division/country:us/state:tn/sldl:51": {
    "name": "Tennessee State House district 51",
@@ -3054,23 +3054,23 @@
     43
    ]
   },
+  "ocd-division/country:us/state:tn/county:knox/precinct:10w": {
+   "name": "Knox County Precinct 10W"
+  },
   "ocd-division/country:us/state:tn/sldl:52": {
    "name": "Tennessee State House district 52",
    "officeIndices": [
     44
    ]
   },
-  "ocd-division/country:us/state:tn/county:knox/precinct:10w": {
-   "name": "Knox County Precinct 10W"
+  "ocd-division/country:us/state:tn/county:wilson/precinct:13-1": {
+   "name": "Wilson County Precinct 13-1"
   },
   "ocd-division/country:us/state:tn/sldl:53": {
    "name": "Tennessee State House district 53",
    "officeIndices": [
     45
    ]
-  },
-  "ocd-division/country:us/state:tn/county:wilson/precinct:13-1": {
-   "name": "Wilson County Precinct 13-1"
   },
   "ocd-division/country:us/state:tn/sldl:54": {
    "name": "Tennessee State House district 54",
@@ -3090,17 +3090,20 @@
     48
    ]
   },
+  "ocd-division/country:us/state:tn/county:weakley/precinct:4a": {
+   "name": "Weakley County Precinct 4A"
+  },
+  "ocd-division/country:us/state:tn/county:rutherford/school_district:rutherford_county": {
+   "name": "rutherford county"
+  },
   "ocd-division/country:us/state:tn/sldl:57": {
    "name": "Tennessee State House district 57",
    "officeIndices": [
     49
    ]
   },
-  "ocd-division/country:us/state:tn/county:rutherford/school_district:rutherford_county": {
-   "name": "rutherford county"
-  },
-  "ocd-division/country:us/state:tn/county:weakley/precinct:4a": {
-   "name": "Weakley County Precinct 4A"
+  "ocd-division/country:us/state:tn/county:sumner/precinct:901": {
+   "name": "Sumner County Precinct 901"
   },
   "ocd-division/country:us/state:tn/sldl:60": {
    "name": "Tennessee State House district 60",
@@ -3108,17 +3111,14 @@
     50
    ]
   },
-  "ocd-division/country:us/state:tn/county:sumner/precinct:901": {
-   "name": "Sumner County Precinct 901"
-  },
   "ocd-division/country:us/state:tn/county:sumner/precinct:902": {
    "name": "Sumner County Precinct 902"
   },
-  "ocd-division/country:us/state:tn/county:carroll/school_district:west_carroll": {
-   "name": "west carroll"
-  },
   "ocd-division/country:us/state:tn/county:campbell/precinct:valv": {
    "name": "Campbell County Precinct Valv"
+  },
+  "ocd-division/country:us/state:tn/county:carroll/school_district:west_carroll": {
+   "name": "west carroll"
   },
   "ocd-division/country:us/state:tn/county:hamblen/precinct:901": {
    "name": "Hamblen County Precinct 901"
@@ -4033,9 +4033,6 @@
   "ocd-division/country:us/state:tn/county:van_buren/precinct:cgc": {
    "name": "Van Buren County Precinct Cgc"
   },
-  "ocd-division/country:us/state:tn/county:pickett/precinct:mvl": {
-   "name": "Pickett County Precinct Mvl"
-  },
   "ocd-division/country:us/state:tn/county:washington": {
    "name": "Washington County",
    "officeIndices": [
@@ -4048,6 +4045,9 @@
     534,
     535
    ]
+  },
+  "ocd-division/country:us/state:tn/county:pickett/precinct:mvl": {
+   "name": "Pickett County Precinct Mvl"
   },
   "ocd-division/country:us/state:tn/place:medon": {
    "name": "Medon city"
@@ -4424,14 +4424,14 @@
     583
    ]
   },
-  "ocd-division/country:us/state:tn/county:crockett/precinct:1": {
-   "name": "Crockett County Precinct 1"
-  },
   "ocd-division/country:us/state:tn/county:tipton/council_district:4": {
    "name": "Tipton County Commission District 4",
    "officeIndices": [
     584
    ]
+  },
+  "ocd-division/country:us/state:tn/county:crockett/precinct:1": {
+   "name": "Crockett County Precinct 1"
   },
   "ocd-division/country:us/state:tn/county:tipton/council_district:3": {
    "name": "Tipton County Commission District 3",
@@ -5525,14 +5525,14 @@
     712
    ]
   },
-  "ocd-division/country:us/state:tn/county:davidson/precinct:3103": {
-   "name": "Davidson County Precinct 3103"
-  },
   "ocd-division/country:us/state:tn/county:sumner/council_district:11": {
    "name": "Sumner County Commission District 11",
    "officeIndices": [
     713
    ]
+  },
+  "ocd-division/country:us/state:tn/county:davidson/precinct:3103": {
+   "name": "Davidson County Precinct 3103"
   },
   "ocd-division/country:us/state:tn/county:sumner/council_district:12": {
    "name": "Sumner County Commission District 12",
@@ -6127,11 +6127,11 @@
   "ocd-division/country:us/state:tn/county:sullivan/precinct:8b": {
    "name": "Sullivan County Precinct 8B"
   },
-  "ocd-division/country:us/state:tn/county:hawkins/precinct:8": {
-   "name": "Hawkins County Precinct 8"
-  },
   "ocd-division/country:us/state:tn/county:sullivan/precinct:8a": {
    "name": "Sullivan County Precinct 8A"
+  },
+  "ocd-division/country:us/state:tn/county:hawkins/precinct:8": {
+   "name": "Hawkins County Precinct 8"
   },
   "ocd-division/country:us/state:tn/county:hawkins/precinct:7": {
    "name": "Hawkins County Precinct 7"
@@ -6148,23 +6148,23 @@
   "ocd-division/country:us/state:tn/county:sequatchie/precinct:ch5": {
    "name": "Sequatchie County Precinct Ch5"
   },
-  "ocd-division/country:us/state:tn/county:shelby/precinct:9201": {
-   "name": "Shelby County Precinct 9201"
-  },
   "ocd-division/country:us/state:tn/county:stewart/council_district:2": {
    "name": "Stewart County Commission District 2",
    "officeIndices": [
     778
    ]
   },
+  "ocd-division/country:us/state:tn/county:shelby/precinct:9201": {
+   "name": "Shelby County Precinct 9201"
+  },
+  "ocd-division/country:us/state:tn/county:williamson/precinct:33": {
+   "name": "Williamson County Precinct 33"
+  },
   "ocd-division/country:us/state:tn/county:stewart/council_district:1": {
    "name": "Stewart County Commission District 1",
    "officeIndices": [
     779
    ]
-  },
-  "ocd-division/country:us/state:tn/county:williamson/precinct:33": {
-   "name": "Williamson County Precinct 33"
   },
   "ocd-division/country:us/state:tn/county:sullivan/school_district:bristol": {
    "name": "bristol"
@@ -6184,89 +6184,89 @@
   "ocd-division/country:us/state:tn/county:washington/precinct:9": {
    "name": "Washington County Precinct 9"
   },
+  "ocd-division/country:us/state:tn/county:washington/precinct:8": {
+   "name": "Washington County Precinct 8"
+  },
   "ocd-division/country:us/state:tn/county:stewart/council_district:5": {
    "name": "Stewart County Commission District 5",
    "officeIndices": [
     780
    ]
   },
-  "ocd-division/country:us/state:tn/county:washington/precinct:8": {
-   "name": "Washington County Precinct 8"
-  },
-  "ocd-division/country:us/state:tn/county:stewart/council_district:6": {
-   "name": "Stewart County Commission District 6",
-   "officeIndices": [
-    782
-   ]
+  "ocd-division/country:us/state:tn/county:washington/precinct:7": {
+   "name": "Washington County Precinct 7"
   },
   "ocd-division/country:us/state:tn/county:warren/council_district:10": {
    "name": "Warren County Commission District 10",
    "officeIndices": [
+    782
+   ]
+  },
+  "ocd-division/country:us/state:tn/county:stewart/council_district:6": {
+   "name": "Stewart County Commission District 6",
+   "officeIndices": [
     781
    ]
-  },
-  "ocd-division/country:us/state:tn/county:washington/precinct:7": {
-   "name": "Washington County Precinct 7"
-  },
-  "ocd-division/country:us/state:tn/county:stewart/council_district:3": {
-   "name": "Stewart County Commission District 3",
-   "officeIndices": [
-    784
-   ]
-  },
-  "ocd-division/country:us/state:tn/county:warren/council_district:11": {
-   "name": "Warren County Commission District 11",
-   "officeIndices": [
-    783
-   ]
-  },
-  "ocd-division/country:us/state:tn/county:washington/precinct:6": {
-   "name": "Washington County Precinct 6"
-  },
-  "ocd-division/country:us/state:tn/county:williamson/precinct:31": {
-   "name": "Williamson County Precinct 31"
   },
   "ocd-division/country:us/state:tn/place:bulls_gap": {
    "name": "Bulls Gap town"
   },
-  "ocd-division/country:us/state:tn/county:shelby/precinct:4103": {
-   "name": "Shelby County Precinct 4103"
+  "ocd-division/country:us/state:tn/county:williamson/precinct:31": {
+   "name": "Williamson County Precinct 31"
   },
-  "ocd-division/country:us/state:tn/county:stewart/council_district:4": {
-   "name": "Stewart County Commission District 4",
+  "ocd-division/country:us/state:tn/county:washington/precinct:6": {
+   "name": "Washington County Precinct 6"
+  },
+  "ocd-division/country:us/state:tn/county:warren/council_district:11": {
+   "name": "Warren County Commission District 11",
    "officeIndices": [
-    786
+    784
    ]
   },
-  "ocd-division/country:us/state:tn/county:warren/council_district:12": {
-   "name": "Warren County Commission District 12",
+  "ocd-division/country:us/state:tn/county:stewart/council_district:3": {
+   "name": "Stewart County Commission District 3",
    "officeIndices": [
-    785
+    783
    ]
-  },
-  "ocd-division/country:us/state:tn/county:washington/precinct:5": {
-   "name": "Washington County Precinct 5"
   },
   "ocd-division/country:us/state:tn/county:williamson/precinct:32": {
    "name": "Williamson County Precinct 32"
   },
+  "ocd-division/country:us/state:tn/county:washington/precinct:5": {
+   "name": "Washington County Precinct 5"
+  },
+  "ocd-division/country:us/state:tn/county:warren/council_district:12": {
+   "name": "Warren County Commission District 12",
+   "officeIndices": [
+    786
+   ]
+  },
+  "ocd-division/country:us/state:tn/county:stewart/council_district:4": {
+   "name": "Stewart County Commission District 4",
+   "officeIndices": [
+    785
+   ]
+  },
+  "ocd-division/country:us/state:tn/county:shelby/precinct:4103": {
+   "name": "Shelby County Precinct 4103"
+  },
   "ocd-division/country:us/state:tn/county:washington/precinct:4": {
    "name": "Washington County Precinct 4"
+  },
+  "ocd-division/country:us/state:tn/county:washington/precinct:3": {
+   "name": "Washington County Precinct 3"
   },
   "ocd-division/country:us/state:tn/county:shelby/precinct:4101": {
    "name": "Shelby County Precinct 4101"
   },
-  "ocd-division/country:us/state:tn/county:washington/precinct:3": {
-   "name": "Washington County Precinct 3"
+  "ocd-division/country:us/state:tn/county:washington/precinct:2": {
+   "name": "Washington County Precinct 2"
   },
   "ocd-division/country:us/state:tn/county:stewart/council_district:7": {
    "name": "Stewart County Commission District 7",
    "officeIndices": [
     787
    ]
-  },
-  "ocd-division/country:us/state:tn/county:washington/precinct:2": {
-   "name": "Washington County Precinct 2"
   },
   "ocd-division/country:us/state:tn/county:washington/precinct:1": {
    "name": "Washington County Precinct 1"
@@ -6289,11 +6289,11 @@
   "ocd-division/country:us/state:tn/county:macon/precinct:10": {
    "name": "Macon County Precinct 10"
   },
-  "ocd-division/country:us/state:tn/county:jackson/precinct:102": {
-   "name": "Jackson County Precinct 102"
-  },
   "ocd-division/country:us/state:tn/county:maury/precinct:bcrk": {
    "name": "Maury County Precinct Bcrk"
+  },
+  "ocd-division/country:us/state:tn/county:jackson/precinct:102": {
+   "name": "Jackson County Precinct 102"
   },
   "ocd-division/country:us/state:tn/county:jackson/precinct:101": {
    "name": "Jackson County Precinct 101"
@@ -6316,11 +6316,11 @@
   "ocd-division/country:us/state:tn/place:maryville": {
    "name": "Maryville city"
   },
-  "ocd-division/country:us/state:tn/county:shelby/precinct:8600": {
-   "name": "Shelby County Precinct 8600"
-  },
   "ocd-division/country:us/state:tn/county:williamson/precinct:51": {
    "name": "Williamson County Precinct 51"
+  },
+  "ocd-division/country:us/state:tn/county:shelby/precinct:8600": {
+   "name": "Shelby County Precinct 8600"
   },
   "ocd-division/country:us/state:tn/county:williamson/precinct:52": {
    "name": "Williamson County Precinct 52"
@@ -6359,11 +6359,11 @@
   "ocd-division/country:us/state:tn/county:montgomery/precinct:7": {
    "name": "Montgomery County Precinct 7"
   },
-  "ocd-division/country:us/state:tn/county:montgomery/precinct:9": {
-   "name": "Montgomery County Precinct 9"
-  },
   "ocd-division/country:us/state:tn/county:williamson/precinct:61": {
    "name": "Williamson County Precinct 61"
+  },
+  "ocd-division/country:us/state:tn/county:montgomery/precinct:9": {
+   "name": "Montgomery County Precinct 9"
   },
   "ocd-division/country:us/state:tn/county:williamson/precinct:62": {
    "name": "Williamson County Precinct 62"
@@ -8049,6 +8049,9 @@
     1014
    ]
   },
+  "ocd-division/country:us/state:tn/place:bartlett": {
+   "name": "Bartlett city"
+  },
   "ocd-division/country:us/state:tn/county:hamilton/precinct:104": {
    "name": "Hamilton County Precinct 104"
   },
@@ -8057,9 +8060,6 @@
    "officeIndices": [
     1015
    ]
-  },
-  "ocd-division/country:us/state:tn/place:bartlett": {
-   "name": "Bartlett city"
   },
   "ocd-division/country:us/state:tn/county:sullivan/precinct:10a": {
    "name": "Sullivan County Precinct 10A"
@@ -9024,14 +9024,14 @@
     1124
    ]
   },
-  "ocd-division/country:us/state:tn/county:hawkins/precinct:12": {
-   "name": "Hawkins County Precinct 12"
-  },
   "ocd-division/country:us/state:tn/county:lawrence/council_district:13": {
    "name": "Lawrence County Commission District 13",
    "officeIndices": [
     1125
    ]
+  },
+  "ocd-division/country:us/state:tn/county:hawkins/precinct:12": {
+   "name": "Hawkins County Precinct 12"
   },
   "ocd-division/country:us/state:tn/county:davidson/precinct:2101": {
    "name": "Davidson County Precinct 2101"
@@ -10391,14 +10391,14 @@
   "ocd-division/country:us/state:tn/place:charlotte": {
    "name": "Charlotte town"
   },
+  "ocd-division/country:us/state:tn/place:fayetteville": {
+   "name": "Fayetteville city"
+  },
   "ocd-division/country:us/state:tn/sldl:2": {
    "name": "Tennessee State House district 2",
    "officeIndices": [
     125
    ]
-  },
-  "ocd-division/country:us/state:tn/place:fayetteville": {
-   "name": "Fayetteville city"
   },
   "ocd-division/country:us/state:tn/sldl:1": {
    "name": "Tennessee State House district 1",
@@ -10445,11 +10445,11 @@
   "ocd-division/country:us/state:tn/county:greene/precinct:12ha": {
    "name": "Greene County Precinct 12Ha"
   },
-  "ocd-division/country:us/state:tn/place:petersburg": {
-   "name": "Petersburg town"
-  },
   "ocd-division/country:us/state:tn/place:la_vergne": {
    "name": "La Vergne city"
+  },
+  "ocd-division/country:us/state:tn/place:petersburg": {
+   "name": "Petersburg town"
   },
   "ocd-division/country:us/state:tn/county:davidson/precinct:2002": {
    "name": "Davidson County Precinct 2002"
@@ -10905,14 +10905,14 @@
     1319
    ]
   },
-  "ocd-division/country:us/state:tn/county:henderson/precinct:1": {
-   "name": "Henderson County Precinct 1"
-  },
   "ocd-division/country:us/state:tn/county:montgomery/council_district:14": {
    "name": "Montgomery County Commission District 14",
    "officeIndices": [
     1320
    ]
+  },
+  "ocd-division/country:us/state:tn/county:henderson/precinct:1": {
+   "name": "Henderson County Precinct 1"
   },
   "ocd-division/country:us/state:tn/place:thompson~s_station": {
    "name": "Thompson's Station town"
@@ -13089,9 +13089,6 @@
   "ocd-division/country:us/state:tn/county:shelby/precinct:6801": {
    "name": "Shelby County Precinct 6801"
   },
-  "ocd-division/country:us/state:tn/place:savannah": {
-   "name": "Savannah city"
-  },
   "ocd-division/country:us/state:tn/county:benton": {
    "name": "Benton County",
    "officeIndices": [
@@ -13104,6 +13101,9 @@
     1571,
     1572
    ]
+  },
+  "ocd-division/country:us/state:tn/place:savannah": {
+   "name": "Savannah city"
   },
   "ocd-division/country:us/state:tn/county:fayette/precinct:13": {
    "name": "Fayette County Precinct 13"
@@ -13199,11 +13199,11 @@
   "ocd-division/country:us/state:tn/county:blount/precinct:14": {
    "name": "Blount County Precinct 14"
   },
-  "ocd-division/country:us/state:tn/county:blount/precinct:11": {
-   "name": "Blount County Precinct 11"
-  },
   "ocd-division/country:us/state:tn/county:roane/precinct:oh": {
    "name": "Roane County Precinct Oh"
+  },
+  "ocd-division/country:us/state:tn/county:blount/precinct:11": {
+   "name": "Blount County Precinct 11"
   },
   "ocd-division/country:us/state:tn/county:bedford/precinct:505": {
    "name": "Bedford County Precinct 505"
@@ -13367,9 +13367,6 @@
   "ocd-division/country:us/state:tn/county:knox/precinct:81": {
    "name": "Knox County Precinct 81"
   },
-  "ocd-division/country:us/state:tn/county:knox/precinct:82": {
-   "name": "Knox County Precinct 82"
-  },
   "ocd-division/country:us/state:tn/county:knox": {
    "name": "Knox County",
    "officeIndices": [
@@ -13384,6 +13381,9 @@
     1589,
     1590
    ]
+  },
+  "ocd-division/country:us/state:tn/county:knox/precinct:82": {
+   "name": "Knox County Precinct 82"
   },
   "ocd-division/country:us/state:tn/county:knox/precinct:80": {
    "name": "Knox County Precinct 80"
@@ -13890,11 +13890,11 @@
   "ocd-division/country:us/state:tn/county:greene/precinct:8mp": {
    "name": "Greene County Precinct 8Mp"
   },
-  "ocd-division/country:us/state:tn/county:knox/precinct:56": {
-   "name": "Knox County Precinct 56"
-  },
   "ocd-division/country:us/state:tn/place:camden": {
    "name": "Camden city"
+  },
+  "ocd-division/country:us/state:tn/county:knox/precinct:56": {
+   "name": "Knox County Precinct 56"
   },
   "ocd-division/country:us/state:tn/county:knox/precinct:55": {
    "name": "Knox County Precinct 55"
@@ -16448,67 +16448,67 @@
    ]
   },
   {
-   "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:tn/county:rhea",
+   "name": "County Commission, District 3",
+   "divisionId": "ocd-division/country:us/state:tn/county:johnson/council_district:3",
    "officialIndices": [
-    272
-   ]
-  },
-  {
-   "name": "Trustee",
-   "divisionId": "ocd-division/country:us/state:tn/county:rhea",
-   "officialIndices": [
-    273
-   ]
-  },
-  {
-   "name": "County Clerk",
-   "divisionId": "ocd-division/country:us/state:tn/county:rhea",
-   "officialIndices": [
+    272,
+    273,
     274
    ]
   },
   {
-   "name": "County Executive",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:tn/county:rhea",
    "officialIndices": [
     275
    ]
   },
   {
-   "name": "Register of Deeds",
+   "name": "Trustee",
    "divisionId": "ocd-division/country:us/state:tn/county:rhea",
    "officialIndices": [
     276
    ]
   },
   {
-   "name": "Circuit Court Clerk",
+   "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:tn/county:rhea",
    "officialIndices": [
     277
    ]
   },
   {
-   "name": "Hwy Chief Admin Off",
+   "name": "County Executive",
    "divisionId": "ocd-division/country:us/state:tn/county:rhea",
    "officialIndices": [
     278
    ]
   },
   {
-   "name": "Assessor of Property",
+   "name": "Register of Deeds",
    "divisionId": "ocd-division/country:us/state:tn/county:rhea",
    "officialIndices": [
     279
    ]
   },
   {
-   "name": "County Commission, District 3",
-   "divisionId": "ocd-division/country:us/state:tn/county:johnson/council_district:3",
+   "name": "Circuit Court Clerk",
+   "divisionId": "ocd-division/country:us/state:tn/county:rhea",
    "officialIndices": [
-    280,
-    281,
+    280
+   ]
+  },
+  {
+   "name": "Hwy Chief Admin Off",
+   "divisionId": "ocd-division/country:us/state:tn/county:rhea",
+   "officialIndices": [
+    281
+   ]
+  },
+  {
+   "name": "Assessor of Property",
+   "divisionId": "ocd-division/country:us/state:tn/county:rhea",
+   "officialIndices": [
     282
    ]
   },
@@ -16779,35 +16779,35 @@
    ]
   },
   {
-   "name": "County Commission, District 5",
-   "divisionId": "ocd-division/country:us/state:tn/county:cheatham/council_district:5",
-   "officialIndices": [
-    327,
-    328
-   ]
-  },
-  {
    "name": "County Commission, District 7",
    "divisionId": "ocd-division/country:us/state:tn/county:hawkins/council_district:7",
    "officialIndices": [
-    329,
-    330,
-    331
+    327,
+    328,
+    329
    ]
   },
   {
-   "name": "County Commission, District 4",
-   "divisionId": "ocd-division/country:us/state:tn/county:cheatham/council_district:4",
+   "name": "County Commission, District 5",
+   "divisionId": "ocd-division/country:us/state:tn/county:cheatham/council_district:5",
    "officialIndices": [
-    332,
-    333
+    330,
+    331
    ]
   },
   {
    "name": "County Commission, District 6",
    "divisionId": "ocd-division/country:us/state:tn/county:hawkins/council_district:6",
    "officialIndices": [
-    334,
+    332,
+    333,
+    334
+   ]
+  },
+  {
+   "name": "County Commission, District 4",
+   "divisionId": "ocd-division/country:us/state:tn/county:cheatham/council_district:4",
+   "officialIndices": [
     335,
     336
    ]
@@ -16822,18 +16822,18 @@
    ]
   },
   {
-   "name": "County Commission, District 6",
-   "divisionId": "ocd-division/country:us/state:tn/county:cheatham/council_district:6",
-   "officialIndices": [
-    340,
-    341
-   ]
-  },
-  {
    "name": "County Commission, District 4",
    "divisionId": "ocd-division/country:us/state:tn/county:hawkins/council_district:4",
    "officialIndices": [
-    342,
+    340,
+    341,
+    342
+   ]
+  },
+  {
+   "name": "County Commission, District 6",
+   "divisionId": "ocd-division/country:us/state:tn/county:cheatham/council_district:6",
+   "officialIndices": [
     343,
     344
    ]
@@ -20778,47 +20778,47 @@
    ]
   },
   {
-   "name": "County Commission, District 10",
-   "divisionId": "ocd-division/country:us/state:tn/county:warren/council_district:10",
-   "officialIndices": [
-    1242
-   ]
-  },
-  {
    "name": "County Commission, District 6",
    "divisionId": "ocd-division/country:us/state:tn/county:stewart/council_district:6",
    "officialIndices": [
-    1243,
-    1244
+    1242,
+    1243
    ]
   },
   {
-   "name": "County Commission, District 11",
-   "divisionId": "ocd-division/country:us/state:tn/county:warren/council_district:11",
+   "name": "County Commission, District 10",
+   "divisionId": "ocd-division/country:us/state:tn/county:warren/council_district:10",
    "officialIndices": [
-    1245,
-    1246
+    1244
    ]
   },
   {
    "name": "County Commission, District 3",
    "divisionId": "ocd-division/country:us/state:tn/county:stewart/council_district:3",
    "officialIndices": [
+    1245,
+    1246
+   ]
+  },
+  {
+   "name": "County Commission, District 11",
+   "divisionId": "ocd-division/country:us/state:tn/county:warren/council_district:11",
+   "officialIndices": [
     1247,
     1248
    ]
   },
   {
-   "name": "County Commission, District 12",
-   "divisionId": "ocd-division/country:us/state:tn/county:warren/council_district:12",
+   "name": "County Commission, District 4",
+   "divisionId": "ocd-division/country:us/state:tn/county:stewart/council_district:4",
    "officialIndices": [
     1249,
     1250
    ]
   },
   {
-   "name": "County Commission, District 4",
-   "divisionId": "ocd-division/country:us/state:tn/county:stewart/council_district:4",
+   "name": "County Commission, District 12",
+   "divisionId": "ocd-division/country:us/state:tn/county:warren/council_district:12",
    "officialIndices": [
     1251,
     1252
@@ -27725,12 +27725,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "tnrepparkinson"
-    },
-    {
      "type": "Facebook",
      "id": "TNRepParkinson"
+    },
+    {
+     "type": "Twitter",
+     "id": "tnrepparkinson"
     }
    ]
   },
@@ -27856,11 +27856,11 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "RepSpivey"
     },
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "RepSpivey"
     }
    ]
@@ -28189,16 +28189,16 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "craigfitzhugh"
+     "type": "YouTube",
+     "id": "repcraigfitzhugh"
     },
     {
      "type": "Twitter",
      "id": "craigfitzhugh"
     },
     {
-     "type": "YouTube",
-     "id": "repcraigfitzhugh"
+     "type": "Facebook",
+     "id": "craigfitzhugh"
     }
    ]
   },
@@ -28374,12 +28374,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "LtColRogers"
-    },
-    {
      "type": "Facebook",
      "id": "votecourtneyrogers"
+    },
+    {
+     "type": "Twitter",
+     "id": "LtColRogers"
     }
    ]
   },
@@ -28467,12 +28467,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "william.lamberth"
-    },
-    {
      "type": "Twitter",
      "id": "williamlamberth"
+    },
+    {
+     "type": "Facebook",
+     "id": "william.lamberth"
     }
    ]
   },
@@ -28626,12 +28626,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "JasonLPowell"
-    },
-    {
      "type": "Facebook",
      "id": "powellfortennessee"
+    },
+    {
+     "type": "Twitter",
+     "id": "JasonLPowell"
     }
    ]
   },
@@ -28940,12 +28940,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "RepSheilaButt"
-    },
-    {
      "type": "Facebook",
      "id": "118552671488530"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepSheilaButt"
     }
    ]
   },
@@ -28972,12 +28972,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "csargenttn"
-    },
-    {
      "type": "Facebook",
      "id": "369277629798386"
+    },
+    {
+     "type": "Twitter",
+     "id": "csargenttn"
     }
    ]
   },
@@ -29898,12 +29898,12 @@
      "id": "RickWomick"
     },
     {
-     "type": "Facebook",
-     "id": "rick.womick"
-    },
-    {
      "type": "Twitter",
      "id": "RickWomick"
+    },
+    {
+     "type": "Facebook",
+     "id": "rick.womick"
     }
    ]
   },
@@ -29981,11 +29981,11 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "VoteDawn"
     },
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "VoteDawn"
     }
    ]
@@ -30395,12 +30395,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "SenJohnson"
-    },
-    {
      "type": "Facebook",
      "id": "SenatorJackJohnson"
+    },
+    {
+     "type": "Twitter",
+     "id": "SenJohnson"
     }
    ]
   },
@@ -30519,12 +30519,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "DickersonforS20"
-    },
-    {
      "type": "Facebook",
      "id": "dickersonfors20"
+    },
+    {
+     "type": "Twitter",
+     "id": "DickersonforS20"
     }
    ]
   },
@@ -30700,12 +30700,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "janicebowlingtn"
-    },
-    {
      "type": "Facebook",
      "id": "202797446470765"
+    },
+    {
+     "type": "Twitter",
+     "id": "janicebowlingtn"
     }
    ]
   },
@@ -30765,12 +30765,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "billketron"
-    },
-    {
      "type": "Twitter",
      "id": "BillKetron"
+    },
+    {
+     "type": "Facebook",
+     "id": "billketron"
     }
    ]
   },
@@ -30808,12 +30808,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "tracyfortn"
-    },
-    {
      "type": "Twitter",
      "id": "jimtracy"
+    },
+    {
+     "type": "Facebook",
+     "id": "tracyfortn"
     }
    ]
   },
@@ -30871,12 +30871,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "ken.yager.16"
-    },
-    {
      "type": "Twitter",
      "id": "yagertweets"
+    },
+    {
+     "type": "Facebook",
+     "id": "ken.yager.16"
     }
    ]
   },
@@ -31359,12 +31359,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "RonRamsey"
-    },
-    {
      "type": "Facebook",
      "id": "teamronramsey"
+    },
+    {
+     "type": "Twitter",
+     "id": "RonRamsey"
     }
    ]
   },
@@ -31416,12 +31416,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "MasseyForTNSenate"
-    },
-    {
      "type": "Twitter",
      "id": "MasseyForSenate"
+    },
+    {
+     "type": "Facebook",
+     "id": "MasseyForTNSenate"
     }
    ]
   },
@@ -33511,6 +33511,53 @@
    ]
   },
   {
+   "name": "Robert Grindstaff",
+   "address": [
+    {
+     "line1": "37673",
+     "line2": "1345 stout branch rd",
+     "city": "mountain city",
+     "state": "TN",
+     "zip": ""
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(423) 727-4415"
+   ]
+  },
+  {
+   "name": "Freddy Phipps",
+   "address": [
+    {
+     "line1": "37683",
+     "line2": "268 paul mcglammery road",
+     "city": "trade",
+     "state": "TN",
+     "zip": ""
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(423) 727-6355"
+   ]
+  },
+  {
+   "name": "Dean Stout",
+   "address": [
+    {
+     "line1": "1186 stout branch rd",
+     "city": "mountain city",
+     "state": "TN",
+     "zip": "37683"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(423) 727-9491"
+   ]
+  },
+  {
    "name": "Mike Neal",
    "address": [
     {
@@ -33645,53 +33692,6 @@
    "party": "Unknown",
    "phones": [
     "(423) 775-7840"
-   ]
-  },
-  {
-   "name": "Robert Grindstaff",
-   "address": [
-    {
-     "line1": "37673",
-     "line2": "1345 stout branch rd",
-     "city": "mountain city",
-     "state": "TN",
-     "zip": ""
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(423) 727-4415"
-   ]
-  },
-  {
-   "name": "Freddy Phipps",
-   "address": [
-    {
-     "line1": "37683",
-     "line2": "268 paul mcglammery road",
-     "city": "trade",
-     "state": "TN",
-     "zip": ""
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(423) 727-6355"
-   ]
-  },
-  {
-   "name": "Dean Stout",
-   "address": [
-    {
-     "line1": "1186 stout branch rd",
-     "city": "mountain city",
-     "state": "TN",
-     "zip": "37683"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(423) 727-9491"
    ]
   },
   {
@@ -34547,42 +34547,6 @@
    ]
   },
   {
-   "name": "LuAnn Engelman",
-   "address": [
-    {
-     "line1": "519 Turkey Ridge",
-     "city": "pegram",
-     "state": "TN",
-     "zip": "37143"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(615) 673-0913"
-   ],
-   "emails": [
-    "LuAnnEngelman@aol.com"
-   ]
-  },
-  {
-   "name": "David Davidson",
-   "address": [
-    {
-     "line1": "1010 lakeside circle",
-     "city": "ashland city",
-     "state": "TN",
-     "zip": "37015"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(615) 792-1280"
-   ],
-   "emails": [
-    "Powerup429@bellsouth.net"
-   ]
-  },
-  {
    "name": "Lynn Short",
    "address": [
     {
@@ -34628,29 +34592,28 @@
    ]
   },
   {
-   "name": "Walter Weakley",
+   "name": "LuAnn Engelman",
    "address": [
     {
-     "line1": "37143",
-     "line2": "575 houston fielder rd.",
-     "city": "clarksville",
+     "line1": "519 Turkey Ridge",
+     "city": "pegram",
      "state": "TN",
-     "zip": ""
+     "zip": "37143"
     }
    ],
    "party": "Unknown",
    "phones": [
-    "(615) 307-3409"
+    "(615) 673-0913"
    ],
    "emails": [
-    "w.weakley@yahoo.com"
+    "LuAnnEngelman@aol.com"
    ]
   },
   {
-   "name": "Donnie Jordan",
+   "name": "David Davidson",
    "address": [
     {
-     "line1": "268 ed harris rd.",
+     "line1": "1010 lakeside circle",
      "city": "ashland city",
      "state": "TN",
      "zip": "37015"
@@ -34658,10 +34621,10 @@
    ],
    "party": "Unknown",
    "phones": [
-    "(615) 792-7170"
+    "(615) 792-1280"
    ],
    "emails": [
-    "rader1950@att.net"
+    "Powerup429@bellsouth.net"
    ]
   },
   {
@@ -34710,6 +34673,43 @@
    ]
   },
   {
+   "name": "Walter Weakley",
+   "address": [
+    {
+     "line1": "37143",
+     "line2": "575 houston fielder rd.",
+     "city": "clarksville",
+     "state": "TN",
+     "zip": ""
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(615) 307-3409"
+   ],
+   "emails": [
+    "w.weakley@yahoo.com"
+   ]
+  },
+  {
+   "name": "Donnie Jordan",
+   "address": [
+    {
+     "line1": "268 ed harris rd.",
+     "city": "ashland city",
+     "state": "TN",
+     "zip": "37015"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(615) 792-7170"
+   ],
+   "emails": [
+    "rader1950@att.net"
+   ]
+  },
+  {
    "name": "John Metz",
    "address": [
     {
@@ -34755,36 +34755,6 @@
    ]
   },
   {
-   "name": "John Haines",
-   "address": [
-    {
-     "line1": "1645 craggie hope rd.",
-     "city": "kingston springs",
-     "state": "TN",
-     "zip": "37082"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(615) 642-1703"
-   ]
-  },
-  {
-   "name": "James Hedgepath",
-   "address": [
-    {
-     "line1": "2020 cedar hill rd.",
-     "city": "white bluff",
-     "state": "TN",
-     "zip": "37187"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(615) 952-9352"
-   ]
-  },
-  {
    "name": "Joseph McLain",
    "address": [
     {
@@ -34827,6 +34797,36 @@
    "party": "Unknown",
    "phones": [
     "(423) 345-3125"
+   ]
+  },
+  {
+   "name": "John Haines",
+   "address": [
+    {
+     "line1": "1645 craggie hope rd.",
+     "city": "kingston springs",
+     "state": "TN",
+     "zip": "37082"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(615) 642-1703"
+   ]
+  },
+  {
+   "name": "James Hedgepath",
+   "address": [
+    {
+     "line1": "2020 cedar hill rd.",
+     "city": "white bluff",
+     "state": "TN",
+     "zip": "37187"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(615) 952-9352"
    ]
   },
   {
@@ -39597,6 +39597,9 @@
    "phones": [
     "(423) 338-4505"
    ],
+   "urls": [
+    "http://www.polkgovernment.com/assessor-of-property"
+   ],
    "emails": [
     "ryates.polk.tn.us@comcast.net"
    ]
@@ -40571,6 +40574,9 @@
    "phones": [
     "(423) 209-6500"
    ],
+   "urls": [
+    "http://www.countyclerkanytime.com/"
+   ],
    "channels": [
     {
      "type": "Facebook",
@@ -40629,6 +40635,9 @@
    "party": "Unknown",
    "phones": [
     "(423) 209-6700"
+   ],
+   "urls": [
+    "http://www.hamiltontn.gov/courts/CircuitClerk/Default.aspx"
    ]
   },
   {
@@ -41308,6 +41317,9 @@
    "party": "Unknown",
    "phones": [
     "(615) 444-1412"
+   ],
+   "urls": [
+    "http://wilsoncotnsheriff.com/"
    ],
    "channels": [
     {
@@ -43385,9 +43397,6 @@
    "party": "Unknown",
    "phones": [
     "(423) 627-2066"
-   ],
-   "urls": [
-    "http://www.scottcounty.com/government/county/commission/june-jeffers"
    ]
   },
   {
@@ -45856,9 +45865,6 @@
    "phones": [
     "(615) 789-4130"
    ],
-   "urls": [
-    "http://www.dicksoncountytn.gov/government/sheriff/"
-   ],
    "emails": [
     "sheriff@dicksoncounty.net"
    ],
@@ -45882,9 +45888,6 @@
    "party": "Unknown",
    "phones": [
     "(615) 789-7006"
-   ],
-   "urls": [
-    "http://www.dicksoncountytn.gov/government/trustee/index.html"
    ]
   },
   {
@@ -45900,9 +45903,6 @@
    "party": "Unknown",
    "phones": [
     "(615) 789-5093"
-   ],
-   "urls": [
-    "http://www.dicksoncountytn.gov/government/county_clerk/index.html"
    ],
    "emails": [
     "luanne.greer@tn.gov"
@@ -45921,9 +45921,6 @@
    "party": "Unknown",
    "phones": [
     "(615) 789-7000"
-   ],
-   "urls": [
-    "http://www.dicksoncountytn.gov/government/mayor/index.html"
    ],
    "emails": [
     "bobrial@dicksoncountytn.gov"
@@ -45948,9 +45945,6 @@
    "party": "Unknown",
    "phones": [
     "(615) 789-5123"
-   ],
-   "urls": [
-    "http://www.dicksoncountytn.gov/government/register_of_deeds/index.html"
    ]
   },
   {
@@ -45966,9 +45960,6 @@
    "party": "Unknown",
    "phones": [
     "(615) 789-7010"
-   ],
-   "urls": [
-    "http://www.dicksoncountytn.gov/government/courts/circuit_court/index.html"
    ],
    "emails": [
     "Pam.Myatt@tncourts.gov"
@@ -45988,9 +45979,6 @@
    "phones": [
     "(615) 446-2638"
    ],
-   "urls": [
-    "http://www.dicksoncountytn.gov/government/highway/index.html"
-   ],
    "emails": [
     "tnesbitt@dicksoncountytn.gov"
    ]
@@ -46008,9 +45996,6 @@
    "party": "Unknown",
    "phones": [
     "(615) 789-7015"
-   ],
-   "urls": [
-    "http://www.dicksoncountytn.gov/government/assessor_of_prop/index.html"
    ]
   },
   {
@@ -48517,13 +48502,6 @@
    ]
   },
   {
-   "name": "Gary Prater",
-   "party": "Unknown",
-   "phones": [
-    "(931) 939-3959"
-   ]
-  },
-  {
    "name": "Andy Luton",
    "address": [
     {
@@ -48554,17 +48532,10 @@
    ]
   },
   {
-   "name": "Morris Bond",
+   "name": "Gary Prater",
    "party": "Unknown",
    "phones": [
-    "(931) 934-2914"
-   ]
-  },
-  {
-   "name": "Terry Bell",
-   "party": "Unknown",
-   "phones": [
-    "(931) 686-2854"
+    "(931) 939-3959"
    ]
   },
   {
@@ -48598,17 +48569,17 @@
    ]
   },
   {
-   "name": "Herschel Wells",
+   "name": "Morris Bond",
    "party": "Unknown",
    "phones": [
-    "(931) 668-9235"
+    "(931) 934-2914"
    ]
   },
   {
-   "name": "Les Trotman",
+   "name": "Terry Bell",
    "party": "Unknown",
    "phones": [
-    "(931) 668-3059"
+    "(931) 686-2854"
    ]
   },
   {
@@ -48639,6 +48610,20 @@
    "party": "Unknown",
    "phones": [
     "(931) 627-2247"
+   ]
+  },
+  {
+   "name": "Herschel Wells",
+   "party": "Unknown",
+   "phones": [
+    "(931) 668-9235"
+   ]
+  },
+  {
+   "name": "Les Trotman",
+   "party": "Unknown",
+   "phones": [
+    "(931) 668-3059"
    ]
   },
   {
@@ -62102,9 +62087,6 @@
    "party": "Unknown",
    "phones": [
     "(423) 663-2588"
-   ],
-   "urls": [
-    "http://www.scottcounty.com/government/county/county-clerk"
    ]
   },
   {

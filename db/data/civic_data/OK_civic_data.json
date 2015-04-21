@@ -33,29 +33,29 @@
   "ocd-division/country:us/state:ok/county:osage/precinct:108": {
    "name": "OSAGE County Precinct 108"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:141": {
-   "name": "OKLAHOMA County Precinct 141"
+  "ocd-division/country:us/state:ok/county:osage/precinct:107": {
+   "name": "OSAGE County Precinct 107"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:96": {
    "name": "OKLAHOMA County Precinct 96"
   },
-  "ocd-division/country:us/state:ok/county:osage/precinct:107": {
-   "name": "OSAGE County Precinct 107"
-  },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:99": {
-   "name": "OKLAHOMA County Precinct 99"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:141": {
+   "name": "OKLAHOMA County Precinct 141"
   },
   "ocd-division/country:us/state:ok/county:osage/precinct:106": {
    "name": "OSAGE County Precinct 106"
   },
-  "ocd-division/country:us/state:ok/county:le_flore/school_district:le_flore": {
-   "name": "le flore"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:99": {
+   "name": "OKLAHOMA County Precinct 99"
+  },
+  "ocd-division/country:us/state:ok/county:osage/precinct:105": {
+   "name": "OSAGE County Precinct 105"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:98": {
    "name": "OKLAHOMA County Precinct 98"
   },
-  "ocd-division/country:us/state:ok/county:osage/precinct:105": {
-   "name": "OSAGE County Precinct 105"
+  "ocd-division/country:us/state:ok/county:le_flore/school_district:le_flore": {
+   "name": "le flore"
   },
   "ocd-division/country:us/state:ok/place:muskogee": {
    "name": "Muskogee city"
@@ -150,11 +150,11 @@
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:86": {
    "name": "OKLAHOMA County Precinct 86"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:130": {
-   "name": "OKLAHOMA County Precinct 130"
-  },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:85": {
    "name": "OKLAHOMA County Precinct 85"
+  },
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:130": {
+   "name": "OKLAHOMA County Precinct 130"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:80": {
    "name": "OKLAHOMA County Precinct 80"
@@ -168,35 +168,35 @@
   "ocd-division/country:us/state:ok/county:delaware/school_district:jay": {
    "name": "jay"
   },
-  "ocd-division/country:us/state:ok/county:atoka/school_district:tushka": {
-   "name": "tushka"
-  },
   "ocd-division/country:us/state:ok/county:custer/school_district:thomas-fay-custer_unified_dist": {
    "name": "thomas-fay-custer unified dist"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:121": {
-   "name": "OKLAHOMA County Precinct 121"
+  "ocd-division/country:us/state:ok/county:atoka/school_district:tushka": {
+   "name": "tushka"
   },
   "ocd-division/country:us/state:ok/county:pottawatomie/school_district:pleasant_grove": {
    "name": "pleasant grove"
   },
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:121": {
+   "name": "OKLAHOMA County Precinct 121"
+  },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:120": {
    "name": "OKLAHOMA County Precinct 120"
-  },
-  "ocd-division/country:us/state:ok/county:kay/precinct:401": {
-   "name": "KAY County Precinct 401"
-  },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:123": {
-   "name": "OKLAHOMA County Precinct 123"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:89": {
    "name": "OKLAHOMA County Precinct 89"
   },
-  "ocd-division/country:us/state:ok/county:kay/precinct:400": {
-   "name": "KAY County Precinct 400"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:123": {
+   "name": "OKLAHOMA County Precinct 123"
+  },
+  "ocd-division/country:us/state:ok/county:kay/precinct:401": {
+   "name": "KAY County Precinct 401"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:122": {
    "name": "OKLAHOMA County Precinct 122"
+  },
+  "ocd-division/country:us/state:ok/county:kay/precinct:400": {
+   "name": "KAY County Precinct 400"
   },
   "ocd-division/country:us/state:ok/county:kay/precinct:403": {
    "name": "KAY County Precinct 403"
@@ -288,26 +288,26 @@
   "ocd-division/country:us/state:ok/county:love/precinct:102": {
    "name": "LOVE County Precinct 102"
   },
-  "ocd-division/country:us/state:ok/place:perkins": {
-   "name": "Perkins city"
+  "ocd-division/country:us/state:ok/county:love/precinct:103": {
+   "name": "LOVE County Precinct 103"
   },
   "ocd-division/country:us/state:ok/county:mccurtain/precinct:24": {
    "name": "MCCURTAIN County Precinct 24"
   },
-  "ocd-division/country:us/state:ok/county:love/precinct:103": {
-   "name": "LOVE County Precinct 103"
-  },
-  "ocd-division/country:us/state:ok/place:nowata": {
-   "name": "Nowata city"
+  "ocd-division/country:us/state:ok/place:perkins": {
+   "name": "Perkins city"
   },
   "ocd-division/country:us/state:ok/county:atoka/school_district:lane": {
    "name": "lane"
   },
-  "ocd-division/country:us/state:ok/county:adair/school_district:stilwell": {
-   "name": "stilwell"
+  "ocd-division/country:us/state:ok/place:nowata": {
+   "name": "Nowata city"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:119": {
    "name": "OKLAHOMA County Precinct 119"
+  },
+  "ocd-division/country:us/state:ok/county:adair/school_district:stilwell": {
+   "name": "stilwell"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:118": {
    "name": "OKLAHOMA County Precinct 118"
@@ -327,26 +327,26 @@
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:113": {
    "name": "OKLAHOMA County Precinct 113"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:112": {
-   "name": "OKLAHOMA County Precinct 112"
-  },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:78": {
    "name": "OKLAHOMA County Precinct 78"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:111": {
-   "name": "OKLAHOMA County Precinct 111"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:112": {
+   "name": "OKLAHOMA County Precinct 112"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:79": {
    "name": "OKLAHOMA County Precinct 79"
   },
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:111": {
+   "name": "OKLAHOMA County Precinct 111"
+  },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:110": {
    "name": "OKLAHOMA County Precinct 110"
   },
-  "ocd-division/country:us/state:ok/county:mccurtain/precinct:38": {
-   "name": "MCCURTAIN County Precinct 38"
-  },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:66": {
    "name": "OKLAHOMA County Precinct 66"
+  },
+  "ocd-division/country:us/state:ok/county:mccurtain/precinct:38": {
+   "name": "MCCURTAIN County Precinct 38"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:65": {
    "name": "OKLAHOMA County Precinct 65"
@@ -381,9 +381,6 @@
   "ocd-division/country:us/state:ok/county:mccurtain/precinct:35": {
    "name": "MCCURTAIN County Precinct 35"
   },
-  "ocd-division/country:us/state:ok/county:mccurtain/precinct:36": {
-   "name": "MCCURTAIN County Precinct 36"
-  },
   "ocd-division/country:us/state:ok/county:carter": {
    "name": "Carter County",
    "officeIndices": [
@@ -394,6 +391,9 @@
     161,
     162
    ]
+  },
+  "ocd-division/country:us/state:ok/county:mccurtain/precinct:36": {
+   "name": "MCCURTAIN County Precinct 36"
   },
   "ocd-division/country:us/state:ok/county:mccurtain/precinct:37": {
    "name": "MCCURTAIN County Precinct 37"
@@ -425,23 +425,23 @@
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:69": {
    "name": "OKLAHOMA County Precinct 69"
   },
-  "ocd-division/country:us/state:ok/place:indianola": {
-   "name": "Indianola town"
-  },
   "ocd-division/country:us/state:ok/county:kay/precinct:420": {
    "name": "KAY County Precinct 420"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:101": {
-   "name": "OKLAHOMA County Precinct 101"
+  "ocd-division/country:us/state:ok/place:indianola": {
+   "name": "Indianola town"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:67": {
    "name": "OKLAHOMA County Precinct 67"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:100": {
-   "name": "OKLAHOMA County Precinct 100"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:101": {
+   "name": "OKLAHOMA County Precinct 101"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:68": {
    "name": "OKLAHOMA County Precinct 68"
+  },
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:100": {
+   "name": "OKLAHOMA County Precinct 100"
   },
   "ocd-division/country:us/state:ok/county:le_flore/precinct:301": {
    "name": "LE FLORE County Precinct 301"
@@ -458,11 +458,11 @@
   "ocd-division/country:us/state:ok/county:le_flore/precinct:304": {
    "name": "LE FLORE County Precinct 304"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:181": {
-   "name": "OKLAHOMA County Precinct 181"
-  },
   "ocd-division/country:us/state:ok/place:bromide": {
    "name": "Bromide town"
+  },
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:181": {
+   "name": "OKLAHOMA County Precinct 181"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:180": {
    "name": "OKLAHOMA County Precinct 180"
@@ -470,71 +470,71 @@
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:50": {
    "name": "OKLAHOMA County Precinct 50"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:51": {
-   "name": "OKLAHOMA County Precinct 51"
-  },
   "ocd-division/country:us/state:ok/county:stephens/precinct:49": {
    "name": "STEPHENS County Precinct 49"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:185": {
-   "name": "OKLAHOMA County Precinct 185"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:51": {
+   "name": "OKLAHOMA County Precinct 51"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:52": {
    "name": "OKLAHOMA County Precinct 52"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:184": {
-   "name": "OKLAHOMA County Precinct 184"
-  },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:53": {
-   "name": "OKLAHOMA County Precinct 53"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:185": {
+   "name": "OKLAHOMA County Precinct 185"
   },
   "ocd-division/country:us/state:ok/place:fitzhugh": {
    "name": "Fitzhugh town"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:183": {
-   "name": "OKLAHOMA County Precinct 183"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:53": {
+   "name": "OKLAHOMA County Precinct 53"
+  },
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:184": {
+   "name": "OKLAHOMA County Precinct 184"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:54": {
    "name": "OKLAHOMA County Precinct 54"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:182": {
-   "name": "OKLAHOMA County Precinct 182"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:183": {
+   "name": "OKLAHOMA County Precinct 183"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:55": {
    "name": "OKLAHOMA County Precinct 55"
   },
-  "ocd-division/country:us/state:ok/county:custer/precinct:19": {
-   "name": "CUSTER County Precinct 19"
-  },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:177": {
-   "name": "OKLAHOMA County Precinct 177"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:182": {
+   "name": "OKLAHOMA County Precinct 182"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:57": {
    "name": "OKLAHOMA County Precinct 57"
   },
-  "ocd-division/country:us/state:ok/county:custer/precinct:18": {
-   "name": "CUSTER County Precinct 18"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:177": {
+   "name": "OKLAHOMA County Precinct 177"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:178": {
-   "name": "OKLAHOMA County Precinct 178"
+  "ocd-division/country:us/state:ok/county:custer/precinct:19": {
+   "name": "CUSTER County Precinct 19"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:56": {
    "name": "OKLAHOMA County Precinct 56"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:175": {
-   "name": "OKLAHOMA County Precinct 175"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:178": {
+   "name": "OKLAHOMA County Precinct 178"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:59": {
-   "name": "OKLAHOMA County Precinct 59"
+  "ocd-division/country:us/state:ok/county:custer/precinct:18": {
+   "name": "CUSTER County Precinct 18"
   },
   "ocd-division/country:us/state:ok/county:stephens/precinct:41": {
    "name": "STEPHENS County Precinct 41"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:176": {
-   "name": "OKLAHOMA County Precinct 176"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:59": {
+   "name": "OKLAHOMA County Precinct 59"
+  },
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:175": {
+   "name": "OKLAHOMA County Precinct 175"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:58": {
    "name": "OKLAHOMA County Precinct 58"
+  },
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:176": {
+   "name": "OKLAHOMA County Precinct 176"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:179": {
    "name": "OKLAHOMA County Precinct 179"
@@ -548,11 +548,11 @@
   "ocd-division/country:us/state:ok/county:le_flore/precinct:312": {
    "name": "LE FLORE County Precinct 312"
   },
-  "ocd-division/country:us/state:ok/county:le_flore/school_district:panama": {
-   "name": "panama"
-  },
   "ocd-division/country:us/state:ok/county:le_flore/precinct:311": {
    "name": "LE FLORE County Precinct 311"
+  },
+  "ocd-division/country:us/state:ok/county:le_flore/school_district:panama": {
+   "name": "panama"
   },
   "ocd-division/country:us/state:ok/county:le_flore/precinct:310": {
    "name": "LE FLORE County Precinct 310"
@@ -569,17 +569,17 @@
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:170": {
    "name": "OKLAHOMA County Precinct 170"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:172": {
-   "name": "OKLAHOMA County Precinct 172"
-  },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:43": {
    "name": "OKLAHOMA County Precinct 43"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:171": {
-   "name": "OKLAHOMA County Precinct 171"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:172": {
+   "name": "OKLAHOMA County Precinct 172"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:44": {
    "name": "OKLAHOMA County Precinct 44"
+  },
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:171": {
+   "name": "OKLAHOMA County Precinct 171"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:174": {
    "name": "OKLAHOMA County Precinct 174"
@@ -719,9 +719,6 @@
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:30": {
    "name": "OKLAHOMA County Precinct 30"
   },
-  "ocd-division/country:us/state:ok/county:haskell/precinct:16": {
-   "name": "HASKELL County Precinct 16"
-  },
   "ocd-division/country:us/state:ok/county:cleveland": {
    "name": "Cleveland County",
    "officeIndices": [
@@ -732,6 +729,9 @@
     167,
     168
    ]
+  },
+  "ocd-division/country:us/state:ok/county:haskell/precinct:16": {
+   "name": "HASKELL County Precinct 16"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:162": {
    "name": "OKLAHOMA County Precinct 162"
@@ -847,29 +847,29 @@
   "ocd-division/country:us/state:ok/county:stephens/precinct:19": {
    "name": "STEPHENS County Precinct 19"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:150": {
-   "name": "OKLAHOMA County Precinct 150"
+  "ocd-division/country:us/state:ok/county:stephens/precinct:13": {
+   "name": "STEPHENS County Precinct 13"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:21": {
    "name": "OKLAHOMA County Precinct 21"
   },
-  "ocd-division/country:us/state:ok/county:stephens/precinct:13": {
-   "name": "STEPHENS County Precinct 13"
-  },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:22": {
-   "name": "OKLAHOMA County Precinct 22"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:150": {
+   "name": "OKLAHOMA County Precinct 150"
   },
   "ocd-division/country:us/state:ok/county:stephens/precinct:12": {
    "name": "STEPHENS County Precinct 12"
   },
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:22": {
+   "name": "OKLAHOMA County Precinct 22"
+  },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:152": {
    "name": "OKLAHOMA County Precinct 152"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:151": {
-   "name": "OKLAHOMA County Precinct 151"
-  },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:20": {
    "name": "OKLAHOMA County Precinct 20"
+  },
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:151": {
+   "name": "OKLAHOMA County Precinct 151"
   },
   "ocd-division/country:us/state:ok/county:stephens/precinct:16": {
    "name": "STEPHENS County Precinct 16"
@@ -880,86 +880,86 @@
   "ocd-division/country:us/state:ok/county:stephens/precinct:14": {
    "name": "STEPHENS County Precinct 14"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:146": {
-   "name": "OKLAHOMA County Precinct 146"
-  },
   "ocd-division/country:us/state:ok/county:pittsburg/precinct:3": {
    "name": "PITTSBURG County Precinct 3"
   },
-  "ocd-division/country:us/state:ok/county:haskell/precinct:11": {
-   "name": "HASKELL County Precinct 11"
-  },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:147": {
-   "name": "OKLAHOMA County Precinct 147"
-  },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:29": {
-   "name": "OKLAHOMA County Precinct 29"
-  },
-  "ocd-division/country:us/state:ok/county:osage/school_district:osage_hills": {
-   "name": "osage hills"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:146": {
+   "name": "OKLAHOMA County Precinct 146"
   },
   "ocd-division/country:us/state:ok/county:pittsburg/precinct:4": {
    "name": "PITTSBURG County Precinct 4"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:148": {
-   "name": "OKLAHOMA County Precinct 148"
+  "ocd-division/country:us/state:ok/county:osage/school_district:osage_hills": {
+   "name": "osage hills"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:28": {
-   "name": "OKLAHOMA County Precinct 28"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:29": {
+   "name": "OKLAHOMA County Precinct 29"
   },
-  "ocd-division/country:us/state:ok/county:pittsburg/precinct:1": {
-   "name": "PITTSBURG County Precinct 1"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:147": {
+   "name": "OKLAHOMA County Precinct 147"
+  },
+  "ocd-division/country:us/state:ok/county:haskell/precinct:11": {
+   "name": "HASKELL County Precinct 11"
   },
   "ocd-division/country:us/state:ok/place:haworth": {
    "name": "Haworth town"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:149": {
-   "name": "OKLAHOMA County Precinct 149"
+  "ocd-division/country:us/state:ok/county:pittsburg/precinct:1": {
+   "name": "PITTSBURG County Precinct 1"
+  },
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:28": {
+   "name": "OKLAHOMA County Precinct 28"
+  },
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:148": {
+   "name": "OKLAHOMA County Precinct 148"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:27": {
    "name": "OKLAHOMA County Precinct 27"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:142": {
-   "name": "OKLAHOMA County Precinct 142"
-  },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:26": {
-   "name": "OKLAHOMA County Precinct 26"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:149": {
+   "name": "OKLAHOMA County Precinct 149"
   },
   "ocd-division/country:us/state:ok/county:pittsburg/precinct:7": {
    "name": "PITTSBURG County Precinct 7"
   },
-  "ocd-division/country:us/state:ok/county:haskell/precinct:15": {
-   "name": "HASKELL County Precinct 15"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:26": {
+   "name": "OKLAHOMA County Precinct 26"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:143": {
-   "name": "OKLAHOMA County Precinct 143"
-  },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:25": {
-   "name": "OKLAHOMA County Precinct 25"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:142": {
+   "name": "OKLAHOMA County Precinct 142"
   },
   "ocd-division/country:us/state:ok/county:pittsburg/precinct:8": {
    "name": "PITTSBURG County Precinct 8"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:144": {
-   "name": "OKLAHOMA County Precinct 144"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:25": {
+   "name": "OKLAHOMA County Precinct 25"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:24": {
-   "name": "OKLAHOMA County Precinct 24"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:143": {
+   "name": "OKLAHOMA County Precinct 143"
+  },
+  "ocd-division/country:us/state:ok/county:haskell/precinct:15": {
+   "name": "HASKELL County Precinct 15"
   },
   "ocd-division/country:us/state:ok/county:pittsburg/precinct:5": {
    "name": "PITTSBURG County Precinct 5"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:145": {
-   "name": "OKLAHOMA County Precinct 145"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:24": {
+   "name": "OKLAHOMA County Precinct 24"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:23": {
-   "name": "OKLAHOMA County Precinct 23"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:144": {
+   "name": "OKLAHOMA County Precinct 144"
+  },
+  "ocd-division/country:us/state:ok/county:pittsburg/precinct:6": {
+   "name": "PITTSBURG County Precinct 6"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/school_district:crutcho": {
    "name": "crutcho"
   },
-  "ocd-division/country:us/state:ok/county:pittsburg/precinct:6": {
-   "name": "PITTSBURG County Precinct 6"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:23": {
+   "name": "OKLAHOMA County Precinct 23"
+  },
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:145": {
+   "name": "OKLAHOMA County Precinct 145"
   },
   "ocd-division/country:us/state:ok/county:mcintosh/precinct:307": {
    "name": "MCINTOSH County Precinct 307"
@@ -967,11 +967,11 @@
   "ocd-division/country:us/state:ok/county:cotton/school_district:walters": {
    "name": "walters"
   },
-  "ocd-division/country:us/state:ok/county:canadian/school_district:riverside": {
-   "name": "riverside"
-  },
   "ocd-division/country:us/state:ok/place:gene_autry": {
    "name": "Gene Autry town"
+  },
+  "ocd-division/country:us/state:ok/county:canadian/school_district:riverside": {
+   "name": "riverside"
   },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:14": {
    "name": "OKLAHOMA County Precinct 14"
@@ -991,11 +991,11 @@
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:19": {
    "name": "OKLAHOMA County Precinct 19"
   },
-  "ocd-division/country:us/state:ok/place:roff": {
-   "name": "Roff town"
-  },
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:16": {
    "name": "OKLAHOMA County Precinct 16"
+  },
+  "ocd-division/country:us/state:ok/place:roff": {
+   "name": "Roff town"
   },
   "ocd-division/country:us/state:ok/place:dover": {
    "name": "Dover town"
@@ -1009,17 +1009,17 @@
   "ocd-division/country:us/state:ok/county:oklahoma/precinct:11": {
    "name": "OKLAHOMA County Precinct 11"
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/precinct:10": {
-   "name": "OKLAHOMA County Precinct 10"
-  },
   "ocd-division/country:us/state:ok/place:gould": {
    "name": "Gould town"
   },
-  "ocd-division/country:us/state:ok/place:the_village": {
-   "name": "The Village city"
+  "ocd-division/country:us/state:ok/county:oklahoma/precinct:10": {
+   "name": "OKLAHOMA County Precinct 10"
   },
   "ocd-division/country:us/state:ok/place:carrier": {
    "name": "Carrier town"
+  },
+  "ocd-division/country:us/state:ok/place:the_village": {
+   "name": "The Village city"
   },
   "ocd-division/country:us/state:ok/county:comanche/precinct:2": {
    "name": "COMANCHE County Precinct 2"
@@ -1121,11 +1121,11 @@
   "ocd-division/country:us/state:ok/county:choctaw/precinct:207": {
    "name": "CHOCTAW County Precinct 207"
   },
-  "ocd-division/country:us/state:ok/place:red_oak": {
-   "name": "Red Oak town"
-  },
   "ocd-division/country:us/state:ok/county:choctaw/precinct:209": {
    "name": "CHOCTAW County Precinct 209"
+  },
+  "ocd-division/country:us/state:ok/place:red_oak": {
+   "name": "Red Oak town"
   },
   "ocd-division/country:us/state:ok/county:choctaw/precinct:208": {
    "name": "CHOCTAW County Precinct 208"
@@ -1148,20 +1148,20 @@
   "ocd-division/country:us/state:ok/county:choctaw/precinct:214": {
    "name": "CHOCTAW County Precinct 214"
   },
-  "ocd-division/country:us/state:ok/county:choctaw/precinct:215": {
-   "name": "CHOCTAW County Precinct 215"
-  },
   "ocd-division/country:us/state:ok/county:delaware/school_district:oaks-mission": {
    "name": "oaks-mission"
+  },
+  "ocd-division/country:us/state:ok/county:choctaw/precinct:215": {
+   "name": "CHOCTAW County Precinct 215"
   },
   "ocd-division/country:us/state:ok/county:delaware/school_district:kansas": {
    "name": "kansas"
   },
-  "ocd-division/country:us/state:ok/county:lincoln/school_district:prague": {
-   "name": "prague"
-  },
   "ocd-division/country:us/state:ok/county:pontotoc/school_district:stonewall": {
    "name": "stonewall"
+  },
+  "ocd-division/country:us/state:ok/county:lincoln/school_district:prague": {
+   "name": "prague"
   },
   "ocd-division/country:us/state:ok/place:oklahoma_city": {
    "name": "Oklahoma City city",
@@ -1175,14 +1175,14 @@
   "ocd-division/country:us/state:ok/place:bluejacket": {
    "name": "Bluejacket town"
   },
-  "ocd-division/country:us/state:ok/place:lexington": {
-   "name": "Lexington city"
+  "ocd-division/country:us/state:ok/place:cheyenne": {
+   "name": "Cheyenne town"
   },
   "ocd-division/country:us/state:ok/place:keyes": {
    "name": "Keyes town"
   },
-  "ocd-division/country:us/state:ok/place:cheyenne": {
-   "name": "Cheyenne town"
+  "ocd-division/country:us/state:ok/place:lexington": {
+   "name": "Lexington city"
   },
   "ocd-division/country:us/state:ok/place:strang": {
    "name": "Strang town"
@@ -1190,14 +1190,14 @@
   "ocd-division/country:us/state:ok/county:payne/school_district:ripley": {
    "name": "ripley"
   },
+  "ocd-division/country:us/state:ok/county:pittsburg/school_district:quinton": {
+   "name": "quinton"
+  },
   "ocd-division/country:us/state:ok/county:marshall/council_district:2": {
    "name": "Marshall County Commission District 2",
    "officeIndices": [
     185
    ]
-  },
-  "ocd-division/country:us/state:ok/county:pittsburg/school_district:quinton": {
-   "name": "quinton"
   },
   "ocd-division/country:us/state:ok/county:marshall/council_district:1": {
    "name": "Marshall County Commission District 1",
@@ -1208,14 +1208,14 @@
   "ocd-division/country:us/state:ok/place:grand_lake_towne": {
    "name": "Grand Lake Towne town"
   },
+  "ocd-division/country:us/state:ok/place:fairmont": {
+   "name": "Fairmont town"
+  },
   "ocd-division/country:us/state:ok/county:marshall/council_district:3": {
    "name": "Marshall County Commission District 3",
    "officeIndices": [
     187
    ]
-  },
-  "ocd-division/country:us/state:ok/place:fairmont": {
-   "name": "Fairmont town"
   },
   "ocd-division/country:us/state:ok/place:norman/ward:5": {
    "name": "Norman OK Ward 5"
@@ -1291,11 +1291,11 @@
   "ocd-division/country:us/state:ok/county:okmulgee/precinct:15": {
    "name": "OKMULGEE County Precinct 15"
   },
-  "ocd-division/country:us/state:ok/county:okmulgee/precinct:16": {
-   "name": "OKMULGEE County Precinct 16"
-  },
   "ocd-division/country:us/state:ok/place:catoosa": {
    "name": "Catoosa city"
+  },
+  "ocd-division/country:us/state:ok/county:okmulgee/precinct:16": {
+   "name": "OKMULGEE County Precinct 16"
   },
   "ocd-division/country:us/state:ok/county:okmulgee/precinct:10": {
    "name": "OKMULGEE County Precinct 10"
@@ -1303,11 +1303,11 @@
   "ocd-division/country:us/state:ok/county:okmulgee/precinct:11": {
    "name": "OKMULGEE County Precinct 11"
   },
-  "ocd-division/country:us/state:ok/county:okmulgee/precinct:12": {
-   "name": "OKMULGEE County Precinct 12"
-  },
   "ocd-division/country:us/state:ok/place:grove": {
    "name": "Grove city"
+  },
+  "ocd-division/country:us/state:ok/county:okmulgee/precinct:12": {
+   "name": "OKMULGEE County Precinct 12"
   },
   "ocd-division/country:us/state:ok/county:coal/school_district:cottonwood": {
    "name": "cottonwood"
@@ -2339,17 +2339,17 @@
   "ocd-division/country:us/state:ok/county:cotton/precinct:9": {
    "name": "COTTON County Precinct 9"
   },
-  "ocd-division/country:us/state:ok/county:johnston/precinct:9": {
-   "name": "JOHNSTON County Precinct 9"
-  },
   "ocd-division/country:us/state:ok/county:cotton/precinct:8": {
    "name": "COTTON County Precinct 8"
   },
-  "ocd-division/country:us/state:ok/county:johnston/precinct:6": {
-   "name": "JOHNSTON County Precinct 6"
+  "ocd-division/country:us/state:ok/county:johnston/precinct:9": {
+   "name": "JOHNSTON County Precinct 9"
   },
   "ocd-division/country:us/state:ok/county:cotton/precinct:7": {
    "name": "COTTON County Precinct 7"
+  },
+  "ocd-division/country:us/state:ok/county:johnston/precinct:6": {
+   "name": "JOHNSTON County Precinct 6"
   },
   "ocd-division/country:us/state:ok/county:johnston/precinct:7": {
    "name": "JOHNSTON County Precinct 7"
@@ -2363,23 +2363,23 @@
   "ocd-division/country:us/state:ok/county:johnston/precinct:1": {
    "name": "JOHNSTON County Precinct 1"
   },
-  "ocd-division/country:us/state:ok/county:johnston/precinct:4": {
-   "name": "JOHNSTON County Precinct 4"
-  },
   "ocd-division/country:us/state:ok/county:cotton/precinct:5": {
    "name": "COTTON County Precinct 5"
   },
-  "ocd-division/country:us/state:ok/county:johnston/precinct:5": {
-   "name": "JOHNSTON County Precinct 5"
+  "ocd-division/country:us/state:ok/county:johnston/precinct:4": {
+   "name": "JOHNSTON County Precinct 4"
   },
   "ocd-division/country:us/state:ok/county:cotton/precinct:4": {
    "name": "COTTON County Precinct 4"
   },
-  "ocd-division/country:us/state:ok/county:johnston/precinct:2": {
-   "name": "JOHNSTON County Precinct 2"
+  "ocd-division/country:us/state:ok/county:johnston/precinct:5": {
+   "name": "JOHNSTON County Precinct 5"
   },
   "ocd-division/country:us/state:ok/county:cotton/precinct:3": {
    "name": "COTTON County Precinct 3"
+  },
+  "ocd-division/country:us/state:ok/county:johnston/precinct:2": {
+   "name": "JOHNSTON County Precinct 2"
   },
   "ocd-division/country:us/state:ok/county:johnston/precinct:3": {
    "name": "JOHNSTON County Precinct 3"
@@ -2399,35 +2399,35 @@
   "ocd-division/country:us/state:ok/county:rogers/precinct:128": {
    "name": "ROGERS County Precinct 128"
   },
-  "ocd-division/country:us/state:ok/county:rogers/precinct:120": {
-   "name": "ROGERS County Precinct 120"
-  },
   "ocd-division/country:us/state:ok/place:calera": {
    "name": "Calera town"
   },
-  "ocd-division/country:us/state:ok/place:kingston": {
-   "name": "Kingston town"
+  "ocd-division/country:us/state:ok/county:rogers/precinct:120": {
+   "name": "ROGERS County Precinct 120"
   },
   "ocd-division/country:us/state:ok/county:carter/school_district:healdton": {
    "name": "healdton"
   },
-  "ocd-division/country:us/state:ok/county:grant/precinct:17": {
-   "name": "GRANT County Precinct 17"
+  "ocd-division/country:us/state:ok/place:kingston": {
+   "name": "Kingston town"
   },
   "ocd-division/country:us/state:ok/county:osage/school_district:pawhuska": {
    "name": "pawhuska"
   },
+  "ocd-division/country:us/state:ok/county:grant/precinct:17": {
+   "name": "GRANT County Precinct 17"
+  },
   "ocd-division/country:us/state:ok/county:grant/precinct:11": {
    "name": "GRANT County Precinct 11"
+  },
+  "ocd-division/country:us/state:ok/place:boswell": {
+   "name": "Boswell town"
   },
   "ocd-division/country:us/state:ok/county:carter/council_district:1": {
    "name": "Carter County Commission District 1",
    "officeIndices": [
     257
    ]
-  },
-  "ocd-division/country:us/state:ok/place:boswell": {
-   "name": "Boswell town"
   },
   "ocd-division/country:us/state:ok/place:marlow": {
    "name": "Marlow city"
@@ -2450,11 +2450,11 @@
     259
    ]
   },
-  "ocd-division/country:us/state:ok/county:rogers/precinct:130": {
-   "name": "ROGERS County Precinct 130"
-  },
   "ocd-division/country:us/state:ok/county:washington/precinct:711": {
    "name": "WASHINGTON County Precinct 711"
+  },
+  "ocd-division/country:us/state:ok/county:rogers/precinct:130": {
+   "name": "ROGERS County Precinct 130"
   },
   "ocd-division/country:us/state:ok/county:grant/precinct:29": {
    "name": "GRANT County Precinct 29"
@@ -2495,8 +2495,8 @@
   "ocd-division/country:us/state:ok/county:wagoner/precinct:312": {
    "name": "WAGONER County Precinct 312"
   },
-  "ocd-division/country:us/state:ok/place:hulbert": {
-   "name": "Hulbert town"
+  "ocd-division/country:us/state:ok/county:wagoner/precinct:313": {
+   "name": "WAGONER County Precinct 313"
   },
   "ocd-division/country:us/state:ok/county:okmulgee": {
    "name": "Okmulgee County",
@@ -2509,8 +2509,8 @@
     265
    ]
   },
-  "ocd-division/country:us/state:ok/county:wagoner/precinct:313": {
-   "name": "WAGONER County Precinct 313"
+  "ocd-division/country:us/state:ok/place:hulbert": {
+   "name": "Hulbert town"
   },
   "ocd-division/country:us/state:ok/county:grant/school_district:pond_creek-hunter": {
    "name": "pond creek-hunter"
@@ -2527,11 +2527,11 @@
   "ocd-division/country:us/state:ok/county:wagoner/precinct:305": {
    "name": "WAGONER County Precinct 305"
   },
-  "ocd-division/country:us/state:ok/county:garfield/school_district:enid": {
-   "name": "enid"
-  },
   "ocd-division/country:us/state:ok/county:wagoner/precinct:306": {
    "name": "WAGONER County Precinct 306"
+  },
+  "ocd-division/country:us/state:ok/county:garfield/school_district:enid": {
+   "name": "enid"
   },
   "ocd-division/country:us/state:ok/county:wagoner/precinct:307": {
    "name": "WAGONER County Precinct 307"
@@ -2551,11 +2551,11 @@
   "ocd-division/country:us/state:ok/county:wagoner/precinct:301": {
    "name": "WAGONER County Precinct 301"
   },
-  "ocd-division/country:us/state:ok/county:wagoner/precinct:302": {
-   "name": "WAGONER County Precinct 302"
-  },
   "ocd-division/country:us/state:ok/place:antlers": {
    "name": "Antlers city"
+  },
+  "ocd-division/country:us/state:ok/county:wagoner/precinct:302": {
+   "name": "WAGONER County Precinct 302"
   },
   "ocd-division/country:us/state:ok/county:wagoner/precinct:303": {
    "name": "WAGONER County Precinct 303"
@@ -2578,11 +2578,11 @@
   "ocd-division/country:us/state:ok/county:garfield/school_district:chisholm": {
    "name": "chisholm"
   },
-  "ocd-division/country:us/state:ok/place:tryon": {
-   "name": "Tryon town"
-  },
   "ocd-division/country:us/state:ok/county:blaine/school_district:geary": {
    "name": "geary"
+  },
+  "ocd-division/country:us/state:ok/place:tryon": {
+   "name": "Tryon town"
   },
   "ocd-division/country:us/state:ok/county:pittsburg/school_district:frink-chambers": {
    "name": "frink-chambers"
@@ -2590,26 +2590,26 @@
   "ocd-division/country:us/state:ok/county:kingfisher/school_district:kingfisher": {
    "name": "kingfisher"
   },
+  "ocd-division/country:us/state:ok/county:caddo/precinct:812": {
+   "name": "CADDO County Precinct 812"
+  },
+  "ocd-division/country:us/state:ok/county:mayes/school_district:pryor": {
+   "name": "pryor"
+  },
   "ocd-division/country:us/state:ok/sldl:101": {
    "name": "Oklahoma State House district 101",
    "officeIndices": [
     54
    ]
   },
-  "ocd-division/country:us/state:ok/county:mayes/school_district:pryor": {
-   "name": "pryor"
-  },
-  "ocd-division/country:us/state:ok/county:caddo/precinct:812": {
-   "name": "CADDO County Precinct 812"
+  "ocd-division/country:us/state:ok/county:caddo/precinct:811": {
+   "name": "CADDO County Precinct 811"
   },
   "ocd-division/country:us/state:ok/sldl:100": {
    "name": "Oklahoma State House district 100",
    "officeIndices": [
     55
    ]
-  },
-  "ocd-division/country:us/state:ok/county:caddo/precinct:811": {
-   "name": "CADDO County Precinct 811"
   },
   "ocd-division/country:us/state:ok/county:osage/school_district:wynona": {
    "name": "wynona"
@@ -3180,14 +3180,14 @@
   "ocd-division/country:us/state:ok/place:edmond/ward:3": {
    "name": "Edmond OK ward 3"
   },
+  "ocd-division/country:us/state:ok/place:edmond/ward:4": {
+   "name": "Edmond OK ward 4"
+  },
   "ocd-division/country:us/state:ok/county:jefferson/council_district:3": {
    "name": "Jefferson County Commission District 3",
    "officeIndices": [
     305
    ]
-  },
-  "ocd-division/country:us/state:ok/place:edmond/ward:4": {
-   "name": "Edmond OK ward 4"
   },
   "ocd-division/country:us/state:ok/county:stephens/school_district:bray-doyle": {
    "name": "bray-doyle"
@@ -3347,14 +3347,14 @@
   "ocd-division/country:us/state:ok/county:tulsa/school_district:union": {
    "name": "union"
   },
-  "ocd-division/country:us/state:ok/county:dewey/council_district:3": {
-   "name": "Dewey County Commission District 3",
+  "ocd-division/country:us/state:ok/county:pottawatomie/council_district:2": {
+   "name": "Pottawatomie County Commission District 2",
    "officeIndices": [
     315
    ]
   },
-  "ocd-division/country:us/state:ok/county:pottawatomie/council_district:2": {
-   "name": "Pottawatomie County Commission District 2",
+  "ocd-division/country:us/state:ok/county:dewey/council_district:3": {
+   "name": "Dewey County Commission District 3",
    "officeIndices": [
     314
    ]
@@ -5143,11 +5143,11 @@
     436
    ]
   },
-  "ocd-division/country:us/state:ok/county:oklahoma/school_district:oklahoma_city": {
-   "name": "oklahoma city"
-  },
   "ocd-division/country:us/state:ok/county:pittsburg/precinct:19": {
    "name": "PITTSBURG County Precinct 19"
+  },
+  "ocd-division/country:us/state:ok/county:oklahoma/school_district:oklahoma_city": {
+   "name": "oklahoma city"
   },
   "ocd-division/country:us/state:ok/place:verdigris": {
    "name": "Verdigris town"
@@ -5197,41 +5197,41 @@
   "ocd-division/country:us/state:ok/county:pottawatomie/school_district:maud": {
    "name": "maud"
   },
-  "ocd-division/country:us/state:ok/county:bryan/precinct:18": {
-   "name": "BRYAN County Precinct 18"
+  "ocd-division/country:us/state:ok/county:rogers/school_district:foyil": {
+   "name": "foyil"
   },
   "ocd-division/country:us/state:ok/county:garfield/precinct:207": {
    "name": "GARFIELD County Precinct 207"
   },
-  "ocd-division/country:us/state:ok/county:rogers/school_district:foyil": {
-   "name": "foyil"
-  },
-  "ocd-division/country:us/state:ok/county:bryan/precinct:19": {
-   "name": "BRYAN County Precinct 19"
+  "ocd-division/country:us/state:ok/county:bryan/precinct:18": {
+   "name": "BRYAN County Precinct 18"
   },
   "ocd-division/country:us/state:ok/county:garfield/precinct:208": {
    "name": "GARFIELD County Precinct 208"
   },
-  "ocd-division/country:us/state:ok/county:bryan/precinct:17": {
-   "name": "BRYAN County Precinct 17"
+  "ocd-division/country:us/state:ok/county:bryan/precinct:19": {
+   "name": "BRYAN County Precinct 19"
   },
   "ocd-division/country:us/state:ok/county:garfield/precinct:206": {
    "name": "GARFIELD County Precinct 206"
   },
-  "ocd-division/country:us/state:ok/county:bryan/precinct:14": {
-   "name": "BRYAN County Precinct 14"
+  "ocd-division/country:us/state:ok/county:bryan/precinct:17": {
+   "name": "BRYAN County Precinct 17"
   },
   "ocd-division/country:us/state:ok/county:garfield/precinct:203": {
    "name": "GARFIELD County Precinct 203"
   },
-  "ocd-division/country:us/state:ok/county:mccurtain/school_district:lukfata": {
-   "name": "lukfata"
+  "ocd-division/country:us/state:ok/county:bryan/precinct:14": {
+   "name": "BRYAN County Precinct 14"
+  },
+  "ocd-division/country:us/state:ok/county:garfield/precinct:204": {
+   "name": "GARFIELD County Precinct 204"
   },
   "ocd-division/country:us/state:ok/county:bryan/precinct:15": {
    "name": "BRYAN County Precinct 15"
   },
-  "ocd-division/country:us/state:ok/county:garfield/precinct:204": {
-   "name": "GARFIELD County Precinct 204"
+  "ocd-division/country:us/state:ok/county:mccurtain/school_district:lukfata": {
+   "name": "lukfata"
   },
   "ocd-division/country:us/state:ok/county:choctaw/precinct:321": {
    "name": "CHOCTAW County Precinct 321"
@@ -5248,11 +5248,11 @@
   "ocd-division/country:us/state:ok/county:choctaw/precinct:319": {
    "name": "CHOCTAW County Precinct 319"
   },
-  "ocd-division/country:us/state:ok/county:hughes/school_district:calvin": {
-   "name": "calvin"
-  },
   "ocd-division/country:us/state:ok/county:choctaw/precinct:318": {
    "name": "CHOCTAW County Precinct 318"
+  },
+  "ocd-division/country:us/state:ok/county:hughes/school_district:calvin": {
+   "name": "calvin"
   },
   "ocd-division/country:us/state:ok/county:choctaw/precinct:316": {
    "name": "CHOCTAW County Precinct 316"
@@ -5266,11 +5266,11 @@
   "ocd-division/country:us/state:ok/county:garfield/precinct:202": {
    "name": "GARFIELD County Precinct 202"
   },
-  "ocd-division/country:us/state:ok/county:bryan/precinct:23": {
-   "name": "BRYAN County Precinct 23"
-  },
   "ocd-division/country:us/state:ok/county:garfield/precinct:201": {
    "name": "GARFIELD County Precinct 201"
+  },
+  "ocd-division/country:us/state:ok/county:bryan/precinct:23": {
+   "name": "BRYAN County Precinct 23"
   },
   "ocd-division/country:us/state:ok/county:bryan/precinct:22": {
    "name": "BRYAN County Precinct 22"
@@ -5302,11 +5302,11 @@
   "ocd-division/country:us/state:ok/county:bryan/precinct:26": {
    "name": "BRYAN County Precinct 26"
   },
-  "ocd-division/country:us/state:ok/county:bryan/precinct:27": {
-   "name": "BRYAN County Precinct 27"
-  },
   "ocd-division/country:us/state:ok/place:colbert": {
    "name": "Colbert town"
+  },
+  "ocd-division/country:us/state:ok/county:bryan/precinct:27": {
+   "name": "BRYAN County Precinct 27"
   },
   "ocd-division/country:us/state:ok/county:bryan/precinct:28": {
    "name": "BRYAN County Precinct 28"
@@ -6039,9 +6039,6 @@
   "ocd-division/country:us/state:ok/county:logan/precinct:306": {
    "name": "LOGAN County Precinct 306"
   },
-  "ocd-division/country:us/state:ok/county:logan/precinct:305": {
-   "name": "LOGAN County Precinct 305"
-  },
   "ocd-division/country:us/state:ok/county:oklahoma": {
    "name": "Oklahoma County",
    "officeIndices": [
@@ -6052,6 +6049,9 @@
     477,
     478
    ]
+  },
+  "ocd-division/country:us/state:ok/county:logan/precinct:305": {
+   "name": "LOGAN County Precinct 305"
   },
   "ocd-division/country:us/state:ok/county:logan/precinct:308": {
    "name": "LOGAN County Precinct 308"
@@ -7003,12 +7003,6 @@
   "ocd-division/country:us/state:ok/county:lincoln/school_district:chandler": {
    "name": "chandler"
   },
-  "ocd-division/country:us/state:ok/sldl:31": {
-   "name": "Oklahoma State House district 31",
-   "officeIndices": [
-    77
-   ]
-  },
   "ocd-division/country:us/state:ok/county:mcclain": {
    "name": "McClain County",
    "officeIndices": [
@@ -7018,6 +7012,12 @@
     561,
     562,
     563
+   ]
+  },
+  "ocd-division/country:us/state:ok/sldl:31": {
+   "name": "Oklahoma State House district 31",
+   "officeIndices": [
+    77
    ]
   },
   "ocd-division/country:us/state:ok/sldl:30": {
@@ -10267,9 +10267,6 @@
   "ocd-division/country:us/state:ok/county:garvin/school_district:wynnewood": {
    "name": "wynnewood"
   },
-  "ocd-division/country:us/state:ok/county:mayes/precinct:11": {
-   "name": "MAYES County Precinct 11"
-  },
   "ocd-division/country:us/state:ok/county:bryan": {
    "name": "Bryan County",
    "officeIndices": [
@@ -10280,6 +10277,9 @@
     741,
     742
    ]
+  },
+  "ocd-division/country:us/state:ok/county:mayes/precinct:11": {
+   "name": "MAYES County Precinct 11"
   },
   "ocd-division/country:us/state:ok/county:mayes/precinct:12": {
    "name": "MAYES County Precinct 12"
@@ -10477,23 +10477,23 @@
     755
    ]
   },
+  "ocd-division/country:us/state:ok/county:rogers": {
+   "name": "Rogers County",
+   "officeIndices": [
+    756,
+    757,
+    758,
+    759,
+    760,
+    761
+   ]
+  },
   "ocd-division/country:us/state:ok/place:peoria": {
    "name": "Peoria town"
   },
   "ocd-division/country:us/state:ok/county:harmon/council_district:2": {
    "name": "Harmon County Commission District 2",
    "officeIndices": [
-    756
-   ]
-  },
-  "ocd-division/country:us/state:ok/county:rogers": {
-   "name": "Rogers County",
-   "officeIndices": [
-    757,
-    758,
-    759,
-    760,
-    761,
     762
    ]
   },
@@ -10842,14 +10842,14 @@
   "ocd-division/country:us/state:ok/place:hardesty": {
    "name": "Hardesty town"
   },
-  "ocd-division/country:us/state:ok/county:beckham/school_district:merritt": {
-   "name": "merritt"
-  },
   "ocd-division/country:us/state:ok/county:texas/council_district:3": {
    "name": "Texas County Commission District 3",
    "officeIndices": [
     789
    ]
+  },
+  "ocd-division/country:us/state:ok/county:beckham/school_district:merritt": {
+   "name": "merritt"
   },
   "ocd-division/country:us/state:ok/county:texas/council_district:2": {
    "name": "Texas County Commission District 2",
@@ -15782,15 +15782,15 @@
    ]
   },
   {
-   "name": "County Commission, District 2",
-   "divisionId": "ocd-division/country:us/state:ok/county:pottawatomie/council_district:2",
+   "name": "County Commission, District 3",
+   "divisionId": "ocd-division/country:us/state:ok/county:dewey/council_district:3",
    "officialIndices": [
     315
    ]
   },
   {
-   "name": "County Commission, District 3",
-   "divisionId": "ocd-division/country:us/state:ok/county:dewey/council_district:3",
+   "name": "County Commission, District 2",
+   "divisionId": "ocd-division/country:us/state:ok/county:pottawatomie/council_district:2",
    "officialIndices": [
     316
    ]
@@ -18878,50 +18878,50 @@
    ]
   },
   {
-   "name": "County Commission, District 2",
-   "divisionId": "ocd-division/country:us/state:ok/county:harmon/council_district:2",
-   "officialIndices": [
-    759
-   ]
-  },
-  {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ok/county:rogers",
    "officialIndices": [
-    760
+    759
    ]
   },
   {
    "name": "Assessor",
    "divisionId": "ocd-division/country:us/state:ok/county:rogers",
    "officialIndices": [
-    761
+    760
    ]
   },
   {
    "name": "Treasurer",
    "divisionId": "ocd-division/country:us/state:ok/county:rogers",
    "officialIndices": [
-    762
+    761
    ]
   },
   {
    "name": "Court Clerk",
    "divisionId": "ocd-division/country:us/state:ok/county:rogers",
    "officialIndices": [
-    763
+    762
    ]
   },
   {
    "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:ok/county:rogers",
    "officialIndices": [
-    764
+    763
    ]
   },
   {
    "name": "Election Board Secretary",
    "divisionId": "ocd-division/country:us/state:ok/county:rogers",
+   "officialIndices": [
+    764
+   ]
+  },
+  {
+   "name": "County Commission, District 2",
+   "divisionId": "ocd-division/country:us/state:ok/county:harmon/council_district:2",
    "officialIndices": [
     765
    ]
@@ -19908,12 +19908,12 @@
      "id": "RepJBridenstine"
     },
     {
-     "type": "YouTube",
-     "id": "RepJimBridenstine"
-    },
-    {
      "type": "GooglePlus",
      "id": "116846300176061090795"
+    },
+    {
+     "type": "YouTube",
+     "id": "RepJimBridenstine"
     }
    ]
   },
@@ -19949,12 +19949,12 @@
    "photoUrl": "http://www.lankford.senate.gov/sites/default/files/pictures/Senator%20Lankford%20Official%20Portrait%20-%20Copy.jpg",
    "channels": [
     {
-     "type": "Twitter",
-     "id": "SenatorLankford"
-    },
-    {
      "type": "Facebook",
      "id": "lankford.for.america"
+    },
+    {
+     "type": "Twitter",
+     "id": "SenatorLankford"
     }
    ]
   },
@@ -20028,7 +20028,7 @@
     {
      "line1": "Oklahoma Senate",
      "line2": "2300 N. Lincoln Blvd.",
-     "line3": "Room 428B",
+     "line3": "Room 417C",
      "city": "Oklahoma City",
      "state": "OK",
      "zip": "73105"
@@ -20049,6 +20049,10 @@
     {
      "type": "Facebook",
      "id": "kimdavidforstatesenate"
+    },
+    {
+     "type": "Twitter",
+     "id": "kimdavid2010"
     }
    ]
   },
@@ -20096,6 +20100,12 @@
    "photoUrl": "http://oksenate.gov/Senators/biographies/paddack_bio.jpg",
    "emails": [
     "paddack@oksenate.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "166165686972"
+    }
    ]
   },
   {
@@ -20139,7 +20149,8 @@
     "(405) 521-5535"
    ],
    "urls": [
-    "http://www.oksenate.gov/Senators/biographies/standridge_bio.aspx"
+    "http://www.oksenate.gov/Senators/biographies/standridge_bio.aspx",
+    "http://robstandridge.com/rob-standridge/"
    ],
    "photoUrl": "http://www.oksenate.gov/Senators/biographies/Standridge_bio.jpg",
    "emails": [
@@ -20147,12 +20158,16 @@
    ],
    "channels": [
     {
+     "type": "Twitter",
+     "id": "SenatorRobS"
+    },
+    {
      "type": "Facebook",
      "id": "RobForSenate"
     },
     {
-     "type": "Twitter",
-     "id": "SenatorRobS"
+     "type": "Facebook",
+     "id": "SenatorRobStandridge"
     }
    ]
   },
@@ -20186,7 +20201,7 @@
     {
      "line1": "Oklahoma Senate",
      "line2": "2300 N. Lincoln Blvd.",
-     "line3": "Room 416",
+     "line3": "Room 530",
      "city": "Oklahoma City",
      "state": "OK",
      "zip": "73105"
@@ -20218,7 +20233,7 @@
    ],
    "party": "Republican",
    "phones": [
-    "(405) 521-5528",
+    "(405) 521-5565",
     "(918) 227-1856"
    ],
    "urls": [
@@ -20307,12 +20322,6 @@
    "photoUrl": "http://www.oksenate.gov/Senators/biographies/Boggs_bio.jpg",
    "emails": [
     "boggs@oksenate.gov"
-   ],
-   "channels": [
-    {
-     "type": "Facebook",
-     "id": "boggsforsenate"
-    }
    ]
   },
   {
@@ -20340,8 +20349,8 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "brecheen4senate"
+     "type": "Facebook",
+     "id": "JoshBrecheen"
     }
    ]
   },
@@ -20373,7 +20382,7 @@
     {
      "line1": "Oklahoma Senate",
      "line2": "2300 N. Lincoln Blvd.",
-     "line3": "Oklahoma Senate",
+     "line3": "Room 536",
      "city": "Oklahoma City",
      "state": "OK",
      "zip": "73105"
@@ -20413,6 +20422,12 @@
    "photoUrl": "http://www.oksenate.gov/Senators/biographies/allen.jpg",
    "emails": [
     "allen@oksenate.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "SenatorMarkAllen"
+    }
    ]
   },
   {
@@ -20443,8 +20458,8 @@
    "name": "Marty Quinn",
    "address": [
     {
-     "line1": "Oklahoma House of Representatives",
-     "line2": "2300 N. Lincoln Boulevard",
+     "line1": "Oklahoma Senate",
+     "line2": "2300 N. Lincoln Blvd.",
      "line3": "Room 528B",
      "city": "Oklahoma City",
      "state": "OK",
@@ -20530,11 +20545,22 @@
     "(405) 521-5592"
    ],
    "urls": [
-    "http://www.oksenate.gov/Senators/biographies/bice_bio.aspx"
+    "http://www.oksenate.gov/Senators/biographies/bice_bio.aspx",
+    "http://www.stephaniebice.com/"
    ],
    "photoUrl": "http://www.oksenate.gov/Senators/biographies/bice_bio.jpg",
    "emails": [
     "bice@oksenate.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "stephaniebice"
+    },
+    {
+     "type": "Facebook",
+     "id": "VoteStephanieBice"
+    }
    ]
   },
   {
@@ -20586,7 +20612,7 @@
    "address": [
     {
      "line1": "Oklahoma Senate",
-     "line2": "2300 N. Lincoln Boulevard",
+     "line2": "2300 N. Lincoln Blvd.",
      "line3": "Room 416",
      "city": "Oklahoma City",
      "state": "OK",
@@ -20603,6 +20629,12 @@
    "photoUrl": "http://www.oksenate.gov/Senators/biographies/smalley_bio.jpg",
    "emails": [
     "smalley@oksenate.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "smalley101"
+    }
    ]
   },
   {
@@ -20630,12 +20662,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "mike.mazzei.7"
-    },
-    {
      "type": "Twitter",
      "id": "MazzeiMike"
+    },
+    {
+     "type": "Facebook",
+     "id": "mike.mazzei.7"
     }
    ]
   },
@@ -20661,10 +20693,6 @@
     "lewis@oksenate.gov"
    ],
    "channels": [
-    {
-     "type": "Twitter",
-     "id": "AnthonySykes"
-    },
     {
      "type": "Facebook",
      "id": "AnthonySykes4Oklahoma"
@@ -20723,6 +20751,12 @@
    "photoUrl": "http://www.oksenate.gov/Senators/biographies/jech_bio.jpg",
    "emails": [
     "jech@oksenate.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "darcyjechstatesenate"
+    }
    ]
   },
   {
@@ -20749,6 +20783,10 @@
     "Dahm@oksenate.gov"
    ],
    "channels": [
+    {
+     "type": "Twitter",
+     "id": "NathanDahm"
+    },
     {
      "type": "Facebook",
      "id": "NathanDahm"
@@ -20854,12 +20892,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "davidfholt"
-    },
-    {
      "type": "Facebook",
      "id": "davidfullerholt"
+    },
+    {
+     "type": "Twitter",
+     "id": "davidfholt"
     }
    ]
   },
@@ -20885,6 +20923,10 @@
     "crain@oksenate.gov"
    ],
    "channels": [
+    {
+     "type": "Facebook",
+     "id": "briancrain4ok"
+    },
     {
      "type": "Twitter",
      "id": "senatorcrain"
@@ -20930,7 +20972,7 @@
     {
      "line1": "Oklahoma Senate",
      "line2": "2300 N. Lincoln Blvd.",
-     "line3": "Room 235",
+     "line3": "Room 234",
      "city": "Oklahoma City",
      "state": "OK",
      "zip": "73105"
@@ -20951,6 +20993,10 @@
     {
      "type": "Facebook",
      "id": "Senatornewberry"
+    },
+    {
+     "type": "Facebook",
+     "id": "138475611252"
     }
    ]
   },
@@ -21035,6 +21081,12 @@
    "photoUrl": "http://www.oksenate.gov/Senators/biographies/yen_bio.jpg",
    "emails": [
     "yen@oksenate.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "yen4senate"
+    }
    ]
   },
   {
@@ -21060,12 +21112,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "clarkjolley"
     },
     {
-     "type": "Twitter",
-     "id": "clarkjolley"
+     "type": "Facebook",
+     "id": "ClarkJolleyForOklahoma"
     }
    ]
   },
@@ -21075,7 +21127,7 @@
     {
      "line1": "Oklahoma Senate",
      "line2": "2300 N. Lincoln Blvd.",
-     "line3": "",
+     "line3": "Room 413A",
      "city": "Oklahoma City",
      "state": "OK",
      "zip": "73105"
@@ -21114,7 +21166,13 @@
    ],
    "photoUrl": "http://www.oksenate.gov/Senators/biographies/Brooks_bio.jpg",
    "emails": [
-    "Brooks@oksenate.gov"
+    "brooks@oksenate.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "SenatorCoreyBrooks"
+    }
    ]
   },
   {
@@ -21139,6 +21197,12 @@
    "photoUrl": "http://oksenate.gov/Senators/biographies/Shortey.jpg",
    "emails": [
     "shortey@oksenate.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "rshortey"
+    }
    ]
   },
   {
@@ -21147,7 +21211,7 @@
     {
      "line1": "Oklahoma Senate",
      "line2": "2300 N. Lincoln Blvd.",
-     "line3": "Room 531",
+     "line3": "Room 237",
      "city": "Oklahoma City",
      "state": "OK",
      "zip": "73105"
@@ -21165,6 +21229,10 @@
     "loveless@oksenate.gov"
    ],
    "channels": [
+    {
+     "type": "Twitter",
+     "id": "kyledloveless"
+    },
     {
      "type": "Facebook",
      "id": "kyle.d.loveless"
@@ -21196,12 +21264,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "greg.treat.3"
-    },
-    {
      "type": "Twitter",
      "id": "Sen_GregTreat"
+    },
+    {
+     "type": "Facebook",
+     "id": "greg.treat.3"
     }
    ]
   },
@@ -21210,7 +21278,7 @@
    "address": [
     {
      "line1": "Oklahoma Senate",
-     "line2": "2300 N. Lincoln Boulevard",
+     "line2": "2300 N. Lincoln Blvd.",
      "line3": "Room 522A",
      "city": "Oklahoma City",
      "state": "OK",
@@ -21227,15 +21295,25 @@
    "photoUrl": "http://www.oksenate.gov/Senators/biographies/Floyd_bio.jpg",
    "emails": [
     "Floyd@oksenate.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "KayFloydOK"
+    },
+    {
+     "type": "Facebook",
+     "id": "KayFloydforOK"
+    }
    ]
   },
   {
    "name": "Anastasia Pittman",
    "address": [
     {
-     "line1": "Oklahoma House of Representatives",
-     "line2": "2300 N. Lincoln Boulevard",
-     "line3": "Room 518",
+     "line1": "Oklahoma Senate",
+     "line2": "2300 N. Lincoln Blvd.",
+     "line3": "Room 524",
      "city": "Oklahoma City",
      "state": "OK",
      "zip": "73105"
@@ -21250,7 +21328,13 @@
    ],
    "photoUrl": "http://www.oksenate.gov/Senators/biographies/pittman_bio.jpg",
    "emails": [
-    "Pittman@oksenate.gov"
+    "pittman@oksenate.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "PittmanOK"
+    }
    ]
   },
   {
@@ -21353,15 +21437,33 @@
      "city": "Oklahoma City",
      "state": "OK",
      "zip": "73105"
+    },
+    {
+     "line1": "201 16th Place SW",
+     "line2": "",
+     "line3": "",
+     "city": "Miami",
+     "state": "OK",
+     "zip": "74354"
     }
    ],
    "party": "Democratic",
+   "phones": [
+    "(405) 557-7399"
+   ],
    "urls": [
-    "http://okhouse.gov/District.aspx?District=7"
+    "http://okhouse.gov/District.aspx?District=7",
+    "http://www.loringforstaterep.org/"
    ],
    "photoUrl": "http://www.okhouse.gov/Members/Pictures/Ben-Loringx175.jpg",
    "emails": [
     "ben.loring@okhouse.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "1403714739880110"
+    }
    ]
   },
   {
@@ -21442,6 +21544,12 @@
    "photoUrl": "http://www.okhouse.gov/Members/Pictures/HiRes/Hoskin,%20Chuck.jpg",
    "emails": [
     "chuck.hoskin@okhouse.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "chuckhoskin.oklahoma"
+    }
    ]
   },
   {
@@ -21466,6 +21574,12 @@
    "photoUrl": "http://www.okhouse.gov/Members/Pictures/HiRes/Lockhart,%20James.jpg",
    "emails": [
     "james.lockhart@okhouse.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "james.lockhart.507"
+    }
    ]
   },
   {
@@ -21480,7 +21594,7 @@
      "zip": "73105"
     },
     {
-     "line1": "PO Box 1460",
+     "line1": "P.O. Box 1460",
      "line2": "",
      "line3": "",
      "city": "Tahlequah",
@@ -21888,12 +22002,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "scottcharlesmartin"
-    },
-    {
      "type": "Twitter",
      "id": "scottcmartin"
+    },
+    {
+     "type": "Facebook",
+     "id": "scottcharlesmartin"
     }
    ]
   },
@@ -21946,12 +22060,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "jwmurphey"
-    },
-    {
      "type": "YouTube",
      "id": "housedistrict31"
+    },
+    {
+     "type": "Twitter",
+     "id": "jwmurphey"
     },
     {
      "type": "Facebook",
@@ -22329,12 +22443,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "todd.thomsen.75"
-    },
-    {
      "type": "Twitter",
      "id": "ToddThomsen"
+    },
+    {
+     "type": "Facebook",
+     "id": "todd.thomsen.75"
     }
    ]
   },
@@ -22510,12 +22624,30 @@
     }
    ],
    "party": "Republican",
+   "phones": [
+    "(405) 557-7402"
+   ],
    "urls": [
-    "http://okhouse.gov/District.aspx?District=10"
+    "http://okhouse.gov/District.aspx?District=10",
+    "http://www.travisdunlap.com/"
    ],
    "photoUrl": "http://www.okhouse.gov/Members/Pictures/Travis-Dunlapx175.jpg",
    "emails": [
     "travis.dunlap@okhouse.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "tdunlapstaterep"
+    },
+    {
+     "type": "GooglePlus",
+     "id": "109234370368911378266"
+    },
+    {
+     "type": "Facebook",
+     "id": "TravisDunlap2014"
+    }
    ]
   },
   {
@@ -22625,8 +22757,19 @@
    "urls": [
     "http://www.okhouse.gov/District.aspx?District=14"
    ],
+   "photoUrl": "http://www.okhouse.gov/Members/Pictures/George-Faughtx175.jpg",
    "emails": [
     "george.faught@okhouse.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "georgefaught"
+    },
+    {
+     "type": "Facebook",
+     "id": "GeorgeFaught"
+    }
    ]
   },
   {
@@ -26597,6 +26740,9 @@
    "party": "Republican",
    "phones": [
     "(918) 253-4432"
+   ],
+   "urls": [
+    "http://www.officialgrandlake.com/DougsDistrict.html"
    ]
   },
   {
@@ -26905,22 +27051,6 @@
    ]
   },
   {
-   "name": "Randy Thomas",
-   "party": "Republican",
-   "phones": [
-    "(405) 598-2046"
-   ],
-   "emails": [
-    "justinpontotoc3@yahoo.com"
-   ],
-   "channels": [
-    {
-     "type": "Facebook",
-     "id": "290282041099461"
-    }
-   ]
-  },
-  {
    "name": "M. W. Junior Salisbury",
    "address": [
     {
@@ -26936,6 +27066,22 @@
    ],
    "emails": [
     "deweycounty3@yahoo.com"
+   ]
+  },
+  {
+   "name": "Randy Thomas",
+   "party": "Republican",
+   "phones": [
+    "(405) 598-2046"
+   ],
+   "emails": [
+    "justinpontotoc3@yahoo.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "290282041099461"
+    }
    ]
   },
   {
@@ -31857,6 +32003,9 @@
    "phones": [
     "(405) 282-3405"
    ],
+   "urls": [
+    "http://www.logancountyok.com/District_2.php"
+   ],
    "emails": [
     "commissiondistrict2@gmail.com"
    ]
@@ -31866,6 +32015,9 @@
    "party": "Republican",
    "phones": [
     "(405) 969-3388"
+   ],
+   "urls": [
+    "http://www.logancountyok.com/District_3.php"
    ],
    "emails": [
     "logancounty3@pldi.net"
@@ -33332,6 +33484,9 @@
    "phones": [
     "(405) 282-4100"
    ],
+   "urls": [
+    "http://www.logancountyok.com/Sheriff.php"
+   ],
    "emails": [
     "jbauman@logancountyso.com"
    ],
@@ -33680,12 +33835,12 @@
    "photoUrl": "https://www.cityoftulsa.org/media/62962/dewey-bartlett-150x190.jpg",
    "channels": [
     {
-     "type": "Twitter",
-     "id": "deweybartlett"
-    },
-    {
      "type": "Facebook",
      "id": "MayorDeweyBartlett"
+    },
+    {
+     "type": "Twitter",
+     "id": "deweybartlett"
     }
    ]
   },
@@ -33702,9 +33857,6 @@
    ],
    "phones": [
     "(918) 596-2100"
-   ],
-   "urls": [
-    "https://www.cityoftulsa.org/our-city/elected-officials/auditor.aspx"
    ]
   },
   {
@@ -34517,21 +34669,6 @@
    ]
   },
   {
-   "name": "Nicky Boone",
-   "address": [
-    {
-     "line1": "114 w hollis st",
-     "city": "hollis",
-     "state": "OK",
-     "zip": "73550"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(580) 688-3658"
-   ]
-  },
-  {
    "name": "Scott Walton",
    "address": [
     {
@@ -34672,6 +34809,21 @@
    ],
    "emails": [
     "electionboard@rogerscounty.org"
+   ]
+  },
+  {
+   "name": "Nicky Boone",
+   "address": [
+    {
+     "line1": "114 w hollis st",
+     "city": "hollis",
+     "state": "OK",
+     "zip": "73550"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(580) 688-3658"
    ]
   },
   {

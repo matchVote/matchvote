@@ -138,23 +138,23 @@
     185
    ]
   },
+  "ocd-division/country:us/state:sc/county:charleston/precinct:400-james_island_1a": {
+   "name": "Charleston County SC - Precinct 400 - James Island 1A"
+  },
   "ocd-division/country:us/state:sc/county:aiken/council_district:1": {
    "name": "Aiken Council District 1",
    "officeIndices": [
     186
    ]
   },
-  "ocd-division/country:us/state:sc/county:charleston/precinct:400-james_island_1a": {
-   "name": "Charleston County SC - Precinct 400 - James Island 1A"
+  "ocd-division/country:us/state:sc/county:spartanburg/precinct:105-eastside_baptist": {
+   "name": "Spartanburg County SC - Precinct 105 - Eastside Baptist"
   },
   "ocd-division/country:us/state:sc/county:aiken/council_district:4": {
    "name": "Aiken Council District 4",
    "officeIndices": [
     187
    ]
-  },
-  "ocd-division/country:us/state:sc/county:spartanburg/precinct:105-eastside_baptist": {
-   "name": "Spartanburg County SC - Precinct 105 - Eastside Baptist"
   },
   "ocd-division/country:us/state:sc/county:aiken/council_district:3": {
    "name": "Aiken Council District 3",
@@ -252,14 +252,14 @@
   "ocd-division/country:us/state:sc/county:bamberg/precinct:11-south_bamberg": {
    "name": "Bamberg County SC - Precinct 11 - South Bamberg"
   },
-  "ocd-division/country:us/state:sc/county:darlington/precinct:7-darlington_1": {
-   "name": "Darlington County SC - Precinct 7 - Darlington No 1"
-  },
   "ocd-division/country:us/state:sc/county:berkeley/council_district:2": {
    "name": "Berkeley Council District 2",
    "officeIndices": [
     189
    ]
+  },
+  "ocd-division/country:us/state:sc/county:darlington/precinct:7-darlington_1": {
+   "name": "Darlington County SC - Precinct 7 - Darlington No 1"
   },
   "ocd-division/country:us/state:sc/county:berkeley/council_district:3": {
    "name": "Berkeley Council District 3",
@@ -378,11 +378,11 @@
   "ocd-division/country:us/state:sc/county:pickens/precinct:128-rices_creek": {
    "name": "Pickens County SC - Precinct 128 - Rices Creek"
   },
-  "ocd-division/country:us/state:sc/county:greenville/precinct:294-pelham_falls": {
-   "name": "Greenville County SC - Precinct 294 - Pelham Falls"
-  },
   "ocd-division/country:us/state:sc/county:beaufort/precinct:359-sun_city_6": {
    "name": "Beaufort County SC - Precinct 359 - Sun City 6"
+  },
+  "ocd-division/country:us/state:sc/county:greenville/precinct:294-pelham_falls": {
+   "name": "Greenville County SC - Precinct 294 - Pelham Falls"
   },
   "ocd-division/country:us/state:sc/county:spartanburg/precinct:95-victor_mill_methodist": {
    "name": "Spartanburg County SC - Precinct 95 - Victor Mill Methodist"
@@ -390,11 +390,11 @@
   "ocd-division/country:us/state:sc/county:horry/precinct:184-palmetto_bays": {
    "name": "Horry County SC - Precinct 184 - Palmetto Bays"
   },
-  "ocd-division/country:us/state:sc/county:sumter/precinct:140-sumter_high_1": {
-   "name": "Sumter County SC - Precinct 140 - Sumter High 1"
-  },
   "ocd-division/country:us/state:sc/place:branchville": {
    "name": "Branchville town"
+  },
+  "ocd-division/country:us/state:sc/county:sumter/precinct:140-sumter_high_1": {
+   "name": "Sumter County SC - Precinct 140 - Sumter High 1"
   },
   "ocd-division/country:us/state:sc/county:marlboro/precinct:2-blenheim": {
    "name": "Marlboro County SC - Precinct 2 - Blenheim"
@@ -405,26 +405,26 @@
   "ocd-division/country:us/state:sc/county:lee/precinct:23-barrier_free": {
    "name": "Lee County SC - Precinct 23 - Barrier Free"
   },
-  "ocd-division/country:us/state:sc/county:spartanburg/precinct:30-abner_creek_baptist": {
-   "name": "Spartanburg County SC - Precinct 30 - Abner Creek Baptist"
-  },
   "ocd-division/country:us/state:sc/county:york/precinct:43-india_hook": {
    "name": "York County SC - Precinct 43 - India Hook"
   },
-  "ocd-division/country:us/state:sc/county:florence/precinct:41-lake_city_4": {
-   "name": "Florence County SC - Precinct 41 - Lake City 4"
+  "ocd-division/country:us/state:sc/county:spartanburg/precinct:30-abner_creek_baptist": {
+   "name": "Spartanburg County SC - Precinct 30 - Abner Creek Baptist"
   },
   "ocd-division/country:us/state:sc/county:dorchester/precinct:97-irongate_3": {
    "name": "Dorchester County SC - Precinct 97 - Irongate 3"
   },
+  "ocd-division/country:us/state:sc/county:florence/precinct:41-lake_city_4": {
+   "name": "Florence County SC - Precinct 41 - Lake City 4"
+  },
   "ocd-division/country:us/state:sc/county:beaufort/precinct:182-saint_helena_1c": {
    "name": "Beaufort County SC - Precinct 182 - Saint Helena 1C"
   },
-  "ocd-division/country:us/state:sc/county:laurens/precinct:24-ora-lanford": {
-   "name": "Laurens County SC - Precinct 24 - Ora-Lanford"
-  },
   "ocd-division/country:us/state:sc/county:richland/precinct:360-ridgewood": {
    "name": "Richland County SC - Precinct 360 - Ridgewood"
+  },
+  "ocd-division/country:us/state:sc/county:laurens/precinct:24-ora-lanford": {
+   "name": "Laurens County SC - Precinct 24 - Ora-Lanford"
   },
   "ocd-division/country:us/state:sc/county:horry/precinct:164-maple": {
    "name": "Horry County SC - Precinct 164 - Maple"
@@ -456,11 +456,11 @@
   "ocd-division/country:us/state:sc/county:charleston/precinct:337-mt_pleasant_37": {
    "name": "Charleston County SC - Precinct 337 - Mt Pleasant 37"
   },
-  "ocd-division/country:us/state:sc/county:berkeley/precinct:18-goose_creek_1": {
-   "name": "Berkeley County SC - Precinct 18 - Goose Creek 1"
-  },
   "ocd-division/country:us/state:sc/county:marlboro/precinct:13-w_bennettsville": {
    "name": "Marlboro County SC - Precinct 13 - W Bennettsville"
+  },
+  "ocd-division/country:us/state:sc/county:berkeley/precinct:18-goose_creek_1": {
+   "name": "Berkeley County SC - Precinct 18 - Goose Creek 1"
   },
   "ocd-division/country:us/state:sc/county:greenville/precinct:353-greenbriar": {
    "name": "Greenville County SC - Precinct 353 - Greenbriar"
@@ -486,11 +486,11 @@
   "ocd-division/country:us/state:sc/place:johnsonville": {
    "name": "Johnsonville city"
   },
-  "ocd-division/country:us/state:sc/county:beaufort/precinct:220-hilton_head_9a": {
-   "name": "Beaufort County SC - Precinct 220 - Hilton Head 9A"
-  },
   "ocd-division/country:us/state:sc/county:lancaster/precinct:26-van_wyck": {
    "name": "Lancaster County SC - Precinct 26 - Van Wyck"
+  },
+  "ocd-division/country:us/state:sc/county:beaufort/precinct:220-hilton_head_9a": {
+   "name": "Beaufort County SC - Precinct 220 - Hilton Head 9A"
   },
   "ocd-division/country:us/state:sc/county:lexington/precinct:24-swansea_1": {
    "name": "Lexington County SC - Precinct 24 - Swansea #1"
@@ -501,11 +501,11 @@
   "ocd-division/country:us/state:sc/place:turbeville": {
    "name": "Turbeville town"
   },
-  "ocd-division/country:us/state:sc/county:greenville/precinct:214-greenville_14": {
-   "name": "Greenville County SC - Precinct 214 - Greenville 14"
-  },
   "ocd-division/country:us/state:sc/county:beaufort/precinct:114-burton_2b": {
    "name": "Beaufort County SC - Precinct 114 - Burton 2B"
+  },
+  "ocd-division/country:us/state:sc/county:greenville/precinct:214-greenville_14": {
+   "name": "Greenville County SC - Precinct 214 - Greenville 14"
   },
   "ocd-division/country:us/state:sc/county:york/precinct:83-neelys_creek": {
    "name": "York County SC - Precinct 83 - Neelys Creek"
@@ -522,14 +522,14 @@
   "ocd-division/country:us/state:sc/county:richland/precinct:386-parkway_2": {
    "name": "Richland County SC - Precinct 386 - Parkway #2"
   },
-  "ocd-division/country:us/state:sc/county:anderson/precinct:121-powdersville": {
-   "name": "Anderson County SC - Precinct 121 - Powdersville"
+  "ocd-division/country:us/state:sc/county:richland/precinct:321-e_forest_acres": {
+   "name": "Richland County SC - Precinct 321 - E Forest Acres"
   },
   "ocd-division/country:us/state:sc/county:charleston/precinct:215-charleston_15": {
    "name": "Charleston County SC - Precinct 215 - Charleston 15"
   },
-  "ocd-division/country:us/state:sc/county:richland/precinct:321-e_forest_acres": {
-   "name": "Richland County SC - Precinct 321 - E Forest Acres"
+  "ocd-division/country:us/state:sc/county:anderson/precinct:121-powdersville": {
+   "name": "Anderson County SC - Precinct 121 - Powdersville"
   },
   "ocd-division/country:us/state:sc/county:greenville/precinct:231-altamont_forest": {
    "name": "Greenville County SC - Precinct 231 - Altamont Forest"
@@ -546,23 +546,23 @@
   "ocd-division/country:us/state:sc/place:pacolet": {
    "name": "Pacolet town"
   },
-  "ocd-division/country:us/state:sc/county:greenville/precinct:218-greenville_18": {
-   "name": "Greenville County SC - Precinct 218 - Greenville 18"
+  "ocd-division/country:us/state:sc/county:richland/precinct:120-ward_20": {
+   "name": "Richland County SC - Precinct 120 - Ward 20"
   },
   "ocd-division/country:us/state:sc/county:barnwell/precinct:2-barnwell_2": {
    "name": "Barnwell County SC - Precinct 2 - Barnwell 2"
   },
-  "ocd-division/country:us/state:sc/county:richland/precinct:120-ward_20": {
-   "name": "Richland County SC - Precinct 120 - Ward 20"
+  "ocd-division/country:us/state:sc/county:greenville/precinct:218-greenville_18": {
+   "name": "Greenville County SC - Precinct 218 - Greenville 18"
   },
   "ocd-division/country:us/state:sc/county:florence/precinct:40-lake_city_3": {
    "name": "Florence County SC - Precinct 40 - Lake City 3"
   },
-  "ocd-division/country:us/state:sc/county:charleston/precinct:408-james_island_8b": {
-   "name": "Charleston County SC - Precinct 408 - James Island 8B"
-  },
   "ocd-division/country:us/state:sc/place:belton": {
    "name": "Belton city"
+  },
+  "ocd-division/country:us/state:sc/county:charleston/precinct:408-james_island_8b": {
+   "name": "Charleston County SC - Precinct 408 - James Island 8B"
   },
   "ocd-division/country:us/state:sc/county:newberry/precinct:2-newberry_wd_2": {
    "name": "Newberry County SC - Precinct 2 - Newberry Wd 2"
@@ -570,14 +570,14 @@
   "ocd-division/country:us/state:sc/county:aiken/precinct:32-salley_32": {
    "name": "Aiken County SC - Precinct 32 - Salley No.32"
   },
-  "ocd-division/country:us/state:sc/county:greenville/precinct:224-greenville_24": {
-   "name": "Greenville County SC - Precinct 224 - Greenville 24"
+  "ocd-division/country:us/state:sc/county:york/precinct:25-mt_gallant": {
+   "name": "York County SC - Precinct 25 - Mt. Gallant"
   },
   "ocd-division/country:us/state:sc/county:charleston/precinct:515-st_andrews_15": {
    "name": "Charleston County SC - Precinct 515 - St Andrews 15"
   },
-  "ocd-division/country:us/state:sc/county:york/precinct:25-mt_gallant": {
-   "name": "York County SC - Precinct 25 - Mt. Gallant"
+  "ocd-division/country:us/state:sc/county:greenville/precinct:224-greenville_24": {
+   "name": "Greenville County SC - Precinct 224 - Greenville 24"
   },
   "ocd-division/country:us/state:sc/county:spartanburg/precinct:84-beaumont_methodist": {
    "name": "Spartanburg County SC - Precinct 84 - Beaumont Methodist"
@@ -591,14 +591,14 @@
     203
    ]
   },
-  "ocd-division/country:us/state:sc/county:charleston/precinct:508-st_andrews_8": {
-   "name": "Charleston County SC - Precinct 508 - St Andrews 8"
-  },
   "ocd-division/country:us/state:sc/county:oconee/council_district:2": {
    "name": "Oconee Council District 2",
    "officeIndices": [
     204
    ]
+  },
+  "ocd-division/country:us/state:sc/county:charleston/precinct:508-st_andrews_8": {
+   "name": "Charleston County SC - Precinct 508 - St Andrews 8"
   },
   "ocd-division/country:us/state:sc/county:oconee/council_district:1": {
    "name": "Oconee Council District 1",
@@ -618,11 +618,11 @@
   "ocd-division/country:us/state:sc/county:orangeburg/precinct:155-barrier_free": {
    "name": "Orangeburg County SC - Precinct 155 - Barrier Free"
   },
-  "ocd-division/country:us/state:sc/county:greenville/precinct:312-simpsonville_3": {
-   "name": "Greenville County SC - Precinct 312 - Simpsonville 3"
-  },
   "ocd-division/country:us/state:sc/place:aiken": {
    "name": "Aiken city"
+  },
+  "ocd-division/country:us/state:sc/county:greenville/precinct:312-simpsonville_3": {
+   "name": "Greenville County SC - Precinct 312 - Simpsonville 3"
   },
   "ocd-division/country:us/state:sc/county:pickens/precinct:110-pike": {
    "name": "Pickens County SC - Precinct 110 - Pike"
@@ -654,14 +654,14 @@
   "ocd-division/country:us/state:sc/county:oconee/precinct:7-keowee": {
    "name": "Oconee County SC - Precinct 7 - Keowee"
   },
-  "ocd-division/country:us/state:sc/county:kershaw/precinct:149-shaylor~s_hill": {
-   "name": "Kershaw County SC - Precinct 149 - Shaylor's Hill"
-  },
   "ocd-division/country:us/state:sc/county:union/council_district:6": {
    "name": "Union Council District 6",
    "officeIndices": [
     206
    ]
+  },
+  "ocd-division/country:us/state:sc/county:kershaw/precinct:149-shaylor~s_hill": {
+   "name": "Kershaw County SC - Precinct 149 - Shaylor's Hill"
   },
   "ocd-division/country:us/state:sc/place:waterloo": {
    "name": "Waterloo town"
@@ -845,23 +845,23 @@
   "ocd-division/country:us/state:sc/county:aiken/precinct:50-breezy_hill_50": {
    "name": "Aiken County SC - Precinct 50 - Breezy Hill 50"
   },
-  "ocd-division/country:us/state:sc/county:colleton/precinct:21-round_o": {
-   "name": "Colleton County SC - Precinct 21 - Round O"
-  },
   "ocd-division/country:us/state:sc/county:orangeburg/precinct:132-four_holes": {
    "name": "Orangeburg County SC - Precinct 132 - Four Holes"
   },
-  "ocd-division/country:us/state:sc/county:pickens/precinct:154-crescent_hill": {
-   "name": "Pickens County SC - Precinct 154 - Crescent Hill"
+  "ocd-division/country:us/state:sc/county:colleton/precinct:21-round_o": {
+   "name": "Colleton County SC - Precinct 21 - Round O"
   },
   "ocd-division/country:us/state:sc/place:walterboro": {
    "name": "Walterboro city"
   },
-  "ocd-division/country:us/state:sc/county:fairfield/precinct:19-winnsboro_2": {
-   "name": "Fairfield County SC - Precinct 19 - Winnsboro No. 2"
+  "ocd-division/country:us/state:sc/county:pickens/precinct:154-crescent_hill": {
+   "name": "Pickens County SC - Precinct 154 - Crescent Hill"
   },
   "ocd-division/country:us/state:sc/county:lancaster/precinct:25-unity": {
    "name": "Lancaster County SC - Precinct 25 - Unity"
+  },
+  "ocd-division/country:us/state:sc/county:fairfield/precinct:19-winnsboro_2": {
+   "name": "Fairfield County SC - Precinct 19 - Winnsboro No. 2"
   },
   "ocd-division/country:us/state:sc/place:bonneau": {
    "name": "Bonneau town"
@@ -914,11 +914,11 @@
     231
    ]
   },
-  "ocd-division/country:us/state:sc/county:richland/precinct:340-lincolnshire": {
-   "name": "Richland County SC - Precinct 340 - Lincolnshire"
-  },
   "ocd-division/country:us/state:sc/county:williamsburg/precinct:17-kingstree_4": {
    "name": "Williamsburg County SC - Precinct 17 - Kingstree No. 4"
+  },
+  "ocd-division/country:us/state:sc/county:richland/precinct:340-lincolnshire": {
+   "name": "Richland County SC - Precinct 340 - Lincolnshire"
   },
   "ocd-division/country:us/state:sc/county:lancaster/council_district:7": {
    "name": "Lancaster Council District 7",
@@ -926,20 +926,20 @@
     232
    ]
   },
-  "ocd-division/country:us/state:sc/county:charleston/precinct:536-st_andrews_36": {
-   "name": "Charleston County SC - Precinct 536 - St Andrews 36"
-  },
   "ocd-division/country:us/state:sc/county:lancaster/council_district:6": {
    "name": "Lancaster Council District 6",
    "officeIndices": [
     233
    ]
   },
-  "ocd-division/country:us/state:sc/county:anderson/precinct:41-iva": {
-   "name": "Anderson County SC - Precinct 41 - Iva"
+  "ocd-division/country:us/state:sc/county:charleston/precinct:536-st_andrews_36": {
+   "name": "Charleston County SC - Precinct 536 - St Andrews 36"
   },
   "ocd-division/country:us/state:sc/county:pickens/precinct:121-north_pickens": {
    "name": "Pickens County SC - Precinct 121 - North Pickens"
+  },
+  "ocd-division/country:us/state:sc/county:anderson/precinct:41-iva": {
+   "name": "Anderson County SC - Precinct 41 - Iva"
   },
   "ocd-division/country:us/state:sc/county:edgefield/school_district:edgefield_01": {
    "name": "edgefield 01"
@@ -950,20 +950,20 @@
   "ocd-division/country:us/state:sc/county:orangeburg/precinct:131-eutawville_2": {
    "name": "Orangeburg County SC - Precinct 131 - Eutawville 2"
   },
-  "ocd-division/country:us/state:sc/county:chesterfield/precinct:9-cheraw_3": {
-   "name": "Chesterfield County SC - Precinct 9 - Cheraw No. 3"
-  },
   "ocd-division/country:us/state:sc/county:pickens/precinct:119-pumpkintown": {
    "name": "Pickens County SC - Precinct 119 - Pumpkintown"
+  },
+  "ocd-division/country:us/state:sc/county:chesterfield/precinct:9-cheraw_3": {
+   "name": "Chesterfield County SC - Precinct 9 - Cheraw No. 3"
   },
   "ocd-division/country:us/state:sc/county:florence/precinct:57-south_florence_2": {
    "name": "Florence County SC - Precinct 57 - South Florence 2"
   },
-  "ocd-division/country:us/state:sc/county:dorchester/precinct:46-greenwave": {
-   "name": "Dorchester County SC - Precinct 46 - Greenwave"
-  },
   "ocd-division/country:us/state:sc/county:york/precinct:16-windjammer": {
    "name": "York County SC - Precinct 16 - Windjammer"
+  },
+  "ocd-division/country:us/state:sc/county:dorchester/precinct:46-greenwave": {
+   "name": "Dorchester County SC - Precinct 46 - Greenwave"
   },
   "ocd-division/country:us/state:sc/county:kershaw/precinct:115-cassatt": {
    "name": "Kershaw County SC - Precinct 115 - Cassatt"
@@ -983,11 +983,11 @@
   "ocd-division/country:us/state:sc/place:north_myrtle_beach": {
    "name": "North Myrtle Beach city"
   },
-  "ocd-division/country:us/state:sc/county:charleston/precinct:631-barrier_free": {
-   "name": "Charleston County SC - Precinct 631 - Barrier Free"
-  },
   "ocd-division/country:us/state:sc/county:richland/precinct:350-north_springs_2": {
    "name": "Richland County SC - Precinct 350 - North Springs #2"
+  },
+  "ocd-division/country:us/state:sc/county:charleston/precinct:631-barrier_free": {
+   "name": "Charleston County SC - Precinct 631 - Barrier Free"
   },
   "ocd-division/country:us/state:sc/county:lexington/precinct:91-pineridge_2": {
    "name": "Lexington County SC - Precinct 91 - Pineridge #2"
@@ -1043,11 +1043,11 @@
   "ocd-division/country:us/state:sc/county:union/precinct:22-ward_4_box_2": {
    "name": "Union County SC - Precinct 22 - Ward 4 Box 2"
   },
-  "ocd-division/country:us/state:sc/county:spartanburg/precinct:125-chapman_elementary": {
-   "name": "Spartanburg County SC - Precinct 125 - Chapman Elementary"
-  },
   "ocd-division/country:us/state:sc/county:williamsburg/precinct:31-singletary": {
    "name": "Williamsburg County SC - Precinct 31 - Singletary"
+  },
+  "ocd-division/country:us/state:sc/county:spartanburg/precinct:125-chapman_elementary": {
+   "name": "Spartanburg County SC - Precinct 125 - Chapman Elementary"
   },
   "ocd-division/country:us/state:sc/county:charleston/precinct:211-charleston_11": {
    "name": "Charleston County SC - Precinct 211 - Charleston 11"
@@ -1055,14 +1055,14 @@
   "ocd-division/country:us/state:sc/county:florence/precinct:18-florence_3": {
    "name": "Florence County SC - Precinct 18 - Florence 3"
   },
-  "ocd-division/country:us/state:sc/county:charleston/precinct:625-n_charleston_25": {
-   "name": "Charleston County SC - Precinct 625 - N Charleston 25"
+  "ocd-division/country:us/state:sc/county:richland/precinct:327-gadsden": {
+   "name": "Richland County SC - Precinct 327 - Gadsden"
   },
   "ocd-division/country:us/state:sc/county:charleston/precinct:629-n_charleston_29": {
    "name": "Charleston County SC - Precinct 629 - N Charleston 29"
   },
-  "ocd-division/country:us/state:sc/county:richland/precinct:327-gadsden": {
-   "name": "Richland County SC - Precinct 327 - Gadsden"
+  "ocd-division/country:us/state:sc/county:charleston/precinct:625-n_charleston_25": {
+   "name": "Charleston County SC - Precinct 625 - N Charleston 25"
   },
   "ocd-division/country:us/state:sc/county:aiken/precinct:18-langley_18": {
    "name": "Aiken County SC - Precinct 18 - Langley No. 18"
@@ -1076,17 +1076,20 @@
     234
    ]
   },
-  "ocd-division/country:us/state:sc/county:beaufort/precinct:181-saint_helena_1b": {
-   "name": "Beaufort County SC - Precinct 181 - Saint Helena 1B"
-  },
   "ocd-division/country:us/state:sc/county:chester/council_district:2": {
    "name": "Chester Council District 2",
    "officeIndices": [
     235
    ]
   },
+  "ocd-division/country:us/state:sc/county:beaufort/precinct:181-saint_helena_1b": {
+   "name": "Beaufort County SC - Precinct 181 - Saint Helena 1B"
+  },
   "ocd-division/country:us/state:sc/place:smyrna": {
    "name": "Smyrna town"
+  },
+  "ocd-division/country:us/state:sc/county:pickens/precinct:146-crosswell": {
+   "name": "Pickens County SC - Precinct 146 - Crosswell"
   },
   "ocd-division/country:us/state:sc/county:chester/council_district:3": {
    "name": "Chester Council District 3",
@@ -1094,14 +1097,11 @@
     236
    ]
   },
-  "ocd-division/country:us/state:sc/county:pickens/precinct:146-crosswell": {
-   "name": "Pickens County SC - Precinct 146 - Crosswell"
+  "ocd-division/country:us/state:sc/county:dorchester/precinct:60-greenhurst": {
+   "name": "Dorchester County SC - Precinct 60 - Greenhurst"
   },
   "ocd-division/country:us/state:sc/county:georgetown/precinct:116-kensington": {
    "name": "Georgetown County SC - Precinct 116 - Kensington"
-  },
-  "ocd-division/country:us/state:sc/county:dorchester/precinct:60-greenhurst": {
-   "name": "Dorchester County SC - Precinct 60 - Greenhurst"
   },
   "ocd-division/country:us/state:sc/county:chester/council_district:4": {
    "name": "Chester Council District 4",
@@ -1109,17 +1109,17 @@
     237
    ]
   },
-  "ocd-division/country:us/state:sc/county:anderson/precinct:86-varennes": {
-   "name": "Anderson County SC - Precinct 86 - Varennes"
-  },
   "ocd-division/country:us/state:sc/county:chester/council_district:5": {
    "name": "Chester Council District 5",
    "officeIndices": [
     238
    ]
   },
-  "ocd-division/country:us/state:sc/county:clarendon/precinct:26-barrier_free": {
-   "name": "Clarendon County SC - Precinct 26 - Barrier Free"
+  "ocd-division/country:us/state:sc/county:anderson/precinct:86-varennes": {
+   "name": "Anderson County SC - Precinct 86 - Varennes"
+  },
+  "ocd-division/country:us/state:sc/county:jasper/precinct:102-gillisonville": {
+   "name": "Jasper County SC - Precinct 102 - Gillisonville"
   },
   "ocd-division/country:us/state:sc/county:chester/council_district:6": {
    "name": "Chester Council District 6",
@@ -1127,8 +1127,8 @@
     239
    ]
   },
-  "ocd-division/country:us/state:sc/county:jasper/precinct:102-gillisonville": {
-   "name": "Jasper County SC - Precinct 102 - Gillisonville"
+  "ocd-division/country:us/state:sc/county:clarendon/precinct:26-barrier_free": {
+   "name": "Clarendon County SC - Precinct 26 - Barrier Free"
   },
   "ocd-division/country:us/state:sc/county:abbeville/precinct:7-calhoun_falls": {
    "name": "Abbeville County SC - Precinct 7 - Calhoun Falls"
@@ -1160,23 +1160,23 @@
     241
    ]
   },
-  "ocd-division/country:us/state:sc/county:horry/precinct:181-ocean_forest_1": {
-   "name": "Horry County SC - Precinct 181 - Ocean Forest #1"
-  },
   "ocd-division/country:us/state:sc/county:allendale/council_district:1": {
    "name": "Allendale Council District 1",
    "officeIndices": [
     242
    ]
   },
-  "ocd-division/country:us/state:sc/county:hampton/precinct:16-hopewell": {
-   "name": "Hampton County SC - Precinct 16 - Hopewell"
+  "ocd-division/country:us/state:sc/county:horry/precinct:181-ocean_forest_1": {
+   "name": "Horry County SC - Precinct 181 - Ocean Forest #1"
   },
   "ocd-division/country:us/state:sc/county:allendale/council_district:4": {
    "name": "Allendale Council District 4",
    "officeIndices": [
     243
    ]
+  },
+  "ocd-division/country:us/state:sc/county:hampton/precinct:16-hopewell": {
+   "name": "Hampton County SC - Precinct 16 - Hopewell"
   },
   "ocd-division/country:us/state:sc/county:allendale/council_district:3": {
    "name": "Allendale Council District 3",
@@ -1190,11 +1190,11 @@
   "ocd-division/country:us/state:sc/county:marion/precinct:1-britton~s_neck": {
    "name": "Marion County SC - Precinct 1 - Britton's Neck"
   },
-  "ocd-division/country:us/state:sc/county:fairfield/precinct:12-monticello": {
-   "name": "Fairfield County SC - Precinct 12 - Monticello"
-  },
   "ocd-division/country:us/state:sc/county:lancaster/precinct:18-lynwood_drive": {
    "name": "Lancaster County SC - Precinct 18 - Lynwood Drive"
+  },
+  "ocd-division/country:us/state:sc/county:fairfield/precinct:12-monticello": {
+   "name": "Fairfield County SC - Precinct 12 - Monticello"
   },
   "ocd-division/country:us/state:sc/county:beaufort/precinct:221-hilton_head_9b": {
    "name": "Beaufort County SC - Precinct 221 - Hilton Head 9B"
@@ -1328,11 +1328,11 @@
   "ocd-division/country:us/state:sc/county:charleston/precinct:466-st_pauls_6": {
    "name": "Charleston County SC - Precinct 466 - St Pauls 6"
   },
-  "ocd-division/country:us/state:sc/county:greenville/precinct:291-palmetto": {
-   "name": "Greenville County SC - Precinct 291 - Palmetto"
-  },
   "ocd-division/country:us/state:sc/county:spartanburg/precinct:126-mountain_view_baptist": {
    "name": "Spartanburg County SC - Precinct 126 - Mountain View Baptist"
+  },
+  "ocd-division/country:us/state:sc/county:greenville/precinct:291-palmetto": {
+   "name": "Greenville County SC - Precinct 291 - Palmetto"
   },
   "ocd-division/country:us/state:sc/county:richland/precinct:310-caughman_road": {
    "name": "Richland County SC - Precinct 310 - Caughman Road"
@@ -1844,12 +1844,6 @@
   "ocd-division/country:us/state:sc/county:charleston/precinct:10-isle_of_palms_1a": {
    "name": "Charleston County SC - Precinct 10 - Isle Of Palms 1A"
   },
-  "ocd-division/country:us/state:sc/county:colleton/precinct:6-cottageville": {
-   "name": "Colleton County SC - Precinct 6 - Cottageville"
-  },
-  "ocd-division/country:us/state:sc/county:aiken/precinct:11-china_sprgs_11": {
-   "name": "Aiken County SC - Precinct 11 - China Sprgs 11"
-  },
   "ocd-division/country:us/state:sc/county:richland": {
    "name": "Richland County",
    "officeIndices": [
@@ -1860,6 +1854,12 @@
     303,
     304
    ]
+  },
+  "ocd-division/country:us/state:sc/county:colleton/precinct:6-cottageville": {
+   "name": "Colleton County SC - Precinct 6 - Cottageville"
+  },
+  "ocd-division/country:us/state:sc/county:aiken/precinct:11-china_sprgs_11": {
+   "name": "Aiken County SC - Precinct 11 - China Sprgs 11"
   },
   "ocd-division/country:us/state:sc/county:aiken/precinct:6-aiken_6": {
    "name": "Aiken County SC - Precinct 6 - Aiken No. 6"
@@ -2220,11 +2220,11 @@
     318
    ]
   },
-  "ocd-division/country:us/state:sc/county:chester/precinct:22-rodman": {
-   "name": "Chester County SC - Precinct 22 - Rodman"
-  },
   "ocd-division/country:us/state:sc/county:richland/precinct:359-rice_creek": {
    "name": "Richland County SC - Precinct 359 - Rice Creek"
+  },
+  "ocd-division/country:us/state:sc/county:chester/precinct:22-rodman": {
+   "name": "Chester County SC - Precinct 22 - Rodman"
   },
   "ocd-division/country:us/state:sc/county:bamberg/precinct:1-colston": {
    "name": "Bamberg County SC - Precinct 1 - Colston"
@@ -2232,8 +2232,8 @@
   "ocd-division/country:us/state:sc/county:newberry/precinct:52-barrier_free": {
    "name": "Newberry County SC - Precinct 52 - Barrier Free"
   },
-  "ocd-division/country:us/state:sc/county:jasper/precinct:113-tillman": {
-   "name": "Jasper County SC - Precinct 113 - Tillman"
+  "ocd-division/country:us/state:sc/county:sumter/precinct:156-ebenezer_2": {
+   "name": "Sumter County SC - Precinct 156 - Ebenezer 2"
   },
   "ocd-division/country:us/state:sc/county:richland/council_district:8": {
    "name": "Richland County SC County Council District 8",
@@ -2241,8 +2241,8 @@
     319
    ]
   },
-  "ocd-division/country:us/state:sc/county:sumter/precinct:156-ebenezer_2": {
-   "name": "Sumter County SC - Precinct 156 - Ebenezer 2"
+  "ocd-division/country:us/state:sc/county:jasper/precinct:113-tillman": {
+   "name": "Jasper County SC - Precinct 113 - Tillman"
   },
   "ocd-division/country:us/state:sc/county:richland/council_district:9": {
    "name": "Richland County SC County Council District 9",
@@ -2250,11 +2250,11 @@
     320
    ]
   },
-  "ocd-division/country:us/state:sc/county:charleston/precinct:618-n_charleston_18": {
-   "name": "Charleston County SC - Precinct 618 - N Charleston 18"
-  },
   "ocd-division/country:us/state:sc/county:charleston/precinct:623-n_charleston_23": {
    "name": "Charleston County SC - Precinct 623 - N Charleston 23"
+  },
+  "ocd-division/country:us/state:sc/county:charleston/precinct:618-n_charleston_18": {
+   "name": "Charleston County SC - Precinct 618 - N Charleston 18"
   },
   "ocd-division/country:us/state:sc/county:richland/council_district:1": {
    "name": "Richland County SC County Council District 1",
@@ -2313,11 +2313,11 @@
   "ocd-division/country:us/state:sc/place:florence": {
    "name": "Florence city"
   },
-  "ocd-division/country:us/state:sc/county:jasper/precinct:107-hardeeville_2": {
-   "name": "Jasper County SC - Precinct 107 - Hardeeville 2"
-  },
   "ocd-division/country:us/state:sc/county:laurens/precinct:17-clinton_3": {
    "name": "Laurens County SC - Precinct 17 - Clinton 3"
+  },
+  "ocd-division/country:us/state:sc/county:jasper/precinct:107-hardeeville_2": {
+   "name": "Jasper County SC - Precinct 107 - Hardeeville 2"
   },
   "ocd-division/country:us/state:sc/county:greenville/precinct:229-greenville_29": {
    "name": "Greenville County SC - Precinct 229 - Greenville 29"
@@ -2337,23 +2337,23 @@
   "ocd-division/country:us/state:sc/county:richland/precinct:134-ward_34": {
    "name": "Richland County SC - Precinct 134 - Ward 34"
   },
-  "ocd-division/country:us/state:sc/county:berkeley/precinct:35-pimlico": {
-   "name": "Berkeley County SC - Precinct 35 - Pimlico"
+  "ocd-division/country:us/state:sc/county:union/precinct:21-ward_4_box_1": {
+   "name": "Union County SC - Precinct 21 - Ward 4 Box 1"
   },
   "ocd-division/country:us/state:sc/county:charleston/precinct:309-mt_pleasant_9": {
    "name": "Charleston County SC - Precinct 309 - Mt Pleasant 9"
   },
-  "ocd-division/country:us/state:sc/county:union/precinct:21-ward_4_box_1": {
-   "name": "Union County SC - Precinct 21 - Ward 4 Box 1"
+  "ocd-division/country:us/state:sc/county:berkeley/precinct:35-pimlico": {
+   "name": "Berkeley County SC - Precinct 35 - Pimlico"
   },
-  "ocd-division/country:us/state:sc/county:greenville/precinct:201-greenville_01": {
-   "name": "Greenville County SC - Precinct 201 - Greenville 01"
+  "ocd-division/country:us/state:sc/county:charleston/precinct:441-johns_island_1b": {
+   "name": "Charleston County SC - Precinct 441 - Johns Island 1B"
   },
   "ocd-division/country:us/state:sc/county:darlington/precinct:21-high_hill": {
    "name": "Darlington County SC - Precinct 21 - High Hill"
   },
-  "ocd-division/country:us/state:sc/county:charleston/precinct:441-johns_island_1b": {
-   "name": "Charleston County SC - Precinct 441 - Johns Island 1B"
+  "ocd-division/country:us/state:sc/county:greenville/precinct:201-greenville_01": {
+   "name": "Greenville County SC - Precinct 201 - Greenville 01"
   },
   "ocd-division/country:us/state:sc/county:horry/precinct:111-carolina_forest_2": {
    "name": "Horry County SC - Precinct 111 - Carolina Forest #2"
@@ -2382,11 +2382,11 @@
   "ocd-division/country:us/state:sc/county:charleston/precinct:532-st_andrews_32": {
    "name": "Charleston County SC - Precinct 532 - St Andrews 32"
   },
-  "ocd-division/country:us/state:sc/county:greenville/precinct:345-mt_pleasant": {
-   "name": "Greenville County SC - Precinct 345 - Mt Pleasant"
-  },
   "ocd-division/country:us/state:sc/county:lee/precinct:12-lynchburg": {
    "name": "Lee County SC - Precinct 12 - Lynchburg"
+  },
+  "ocd-division/country:us/state:sc/county:greenville/precinct:345-mt_pleasant": {
+   "name": "Greenville County SC - Precinct 345 - Mt Pleasant"
   },
   "ocd-division/country:us/state:sc/county:hampton/precinct:22-barrier_free": {
    "name": "Hampton County SC - Precinct 22 - Barrier Free"
@@ -2406,11 +2406,11 @@
   "ocd-division/country:us/state:sc/place:vance": {
    "name": "Vance town"
   },
-  "ocd-division/country:us/state:sc/county:fairfield/precinct:7-jenkinsville": {
-   "name": "Fairfield County SC - Precinct 7 - Jenkinsville"
-  },
   "ocd-division/country:us/state:sc/county:edgefield/precinct:2-edgefield_2": {
    "name": "Edgefield County SC - Precinct 2 - Edgefield No. 2"
+  },
+  "ocd-division/country:us/state:sc/county:fairfield/precinct:7-jenkinsville": {
+   "name": "Fairfield County SC - Precinct 7 - Jenkinsville"
   },
   "ocd-division/country:us/state:sc/county:horry/precinct:107-brownway": {
    "name": "Horry County SC - Precinct 107 - Brownway"
@@ -2427,14 +2427,14 @@
     328
    ]
   },
+  "ocd-division/country:us/state:sc/county:aiken/precinct:39-wagener_39": {
+   "name": "Aiken County SC - Precinct 39 - Wagener No. 39"
+  },
   "ocd-division/country:us/state:sc/county:bamberg/council_district:5": {
    "name": "Bamberg Council District 5",
    "officeIndices": [
     329
    ]
-  },
-  "ocd-division/country:us/state:sc/county:aiken/precinct:39-wagener_39": {
-   "name": "Aiken County SC - Precinct 39 - Wagener No. 39"
   },
   "ocd-division/country:us/state:sc/county:bamberg/council_district:4": {
    "name": "Bamberg Council District 4",
@@ -2484,23 +2484,23 @@
     336
    ]
   },
-  "ocd-division/country:us/state:sc/county:marlboro/precinct:3-brightsville": {
-   "name": "Marlboro County SC - Precinct 3 - Brightsville"
-  },
   "ocd-division/country:us/state:sc/county:york/council_district:5": {
    "name": "York County SC County Council District 5",
    "officeIndices": [
     337
    ]
   },
-  "ocd-division/country:us/state:sc/county:greenville/precinct:341-westcliffe": {
-   "name": "Greenville County SC - Precinct 341 - Westcliffe"
+  "ocd-division/country:us/state:sc/county:marlboro/precinct:3-brightsville": {
+   "name": "Marlboro County SC - Precinct 3 - Brightsville"
   },
   "ocd-division/country:us/state:sc/county:york/council_district:4": {
    "name": "York County SC County Council District 4",
    "officeIndices": [
     338
    ]
+  },
+  "ocd-division/country:us/state:sc/county:greenville/precinct:341-westcliffe": {
+   "name": "Greenville County SC - Precinct 341 - Westcliffe"
   },
   "ocd-division/country:us/state:sc/county:york/council_district:3": {
    "name": "York County SC County Council District 3",
@@ -2529,14 +2529,14 @@
   "ocd-division/country:us/state:sc/county:greenville/precinct:351-granite_creek": {
    "name": "Greenville County SC - Precinct 351 - Granite Creek"
   },
-  "ocd-division/country:us/state:sc/county:florence/precinct:61-timmonsville_2": {
-   "name": "Florence County SC - Precinct 61 - Timmonsville 2"
+  "ocd-division/country:us/state:sc/place:chester": {
+   "name": "Chester city"
   },
   "ocd-division/country:us/state:sc/county:clarendon/precinct:15-manning_5": {
    "name": "Clarendon County SC - Precinct 15 - Manning No. 5"
   },
-  "ocd-division/country:us/state:sc/place:chester": {
-   "name": "Chester city"
+  "ocd-division/country:us/state:sc/county:florence/precinct:61-timmonsville_2": {
+   "name": "Florence County SC - Precinct 61 - Timmonsville 2"
   },
   "ocd-division/country:us/state:sc/place:batesburg-leesville": {
    "name": "Batesburg-Leesville town"
@@ -2571,14 +2571,14 @@
   "ocd-division/country:us/state:sc/county:lexington/precinct:58-grenadier": {
    "name": "Lexington County SC - Precinct 58 - Grenadier"
   },
-  "ocd-division/country:us/state:sc/county:fairfield/precinct:13-new_hope": {
-   "name": "Fairfield County SC - Precinct 13 - New Hope"
+  "ocd-division/country:us/state:sc/county:spartanburg/precinct:108-white_stone_methodist": {
+   "name": "Spartanburg County SC - Precinct 108 - White Stone Methodist"
   },
   "ocd-division/country:us/state:sc/county:newberry/precinct:6-newberry_wd_6": {
    "name": "Newberry County SC - Precinct 6 - Newberry Wd 6"
   },
-  "ocd-division/country:us/state:sc/county:spartanburg/precinct:108-white_stone_methodist": {
-   "name": "Spartanburg County SC - Precinct 108 - White Stone Methodist"
+  "ocd-division/country:us/state:sc/county:fairfield/precinct:13-new_hope": {
+   "name": "Fairfield County SC - Precinct 13 - New Hope"
   },
   "ocd-division/country:us/state:sc/county:lexington/precinct:12-leesville": {
    "name": "Lexington County SC - Precinct 12 - Leesville"
@@ -2589,11 +2589,11 @@
   "ocd-division/country:us/state:sc/county:florence/precinct:52-quinby": {
    "name": "Florence County SC - Precinct 52 - Quinby"
   },
-  "ocd-division/country:us/state:sc/county:greenville/precinct:330-tigerville": {
-   "name": "Greenville County SC - Precinct 330 - Tigerville"
-  },
   "ocd-division/country:us/state:sc/county:florence/precinct:54-savannah_grove": {
    "name": "Florence County SC - Precinct 54 - Savannah Grove"
+  },
+  "ocd-division/country:us/state:sc/county:greenville/precinct:330-tigerville": {
+   "name": "Greenville County SC - Precinct 330 - Tigerville"
   },
   "ocd-division/country:us/state:sc/county:newberry/precinct:3-newberry_wd_3": {
    "name": "Newberry County SC - Precinct 3 - Newberry Wd 3"
@@ -2625,11 +2625,11 @@
   "ocd-division/country:us/state:sc/county:richland/precinct:393-barrier_free": {
    "name": "Richland County SC - Precinct 393 - Barrier Free"
   },
-  "ocd-division/country:us/state:sc/county:berkeley/precinct:21-hanahan_2": {
-   "name": "Berkeley County SC - Precinct 21 - Hanahan 2"
-  },
   "ocd-division/country:us/state:sc/county:sumter/precinct:159-barrier_free": {
    "name": "Sumter County SC - Precinct 159 - Barrier Free"
+  },
+  "ocd-division/country:us/state:sc/county:berkeley/precinct:21-hanahan_2": {
+   "name": "Berkeley County SC - Precinct 21 - Hanahan 2"
   },
   "ocd-division/country:us/state:sc/county:york/precinct:71-harvest": {
    "name": "York County SC - Precinct 71 - Harvest"
@@ -2655,11 +2655,11 @@
   "ocd-division/country:us/state:sc/county:colleton/precinct:30-walterboro_2": {
    "name": "Colleton County SC - Precinct 30 - Walterboro No 2"
   },
-  "ocd-division/country:us/state:sc/county:beaufort/precinct:353-sun_city_3a": {
-   "name": "Beaufort County SC - Precinct 353 - Sun City 3A"
-  },
   "ocd-division/country:us/state:sc/place:gray_court": {
    "name": "Gray Court town"
+  },
+  "ocd-division/country:us/state:sc/county:beaufort/precinct:353-sun_city_3a": {
+   "name": "Beaufort County SC - Precinct 353 - Sun City 3A"
   },
   "ocd-division/country:us/state:sc/place:blackville": {
    "name": "Blackville town"
@@ -2667,11 +2667,11 @@
   "ocd-division/country:us/state:sc/place:holly_hill": {
    "name": "Holly Hill town"
   },
-  "ocd-division/country:us/state:sc/county:horry/precinct:180-ocean_drive_2": {
-   "name": "Horry County SC - Precinct 180 - Ocean Drive #2"
-  },
   "ocd-division/country:us/state:sc/county:orangeburg/precinct:125-brookdale": {
    "name": "Orangeburg County SC - Precinct 125 - Brookdale"
+  },
+  "ocd-division/country:us/state:sc/county:horry/precinct:180-ocean_drive_2": {
+   "name": "Horry County SC - Precinct 180 - Ocean Drive #2"
   },
   "ocd-division/country:us/state:sc/county:orangeburg/precinct:106-orangeburg_wd_6": {
    "name": "Orangeburg County SC - Precinct 106 - Orangeburg Wd 6"
@@ -4099,11 +4099,11 @@
   "ocd-division/country:us/state:sc/place:north_charleston/council_district:4": {
    "name": "North Charleston SC city council district 4"
   },
-  "ocd-division/country:us/state:sc/county:greenwood/precinct:17-coronaca": {
-   "name": "Greenwood County SC - Precinct 17 - Coronaca"
-  },
   "ocd-division/country:us/state:sc/place:north_charleston/council_district:5": {
    "name": "North Charleston SC city council district 5"
+  },
+  "ocd-division/country:us/state:sc/county:greenwood/precinct:17-coronaca": {
+   "name": "Greenwood County SC - Precinct 17 - Coronaca"
   },
   "ocd-division/country:us/state:sc/county:greenwood/precinct:37-pinecrest": {
    "name": "Greenwood County SC - Precinct 37 - Pinecrest"
@@ -5039,11 +5039,11 @@
   "ocd-division/country:us/state:sc/county:sumter/precinct:146-pocotaligo_2": {
    "name": "Sumter County SC - Precinct 146 - Pocotaligo 2"
   },
-  "ocd-division/country:us/state:sc/county:beaufort/precinct:301-bluffton_1a": {
-   "name": "Beaufort County SC - Precinct 301 - Bluffton 1A"
-  },
   "ocd-division/country:us/state:sc/county:lancaster/precinct:12-hyde_park": {
    "name": "Lancaster County SC - Precinct 12 - Hyde Park"
+  },
+  "ocd-division/country:us/state:sc/county:beaufort/precinct:301-bluffton_1a": {
+   "name": "Beaufort County SC - Precinct 301 - Bluffton 1A"
   },
   "ocd-division/country:us/state:sc/place:duncan": {
    "name": "Duncan town"
@@ -5051,11 +5051,11 @@
   "ocd-division/country:us/state:sc/county:pickens/precinct:151-dacusville": {
    "name": "Pickens County SC - Precinct 151 - Dacusville"
   },
-  "ocd-division/country:us/state:sc/county:charleston/precinct:518-st_andrews_18": {
-   "name": "Charleston County SC - Precinct 518 - St Andrews 18"
-  },
   "ocd-division/country:us/state:sc/place:sharon": {
    "name": "Sharon town"
+  },
+  "ocd-division/country:us/state:sc/county:charleston/precinct:518-st_andrews_18": {
+   "name": "Charleston County SC - Precinct 518 - St Andrews 18"
   },
   "ocd-division/country:us/state:sc/county:richland/precinct:319-fairlawn": {
    "name": "Richland County SC - Precinct 319 - Fairlawn"
@@ -5066,17 +5066,17 @@
     465
    ]
   },
+  "ocd-division/country:us/state:sc/county:sumter/precinct:144-manchester_forest": {
+   "name": "Sumter County SC - Precinct 144 - Manchester Forest"
+  },
+  "ocd-division/country:us/state:sc/county:lexington/precinct:52-woodland_hills": {
+   "name": "Lexington County SC - Precinct 52 - Woodland Hills"
+  },
   "ocd-division/country:us/state:sc/county:clarendon/council_district:1": {
    "name": "Clarendon Council District 1",
    "officeIndices": [
     466
    ]
-  },
-  "ocd-division/country:us/state:sc/county:lexington/precinct:52-woodland_hills": {
-   "name": "Lexington County SC - Precinct 52 - Woodland Hills"
-  },
-  "ocd-division/country:us/state:sc/county:sumter/precinct:144-manchester_forest": {
-   "name": "Sumter County SC - Precinct 144 - Manchester Forest"
   },
   "ocd-division/country:us/state:sc/county:clarendon/council_district:2": {
    "name": "Clarendon Council District 2",
@@ -5087,11 +5087,11 @@
   "ocd-division/country:us/state:sc/county:clarendon/school_district:clarendon_80": {
    "name": "clarendon 80"
   },
-  "ocd-division/country:us/state:sc/county:greenwood/precinct:31-riley": {
-   "name": "Greenwood County SC - Precinct 31 - Riley"
-  },
   "ocd-division/country:us/state:sc/place:darlington": {
    "name": "Darlington city"
+  },
+  "ocd-division/country:us/state:sc/county:greenwood/precinct:31-riley": {
+   "name": "Greenwood County SC - Precinct 31 - Riley"
   },
   "ocd-division/country:us/state:sc/county:anderson/precinct:78-anderson_3-1": {
    "name": "Anderson County SC - Precinct 78 - Anderson 3/1"
@@ -5102,11 +5102,11 @@
   "ocd-division/country:us/state:sc/county:york/precinct:37-rock_hill_8": {
    "name": "York County SC - Precinct 37 - Rock Hill No. 8"
   },
-  "ocd-division/country:us/state:sc/county:florence/precinct:12-ebenezer_3": {
-   "name": "Florence County SC - Precinct 12 - Ebenezer 3"
-  },
   "ocd-division/country:us/state:sc/county:dorchester/precinct:28-grover": {
    "name": "Dorchester County SC - Precinct 28 - Grover"
+  },
+  "ocd-division/country:us/state:sc/county:florence/precinct:12-ebenezer_3": {
+   "name": "Florence County SC - Precinct 12 - Ebenezer 3"
   },
   "ocd-division/country:us/state:sc/county:spartanburg/precinct:45-chapman_high_school": {
    "name": "Spartanburg County SC - Precinct 45 - Chapman High School"
@@ -5145,14 +5145,14 @@
     479
    ]
   },
-  "ocd-division/country:us/state:sc/county:greenville/precinct:367-tyger_river": {
-   "name": "Greenville County SC - Precinct 367 - Tyger River"
-  },
   "ocd-division/country:us/state:sc/county:dillon/council_district:4": {
    "name": "Dillon Council District 4",
    "officeIndices": [
     480
    ]
+  },
+  "ocd-division/country:us/state:sc/county:greenville/precinct:367-tyger_river": {
+   "name": "Greenville County SC - Precinct 367 - Tyger River"
   },
   "ocd-division/country:us/state:sc/county:dillon/council_district:1": {
    "name": "Dillon Council District 1",
@@ -5166,23 +5166,23 @@
     482
    ]
   },
+  "ocd-division/country:us/state:sc/county:lexington/precinct:13-red_bank_south_1": {
+   "name": "Lexington County SC - Precinct 13 - Red Bank South #1"
+  },
   "ocd-division/country:us/state:sc/county:dillon/council_district:7": {
    "name": "Dillon Council District 7",
    "officeIndices": [
     483
    ]
   },
-  "ocd-division/country:us/state:sc/county:lexington/precinct:13-red_bank_south_1": {
-   "name": "Lexington County SC - Precinct 13 - Red Bank South #1"
+  "ocd-division/country:us/state:sc/county:allendale/precinct:1-allendale_1": {
+   "name": "Allendale County SC - Precinct 1 - Allendale No. 1"
   },
   "ocd-division/country:us/state:sc/county:dillon/council_district:6": {
    "name": "Dillon Council District 6",
    "officeIndices": [
     484
    ]
-  },
-  "ocd-division/country:us/state:sc/county:allendale/precinct:1-allendale_1": {
-   "name": "Allendale County SC - Precinct 1 - Allendale No. 1"
   },
   "ocd-division/country:us/state:sc/county:dillon/council_district:5": {
    "name": "Dillon Council District 5",
@@ -5223,11 +5223,11 @@
   "ocd-division/country:us/state:sc/county:greenville/precinct:257-feaster": {
    "name": "Greenville County SC - Precinct 257 - Feaster"
   },
-  "ocd-division/country:us/state:sc/county:aiken/precinct:20-millbrook_20": {
-   "name": "Aiken County SC - Precinct 20 - Millbrook No 20"
-  },
   "ocd-division/country:us/state:sc/county:charleston/precinct:503-st_andrews_3": {
    "name": "Charleston County SC - Precinct 503 - St Andrews 3"
+  },
+  "ocd-division/country:us/state:sc/county:aiken/precinct:20-millbrook_20": {
+   "name": "Aiken County SC - Precinct 20 - Millbrook No 20"
   },
   "ocd-division/country:us/state:sc/county:chester/precinct:28-great_falls_3": {
    "name": "Chester County SC - Precinct 28 - Great Falls 3"
@@ -5238,22 +5238,16 @@
   "ocd-division/country:us/state:sc/county:orangeburg/precinct:107-orangeburg_wd_7": {
    "name": "Orangeburg County SC - Precinct 107 - Orangeburg Wd 7"
   },
-  "ocd-division/country:us/state:sc/sldl:84": {
-   "name": "South Carolina State House district HD-084",
-   "officeIndices": [
-    36
-   ]
-  },
   "ocd-division/country:us/state:sc/county:laurens/council_district:2": {
    "name": "Laurens Council District 2",
    "officeIndices": [
     486
    ]
   },
-  "ocd-division/country:us/state:sc/county:laurens/council_district:1": {
-   "name": "Laurens Council District 1",
+  "ocd-division/country:us/state:sc/sldl:84": {
+   "name": "South Carolina State House district HD-084",
    "officeIndices": [
-    487
+    36
    ]
   },
   "ocd-division/country:us/state:sc/sldl:83": {
@@ -5262,10 +5256,10 @@
     37
    ]
   },
-  "ocd-division/country:us/state:sc/county:laurens/council_district:4": {
-   "name": "Laurens Council District 4",
+  "ocd-division/country:us/state:sc/county:laurens/council_district:1": {
+   "name": "Laurens Council District 1",
    "officeIndices": [
-    488
+    487
    ]
   },
   "ocd-division/country:us/state:sc/sldl:82": {
@@ -5274,16 +5268,22 @@
     38
    ]
   },
-  "ocd-division/country:us/state:sc/county:laurens/council_district:3": {
-   "name": "Laurens Council District 3",
+  "ocd-division/country:us/state:sc/county:laurens/council_district:4": {
+   "name": "Laurens Council District 4",
    "officeIndices": [
-    489
+    488
    ]
   },
   "ocd-division/country:us/state:sc/sldl:81": {
    "name": "South Carolina State House district HD-081",
    "officeIndices": [
     39
+   ]
+  },
+  "ocd-division/country:us/state:sc/county:laurens/council_district:3": {
+   "name": "Laurens Council District 3",
+   "officeIndices": [
+    489
    ]
   },
   "ocd-division/country:us/state:sc/sldl:80": {
@@ -5319,14 +5319,14 @@
     44
    ]
   },
+  "ocd-division/country:us/state:sc/county:richland/precinct:124-ward_24": {
+   "name": "Richland County SC - Precinct 124 - Ward 24"
+  },
   "ocd-division/country:us/state:sc/sldl:85": {
    "name": "South Carolina State House district HD-085",
    "officeIndices": [
     45
    ]
-  },
-  "ocd-division/country:us/state:sc/county:richland/precinct:124-ward_24": {
-   "name": "Richland County SC - Precinct 124 - Ward 24"
   },
   "ocd-division/country:us/state:sc/place:hartsville": {
    "name": "Hartsville city"
@@ -5334,20 +5334,20 @@
   "ocd-division/country:us/state:sc/county:spartanburg/precinct:75-southside_baptist": {
    "name": "Spartanburg County SC - Precinct 75 - Southside Baptist"
   },
+  "ocd-division/country:us/state:sc/county:york/precinct:31-rock_hill_2": {
+   "name": "York County SC - Precinct 31 - Rock Hill No. 2"
+  },
   "ocd-division/country:us/state:sc/county:spartanburg/precinct:112-boiling_spgs_intermediate": {
    "name": "Spartanburg County SC - Precinct 112 - Boiling Spgs Intermediate"
   },
-  "ocd-division/country:us/state:sc/county:york/precinct:31-rock_hill_2": {
-   "name": "York County SC - Precinct 31 - Rock Hill No. 2"
+  "ocd-division/country:us/state:sc/county:oconee/precinct:18-new_hope": {
+   "name": "Oconee County SC - Precinct 18 - New Hope"
   },
   "ocd-division/country:us/state:sc/county:laurens/council_district:7": {
    "name": "Laurens Council District 7",
    "officeIndices": [
     490
    ]
-  },
-  "ocd-division/country:us/state:sc/county:oconee/precinct:18-new_hope": {
-   "name": "Oconee County SC - Precinct 18 - New Hope"
   },
   "ocd-division/country:us/state:sc/county:laurens/council_district:5": {
    "name": "Laurens Council District 5",
@@ -5427,6 +5427,9 @@
     55
    ]
   },
+  "ocd-division/country:us/state:sc/county:lexington/precinct:60-murraywood": {
+   "name": "Lexington County SC - Precinct 60 - Murraywood"
+  },
   "ocd-division/country:us/state:sc": {
    "name": "South Carolina",
    "officeIndices": [
@@ -5442,20 +5445,17 @@
     499
    ]
   },
-  "ocd-division/country:us/state:sc/county:lexington/precinct:60-murraywood": {
-   "name": "Lexington County SC - Precinct 60 - Murraywood"
-  },
   "ocd-division/country:us/state:sc/county:hampton/precinct:1-brunson": {
    "name": "Hampton County SC - Precinct 1 - Brunson"
-  },
-  "ocd-division/country:us/state:sc/county:aiken/precinct:64-cedar_creek_64": {
-   "name": "Aiken County SC - Precinct 64 - Cedar Creek No.64"
   },
   "ocd-division/country:us/state:sc/sldl:62": {
    "name": "South Carolina State House district HD-062",
    "officeIndices": [
     58
    ]
+  },
+  "ocd-division/country:us/state:sc/county:aiken/precinct:64-cedar_creek_64": {
+   "name": "Aiken County SC - Precinct 64 - Cedar Creek No.64"
   },
   "ocd-division/country:us/state:sc/sldl:61": {
    "name": "South Carolina State House district HD-061",
@@ -5469,14 +5469,14 @@
     60
    ]
   },
-  "ocd-division/country:us/state:sc/county:sumter/precinct:124-hampton_park": {
-   "name": "Sumter County SC - Precinct 124 - Hampton Park"
-  },
   "ocd-division/country:us/state:sc/sldl:66": {
    "name": "South Carolina State House district HD-066",
    "officeIndices": [
     61
    ]
+  },
+  "ocd-division/country:us/state:sc/county:sumter/precinct:124-hampton_park": {
+   "name": "Sumter County SC - Precinct 124 - Hampton Park"
   },
   "ocd-division/country:us/state:sc/sldl:65": {
    "name": "South Carolina State House district HD-065",
@@ -5607,14 +5607,14 @@
     75
    ]
   },
-  "ocd-division/country:us/state:sc/county:colleton/precinct:36-walterboro_5": {
-   "name": "Colleton County SC - Precinct 36 - Walterboro No 5"
-  },
   "ocd-division/country:us/state:sc/sldl:59": {
    "name": "South Carolina State House district HD-059",
    "officeIndices": [
     76
    ]
+  },
+  "ocd-division/country:us/state:sc/county:colleton/precinct:36-walterboro_5": {
+   "name": "Colleton County SC - Precinct 36 - Walterboro No 5"
   },
   "ocd-division/country:us/state:sc/sldl:58": {
    "name": "South Carolina State House district HD-058",
@@ -5679,14 +5679,14 @@
     84
    ]
   },
-  "ocd-division/country:us/state:sc/county:florence/precinct:23-florence_7": {
-   "name": "Florence County SC - Precinct 23 - Florence 7"
-  },
   "ocd-division/country:us/state:sc/sldl:41": {
    "name": "South Carolina State House district HD-041",
    "officeIndices": [
     85
    ]
+  },
+  "ocd-division/country:us/state:sc/county:florence/precinct:23-florence_7": {
+   "name": "Florence County SC - Precinct 23 - Florence 7"
   },
   "ocd-division/country:us/state:sc/sldl:42": {
    "name": "South Carolina State House district HD-042",
@@ -5748,14 +5748,14 @@
     91
    ]
   },
-  "ocd-division/country:us/state:sc/county:horry/precinct:186-pleasant_view": {
-   "name": "Horry County SC - Precinct 186 - Pleasant View"
-  },
   "ocd-division/country:us/state:sc/sldl:36": {
    "name": "South Carolina State House district HD-036",
    "officeIndices": [
     92
    ]
+  },
+  "ocd-division/country:us/state:sc/county:horry/precinct:186-pleasant_view": {
+   "name": "Horry County SC - Precinct 186 - Pleasant View"
   },
   "ocd-division/country:us/state:sc/sldl:37": {
    "name": "South Carolina State House district HD-037",
@@ -5889,14 +5889,14 @@
   "ocd-division/country:us/state:sc/county:dorchester/precinct:36-delemars": {
    "name": "Dorchester County SC - Precinct 36 - Delemars"
   },
-  "ocd-division/country:us/state:sc/county:greenville/precinct:289-oakview": {
-   "name": "Greenville County SC - Precinct 289 - Oakview"
-  },
   "ocd-division/country:us/state:sc/sldl:17": {
    "name": "South Carolina State House district HD-017",
    "officeIndices": [
     108
    ]
+  },
+  "ocd-division/country:us/state:sc/county:greenville/precinct:289-oakview": {
+   "name": "Greenville County SC - Precinct 289 - Oakview"
   },
   "ocd-division/country:us/state:sc/sldl:16": {
    "name": "South Carolina State House district HD-016",
@@ -6588,11 +6588,11 @@
   "ocd-division/country:us/state:sc/county:richland/precinct:334-horrell_hill": {
    "name": "Richland County SC - Precinct 334 - Horrell Hill"
   },
-  "ocd-division/country:us/state:sc/county:sumter/precinct:105-dalzell_1": {
-   "name": "Sumter County SC - Precinct 105 - Dalzell 1"
-  },
   "ocd-division/country:us/state:sc/place:elgin": {
    "name": "Elgin town"
+  },
+  "ocd-division/country:us/state:sc/county:sumter/precinct:105-dalzell_1": {
+   "name": "Sumter County SC - Precinct 105 - Dalzell 1"
   },
   "ocd-division/country:us/state:sc/county:greenville/precinct:339-welcome": {
    "name": "Greenville County SC - Precinct 339 - Welcome"
@@ -7869,6 +7869,9 @@
     128
    ]
   },
+  "ocd-division/country:us/state:sc/place:anderson": {
+   "name": "Anderson city"
+  },
   "ocd-division/country:us/state:sc/sldu:38": {
    "name": "South Carolina State Senate district 38",
    "officeIndices": [
@@ -7877,9 +7880,6 @@
   },
   "ocd-division/country:us/state:sc/county:anderson/precinct:16-broadway": {
    "name": "Anderson County SC - Precinct 16 - Broadway"
-  },
-  "ocd-division/country:us/state:sc/place:anderson": {
-   "name": "Anderson city"
   },
   "ocd-division/country:us/state:sc/place:moncks_corner": {
    "name": "Moncks Corner town"
@@ -8932,14 +8932,14 @@
     659
    ]
   },
-  "ocd-division/country:us/state:sc/county:calhoun/precinct:10-murph_mill": {
-   "name": "Calhoun County SC - Precinct 10 - Murph Mill"
-  },
   "ocd-division/country:us/state:sc/county:spartanburg/council_district:5": {
    "name": "Spartanburg County SC County Council District 5",
    "officeIndices": [
     660
    ]
+  },
+  "ocd-division/country:us/state:sc/county:calhoun/precinct:10-murph_mill": {
+   "name": "Calhoun County SC - Precinct 10 - Murph Mill"
   },
   "ocd-division/country:us/state:sc/county:spartanburg/council_district:4": {
    "name": "Spartanburg County SC County Council District 4",
@@ -9043,11 +9043,11 @@
   "ocd-division/country:us/state:sc/county:sumter/precinct:131-wilder": {
    "name": "Sumter County SC - Precinct 131 - Wilder"
   },
-  "ocd-division/country:us/state:sc/county:greenville/precinct:207-greenville_07": {
-   "name": "Greenville County SC - Precinct 207 - Greenville 07"
-  },
   "ocd-division/country:us/state:sc/place:carlisle": {
    "name": "Carlisle town"
+  },
+  "ocd-division/country:us/state:sc/county:greenville/precinct:207-greenville_07": {
+   "name": "Greenville County SC - Precinct 207 - Greenville 07"
   },
   "ocd-division/country:us/state:sc/county:darlington/precinct:33-palmetto": {
    "name": "Darlington County SC - Precinct 33 - Palmetto"
@@ -9070,14 +9070,14 @@
     170
    ]
   },
-  "ocd-division/country:us/state:sc/county:berkeley/precinct:59-whitesville_1": {
-   "name": "Berkeley County SC - Precinct 59 - Whitesville 1"
-  },
   "ocd-division/country:us/state:sc/sldl:111": {
    "name": "South Carolina State House district HD-111",
    "officeIndices": [
     171
    ]
+  },
+  "ocd-division/country:us/state:sc/county:berkeley/precinct:59-whitesville_1": {
+   "name": "Berkeley County SC - Precinct 59 - Whitesville 1"
   },
   "ocd-division/country:us/state:sc/sldl:112": {
    "name": "South Carolina State House district HD-112",
@@ -9729,11 +9729,11 @@
   "ocd-division/country:us/state:sc/county:charleston/precinct:314-mt_pleasant_14": {
    "name": "Charleston County SC - Precinct 314 - Mt Pleasant 14"
   },
-  "ocd-division/country:us/state:sc/county:colleton/precinct:31-walterboro_3": {
-   "name": "Colleton County SC - Precinct 31 - Walterboro No 3"
-  },
   "ocd-division/country:us/state:sc/place:bluffton": {
    "name": "Bluffton town"
+  },
+  "ocd-division/country:us/state:sc/county:colleton/precinct:31-walterboro_3": {
+   "name": "Colleton County SC - Precinct 31 - Walterboro No 3"
   },
   "ocd-division/country:us/state:sc/county:dorchester/precinct:76-oakbrook": {
    "name": "Dorchester County SC - Precinct 76 - Oakbrook"
@@ -11018,14 +11018,14 @@
   "ocd-division/country:us/state:sc/county:sumter/precinct:111-mccray~s_mill_1": {
    "name": "Sumter County SC - Precinct 111 - McCray's Mill 1"
   },
-  "ocd-division/country:us/state:sc/county:florence/school_district:florence_04": {
-   "name": "florence 04"
-  },
   "ocd-division/country:us/state:sc/county:abbeville/council_district:4": {
    "name": "Abbeville Council District 4",
    "officeIndices": [
     780
    ]
+  },
+  "ocd-division/country:us/state:sc/county:florence/school_district:florence_04": {
+   "name": "florence 04"
   },
   "ocd-division/country:us/state:sc/county:florence/school_district:florence_05": {
    "name": "florence 05"
@@ -18066,6 +18066,7 @@
    "urls": [
     "http://gowdy.house.gov/"
    ],
+   "photoUrl": "https://gowdy.house.gov/sites/gowdy.house.gov/files/wysiwyg_uploaded/bb458fb7-c9e2-4979-bceb-6a52a3a28e36.jpg",
    "channels": [
     {
      "type": "GooglePlus",
@@ -18401,12 +18402,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "LonnieHosey"
-    },
-    {
      "type": "Facebook",
      "id": "RepLonnieHosey"
+    },
+    {
+     "type": "Twitter",
+     "id": "LonnieHosey"
     }
    ]
   },
@@ -18648,11 +18649,11 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "SenatorMikeFair"
     },
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "SenatorMikeFair"
     }
    ]
@@ -18748,12 +18749,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "kevinbryantsc"
-    },
-    {
      "type": "Facebook",
      "id": "240666006016605"
+    },
+    {
+     "type": "Twitter",
+     "id": "kevinbryantsc"
     }
    ]
   },
@@ -19332,12 +19333,12 @@
    "photoUrl": "http://www.scstatehouse.gov/images/members/1811363419.jpg",
    "channels": [
     {
-     "type": "Twitter",
-     "id": "TaylorSCHouse"
-    },
-    {
      "type": "Facebook",
      "id": "251437050107"
+    },
+    {
+     "type": "Twitter",
+     "id": "TaylorSCHouse"
     },
     {
      "type": "YouTube",
@@ -19682,12 +19683,12 @@
      "id": "SCGOVOFFICE"
     },
     {
-     "type": "Facebook",
-     "id": "NikkiHaley"
-    },
-    {
      "type": "YouTube",
      "id": "nikkihaley"
+    },
+    {
+     "type": "Facebook",
+     "id": "NikkiHaley"
     }
    ]
   },
@@ -19799,12 +19800,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "PhillipLowe"
-    },
-    {
      "type": "Facebook",
      "id": "loweforsc"
+    },
+    {
+     "type": "Twitter",
+     "id": "PhillipLowe"
     }
    ]
   },
@@ -20317,7 +20318,8 @@
     "(803) 212-6895"
    ],
    "urls": [
-    "http://www.scstatehouse.gov/member.php?code=1484090731"
+    "http://www.scstatehouse.gov/member.php?code=1484090731",
+    "http://www.tommypope.com/"
    ],
    "photoUrl": "http://www.scstatehouse.gov/images/members/1484090731.jpg",
    "channels": [
@@ -20941,12 +20943,12 @@
    "photoUrl": "http://www.scstatehouse.gov/images/members/0820454447.jpg",
    "channels": [
     {
-     "type": "Twitter",
-     "id": "phyllish21"
-    },
-    {
      "type": "Facebook",
      "id": "PhyllisHenderson21"
+    },
+    {
+     "type": "Twitter",
+     "id": "phyllish21"
     }
    ]
   },
@@ -21453,16 +21455,16 @@
    "photoUrl": "http://www.scstatehouse.gov/members/gif/0456818127.jpg",
    "channels": [
     {
+     "type": "YouTube",
+     "id": "tomdavissc"
+    },
+    {
      "type": "Facebook",
      "id": "TomDavisSC"
     },
     {
      "type": "Twitter",
      "id": "senatortomdavis"
-    },
-    {
-     "type": "YouTube",
-     "id": "tomdavissc"
     }
    ]
   },
@@ -21508,8 +21510,10 @@
     "(803) 212-6056"
    ],
    "urls": [
+    "http://www.scstatehouse.gov/member.php?code=0994318063",
     "http://marlonkimpson.com/"
    ],
+   "photoUrl": "http://www.scstatehouse.gov/images/members/0994318063.jpg",
    "channels": [
     {
      "type": "Facebook",
@@ -21756,16 +21760,16 @@
    "photoUrl": "http://www.scstatehouse.gov/images/members/1068181690.jpg",
    "channels": [
     {
-     "type": "Facebook",
-     "id": "161451697183"
-    },
-    {
      "type": "YouTube",
      "id": "hughkleatherman"
     },
     {
      "type": "Twitter",
      "id": "HughKLeatherman"
+    },
+    {
+     "type": "Facebook",
+     "id": "161451697183"
     }
    ]
   },
@@ -21802,16 +21806,16 @@
    "photoUrl": "http://www.scstatehouse.gov/images/members/0141193165.jpg",
    "channels": [
     {
-     "type": "YouTube",
-     "id": "BennettSCSenate"
-    },
-    {
      "type": "Twitter",
      "id": "bennettscsenate"
     },
     {
      "type": "Facebook",
      "id": "bennettscsenate"
+    },
+    {
+     "type": "YouTube",
+     "id": "BennettSCSenate"
     }
    ]
   },
@@ -21841,16 +21845,16 @@
    "photoUrl": "http://www.scstatehouse.gov/images/members/0729545367.jpg",
    "channels": [
     {
-     "type": "YouTube",
-     "id": "Grooms4SCGov"
+     "type": "Facebook",
+     "id": "LarryGroomsSC"
     },
     {
      "type": "Twitter",
      "id": "larrygrooms"
     },
     {
-     "type": "Facebook",
-     "id": "LarryGroomsSC"
+     "type": "YouTube",
+     "id": "Grooms4SCGov"
     }
    ]
   },
@@ -22143,16 +22147,16 @@
    ],
    "channels": [
     {
+     "type": "Facebook",
+     "id": "shanemassey.sc"
+    },
+    {
      "type": "Twitter",
      "id": "shanemassey"
     },
     {
      "type": "YouTube",
      "id": "shaneforsenate"
-    },
-    {
-     "type": "Facebook",
-     "id": "shanemassey.sc"
     }
    ]
   },
@@ -22432,12 +22436,12 @@
      "id": "RonnieCromer"
     },
     {
-     "type": "YouTube",
-     "id": "SenatorRonnieCromer"
-    },
-    {
      "type": "Facebook",
      "id": "senatorronniecromer"
+    },
+    {
+     "type": "YouTube",
+     "id": "SenatorRonnieCromer"
     }
    ]
   },
@@ -22613,12 +22617,12 @@
    ],
    "channels": [
     {
-     "type": "YouTube",
-     "id": "lightbulb3812"
-    },
-    {
      "type": "Facebook",
      "id": "senatorleebright"
+    },
+    {
+     "type": "YouTube",
+     "id": "lightbulb3812"
     },
     {
      "type": "Twitter",
@@ -23134,12 +23138,12 @@
    "photoUrl": "http://www.scstatehouse.gov/images/members/1089772596.jpg",
    "channels": [
     {
-     "type": "Twitter",
-     "id": "chiplimehouse"
-    },
-    {
      "type": "Facebook",
      "id": "LimehouseForCongress"
+    },
+    {
+     "type": "Twitter",
+     "id": "chiplimehouse"
     }
    ]
   },
@@ -23197,11 +23201,11 @@
    "photoUrl": "http://www.scstatehouse.gov/images/members/1742045246.jpg",
    "channels": [
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "mikesottile"
     },
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "mikesottile"
     }
    ]
@@ -23854,45 +23858,27 @@
   },
   {
    "name": "Cecil Stevens",
-   "party": "Unknown",
-   "urls": [
-    "http://www.leecountysc.org/directory/departments/"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "Larry Logan",
-   "party": "Unknown",
-   "urls": [
-    "http://www.leecountysc.org/directory/departments/"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "Daniel Simon",
-   "party": "Unknown",
-   "urls": [
-    "http://www.leecountysc.org/directory/departments/"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "H. Wayne Capell",
-   "party": "Unknown",
-   "urls": [
-    "http://www.leecountysc.org/directory/departments/"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "Catherine Harris",
-   "party": "Unknown",
-   "urls": [
-    "http://www.leecountysc.org/directory/departments/"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "James Davis",
-   "party": "Unknown",
-   "urls": [
-    "http://www.leecountysc.org/directory/departments/"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "James Messervy Jr.",
@@ -24248,10 +24234,7 @@
   },
   {
    "name": "Kathy Geddings",
-   "party": "Unknown",
-   "urls": [
-    "http://www.sccourts.org/probate/index.cfm?countyno=14"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "Beulah Roberts",
@@ -26285,10 +26268,7 @@
   },
   {
    "name": "Kelly Baker Nobles",
-   "party": "Unknown",
-   "urls": [
-    "http://www.sccourts.org/probate/index.cfm?countyno=36"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "Jackie Bowers",
@@ -26733,10 +26713,7 @@
   },
   {
    "name": "Myrna Dill",
-   "party": "Unknown",
-   "urls": [
-    "http://www.sccourts.org/probate/index.cfm?countyno=6"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "Rhonda McElveen",
@@ -26874,9 +26851,6 @@
    "party": "Unknown",
    "phones": [
     "(803) 642-1587"
-   ],
-   "urls": [
-    "http://www.sccourts.org/countyLookup.cfm?countyNo=2"
    ]
   },
   {
@@ -27696,31 +27670,19 @@
   },
   {
    "name": "Gordon Eckley",
-   "party": "Unknown",
-   "urls": [
-    "http://www.leecountysc.org/council/members/"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "Jackie Josey",
-   "party": "Unknown",
-   "urls": [
-    "http://www.leecountysc.org/council/members/"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "Charles Beasley",
-   "party": "Unknown",
-   "urls": [
-    "http://www.leecountysc.org/council/members/"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "J. Samuel McCutchen",
-   "party": "Unknown",
-   "urls": [
-    "http://www.leecountysc.org/council/members/"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "Nancy Best",
@@ -28484,6 +28446,9 @@
    "phones": [
     "(843) 958-5180"
    ],
+   "urls": [
+    "http://www.charlestoncounty.org/elected/probate.htm"
+   ],
    "emails": [
     "irvcondon@charlestoncounty.org"
    ]
@@ -28501,6 +28466,9 @@
    "party": "Unknown",
    "phones": [
     "(843) 958-4800"
+   ],
+   "urls": [
+    "http://www.charlestoncounty.org/elected/clerkof.htm"
    ]
   },
   {
@@ -28516,6 +28484,9 @@
    "party": "Unknown",
    "phones": [
     "(843) 958-4800"
+   ],
+   "urls": [
+    "http://www.charlestoncounty.org/elected/rmc.htm"
    ]
   },
   {
@@ -29249,9 +29220,6 @@
    "party": "Unknown",
    "phones": [
     "(864) 366-5312"
-   ],
-   "urls": [
-    "http://www.judicial.state.sc.us/probateCourt/probJudgeListPFbyCty.cfm"
    ]
   },
   {
@@ -29268,9 +29236,6 @@
    "party": "Unknown",
    "phones": [
     "(864) 898-5857"
-   ],
-   "urls": [
-    "http://www.judicial.state.sc.us/clerks/pickens/contactInfo.cfm"
    ]
   },
   {

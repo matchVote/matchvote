@@ -1,10 +1,10 @@
 {
  "divisions": {
-  "ocd-division/country:us/state:ia/county:plymouth/precinct:ht": {
-   "name": "Plymouth County Precinct Ht"
-  },
   "ocd-division/country:us/state:ia/place:little_sioux": {
    "name": "Little Sioux city"
+  },
+  "ocd-division/country:us/state:ia/county:plymouth/precinct:ht": {
+   "name": "Plymouth County Precinct Ht"
   },
   "ocd-division/country:us/state:ia/county:pottawattamie/precinct:cb-09": {
    "name": "Pottawattamie County Precinct Cb-09"
@@ -24,17 +24,17 @@
   "ocd-division/country:us/state:ia/county:pottawattamie/precinct:cb-01": {
    "name": "Pottawattamie County Precinct Cb-01"
   },
-  "ocd-division/country:us/state:ia/county:pottawattamie/precinct:cb-02": {
-   "name": "Pottawattamie County Precinct Cb-02"
-  },
   "ocd-division/country:us/state:ia/place:arispe": {
    "name": "Arispe city"
   },
-  "ocd-division/country:us/state:ia/county:benton/precinct:ho": {
-   "name": "Benton County Precinct Ho"
+  "ocd-division/country:us/state:ia/county:pottawattamie/precinct:cb-02": {
+   "name": "Pottawattamie County Precinct Cb-02"
   },
   "ocd-division/country:us/state:ia/county:pottawattamie/precinct:cb-03": {
    "name": "Pottawattamie County Precinct Cb-03"
+  },
+  "ocd-division/country:us/state:ia/county:benton/precinct:ho": {
+   "name": "Benton County Precinct Ho"
   },
   "ocd-division/country:us/state:ia/county:pottawattamie/precinct:cb-04": {
    "name": "Pottawattamie County Precinct Cb-04"
@@ -87,35 +87,35 @@
   "ocd-division/country:us/state:ia/place:elkader": {
    "name": "Elkader city"
   },
-  "ocd-division/country:us/state:ia/county:bremer/school_district:waverly-shell_rock_comm_school_district": {
-   "name": "waverly-shell rock comm school district"
-  },
   "ocd-division/country:us/state:ia/county:benton/precinct:fl": {
    "name": "Benton County Precinct Fl"
+  },
+  "ocd-division/country:us/state:ia/county:bremer/school_district:waverly-shell_rock_comm_school_district": {
+   "name": "waverly-shell rock comm school district"
   },
   "ocd-division/country:us/state:ia/place:aplington": {
    "name": "Aplington city"
   },
-  "ocd-division/country:us/state:ia/county:hamilton/precinct:wc3": {
-   "name": "Hamilton County Precinct Wc3"
-  },
   "ocd-division/country:us/state:ia/county:worth/school_district:north_central_comm_school_district": {
    "name": "north central comm school district"
+  },
+  "ocd-division/country:us/state:ia/county:hamilton/precinct:wc3": {
+   "name": "Hamilton County Precinct Wc3"
   },
   "ocd-division/country:us/state:ia/place:belmond": {
    "name": "Belmond city"
   },
-  "ocd-division/country:us/state:ia/county:hamilton/precinct:wc2": {
-   "name": "Hamilton County Precinct Wc2"
-  },
   "ocd-division/country:us/state:ia/county:benton/precinct:fr": {
    "name": "Benton County Precinct Fr"
   },
-  "ocd-division/country:us/state:ia/county:hamilton/precinct:wc1": {
-   "name": "Hamilton County Precinct Wc1"
+  "ocd-division/country:us/state:ia/county:hamilton/precinct:wc2": {
+   "name": "Hamilton County Precinct Wc2"
   },
   "ocd-division/country:us/state:ia/county:allamakee/school_district:postville_comm_school_district": {
    "name": "postville comm school district"
+  },
+  "ocd-division/country:us/state:ia/county:hamilton/precinct:wc1": {
+   "name": "Hamilton County Precinct Wc1"
   },
   "ocd-division/country:us/state:ia/place:ireton": {
    "name": "Ireton city"
@@ -123,17 +123,17 @@
   "ocd-division/country:us/state:ia/county:pottawattamie/precinct:minden": {
    "name": "Pottawattamie County Precinct Minden"
   },
-  "ocd-division/country:us/state:ia/place:what_cheer": {
-   "name": "What Cheer city"
-  },
   "ocd-division/country:us/state:ia/county:mahaska/school_district:eddyville-blakesburg_comm_school_district": {
    "name": "eddyville-blakesburg comm school district"
   },
-  "ocd-division/country:us/state:ia/county:clayton/precinct:cc-sy": {
-   "name": "Clayton County Precinct Cc-Sy"
+  "ocd-division/country:us/state:ia/place:what_cheer": {
+   "name": "What Cheer city"
   },
   "ocd-division/country:us/state:ia/county:franklin/school_district:hampton-dumont_comm_school_district": {
    "name": "hampton-dumont comm school district"
+  },
+  "ocd-division/country:us/state:ia/county:clayton/precinct:cc-sy": {
+   "name": "Clayton County Precinct Cc-Sy"
   },
   "ocd-division/country:us/state:ia/county:linn/precinct:rob": {
    "name": "Linn County Precinct Rob"
@@ -330,11 +330,11 @@
   "ocd-division/country:us/state:ia/county:pottawattamie/precinct:cb-12": {
    "name": "Pottawattamie County Precinct Cb-12"
   },
-  "ocd-division/country:us/state:ia/county:pottawattamie/precinct:cb-19": {
-   "name": "Pottawattamie County Precinct Cb-19"
-  },
   "ocd-division/country:us/state:ia/place:clayton": {
    "name": "Clayton city"
+  },
+  "ocd-division/country:us/state:ia/county:pottawattamie/precinct:cb-19": {
+   "name": "Pottawattamie County Precinct Cb-19"
   },
   "ocd-division/country:us/state:ia/county:pottawattamie/precinct:cb-18": {
    "name": "Pottawattamie County Precinct Cb-18"
@@ -354,17 +354,17 @@
   "ocd-division/country:us/state:ia/county:page/precinct:sd3": {
    "name": "Page County Precinct Sd3"
   },
-  "ocd-division/country:us/state:ia/county:plymouth/precinct:kl": {
-   "name": "Plymouth County Precinct Kl"
-  },
   "ocd-division/country:us/state:ia/place:donahue": {
    "name": "Donahue city"
   },
-  "ocd-division/country:us/state:ia/place:tiffin": {
-   "name": "Tiffin city"
+  "ocd-division/country:us/state:ia/county:plymouth/precinct:kl": {
+   "name": "Plymouth County Precinct Kl"
   },
   "ocd-division/country:us/state:ia/county:polk/precinct:elkhart": {
    "name": "Polk County Precinct Elkhart"
+  },
+  "ocd-division/country:us/state:ia/place:tiffin": {
+   "name": "Tiffin city"
   },
   "ocd-division/country:us/state:ia/county:pottawattamie/precinct:cb-11": {
    "name": "Pottawattamie County Precinct Cb-11"
@@ -447,11 +447,11 @@
   "ocd-division/country:us/state:ia/place:blencoe": {
    "name": "Blencoe city"
   },
-  "ocd-division/country:us/state:ia/county:polk/precinct:wb-1": {
-   "name": "Polk County Precinct Wb-1"
-  },
   "ocd-division/country:us/state:ia/place:atlantic": {
    "name": "Atlantic city"
+  },
+  "ocd-division/country:us/state:ia/county:polk/precinct:wb-1": {
+   "name": "Polk County Precinct Wb-1"
   },
   "ocd-division/country:us/state:ia/place:luana": {
    "name": "Luana city"
@@ -627,11 +627,11 @@
   "ocd-division/country:us/state:ia/place:de_soto": {
    "name": "De Soto city"
   },
-  "ocd-division/country:us/state:ia/county:greene/precinct:east": {
-   "name": "Greene County Precinct East"
-  },
   "ocd-division/country:us/state:ia/place:nodaway": {
    "name": "Nodaway city"
+  },
+  "ocd-division/country:us/state:ia/county:greene/precinct:east": {
+   "name": "Greene County Precinct East"
   },
   "ocd-division/country:us/state:ia/place:coulter": {
    "name": "Coulter city"
@@ -648,11 +648,11 @@
   "ocd-division/country:us/state:ia/place:rolfe": {
    "name": "Rolfe city"
   },
-  "ocd-division/country:us/state:ia/place:fonda": {
-   "name": "Fonda city"
-  },
   "ocd-division/country:us/state:ia/place:frederika": {
    "name": "Frederika city"
+  },
+  "ocd-division/country:us/state:ia/place:fonda": {
+   "name": "Fonda city"
   },
   "ocd-division/country:us/state:ia/place:dumont": {
    "name": "Dumont city"
@@ -711,20 +711,20 @@
   "ocd-division/country:us/state:ia/county:howard/precinct:rjo": {
    "name": "Howard County Precinct Rjo"
   },
-  "ocd-division/country:us/state:ia/county:guthrie/precinct:7": {
-   "name": "Guthrie County Precinct 7"
-  },
   "ocd-division/country:us/state:ia/place:george": {
    "name": "George city"
+  },
+  "ocd-division/country:us/state:ia/county:guthrie/precinct:7": {
+   "name": "Guthrie County Precinct 7"
   },
   "ocd-division/country:us/state:ia/county:guthrie/precinct:8": {
    "name": "Guthrie County Precinct 8"
   },
-  "ocd-division/country:us/state:ia/county:crawford/precinct:srk": {
-   "name": "Crawford County Precinct Srk"
-  },
   "ocd-division/country:us/state:ia/place:keomah_village": {
    "name": "Keomah Village city"
+  },
+  "ocd-division/country:us/state:ia/county:crawford/precinct:srk": {
+   "name": "Crawford County Precinct Srk"
   },
   "ocd-division/country:us/state:ia/place:craig": {
    "name": "Craig city"
@@ -778,11 +778,11 @@
   "ocd-division/country:us/state:ia/county:guthrie/precinct:1": {
    "name": "Guthrie County Precinct 1"
   },
-  "ocd-division/country:us/state:ia/county:humboldt/precinct:dc-gr": {
-   "name": "Humboldt County Precinct Dc-Gr"
-  },
   "ocd-division/country:us/state:ia/county:cedar/school_district:west_branch_comm_school_district": {
    "name": "west branch comm school district"
+  },
+  "ocd-division/country:us/state:ia/county:humboldt/precinct:dc-gr": {
+   "name": "Humboldt County Precinct Dc-Gr"
   },
   "ocd-division/country:us/state:ia/county:keokuk": {
    "name": "Keokuk County",
@@ -807,11 +807,11 @@
   "ocd-division/country:us/state:ia/county:woodbury/precinct:17": {
    "name": "Woodbury County Precinct 17"
   },
-  "ocd-division/country:us/state:ia/county:plymouth/school_district:le_mars_comm_school_district": {
-   "name": "le mars comm school district"
-  },
   "ocd-division/country:us/state:ia/county:woodbury/precinct:18": {
    "name": "Woodbury County Precinct 18"
+  },
+  "ocd-division/country:us/state:ia/county:plymouth/school_district:le_mars_comm_school_district": {
+   "name": "le mars comm school district"
   },
   "ocd-division/country:us/state:ia/county:woodbury/precinct:19": {
    "name": "Woodbury County Precinct 19"
@@ -822,11 +822,11 @@
   "ocd-division/country:us/state:ia/county:woodbury/precinct:14": {
    "name": "Woodbury County Precinct 14"
   },
-  "ocd-division/country:us/state:ia/county:woodbury/precinct:15": {
-   "name": "Woodbury County Precinct 15"
-  },
   "ocd-division/country:us/state:ia/place:plano": {
    "name": "Plano city"
+  },
+  "ocd-division/country:us/state:ia/county:woodbury/precinct:15": {
+   "name": "Woodbury County Precinct 15"
   },
   "ocd-division/country:us/state:ia/county:woodbury/precinct:16": {
    "name": "Woodbury County Precinct 16"
@@ -837,20 +837,23 @@
     184
    ]
   },
+  "ocd-division/country:us/state:ia/county:woodbury/precinct:10": {
+   "name": "Woodbury County Precinct 10"
+  },
+  "ocd-division/country:us/state:ia/county:tama/school_district:gmg_comm_school_district": {
+   "name": "gmg comm school district"
+  },
   "ocd-division/country:us/state:ia/county:osceola/council_district:3": {
    "name": "Osceola County District 3",
    "officeIndices": [
     185
    ]
   },
-  "ocd-division/country:us/state:ia/county:tama/school_district:gmg_comm_school_district": {
-   "name": "gmg comm school district"
-  },
-  "ocd-division/country:us/state:ia/county:woodbury/precinct:10": {
-   "name": "Woodbury County Precinct 10"
-  },
   "ocd-division/country:us/state:ia/county:woodbury/precinct:11": {
    "name": "Woodbury County Precinct 11"
+  },
+  "ocd-division/country:us/state:ia/county:woodbury/precinct:12": {
+   "name": "Woodbury County Precinct 12"
   },
   "ocd-division/country:us/state:ia/county:osceola/council_district:5": {
    "name": "Osceola County District 5",
@@ -858,23 +861,23 @@
     186
    ]
   },
-  "ocd-division/country:us/state:ia/county:woodbury/precinct:12": {
-   "name": "Woodbury County Precinct 12"
-  },
   "ocd-division/country:us/state:ia/place:mallard": {
    "name": "Mallard city"
   },
   "ocd-division/country:us/state:ia/county:johnson/precinct:ic.01": {
    "name": "Johnson County Precinct Ic.01"
   },
-  "ocd-division/country:us/state:ia/place:new_providence": {
-   "name": "New Providence city"
-  },
   "ocd-division/country:us/state:ia/place:osterdock": {
    "name": "Osterdock city"
   },
+  "ocd-division/country:us/state:ia/place:new_providence": {
+   "name": "New Providence city"
+  },
   "ocd-division/country:us/state:ia/county:crawford/school_district:charter_oak-ute_comm_school_district": {
    "name": "charter oak-ute comm school district"
+  },
+  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.04": {
+   "name": "Johnson County Precinct Ic.04"
   },
   "ocd-division/country:us/state:ia/county:osceola/council_district:1": {
    "name": "Osceola County District 1",
@@ -882,8 +885,8 @@
     187
    ]
   },
-  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.04": {
-   "name": "Johnson County Precinct Ic.04"
+  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.05": {
+   "name": "Johnson County Precinct Ic.05"
   },
   "ocd-division/country:us/state:ia/county:osceola/council_district:2": {
    "name": "Osceola County District 2",
@@ -891,14 +894,11 @@
     188
    ]
   },
-  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.05": {
-   "name": "Johnson County Precinct Ic.05"
+  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.02": {
+   "name": "Johnson County Precinct Ic.02"
   },
   "ocd-division/country:us/state:ia/place:woden": {
    "name": "Woden city"
-  },
-  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.02": {
-   "name": "Johnson County Precinct Ic.02"
   },
   "ocd-division/country:us/state:ia/county:johnson/precinct:ic.03": {
    "name": "Johnson County Precinct Ic.03"
@@ -924,59 +924,59 @@
   "ocd-division/country:us/state:ia/county:story/precinct:4": {
    "name": "Story County Precinct 4"
   },
-  "ocd-division/country:us/state:ia/county:story/precinct:7": {
-   "name": "Story County Precinct 7"
-  },
   "ocd-division/country:us/state:ia/county:woodbury/precinct:28": {
    "name": "Woodbury County Precinct 28"
   },
-  "ocd-division/country:us/state:ia/place:russell": {
-   "name": "Russell city"
-  },
-  "ocd-division/country:us/state:ia/county:story/precinct:6": {
-   "name": "Story County Precinct 6"
+  "ocd-division/country:us/state:ia/county:story/precinct:7": {
+   "name": "Story County Precinct 7"
   },
   "ocd-division/country:us/state:ia/county:woodbury/precinct:29": {
    "name": "Woodbury County Precinct 29"
   },
-  "ocd-division/country:us/state:ia/county:marshall/precinct:13-3-1": {
-   "name": "Marshall County Precinct 13-3-1"
+  "ocd-division/country:us/state:ia/county:story/precinct:6": {
+   "name": "Story County Precinct 6"
   },
-  "ocd-division/country:us/state:ia/county:story/precinct:1": {
-   "name": "Story County Precinct 1"
+  "ocd-division/country:us/state:ia/place:russell": {
+   "name": "Russell city"
   },
   "ocd-division/country:us/state:ia/county:woodbury/precinct:26": {
    "name": "Woodbury County Precinct 26"
   },
+  "ocd-division/country:us/state:ia/county:story/precinct:1": {
+   "name": "Story County Precinct 1"
+  },
+  "ocd-division/country:us/state:ia/county:marshall/precinct:13-3-1": {
+   "name": "Marshall County Precinct 13-3-1"
+  },
   "ocd-division/country:us/state:ia/county:woodbury/precinct:27": {
    "name": "Woodbury County Precinct 27"
-  },
-  "ocd-division/country:us/state:ia/county:story/precinct:3": {
-   "name": "Story County Precinct 3"
   },
   "ocd-division/country:us/state:ia/county:woodbury/precinct:24": {
    "name": "Woodbury County Precinct 24"
   },
-  "ocd-division/country:us/state:ia/county:story/precinct:2": {
-   "name": "Story County Precinct 2"
-  },
-  "ocd-division/country:us/state:ia/county:woodbury/precinct:25": {
-   "name": "Woodbury County Precinct 25"
+  "ocd-division/country:us/state:ia/county:story/precinct:3": {
+   "name": "Story County Precinct 3"
   },
   "ocd-division/country:us/state:ia/place:matlock": {
    "name": "Matlock city"
   },
-  "ocd-division/country:us/state:ia/county:woodbury/precinct:22": {
-   "name": "Woodbury County Precinct 22"
+  "ocd-division/country:us/state:ia/county:woodbury/precinct:25": {
+   "name": "Woodbury County Precinct 25"
+  },
+  "ocd-division/country:us/state:ia/county:story/precinct:2": {
+   "name": "Story County Precinct 2"
   },
   "ocd-division/country:us/state:ia/place:quasqueton": {
    "name": "Quasqueton city"
   },
-  "ocd-division/country:us/state:ia/county:woodbury/precinct:23": {
-   "name": "Woodbury County Precinct 23"
+  "ocd-division/country:us/state:ia/county:woodbury/precinct:22": {
+   "name": "Woodbury County Precinct 22"
   },
   "ocd-division/country:us/state:ia/place:minburn": {
    "name": "Minburn city"
+  },
+  "ocd-division/country:us/state:ia/county:woodbury/precinct:23": {
+   "name": "Woodbury County Precinct 23"
   },
   "ocd-division/country:us/state:ia/county:woodbury/precinct:20": {
    "name": "Woodbury County Precinct 20"
@@ -984,17 +984,14 @@
   "ocd-division/country:us/state:ia/county:woodbury/precinct:21": {
    "name": "Woodbury County Precinct 21"
   },
-  "ocd-division/country:us/state:ia/place:wall_lake": {
-   "name": "Wall Lake city"
-  },
   "ocd-division/country:us/state:ia/county:story/precinct:9": {
    "name": "Story County Precinct 9"
   },
+  "ocd-division/country:us/state:ia/place:wall_lake": {
+   "name": "Wall Lake city"
+  },
   "ocd-division/country:us/state:ia/county:story/precinct:8": {
    "name": "Story County Precinct 8"
-  },
-  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.13": {
-   "name": "Johnson County Precinct Ic.13"
   },
   "ocd-division/country:us/state:ia/county:palo_alto/council_district:5": {
    "name": "Palo Alto County District 5",
@@ -1002,8 +999,8 @@
     189
    ]
   },
-  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.14": {
-   "name": "Johnson County Precinct Ic.14"
+  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.13": {
+   "name": "Johnson County Precinct Ic.13"
   },
   "ocd-division/country:us/state:ia/county:palo_alto/council_district:4": {
    "name": "Palo Alto County District 4",
@@ -1011,8 +1008,8 @@
     190
    ]
   },
-  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.15": {
-   "name": "Johnson County Precinct Ic.15"
+  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.14": {
+   "name": "Johnson County Precinct Ic.14"
   },
   "ocd-division/country:us/state:ia/county:palo_alto/council_district:3": {
    "name": "Palo Alto County District 3",
@@ -1020,11 +1017,8 @@
     191
    ]
   },
-  "ocd-division/country:us/state:ia/county:jones/precinct:ox": {
-   "name": "Jones County Precinct Ox"
-  },
-  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.16": {
-   "name": "Johnson County Precinct Ic.16"
+  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.15": {
+   "name": "Johnson County Precinct Ic.15"
   },
   "ocd-division/country:us/state:ia/county:palo_alto/council_district:2": {
    "name": "Palo Alto County District 2",
@@ -1032,14 +1026,20 @@
     192
    ]
   },
+  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.16": {
+   "name": "Johnson County Precinct Ic.16"
+  },
+  "ocd-division/country:us/state:ia/county:jones/precinct:ox": {
+   "name": "Jones County Precinct Ox"
+  },
+  "ocd-division/country:us/state:ia/place:oto": {
+   "name": "Oto city"
+  },
   "ocd-division/country:us/state:ia/county:palo_alto/council_district:1": {
    "name": "Palo Alto County District 1",
    "officeIndices": [
     193
    ]
-  },
-  "ocd-division/country:us/state:ia/place:oto": {
-   "name": "Oto city"
   },
   "ocd-division/country:us/state:ia/county:johnson/precinct:ic.10": {
    "name": "Johnson County Precinct Ic.10"
@@ -1049,6 +1049,9 @@
   },
   "ocd-division/country:us/state:ia/county:johnson/precinct:ic.12": {
    "name": "Johnson County Precinct Ic.12"
+  },
+  "ocd-division/country:us/state:ia/county:cass/school_district:griswold_comm_school_district": {
+   "name": "griswold comm school district"
   },
   "ocd-division/country:us/state:ia/county:jackson": {
    "name": "Jackson County",
@@ -1061,23 +1064,20 @@
     199
    ]
   },
-  "ocd-division/country:us/state:ia/county:cass/school_district:griswold_comm_school_district": {
-   "name": "griswold comm school district"
-  },
   "ocd-division/country:us/state:ia/county:johnson/precinct:ic.17": {
    "name": "Johnson County Precinct Ic.17"
-  },
-  "ocd-division/country:us/state:ia/county:muscatine/precinct:go": {
-   "name": "Muscatine County Precinct Go"
   },
   "ocd-division/country:us/state:ia/county:johnson/precinct:ic.18": {
    "name": "Johnson County Precinct Ic.18"
   },
-  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.19": {
-   "name": "Johnson County Precinct Ic.19"
+  "ocd-division/country:us/state:ia/county:muscatine/precinct:go": {
+   "name": "Muscatine County Precinct Go"
   },
   "ocd-division/country:us/state:ia/place:harris": {
    "name": "Harris city"
+  },
+  "ocd-division/country:us/state:ia/county:johnson/precinct:ic.19": {
+   "name": "Johnson County Precinct Ic.19"
   },
   "ocd-division/country:us/state:ia/county:woodbury/precinct:35": {
    "name": "Woodbury County Precinct 35"
@@ -1145,11 +1145,11 @@
   "ocd-division/country:us/state:ia/county:woodbury/precinct:40": {
    "name": "Woodbury County Precinct 40"
   },
-  "ocd-division/country:us/state:ia/county:cerro_gordo/precinct:msb": {
-   "name": "Cerro Gordo County Precinct Msb"
-  },
   "ocd-division/country:us/state:ia/county:woodbury/precinct:41": {
    "name": "Woodbury County Precinct 41"
+  },
+  "ocd-division/country:us/state:ia/county:cerro_gordo/precinct:msb": {
+   "name": "Cerro Gordo County Precinct Msb"
   },
   "ocd-division/country:us/state:ia/county:woodbury/precinct:44": {
    "name": "Woodbury County Precinct 44"
@@ -1163,20 +1163,14 @@
   "ocd-division/country:us/state:ia/place:delhi": {
    "name": "Delhi city"
   },
-  "ocd-division/country:us/state:ia/county:keokuk/school_district:keota_comm_school_district": {
-   "name": "keota comm school district"
-  },
   "ocd-division/country:us/state:ia/county:fayette/school_district:west_central_comm_school_district": {
    "name": "west central comm school district"
   },
+  "ocd-division/country:us/state:ia/county:keokuk/school_district:keota_comm_school_district": {
+   "name": "keota comm school district"
+  },
   "ocd-division/country:us/state:ia/place:urbandale": {
    "name": "Urbandale city"
-  },
-  "ocd-division/country:us/state:ia/sldl:6": {
-   "name": "Iowa State House district 6",
-   "officeIndices": [
-    14
-   ]
   },
   "ocd-division/country:us/state:ia/county:montgomery": {
    "name": "Montgomery County",
@@ -1186,6 +1180,12 @@
     202,
     203,
     204
+   ]
+  },
+  "ocd-division/country:us/state:ia/sldl:6": {
+   "name": "Iowa State House district 6",
+   "officeIndices": [
+    14
    ]
   },
   "ocd-division/country:us/state:ia/sldl:5": {
@@ -1200,14 +1200,14 @@
     16
    ]
   },
+  "ocd-division/country:us/state:ia/county:muscatine/precinct:f2la": {
+   "name": "Muscatine County Precinct F2La"
+  },
   "ocd-division/country:us/state:ia/sldl:3": {
    "name": "Iowa State House district 3",
    "officeIndices": [
     17
    ]
-  },
-  "ocd-division/country:us/state:ia/county:muscatine/precinct:f2la": {
-   "name": "Muscatine County Precinct F2La"
   },
   "ocd-division/country:us/state:ia/county:marion/school_district:twin_cedars_comm_school_district": {
    "name": "twin cedars comm school district"
@@ -1261,11 +1261,11 @@
   "ocd-division/country:us/state:ia/county:delaware/precinct:mc2": {
    "name": "Delaware County Precinct Mc2"
   },
-  "ocd-division/country:us/state:ia/county:delaware/precinct:mc3": {
-   "name": "Delaware County Precinct Mc3"
-  },
   "ocd-division/country:us/state:ia/place:elkhart": {
    "name": "Elkhart city"
+  },
+  "ocd-division/country:us/state:ia/county:delaware/precinct:mc3": {
+   "name": "Delaware County Precinct Mc3"
   },
   "ocd-division/country:us/state:ia/county:hardin/school_district:iowa_falls_comm_school_district": {
    "name": "iowa falls comm school district"
@@ -1381,11 +1381,11 @@
   "ocd-division/country:us/state:ia/place:luzerne": {
    "name": "Luzerne city"
   },
-  "ocd-division/country:us/state:ia/place:ida_grove": {
-   "name": "Ida Grove city"
-  },
   "ocd-division/country:us/state:ia/place:manchester": {
    "name": "Manchester city"
+  },
+  "ocd-division/country:us/state:ia/place:ida_grove": {
+   "name": "Ida Grove city"
   },
   "ocd-division/country:us/state:ia/county:benton": {
    "name": "Benton County",
@@ -1456,9 +1456,6 @@
   "ocd-division/country:us/state:ia/county:allamakee/precinct:5": {
    "name": "Allamakee County Precinct 5"
   },
-  "ocd-division/country:us/state:ia/county:allamakee/precinct:4": {
-   "name": "Allamakee County Precinct 4"
-  },
   "ocd-division/country:us/state:ia/county:pottawattamie": {
    "name": "Pottawattamie County",
    "officeIndices": [
@@ -1469,6 +1466,9 @@
     221,
     222
    ]
+  },
+  "ocd-division/country:us/state:ia/county:allamakee/precinct:4": {
+   "name": "Allamakee County Precinct 4"
   },
   "ocd-division/country:us/state:ia/county:allamakee/precinct:7": {
    "name": "Allamakee County Precinct 7"
@@ -1774,11 +1774,11 @@
   "ocd-division/country:us/state:ia/county:iowa/precinct:mr": {
    "name": "Iowa County Precinct Mr"
   },
-  "ocd-division/country:us/state:ia/county:cherokee/precinct:6-ch-w2": {
-   "name": "Cherokee County Precinct 6-Ch-W2"
-  },
   "ocd-division/country:us/state:ia/place:decatur_city": {
    "name": "Decatur City city"
+  },
+  "ocd-division/country:us/state:ia/county:cherokee/precinct:6-ch-w2": {
+   "name": "Cherokee County Precinct 6-Ch-W2"
   },
   "ocd-division/country:us/state:ia/county:tama/precinct:yk": {
    "name": "Tama County Precinct Yk"
@@ -1810,17 +1810,17 @@
   "ocd-division/country:us/state:ia/place:new_london": {
    "name": "New London city"
   },
-  "ocd-division/country:us/state:ia/county:clayton/precinct:jf-mv": {
-   "name": "Clayton County Precinct Jf-Mv"
-  },
   "ocd-division/country:us/state:ia/county:webster/precinct:swyh": {
    "name": "Webster County Precinct Swyh"
   },
-  "ocd-division/country:us/state:ia/county:scott/precinct:b52": {
-   "name": "Scott County Precinct B52"
+  "ocd-division/country:us/state:ia/county:clayton/precinct:jf-mv": {
+   "name": "Clayton County Precinct Jf-Mv"
   },
   "ocd-division/country:us/state:ia/place:missouri_valley": {
    "name": "Missouri Valley city"
+  },
+  "ocd-division/country:us/state:ia/county:scott/precinct:b52": {
+   "name": "Scott County Precinct B52"
   },
   "ocd-division/country:us/state:ia/county:scott/precinct:b51": {
    "name": "Scott County Precinct B51"
@@ -1828,17 +1828,14 @@
   "ocd-division/country:us/state:ia/county:iowa/precinct:wm": {
    "name": "Iowa County Precinct Wm"
   },
-  "ocd-division/country:us/state:ia/place:riverton": {
-   "name": "Riverton city"
-  },
   "ocd-division/country:us/state:ia/county:ringgold/precinct:tg": {
    "name": "Ringgold County Precinct Tg"
   },
+  "ocd-division/country:us/state:ia/place:riverton": {
+   "name": "Riverton city"
+  },
   "ocd-division/country:us/state:ia/county:jackson/precinct:14": {
    "name": "Jackson County Precinct 14"
-  },
-  "ocd-division/country:us/state:ia/county:jackson/precinct:13": {
-   "name": "Jackson County Precinct 13"
   },
   "ocd-division/country:us/state:ia/county:fayette": {
    "name": "Fayette County",
@@ -1850,6 +1847,9 @@
     245,
     246
    ]
+  },
+  "ocd-division/country:us/state:ia/county:jackson/precinct:13": {
+   "name": "Jackson County Precinct 13"
   },
   "ocd-division/country:us/state:ia/county:jackson/precinct:16": {
    "name": "Jackson County Precinct 16"
@@ -1878,11 +1878,11 @@
   "ocd-division/country:us/state:ia/county:linn/precinct:tcli": {
    "name": "Linn County Precinct Tcli"
   },
-  "ocd-division/country:us/state:ia/county:monona/precinct:sh010": {
-   "name": "Monona County Precinct Sh010"
-  },
   "ocd-division/country:us/state:ia/county:hamilton/school_district:northeast_hamilton_comm_school_district": {
    "name": "northeast hamilton comm school district"
+  },
+  "ocd-division/country:us/state:ia/county:monona/precinct:sh010": {
+   "name": "Monona County Precinct Sh010"
   },
   "ocd-division/country:us/state:ia/county:jackson/precinct:11": {
    "name": "Jackson County Precinct 11"
@@ -1893,11 +1893,11 @@
   "ocd-division/country:us/state:ia/county:jackson/precinct:10": {
    "name": "Jackson County Precinct 10"
   },
-  "ocd-division/country:us/state:ia/place:rowley": {
-   "name": "Rowley city"
-  },
   "ocd-division/country:us/state:ia/place:gravity": {
    "name": "Gravity city"
+  },
+  "ocd-division/country:us/state:ia/place:rowley": {
+   "name": "Rowley city"
   },
   "ocd-division/country:us/state:ia/place:sac_city": {
    "name": "Sac City city"
@@ -1905,11 +1905,11 @@
   "ocd-division/country:us/state:ia/place:charlotte": {
    "name": "Charlotte city"
   },
-  "ocd-division/country:us/state:ia/county:wayne/precinct:a01": {
-   "name": "Wayne County Precinct A01"
-  },
   "ocd-division/country:us/state:ia/place:charter_oak": {
    "name": "Charter Oak city"
+  },
+  "ocd-division/country:us/state:ia/county:wayne/precinct:a01": {
+   "name": "Wayne County Precinct A01"
   },
   "ocd-division/country:us/state:ia/place:le_mars": {
    "name": "Le Mars city"
@@ -1926,11 +1926,11 @@
   "ocd-division/country:us/state:ia/county:winneshiek/precinct:8": {
    "name": "Winneshiek County Precinct 8"
   },
-  "ocd-division/country:us/state:ia/county:winneshiek/precinct:9": {
-   "name": "Winneshiek County Precinct 9"
-  },
   "ocd-division/country:us/state:ia/place:primghar": {
    "name": "Primghar city"
+  },
+  "ocd-division/country:us/state:ia/county:winneshiek/precinct:9": {
+   "name": "Winneshiek County Precinct 9"
   },
   "ocd-division/country:us/state:ia/place:hinton": {
    "name": "Hinton city"
@@ -1959,11 +1959,11 @@
   "ocd-division/country:us/state:ia/county:scott/precinct:b23": {
    "name": "Scott County Precinct B23"
   },
-  "ocd-division/country:us/state:ia/county:cerro_gordo/precinct:lk": {
-   "name": "Cerro Gordo County Precinct Lk"
-  },
   "ocd-division/country:us/state:ia/county:des_moines/precinct:bu8c": {
    "name": "Des Moines County Precinct Bu8C"
+  },
+  "ocd-division/country:us/state:ia/county:cerro_gordo/precinct:lk": {
+   "name": "Cerro Gordo County Precinct Lk"
   },
   "ocd-division/country:us/state:ia/place:conway": {
    "name": "Conway city"
@@ -2019,23 +2019,23 @@
     249
    ]
   },
+  "ocd-division/country:us/state:ia/county:scott/precinct:b11": {
+   "name": "Scott County Precinct B11"
+  },
   "ocd-division/country:us/state:ia/county:emmet/precinct:11": {
    "name": "Emmet County Precinct 11"
   },
-  "ocd-division/country:us/state:ia/county:scott/precinct:b11": {
-   "name": "Scott County Precinct B11"
+  "ocd-division/country:us/state:ia/county:scott/precinct:b12": {
+   "name": "Scott County Precinct B12"
+  },
+  "ocd-division/country:us/state:ia/county:emmet/precinct:10": {
+   "name": "Emmet County Precinct 10"
   },
   "ocd-division/country:us/state:ia/county:cherokee/council_district:5": {
    "name": "Cherokee County District 5",
    "officeIndices": [
     250
    ]
-  },
-  "ocd-division/country:us/state:ia/county:emmet/precinct:10": {
-   "name": "Emmet County Precinct 10"
-  },
-  "ocd-division/country:us/state:ia/county:scott/precinct:b12": {
-   "name": "Scott County Precinct B12"
   },
   "ocd-division/country:us/state:ia/county:hardin/school_district:hubbard-radcliffe_comm_school_district": {
    "name": "hubbard-radcliffe comm school district"
@@ -2052,11 +2052,11 @@
     252
    ]
   },
-  "ocd-division/country:us/state:ia/county:cass/precinct:an": {
-   "name": "Cass County Precinct An"
-  },
   "ocd-division/country:us/state:ia/county:butler/precinct:1-gr": {
    "name": "Butler County Precinct 1-Gr"
+  },
+  "ocd-division/country:us/state:ia/county:cass/precinct:an": {
+   "name": "Cass County Precinct An"
   },
   "ocd-division/country:us/state:ia/county:iowa/school_district:english_valleys_comm_school_district": {
    "name": "english valleys comm school district"
@@ -2085,11 +2085,11 @@
   "ocd-division/country:us/state:ia/county:scott/precinct:b42": {
    "name": "Scott County Precinct B42"
   },
-  "ocd-division/country:us/state:ia/county:ringgold/precinct:un": {
-   "name": "Ringgold County Precinct Un"
-  },
   "ocd-division/country:us/state:ia/county:washington/precinct:ws2": {
    "name": "Washington County Precinct Ws2"
+  },
+  "ocd-division/country:us/state:ia/county:ringgold/precinct:un": {
+   "name": "Ringgold County Precinct Un"
   },
   "ocd-division/country:us/state:ia/county:washington/precinct:ws1": {
    "name": "Washington County Precinct Ws1"
@@ -2112,17 +2112,17 @@
   "ocd-division/country:us/state:ia/place:paton": {
    "name": "Paton city"
   },
-  "ocd-division/country:us/state:ia/place:spring_hill": {
-   "name": "Spring Hill city"
-  },
-  "ocd-division/country:us/state:ia/county:greene/school_district:east_greene_comm_school_district": {
-   "name": "east greene comm school district"
+  "ocd-division/country:us/state:ia/county:union/precinct:ar": {
+   "name": "Union County Precinct Ar"
   },
   "ocd-division/country:us/state:ia/county:scott/precinct:b31": {
    "name": "Scott County Precinct B31"
   },
-  "ocd-division/country:us/state:ia/county:union/precinct:ar": {
-   "name": "Union County Precinct Ar"
+  "ocd-division/country:us/state:ia/county:greene/school_district:east_greene_comm_school_district": {
+   "name": "east greene comm school district"
+  },
+  "ocd-division/country:us/state:ia/place:spring_hill": {
+   "name": "Spring Hill city"
   },
   "ocd-division/country:us/state:ia/county:scott/precinct:b32": {
    "name": "Scott County Precinct B32"
@@ -2130,11 +2130,11 @@
   "ocd-division/country:us/state:ia/place:marysville": {
    "name": "Marysville city"
   },
-  "ocd-division/country:us/state:ia/county:jackson/school_district:andrew_comm_school_district": {
-   "name": "andrew comm school district"
-  },
   "ocd-division/country:us/state:ia/county:taylor/precinct:3twnshp": {
    "name": "Taylor County Precinct 3Twnshp"
+  },
+  "ocd-division/country:us/state:ia/county:jackson/school_district:andrew_comm_school_district": {
+   "name": "andrew comm school district"
   },
   "ocd-division/country:us/state:ia/place:st_olaf": {
    "name": "St. Olaf city"
@@ -2142,11 +2142,11 @@
   "ocd-division/country:us/state:ia/place:casey": {
    "name": "Casey city"
   },
-  "ocd-division/country:us/state:ia/county:cerro_gordo/precinct:mv": {
-   "name": "Cerro Gordo County Precinct Mv"
-  },
   "ocd-division/country:us/state:ia/county:winnebago/precinct:bugrlc": {
    "name": "Winnebago County Precinct Bugrlc"
+  },
+  "ocd-division/country:us/state:ia/county:cerro_gordo/precinct:mv": {
+   "name": "Cerro Gordo County Precinct Mv"
   },
   "ocd-division/country:us/state:ia/county:taylor/precinct:becity": {
    "name": "Taylor County Precinct Becity"
@@ -2242,23 +2242,23 @@
   "ocd-division/country:us/state:ia/county:boone/precinct:rp6": {
    "name": "Boone County Precinct Rp6"
   },
-  "ocd-division/country:us/state:ia/county:boone/precinct:rp2": {
-   "name": "Boone County Precinct Rp2"
-  },
   "ocd-division/country:us/state:ia/place:hanlontown": {
    "name": "Hanlontown city"
   },
-  "ocd-division/country:us/state:ia/place:randolph": {
-   "name": "Randolph city"
+  "ocd-division/country:us/state:ia/county:boone/precinct:rp2": {
+   "name": "Boone County Precinct Rp2"
   },
   "ocd-division/country:us/state:ia/county:boone/precinct:rp3": {
    "name": "Boone County Precinct Rp3"
   },
-  "ocd-division/country:us/state:ia/county:johnson/precinct:hs": {
-   "name": "Johnson County Precinct Hs"
+  "ocd-division/country:us/state:ia/place:randolph": {
+   "name": "Randolph city"
   },
   "ocd-division/country:us/state:ia/county:boone/precinct:rp4": {
    "name": "Boone County Precinct Rp4"
+  },
+  "ocd-division/country:us/state:ia/county:johnson/precinct:hs": {
+   "name": "Johnson County Precinct Hs"
   },
   "ocd-division/country:us/state:ia/county:boone/precinct:rp5": {
    "name": "Boone County Precinct Rp5"
@@ -2334,8 +2334,8 @@
     267
    ]
   },
-  "ocd-division/country:us/state:ia/county:johnson/precinct:je": {
-   "name": "Johnson County Precinct Je"
+  "ocd-division/country:us/state:ia/county:pottawattamie/precinct:garner": {
+   "name": "Pottawattamie County Precinct Garner"
   },
   "ocd-division/country:us/state:ia/county:cerro_gordo/council_district:2": {
    "name": "Cerro Gordo County District 2",
@@ -2343,8 +2343,8 @@
     268
    ]
   },
-  "ocd-division/country:us/state:ia/county:pottawattamie/precinct:garner": {
-   "name": "Pottawattamie County Precinct Garner"
+  "ocd-division/country:us/state:ia/county:johnson/precinct:je": {
+   "name": "Johnson County Precinct Je"
   },
   "ocd-division/country:us/state:ia/county:cerro_gordo/council_district:3": {
    "name": "Cerro Gordo County District 3",
@@ -2408,20 +2408,17 @@
     283
    ]
   },
-  "ocd-division/country:us/state:ia/county:sioux/precinct:hw": {
-   "name": "Sioux County Precinct Hw"
-  },
   "ocd-division/country:us/state:ia/county:webster/council_district:5": {
    "name": "Webster County District 5",
    "officeIndices": [
     284
    ]
   },
+  "ocd-division/country:us/state:ia/county:sioux/precinct:hw": {
+   "name": "Sioux County Precinct Hw"
+  },
   "ocd-division/country:us/state:ia/place:guttenberg": {
    "name": "Guttenberg city"
-  },
-  "ocd-division/country:us/state:ia/county:lyon/precinct:p5": {
-   "name": "Lyon County Precinct P5"
   },
   "ocd-division/country:us/state:ia/county:delaware/council_district:1": {
    "name": "Delaware County District 1",
@@ -2429,11 +2426,11 @@
     285
    ]
   },
+  "ocd-division/country:us/state:ia/county:lyon/precinct:p5": {
+   "name": "Lyon County Precinct P5"
+  },
   "ocd-division/country:us/state:ia/county:lyon/precinct:p6": {
    "name": "Lyon County Precinct P6"
-  },
-  "ocd-division/country:us/state:ia/county:lyon/precinct:p7": {
-   "name": "Lyon County Precinct P7"
   },
   "ocd-division/country:us/state:ia/county:delaware/council_district:3": {
    "name": "Delaware County District 3",
@@ -2441,8 +2438,8 @@
     286
    ]
   },
-  "ocd-division/country:us/state:ia/county:lyon/precinct:p8": {
-   "name": "Lyon County Precinct P8"
+  "ocd-division/country:us/state:ia/county:lyon/precinct:p7": {
+   "name": "Lyon County Precinct P7"
   },
   "ocd-division/country:us/state:ia/county:delaware/council_district:2": {
    "name": "Delaware County District 2",
@@ -2450,14 +2447,17 @@
     287
    ]
   },
+  "ocd-division/country:us/state:ia/county:lyon/precinct:p8": {
+   "name": "Lyon County Precinct P8"
+  },
   "ocd-division/country:us/state:ia/county:johnson/precinct:lb": {
    "name": "Johnson County Precinct Lb"
   },
-  "ocd-division/country:us/state:ia/county:lyon/precinct:p2": {
-   "name": "Lyon County Precinct P2"
-  },
   "ocd-division/country:us/state:ia/county:cerro_gordo/precinct:mc-w4p1": {
    "name": "Cerro Gordo County Precinct Mc-W4P1"
+  },
+  "ocd-division/country:us/state:ia/county:lyon/precinct:p2": {
+   "name": "Lyon County Precinct P2"
   },
   "ocd-division/country:us/state:ia/county:lyon/precinct:p1": {
    "name": "Lyon County Precinct P1"
@@ -2465,11 +2465,11 @@
   "ocd-division/country:us/state:ia/county:lyon/precinct:p4": {
    "name": "Lyon County Precinct P4"
   },
-  "ocd-division/country:us/state:ia/county:lyon/precinct:p3": {
-   "name": "Lyon County Precinct P3"
-  },
   "ocd-division/country:us/state:ia/county:dallas/school_district:van_meter_comm_school_district": {
    "name": "van meter comm school district"
+  },
+  "ocd-division/country:us/state:ia/county:lyon/precinct:p3": {
+   "name": "Lyon County Precinct P3"
   },
   "ocd-division/country:us/state:ia/county:plymouth/council_district:1": {
    "name": "Plymouth County District 1",
@@ -2506,6 +2506,9 @@
   "ocd-division/country:us/state:ia/county:sac/school_district:wall_lake_view_auburn_comm_school_district": {
    "name": "wall lake view auburn comm school district"
   },
+  "ocd-division/country:us/state:ia/county:cass/precinct:ms": {
+   "name": "Cass County Precinct Ms"
+  },
   "ocd-division/country:us/state:ia/county:lyon": {
    "name": "Lyon County",
    "officeIndices": [
@@ -2515,9 +2518,6 @@
     299,
     300
    ]
-  },
-  "ocd-division/country:us/state:ia/county:cass/precinct:ms": {
-   "name": "Cass County Precinct Ms"
   },
   "ocd-division/country:us/state:ia/county:cass/precinct:mr": {
    "name": "Cass County Precinct Mr"
@@ -2556,26 +2556,26 @@
   "ocd-division/country:us/state:ia/county:story/school_district:colo-nesco_comm_school_district": {
    "name": "colo-nesco comm school district"
   },
-  "ocd-division/country:us/state:ia/place:dows": {
-   "name": "Dows city"
-  },
   "ocd-division/country:us/state:ia/place:onslow": {
    "name": "Onslow city"
   },
-  "ocd-division/country:us/state:ia/county:johnson/precinct:np": {
-   "name": "Johnson County Precinct Np"
+  "ocd-division/country:us/state:ia/place:dows": {
+   "name": "Dows city"
   },
   "ocd-division/country:us/state:ia/place:allison": {
    "name": "Allison city"
   },
+  "ocd-division/country:us/state:ia/county:johnson/precinct:np": {
+   "name": "Johnson County Precinct Np"
+  },
   "ocd-division/country:us/state:ia/county:story/school_district:nevada_comm_school_district": {
    "name": "nevada comm school district"
   },
-  "ocd-division/country:us/state:ia/county:madison/precinct:jdl": {
-   "name": "Madison County Precinct Jdl"
-  },
   "ocd-division/country:us/state:ia/place:lucas": {
    "name": "Lucas city"
+  },
+  "ocd-division/country:us/state:ia/county:madison/precinct:jdl": {
+   "name": "Madison County Precinct Jdl"
   },
   "ocd-division/country:us/state:ia/county:ringgold/precinct:cl": {
    "name": "Ringgold County Precinct Cl"
@@ -2583,11 +2583,11 @@
   "ocd-division/country:us/state:ia/county:clarke/precinct:mdl": {
    "name": "Clarke County Precinct Mdl"
   },
-  "ocd-division/country:us/state:ia/county:iowa/precinct:fm": {
-   "name": "Iowa County Precinct Fm"
-  },
   "ocd-division/country:us/state:ia/county:polk/precinct:whts-2": {
    "name": "Polk County Precinct Whts-2"
+  },
+  "ocd-division/country:us/state:ia/county:iowa/precinct:fm": {
+   "name": "Iowa County Precinct Fm"
   },
   "ocd-division/country:us/state:ia/county:polk/precinct:whts-3": {
    "name": "Polk County Precinct Whts-3"
@@ -2625,11 +2625,11 @@
   "ocd-division/country:us/state:ia/county:cass/precinct:lw": {
    "name": "Cass County Precinct Lw"
   },
-  "ocd-division/country:us/state:ia/county:pottawattamie/precinct:glwcw": {
-   "name": "Pottawattamie County Precinct Glwcw"
-  },
   "ocd-division/country:us/state:ia/place:oelwein": {
    "name": "Oelwein city"
+  },
+  "ocd-division/country:us/state:ia/county:pottawattamie/precinct:glwcw": {
+   "name": "Pottawattamie County Precinct Glwcw"
   },
   "ocd-division/country:us/state:ia/county:iowa/precinct:hc": {
    "name": "Iowa County Precinct Hc"
@@ -3659,14 +3659,14 @@
   "ocd-division/country:us/state:ia/county:linn/precinct:cr05": {
    "name": "Linn County Precinct Cr05"
   },
+  "ocd-division/country:us/state:ia/place:nevada": {
+   "name": "Nevada city"
+  },
   "ocd-division/country:us/state:ia/county:linn/precinct:cr06": {
    "name": "Linn County Precinct Cr06"
   },
   "ocd-division/country:us/state:ia/county:grundy/school_district:gladbrook-reinbeck_comm_school_district": {
    "name": "gladbrook-reinbeck comm school district"
-  },
-  "ocd-division/country:us/state:ia/place:nevada": {
-   "name": "Nevada city"
   },
   "ocd-division/country:us/state:ia/place:redfield": {
    "name": "Redfield city"
@@ -3755,14 +3755,14 @@
     357
    ]
   },
-  "ocd-division/country:us/state:ia/county:linn/precinct:cr24": {
-   "name": "Linn County Precinct Cr24"
-  },
   "ocd-division/country:us/state:ia/county:franklin/council_district:2": {
    "name": "Franklin County District 2",
    "officeIndices": [
     358
    ]
+  },
+  "ocd-division/country:us/state:ia/county:linn/precinct:cr24": {
+   "name": "Linn County Precinct Cr24"
   },
   "ocd-division/country:us/state:ia/county:linn/precinct:cr23": {
    "name": "Linn County Precinct Cr23"
@@ -3954,14 +3954,14 @@
   "ocd-division/country:us/state:ia/county:jones/school_district:midland_comm_school_district": {
    "name": "midland comm school district"
   },
-  "ocd-division/country:us/state:ia/place:toronto": {
-   "name": "Toronto city"
-  },
   "ocd-division/country:us/state:ia/county:linn/council_district:3": {
    "name": "Linn County District 3",
    "officeIndices": [
     365
    ]
+  },
+  "ocd-division/country:us/state:ia/place:toronto": {
+   "name": "Toronto city"
   },
   "ocd-division/country:us/state:ia/county:scott/precinct:d14": {
    "name": "Scott County Precinct D14"
@@ -3993,14 +3993,14 @@
   "ocd-division/country:us/state:ia/county:black_hawk/precinct:x402": {
    "name": "Black Hawk County Precinct X402"
   },
-  "ocd-division/country:us/state:ia/county:mills/precinct:ok": {
-   "name": "Mills County Precinct Ok"
-  },
   "ocd-division/country:us/state:ia/county:linn/council_district:1": {
    "name": "Linn County District 1",
    "officeIndices": [
     369
    ]
+  },
+  "ocd-division/country:us/state:ia/county:mills/precinct:ok": {
+   "name": "Mills County Precinct Ok"
   },
   "ocd-division/country:us/state:ia/county:black_hawk/precinct:x401": {
    "name": "Black Hawk County Precinct X401"
@@ -4047,14 +4047,14 @@
   "ocd-division/country:us/state:ia/county:scott/precinct:d24": {
    "name": "Scott County Precinct D24"
   },
+  "ocd-division/country:us/state:ia/place:mccausland": {
+   "name": "McCausland city"
+  },
   "ocd-division/country:us/state:ia/county:hamilton/precinct:2": {
    "name": "Hamilton County Precinct 2"
   },
   "ocd-division/country:us/state:ia/county:scott/precinct:d23": {
    "name": "Scott County Precinct D23"
-  },
-  "ocd-division/country:us/state:ia/place:mccausland": {
-   "name": "McCausland city"
   },
   "ocd-division/country:us/state:ia/county:hamilton/precinct:1": {
    "name": "Hamilton County Precinct 1"
@@ -4122,9 +4122,6 @@
   "ocd-division/country:us/state:ia/county:marion/precinct:kx1": {
    "name": "Marion County Precinct Kx1"
   },
-  "ocd-division/country:us/state:ia/county:keokuk/precinct:lc": {
-   "name": "Keokuk County Precinct Lc"
-  },
   "ocd-division/country:us/state:ia/county:hardin": {
    "name": "Hardin County",
    "officeIndices": [
@@ -4135,6 +4132,9 @@
     377,
     378
    ]
+  },
+  "ocd-division/country:us/state:ia/county:keokuk/precinct:lc": {
+   "name": "Keokuk County Precinct Lc"
   },
   "ocd-division/country:us/state:ia/county:marion/precinct:kx4": {
    "name": "Marion County Precinct Kx4"
@@ -4511,17 +4511,17 @@
   "ocd-division/country:us/state:ia/county:jasper/precinct:nt2-2": {
    "name": "Jasper County Precinct Nt2-2"
   },
-  "ocd-division/country:us/state:ia/county:pottawattamie/precinct:cl-1": {
-   "name": "Pottawattamie County Precinct Cl-1"
-  },
   "ocd-division/country:us/state:ia/place:clermont": {
    "name": "Clermont city"
   },
-  "ocd-division/country:us/state:ia/county:pottawattamie/precinct:cl-2": {
-   "name": "Pottawattamie County Precinct Cl-2"
+  "ocd-division/country:us/state:ia/county:pottawattamie/precinct:cl-1": {
+   "name": "Pottawattamie County Precinct Cl-1"
   },
   "ocd-division/country:us/state:ia/place:orient": {
    "name": "Orient city"
+  },
+  "ocd-division/country:us/state:ia/county:pottawattamie/precinct:cl-2": {
+   "name": "Pottawattamie County Precinct Cl-2"
   },
   "ocd-division/country:us/state:ia/county:jones/school_district:monticello_comm_school_district": {
    "name": "monticello comm school district"
@@ -4610,11 +4610,11 @@
   "ocd-division/country:us/state:ia/county:fayette/precinct:cl": {
    "name": "Fayette County Precinct Cl"
   },
-  "ocd-division/country:us/state:ia/place:remsen": {
-   "name": "Remsen city"
-  },
   "ocd-division/country:us/state:ia/county:scott/precinct:rv": {
    "name": "Scott County Precinct Rv"
+  },
+  "ocd-division/country:us/state:ia/place:remsen": {
+   "name": "Remsen city"
   },
   "ocd-division/country:us/state:ia/county:muscatine/precinct:wlwa": {
    "name": "Muscatine County Precinct Wlwa"
@@ -4632,11 +4632,11 @@
   "ocd-division/country:us/state:ia/county:louisa/precinct:wl": {
    "name": "Louisa County Precinct Wl"
   },
-  "ocd-division/country:us/state:ia/place:elkport": {
-   "name": "Elkport city"
-  },
   "ocd-division/country:us/state:ia/place:new_virginia": {
    "name": "New Virginia city"
+  },
+  "ocd-division/country:us/state:ia/place:elkport": {
+   "name": "Elkport city"
   },
   "ocd-division/country:us/state:ia/place:st_paul": {
    "name": "St. Paul city"
@@ -4650,11 +4650,11 @@
   "ocd-division/country:us/state:ia/place:garden_grove": {
    "name": "Garden Grove city"
   },
-  "ocd-division/country:us/state:ia/county:o~brien/school_district:south_o~brien_comm_school_district": {
-   "name": "south o'brien comm school district"
-  },
   "ocd-division/country:us/state:ia/county:lee/precinct:ws_gb": {
    "name": "Lee County Precinct Ws Gb"
+  },
+  "ocd-division/country:us/state:ia/county:o~brien/school_district:south_o~brien_comm_school_district": {
+   "name": "south o'brien comm school district"
   },
   "ocd-division/country:us/state:ia/county:fayette/precinct:dv": {
    "name": "Fayette County Precinct Dv"
@@ -4689,6 +4689,9 @@
   "ocd-division/country:us/state:ia/place:beacon": {
    "name": "Beacon city"
   },
+  "ocd-division/country:us/state:ia/place:graf": {
+   "name": "Graf city"
+  },
   "ocd-division/country:us/state:ia/county:marion": {
    "name": "Marion County",
    "officeIndices": [
@@ -4699,9 +4702,6 @@
     445,
     446
    ]
-  },
-  "ocd-division/country:us/state:ia/place:graf": {
-   "name": "Graf city"
   },
   "ocd-division/country:us/state:ia/place:schleswig": {
    "name": "Schleswig city"
@@ -4715,8 +4715,8 @@
     447
    ]
   },
-  "ocd-division/country:us/state:ia/place:riverdale": {
-   "name": "Riverdale city"
+  "ocd-division/country:us/state:ia/place:gray": {
+   "name": "Gray city"
   },
   "ocd-division/country:us/state:ia/county:cass/council_district:4": {
    "name": "Cass County District 4",
@@ -4724,8 +4724,14 @@
     448
    ]
   },
-  "ocd-division/country:us/state:ia/place:gray": {
-   "name": "Gray city"
+  "ocd-division/country:us/state:ia/place:riverdale": {
+   "name": "Riverdale city"
+  },
+  "ocd-division/country:us/state:ia/place:lineville": {
+   "name": "Lineville city"
+  },
+  "ocd-division/country:us/state:ia/county:fayette/precinct:ed": {
+   "name": "Fayette County Precinct Ed"
   },
   "ocd-division/country:us/state:ia/county:cass/council_district:5": {
    "name": "Cass County District 5",
@@ -4733,23 +4739,17 @@
     449
    ]
   },
-  "ocd-division/country:us/state:ia/county:fayette/precinct:ed": {
-   "name": "Fayette County Precinct Ed"
-  },
-  "ocd-division/country:us/state:ia/place:lineville": {
-   "name": "Lineville city"
-  },
   "ocd-division/country:us/state:ia/county:scott/precinct:pv": {
    "name": "Scott County Precinct Pv"
-  },
-  "ocd-division/country:us/state:ia/county:henry/precinct:ne": {
-   "name": "Henry County Precinct Ne"
   },
   "ocd-division/country:us/state:ia/county:cass/council_district:1": {
    "name": "Cass County District 1",
    "officeIndices": [
     450
    ]
+  },
+  "ocd-division/country:us/state:ia/county:henry/precinct:ne": {
+   "name": "Henry County Precinct Ne"
   },
   "ocd-division/country:us/state:ia/county:cass/council_district:2": {
    "name": "Cass County District 2",
@@ -4781,26 +4781,26 @@
     27
    ]
   },
+  "ocd-division/country:us/state:ia/place:new_market": {
+   "name": "New Market city"
+  },
+  "ocd-division/country:us/state:ia/county:dubuque/school_district:western_dubuque_comm_school_district": {
+   "name": "western dubuque comm school district"
+  },
   "ocd-division/country:us/state:ia/sldl:23": {
    "name": "Iowa State House district 23",
    "officeIndices": [
     28
    ]
   },
-  "ocd-division/country:us/state:ia/county:dubuque/school_district:western_dubuque_comm_school_district": {
-   "name": "western dubuque comm school district"
-  },
-  "ocd-division/country:us/state:ia/place:new_market": {
-   "name": "New Market city"
+  "ocd-division/country:us/state:ia/county:clayton/precinct:bv": {
+   "name": "Clayton County Precinct Bv"
   },
   "ocd-division/country:us/state:ia/sldl:26": {
    "name": "Iowa State House district 26",
    "officeIndices": [
     29
    ]
-  },
-  "ocd-division/country:us/state:ia/county:clayton/precinct:bv": {
-   "name": "Clayton County Precinct Bv"
   },
   "ocd-division/country:us/state:ia/sldl:25": {
    "name": "Iowa State House district 25",
@@ -4814,14 +4814,17 @@
     31
    ]
   },
+  "ocd-division/country:us/state:ia/place:atkins": {
+   "name": "Atkins city"
+  },
   "ocd-division/country:us/state:ia/sldl:27": {
    "name": "Iowa State House district 27",
    "officeIndices": [
     32
    ]
   },
-  "ocd-division/country:us/state:ia/place:atkins": {
-   "name": "Atkins city"
+  "ocd-division/country:us/state:ia/place:maquoketa": {
+   "name": "Maquoketa city"
   },
   "ocd-division/country:us/state:ia/sldl:29": {
    "name": "Iowa State House district 29",
@@ -4829,8 +4832,8 @@
     33
    ]
   },
-  "ocd-division/country:us/state:ia/place:maquoketa": {
-   "name": "Maquoketa city"
+  "ocd-division/country:us/state:ia/county:scott/precinct:d64": {
+   "name": "Scott County Precinct D64"
   },
   "ocd-division/country:us/state:ia/sldu:43": {
    "name": "Iowa State Senate district 43",
@@ -4838,8 +4841,8 @@
     34
    ]
   },
-  "ocd-division/country:us/state:ia/county:scott/precinct:d64": {
-   "name": "Scott County Precinct D64"
+  "ocd-division/country:us/state:ia/county:scott/precinct:mc": {
+   "name": "Scott County Precinct Mc"
   },
   "ocd-division/country:us/state:ia/sldu:42": {
    "name": "Iowa State Senate district 42",
@@ -4847,8 +4850,8 @@
     35
    ]
   },
-  "ocd-division/country:us/state:ia/county:scott/precinct:mc": {
-   "name": "Scott County Precinct Mc"
+  "ocd-division/country:us/state:ia/county:clinton/school_district:northeast_comm_school_district": {
+   "name": "northeast comm school district"
   },
   "ocd-division/country:us/state:ia/sldu:45": {
    "name": "Iowa State Senate district 45",
@@ -4856,17 +4859,14 @@
     36
    ]
   },
-  "ocd-division/country:us/state:ia/county:clinton/school_district:northeast_comm_school_district": {
-   "name": "northeast comm school district"
+  "ocd-division/country:us/state:ia/place:gladbrook": {
+   "name": "Gladbrook city"
   },
   "ocd-division/country:us/state:ia/sldu:44": {
    "name": "Iowa State Senate district 44",
    "officeIndices": [
     37
    ]
-  },
-  "ocd-division/country:us/state:ia/place:gladbrook": {
-   "name": "Gladbrook city"
   },
   "ocd-division/country:us/state:ia/sldu:47": {
    "name": "Iowa State Senate district 47",
@@ -4912,14 +4912,17 @@
   "ocd-division/country:us/state:ia/county:scott/precinct:d61": {
    "name": "Scott County Precinct D61"
   },
+  "ocd-division/country:us/state:ia/county:scott/precinct:d62": {
+   "name": "Scott County Precinct D62"
+  },
   "ocd-division/country:us/state:ia/sldu:41": {
    "name": "Iowa State Senate district 41",
    "officeIndices": [
     42
    ]
   },
-  "ocd-division/country:us/state:ia/county:scott/precinct:d62": {
-   "name": "Scott County Precinct D62"
+  "ocd-division/country:us/state:ia/county:scott/precinct:d63": {
+   "name": "Scott County Precinct D63"
   },
   "ocd-division/country:us/state:ia/sldu:40": {
    "name": "Iowa State Senate district 40",
@@ -4927,23 +4930,20 @@
     43
    ]
   },
-  "ocd-division/country:us/state:ia/county:scott/precinct:d63": {
-   "name": "Scott County Precinct D63"
-  },
   "ocd-division/country:us/state:ia/sldl:11": {
    "name": "Iowa State House district 11",
    "officeIndices": [
     44
    ]
   },
+  "ocd-division/country:us/state:ia/county:fayette/precinct:or": {
+   "name": "Fayette County Precinct Or"
+  },
   "ocd-division/country:us/state:ia/sldl:10": {
    "name": "Iowa State House district 10",
    "officeIndices": [
     45
    ]
-  },
-  "ocd-division/country:us/state:ia/county:fayette/precinct:or": {
-   "name": "Fayette County Precinct Or"
   },
   "ocd-division/country:us/state:ia/sldl:15": {
    "name": "Iowa State House district 15",
@@ -4975,14 +4975,20 @@
     50
    ]
   },
+  "ocd-division/country:us/state:ia/place:odebolt": {
+   "name": "Odebolt city"
+  },
   "ocd-division/country:us/state:ia/sldl:18": {
    "name": "Iowa State House district 18",
    "officeIndices": [
     51
    ]
   },
-  "ocd-division/country:us/state:ia/place:odebolt": {
-   "name": "Odebolt city"
+  "ocd-division/country:us/state:ia/place:orleans": {
+   "name": "Orleans city"
+  },
+  "ocd-division/country:us/state:ia/place:harcourt": {
+   "name": "Harcourt city"
   },
   "ocd-division/country:us/state:ia/sldl:17": {
    "name": "Iowa State House district 17",
@@ -4990,20 +4996,14 @@
     52
    ]
   },
-  "ocd-division/country:us/state:ia/place:harcourt": {
-   "name": "Harcourt city"
-  },
-  "ocd-division/country:us/state:ia/place:orleans": {
-   "name": "Orleans city"
+  "ocd-division/country:us/state:ia/place:wiota": {
+   "name": "Wiota city"
   },
   "ocd-division/country:us/state:ia/sldl:16": {
    "name": "Iowa State House district 16",
    "officeIndices": [
     53
    ]
-  },
-  "ocd-division/country:us/state:ia/place:wiota": {
-   "name": "Wiota city"
   },
   "ocd-division/country:us/state:ia/county:black_hawk/precinct:x202": {
    "name": "Black Hawk County Precinct X202"
@@ -5014,11 +5014,11 @@
   "ocd-division/country:us/state:ia/county:scott/precinct:d53": {
    "name": "Scott County Precinct D53"
   },
-  "ocd-division/country:us/state:ia/county:scott/precinct:d54": {
-   "name": "Scott County Precinct D54"
-  },
   "ocd-division/country:us/state:ia/place:new_albin": {
    "name": "New Albin city"
+  },
+  "ocd-division/country:us/state:ia/county:scott/precinct:d54": {
+   "name": "Scott County Precinct D54"
   },
   "ocd-division/country:us/state:ia/county:lee/precinct:wpprdn": {
    "name": "Lee County Precinct Wpprdn"
@@ -5035,11 +5035,11 @@
     54
    ]
   },
-  "ocd-division/country:us/state:ia/county:henry/precinct:ce": {
-   "name": "Henry County Precinct Ce"
-  },
   "ocd-division/country:us/state:ia/county:black_hawk/precinct:x201": {
    "name": "Black Hawk County Precinct X201"
+  },
+  "ocd-division/country:us/state:ia/county:henry/precinct:ce": {
+   "name": "Henry County Precinct Ce"
   },
   "ocd-division/country:us/state:ia/county:marshall/precinct:19-tc": {
    "name": "Marshall County Precinct 19-Tc"
@@ -5052,6 +5052,9 @@
   },
   "ocd-division/country:us/state:ia/county:washington/school_district:mid-prairie_comm_school_district": {
    "name": "mid-prairie comm school district"
+  },
+  "ocd-division/country:us/state:ia/place:hastings": {
+   "name": "Hastings city"
   },
   "ocd-division/country:us/state:ia/county:fayette/precinct:pl": {
    "name": "Fayette County Precinct Pl"
@@ -5066,23 +5069,20 @@
     462
    ]
   },
-  "ocd-division/country:us/state:ia/place:hastings": {
-   "name": "Hastings city"
+  "ocd-division/country:us/state:ia/county:johnson/precinct:cv.07": {
+   "name": "Johnson County Precinct Cv.07"
   },
   "ocd-division/country:us/state:ia/place:westgate": {
    "name": "Westgate city"
   },
-  "ocd-division/country:us/state:ia/county:johnson/precinct:cv.07": {
-   "name": "Johnson County Precinct Cv.07"
-  },
   "ocd-division/country:us/state:ia/county:johnson/precinct:cv.05": {
    "name": "Johnson County Precinct Cv.05"
   },
-  "ocd-division/country:us/state:ia/county:johnson/precinct:cv.06": {
-   "name": "Johnson County Precinct Cv.06"
-  },
   "ocd-division/country:us/state:ia/place:farmersburg": {
    "name": "Farmersburg city"
+  },
+  "ocd-division/country:us/state:ia/county:johnson/precinct:cv.06": {
+   "name": "Johnson County Precinct Cv.06"
   },
   "ocd-division/country:us/state:ia/county:johnson/precinct:cv.03": {
    "name": "Johnson County Precinct Cv.03"
@@ -5090,11 +5090,11 @@
   "ocd-division/country:us/state:ia/county:johnson/precinct:cv.04": {
    "name": "Johnson County Precinct Cv.04"
   },
-  "ocd-division/country:us/state:ia/county:johnson/precinct:cv.01": {
-   "name": "Johnson County Precinct Cv.01"
-  },
   "ocd-division/country:us/state:ia/place:malvern": {
    "name": "Malvern city"
+  },
+  "ocd-division/country:us/state:ia/county:johnson/precinct:cv.01": {
+   "name": "Johnson County Precinct Cv.01"
   },
   "ocd-division/country:us/state:ia/county:johnson/precinct:cv.02": {
    "name": "Johnson County Precinct Cv.02"
@@ -5129,11 +5129,11 @@
   "ocd-division/country:us/state:ia/county:benton/precinct:vt2": {
    "name": "Benton County Precinct Vt2"
   },
-  "ocd-division/country:us/state:ia/county:mills/school_district:nishna_valley_comm_school_district": {
-   "name": "nishna valley comm school district"
-  },
   "ocd-division/country:us/state:ia/county:benton/precinct:vt1": {
    "name": "Benton County Precinct Vt1"
+  },
+  "ocd-division/country:us/state:ia/county:mills/school_district:nishna_valley_comm_school_district": {
+   "name": "nishna valley comm school district"
   },
   "ocd-division/country:us/state:ia/county:sac/council_district:3": {
    "name": "Sac County District 3",
@@ -5156,14 +5156,17 @@
   "ocd-division/country:us/state:ia/county:scott/precinct:lb": {
    "name": "Scott County Precinct Lb"
   },
+  "ocd-division/country:us/state:ia/county:scott/precinct:d73": {
+   "name": "Scott County Precinct D73"
+  },
   "ocd-division/country:us/state:ia/county:carroll/council_district:4": {
    "name": "Carroll County District 4",
    "officeIndices": [
     465
    ]
   },
-  "ocd-division/country:us/state:ia/county:scott/precinct:d73": {
-   "name": "Scott County Precinct D73"
+  "ocd-division/country:us/state:ia/county:scott/precinct:d74": {
+   "name": "Scott County Precinct D74"
   },
   "ocd-division/country:us/state:ia/county:carroll/council_district:5": {
    "name": "Carroll County District 5",
@@ -5171,8 +5174,8 @@
     466
    ]
   },
-  "ocd-division/country:us/state:ia/county:scott/precinct:d74": {
-   "name": "Scott County Precinct D74"
+  "ocd-division/country:us/state:ia/county:scott/precinct:d71": {
+   "name": "Scott County Precinct D71"
   },
   "ocd-division/country:us/state:ia/county:carroll/council_district:2": {
    "name": "Carroll County District 2",
@@ -5180,17 +5183,14 @@
     467
    ]
   },
-  "ocd-division/country:us/state:ia/county:scott/precinct:d71": {
-   "name": "Scott County Precinct D71"
+  "ocd-division/country:us/state:ia/county:scott/precinct:d72": {
+   "name": "Scott County Precinct D72"
   },
   "ocd-division/country:us/state:ia/county:carroll/council_district:3": {
    "name": "Carroll County District 3",
    "officeIndices": [
     468
    ]
-  },
-  "ocd-division/country:us/state:ia/county:scott/precinct:d72": {
-   "name": "Scott County Precinct D72"
   },
   "ocd-division/country:us/state:ia/place:grafton": {
    "name": "Grafton city"
@@ -5237,14 +5237,14 @@
   "ocd-division/country:us/state:ia/county:cerro_gordo/precinct:mc-w1p1": {
    "name": "Cerro Gordo County Precinct Mc-W1P1"
   },
-  "ocd-division/country:us/state:ia/place:ralston": {
-   "name": "Ralston city"
+  "ocd-division/country:us/state:ia/place:cylinder": {
+   "name": "Cylinder city"
   },
   "ocd-division/country:us/state:ia/county:cerro_gordo/precinct:mc-w1p2": {
    "name": "Cerro Gordo County Precinct Mc-W1P2"
   },
-  "ocd-division/country:us/state:ia/place:cylinder": {
-   "name": "Cylinder city"
+  "ocd-division/country:us/state:ia/place:ralston": {
+   "name": "Ralston city"
   },
   "ocd-division/country:us/state:ia/county:cerro_gordo/precinct:mc-w1p3": {
    "name": "Cerro Gordo County Precinct Mc-W1P3"
@@ -5261,14 +5261,14 @@
     55
    ]
   },
+  "ocd-division/country:us/state:ia/county:polk/precinct:allen_1": {
+   "name": "Polk County Precinct Allen 1"
+  },
   "ocd-division/country:us/state:ia/sldu:18": {
    "name": "Iowa State Senate district 18",
    "officeIndices": [
     56
    ]
-  },
-  "ocd-division/country:us/state:ia/county:polk/precinct:allen_1": {
-   "name": "Polk County Precinct Allen 1"
   },
   "ocd-division/country:us/state:ia/sldu:17": {
    "name": "Iowa State Senate district 17",
@@ -5282,41 +5282,47 @@
   "ocd-division/country:us/state:ia/county:keokuk/precinct:ad": {
    "name": "Keokuk County Precinct Ad"
   },
-  "ocd-division/country:us/state:ia/county:jackson/precinct:1": {
-   "name": "Jackson County Precinct 1"
-  },
   "ocd-division/country:us/state:ia/place:clio": {
    "name": "Clio city"
   },
-  "ocd-division/country:us/state:ia/county:lee/precinct:fm1": {
-   "name": "Lee County Precinct Fm1"
+  "ocd-division/country:us/state:ia/county:jackson/precinct:1": {
+   "name": "Jackson County Precinct 1"
   },
   "ocd-division/country:us/state:ia/place:granger": {
    "name": "Granger city"
   },
-  "ocd-division/country:us/state:ia/county:lee/precinct:fm2": {
-   "name": "Lee County Precinct Fm2"
-  },
-  "ocd-division/country:us/state:ia/county:jackson/precinct:3": {
-   "name": "Jackson County Precinct 3"
+  "ocd-division/country:us/state:ia/county:lee/precinct:fm1": {
+   "name": "Lee County Precinct Fm1"
   },
   "ocd-division/country:us/state:ia/county:humboldt/school_district:humboldt_comm_school_district": {
    "name": "humboldt comm school district"
   },
-  "ocd-division/country:us/state:ia/county:lee/precinct:fm3": {
-   "name": "Lee County Precinct Fm3"
+  "ocd-division/country:us/state:ia/county:jackson/precinct:3": {
+   "name": "Jackson County Precinct 3"
+  },
+  "ocd-division/country:us/state:ia/county:lee/precinct:fm2": {
+   "name": "Lee County Precinct Fm2"
   },
   "ocd-division/country:us/state:ia/county:jackson/precinct:2": {
    "name": "Jackson County Precinct 2"
   },
+  "ocd-division/country:us/state:ia/county:lee/precinct:fm3": {
+   "name": "Lee County Precinct Fm3"
+  },
   "ocd-division/country:us/state:ia/county:jackson/precinct:5": {
    "name": "Jackson County Precinct 5"
+  },
+  "ocd-division/country:us/state:ia/county:jackson/precinct:4": {
+   "name": "Jackson County Precinct 4"
   },
   "ocd-division/country:us/state:ia/county:lee/precinct:fm5": {
    "name": "Lee County Precinct Fm5"
   },
-  "ocd-division/country:us/state:ia/county:jackson/precinct:4": {
-   "name": "Jackson County Precinct 4"
+  "ocd-division/country:us/state:ia/place:imogene": {
+   "name": "Imogene city"
+  },
+  "ocd-division/country:us/state:ia/county:jackson/precinct:7": {
+   "name": "Jackson County Precinct 7"
   },
   "ocd-division/country:us/state:ia/sldu:11": {
    "name": "Iowa State Senate district 11",
@@ -5324,11 +5330,8 @@
     58
    ]
   },
-  "ocd-division/country:us/state:ia/county:jackson/precinct:7": {
-   "name": "Jackson County Precinct 7"
-  },
-  "ocd-division/country:us/state:ia/place:imogene": {
-   "name": "Imogene city"
+  "ocd-division/country:us/state:ia/county:jackson/precinct:6": {
+   "name": "Jackson County Precinct 6"
   },
   "ocd-division/country:us/state:ia/sldu:12": {
    "name": "Iowa State Senate district 12",
@@ -5336,23 +5339,20 @@
     59
    ]
   },
-  "ocd-division/country:us/state:ia/county:jackson/precinct:6": {
-   "name": "Jackson County Precinct 6"
+  "ocd-division/country:us/state:ia/place:keosauqua": {
+   "name": "Keosauqua city"
   },
   "ocd-division/country:us/state:ia/county:jackson/precinct:9": {
    "name": "Jackson County Precinct 9"
   },
-  "ocd-division/country:us/state:ia/place:keosauqua": {
-   "name": "Keosauqua city"
+  "ocd-division/country:us/state:ia/county:jackson/precinct:8": {
+   "name": "Jackson County Precinct 8"
   },
   "ocd-division/country:us/state:ia/sldu:10": {
    "name": "Iowa State Senate district 10",
    "officeIndices": [
     60
    ]
-  },
-  "ocd-division/country:us/state:ia/county:jackson/precinct:8": {
-   "name": "Jackson County Precinct 8"
   },
   "ocd-division/country:us/state:ia/sldu:15": {
    "name": "Iowa State Senate district 15",
@@ -5546,6 +5546,9 @@
   "ocd-division/country:us/state:ia/place:bradgate": {
    "name": "Bradgate city"
   },
+  "ocd-division/country:us/state:ia/place:perry": {
+   "name": "Perry city"
+  },
   "ocd-division/country:us/state:ia/sldu:33": {
    "name": "Iowa State Senate district 33",
    "officeIndices": [
@@ -5554,9 +5557,6 @@
   },
   "ocd-division/country:us/state:ia/place:defiance": {
    "name": "Defiance city"
-  },
-  "ocd-division/country:us/state:ia/place:perry": {
-   "name": "Perry city"
   },
   "ocd-division/country:us/state:ia/sldu:34": {
    "name": "Iowa State Senate district 34",
@@ -5943,19 +5943,25 @@
     113
    ]
   },
-  "ocd-division/country:us/state:ia/county:mitchell/school_district:osage_comm_school_district": {
-   "name": "osage comm school district"
-  },
   "ocd-division/country:us/state:ia/county:winneshiek/council_district:1": {
    "name": "Winneshiek County District 1",
    "officeIndices": [
     497
    ]
   },
+  "ocd-division/country:us/state:ia/county:mitchell/school_district:osage_comm_school_district": {
+   "name": "osage comm school district"
+  },
   "ocd-division/country:us/state:ia/county:winneshiek/council_district:3": {
    "name": "Winneshiek County District 3",
    "officeIndices": [
     498
+   ]
+  },
+  "ocd-division/country:us/state:ia/county:winneshiek/council_district:2": {
+   "name": "Winneshiek County District 2",
+   "officeIndices": [
+    499
    ]
   },
   "ocd-division/country:us/state:ia/sldl:89": {
@@ -5966,12 +5972,6 @@
   },
   "ocd-division/country:us/state:ia/county:louisa/precinct:ms": {
    "name": "Louisa County Precinct Ms"
-  },
-  "ocd-division/country:us/state:ia/county:winneshiek/council_district:2": {
-   "name": "Winneshiek County District 2",
-   "officeIndices": [
-    499
-   ]
   },
   "ocd-division/country:us/state:ia/county:polk/precinct:del-1": {
    "name": "Polk County Precinct Del-1"
@@ -6430,11 +6430,11 @@
   "ocd-division/country:us/state:ia/county:kossuth/school_district:algona_comm_school_district": {
    "name": "algona comm school district"
   },
-  "ocd-division/country:us/state:ia/place:woodburn": {
-   "name": "Woodburn city"
-  },
   "ocd-division/country:us/state:ia/place:solon": {
    "name": "Solon city"
+  },
+  "ocd-division/country:us/state:ia/place:woodburn": {
+   "name": "Woodburn city"
   },
   "ocd-division/country:us/state:ia/county:des_moines/precinct:dm": {
    "name": "Des Moines County Precinct Dm"
@@ -6442,11 +6442,11 @@
   "ocd-division/country:us/state:ia/county:pocahontas/precinct:gt": {
    "name": "Pocahontas County Precinct Gt"
   },
-  "ocd-division/country:us/state:ia/county:floyd/school_district:charles_city_comm_school_district": {
-   "name": "charles city comm school district"
-  },
   "ocd-division/country:us/state:ia/place:dawson": {
    "name": "Dawson city"
+  },
+  "ocd-division/country:us/state:ia/county:floyd/school_district:charles_city_comm_school_district": {
+   "name": "charles city comm school district"
   },
   "ocd-division/country:us/state:ia/place:underwood": {
    "name": "Underwood city"
@@ -6601,11 +6601,11 @@
   "ocd-division/country:us/state:ia/place:dayton": {
    "name": "Dayton city"
   },
-  "ocd-division/country:us/state:ia/place:chillicothe": {
-   "name": "Chillicothe city"
-  },
   "ocd-division/country:us/state:ia/place:fort_dodge": {
    "name": "Fort Dodge city"
+  },
+  "ocd-division/country:us/state:ia/place:chillicothe": {
+   "name": "Chillicothe city"
   },
   "ocd-division/country:us/state:ia/place:hancock": {
    "name": "Hancock city"
@@ -6725,14 +6725,14 @@
   "ocd-division/country:us/state:ia/county:sioux/precinct:rve": {
    "name": "Sioux County Precinct Rve"
   },
+  "ocd-division/country:us/state:ia/place:boone": {
+   "name": "Boone city"
+  },
   "ocd-division/country:us/state:ia/place:shambaugh": {
    "name": "Shambaugh city"
   },
   "ocd-division/country:us/state:ia/county:calhoun/precinct:rockwel": {
    "name": "Calhoun County Precinct Rockwel"
-  },
-  "ocd-division/country:us/state:ia/place:boone": {
-   "name": "Boone city"
   },
   "ocd-division/country:us/state:ia/place:ocheyedan": {
    "name": "Ocheyedan city"
@@ -6740,11 +6740,11 @@
   "ocd-division/country:us/state:ia/place:west_bend": {
    "name": "West Bend city"
   },
-  "ocd-division/country:us/state:ia/county:poweshiek/school_district:brooklyn-guernsey-malcom_comm_school_district": {
-   "name": "brooklyn-guernsey-malcom comm school district"
-  },
   "ocd-division/country:us/state:ia/place:fort_madison": {
    "name": "Fort Madison city"
+  },
+  "ocd-division/country:us/state:ia/county:poweshiek/school_district:brooklyn-guernsey-malcom_comm_school_district": {
+   "name": "brooklyn-guernsey-malcom comm school district"
   },
   "ocd-division/country:us/state:ia/county:bremer/precinct:fd": {
    "name": "Bremer County Precinct Fd"
@@ -8096,11 +8096,11 @@
   "ocd-division/country:us/state:ia/county:monroe/precinct:al2": {
    "name": "Monroe County Precinct Al2"
   },
-  "ocd-division/country:us/state:ia/county:monroe/precinct:al3": {
-   "name": "Monroe County Precinct Al3"
-  },
   "ocd-division/country:us/state:ia/place:mingo": {
    "name": "Mingo city"
+  },
+  "ocd-division/country:us/state:ia/county:monroe/precinct:al3": {
+   "name": "Monroe County Precinct Al3"
   },
   "ocd-division/country:us/state:ia/county:dallas/school_district:waukee_comm_school_district": {
    "name": "waukee comm school district"
@@ -8149,14 +8149,14 @@
   "ocd-division/country:us/state:ia/place:pleasantville": {
    "name": "Pleasantville city"
   },
+  "ocd-division/country:us/state:ia/place:jefferson": {
+   "name": "Jefferson city"
+  },
   "ocd-division/country:us/state:ia/county:bremer/council_district:2": {
    "name": "Bremer County District 2",
    "officeIndices": [
     615
    ]
-  },
-  "ocd-division/country:us/state:ia/place:jefferson": {
-   "name": "Jefferson city"
   },
   "ocd-division/country:us/state:ia/county:black_hawk/school_district:union_comm_school_district": {
    "name": "union comm school district"
@@ -9228,14 +9228,14 @@
   "ocd-division/country:us/state:ia/county:polk/precinct:dm-040": {
    "name": "Polk County Precinct Dm-040"
   },
+  "ocd-division/country:us/state:ia/place:independence": {
+   "name": "Independence city"
+  },
   "ocd-division/country:us/state:ia/county:polk/precinct:dm-041": {
    "name": "Polk County Precinct Dm-041"
   },
   "ocd-division/country:us/state:ia/county:scott/precinct:el2": {
    "name": "Scott County Precinct El2"
-  },
-  "ocd-division/country:us/state:ia/place:independence": {
-   "name": "Independence city"
   },
   "ocd-division/country:us/state:ia/county:polk/precinct:dm-042": {
    "name": "Polk County Precinct Dm-042"
@@ -9840,11 +9840,11 @@
   "ocd-division/country:us/state:ia/county:kossuth/precinct:lc": {
    "name": "Kossuth County Precinct Lc"
   },
-  "ocd-division/country:us/state:ia/county:webster/precinct:lg": {
-   "name": "Webster County Precinct Lg"
-  },
   "ocd-division/country:us/state:ia/place:ames": {
    "name": "Ames city"
+  },
+  "ocd-division/country:us/state:ia/county:webster/precinct:lg": {
+   "name": "Webster County Precinct Lg"
   },
   "ocd-division/country:us/state:ia/place:marquette": {
    "name": "Marquette city"
@@ -9933,9 +9933,6 @@
   "ocd-division/country:us/state:ia/place:delphos": {
    "name": "Delphos city"
   },
-  "ocd-division/country:us/state:ia/county:madison/precinct:south": {
-   "name": "Madison County Precinct South"
-  },
   "ocd-division/country:us/state:ia/county:linn": {
    "name": "Linn County",
    "officeIndices": [
@@ -9945,6 +9942,9 @@
     711,
     712
    ]
+  },
+  "ocd-division/country:us/state:ia/county:madison/precinct:south": {
+   "name": "Madison County Precinct South"
   },
   "ocd-division/country:us/state:ia/place:massena": {
    "name": "Massena city"
@@ -10121,9 +10121,6 @@
   "ocd-division/country:us/state:ia/county:davis/precinct:sw": {
    "name": "Davis County Precinct Sw"
   },
-  "ocd-division/country:us/state:ia/county:humboldt/precinct:a-nw": {
-   "name": "Humboldt County Precinct A-Nw"
-  },
   "ocd-division/country:us/state:ia/county:plymouth": {
    "name": "Plymouth County",
    "officeIndices": [
@@ -10133,6 +10130,9 @@
     733,
     734
    ]
+  },
+  "ocd-division/country:us/state:ia/county:humboldt/precinct:a-nw": {
+   "name": "Humboldt County Precinct A-Nw"
   },
   "ocd-division/country:us/state:ia/county:cerro_gordo/precinct:lcn": {
    "name": "Cerro Gordo County Precinct Lcn"
@@ -10558,9 +10558,6 @@
     768
    ]
   },
-  "ocd-division/country:us/state:ia/county:union/school_district:creston_comm_school_district": {
-   "name": "creston comm school district"
-  },
   "ocd-division/country:us/state:ia/county:webster": {
    "name": "Webster County",
    "officeIndices": [
@@ -10570,6 +10567,9 @@
     772,
     773
    ]
+  },
+  "ocd-division/country:us/state:ia/county:union/school_district:creston_comm_school_district": {
+   "name": "creston comm school district"
   },
   "ocd-division/country:us/state:ia/county:appanoose/school_district:moulton-udell_comm_school_district": {
    "name": "moulton-udell comm school district"
@@ -10705,11 +10705,11 @@
   "ocd-division/country:us/state:ia/county:carroll/school_district:coon_rapids-bayard_comm_school_district": {
    "name": "coon rapids-bayard comm school district"
   },
-  "ocd-division/country:us/state:ia/place:whitten": {
-   "name": "Whitten city"
-  },
   "ocd-division/country:us/state:ia/place:ventura": {
    "name": "Ventura city"
+  },
+  "ocd-division/country:us/state:ia/place:whitten": {
+   "name": "Whitten city"
   },
   "ocd-division/country:us/state:ia/place:thayer": {
    "name": "Thayer city"
@@ -10791,23 +10791,23 @@
   "ocd-division/country:us/state:ia/place:leland": {
    "name": "Leland city"
   },
-  "ocd-division/country:us/state:ia/county:tama/precinct:is": {
-   "name": "Tama County Precinct Is"
+  "ocd-division/country:us/state:ia/place:franklin": {
+   "name": "Franklin city"
   },
   "ocd-division/country:us/state:ia/county:webster/school_district:southeast_webster_grand_comm_school_district": {
    "name": "southeast webster grand comm school district"
   },
-  "ocd-division/country:us/state:ia/place:franklin": {
-   "name": "Franklin city"
+  "ocd-division/country:us/state:ia/county:tama/precinct:is": {
+   "name": "Tama County Precinct Is"
   },
   "ocd-division/country:us/state:ia/county:dallas/precinct:sd": {
    "name": "Dallas County Precinct Sd"
   },
-  "ocd-division/country:us/state:ia/county:mills/precinct:gw1": {
-   "name": "Mills County Precinct Gw1"
-  },
   "ocd-division/country:us/state:ia/county:boone/school_district:united_comm_school_district": {
    "name": "united comm school district"
+  },
+  "ocd-division/country:us/state:ia/county:mills/precinct:gw1": {
+   "name": "Mills County Precinct Gw1"
   },
   "ocd-division/country:us/state:ia/county:tama/council_district:1": {
    "name": "Tama County District 1",
@@ -11300,11 +11300,11 @@
   "ocd-division/country:us/state:ia/place:ellsworth": {
    "name": "Ellsworth city"
   },
-  "ocd-division/country:us/state:ia/county:page/precinct:er": {
-   "name": "Page County Precinct Er"
-  },
   "ocd-division/country:us/state:ia/place:mount_pleasant": {
    "name": "Mount Pleasant city"
+  },
+  "ocd-division/country:us/state:ia/county:page/precinct:er": {
+   "name": "Page County Precinct Er"
   },
   "ocd-division/country:us/state:ia/place:university_heights": {
    "name": "University Heights city"
@@ -11321,11 +11321,11 @@
   "ocd-division/country:us/state:ia/place:stockport": {
    "name": "Stockport city"
   },
-  "ocd-division/country:us/state:ia/county:boone/precinct:bn4": {
-   "name": "Boone County Precinct Bn4"
-  },
   "ocd-division/country:us/state:ia/place:dougherty": {
    "name": "Dougherty city"
+  },
+  "ocd-division/country:us/state:ia/county:boone/precinct:bn4": {
+   "name": "Boone County Precinct Bn4"
   },
   "ocd-division/country:us/state:ia/county:boone/precinct:bn5": {
    "name": "Boone County Precinct Bn5"
@@ -11455,11 +11455,11 @@
   "ocd-division/country:us/state:ia/place:linn_grove": {
    "name": "Linn Grove city"
   },
-  "ocd-division/country:us/state:ia/place:chelsea": {
-   "name": "Chelsea city"
-  },
   "ocd-division/country:us/state:ia/place:hampton": {
    "name": "Hampton city"
+  },
+  "ocd-division/country:us/state:ia/place:chelsea": {
+   "name": "Chelsea city"
   },
   "ocd-division/country:us/state:ia/county:fremont/precinct:hb": {
    "name": "Fremont County Precinct Hb"
@@ -11607,6 +11607,9 @@
     850
    ]
   },
+  "ocd-division/country:us/state:ia/place:north_liberty": {
+   "name": "North Liberty city"
+  },
   "ocd-division/country:us/state:ia/county:dubuque": {
    "name": "Dubuque County",
    "officeIndices": [
@@ -11617,9 +11620,6 @@
     855,
     856
    ]
-  },
-  "ocd-division/country:us/state:ia/place:north_liberty": {
-   "name": "North Liberty city"
   },
   "ocd-division/country:us/state:ia/place:victor": {
    "name": "Victor city"
@@ -11843,14 +11843,14 @@
     880
    ]
   },
-  "ocd-division/country:us/state:ia/county:hancock/school_district:west_hancock_comm_school_district": {
-   "name": "west hancock comm school district"
-  },
   "ocd-division/country:us/state:ia/county:polk/council_district:4": {
    "name": "Polk County IA County Commissioner District 4",
    "officeIndices": [
     881
    ]
+  },
+  "ocd-division/country:us/state:ia/county:hancock/school_district:west_hancock_comm_school_district": {
+   "name": "west hancock comm school district"
   },
   "ocd-division/country:us/state:ia/county:polk/council_district:3": {
    "name": "Polk County IA County Commissioner District 3",
@@ -11954,14 +11954,14 @@
   "ocd-division/country:us/state:ia/place:manilla": {
    "name": "Manilla city"
   },
-  "ocd-division/country:us/state:ia/county:hancock/school_district:corwith-wesley_comm_school_district": {
-   "name": "corwith-wesley comm school district"
-  },
   "ocd-division/country:us/state:ia/place:des_moines/ward:1": {
    "name": "Des Moines IA - ward 1",
    "officeIndices": [
     887
    ]
+  },
+  "ocd-division/country:us/state:ia/county:hancock/school_district:corwith-wesley_comm_school_district": {
+   "name": "corwith-wesley comm school district"
   },
   "ocd-division/country:us/state:ia/place:superior": {
    "name": "Superior city"
@@ -11969,11 +11969,11 @@
   "ocd-division/country:us/state:ia/place:holland": {
    "name": "Holland city"
   },
-  "ocd-division/country:us/state:ia/place:bouton": {
-   "name": "Bouton city"
-  },
   "ocd-division/country:us/state:ia/place:monroe": {
    "name": "Monroe city"
+  },
+  "ocd-division/country:us/state:ia/place:bouton": {
+   "name": "Bouton city"
   },
   "ocd-division/country:us/state:ia/county:jones/precinct:sgmc": {
    "name": "Jones County Precinct Sgmc"
@@ -12028,11 +12028,11 @@
     896
    ]
   },
-  "ocd-division/country:us/state:ia/county:polk/school_district:saydel_comm_school_district": {
-   "name": "saydel comm school district"
-  },
   "ocd-division/country:us/state:ia/place:baxter": {
    "name": "Baxter city"
+  },
+  "ocd-division/country:us/state:ia/county:polk/school_district:saydel_comm_school_district": {
+   "name": "saydel comm school district"
   },
   "ocd-division/country:us/state:ia/county:henry/school_district:waco_comm_school_district": {
    "name": "waco comm school district"
@@ -19735,16 +19735,16 @@
    "photoUrl": "http://www.ernst.senate.gov/sites/default/files/Sen.%20Joni%20Ernst%20-%20Official%20Portrait.jpg",
    "channels": [
     {
-     "type": "Facebook",
-     "id": "joniforiowa"
-    },
-    {
      "type": "Twitter",
      "id": "joniernst"
     },
     {
      "type": "YouTube",
      "id": "UCLwrmtF_84FIcK3TyMs4MIw"
+    },
+    {
+     "type": "Facebook",
+     "id": "joniforiowa"
     }
    ]
   },
@@ -20551,12 +20551,12 @@
      "id": "113583082059848"
     },
     {
-     "type": "Facebook",
-     "id": "chuck.isenhart"
-    },
-    {
      "type": "Twitter",
      "id": "chuckisenhart"
+    },
+    {
+     "type": "Facebook",
+     "id": "chuck.isenhart"
     }
    ]
   },
@@ -21353,7 +21353,6 @@
     "(515) 281-3221"
    ],
    "urls": [
-    "https://www.legis.iowa.gov/legislators/legislator?ga=86&personID=14801",
     "http://www.charliemcconkey.com/"
    ],
    "photoUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=86&pid=14801",
@@ -21362,12 +21361,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "CharlieMcConkey14"
-    },
-    {
      "type": "Twitter",
      "id": "CharlieMcConkey"
+    },
+    {
+     "type": "Facebook",
+     "id": "CharlieMcConkey14"
     }
    ]
   },
@@ -21444,12 +21443,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "hallforiowa"
-    },
-    {
      "type": "Facebook",
      "id": "HallforIowa"
+    },
+    {
+     "type": "Twitter",
+     "id": "hallforiowa"
     }
    ]
   },
@@ -21606,12 +21605,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "matt.windschitl"
-    },
-    {
      "type": "Twitter",
      "id": "MattWindschitl"
+    },
+    {
+     "type": "Facebook",
+     "id": "matt.windschitl"
     }
    ]
   },
@@ -21765,12 +21764,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "janet4iowa"
-    },
-    {
      "type": "Facebook",
      "id": "60872911335"
+    },
+    {
+     "type": "Twitter",
+     "id": "janet4iowa"
     }
    ]
   },
@@ -21835,7 +21834,6 @@
     "(712) 785-3583"
    ],
    "urls": [
-    "https://www.legis.iowa.gov/legislators/legislator?ga=86&personID=14814",
     "http://www.iowasenaterepublicans.com/senators/tom-shipley/"
    ],
    "photoUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=86&pid=14814",
@@ -21887,11 +21885,11 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "VoteJakeChapman"
     },
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "VoteJakeChapman"
     }
    ]
@@ -22030,12 +22028,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "SinclairforIowa"
-    },
-    {
      "type": "Facebook",
      "id": "279841215392767"
+    },
+    {
+     "type": "Twitter",
+     "id": "SinclairforIowa"
     }
    ]
   },
@@ -22871,12 +22869,8 @@
    ],
    "channels": [
     {
-     "type": "GooglePlus",
-     "id": "103141059573951553643"
-    },
-    {
      "type": "Facebook",
-     "id": "ThedeforIowa"
+     "id": "phyllis.thede"
     },
     {
      "type": "Twitter",
@@ -22884,7 +22878,11 @@
     },
     {
      "type": "Facebook",
-     "id": "phyllis.thede"
+     "id": "ThedeforIowa"
+    },
+    {
+     "type": "GooglePlus",
+     "id": "103141059573951553643"
     }
    ]
   },
@@ -22923,11 +22921,11 @@
    "channels": [
     {
      "type": "Facebook",
-     "id": "profile.php"
+     "id": "linda.j.miller.313"
     },
     {
      "type": "Facebook",
-     "id": "linda.j.miller.313"
+     "id": "profile.php"
     }
    ]
   },
@@ -23043,7 +23041,6 @@
     "(563) 288-4211"
    ],
    "urls": [
-    "https://www.legis.iowa.gov/legislators/legislator?ga=86&personID=14808",
     "http://carlsonforhouse.com/"
    ],
    "photoUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=86&pid=14808",
@@ -23889,12 +23886,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "marymascher"
-    },
-    {
      "type": "Facebook",
      "id": "mary.mascher"
+    },
+    {
+     "type": "Twitter",
+     "id": "marymascher"
     }
    ]
   },
@@ -24010,12 +24007,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "joshuabyrnes"
-    },
-    {
      "type": "Facebook",
      "id": "LazyC.HangingJ.CattleCo"
+    },
+    {
+     "type": "Twitter",
+     "id": "joshuabyrnes"
     }
    ]
   },
@@ -24216,12 +24213,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "bkressig"
-    },
-    {
      "type": "Facebook",
      "id": "bob.kressig"
+    },
+    {
+     "type": "Twitter",
+     "id": "bkressig"
     }
    ]
   },
@@ -24432,12 +24429,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "deb.berry.12"
-    },
-    {
      "type": "Twitter",
      "id": "repdebberry"
+    },
+    {
+     "type": "Facebook",
+     "id": "deb.berry.12"
     }
    ]
   },
@@ -24467,12 +24464,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "timiforiowa"
-    },
-    {
      "type": "Facebook",
      "id": "rep.timi"
+    },
+    {
+     "type": "Twitter",
+     "id": "timiforiowa"
     }
    ]
   },
@@ -24514,12 +24511,12 @@
      "id": "waltrogersforia"
     },
     {
-     "type": "Twitter",
-     "id": "waltrogersforIA"
-    },
-    {
      "type": "YouTube",
      "id": "waltrogersforiowa"
+    },
+    {
+     "type": "Twitter",
+     "id": "waltrogersforIA"
     }
    ]
   },
@@ -24641,16 +24638,16 @@
    ],
    "channels": [
     {
+     "type": "YouTube",
+     "id": "UCnR92dDFCLA6rS7b5ulyyJw"
+    },
+    {
      "type": "Twitter",
      "id": "RizerForHouse"
     },
     {
      "type": "Facebook",
      "id": "RizerForHouse"
-    },
-    {
-     "type": "YouTube",
-     "id": "UCnR92dDFCLA6rS7b5ulyyJw"
     }
    ]
   },
@@ -24671,7 +24668,6 @@
     "(515) 281-3221"
    ],
    "urls": [
-    "https://www.legis.iowa.gov/legislators/legislator?ga=86&personID=14806",
     "http://www.lizforiowa.org/"
    ],
    "photoUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=86&pid=14806",
@@ -24805,12 +24801,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "BearingerForHouse"
-    },
-    {
      "type": "Twitter",
      "id": "BruceBearinger"
+    },
+    {
+     "type": "Facebook",
+     "id": "BearingerForHouse"
     }
    ]
   },
@@ -24926,8 +24922,7 @@
     "(515) 868-2046"
    ],
    "urls": [
-    "https://www.legis.iowa.gov/legislators/legislator?ga=86&personID=14803",
-    "http://www.zachnunn.com/"
+    "https://www.legis.iowa.gov/legislators/legislator?ga=86&personID=14803"
    ],
    "photoUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=86&pid=14803",
    "emails": [
@@ -25043,7 +25038,6 @@
     "(515) 999-0590"
    ],
    "urls": [
-    "https://www.legis.iowa.gov/legislators/legislator?ga=86&personID=6377",
     "http://iowahouse.net/our-members/brian-meyer/"
    ],
    "photoUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=85&pid=6377",
@@ -25138,12 +25132,12 @@
      "id": "PL68D4E02471C99635"
     },
     {
-     "type": "Twitter",
-     "id": "akoabdulsamad"
-    },
-    {
      "type": "Facebook",
      "id": "105121859523212"
+    },
+    {
+     "type": "Twitter",
+     "id": "akoabdulsamad"
     }
    ]
   },
@@ -25351,12 +25345,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "ChrisHagenow"
-    },
-    {
      "type": "Facebook",
      "id": "HagenowforIowa"
+    },
+    {
+     "type": "Twitter",
+     "id": "ChrisHagenow"
     }
    ]
   },
@@ -25394,12 +25388,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "TaylorForIowa"
-    },
-    {
      "type": "Twitter",
      "id": "RobTaylorIowa"
+    },
+    {
+     "type": "Facebook",
+     "id": "TaylorForIowa"
     }
    ]
   },
@@ -25591,12 +25585,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "bweskroe"
-    },
-    {
      "type": "Facebook",
      "id": "beth.wesselkroeschell"
+    },
+    {
+     "type": "Twitter",
+     "id": "bweskroe"
     }
    ]
   },
@@ -30831,9 +30825,6 @@
    "phones": [
     "(641) 683-4630"
    ],
-   "urls": [
-    "http://wapellocounty.org/departments/board-of-supervisors/"
-   ],
    "emails": [
     "sj_siegel@yahoo.com"
    ]
@@ -34433,9 +34424,6 @@
    "party": "Republican",
    "phones": [
     "(515) 281-5321"
-   ],
-   "urls": [
-    "http://www.agriculture.state.ia.us/"
    ],
    "channels": [
     {

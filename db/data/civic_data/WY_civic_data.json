@@ -6,11 +6,11 @@
     2
    ]
   },
-  "ocd-division/country:us/state:wy/county:laramie/school_district:wyoming_department_of_health": {
-   "name": "wyoming department of health"
-  },
   "ocd-division/country:us/state:wy/county:goshen/precinct:18-2": {
    "name": "GOSHEN County Precinct 18-2"
+  },
+  "ocd-division/country:us/state:wy/county:laramie/school_district:wyoming_department_of_health": {
+   "name": "wyoming department of health"
   },
   "ocd-division/country:us/state:wy/county:goshen/precinct:18-1": {
    "name": "GOSHEN County Precinct 18-1"
@@ -21,11 +21,11 @@
   "ocd-division/country:us/state:wy/county:big_horn/school_district:big_horn_county_school_district_~4": {
    "name": "big horn county school district #4"
   },
-  "ocd-division/country:us/state:wy/county:goshen/precinct:16-1": {
-   "name": "GOSHEN County Precinct 16-1"
-  },
   "ocd-division/country:us/state:wy/county:big_horn/school_district:big_horn_county_school_district_~2": {
    "name": "big horn county school district #2"
+  },
+  "ocd-division/country:us/state:wy/county:goshen/precinct:16-1": {
+   "name": "GOSHEN County Precinct 16-1"
   },
   "ocd-division/country:us/state:wy/county:goshen/precinct:16-2": {
    "name": "GOSHEN County Precinct 16-2"
@@ -42,17 +42,14 @@
   "ocd-division/country:us/state:wy/county:sheridan/school_district:sheridan_county_school_district_~2": {
    "name": "sheridan county school district #2"
   },
-  "ocd-division/country:us/state:wy/county:johnson/school_district:johnson_county_school_district_~1": {
-   "name": "johnson county school district #1"
-  },
   "ocd-division/country:us/state:wy/county:sheridan/school_district:sheridan_county_school_district_~3": {
    "name": "sheridan county school district #3"
   },
+  "ocd-division/country:us/state:wy/county:johnson/school_district:johnson_county_school_district_~1": {
+   "name": "johnson county school district #1"
+  },
   "ocd-division/country:us/state:wy/county:sheridan/school_district:sheridan_county_school_district_~1": {
    "name": "sheridan county school district #1"
-  },
-  "ocd-division/country:us/state:wy/county:sweetwater/precinct:3-4": {
-   "name": "SWEETWATER County Precinct 3-4"
   },
   "ocd-division/country:us/state:wy/sldu:22": {
    "name": "Wyoming State Senate district 22",
@@ -60,8 +57,8 @@
     3
    ]
   },
-  "ocd-division/country:us/state:wy/county:sweetwater/precinct:3-5": {
-   "name": "SWEETWATER County Precinct 3-5"
+  "ocd-division/country:us/state:wy/county:sweetwater/precinct:3-4": {
+   "name": "SWEETWATER County Precinct 3-4"
   },
   "ocd-division/country:us/state:wy/sldu:23": {
    "name": "Wyoming State Senate district 23",
@@ -69,8 +66,8 @@
     4
    ]
   },
-  "ocd-division/country:us/state:wy/county:sweetwater/precinct:3-2": {
-   "name": "SWEETWATER County Precinct 3-2"
+  "ocd-division/country:us/state:wy/county:sweetwater/precinct:3-5": {
+   "name": "SWEETWATER County Precinct 3-5"
   },
   "ocd-division/country:us/state:wy/sldu:24": {
    "name": "Wyoming State Senate district 24",
@@ -78,14 +75,17 @@
     5
    ]
   },
-  "ocd-division/country:us/state:wy/county:sweetwater/precinct:3-3": {
-   "name": "SWEETWATER County Precinct 3-3"
+  "ocd-division/country:us/state:wy/county:sweetwater/precinct:3-2": {
+   "name": "SWEETWATER County Precinct 3-2"
   },
   "ocd-division/country:us/state:wy/sldu:25": {
    "name": "Wyoming State Senate district 25",
    "officeIndices": [
     6
    ]
+  },
+  "ocd-division/country:us/state:wy/county:sweetwater/precinct:3-3": {
+   "name": "SWEETWATER County Precinct 3-3"
   },
   "ocd-division/country:us/state:wy/place:east_thermopolis": {
    "name": "East Thermopolis town"
@@ -120,26 +120,26 @@
     9
    ]
   },
-  "ocd-division/country:us/state:wy/place:newcastle": {
-   "name": "Newcastle city"
-  },
   "ocd-division/country:us/state:wy/sldu:27": {
    "name": "Wyoming State Senate district 27",
    "officeIndices": [
     10
    ]
   },
-  "ocd-division/country:us/state:wy/county:fremont/precinct:13-1": {
-   "name": "FREMONT County Precinct 13-1"
-  },
-  "ocd-division/country:us/state:wy/county:uinta/school_district:uinta_county_school_district_~1": {
-   "name": "uinta county school district #1"
+  "ocd-division/country:us/state:wy/place:newcastle": {
+   "name": "Newcastle city"
   },
   "ocd-division/country:us/state:wy/sldu:28": {
    "name": "Wyoming State Senate district 28",
    "officeIndices": [
     11
    ]
+  },
+  "ocd-division/country:us/state:wy/county:uinta/school_district:uinta_county_school_district_~1": {
+   "name": "uinta county school district #1"
+  },
+  "ocd-division/country:us/state:wy/county:fremont/precinct:13-1": {
+   "name": "FREMONT County Precinct 13-1"
   },
   "ocd-division/country:us/state:wy/sldu:29": {
    "name": "Wyoming State Senate district 29",
@@ -153,9 +153,6 @@
   "ocd-division/country:us/state:wy/county:fremont/school_district:fremont_county_school_district_~6": {
    "name": "fremont county school district #6"
   },
-  "ocd-division/country:us/state:wy/county:campbell/precinct:3-1": {
-   "name": "CAMPBELL County Precinct 3-1"
-  },
   "ocd-division/country:us/state:wy/county:goshen": {
    "name": "Goshen County",
    "officeIndices": [
@@ -168,6 +165,9 @@
     99,
     100
    ]
+  },
+  "ocd-division/country:us/state:wy/county:campbell/precinct:3-1": {
+   "name": "CAMPBELL County Precinct 3-1"
   },
   "ocd-division/country:us/state:wy/place:wright": {
    "name": "Wright town"
@@ -316,11 +316,11 @@
   "ocd-division/country:us/state:wy/county:crook/precinct:12-12": {
    "name": "CROOK County Precinct 12-12"
   },
-  "ocd-division/country:us/state:wy/county:fremont/precinct:22-1": {
-   "name": "FREMONT County Precinct 22-1"
-  },
   "ocd-division/country:us/state:wy/place:shoshoni": {
    "name": "Shoshoni town"
+  },
+  "ocd-division/country:us/state:wy/county:fremont/precinct:22-1": {
+   "name": "FREMONT County Precinct 22-1"
   },
   "ocd-division/country:us/state:wy/county:park/precinct:16-1": {
    "name": "PARK County Precinct 16-1"
@@ -344,20 +344,20 @@
   "ocd-division/country:us/state:wy/county:carbon/precinct:9-1": {
    "name": "CARBON County Precinct 9-1"
   },
-  "ocd-division/country:us/state:wy/county:carbon/precinct:7-1": {
-   "name": "CARBON County Precinct 7-1"
-  },
   "ocd-division/country:us/state:wy/county:carbon/school_district:carbon_county_school_district_~1": {
    "name": "carbon county school district #1"
+  },
+  "ocd-division/country:us/state:wy/county:carbon/precinct:7-1": {
+   "name": "CARBON County Precinct 7-1"
   },
   "ocd-division/country:us/state:wy/place:laramie": {
    "name": "Laramie city"
   },
-  "ocd-division/country:us/state:wy/county:johnson/precinct:2-14": {
-   "name": "JOHNSON County Precinct 2-14"
-  },
   "ocd-division/country:us/state:wy/county:carbon/school_district:carbon_county_school_district_~2": {
    "name": "carbon county school district #2"
+  },
+  "ocd-division/country:us/state:wy/county:johnson/precinct:2-14": {
+   "name": "JOHNSON County Precinct 2-14"
   },
   "ocd-division/country:us/state:wy/county:johnson/precinct:8-11": {
    "name": "JOHNSON County Precinct 8-11"
@@ -896,11 +896,11 @@
   "ocd-division/country:us/state:wy/county:sweetwater/precinct:7-1": {
    "name": "SWEETWATER County Precinct 7-1"
   },
-  "ocd-division/country:us/state:wy/county:laramie/precinct:2-11": {
-   "name": "LARAMIE County Precinct 2-11"
-  },
   "ocd-division/country:us/state:wy/place:worland": {
    "name": "Worland city"
+  },
+  "ocd-division/country:us/state:wy/county:laramie/precinct:2-11": {
+   "name": "LARAMIE County Precinct 2-11"
   },
   "ocd-division/country:us/state:wy/place:kemmerer": {
    "name": "Kemmerer city"
@@ -1373,11 +1373,11 @@
   "ocd-division/country:us/state:wy/county:teton/precinct:4-3": {
    "name": "TETON County Precinct 4-3"
   },
-  "ocd-division/country:us/state:wy/county:park/precinct:7-2": {
-   "name": "PARK County Precinct 7-2"
-  },
   "ocd-division/country:us/state:wy/county:teton/precinct:4-2": {
    "name": "TETON County Precinct 4-2"
+  },
+  "ocd-division/country:us/state:wy/county:park/precinct:7-2": {
+   "name": "PARK County Precinct 7-2"
   },
   "ocd-division/country:us/state:wy/county:teton/precinct:4-1": {
    "name": "TETON County Precinct 4-1"
@@ -2403,9 +2403,6 @@
   "ocd-division/country:us/state:wy/county:lincoln/precinct:1-6": {
    "name": "LINCOLN County Precinct 1-6"
   },
-  "ocd-division/country:us/state:wy/county:lincoln/precinct:1-4": {
-   "name": "LINCOLN County Precinct 1-4"
-  },
   "ocd-division/country:us/state:wy/county:laramie": {
    "name": "Laramie County",
    "officeIndices": [
@@ -2417,6 +2414,9 @@
     240,
     241
    ]
+  },
+  "ocd-division/country:us/state:wy/county:lincoln/precinct:1-4": {
+   "name": "LINCOLN County Precinct 1-4"
   },
   "ocd-division/country:us/state:wy/county:campbell/precinct:23-1": {
    "name": "CAMPBELL County Precinct 23-1"
@@ -2801,11 +2801,11 @@
   "ocd-division/country:us/state:wy/county:fremont/precinct:3-2": {
    "name": "FREMONT County Precinct 3-2"
   },
-  "ocd-division/country:us/state:wy/county:fremont/precinct:3-1": {
-   "name": "FREMONT County Precinct 3-1"
-  },
   "ocd-division/country:us/state:wy/place:rock_springs": {
    "name": "Rock Springs city"
+  },
+  "ocd-division/country:us/state:wy/county:fremont/precinct:3-1": {
+   "name": "FREMONT County Precinct 3-1"
   },
   "ocd-division/country:us/state:wy/county:albany/school_district:albany_county_school_district_~1": {
    "name": "albany county school district #1"
@@ -5961,8 +5961,7 @@
     "(307) 316-7497"
    ],
    "urls": [
-    "http://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=1987",
-    "http://wilsonwyominghouse7.com/"
+    "http://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=1987"
    ],
    "photoUrl": "http://legisweb.state.wy.us/LegislatorSummary/photos/WilsonH07.jpg",
    "emails": [
@@ -6029,7 +6028,8 @@
     "(307) 282-0968"
    ],
    "urls": [
-    "http://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=2016"
+    "http://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=2016",
+    "http://www.tylerlindholm.com/"
    ],
    "photoUrl": "http://legisweb.state.wy.us/LegislatorSummary/photos/lindholmtH01.jpg",
    "emails": [
@@ -6779,6 +6779,12 @@
    "photoUrl": "http://legisweb.state.wy.us/LegislatorSummary/photos/schwartzaH23.jpg",
    "emails": [
     "Andy.Schwartz@wyoleg.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "schwartzhd23"
+    }
    ]
   },
   {
@@ -7068,6 +7074,12 @@
    "photoUrl": "http://legisweb.state.wy.us/LegislatorSummary/photos/PetroffH16.jpg",
    "emails": [
     "Ruth.Petroff@wyoleg.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "ruth.petroff"
+    }
    ]
   },
   {
@@ -7179,6 +7191,16 @@
    "photoUrl": "http://legisweb.state.wy.us/LegislatorSummary/photos/ThroneMH11.jpg",
    "emails": [
     "Mary.Throne@wyoleg.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "RepMaryThrone"
+    },
+    {
+     "type": "Facebook",
+     "id": "138545429524857"
+    }
    ]
   },
   {
@@ -7280,6 +7302,12 @@
    "photoUrl": "http://legisweb.state.wy.us/LegislatorSummary/photos/ZwonitzerDnH43.jpg",
    "emails": [
     "Dan.Zwonitzer@wyoleg.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "7477308749"
+    }
    ]
   },
   {
@@ -7339,6 +7367,12 @@
    "photoUrl": "http://legisweb.state.wy.us/LegislatorSummary/photos/pelkeycH45.jpg",
    "emails": [
     "Charles.Pelkey@wyoleg.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "PelkeyForHouse"
+    }
    ]
   },
   {
@@ -7931,7 +7965,7 @@
     "(307) 777-7852",
     "(307) 777-8683",
     "(307) 789-2136",
-    "(307) 789-3106"
+    "(307) 677-5222"
    ],
    "urls": [
     "http://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=1999"
@@ -8071,6 +8105,7 @@
    "urls": [
     "http://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=2014"
    ],
+   "photoUrl": "http://legisweb.state.wy.us/LegislatorSummary/photos/PownallBH52.jpg",
    "emails": [
     "Bill.Pownall@wyoleg.gov"
    ]
@@ -8244,6 +8279,12 @@
    "photoUrl": "http://legisweb.state.wy.us/LegislatorSummary/photos/ReederH58.jpg",
    "emails": [
     "Tom.Reeder@wyoleg.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "tomreederwyrep"
+    }
    ]
   },
   {
@@ -8334,6 +8375,9 @@
    ],
    "phones": [
     "(307) 532-4051"
+   ],
+   "urls": [
+    "http://www.goshencounty.org/index.php/clerk"
    ]
   },
   {
@@ -8351,9 +8395,6 @@
    ],
    "phones": [
     "(307) 532-4026"
-   ],
-   "urls": [
-    "http://www.goshencounty.org/index.php/public-health-2"
    ]
   },
   {
@@ -8368,9 +8409,6 @@
    ],
    "phones": [
     "(307) 532-2349"
-   ],
-   "urls": [
-    "http://www.goshencounty.org/index.php/assessor-s-home-page"
    ],
    "emails": [
     "dsurratt@goshencounty.org"
@@ -8396,9 +8434,6 @@
      "state": "WY",
      "zip": "82240"
     }
-   ],
-   "urls": [
-    "http://www.goshencounty.org/index.php/treasurer"
    ]
   },
   {
@@ -8410,9 +8445,6 @@
      "state": "WY",
      "zip": "82240"
     }
-   ],
-   "urls": [
-    "http://www.goshencounty.org/index.php/clerk-of-district-court-s-home-page"
    ]
   },
   {
@@ -11368,9 +11400,6 @@
    "phones": [
     "(307) 334-2736"
    ],
-   "urls": [
-    "http://www.niobraracounty.org/_departments/_clerk_of_court/index.asp"
-   ],
    "emails": [
     "clkdstct@qwestoffice.net"
    ]
@@ -12921,6 +12950,9 @@
    ],
    "phones": [
     "(307) 332-1188"
+   ],
+   "urls": [
+    "http://fremontcountywy.org/county-assessor/"
    ],
    "emails": [
     "tara.berg@fremontcountygovernment.org"

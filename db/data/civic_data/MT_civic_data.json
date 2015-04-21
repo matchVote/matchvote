@@ -6,17 +6,17 @@
   "ocd-division/country:us/state:mt/county:hill/precinct:15": {
    "name": "Hill County MT - PRECINCT #15"
   },
-  "ocd-division/country:us/state:mt/county:hill/precinct:13": {
-   "name": "Hill County MT - PRECINCT #13"
-  },
   "ocd-division/country:us/state:mt/county:wheatland/school_district:judith_gap_elem": {
    "name": "judith gap elem"
   },
-  "ocd-division/country:us/state:mt/county:hill/precinct:18": {
-   "name": "Hill County MT - PRECINCT #18"
+  "ocd-division/country:us/state:mt/county:hill/precinct:13": {
+   "name": "Hill County MT - PRECINCT #13"
   },
   "ocd-division/country:us/state:mt/county:cascade/school_district:centerville_elem": {
    "name": "centerville elem"
+  },
+  "ocd-division/country:us/state:mt/county:hill/precinct:18": {
+   "name": "Hill County MT - PRECINCT #18"
   },
   "ocd-division/country:us/state:mt/county:hill/precinct:16": {
    "name": "Hill County MT - PRECINCT #16"
@@ -110,14 +110,14 @@
     174
    ]
   },
-  "ocd-division/country:us/state:mt/county:phillips/precinct:16-whitewater": {
-   "name": "Phillips County MT - PCT 16 - WHITEWATER"
-  },
   "ocd-division/country:us/state:mt/county:silver_bow/council_district:5": {
    "name": "Silver Bow County District 5",
    "officeIndices": [
     175
    ]
+  },
+  "ocd-division/country:us/state:mt/county:phillips/precinct:16-whitewater": {
+   "name": "Phillips County MT - PCT 16 - WHITEWATER"
   },
   "ocd-division/country:us/state:mt/county:silver_bow/council_district:4": {
    "name": "Silver Bow County District 4",
@@ -212,11 +212,11 @@
   "ocd-division/country:us/state:mt/county:beaverhead/precinct:12": {
    "name": "Beaverhead County MT - PRECINCT 12"
   },
-  "ocd-division/country:us/state:mt/place:twin_bridges": {
-   "name": "Twin Bridges town"
-  },
   "ocd-division/country:us/state:mt/county:beaverhead/precinct:14": {
    "name": "Beaverhead County MT - PRECINCT 14"
+  },
+  "ocd-division/country:us/state:mt/place:twin_bridges": {
+   "name": "Twin Bridges town"
   },
   "ocd-division/country:us/state:mt/county:valley/precinct:11-frazer": {
    "name": "Valley County MT - 11-FRAZER"
@@ -227,32 +227,32 @@
   "ocd-division/country:us/state:mt/county:flathead/precinct:33": {
    "name": "Flathead County MT - PRECINCT 33"
   },
-  "ocd-division/country:us/state:mt/county:flathead/precinct:38": {
-   "name": "Flathead County MT - PRECINCT 38"
+  "ocd-division/country:us/state:mt/place:belt": {
+   "name": "Belt town"
   },
   "ocd-division/country:us/state:mt/county:powell/precinct:10": {
    "name": "Powell County MT - PRECINCT #10"
   },
-  "ocd-division/country:us/state:mt/place:belt": {
-   "name": "Belt town"
-  },
-  "ocd-division/country:us/state:mt/county:flathead/precinct:39": {
-   "name": "Flathead County MT - PRECINCT 39"
+  "ocd-division/country:us/state:mt/county:flathead/precinct:38": {
+   "name": "Flathead County MT - PRECINCT 38"
   },
   "ocd-division/country:us/state:mt/county:powell/precinct:11": {
    "name": "Powell County MT - PRECINCT #11"
   },
-  "ocd-division/country:us/state:mt/county:flathead/precinct:36": {
-   "name": "Flathead County MT - PRECINCT 36"
+  "ocd-division/country:us/state:mt/county:flathead/precinct:39": {
+   "name": "Flathead County MT - PRECINCT 39"
   },
   "ocd-division/country:us/state:mt/county:powell/precinct:12": {
    "name": "Powell County MT - PRECINCT #12"
   },
-  "ocd-division/country:us/state:mt/county:flathead/precinct:34": {
-   "name": "Flathead County MT - PRECINCT 34"
+  "ocd-division/country:us/state:mt/county:flathead/precinct:36": {
+   "name": "Flathead County MT - PRECINCT 36"
   },
   "ocd-division/country:us/state:mt/county:powell/precinct:14": {
    "name": "Powell County MT - PRECINCT #14"
+  },
+  "ocd-division/country:us/state:mt/county:flathead/precinct:34": {
+   "name": "Flathead County MT - PRECINCT 34"
   },
   "ocd-division/country:us/state:mt/county:flathead/precinct:35": {
    "name": "Flathead County MT - PRECINCT 35"
@@ -263,26 +263,26 @@
   "ocd-division/country:us/state:mt/county:fergus/precinct:14": {
    "name": "Fergus County MT - PREC 14"
   },
-  "ocd-division/country:us/state:mt/county:fergus/precinct:11": {
-   "name": "Fergus County MT - PREC 11"
-  },
   "ocd-division/country:us/state:mt/county:park/precinct:7b": {
    "name": "Park County MT - PRECINCT #7B"
+  },
+  "ocd-division/country:us/state:mt/county:fergus/precinct:11": {
+   "name": "Fergus County MT - PREC 11"
   },
   "ocd-division/country:us/state:mt/county:park/precinct:7a": {
    "name": "Park County MT - PRECINCT #7A"
   },
-  "ocd-division/country:us/state:mt/county:fergus/precinct:17": {
-   "name": "Fergus County MT - PREC 17"
-  },
   "ocd-division/country:us/state:mt/county:park/precinct:7d": {
    "name": "Park County MT - PRECINCT #7D"
   },
-  "ocd-division/country:us/state:mt/county:fergus/precinct:18": {
-   "name": "Fergus County MT - PREC 18"
+  "ocd-division/country:us/state:mt/county:fergus/precinct:17": {
+   "name": "Fergus County MT - PREC 17"
   },
   "ocd-division/country:us/state:mt/county:park/precinct:7c": {
    "name": "Park County MT - PRECINCT #7C"
+  },
+  "ocd-division/country:us/state:mt/county:fergus/precinct:18": {
+   "name": "Fergus County MT - PREC 18"
   },
   "ocd-division/country:us/state:mt/county:fergus/precinct:15": {
    "name": "Fergus County MT - PREC 15"
@@ -290,11 +290,11 @@
   "ocd-division/country:us/state:mt/county:fergus/precinct:16": {
    "name": "Fergus County MT - PREC 16"
   },
-  "ocd-division/country:us/state:mt/county:jefferson/school_district:whitehall_h_s": {
-   "name": "whitehall h s"
-  },
   "ocd-division/country:us/state:mt/county:valley/school_district:lustre_elem": {
    "name": "lustre elem"
+  },
+  "ocd-division/country:us/state:mt/county:jefferson/school_district:whitehall_h_s": {
+   "name": "whitehall h s"
   },
   "ocd-division/country:us/state:mt/county:flathead/precinct:20": {
    "name": "Flathead County MT - PRECINCT 20"
@@ -302,11 +302,11 @@
   "ocd-division/country:us/state:mt/county:flathead/precinct:21": {
    "name": "Flathead County MT - PRECINCT 21"
   },
-  "ocd-division/country:us/state:mt/county:flathead/precinct:29": {
-   "name": "Flathead County MT - PRECINCT 29"
-  },
   "ocd-division/country:us/state:mt/place:lodge_grass": {
    "name": "Lodge Grass town"
+  },
+  "ocd-division/country:us/state:mt/county:flathead/precinct:29": {
+   "name": "Flathead County MT - PRECINCT 29"
   },
   "ocd-division/country:us/state:mt/county:carbon/school_district:roberts_k-12_schools": {
    "name": "roberts k-12 schools"
@@ -314,26 +314,26 @@
   "ocd-division/country:us/state:mt/county:flathead/precinct:24": {
    "name": "Flathead County MT - PRECINCT 24"
   },
-  "ocd-division/country:us/state:mt/county:fergus/precinct:10": {
-   "name": "Fergus County MT - PREC 10"
-  },
   "ocd-division/country:us/state:mt/county:flathead/precinct:25": {
    "name": "Flathead County MT - PRECINCT 25"
   },
-  "ocd-division/country:us/state:mt/county:flathead/precinct:26": {
-   "name": "Flathead County MT - PRECINCT 26"
+  "ocd-division/country:us/state:mt/county:fergus/precinct:10": {
+   "name": "Fergus County MT - PREC 10"
   },
   "ocd-division/country:us/state:mt/county:pondera/school_district:dupuyer_elem": {
    "name": "dupuyer elem"
   },
+  "ocd-division/country:us/state:mt/county:flathead/precinct:26": {
+   "name": "Flathead County MT - PRECINCT 26"
+  },
   "ocd-division/country:us/state:mt/county:park/precinct:6a": {
    "name": "Park County MT - PRECINCT #6A"
   },
-  "ocd-division/country:us/state:mt/county:valley/school_district:hinsdale_h_s": {
-   "name": "hinsdale h s"
-  },
   "ocd-division/country:us/state:mt/county:lincoln/precinct:libby_north": {
    "name": "Lincoln County MT - LIBBY NORTH"
+  },
+  "ocd-division/country:us/state:mt/county:valley/school_district:hinsdale_h_s": {
+   "name": "hinsdale h s"
   },
   "ocd-division/country:us/state:mt/county:garfield/school_district:cohagen_elem": {
    "name": "cohagen elem"
@@ -365,14 +365,14 @@
   "ocd-division/country:us/state:mt/county:park/precinct:5b": {
    "name": "Park County MT - PRECINCT #5B"
   },
-  "ocd-division/country:us/state:mt/county:park/precinct:5a": {
-   "name": "Park County MT - PRECINCT #5A"
-  },
   "ocd-division/country:us/state:mt/place:billings/ward:5": {
    "name": "Billings MT - ward 5",
    "officeIndices": [
     179
    ]
+  },
+  "ocd-division/country:us/state:mt/county:park/precinct:5a": {
+   "name": "Park County MT - PRECINCT #5A"
   },
   "ocd-division/country:us/state:mt/county:park/precinct:5d": {
    "name": "Park County MT - PRECINCT #5D"
@@ -455,11 +455,11 @@
   "ocd-division/country:us/state:mt/county:flathead/precinct:44": {
    "name": "Flathead County MT - PRECINCT 44"
   },
-  "ocd-division/country:us/state:mt/county:flathead/precinct:45": {
-   "name": "Flathead County MT - PRECINCT 45"
-  },
   "ocd-division/country:us/state:mt/county:powell/school_district:garrison_elem": {
    "name": "garrison elem"
+  },
+  "ocd-division/country:us/state:mt/county:flathead/precinct:45": {
+   "name": "Flathead County MT - PRECINCT 45"
   },
   "ocd-division/country:us/state:mt/county:flathead/precinct:46": {
    "name": "Flathead County MT - PRECINCT 46"
@@ -476,11 +476,14 @@
   "ocd-division/country:us/state:mt/county:mccone/school_district:circle_h_s": {
    "name": "circle h s"
   },
+  "ocd-division/country:us/state:mt/county:meagher/precinct:5": {
+   "name": "Meagher County MT - Precinct 5"
+  },
   "ocd-division/country:us/state:mt/county:jefferson/school_district:jefferson": {
    "name": "jefferson"
   },
-  "ocd-division/country:us/state:mt/county:meagher/precinct:5": {
-   "name": "Meagher County MT - Precinct 5"
+  "ocd-division/country:us/state:mt/county:phillips/precinct:6-landusky": {
+   "name": "Phillips County MT - PCT 6 - LANDUSKY"
   },
   "ocd-division/country:us/state:mt/county:broadwater/council_district:2": {
    "name": "Broadwater County District 2",
@@ -488,17 +491,14 @@
     184
    ]
   },
-  "ocd-division/country:us/state:mt/county:phillips/precinct:6-landusky": {
-   "name": "Phillips County MT - PCT 6 - LANDUSKY"
-  },
-  "ocd-division/country:us/state:mt/county:gallatin/school_district:anderson_elem": {
-   "name": "anderson elem"
-  },
   "ocd-division/country:us/state:mt/county:broadwater/council_district:1": {
    "name": "Broadwater County District 1",
    "officeIndices": [
     185
    ]
+  },
+  "ocd-division/country:us/state:mt/county:gallatin/school_district:anderson_elem": {
+   "name": "anderson elem"
   },
   "ocd-division/country:us/state:mt/county:broadwater/council_district:3": {
    "name": "Broadwater County District 3",
@@ -512,11 +512,11 @@
   "ocd-division/country:us/state:mt/county:cascade/school_district:centerville_h_s": {
    "name": "centerville h s"
   },
-  "ocd-division/country:us/state:mt/county:cascade/precinct:26": {
-   "name": "Cascade County MT - 26"
-  },
   "ocd-division/country:us/state:mt/county:beaverhead/school_district:lima_k-12_schools": {
    "name": "lima k-12 schools"
+  },
+  "ocd-division/country:us/state:mt/county:cascade/precinct:26": {
+   "name": "Cascade County MT - 26"
   },
   "ocd-division/country:us/state:mt/county:flathead/school_district:evergreen_elem": {
    "name": "evergreen elem"
@@ -546,11 +546,11 @@
   "ocd-division/country:us/state:mt/county:gallatin/school_district:manhattan_high_school": {
    "name": "manhattan high school"
   },
-  "ocd-division/country:us/state:mt/county:roosevelt/school_district:poplar_h_s": {
-   "name": "poplar h s"
-  },
   "ocd-division/country:us/state:mt/place:hysham": {
    "name": "Hysham town"
+  },
+  "ocd-division/country:us/state:mt/county:roosevelt/school_district:poplar_h_s": {
+   "name": "poplar h s"
   },
   "ocd-division/country:us/state:mt/county:richland/school_district:sidney_elem": {
    "name": "sidney elem"
@@ -558,11 +558,11 @@
   "ocd-division/country:us/state:mt/county:chouteau/school_district:carter_elem": {
    "name": "carter elem"
   },
-  "ocd-division/country:us/state:mt/county:lincoln/precinct:trego": {
-   "name": "Lincoln County MT - TREGO"
-  },
   "ocd-division/country:us/state:mt/county:powell/school_district:powell_county_h_s": {
    "name": "powell county h s"
+  },
+  "ocd-division/country:us/state:mt/county:lincoln/precinct:trego": {
+   "name": "Lincoln County MT - TREGO"
   },
   "ocd-division/country:us/state:mt/county:ravalli/school_district:corvallis_k-12_schools": {
    "name": "corvallis k-12 schools"
@@ -570,41 +570,41 @@
   "ocd-division/country:us/state:mt/county:richland/school_district:savage_elem": {
    "name": "savage elem"
   },
-  "ocd-division/country:us/state:mt/county:sanders/precinct:hot_springs": {
-   "name": "Sanders County MT - HOT SPRINGS"
-  },
   "ocd-division/country:us/state:mt/county:stillwater/school_district:park_city_elem": {
    "name": "park city elem"
   },
-  "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:1": {
-   "name": "Lewis And Clark County MT - PRECINCT 01"
+  "ocd-division/country:us/state:mt/county:sanders/precinct:hot_springs": {
+   "name": "Sanders County MT - HOT SPRINGS"
   },
   "ocd-division/country:us/state:mt/county:lake/school_district:arlee_elem": {
    "name": "arlee elem"
   },
-  "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:2": {
-   "name": "Lewis And Clark County MT - PRECINCT 02"
+  "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:1": {
+   "name": "Lewis And Clark County MT - PRECINCT 01"
   },
   "ocd-division/country:us/state:mt/county:judith_basin/precinct:2": {
    "name": "Judith Basin County MT - PRECINCT 2"
   },
-  "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:3": {
-   "name": "Lewis And Clark County MT - PRECINCT 03"
+  "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:2": {
+   "name": "Lewis And Clark County MT - PRECINCT 02"
   },
   "ocd-division/country:us/state:mt/county:judith_basin/precinct:3": {
    "name": "Judith Basin County MT - PRECINCT 3"
   },
-  "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:4": {
-   "name": "Lewis And Clark County MT - PRECINCT 04"
+  "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:3": {
+   "name": "Lewis And Clark County MT - PRECINCT 03"
   },
   "ocd-division/country:us/state:mt/county:musselshell/school_district:roundup_high_school": {
    "name": "roundup high school"
   },
-  "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:5": {
-   "name": "Lewis And Clark County MT - PRECINCT 05"
+  "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:4": {
+   "name": "Lewis And Clark County MT - PRECINCT 04"
   },
   "ocd-division/country:us/state:mt/county:judith_basin/precinct:1": {
    "name": "Judith Basin County MT - PRECINCT 1"
+  },
+  "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:5": {
+   "name": "Lewis And Clark County MT - PRECINCT 05"
   },
   "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:6": {
    "name": "Lewis And Clark County MT - PRECINCT 06"
@@ -612,14 +612,14 @@
   "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:7": {
    "name": "Lewis And Clark County MT - PRECINCT 07"
   },
-  "ocd-division/country:us/state:mt/county:lincoln/school_district:troy_elem": {
-   "name": "troy elem"
+  "ocd-division/country:us/state:mt/county:judith_basin/precinct:4": {
+   "name": "Judith Basin County MT - PRECINCT 4"
   },
   "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:8": {
    "name": "Lewis And Clark County MT - PRECINCT 08"
   },
-  "ocd-division/country:us/state:mt/county:judith_basin/precinct:4": {
-   "name": "Judith Basin County MT - PRECINCT 4"
+  "ocd-division/country:us/state:mt/county:lincoln/school_district:troy_elem": {
+   "name": "troy elem"
   },
   "ocd-division/country:us/state:mt/county:lewis_and_clark/precinct:9": {
    "name": "Lewis And Clark County MT - PRECINCT 09"
@@ -627,14 +627,14 @@
   "ocd-division/country:us/state:mt/county:glacier/precinct:21c": {
    "name": "Glacier County MT - PCT 21C"
   },
-  "ocd-division/country:us/state:mt/place:st_ignatius": {
-   "name": "St. Ignatius town"
+  "ocd-division/country:us/state:mt/county:flathead/precinct:13": {
+   "name": "Flathead County MT - PRECINCT 13"
   },
   "ocd-division/country:us/state:mt/county:big_horn/precinct:3": {
    "name": "Big Horn County MT - PRECINCT #3"
   },
-  "ocd-division/country:us/state:mt/county:flathead/precinct:13": {
-   "name": "Flathead County MT - PRECINCT 13"
+  "ocd-division/country:us/state:mt/place:st_ignatius": {
+   "name": "St. Ignatius town"
   },
   "ocd-division/country:us/state:mt/county:big_horn/precinct:2": {
    "name": "Big Horn County MT - PRECINCT #2"
@@ -645,17 +645,17 @@
   "ocd-division/country:us/state:mt/county:flathead/precinct:14": {
    "name": "Flathead County MT - PRECINCT 14"
   },
-  "ocd-division/country:us/state:mt/county:big_horn/precinct:7": {
-   "name": "Big Horn County MT - PRECINCT #7"
-  },
   "ocd-division/country:us/state:mt/county:flathead/precinct:17": {
    "name": "Flathead County MT - PRECINCT 17"
   },
-  "ocd-division/country:us/state:mt/county:big_horn/precinct:6": {
-   "name": "Big Horn County MT - PRECINCT #6"
+  "ocd-division/country:us/state:mt/county:big_horn/precinct:7": {
+   "name": "Big Horn County MT - PRECINCT #7"
   },
   "ocd-division/country:us/state:mt/county:flathead/precinct:16": {
    "name": "Flathead County MT - PRECINCT 16"
+  },
+  "ocd-division/country:us/state:mt/county:big_horn/precinct:6": {
+   "name": "Big Horn County MT - PRECINCT #6"
   },
   "ocd-division/country:us/state:mt/county:big_horn/precinct:5": {
    "name": "Big Horn County MT - PRECINCT #5"
@@ -1112,26 +1112,26 @@
   "ocd-division/country:us/state:mt/place:alberton": {
    "name": "Alberton town"
   },
-  "ocd-division/country:us/state:mt/county:yellowstone/school_district:shepherd_h_s": {
-   "name": "shepherd h s"
-  },
   "ocd-division/country:us/state:mt/place:darby": {
    "name": "Darby town"
   },
-  "ocd-division/country:us/state:mt/county:chouteau/school_district:warrick_elem": {
-   "name": "warrick elem"
+  "ocd-division/country:us/state:mt/county:yellowstone/school_district:shepherd_h_s": {
+   "name": "shepherd h s"
   },
   "ocd-division/country:us/state:mt/county:pondera/precinct:35-valier_rural": {
    "name": "Pondera County MT - VALIER (RURAL)_35"
   },
+  "ocd-division/country:us/state:mt/county:chouteau/school_district:warrick_elem": {
+   "name": "warrick elem"
+  },
   "ocd-division/country:us/state:mt/county:missoula/school_district:missoula_area_education_coop": {
    "name": "missoula area education coop"
   },
-  "ocd-division/country:us/state:mt/place:walkerville": {
-   "name": "Walkerville town"
-  },
   "ocd-division/country:us/state:mt/county:missoula/precinct:rattlesnake_1": {
    "name": "Missoula County MT - RATLSNK 1"
+  },
+  "ocd-division/country:us/state:mt/place:walkerville": {
+   "name": "Walkerville town"
   },
   "ocd-division/country:us/state:mt/county:flathead/school_district:flathead": {
    "name": "flathead"
@@ -1139,11 +1139,11 @@
   "ocd-division/country:us/state:mt/county:hill/school_district:north_star_hs": {
    "name": "north star hs"
   },
-  "ocd-division/country:us/state:mt/county:stillwater/school_district:reed_point_elem": {
-   "name": "reed point elem"
-  },
   "ocd-division/country:us/state:mt/place:browning": {
    "name": "Browning town"
+  },
+  "ocd-division/country:us/state:mt/county:stillwater/school_district:reed_point_elem": {
+   "name": "reed point elem"
   },
   "ocd-division/country:us/state:mt/county:glacier/school_district:cut_bank_elem": {
    "name": "cut bank elem"
@@ -1184,11 +1184,11 @@
   "ocd-division/country:us/state:mt/county:yellowstone/school_district:morin_elem": {
    "name": "morin elem"
   },
-  "ocd-division/country:us/state:mt/county:phillips/precinct:8n-saco_north": {
-   "name": "Phillips County MT - PCT 8-N - SACO NORTH - 35/18"
-  },
   "ocd-division/country:us/state:mt/county:richland/precinct:12a": {
    "name": "Richland County MT - PRECINCT 12A"
+  },
+  "ocd-division/country:us/state:mt/county:phillips/precinct:8n-saco_north": {
+   "name": "Phillips County MT - PCT 8-N - SACO NORTH - 35/18"
   },
   "ocd-division/country:us/state:mt/county:stillwater/school_district:park_city_h_s": {
    "name": "park city h s"
@@ -1205,11 +1205,11 @@
   "ocd-division/country:us/state:mt/county:richland/precinct:12b": {
    "name": "Richland County MT - PRECINCT 12B"
   },
-  "ocd-division/country:us/state:mt/county:jefferson/precinct:15": {
-   "name": "Jefferson County MT - PREC 15"
-  },
   "ocd-division/country:us/state:mt/county:dawson/precinct:6a": {
    "name": "Dawson County MT - PRECINCT 6A"
+  },
+  "ocd-division/country:us/state:mt/county:jefferson/precinct:15": {
+   "name": "Jefferson County MT - PREC 15"
   },
   "ocd-division/country:us/state:mt/county:dawson/precinct:6c": {
    "name": "Dawson County MT - PRECINCT 6C"
@@ -1220,11 +1220,11 @@
   "ocd-division/country:us/state:mt/county:teton/school_district:fairfield_h_s": {
    "name": "fairfield h s"
   },
-  "ocd-division/country:us/state:mt/county:jefferson/precinct:12": {
-   "name": "Jefferson County MT - PREC 12"
-  },
   "ocd-division/country:us/state:mt/county:mccone/school_district:mccone": {
    "name": "mccone"
+  },
+  "ocd-division/country:us/state:mt/county:jefferson/precinct:12": {
+   "name": "Jefferson County MT - PREC 12"
   },
   "ocd-division/country:us/state:mt/county:golden_valley/school_district:ryegate_k-12_schools": {
    "name": "ryegate k-12 schools"
@@ -1269,9 +1269,6 @@
     229
    ]
   },
-  "ocd-division/country:us/state:mt/county:lake/school_district:arlee_h_s": {
-   "name": "arlee h s"
-  },
   "ocd-division/country:us/state:mt/county:powell": {
    "name": "Powell County",
    "officeIndices": [
@@ -1282,6 +1279,9 @@
     234,
     235
    ]
+  },
+  "ocd-division/country:us/state:mt/county:lake/school_district:arlee_h_s": {
+   "name": "arlee h s"
   },
   "ocd-division/country:us/state:mt/county:stillwater/council_district:1": {
    "name": "Stillwater County District 1",
@@ -1295,11 +1295,11 @@
     237
    ]
   },
-  "ocd-division/country:us/state:mt/county:phillips/school_district:dodson_k12": {
-   "name": "dodson k12"
-  },
   "ocd-division/country:us/state:mt/county:sweet_grass/precinct:1": {
    "name": "Sweet Grass County MT - PRECINCT 1"
+  },
+  "ocd-division/country:us/state:mt/county:phillips/school_district:dodson_k12": {
+   "name": "dodson k12"
   },
   "ocd-division/country:us/state:mt/county:sweet_grass/precinct:2": {
    "name": "Sweet Grass County MT - PRECINCT 2"
@@ -1313,14 +1313,14 @@
   "ocd-division/country:us/state:mt/county:prairie/precinct:2": {
    "name": "Prairie County MT - PRECINCT NO. 2"
   },
+  "ocd-division/country:us/state:mt/place:hamilton": {
+   "name": "Hamilton city"
+  },
   "ocd-division/country:us/state:mt/county:prairie/precinct:3": {
    "name": "Prairie County MT - PRECINCT NO. 3"
   },
   "ocd-division/country:us/state:mt/county:sweet_grass/precinct:5": {
    "name": "Sweet Grass County MT - PRECINCT 5"
-  },
-  "ocd-division/country:us/state:mt/place:hamilton": {
-   "name": "Hamilton city"
   },
   "ocd-division/country:us/state:mt/county:sweet_grass/precinct:4": {
    "name": "Sweet Grass County MT - PRECINCT 4"
@@ -2672,17 +2672,20 @@
     36
    ]
   },
+  "ocd-division/country:us/state:mt/place:plains": {
+   "name": "Plains town"
+  },
+  "ocd-division/country:us/state:mt/county:powder_river/precinct:11": {
+   "name": "Powder River County MT - PRECINCT11"
+  },
   "ocd-division/country:us/state:mt/sldl:61": {
    "name": "Montana State House district 61",
    "officeIndices": [
     37
    ]
   },
-  "ocd-division/country:us/state:mt/county:powder_river/precinct:11": {
-   "name": "Powder River County MT - PRECINCT11"
-  },
-  "ocd-division/country:us/state:mt/place:plains": {
-   "name": "Plains town"
+  "ocd-division/country:us/state:mt/county:powder_river/precinct:12": {
+   "name": "Powder River County MT - PRECINCT12"
   },
   "ocd-division/country:us/state:mt/sldl:60": {
    "name": "Montana State House district 60",
@@ -2690,8 +2693,8 @@
     38
    ]
   },
-  "ocd-division/country:us/state:mt/county:powder_river/precinct:12": {
-   "name": "Powder River County MT - PRECINCT12"
+  "ocd-division/country:us/state:mt/county:yellowstone/school_district:independent_elem": {
+   "name": "independent elem"
   },
   "ocd-division/country:us/state:mt/sldl:59": {
    "name": "Montana State House district 59",
@@ -2699,14 +2702,14 @@
     39
    ]
   },
-  "ocd-division/country:us/state:mt/county:yellowstone/school_district:independent_elem": {
-   "name": "independent elem"
-  },
   "ocd-division/country:us/state:mt/sldl:57": {
    "name": "Montana State House district 57",
    "officeIndices": [
     40
    ]
+  },
+  "ocd-division/country:us/state:mt/county:flathead/school_district:fair-mont-egan_elem": {
+   "name": "fair-mont-egan elem"
   },
   "ocd-division/country:us/state:mt/sldl:58": {
    "name": "Montana State House district 58",
@@ -2714,8 +2717,8 @@
     41
    ]
   },
-  "ocd-division/country:us/state:mt/county:flathead/school_district:fair-mont-egan_elem": {
-   "name": "fair-mont-egan elem"
+  "ocd-division/country:us/state:mt/county:blaine/precinct:8-harlem": {
+   "name": "Blaine County MT - HARLEM 8"
   },
   "ocd-division/country:us/state:mt/sldl:55": {
    "name": "Montana State House district 55",
@@ -2723,14 +2726,14 @@
     42
    ]
   },
-  "ocd-division/country:us/state:mt/county:blaine/precinct:8-harlem": {
-   "name": "Blaine County MT - HARLEM 8"
-  },
   "ocd-division/country:us/state:mt/sldl:56": {
    "name": "Montana State House district 56",
    "officeIndices": [
     43
    ]
+  },
+  "ocd-division/country:us/state:mt/county:rosebud/precinct:6": {
+   "name": "Rosebud County MT - PRECINCT 6"
   },
   "ocd-division/country:us/state:mt/sldl:53": {
    "name": "Montana State House district 53",
@@ -2738,8 +2741,8 @@
     44
    ]
   },
-  "ocd-division/country:us/state:mt/county:rosebud/precinct:6": {
-   "name": "Rosebud County MT - PRECINCT 6"
+  "ocd-division/country:us/state:mt/county:rosebud/precinct:7": {
+   "name": "Rosebud County MT - PRECINCT 7"
   },
   "ocd-division/country:us/state:mt/sldl:54": {
    "name": "Montana State House district 54",
@@ -2747,14 +2750,14 @@
     45
    ]
   },
-  "ocd-division/country:us/state:mt/county:rosebud/precinct:7": {
-   "name": "Rosebud County MT - PRECINCT 7"
-  },
   "ocd-division/country:us/state:mt/county:rosebud/precinct:3": {
    "name": "Rosebud County MT - PRECINCT 3"
   },
   "ocd-division/country:us/state:mt/county:silver_bow/precinct:2c": {
    "name": "Silver Bow County MT - CC 2C"
+  },
+  "ocd-division/country:us/state:mt/county:glacier/precinct:3": {
+   "name": "Glacier County MT - PCT 03"
   },
   "ocd-division/country:us/state:mt/sldu:33": {
    "name": "Montana State Senate district 33",
@@ -2762,8 +2765,8 @@
     46
    ]
   },
-  "ocd-division/country:us/state:mt/county:glacier/precinct:3": {
-   "name": "Glacier County MT - PCT 03"
+  "ocd-division/country:us/state:mt/county:glacier/precinct:4": {
+   "name": "Glacier County MT - PCT 04"
   },
   "ocd-division/country:us/state:mt/sldu:32": {
    "name": "Montana State Senate district 32",
@@ -2771,8 +2774,11 @@
     47
    ]
   },
-  "ocd-division/country:us/state:mt/county:glacier/precinct:4": {
-   "name": "Glacier County MT - PCT 04"
+  "ocd-division/country:us/state:mt/county:gallatin/school_district:monforton_elem": {
+   "name": "monforton elem"
+  },
+  "ocd-division/country:us/state:mt/county:glacier/precinct:5": {
+   "name": "Glacier County MT - PCT 05"
   },
   "ocd-division/country:us/state:mt/sldu:35": {
    "name": "Montana State Senate district 35",
@@ -2780,11 +2786,8 @@
     48
    ]
   },
-  "ocd-division/country:us/state:mt/county:glacier/precinct:5": {
-   "name": "Glacier County MT - PCT 05"
-  },
-  "ocd-division/country:us/state:mt/county:gallatin/school_district:monforton_elem": {
-   "name": "monforton elem"
+  "ocd-division/country:us/state:mt/county:glacier/precinct:6": {
+   "name": "Glacier County MT - PCT 06"
   },
   "ocd-division/country:us/state:mt/sldu:34": {
    "name": "Montana State Senate district 34",
@@ -2792,14 +2795,17 @@
     49
    ]
   },
-  "ocd-division/country:us/state:mt/county:glacier/precinct:6": {
-   "name": "Glacier County MT - PCT 06"
-  },
   "ocd-division/country:us/state:mt/sldu:37": {
    "name": "Montana State Senate district 37",
    "officeIndices": [
     50
    ]
+  },
+  "ocd-division/country:us/state:mt/county:glacier/precinct:8": {
+   "name": "Glacier County MT - PCT 08"
+  },
+  "ocd-division/country:us/state:mt/county:lewis_and_clark/school_district:intermtn_childrens_home": {
+   "name": "intermtn childrens home"
   },
   "ocd-division/country:us/state:mt/sldu:36": {
    "name": "Montana State Senate district 36",
@@ -2807,11 +2813,8 @@
     51
    ]
   },
-  "ocd-division/country:us/state:mt/county:lewis_and_clark/school_district:intermtn_childrens_home": {
-   "name": "intermtn childrens home"
-  },
-  "ocd-division/country:us/state:mt/county:glacier/precinct:8": {
-   "name": "Glacier County MT - PCT 08"
+  "ocd-division/country:us/state:mt/county:glacier/precinct:9": {
+   "name": "Glacier County MT - PCT 09"
   },
   "ocd-division/country:us/state:mt/sldu:39": {
    "name": "Montana State Senate district 39",
@@ -2819,20 +2822,17 @@
     52
    ]
   },
-  "ocd-division/country:us/state:mt/county:glacier/precinct:9": {
-   "name": "Glacier County MT - PCT 09"
-  },
   "ocd-division/country:us/state:mt/sldu:38": {
    "name": "Montana State Senate district 38",
    "officeIndices": [
     53
    ]
   },
-  "ocd-division/country:us/state:mt/county:liberty/school_district:whitlash_elem": {
-   "name": "whitlash elem"
-  },
   "ocd-division/country:us/state:mt/county:ravalli/precinct:17": {
    "name": "Ravalli County MT - PCT 17"
+  },
+  "ocd-division/country:us/state:mt/county:liberty/school_district:whitlash_elem": {
+   "name": "whitlash elem"
   },
   "ocd-division/country:us/state:mt/county:ravalli/precinct:16": {
    "name": "Ravalli County MT - PCT 16"
@@ -3343,20 +3343,20 @@
     94
    ]
   },
+  "ocd-division/country:us/state:mt/place:great_falls": {
+   "name": "Great Falls city"
+  },
+  "ocd-division/country:us/state:mt/place:stevensville": {
+   "name": "Stevensville town"
+  },
   "ocd-division/country:us/state:mt/sldl:14": {
    "name": "Montana State House district 14",
    "officeIndices": [
     95
    ]
   },
-  "ocd-division/country:us/state:mt/place:stevensville": {
-   "name": "Stevensville town"
-  },
   "ocd-division/country:us/state:mt/county:fergus/school_district:roy_k-12_schools": {
    "name": "roy k-12 schools"
-  },
-  "ocd-division/country:us/state:mt/place:great_falls": {
-   "name": "Great Falls city"
   },
   "ocd-division/country:us/state:mt/sldl:13": {
    "name": "Montana State House district 13",
@@ -4271,9 +4271,6 @@
   "ocd-division/country:us/state:mt/county:sheridan/precinct:2-medicine_lake": {
    "name": "Sheridan County MT - 2 MEDICINE LAKE"
   },
-  "ocd-division/country:us/state:mt/county:fergus/precinct:2": {
-   "name": "Fergus County MT - PREC 2"
-  },
   "ocd-division/country:us/state:mt/county:ravalli": {
    "name": "Ravalli County",
    "officeIndices": [
@@ -4283,6 +4280,9 @@
     466,
     467
    ]
+  },
+  "ocd-division/country:us/state:mt/county:fergus/precinct:2": {
+   "name": "Fergus County MT - PREC 2"
   },
   "ocd-division/country:us/state:mt/county:fergus/precinct:3": {
    "name": "Fergus County MT - PREC 3"
@@ -5139,12 +5139,6 @@
   "ocd-division/country:us/state:mt/county:missoula/precinct:lewis-clark_2": {
    "name": "Missoula County MT - LEWISCLK 2"
   },
-  "ocd-division/country:us/state:mt/county:missoula/precinct:lewis-clark_3": {
-   "name": "Missoula County MT - LEWISCLK 3"
-  },
-  "ocd-division/country:us/state:mt/county:richland/school_district:richland": {
-   "name": "richland"
-  },
   "ocd-division/country:us/state:mt/county:yellowstone": {
    "name": "Yellowstone County",
    "officeIndices": [
@@ -5155,6 +5149,12 @@
     541,
     542
    ]
+  },
+  "ocd-division/country:us/state:mt/county:missoula/precinct:lewis-clark_3": {
+   "name": "Missoula County MT - LEWISCLK 3"
+  },
+  "ocd-division/country:us/state:mt/county:richland/school_district:richland": {
+   "name": "richland"
   },
   "ocd-division/country:us/state:mt/county:gallatin/precinct:19": {
    "name": "Gallatin County MT - 19"
@@ -6324,6 +6324,9 @@
   "ocd-division/country:us/state:mt/county:rosebud/school_district:lame_deer_h_s": {
    "name": "lame deer h s"
   },
+  "ocd-division/country:us/state:mt/place:lewistown": {
+   "name": "Lewistown city"
+  },
   "ocd-division/country:us/state:mt/county:teton": {
    "name": "Teton County",
    "officeIndices": [
@@ -6338,17 +6341,11 @@
     649
    ]
   },
-  "ocd-division/country:us/state:mt/place:lewistown": {
-   "name": "Lewistown city"
-  },
   "ocd-division/country:us/state:mt/county:fergus/school_district:king_colony_elem": {
    "name": "king colony elem"
   },
   "ocd-division/country:us/state:mt/county:liberty/school_district:liberty": {
    "name": "liberty"
-  },
-  "ocd-division/country:us/state:mt/county:cascade/school_district:north_ctrl_learn_res_ctr": {
-   "name": "north ctrl learn res ctr"
   },
   "ocd-division/country:us/state:mt/county:flathead": {
    "name": "Flathead County",
@@ -6361,6 +6358,9 @@
     655,
     656
    ]
+  },
+  "ocd-division/country:us/state:mt/county:cascade/school_district:north_ctrl_learn_res_ctr": {
+   "name": "north ctrl learn res ctr"
   },
   "ocd-division/country:us/state:mt/county:chouteau/precinct:4-carter": {
    "name": "Chouteau County MT - CARTER 4"
@@ -12028,12 +12028,12 @@
      "id": "SteveDainesMT"
     },
     {
-     "type": "Facebook",
-     "id": "SteveDainesMT"
-    },
-    {
      "type": "Twitter",
      "id": "SteveDaines"
+    },
+    {
+     "type": "Facebook",
+     "id": "SteveDainesMT"
     }
    ]
   },
@@ -12069,10 +12069,6 @@
    "channels": [
     {
      "type": "Facebook",
-     "id": "ryanzinke"
-    },
-    {
-     "type": "Facebook",
      "id": "CongressmanRyanZinke"
     },
     {
@@ -12086,6 +12082,10 @@
     {
      "type": "YouTube",
      "id": "UCBKZXK7VNIQWnKsYQt8GWjA"
+    },
+    {
+     "type": "Facebook",
+     "id": "ryanzinke"
     }
    ]
   },
@@ -12837,6 +12837,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/12609.jpg",
    "emails": [
     "Rep.Virginia.Court@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "456931155723"
+    }
    ]
   },
   {
@@ -12904,6 +12910,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/13682.jpg",
    "emails": [
     "Rep.Margie.MacDonald@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "margiemac31"
+    }
    ]
   },
   {
@@ -12966,11 +12978,18 @@
     "(406) 698-5610"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16507"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16507",
+    "http://www.votekathykelker.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16507.jpg",
    "emails": [
     "Rep.Kathy.Kelker@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "kathy.kelker"
+    }
    ]
   },
   {
@@ -13005,6 +13024,20 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16506.jpg",
    "emails": [
     "Rep.Jessica.Karjala@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "GooglePlus",
+     "id": "101564407628847030878"
+    },
+    {
+     "type": "Twitter",
+     "id": "jessicakarjala"
+    },
+    {
+     "type": "Facebook",
+     "id": "378291388978481"
+    }
    ]
   },
   {
@@ -13038,6 +13071,16 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15250.jpg",
    "emails": [
     "kelly@kellyformontana.org"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "kelly4mt"
+    },
+    {
+     "type": "Facebook",
+     "id": "189286694506179"
+    }
    ]
   },
   {
@@ -13129,6 +13172,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16514.jpg",
    "emails": [
     "Rep.Dale.Mortensen@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "mortensenHD44"
+    }
    ]
   },
   {
@@ -13157,11 +13206,22 @@
     "(406) 861-5210"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=15248"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=15248",
+    "http://danielzolnikov.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15248.jpg",
    "emails": [
     "Rep.Daniel.Zolnikov@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "danielzolnikov"
+    },
+    {
+     "type": "Facebook",
+     "id": "DanielZolnikov"
+    }
    ]
   },
   {
@@ -13190,11 +13250,22 @@
     "(406) 579-5697"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16495"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16495",
+    "http://www.brownformontana.org/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16495.jpg",
    "emails": [
     "brownformontana@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "brownformontana"
+    },
+    {
+     "type": "Twitter",
+     "id": "brownformontana"
+    }
    ]
   },
   {
@@ -13223,11 +13294,18 @@
     "(406) 850-4461"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=15254"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=15254",
+    "http://tomwoodsformontana.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15254.jpg",
    "emails": [
     "tomwoods4mt@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "322954821077735"
+    }
    ]
   },
   {
@@ -13256,11 +13334,18 @@
     "(406) 570-1917"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12612"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12612",
+    "http://www.kathleenhd61.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/12612.jpg",
    "emails": [
     "KathleenHD65@bresnan.net"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "360303722260"
+    }
    ]
   },
   {
@@ -13289,11 +13374,18 @@
     "(406) 223-9368"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16508"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16508",
+    "http://www.debralamm.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16508.jpg",
    "emails": [
     "Rep.Debra.Lamm@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "debralamm"
+    }
    ]
   },
   {
@@ -13360,6 +13452,16 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16509.jpg",
    "emails": [
     "Rep.Forrest.Mandeville@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "therealforrestm"
+    },
+    {
+     "type": "Facebook",
+     "id": "MandevilleforHD57"
+    }
    ]
   },
   {
@@ -13388,11 +13490,22 @@
     "(406) 690-9329"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16493"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16493",
+    "http://www.sethberglee.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16493.jpg",
    "emails": [
     "Rep.Seth.Berglee@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "berglee_seth"
+    },
+    {
+     "type": "Facebook",
+     "id": "BergleeforHD58"
+    }
    ]
   },
   {
@@ -13427,6 +13540,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16521.jpg",
    "emails": [
     "Rep.Vince.Ricci@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "vince.ricci.10"
+    }
    ]
   },
   {
@@ -13529,6 +13648,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/12836.jpg",
    "emails": [
     "jessmann@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "essmannjeff"
+    }
    ]
   },
   {
@@ -13837,11 +13962,18 @@
     "(406) 949-3715"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12599"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12599",
+    "http://ryanosmundson.com/index.php"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/12599.jpg",
    "emails": [
     "ryanosmundson@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "10150142689530274"
+    }
    ]
   },
   {
@@ -13924,11 +14056,22 @@
     "(406) 868-9814"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=15244"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=15244",
+    "http://www.tomjacobson.net/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15244.jpg",
    "emails": [
     "tomjacobsonmt@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "jacobsontom"
+    },
+    {
+     "type": "Facebook",
+     "id": "244328385614242"
+    }
    ]
   },
   {
@@ -13958,7 +14101,8 @@
     "(406) 781-3526"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=13684"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=13684",
+    "http://www.mehlhoffhd22.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/13684.jpg",
    "emails": [
@@ -14063,6 +14207,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15243.jpg",
    "emails": [
     "Rep.Casey.Schreiner@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "SchreinerforMT"
+    }
    ]
   },
   {
@@ -14096,6 +14246,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/13858.jpg",
    "emails": [
     "tropila@mt.net"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "mitch.tropila"
+    }
    ]
   },
   {
@@ -14195,6 +14351,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16503.jpg",
    "emails": [
     "Stephhess28@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "HessforHouse"
+    }
    ]
   },
   {
@@ -14569,6 +14731,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15247.jpg",
    "emails": [
     "Rep.Rae.Peppers@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "VoteRaePeppersForMontanaHouseDistrict41"
+    }
    ]
   },
   {
@@ -14598,11 +14766,22 @@
     "(406) 323-3151"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=13619"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=13619",
+    "http://tomberrymt.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/13619.jpg",
    "emails": [
     "tom@tomberrymt.com"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "tomberrymt"
+    },
+    {
+     "type": "Facebook",
+     "id": "313175325420074"
+    }
    ]
   },
   {
@@ -14670,6 +14849,16 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/12601.jpg",
    "emails": [
     "austinforhouse@yahoo.com"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "repknudsen"
+    },
+    {
+     "type": "Facebook",
+     "id": "294061056548"
+    }
    ]
   },
   {
@@ -14704,6 +14893,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15139.jpg",
    "emails": [
     "repbsmith@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "bridget.smith.92167"
+    }
    ]
   },
   {
@@ -14738,6 +14933,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16512.jpg",
    "emails": [
     "Rep.GBruce.Meyers@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "403233649814258"
+    }
    ]
   },
   {
@@ -14873,6 +15074,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15246.jpg",
    "emails": [
     "alandoane@midrivers.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "alan.doane"
+    }
    ]
   },
   {
@@ -15007,6 +15214,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16519.jpg",
    "emails": [
     "Rep.Randall.Pinocci@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "randy.pinocci"
+    }
    ]
   },
   {
@@ -15062,6 +15275,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/12562.jpg",
    "emails": [
     "christy_clark@ymail.com"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "christyhd17"
+    }
    ]
   },
   {
@@ -15163,6 +15382,16 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15240.jpg",
    "emails": [
     "nick.schwadererhd14@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "RepresentativeNicholasSchwaderer"
+    },
+    {
+     "type": "Twitter",
+     "id": "schwad4hd14"
+    }
    ]
   },
   {
@@ -15230,6 +15459,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15239.jpg",
    "emails": [
     "greghertz11@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "181025218640118"
+    }
    ]
   },
   {
@@ -15325,11 +15560,18 @@
     "(406) 461-6788"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16500"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16500",
+    "http://funkformontana.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16500.jpg",
    "emails": [
     "Rep.Moffie.Funk@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "339274629538603"
+    }
    ]
   },
   {
@@ -15394,11 +15636,18 @@
     "(406) 449-7340"
    ],
    "urls": [
-    "http://leg.mt.gov/images/legislators_64th/16498.jpg"
+    "http://leg.mt.gov/images/legislators_64th/16498.jpg",
+    "http://dunwellforhd84.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16498.jpg",
    "emails": [
     "Rep.MaryAnn.Dunwell@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "maryanndunwellforhd84"
+    }
    ]
   },
   {
@@ -15428,11 +15677,18 @@
     "(406) 363-2898"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16510"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16510",
+    "http://www.manzellaformontana.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16510.jpg",
    "emails": [
     "Rep.Theresa.Manzella@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "manzellaformontana"
+    }
    ]
   },
   {
@@ -15467,6 +15723,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/13686.jpg",
    "emails": [
     "mike4hd84@blackfoot.net"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "mikemillerhd84"
+    }
    ]
   },
   {
@@ -15495,11 +15757,18 @@
     "(406) 431-9157"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16499"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16499",
+    "https://janetellishd81.wordpress.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16499.jpg",
    "emails": [
     "Rep.Janet.Ellis@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "JanetForLegislature"
+    }
    ]
   },
   {
@@ -15534,6 +15803,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/13026.jpg",
    "emails": [
     "jennyeck4mt@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "JennyEckforHD82"
+    }
    ]
   },
   {
@@ -15567,6 +15842,16 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15256.jpg",
    "emails": [
     "Rep.Ryan.Lynch@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "lynchryanryan"
+    },
+    {
+     "type": "Facebook",
+     "id": "RyanLynchHD74"
+    }
    ]
   },
   {
@@ -15600,6 +15885,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15257.jpg",
    "emails": [
     "kirk@kirkbwagoner.org"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "674153985941774"
+    }
    ]
   },
   {
@@ -15734,6 +16025,16 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/12766.jpg",
    "emails": [
     "pnoonan73@yahoo.com"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "patnoonanHD74"
+    },
+    {
+     "type": "Facebook",
+     "id": "RepPatNoonan"
+    }
    ]
   },
   {
@@ -15791,6 +16092,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/13700.jpg",
    "emails": [
     "jeffwelborn@hotmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "72ndmt"
+    }
    ]
   },
   {
@@ -15852,11 +16159,22 @@
     "(406) 570-2949"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16513"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16513",
+    "http://www.monfortonforhd69.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16513.jpg",
    "emails": [
     "Rep.Matthew.Monforton@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "monforton4hd69"
+    },
+    {
+     "type": "Facebook",
+     "id": "monforton4hd69"
+    }
    ]
   },
   {
@@ -15885,11 +16203,26 @@
     "(406) 599-9836"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12550"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12550",
+    "http://www.artwittich.us/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/12550.jpg",
    "emails": [
     "Rep.Art.Wittich@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "YouTube",
+     "id": "UCLUU9s4aNt9F-l-gTCGob7A"
+    },
+    {
+     "type": "Twitter",
+     "id": "ArtWittich"
+    },
+    {
+     "type": "Facebook",
+     "id": "389243991243379"
+    }
    ]
   },
   {
@@ -15919,11 +16252,22 @@
     "(406) 539-7075"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12611"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12611",
+    "http://tom-burnett.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/12611.jpg",
    "emails": [
     "burnetthd67@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "tomburnettmt"
+    },
+    {
+     "type": "Facebook",
+     "id": "132896653418116"
+    }
    ]
   },
   {
@@ -15952,11 +16296,18 @@
     "(406) 579-1986"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16502"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16502",
+    "http://haymanforhousedistrict66.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16502.jpg",
    "emails": [
     "Rep.Denise.Hayman@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "1422054744720499"
+    }
    ]
   },
   {
@@ -15985,11 +16336,18 @@
     "(406) 581-8739"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16520"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16520",
+    "http://www.popeforhousedistrict65.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16520.jpg",
    "emails": [
     "Rep.Christopher.Pope@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "226055320928621"
+    }
    ]
   },
   {
@@ -16023,6 +16381,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15255.jpg",
    "emails": [
     "winwithwhite@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "WinWithWhite"
+    }
    ]
   },
   {
@@ -16051,11 +16415,18 @@
     "(406) 546-0523"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16496"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16496",
+    "http://www.williscurdy4hd98.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16496.jpg",
    "emails": [
     "Rep.Willis.Curdy@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "willis.curdy"
+    }
    ]
   },
   {
@@ -16089,6 +16460,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16525.jpg",
    "emails": [
     "Rep.Brad.Tschida@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "MontanaBradTschida"
+    }
    ]
   },
   {
@@ -16150,11 +16527,22 @@
     "(406) 546-3629"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=13032"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=13032",
+    "http://www.bennettforhouse.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/13032.jpg",
    "emails": [
     "bennettforhouse@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "bennettforhouse"
+    },
+    {
+     "type": "Twitter",
+     "id": "brycebennett"
+    }
    ]
   },
   {
@@ -16216,11 +16604,22 @@
     "(406) 218-9608"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12457"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12457",
+    "http://elliehillforhd94.org/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/12457.jpg",
    "emails": [
     "elliehillhd94@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "ellie.boldman.hill"
+    },
+    {
+     "type": "Twitter",
+     "id": "elliehill"
+    }
    ]
   },
   {
@@ -16254,6 +16653,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15265.jpg",
    "emails": [
     "nwilsonhd95@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "nancy.wilson.507"
+    }
    ]
   },
   {
@@ -16282,11 +16687,22 @@
     "(406) 210-0161"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16518"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16518",
+    "http://andrewpersonforlegislature.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16518.jpg",
    "emails": [
     "james.a.person@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "andrewpersonmt"
+    },
+    {
+     "type": "Facebook",
+     "id": "andrewpersofforlegislature"
+    }
    ]
   },
   {
@@ -16316,7 +16732,8 @@
     "(406) 253-9724"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12559"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12559",
+    "http://www.dansalomon.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/12559.jpg",
    "emails": [
@@ -16353,6 +16770,16 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15267.jpg",
    "emails": [
     "kimberly.dudik@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "dudikkimberly"
+    },
+    {
+     "type": "Facebook",
+     "id": "dudikformontana"
+    }
    ]
   },
   {
@@ -16381,11 +16808,18 @@
     "(406) 214-2445"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16397"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16397",
+    "http://www.nateforhd89.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16397.jpg",
    "emails": [
     "Rep.Nate.McConnell@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "nateforHD89"
+    }
    ]
   },
   {
@@ -16420,6 +16854,16 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15261.jpg",
    "emails": [
     "edgreef@hotmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "PedalPusher1"
+    },
+    {
+     "type": "Twitter",
+     "id": "slowpedalin"
+    }
    ]
   },
   {
@@ -16448,7 +16892,8 @@
     "(406) 363-8416"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=15260"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=15260",
+    "http://nancyballance.us/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15260.jpg"
   },
@@ -16478,7 +16923,8 @@
     "(406) 363-3130"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12619"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12619",
+    "http://electronehli.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/12619.jpg"
   },
@@ -16842,6 +17288,16 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/16517.jpg",
    "emails": [
     "Rep.Zac.Perry@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "zacmt"
+    },
+    {
+     "type": "Facebook",
+     "id": "333126967943"
+    }
    ]
   },
   {
@@ -16908,6 +17364,12 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15237.jpg",
    "emails": [
     "liesered@yahoo.com"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "lieser4legislature"
+    }
    ]
   },
   {
@@ -16936,11 +17398,18 @@
     "(406) 751-7334"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=15238"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=15238",
+    "http://www.glimmforhouse.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/15238.jpg",
    "emails": [
     "Rep.Carl.Glimm@mt.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "glimmHD6"
+    }
    ]
   },
   {
@@ -16969,9 +17438,16 @@
     "(406) 471-7197"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16501"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16501",
+    "http://www.frankgarner.org/"
    ],
-   "photoUrl": "http://leg.mt.gov/images/legislators_64th/16501.jpg"
+   "photoUrl": "http://leg.mt.gov/images/legislators_64th/16501.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "FrankGarnerForHouseDistrict7"
+    }
+   ]
   },
   {
    "name": "Steve Lavin",
@@ -16993,6 +17469,16 @@
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/12558.jpg",
    "emails": [
     "stevelavin4hd8@gmail.com"
+   ],
+   "channels": [
+    {
+     "type": "Twitter",
+     "id": "lavinders"
+    },
+    {
+     "type": "Facebook",
+     "id": "steve.lavin.3"
+    }
    ]
   },
   {
@@ -17021,7 +17507,8 @@
     "(406) 751-1612"
    ],
    "urls": [
-    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12557"
+    "http://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=12557",
+    "http://randybrodehl.com/"
    ],
    "photoUrl": "http://leg.mt.gov/images/legislators_64th/12557.jpg",
    "emails": [
@@ -17730,6 +18217,9 @@
    "phones": [
     "(406) 444-2040"
    ],
+   "urls": [
+    "http://sao.mt.gov/"
+   ],
    "channels": [
     {
      "type": "Facebook",
@@ -18209,6 +18699,9 @@
    "party": "Unknown",
    "phones": [
     "(406) 563-4000"
+   ],
+   "urls": [
+    "http://anacondadeerlodge.mt.gov/departments/chief_exec.aspx"
    ]
   },
   {
@@ -18345,9 +18838,6 @@
    "phones": [
     "(406) 436-2365"
    ],
-   "urls": [
-    "http://prco.mt.gov/departments/attorney.asp"
-   ],
    "emails": [
     "prcoattorney@rangeweb.net"
    ]
@@ -18401,9 +18891,6 @@
    "party": "Unknown",
    "phones": [
     "(406) 436-2503"
-   ],
-   "urls": [
-    "http://prco.mt.gov/departments/JusticeOfPeace.asp"
    ],
    "emails": [
     "mwilson3@mt.gov"
@@ -21117,9 +21604,6 @@
    "phones": [
     "(406) 665-9830"
    ],
-   "urls": [
-    "http://bighorn.mt.gov/treasurer.htm"
-   ],
    "emails": [
     "jguptill@co.bighorn.mt.us"
    ]
@@ -22710,9 +23194,6 @@
    "phones": [
     "(406) 375-6710"
    ],
-   "urls": [
-    "http://www.rc.mt.gov/clerkofcourt/default.mcpx"
-   ],
    "emails": [
     "ptrautwein@rc.mt.gov"
    ]
@@ -22751,6 +23232,9 @@
    "party": "Unknown",
    "phones": [
     "(406) 375-6555"
+   ],
+   "urls": [
+    "http://www.rc.mt.gov/clerkrecorder/default.mcpx"
    ],
    "emails": [
     "recorder@rc.mt.gov"
@@ -23696,6 +24180,9 @@
    "party": "Nonpartisan",
    "phones": [
     "(406) 563-9842"
+   ],
+   "urls": [
+    "http://anacondadeerlodge.mt.gov/commissioners/vermeire.aspx"
    ]
   },
   {
@@ -23711,9 +24198,6 @@
    "party": "Nonpartisan",
    "phones": [
     "(406) 563-2436"
-   ],
-   "urls": [
-    "http://anacondadeerlodge.mt.gov/commissioners/mulvey.aspx"
    ]
   },
   {
@@ -23747,9 +24231,6 @@
    "party": "Nonpartisan",
    "phones": [
     "(406) 560-2034"
-   ],
-   "urls": [
-    "http://anacondadeerlodge.mt.gov/commissioners/smith.aspx"
    ]
   },
   {
@@ -23765,6 +24246,9 @@
    "party": "Nonpartisan",
    "phones": [
     "(406) 563-3766"
+   ],
+   "urls": [
+    "http://anacondadeerlodge.mt.gov/commissioners/lux-burt.aspx"
    ]
   },
   {
@@ -24267,9 +24751,6 @@
    "phones": [
     "(406) 635-5575"
    ],
-   "urls": [
-    "http://prairie.mt.gov/pages/clerk_recorder.htm"
-   ],
    "emails": [
     "clerkrecorder@prairie.mt.gov"
    ]
@@ -24518,6 +24999,9 @@
    "party": "Unknown",
    "phones": [
     "(406) 843-4230"
+   ],
+   "urls": [
+    "http://madison.mt.gov/departments/clerk_dcourt/clerk_dcourt.asp"
    ],
    "emails": [
     "bubailey@mt.gov"

@@ -31,20 +31,20 @@
   "ocd-division/country:us/state:al/county:fayette/precinct:401-stough": {
    "name": "Fayette County Precinct 401-Stough"
   },
-  "ocd-division/country:us/state:al/county:jackson/precinct:240": {
-   "name": "Jackson County Precinct 240"
-  },
   "ocd-division/country:us/state:al/county:cullman/precinct:250": {
    "name": "Cullman County Precinct 250"
+  },
+  "ocd-division/country:us/state:al/county:jackson/precinct:240": {
+   "name": "Jackson County Precinct 240"
   },
   "ocd-division/country:us/state:al/county:pickens/precinct:2200": {
    "name": "Pickens County Precinct 2200"
   },
-  "ocd-division/country:us/state:al/county:geneva/precinct:101-geneva_county_courthouse": {
-   "name": "Geneva County Precinct 101-Geneva County Courthouse"
-  },
   "ocd-division/country:us/state:al/county:monroe/precinct:602-antioch_bap_ch_3": {
    "name": "Monroe County Precinct 602-Antioch Bap Ch 3"
+  },
+  "ocd-division/country:us/state:al/county:geneva/precinct:101-geneva_county_courthouse": {
+   "name": "Geneva County Precinct 101-Geneva County Courthouse"
   },
   "ocd-division/country:us/state:al/county:mobile": {
    "name": "Mobile County",
@@ -74,11 +74,11 @@
   "ocd-division/country:us/state:al/county:jefferson/precinct:2040": {
    "name": "Jefferson County Precinct 2040"
   },
-  "ocd-division/country:us/state:al/county:fayette/precinct:1701-stonewall~cannan_comm_ctr": {
-   "name": "Fayette County Precinct 1701-Stonewall/Cannan Comm Ctr"
-  },
   "ocd-division/country:us/state:al/county:monroe/precinct:308-mnvill_hous_auth": {
    "name": "Monroe County Precinct 308-Mnvill Hous Auth"
+  },
+  "ocd-division/country:us/state:al/county:fayette/precinct:1701-stonewall~cannan_comm_ctr": {
+   "name": "Fayette County Precinct 1701-Stonewall/Cannan Comm Ctr"
   },
   "ocd-division/country:us/state:al/county:cullman/precinct:260": {
    "name": "Cullman County Precinct 260"
@@ -170,11 +170,11 @@
   "ocd-division/country:us/state:al/county:lawrence/precinct:21-1": {
    "name": "Lawrence County Precinct 21-1"
   },
-  "ocd-division/country:us/state:al/county:jackson/precinct:210": {
-   "name": "Jackson County Precinct 210"
-  },
   "ocd-division/country:us/state:al/county:jefferson/precinct:3190": {
    "name": "Jefferson County Precinct 3190"
+  },
+  "ocd-division/country:us/state:al/county:jackson/precinct:210": {
+   "name": "Jackson County Precinct 210"
   },
   "ocd-division/country:us/state:al/place:faunsdale": {
    "name": "Faunsdale town"
@@ -190,11 +190,11 @@
     173
    ]
   },
-  "ocd-division/country:us/state:al/county:cullman/precinct:240": {
-   "name": "Cullman County Precinct 240"
-  },
   "ocd-division/country:us/state:al/county:monroe/precinct:802-lptr_pacben_fd": {
    "name": "Monroe County Precinct 802-Lptr Pacben Fd"
+  },
+  "ocd-division/country:us/state:al/county:cullman/precinct:240": {
+   "name": "Cullman County Precinct 240"
   },
   "ocd-division/country:us/state:al/county:walker/precinct:1301": {
    "name": "Walker County Precinct 1301"
@@ -202,11 +202,11 @@
   "ocd-division/country:us/state:al/county:madison/precinct:90-st_john~s_catholic_church": {
    "name": "Madison County Precinct 90-St John'S Catholic Church"
   },
-  "ocd-division/country:us/state:al/county:jackson/precinct:290": {
-   "name": "Jackson County Precinct 290"
-  },
   "ocd-division/country:us/state:al/county:dallas/precinct:9544-queen_of_peace": {
    "name": "Dallas County Precinct 9544-Queen Of Peace"
+  },
+  "ocd-division/country:us/state:al/county:jackson/precinct:290": {
+   "name": "Jackson County Precinct 290"
   },
   "ocd-division/country:us/state:al/place:hokes_bluff": {
    "name": "Hokes Bluff city"
@@ -235,11 +235,11 @@
   "ocd-division/country:us/state:al/county:covington/precinct:100": {
    "name": "Covington County Precinct 100"
   },
-  "ocd-division/country:us/state:al/county:jackson/precinct:280": {
-   "name": "Jackson County Precinct 280"
-  },
   "ocd-division/country:us/state:al/county:calhoun/precinct:1508": {
    "name": "Calhoun County Precinct 1508"
+  },
+  "ocd-division/country:us/state:al/county:jackson/precinct:280": {
+   "name": "Jackson County Precinct 280"
   },
   "ocd-division/country:us/state:al/county:calhoun/precinct:1509": {
    "name": "Calhoun County Precinct 1509"
@@ -256,11 +256,11 @@
   "ocd-division/country:us/state:al/county:calhoun/precinct:1504": {
    "name": "Calhoun County Precinct 1504"
   },
-  "ocd-division/country:us/state:al/county:jackson/precinct:270": {
-   "name": "Jackson County Precinct 270"
-  },
   "ocd-division/country:us/state:al/county:calhoun/precinct:1503": {
    "name": "Calhoun County Precinct 1503"
+  },
+  "ocd-division/country:us/state:al/county:jackson/precinct:270": {
+   "name": "Jackson County Precinct 270"
   },
   "ocd-division/country:us/state:al/county:calhoun/precinct:1502": {
    "name": "Calhoun County Precinct 1502"
@@ -280,11 +280,11 @@
   "ocd-division/country:us/state:al/county:chambers/precinct:808": {
    "name": "Chambers County Precinct 808"
   },
-  "ocd-division/country:us/state:al/county:dale/school_district:ozark_city": {
-   "name": "ozark city"
-  },
   "ocd-division/country:us/state:al/county:chambers/precinct:807": {
    "name": "Chambers County Precinct 807"
+  },
+  "ocd-division/country:us/state:al/county:dale/school_district:ozark_city": {
+   "name": "ozark city"
   },
   "ocd-division/country:us/state:al/county:chambers/precinct:804": {
    "name": "Chambers County Precinct 804"
@@ -304,11 +304,11 @@
   "ocd-division/country:us/state:al/county:chambers/precinct:801": {
    "name": "Chambers County Precinct 801"
   },
-  "ocd-division/country:us/state:al/county:calhoun/precinct:1510": {
-   "name": "Calhoun County Precinct 1510"
-  },
   "ocd-division/country:us/state:al/county:sumter/precinct:313": {
    "name": "Sumter County Precinct 313"
+  },
+  "ocd-division/country:us/state:al/county:calhoun/precinct:1510": {
+   "name": "Calhoun County Precinct 1510"
   },
   "ocd-division/country:us/state:al/county:cullman/precinct:270": {
    "name": "Cullman County Precinct 270"
@@ -358,17 +358,17 @@
   "ocd-division/country:us/state:al/place:arab": {
    "name": "Arab city"
   },
-  "ocd-division/country:us/state:al/county:cullman/precinct:281": {
-   "name": "Cullman County Precinct 281"
-  },
   "ocd-division/country:us/state:al/county:tuscaloosa/precinct:10-kellerman_antioch_baptist": {
    "name": "Tuscaloosa County Precinct 10-Kellerman Antioch Baptist"
   },
-  "ocd-division/country:us/state:al/county:jackson/precinct:250": {
-   "name": "Jackson County Precinct 250"
+  "ocd-division/country:us/state:al/county:cullman/precinct:281": {
+   "name": "Cullman County Precinct 281"
   },
   "ocd-division/country:us/state:al/county:cullman/precinct:282": {
    "name": "Cullman County Precinct 282"
+  },
+  "ocd-division/country:us/state:al/county:jackson/precinct:250": {
+   "name": "Jackson County Precinct 250"
   },
   "ocd-division/country:us/state:al/place:athens": {
    "name": "Athens city"
@@ -376,26 +376,26 @@
   "ocd-division/country:us/state:al/county:jefferson/precinct:2020": {
    "name": "Jefferson County Precinct 2020"
   },
-  "ocd-division/country:us/state:al/place:town_creek": {
-   "name": "Town Creek town"
-  },
   "ocd-division/country:us/state:al/county:mobile/precinct:84-st_phillip_neri_catholic": {
    "name": "Mobile County Precinct 84-St Phillip Neri Catholic"
+  },
+  "ocd-division/country:us/state:al/place:town_creek": {
+   "name": "Town Creek town"
   },
   "ocd-division/country:us/state:al/county:coffee/school_district:coffee_county": {
    "name": "coffee county"
   },
-  "ocd-division/country:us/state:al/county:elmore/precinct:321": {
-   "name": "Elmore County Precinct 321"
-  },
   "ocd-division/country:us/state:al/county:autauga/precinct:20": {
    "name": "Autauga County Precinct 20"
   },
-  "ocd-division/country:us/state:al/county:crenshaw/precinct:120-pleasant_home_school": {
-   "name": "Crenshaw County Precinct 120-Pleasant Home School"
+  "ocd-division/country:us/state:al/county:elmore/precinct:321": {
+   "name": "Elmore County Precinct 321"
   },
   "ocd-division/country:us/state:al/county:shelby/precinct:42": {
    "name": "Shelby County Precinct 42"
+  },
+  "ocd-division/country:us/state:al/county:crenshaw/precinct:120-pleasant_home_school": {
+   "name": "Crenshaw County Precinct 120-Pleasant Home School"
   },
   "ocd-division/country:us/state:al/county:shelby/precinct:41": {
    "name": "Shelby County Precinct 41"
@@ -409,20 +409,20 @@
   "ocd-division/country:us/state:al/county:shelby/precinct:45": {
    "name": "Shelby County Precinct 45"
   },
-  "ocd-division/country:us/state:al/place:hollywood": {
-   "name": "Hollywood town"
-  },
   "ocd-division/country:us/state:al/county:shelby/precinct:44": {
    "name": "Shelby County Precinct 44"
+  },
+  "ocd-division/country:us/state:al/place:hollywood": {
+   "name": "Hollywood town"
   },
   "ocd-division/country:us/state:al/county:shelby/precinct:43": {
    "name": "Shelby County Precinct 43"
   },
-  "ocd-division/country:us/state:al/county:houston/precinct:111-bay_springs_vol_fire_dept": {
-   "name": "Houston County Precinct 111-Bay Springs Vol Fire Dept"
-  },
   "ocd-division/country:us/state:al/county:lamar/precinct:2301": {
    "name": "Lamar County Precinct 2301"
+  },
+  "ocd-division/country:us/state:al/county:houston/precinct:111-bay_springs_vol_fire_dept": {
+   "name": "Houston County Precinct 111-Bay Springs Vol Fire Dept"
   },
   "ocd-division/country:us/state:al/county:lamar": {
    "name": "Lamar County",
@@ -434,11 +434,11 @@
     178
    ]
   },
-  "ocd-division/country:us/state:al/county:geneva/precinct:91-bellwood_community_center": {
-   "name": "Geneva County Precinct 91-Bellwood Community Center"
-  },
   "ocd-division/country:us/state:al/county:shelby/precinct:47": {
    "name": "Shelby County Precinct 47"
+  },
+  "ocd-division/country:us/state:al/county:geneva/precinct:91-bellwood_community_center": {
+   "name": "Geneva County Precinct 91-Bellwood Community Center"
   },
   "ocd-division/country:us/state:al/place:midland_city": {
    "name": "Midland City town"
@@ -470,11 +470,11 @@
   "ocd-division/country:us/state:al/county:madison/precinct:35-first_missionary_baptist_churc": {
    "name": "Madison County Precinct 35-First Missionary Baptist Churc"
   },
-  "ocd-division/country:us/state:al/county:lauderdale/precinct:106-central_baptist_church": {
-   "name": "Lauderdale County Precinct 106-Central Baptist Church"
-  },
   "ocd-division/country:us/state:al/county:mobile/precinct:77-cypress_shores_baptist": {
    "name": "Mobile County Precinct 77-Cypress Shores Baptist"
+  },
+  "ocd-division/country:us/state:al/county:lauderdale/precinct:106-central_baptist_church": {
+   "name": "Lauderdale County Precinct 106-Central Baptist Church"
   },
   "ocd-division/country:us/state:al/place:citronelle": {
    "name": "Citronelle city"
@@ -491,20 +491,20 @@
   "ocd-division/country:us/state:al/place:sheffield": {
    "name": "Sheffield city"
   },
-  "ocd-division/country:us/state:al/county:houston/precinct:147-cowarts_town_hall": {
-   "name": "Houston County Precinct 147-Cowarts Town Hall"
-  },
   "ocd-division/country:us/state:al/county:perry/precinct:130": {
    "name": "Perry County Precinct 130"
+  },
+  "ocd-division/country:us/state:al/county:houston/precinct:147-cowarts_town_hall": {
+   "name": "Houston County Precinct 147-Cowarts Town Hall"
   },
   "ocd-division/country:us/state:al/county:shelby/precinct:24": {
    "name": "Shelby County Precinct 24"
   },
-  "ocd-division/country:us/state:al/place:rockford": {
-   "name": "Rockford town"
-  },
   "ocd-division/country:us/state:al/county:shelby/precinct:23": {
    "name": "Shelby County Precinct 23"
+  },
+  "ocd-division/country:us/state:al/place:rockford": {
+   "name": "Rockford town"
   },
   "ocd-division/country:us/state:al/county:shelby/precinct:22": {
    "name": "Shelby County Precinct 22"
@@ -548,14 +548,14 @@
   "ocd-division/country:us/state:al/county:lawrence/precinct:15-1": {
    "name": "Lawrence County Precinct 15-1"
   },
-  "ocd-division/country:us/state:al/place:glen_allen": {
-   "name": "Glen Allen town"
+  "ocd-division/country:us/state:al/county:mobile/precinct:65-living_word_church": {
+   "name": "Mobile County Precinct 65-Living Word Church"
   },
   "ocd-division/country:us/state:al/county:elmore/precinct:311": {
    "name": "Elmore County Precinct 311"
   },
-  "ocd-division/country:us/state:al/county:mobile/precinct:65-living_word_church": {
-   "name": "Mobile County Precinct 65-Living Word Church"
+  "ocd-division/country:us/state:al/place:glen_allen": {
+   "name": "Glen Allen town"
   },
   "ocd-division/country:us/state:al/county:shelby/precinct:33": {
    "name": "Shelby County Precinct 33"
@@ -569,21 +569,24 @@
   "ocd-division/country:us/state:al/county:shelby/precinct:34": {
    "name": "Shelby County Precinct 34"
   },
-  "ocd-division/country:us/state:al/county:marshall/council_district:4": {
-   "name": "Marshall County Commission District 4",
-   "officeIndices": [
-    179
-   ]
-  },
   "ocd-division/country:us/state:al/county:monroe": {
    "name": "Monroe County",
    "officeIndices": [
+    179,
     180,
     181,
     182,
-    183,
+    183
+   ]
+  },
+  "ocd-division/country:us/state:al/county:marshall/council_district:4": {
+   "name": "Marshall County Commission District 4",
+   "officeIndices": [
     184
    ]
+  },
+  "ocd-division/country:us/state:al/county:shelby/precinct:31": {
+   "name": "Shelby County Precinct 31"
   },
   "ocd-division/country:us/state:al/county:marshall/council_district:3": {
    "name": "Marshall County Commission District 3",
@@ -591,17 +594,14 @@
     185
    ]
   },
-  "ocd-division/country:us/state:al/county:shelby/precinct:31": {
-   "name": "Shelby County Precinct 31"
+  "ocd-division/country:us/state:al/county:shelby/precinct:30": {
+   "name": "Shelby County Precinct 30"
   },
   "ocd-division/country:us/state:al/county:marshall/council_district:2": {
    "name": "Marshall County Commission District 2",
    "officeIndices": [
     186
    ]
-  },
-  "ocd-division/country:us/state:al/county:shelby/precinct:30": {
-   "name": "Shelby County Precinct 30"
   },
   "ocd-division/country:us/state:al/county:marshall/council_district:1": {
    "name": "Marshall County Commission District 1",
@@ -612,11 +612,11 @@
   "ocd-division/country:us/state:al/county:shelby/precinct:37": {
    "name": "Shelby County Precinct 37"
   },
-  "ocd-division/country:us/state:al/county:jefferson/precinct:3100": {
-   "name": "Jefferson County Precinct 3100"
-  },
   "ocd-division/country:us/state:al/county:shelby/precinct:36": {
    "name": "Shelby County Precinct 36"
+  },
+  "ocd-division/country:us/state:al/county:jefferson/precinct:3100": {
+   "name": "Jefferson County Precinct 3100"
   },
   "ocd-division/country:us/state:al/county:shelby/precinct:39": {
    "name": "Shelby County Precinct 39"
@@ -984,11 +984,11 @@
   "ocd-division/country:us/state:al/county:dale/precinct:500": {
    "name": "Dale County Precinct 500"
   },
-  "ocd-division/country:us/state:al/county:houston/precinct:281-madrid_senior_center": {
-   "name": "Houston County Precinct 281-Madrid Senior Center"
-  },
   "ocd-division/country:us/state:al/county:clay/precinct:1301": {
    "name": "Clay County Precinct 1301"
+  },
+  "ocd-division/country:us/state:al/county:houston/precinct:281-madrid_senior_center": {
+   "name": "Houston County Precinct 281-Madrid Senior Center"
   },
   "ocd-division/country:us/state:al/county:lamar/precinct:701": {
    "name": "Lamar County Precinct 701"
@@ -1011,11 +1011,11 @@
   "ocd-division/country:us/state:al/county:lowndes/precinct:61": {
    "name": "Lowndes County Precinct 61"
   },
-  "ocd-division/country:us/state:al/county:madison/precinct:60-triana_city_hall": {
-   "name": "Madison County Precinct 60-Triana City Hall"
-  },
   "ocd-division/country:us/state:al/place:cherokee": {
    "name": "Cherokee town"
+  },
+  "ocd-division/country:us/state:al/county:madison/precinct:60-triana_city_hall": {
+   "name": "Madison County Precinct 60-Triana City Hall"
   },
   "ocd-division/country:us/state:al/place:pleasant_grove": {
    "name": "Pleasant Grove city"
@@ -1035,11 +1035,11 @@
   "ocd-division/country:us/state:al/county:walker/precinct:2001": {
    "name": "Walker County Precinct 2001"
   },
-  "ocd-division/country:us/state:al/place:roanoke": {
-   "name": "Roanoke city"
-  },
   "ocd-division/country:us/state:al/county:conecuh/precinct:81": {
    "name": "Conecuh County Precinct 81"
+  },
+  "ocd-division/country:us/state:al/place:roanoke": {
+   "name": "Roanoke city"
   },
   "ocd-division/country:us/state:al/county:madison/precinct:76-first_baptists_church_m~ville": {
    "name": "Madison County Precinct 76-First Baptists Church M'Ville"
@@ -1056,11 +1056,11 @@
   "ocd-division/country:us/state:al/county:tuscaloosa/precinct:35-unity_baptist_church": {
    "name": "Tuscaloosa County Precinct 35-Unity Baptist Church"
   },
-  "ocd-division/country:us/state:al/county:etowah/precinct:102-elliott_community_center": {
-   "name": "Etowah County Precinct 102-Elliott Community Center"
-  },
   "ocd-division/country:us/state:al/county:shelby/precinct:18": {
    "name": "Shelby County Precinct 18"
+  },
+  "ocd-division/country:us/state:al/county:etowah/precinct:102-elliott_community_center": {
+   "name": "Etowah County Precinct 102-Elliott Community Center"
   },
   "ocd-division/country:us/state:al/county:shelby/precinct:19": {
    "name": "Shelby County Precinct 19"
@@ -1071,11 +1071,11 @@
   "ocd-division/country:us/state:al/county:shelby/precinct:17": {
    "name": "Shelby County Precinct 17"
   },
-  "ocd-division/country:us/state:al/county:shelby/precinct:14": {
-   "name": "Shelby County Precinct 14"
-  },
   "ocd-division/country:us/state:al/county:tuscaloosa/precinct:26-jaycee_park_boys_club": {
    "name": "Tuscaloosa County Precinct 26-Jaycee Park (Boys Club)"
+  },
+  "ocd-division/country:us/state:al/county:shelby/precinct:14": {
+   "name": "Shelby County Precinct 14"
   },
   "ocd-division/country:us/state:al/county:shelby/precinct:15": {
    "name": "Shelby County Precinct 15"
@@ -1086,11 +1086,11 @@
   "ocd-division/country:us/state:al/county:shelby/precinct:13": {
    "name": "Shelby County Precinct 13"
   },
-  "ocd-division/country:us/state:al/county:madison/precinct:80-county_commission_dist_1_ofc": {
-   "name": "Madison County Precinct 80-County Commission Dist 1 Ofc"
-  },
   "ocd-division/country:us/state:al/county:shelby/precinct:10": {
    "name": "Shelby County Precinct 10"
+  },
+  "ocd-division/country:us/state:al/county:madison/precinct:80-county_commission_dist_1_ofc": {
+   "name": "Madison County Precinct 80-County Commission Dist 1 Ofc"
   },
   "ocd-division/country:us/state:al/county:shelby/precinct:11": {
    "name": "Shelby County Precinct 11"
@@ -1098,11 +1098,11 @@
   "ocd-division/country:us/state:al/county:elmore/precinct:261": {
    "name": "Elmore County Precinct 261"
   },
-  "ocd-division/country:us/state:al/county:baldwin/precinct:160": {
-   "name": "Baldwin County Precinct 160"
-  },
   "ocd-division/country:us/state:al/place:dodge_city": {
    "name": "Dodge City town"
+  },
+  "ocd-division/country:us/state:al/county:baldwin/precinct:160": {
+   "name": "Baldwin County Precinct 160"
   },
   "ocd-division/country:us/state:al/county:chambers/precinct:301": {
    "name": "Chambers County Precinct 301"
@@ -1122,14 +1122,14 @@
   "ocd-division/country:us/state:al/place:lanett": {
    "name": "Lanett city"
   },
-  "ocd-division/country:us/state:al/county:chambers/precinct:311": {
-   "name": "Chambers County Precinct 311"
-  },
   "ocd-division/country:us/state:al/county:lowndes/council_district:1": {
    "name": "Lowndes County Commission District 1",
    "officeIndices": [
     207
    ]
+  },
+  "ocd-division/country:us/state:al/county:chambers/precinct:311": {
+   "name": "Chambers County Precinct 311"
   },
   "ocd-division/country:us/state:al/county:baldwin/precinct:150": {
    "name": "Baldwin County Precinct 150"
@@ -1149,14 +1149,14 @@
     209
    ]
   },
+  "ocd-division/country:us/state:al/county:lowndes/precinct:91": {
+   "name": "Lowndes County Precinct 91"
+  },
   "ocd-division/country:us/state:al/county:lowndes/council_district:5": {
    "name": "Lowndes County Commission District 5",
    "officeIndices": [
     210
    ]
-  },
-  "ocd-division/country:us/state:al/county:lowndes/precinct:91": {
-   "name": "Lowndes County Precinct 91"
   },
   "ocd-division/country:us/state:al/county:lowndes/council_district:4": {
    "name": "Lowndes County Commission District 4",
@@ -1200,11 +1200,11 @@
   "ocd-division/country:us/state:al/circuit_court:17": {
    "name": "AL State Circuit Court - 17th District"
   },
-  "ocd-division/country:us/state:al/county:elmore/precinct:231": {
-   "name": "Elmore County Precinct 231"
-  },
   "ocd-division/country:us/state:al/circuit_court:18": {
    "name": "AL State Circuit Court - 18th District"
+  },
+  "ocd-division/country:us/state:al/county:elmore/precinct:231": {
+   "name": "Elmore County Precinct 231"
   },
   "ocd-division/country:us/state:al/circuit_court:10": {
    "name": "AL State Circuit Court - 10th District"
@@ -1212,11 +1212,11 @@
   "ocd-division/country:us/state:al/county:baldwin/precinct:130": {
    "name": "Baldwin County Precinct 130"
   },
-  "ocd-division/country:us/state:al/place:mulga": {
-   "name": "Mulga town"
-  },
   "ocd-division/country:us/state:al/county:henry/precinct:421": {
    "name": "Henry County Precinct 421"
+  },
+  "ocd-division/country:us/state:al/place:mulga": {
+   "name": "Mulga town"
   },
   "ocd-division/country:us/state:al/circuit_court:19": {
    "name": "AL State Circuit Court - 19th District"
@@ -1224,14 +1224,11 @@
   "ocd-division/country:us/state:al/circuit_court:24": {
    "name": "AL State Circuit Court - 24th District"
   },
-  "ocd-division/country:us/state:al/circuit_court:25": {
-   "name": "AL State Circuit Court - 25th District"
-  },
   "ocd-division/country:us/state:al/county:choctaw/precinct:131-butler": {
    "name": "Choctaw County Precinct 131-Butler"
   },
-  "ocd-division/country:us/state:al/circuit_court:22": {
-   "name": "AL State Circuit Court - 22nd District"
+  "ocd-division/country:us/state:al/circuit_court:25": {
+   "name": "AL State Circuit Court - 25th District"
   },
   "ocd-division/country:us/state:al/county:wilcox/council_district:1": {
    "name": "Wilcox County Commission District 1",
@@ -1239,17 +1236,20 @@
     212
    ]
   },
-  "ocd-division/country:us/state:al/county:elmore/precinct:222": {
-   "name": "Elmore County Precinct 222"
+  "ocd-division/country:us/state:al/circuit_court:22": {
+   "name": "AL State Circuit Court - 22nd District"
   },
   "ocd-division/country:us/state:al/circuit_court:23": {
    "name": "AL State Circuit Court - 23rd District"
   },
-  "ocd-division/country:us/state:al/county:elmore/precinct:221": {
-   "name": "Elmore County Precinct 221"
+  "ocd-division/country:us/state:al/county:elmore/precinct:222": {
+   "name": "Elmore County Precinct 222"
   },
   "ocd-division/country:us/state:al/circuit_court:28": {
    "name": "AL State Circuit Court - 28th District"
+  },
+  "ocd-division/country:us/state:al/county:elmore/precinct:221": {
+   "name": "Elmore County Precinct 221"
   },
   "ocd-division/country:us/state:al/county:wilcox/council_district:3": {
    "name": "Wilcox County Commission District 3",
@@ -2344,32 +2344,32 @@
   "ocd-division/country:us/state:al/county:randolph/precinct:10": {
    "name": "Randolph County Precinct 10"
   },
-  "ocd-division/country:us/state:al/county:monroe/precinct:1201-mcmidlones_cc": {
-   "name": "Monroe County Precinct 1201-Mcmidlones Cc"
-  },
   "ocd-division/country:us/state:al/county:randolph/precinct:11": {
    "name": "Randolph County Precinct 11"
+  },
+  "ocd-division/country:us/state:al/county:monroe/precinct:1201-mcmidlones_cc": {
+   "name": "Monroe County Precinct 1201-Mcmidlones Cc"
   },
   "ocd-division/country:us/state:al/county:randolph/precinct:12": {
    "name": "Randolph County Precinct 12"
   },
-  "ocd-division/country:us/state:al/county:jefferson/precinct:3240": {
-   "name": "Jefferson County Precinct 3240"
+  "ocd-division/country:us/state:al/county:randolph/precinct:13": {
+   "name": "Randolph County Precinct 13"
   },
   "ocd-division/country:us/state:al/county:pike/school_district:troy_city": {
    "name": "troy city"
   },
-  "ocd-division/country:us/state:al/county:randolph/precinct:13": {
-   "name": "Randolph County Precinct 13"
+  "ocd-division/country:us/state:al/county:jefferson/precinct:3240": {
+   "name": "Jefferson County Precinct 3240"
   },
-  "ocd-division/country:us/state:al/county:dale/precinct:300": {
-   "name": "Dale County Precinct 300"
+  "ocd-division/country:us/state:al/county:randolph/precinct:14": {
+   "name": "Randolph County Precinct 14"
   },
   "ocd-division/country:us/state:al/county:marion/school_district:marion_county": {
    "name": "marion county"
   },
-  "ocd-division/country:us/state:al/county:randolph/precinct:14": {
-   "name": "Randolph County Precinct 14"
+  "ocd-division/country:us/state:al/county:dale/precinct:300": {
+   "name": "Dale County Precinct 300"
   },
   "ocd-division/country:us/state:al/place:waterloo": {
    "name": "Waterloo town"
@@ -2377,11 +2377,11 @@
   "ocd-division/country:us/state:al/county:bibb/school_district:boyd_school": {
    "name": "boyd school"
   },
-  "ocd-division/country:us/state:al/county:calhoun/school_district:anniston_city": {
-   "name": "anniston city"
-  },
   "ocd-division/country:us/state:al/county:pike/precinct:26-antioch": {
    "name": "Pike County Precinct 26-Antioch"
+  },
+  "ocd-division/country:us/state:al/county:calhoun/school_district:anniston_city": {
+   "name": "anniston city"
   },
   "ocd-division/country:us/state:al/county:perry/precinct:73": {
    "name": "Perry County Precinct 73"
@@ -2432,14 +2432,17 @@
   "ocd-division/country:us/state:al/county:henry/precinct:1041": {
    "name": "Henry County Precinct 1041"
   },
-  "ocd-division/country:us/state:al/county:cullman/precinct:100": {
-   "name": "Cullman County Precinct 100"
-  },
   "ocd-division/country:us/state:al/county:washington/precinct:91-yellowpine": {
    "name": "Washington County Precinct 91-Yellowpine"
   },
+  "ocd-division/country:us/state:al/county:cullman/precinct:100": {
+   "name": "Cullman County Precinct 100"
+  },
   "ocd-division/country:us/state:al/county:perry/precinct:80": {
    "name": "Perry County Precinct 80"
+  },
+  "ocd-division/country:us/state:al/county:blount/precinct:1601": {
+   "name": "Blount County Precinct 1601"
   },
   "ocd-division/country:us/state:al/county:houston/council_district:4": {
    "name": "Houston County Commission District 4",
@@ -2447,14 +2450,14 @@
     285
    ]
   },
-  "ocd-division/country:us/state:al/county:blount/precinct:1601": {
-   "name": "Blount County Precinct 1601"
-  },
   "ocd-division/country:us/state:al/county:houston/council_district:2": {
    "name": "Houston County Commission District 2",
    "officeIndices": [
     286
    ]
+  },
+  "ocd-division/country:us/state:al/county:monroe/precinct:343-mnvill_hous_auth": {
+   "name": "Monroe County Precinct 343-Mnvill Hous Auth"
   },
   "ocd-division/country:us/state:al/county:houston/council_district:3": {
    "name": "Houston County Commission District 3",
@@ -2462,17 +2465,14 @@
     287
    ]
   },
-  "ocd-division/country:us/state:al/county:monroe/precinct:343-mnvill_hous_auth": {
-   "name": "Monroe County Precinct 343-Mnvill Hous Auth"
-  },
-  "ocd-division/country:us/state:al/place:lake_view": {
-   "name": "Lake View town"
-  },
   "ocd-division/country:us/state:al/county:houston/council_district:1": {
    "name": "Houston County Commission District 1",
    "officeIndices": [
     288
    ]
+  },
+  "ocd-division/country:us/state:al/place:lake_view": {
+   "name": "Lake View town"
   },
   "ocd-division/country:us/state:al/county:cherokee/precinct:111": {
    "name": "Cherokee County Precinct 111"
@@ -2483,17 +2483,17 @@
   "ocd-division/country:us/state:al/place:gu-win": {
    "name": "Gu-Win town"
   },
-  "ocd-division/country:us/state:al/county:marshall/precinct:71": {
-   "name": "Marshall County Precinct 71"
-  },
   "ocd-division/country:us/state:al/county:russell/precinct:101": {
    "name": "Russell County Precinct 101"
   },
-  "ocd-division/country:us/state:al/county:elmore/precinct:161": {
-   "name": "Elmore County Precinct 161"
+  "ocd-division/country:us/state:al/county:marshall/precinct:71": {
+   "name": "Marshall County Precinct 71"
   },
   "ocd-division/country:us/state:al/place:colony": {
    "name": "Colony town"
+  },
+  "ocd-division/country:us/state:al/county:elmore/precinct:161": {
+   "name": "Elmore County Precinct 161"
   },
   "ocd-division/country:us/state:al/county:monroe/precinct:322-mexia_fir_statio": {
    "name": "Monroe County Precinct 322-Mexia Fir Statio"
@@ -2501,11 +2501,11 @@
   "ocd-division/country:us/state:al/county:houston/precinct:213-hodgesville_vol_fire_dept": {
    "name": "Houston County Precinct 213-Hodgesville Vol Fire Dept"
   },
-  "ocd-division/country:us/state:al/county:chambers/precinct:201": {
-   "name": "Chambers County Precinct 201"
-  },
   "ocd-division/country:us/state:al/county:calhoun/precinct:201": {
    "name": "Calhoun County Precinct 201"
+  },
+  "ocd-division/country:us/state:al/county:chambers/precinct:201": {
+   "name": "Chambers County Precinct 201"
   },
   "ocd-division/country:us/state:al/county:jefferson/precinct:1050": {
    "name": "Jefferson County Precinct 1050"
@@ -2516,11 +2516,11 @@
   "ocd-division/country:us/state:al/county:choctaw/precinct:3-pelham": {
    "name": "Choctaw County Precinct 3-Pelham"
   },
-  "ocd-division/country:us/state:al/county:elmore/precinct:151": {
-   "name": "Elmore County Precinct 151"
-  },
   "ocd-division/country:us/state:al/county:marshall/precinct:81": {
    "name": "Marshall County Precinct 81"
+  },
+  "ocd-division/country:us/state:al/county:elmore/precinct:151": {
+   "name": "Elmore County Precinct 151"
   },
   "ocd-division/country:us/state:al/place:epes": {
    "name": "Epes town"
@@ -2537,23 +2537,23 @@
   "ocd-division/country:us/state:al/county:choctaw/precinct:29-gilbertown": {
    "name": "Choctaw County Precinct 29-Gilbertown"
   },
-  "ocd-division/country:us/state:al/place:onycha": {
-   "name": "Onycha town"
-  },
   "ocd-division/country:us/state:al/county:jefferson/precinct:1040": {
    "name": "Jefferson County Precinct 1040"
+  },
+  "ocd-division/country:us/state:al/place:onycha": {
+   "name": "Onycha town"
   },
   "ocd-division/country:us/state:al/county:marshall/precinct:51": {
    "name": "Marshall County Precinct 51"
   },
-  "ocd-division/country:us/state:al/county:etowah/precinct:1101-reece_city_town_hall": {
-   "name": "Etowah County Precinct 1101-Reece City Town Hall"
+  "ocd-division/country:us/state:al/county:talladega/school_district:al_inst_deaf_and_blind": {
+   "name": "al inst deaf and blind"
   },
   "ocd-division/country:us/state:al/county:elmore/precinct:181": {
    "name": "Elmore County Precinct 181"
   },
-  "ocd-division/country:us/state:al/county:talladega/school_district:al_inst_deaf_and_blind": {
-   "name": "al inst deaf and blind"
+  "ocd-division/country:us/state:al/county:etowah/precinct:1101-reece_city_town_hall": {
+   "name": "Etowah County Precinct 1101-Reece City Town Hall"
   },
   "ocd-division/country:us/state:al/county:mobile/precinct:40-st_ignatius_marion_ctr": {
    "name": "Mobile County Precinct 40-St Ignatius Marion Ctr"
@@ -2561,26 +2561,26 @@
   "ocd-division/country:us/state:al/county:clarke/precinct:111": {
    "name": "Clarke County Precinct 111"
   },
-  "ocd-division/country:us/state:al/county:houston/precinct:103-ashford_depot": {
-   "name": "Houston County Precinct 103-Ashford Depot"
-  },
   "ocd-division/country:us/state:al/county:choctaw/precinct:46-ararat": {
    "name": "Choctaw County Precinct 46-Ararat"
+  },
+  "ocd-division/country:us/state:al/county:houston/precinct:103-ashford_depot": {
+   "name": "Houston County Precinct 103-Ashford Depot"
   },
   "ocd-division/country:us/state:al/county:marshall/precinct:46": {
    "name": "Marshall County Precinct 46"
   },
-  "ocd-division/country:us/state:al/county:marshall/precinct:47": {
-   "name": "Marshall County Precinct 47"
-  },
   "ocd-division/country:us/state:al/place:beaverton": {
    "name": "Beaverton town"
   },
-  "ocd-division/country:us/state:al/county:clarke/precinct:112": {
-   "name": "Clarke County Precinct 112"
+  "ocd-division/country:us/state:al/county:marshall/precinct:47": {
+   "name": "Marshall County Precinct 47"
   },
   "ocd-division/country:us/state:al/county:marshall/precinct:44": {
    "name": "Marshall County Precinct 44"
+  },
+  "ocd-division/country:us/state:al/county:clarke/precinct:112": {
+   "name": "Clarke County Precinct 112"
   },
   "ocd-division/country:us/state:al/county:marshall/precinct:45": {
    "name": "Marshall County Precinct 45"
@@ -2759,14 +2759,14 @@
     5
    ]
   },
-  "ocd-division/country:us/state:al/place:hartford": {
-   "name": "Hartford city"
-  },
   "ocd-division/country:us/state:al/cd:5": {
    "name": "Alabama's 5th congressional district",
    "officeIndices": [
     6
    ]
+  },
+  "ocd-division/country:us/state:al/place:hartford": {
+   "name": "Hartford city"
   },
   "ocd-division/country:us/state:al/county:elmore/precinct:101": {
    "name": "Elmore County Precinct 101"
@@ -5457,11 +5457,11 @@
   "ocd-division/country:us/state:al/county:jackson/precinct:110": {
    "name": "Jackson County Precinct 110"
   },
-  "ocd-division/country:us/state:al/county:blount/school_district:blount_county": {
-   "name": "blount county"
-  },
   "ocd-division/country:us/state:al/county:mobile/precinct:38-university_ch_of_christ": {
    "name": "Mobile County Precinct 38-University Ch Of Christ"
+  },
+  "ocd-division/country:us/state:al/county:blount/school_district:blount_county": {
+   "name": "blount county"
   },
   "ocd-division/country:us/state:al/county:morgan/precinct:901-union_hill_senior_center": {
    "name": "Morgan County Precinct 901-Union Hill Senior Center"
@@ -5487,20 +5487,20 @@
   "ocd-division/country:us/state:al/county:walker/precinct:3701": {
    "name": "Walker County Precinct 3701"
   },
-  "ocd-division/country:us/state:al/place:new_hope": {
-   "name": "New Hope city"
-  },
   "ocd-division/country:us/state:al/county:mobile/precinct:87-st_micheal_catholic_ch": {
    "name": "Mobile County Precinct 87-St Micheal Catholic Ch"
+  },
+  "ocd-division/country:us/state:al/place:new_hope": {
+   "name": "New Hope city"
   },
   "ocd-division/country:us/state:al/county:jefferson/precinct:1230": {
    "name": "Jefferson County Precinct 1230"
   },
-  "ocd-division/country:us/state:al/county:mobile/precinct:24-azalea_city_ch_of_christ": {
-   "name": "Mobile County Precinct 24-Azalea City Ch Of Christ"
-  },
   "ocd-division/country:us/state:al/county:tuscaloosa/school_district:tuscaloosa_city": {
    "name": "tuscaloosa city"
+  },
+  "ocd-division/country:us/state:al/county:mobile/precinct:24-azalea_city_ch_of_christ": {
+   "name": "Mobile County Precinct 24-Azalea City Ch Of Christ"
   },
   "ocd-division/country:us/state:al/county:chilton/precinct:50": {
    "name": "Chilton County Precinct 50"
@@ -5508,11 +5508,11 @@
   "ocd-division/country:us/state:al/county:tuscaloosa/precinct:52-big_sandy_baptist": {
    "name": "Tuscaloosa County Precinct 52-Big Sandy Baptist"
   },
-  "ocd-division/country:us/state:al/place:robertsdale": {
-   "name": "Robertsdale city"
-  },
   "ocd-division/country:us/state:al/county:jefferson/precinct:1240": {
    "name": "Jefferson County Precinct 1240"
+  },
+  "ocd-division/country:us/state:al/place:robertsdale": {
+   "name": "Robertsdale city"
   },
   "ocd-division/country:us/state:al/county:madison/precinct:89-madison_baptist_church": {
    "name": "Madison County Precinct 89-Madison Baptist Church"
@@ -5538,11 +5538,11 @@
   "ocd-division/country:us/state:al/county:calhoun/precinct:2101": {
    "name": "Calhoun County Precinct 2101"
   },
-  "ocd-division/country:us/state:al/county:jefferson/precinct:1250": {
-   "name": "Jefferson County Precinct 1250"
-  },
   "ocd-division/country:us/state:al/county:washington/precinct:210-carsonprestwi": {
    "name": "Washington County Precinct 210-Carsonprestwi"
+  },
+  "ocd-division/country:us/state:al/county:jefferson/precinct:1250": {
+   "name": "Jefferson County Precinct 1250"
   },
   "ocd-division/country:us/state:al/county:elmore": {
    "name": "Elmore County",
@@ -5560,11 +5560,11 @@
   "ocd-division/country:us/state:al/county:jefferson/precinct:4100": {
    "name": "Jefferson County Precinct 4100"
   },
-  "ocd-division/country:us/state:al/place:hackleburg": {
-   "name": "Hackleburg town"
-  },
   "ocd-division/country:us/state:al/county:calhoun/precinct:1801": {
    "name": "Calhoun County Precinct 1801"
+  },
+  "ocd-division/country:us/state:al/place:hackleburg": {
+   "name": "Hackleburg town"
   },
   "ocd-division/country:us/state:al/county:talladega/school_district:talladega_city": {
    "name": "talladega city"
@@ -5854,11 +5854,11 @@
   "ocd-division/country:us/state:al/place:brighton": {
    "name": "Brighton city"
   },
-  "ocd-division/country:us/state:al/county:choctaw/precinct:121-pushmataha": {
-   "name": "Choctaw County Precinct 121-Pushmataha"
-  },
   "ocd-division/country:us/state:al/place:daphne": {
    "name": "Daphne city"
+  },
+  "ocd-division/country:us/state:al/county:choctaw/precinct:121-pushmataha": {
+   "name": "Choctaw County Precinct 121-Pushmataha"
   },
   "ocd-division/country:us/state:al/county:madison/precinct:4-first_baptist_church": {
    "name": "Madison County Precinct 4-First Baptist Church"
@@ -8143,9 +8143,6 @@
   "ocd-division/country:us/state:al/county:walker/precinct:1901": {
    "name": "Walker County Precinct 1901"
   },
-  "ocd-division/country:us/state:al/county:hale/precinct:51": {
-   "name": "Hale County Precinct 51"
-  },
   "ocd-division/country:us/state:al/county:madison": {
    "name": "Madison County",
    "officeIndices": [
@@ -8158,6 +8155,9 @@
     628,
     629
    ]
+  },
+  "ocd-division/country:us/state:al/county:hale/precinct:51": {
+   "name": "Hale County Precinct 51"
   },
   "ocd-division/country:us/state:al/place:lakeview": {
    "name": "Lakeview town"
@@ -8201,9 +8201,6 @@
   "ocd-division/country:us/state:al/county:monroe/precinct:221": {
    "name": "Monroe County Precinct 221"
   },
-  "ocd-division/country:us/state:al/county:lee/precinct:6-0": {
-   "name": "Lee County Precinct 6-0"
-  },
   "ocd-division/country:us/state:al/county:shelby": {
    "name": "Shelby County",
    "officeIndices": [
@@ -8214,6 +8211,9 @@
     635,
     636
    ]
+  },
+  "ocd-division/country:us/state:al/county:lee/precinct:6-0": {
+   "name": "Lee County Precinct 6-0"
   },
   "ocd-division/country:us/state:al/county:choctaw/precinct:40-silas": {
    "name": "Choctaw County Precinct 40-Silas"
@@ -9154,14 +9154,14 @@
     701
    ]
   },
-  "ocd-division/country:us/state:al/county:covington/precinct:300": {
-   "name": "Covington County Precinct 300"
-  },
   "ocd-division/country:us/state:al/county:calhoun/council_district:5": {
    "name": "Calhoun County Commission District 5",
    "officeIndices": [
     702
    ]
+  },
+  "ocd-division/country:us/state:al/county:covington/precinct:300": {
+   "name": "Covington County Precinct 300"
   },
   "ocd-division/country:us/state:al/county:chambers/precinct:1103": {
    "name": "Chambers County Precinct 1103"
@@ -10972,11 +10972,11 @@
   "ocd-division/country:us/state:al/county:franklin/precinct:3": {
    "name": "Franklin County Precinct 3"
   },
-  "ocd-division/country:us/state:al/county:franklin/precinct:2": {
-   "name": "Franklin County Precinct 2"
-  },
   "ocd-division/country:us/state:al/county:mobile/precinct:67-mob_regional_senior_comm": {
    "name": "Mobile County Precinct 67-Mob Regional Senior Comm"
+  },
+  "ocd-division/country:us/state:al/county:franklin/precinct:2": {
+   "name": "Franklin County Precinct 2"
   },
   "ocd-division/country:us/state:al/county:franklin/precinct:1": {
    "name": "Franklin County Precinct 1"
@@ -11445,11 +11445,11 @@
   "ocd-division/country:us/state:al/county:talladega/precinct:1301": {
    "name": "Talladega County Precinct 1301"
   },
-  "ocd-division/country:us/state:al/county:monroe/precinct:201-per_hill_mas_lod": {
-   "name": "Monroe County Precinct 201-Per Hill Mas Lod"
-  },
   "ocd-division/country:us/state:al/place:clay": {
    "name": "Clay city"
+  },
+  "ocd-division/country:us/state:al/county:monroe/precinct:201-per_hill_mas_lod": {
+   "name": "Monroe County Precinct 201-Per Hill Mas Lod"
   },
   "ocd-division/country:us/state:al/county:jefferson/precinct:5270": {
    "name": "Jefferson County Precinct 5270"
@@ -14843,43 +14843,43 @@
    ]
   },
   {
-   "name": "County Commission, District 4",
-   "divisionId": "ocd-division/country:us/state:al/county:marshall/council_district:4",
-   "officialIndices": [
-    180
-   ]
-  },
-  {
    "name": "Coroner",
    "divisionId": "ocd-division/country:us/state:al/county:monroe",
    "officialIndices": [
-    181
+    180
    ]
   },
   {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:al/county:monroe",
    "officialIndices": [
-    182
+    181
    ]
   },
   {
    "name": "Circuit Clerk",
    "divisionId": "ocd-division/country:us/state:al/county:monroe",
    "officialIndices": [
-    183
+    182
    ]
   },
   {
    "name": "Probate Judge",
    "divisionId": "ocd-division/country:us/state:al/county:monroe",
    "officialIndices": [
-    184
+    183
    ]
   },
   {
    "name": "Revenue Commissioner",
    "divisionId": "ocd-division/country:us/state:al/county:monroe",
+   "officialIndices": [
+    184
+   ]
+  },
+  {
+   "name": "County Commission, District 4",
+   "divisionId": "ocd-division/country:us/state:al/county:marshall/council_district:4",
    "officialIndices": [
     185
    ]
@@ -20142,12 +20142,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "victorgastonal"
-    },
-    {
      "type": "Facebook",
      "id": "victor.gaston.18"
+    },
+    {
+     "type": "Twitter",
+     "id": "victorgastonal"
     }
    ]
   },
@@ -20272,12 +20272,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "204269692925652"
-    },
-    {
      "type": "Twitter",
      "id": "RepAllenFarley"
+    },
+    {
+     "type": "Facebook",
+     "id": "204269692925652"
     }
    ]
   },
@@ -20520,12 +20520,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "arnoldfor43"
-    },
-    {
      "type": "Facebook",
      "id": "ArnoldMooneyForAlabama"
+    },
+    {
+     "type": "Twitter",
+     "id": "arnoldfor43"
     }
    ]
   },
@@ -20621,12 +20621,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "495059937233146"
-    },
-    {
      "type": "Twitter",
      "id": "dannygarrett44"
+    },
+    {
+     "type": "Facebook",
+     "id": "495059937233146"
     }
    ]
   },
@@ -20706,12 +20706,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "repjack47"
-    },
-    {
      "type": "Twitter",
      "id": "repjack"
+    },
+    {
+     "type": "Facebook",
+     "id": "repjack47"
     }
    ]
   },
@@ -20888,12 +20888,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "people"
-    },
-    {
      "type": "Twitter",
      "id": "reptodd"
+    },
+    {
+     "type": "Facebook",
+     "id": "people"
     }
    ]
   },
@@ -21270,12 +21270,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "nathaniel.ledbetter"
-    },
-    {
      "type": "Twitter",
      "id": "repledbetter24"
+    },
+    {
+     "type": "Facebook",
+     "id": "nathaniel.ledbetter"
     }
    ]
   },
@@ -21314,12 +21314,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "willainsworth27"
-    },
-    {
      "type": "Facebook",
      "id": "votewillainsworth"
+    },
+    {
+     "type": "Twitter",
+     "id": "willainsworth27"
     }
    ]
   },
@@ -21370,12 +21370,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "repbecknordgren"
-    },
-    {
      "type": "Facebook",
      "id": "becky.nordgren.3"
+    },
+    {
+     "type": "Twitter",
+     "id": "repbecknordgren"
     }
    ]
   },
@@ -21403,12 +21403,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "repcraigford"
-    },
-    {
      "type": "Facebook",
      "id": "RepCraigFord"
+    },
+    {
+     "type": "Twitter",
+     "id": "repcraigford"
     }
    ]
   },
@@ -21436,12 +21436,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "repmackbutler"
-    },
-    {
      "type": "Facebook",
      "id": "RepMackButler"
+    },
+    {
+     "type": "Twitter",
+     "id": "repmackbutler"
     }
    ]
   },
@@ -22562,12 +22562,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "speakerhubbard"
-    },
-    {
      "type": "Facebook",
      "id": "mikehubbard79"
+    },
+    {
+     "type": "Twitter",
+     "id": "speakerhubbard"
     }
    ]
   },
@@ -22605,12 +22605,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "mattfridy"
-    },
-    {
      "type": "Facebook",
      "id": "MattFridyforDistrict73"
+    },
+    {
+     "type": "Twitter",
+     "id": "mattfridy"
     }
    ]
   },
@@ -23003,12 +23003,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "senatordelmarsh"
-    },
-    {
      "type": "Twitter",
      "id": "SenatorDelMarsh"
+    },
+    {
+     "type": "Facebook",
+     "id": "senatordelmarsh"
     }
    ]
   },
@@ -23153,12 +23153,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "senlindacoleman"
-    },
-    {
      "type": "Facebook",
      "id": "linda.f.coleman"
+    },
+    {
+     "type": "Twitter",
+     "id": "senlindacoleman"
     }
    ]
   },
@@ -23277,11 +23277,11 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "shelnutt417"
     },
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "shelnutt417"
     }
    ]
@@ -23431,12 +23431,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "hightower_bill"
-    },
-    {
      "type": "Facebook",
      "id": "314564311991547"
+    },
+    {
+     "type": "Twitter",
+     "id": "hightower_bill"
     }
    ]
   },
@@ -23511,12 +23511,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "Cham4Senate"
-    },
-    {
      "type": "Facebook",
      "id": "ChamblissForSenate"
+    },
+    {
+     "type": "Twitter",
+     "id": "Cham4Senate"
     }
    ]
   },
@@ -23544,12 +23544,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "mcclendondistrict29"
-    },
-    {
      "type": "Twitter",
      "id": "harriannesmith"
+    },
+    {
+     "type": "Facebook",
+     "id": "mcclendondistrict29"
     }
    ]
   },
@@ -23658,12 +23658,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "SenBillyBeasley"
-    },
-    {
      "type": "Facebook",
      "id": "billy.beasley.560"
+    },
+    {
+     "type": "Twitter",
+     "id": "SenBillyBeasley"
     }
    ]
   },
@@ -23691,12 +23691,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "phil.williams.14"
-    },
-    {
      "type": "Twitter",
      "id": "philhouse44"
+    },
+    {
+     "type": "Facebook",
+     "id": "phil.williams.14"
     }
    ]
   },
@@ -23786,12 +23786,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "137024892129"
-    },
-    {
      "type": "Twitter",
      "id": "ed_henry_hd9"
+    },
+    {
+     "type": "Facebook",
+     "id": "137024892129"
     }
    ]
   },
@@ -23894,12 +23894,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "repmickyhammon"
-    },
-    {
      "type": "Facebook",
      "id": "171099656324812"
+    },
+    {
+     "type": "Twitter",
+     "id": "repmickyhammon"
     }
    ]
   },
@@ -23960,12 +23960,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "clay.scofield"
-    },
-    {
      "type": "Twitter",
      "id": "scofield4senate"
+    },
+    {
+     "type": "Facebook",
+     "id": "clay.scofield"
     }
    ]
   },
@@ -24165,12 +24165,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "senatoraorr"
-    },
-    {
      "type": "Facebook",
      "id": "ArthurOrr"
+    },
+    {
+     "type": "Twitter",
+     "id": "senatoraorr"
     }
    ]
   },
@@ -24199,12 +24199,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "bill.holtzclaw.3"
-    },
-    {
      "type": "Twitter",
      "id": "billholtzclaw"
+    },
+    {
+     "type": "Facebook",
+     "id": "bill.holtzclaw.3"
     }
    ]
   },
@@ -24813,24 +24813,6 @@
    ]
   },
   {
-   "name": "Tamey Hale",
-   "address": [
-    {
-     "line1": "123 hustleville rd",
-     "city": "albertville",
-     "state": "AL",
-     "zip": "35950"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(256) 878-0421"
-   ],
-   "emails": [
-    "commission@marshallco.org"
-   ]
-  },
-  {
    "name": "Robert G Malone",
    "address": [
     {
@@ -24922,6 +24904,24 @@
    ],
    "urls": [
     "http://www.monroecountyonline.com/revenue/"
+   ]
+  },
+  {
+   "name": "Tamey Hale",
+   "address": [
+    {
+     "line1": "123 hustleville rd",
+     "city": "albertville",
+     "state": "AL",
+     "zip": "35950"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(256) 878-0421"
+   ],
+   "emails": [
+    "commission@marshallco.org"
    ]
   },
   {
@@ -29219,6 +29219,9 @@
    "phones": [
     "(334) 832-2550"
    ],
+   "urls": [
+    "http://www.mc-ala.org/ElectedOfficials/DistrictAttorney/Pages/Default.aspx"
+   ],
    "emails": [
     "mcdaadmin@mc-ala.org"
    ],
@@ -29770,9 +29773,6 @@
    "party": "Unknown",
    "phones": [
     "(334) 567-1184"
-   ],
-   "urls": [
-    "http://www.elmorerevenuecommissioner.com/"
    ]
   },
   {
@@ -32290,9 +32290,6 @@
    "party": "Democratic",
    "phones": [
     "(334) 864-8743"
-   ],
-   "urls": [
-    "http://www.chamberscountyal.gov/departments/commission-office/commissioners/james-brown/"
    ]
   },
   {
@@ -32329,9 +32326,6 @@
    "party": "Democratic",
    "phones": [
     "(706) 518-6098"
-   ],
-   "urls": [
-    "http://www.chamberscountyal.gov/departments/commission-office/commissioners/henry-osborne/"
    ]
   },
   {
@@ -32386,9 +32380,6 @@
    "party": "Republican",
    "phones": [
     "(334) 756-2235"
-   ],
-   "urls": [
-    "http://www.chamberscountyal.gov/departments/commission-office/commissioners/david-eastridge/"
    ],
    "emails": [
     "davesmallengines@charter.net"
@@ -32759,9 +32750,6 @@
    "party": "Republican",
    "phones": [
     "(334) 864-4348"
-   ],
-   "urls": [
-    "http://www.chamberscountyal.gov/departments/circuit-clerk/"
    ]
   },
   {
@@ -32795,9 +32783,6 @@
    "party": "Democratic",
    "phones": [
     "(334) 864-4392"
-   ],
-   "urls": [
-    "http://www.chamberscountyal.gov/departments/revenue-commissioner/"
    ],
    "emails": [
     "wendy.williams@chamberscountyal.gov"

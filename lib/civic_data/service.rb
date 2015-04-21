@@ -15,8 +15,8 @@ module CivicData
     end
 
     def fetch_officials_for(state:)
-      resource = CGI.escape("/ocd-division/country:us/state:#{state.downcase}")
-      json = fetch_json("#{@reps_url}#{resource}#{@query}").body
+      resource = CGI.escape("ocd-division/country:us/state:#{state.downcase}")
+      json = fetch_json("#{@reps_url}/#{resource}#{@query}").body
       path = "#{Rails.root}/db/data/civic_data/#{state.upcase}_civic_data.json"
       save_file(json, path)
     end
@@ -24,7 +24,7 @@ module CivicData
     def fetch_officials_by_division_for(state:)
       fetch_divisions_for(state: state).each_with_index do |division, index|
         resource = CGI.escape(division["ocdId"])
-        official_json = fetch_json("#{@divisions_url}/#{resource}?#{@key}")
+        official_json = fetch_json("#{@reps_url}/#{resource}?#{@key}")
 
         path = "#{Rails.root}/db/data/civic_data/#{state.upcase}/"+
           "#{state.upcase}_civic_data_div#{index}.json"

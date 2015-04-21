@@ -27,11 +27,11 @@
   "ocd-division/country:us/state:de/sldl:26/precinct:2": {
    "name": "Delaware precinct 02-26"
   },
-  "ocd-division/country:us/state:de/place:woodside": {
-   "name": "Woodside town"
-  },
   "ocd-division/country:us/state:de/county:kent/school_district:polytech_school_district": {
    "name": "polytech school district"
+  },
+  "ocd-division/country:us/state:de/place:woodside": {
+   "name": "Woodside town"
   },
   "ocd-division/country:us/state:de/county:new_castle/school_district:moyer_maurice_j._academy": {
    "name": "moyer (maurice j.) academy"
@@ -57,26 +57,26 @@
   "ocd-division/country:us/state:de/sldl:9/precinct:9": {
    "name": "Delaware precinct 09-09"
   },
-  "ocd-division/country:us/state:de/sldl:9/precinct:2": {
-   "name": "Delaware precinct 02-09"
-  },
   "ocd-division/country:us/state:de/sldl:39": {
    "name": "Delaware State House district 39",
    "officeIndices": [
     2
    ]
   },
+  "ocd-division/country:us/state:de/sldl:9/precinct:2": {
+   "name": "Delaware precinct 02-09"
+  },
   "ocd-division/country:us/state:de/sldl:9/precinct:3": {
    "name": "Delaware precinct 03-09"
-  },
-  "ocd-division/country:us/state:de/sldl:9/precinct:4": {
-   "name": "Delaware precinct 04-09"
   },
   "ocd-division/country:us/state:de/sldl:37": {
    "name": "Delaware State House district 37",
    "officeIndices": [
     3
    ]
+  },
+  "ocd-division/country:us/state:de/sldl:9/precinct:4": {
+   "name": "Delaware precinct 04-09"
   },
   "ocd-division/country:us/state:de/sldl:9/precinct:5": {
    "name": "Delaware precinct 05-09"
@@ -228,11 +228,11 @@
   "ocd-division/country:us/state:de/sldl:18/precinct:9": {
    "name": "Delaware precinct 09-18"
   },
-  "ocd-division/country:us/state:de/sldl:13/precinct:14": {
-   "name": "Delaware precinct 14-13"
-  },
   "ocd-division/country:us/state:de/sldl:17/precinct:8": {
    "name": "Delaware precinct 08-17"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:14": {
+   "name": "Delaware precinct 14-13"
   },
   "ocd-division/country:us/state:de/sldl:17/precinct:7": {
    "name": "Delaware precinct 07-17"
@@ -240,11 +240,11 @@
   "ocd-division/country:us/state:de/sldl:13/precinct:12": {
    "name": "Delaware precinct 12-13"
   },
-  "ocd-division/country:us/state:de/sldl:13/precinct:13": {
-   "name": "Delaware precinct 13-13"
-  },
   "ocd-division/country:us/state:de/sldl:17/precinct:9": {
    "name": "Delaware precinct 09-17"
+  },
+  "ocd-division/country:us/state:de/sldl:13/precinct:13": {
+   "name": "Delaware precinct 13-13"
   },
   "ocd-division/country:us/state:de/sldl:31/precinct:11": {
    "name": "Delaware precinct 11-31"
@@ -264,11 +264,11 @@
   "ocd-division/country:us/state:de/sldl:18/precinct:4": {
    "name": "Delaware precinct 04-18"
   },
-  "ocd-division/country:us/state:de/place:henlopen_acres": {
-   "name": "Henlopen Acres town"
-  },
   "ocd-division/country:us/state:de/sldl:18/precinct:5": {
    "name": "Delaware precinct 05-18"
+  },
+  "ocd-division/country:us/state:de/place:henlopen_acres": {
+   "name": "Henlopen Acres town"
   },
   "ocd-division/country:us/state:de/sldl:18/precinct:6": {
    "name": "Delaware precinct 06-18"
@@ -279,23 +279,26 @@
   "ocd-division/country:us/state:de/sldl:16/precinct:7": {
    "name": "Delaware precinct 07-16"
   },
-  "ocd-division/country:us/state:de/sldl:16/precinct:6": {
-   "name": "Delaware precinct 06-16"
-  },
   "ocd-division/country:us/state:de/sldl:18/precinct:1": {
    "name": "Delaware precinct 01-18"
   },
-  "ocd-division/country:us/state:de/sldl:16/precinct:9": {
-   "name": "Delaware precinct 09-16"
+  "ocd-division/country:us/state:de/sldl:16/precinct:6": {
+   "name": "Delaware precinct 06-16"
   },
   "ocd-division/country:us/state:de/sldl:18/precinct:2": {
    "name": "Delaware precinct 02-18"
   },
-  "ocd-division/country:us/state:de/sldl:16/precinct:8": {
-   "name": "Delaware precinct 08-16"
+  "ocd-division/country:us/state:de/sldl:16/precinct:9": {
+   "name": "Delaware precinct 09-16"
   },
   "ocd-division/country:us/state:de/sldl:18/precinct:3": {
    "name": "Delaware precinct 03-18"
+  },
+  "ocd-division/country:us/state:de/sldl:16/precinct:8": {
+   "name": "Delaware precinct 08-16"
+  },
+  "ocd-division/country:us/state:de/place:newport": {
+   "name": "Newport town"
   },
   "ocd-division/country:us/state:de/sldl:11": {
    "name": "Delaware State House district 11",
@@ -303,23 +306,20 @@
     7
    ]
   },
-  "ocd-division/country:us/state:de/place:newport": {
-   "name": "Newport town"
-  },
   "ocd-division/country:us/state:de/sldl:12": {
    "name": "Delaware State House district 12",
    "officeIndices": [
     8
    ]
   },
-  "ocd-division/country:us/state:de/sldl:6/precinct:2": {
-   "name": "Delaware precinct 02-06"
-  },
   "ocd-division/country:us/state:de/sldl:13": {
    "name": "Delaware State House district 13",
    "officeIndices": [
     9
    ]
+  },
+  "ocd-division/country:us/state:de/sldl:6/precinct:2": {
+   "name": "Delaware precinct 02-06"
   },
   "ocd-division/country:us/state:de/sldl:6/precinct:1": {
    "name": "Delaware precinct 01-06"
@@ -345,17 +345,17 @@
   "ocd-division/country:us/state:de/sldl:6/precinct:6": {
    "name": "Delaware precinct 06-06"
   },
-  "ocd-division/country:us/state:de/sldl:6/precinct:5": {
-   "name": "Delaware precinct 05-06"
-  },
-  "ocd-division/country:us/state:de/sldl:30/precinct:10": {
-   "name": "Delaware precinct 10-30"
-  },
   "ocd-division/country:us/state:de/sldl:10": {
    "name": "Delaware State House district 10",
    "officeIndices": [
     11
    ]
+  },
+  "ocd-division/country:us/state:de/sldl:6/precinct:5": {
+   "name": "Delaware precinct 05-06"
+  },
+  "ocd-division/country:us/state:de/sldl:30/precinct:10": {
+   "name": "Delaware precinct 10-30"
   },
   "ocd-division/country:us/state:de/sldl:6/precinct:8": {
    "name": "Delaware precinct 08-06"
@@ -477,14 +477,14 @@
     12
    ]
   },
-  "ocd-division/country:us/state:de/sldl:7/precinct:2": {
-   "name": "Delaware precinct 02-07"
-  },
   "ocd-division/country:us/state:de/sldl:26": {
    "name": "Delaware State House district 26",
    "officeIndices": [
     13
    ]
+  },
+  "ocd-division/country:us/state:de/sldl:7/precinct:2": {
+   "name": "Delaware precinct 02-07"
   },
   "ocd-division/country:us/state:de/sldl:7/precinct:1": {
    "name": "Delaware precinct 01-07"
@@ -501,11 +501,11 @@
     15
    ]
   },
-  "ocd-division/country:us/state:de/sldl:7/precinct:7": {
-   "name": "Delaware precinct 07-07"
-  },
   "ocd-division/country:us/state:de/county:kent/school_district:caesar_rodney_school_district": {
    "name": "caesar rodney school district"
+  },
+  "ocd-division/country:us/state:de/sldl:7/precinct:7": {
+   "name": "Delaware precinct 07-07"
   },
   "ocd-division/country:us/state:de/sldl:7/precinct:6": {
    "name": "Delaware precinct 06-07"
@@ -519,14 +519,17 @@
   "ocd-division/country:us/state:de/sldl:14/precinct:6": {
    "name": "Delaware precinct 06-14"
   },
+  "ocd-division/country:us/state:de/sldl:14/precinct:7": {
+   "name": "Delaware precinct 07-14"
+  },
   "ocd-division/country:us/state:de/sldl:30": {
    "name": "Delaware State House district 30",
    "officeIndices": [
     16
    ]
   },
-  "ocd-division/country:us/state:de/sldl:14/precinct:7": {
-   "name": "Delaware precinct 07-14"
+  "ocd-division/country:us/state:de/sldl:14/precinct:4": {
+   "name": "Delaware precinct 04-14"
   },
   "ocd-division/country:us/state:de/sldl:31": {
    "name": "Delaware State House district 31",
@@ -534,17 +537,14 @@
     17
    ]
   },
-  "ocd-division/country:us/state:de/sldl:14/precinct:4": {
-   "name": "Delaware precinct 04-14"
+  "ocd-division/country:us/state:de/sldl:14/precinct:5": {
+   "name": "Delaware precinct 05-14"
   },
   "ocd-division/country:us/state:de/sldl:32": {
    "name": "Delaware State House district 32",
    "officeIndices": [
     18
    ]
-  },
-  "ocd-division/country:us/state:de/sldl:14/precinct:5": {
-   "name": "Delaware precinct 05-14"
   },
   "ocd-division/country:us/state:de/sldl:33": {
    "name": "Delaware State House district 33",
@@ -591,14 +591,14 @@
   "ocd-division/country:us/state:de/sldl:4/precinct:9": {
    "name": "Delaware precinct 09-04"
   },
-  "ocd-division/country:us/state:de/county:sussex/school_district:woodbridge_school_district": {
-   "name": "woodbridge school district"
-  },
   "ocd-division/country:us/state:de/sldl:18": {
    "name": "Delaware State House district 18",
    "officeIndices": [
     23
    ]
+  },
+  "ocd-division/country:us/state:de/county:sussex/school_district:woodbridge_school_district": {
+   "name": "woodbridge school district"
   },
   "ocd-division/country:us/state:de/sldl:17": {
    "name": "Delaware State House district 17",
@@ -627,14 +627,14 @@
   "ocd-division/country:us/state:de/sldl:4/precinct:3": {
    "name": "Delaware precinct 03-04"
   },
-  "ocd-division/country:us/state:de/sldl:4/precinct:4": {
-   "name": "Delaware precinct 04-04"
-  },
   "ocd-division/country:us/state:de/sldl:19": {
    "name": "Delaware State House district 19",
    "officeIndices": [
     27
    ]
+  },
+  "ocd-division/country:us/state:de/sldl:4/precinct:4": {
+   "name": "Delaware precinct 04-04"
   },
   "ocd-division/country:us/state:de/sldl:20": {
    "name": "Delaware State House district 20",
@@ -984,9 +984,6 @@
   "ocd-division/country:us/state:de/sldl:21/precinct:3": {
    "name": "Delaware precinct 03-21"
   },
-  "ocd-division/country:us/state:de/sldl:29/precinct:9": {
-   "name": "Delaware precinct 09-29"
-  },
   "ocd-division/country:us/state:de/county:kent": {
    "name": "Kent County",
    "officeIndices": [
@@ -997,6 +994,9 @@
     89,
     90
    ]
+  },
+  "ocd-division/country:us/state:de/sldl:29/precinct:9": {
+   "name": "Delaware precinct 09-29"
   },
   "ocd-division/country:us/state:de/sldl:29/precinct:8": {
    "name": "Delaware precinct 08-29"
@@ -1130,11 +1130,11 @@
   "ocd-division/country:us/state:de/county:sussex/school_district:indian_river_school_district": {
    "name": "indian river school district"
   },
-  "ocd-division/country:us/state:de/place:odessa": {
-   "name": "Odessa town"
-  },
   "ocd-division/country:us/state:de/place:newark": {
    "name": "Newark city"
+  },
+  "ocd-division/country:us/state:de/place:odessa": {
+   "name": "Odessa town"
   },
   "ocd-division/country:us/state:de/sldl:37/precinct:6": {
    "name": "Delaware precinct 06-37"
@@ -1323,20 +1323,20 @@
   "ocd-division/country:us/state:de/sldl:40/precinct:2": {
    "name": "Delaware precinct 02-40"
   },
-  "ocd-division/country:us/state:de/sldl:40/precinct:1": {
-   "name": "Delaware precinct 01-40"
-  },
   "ocd-division/country:us/state:de/county:new_castle/school_district:delaware_military_academy": {
    "name": "delaware military academy"
+  },
+  "ocd-division/country:us/state:de/sldl:40/precinct:1": {
+   "name": "Delaware precinct 01-40"
   },
   "ocd-division/country:us/state:de/sldl:40/precinct:8": {
    "name": "Delaware precinct 08-40"
   },
-  "ocd-division/country:us/state:de/sldl:40/precinct:7": {
-   "name": "Delaware precinct 07-40"
-  },
   "ocd-division/country:us/state:de/sldl:27/precinct:10": {
    "name": "Delaware precinct 10-27"
+  },
+  "ocd-division/country:us/state:de/sldl:40/precinct:7": {
+   "name": "Delaware precinct 07-40"
   },
   "ocd-division/country:us/state:de/sldl:40/precinct:6": {
    "name": "Delaware precinct 06-40"
@@ -1371,14 +1371,14 @@
   "ocd-division/country:us/state:de/sldl:22/precinct:12": {
    "name": "Delaware precinct 12-22"
   },
+  "ocd-division/country:us/state:de/sldl:22/precinct:11": {
+   "name": "Delaware precinct 11-22"
+  },
   "ocd-division/country:us/state:de/sldl:8": {
    "name": "Delaware State House district 8",
    "officeIndices": [
     49
    ]
-  },
-  "ocd-division/country:us/state:de/sldl:22/precinct:11": {
-   "name": "Delaware precinct 11-22"
   },
   "ocd-division/country:us/state:de/sldl:9": {
    "name": "Delaware State House district 9",
@@ -1488,14 +1488,14 @@
   "ocd-division/country:us/state:de/sldl:24/precinct:3": {
    "name": "Delaware precinct 03-24"
   },
-  "ocd-division/country:us/state:de/sldl:8/precinct:9": {
-   "name": "Delaware precinct 09-08"
-  },
   "ocd-division/country:us/state:de/county:new_castle/council_district:9": {
    "name": "New Castle DE County Council District 9",
    "officeIndices": [
     110
    ]
+  },
+  "ocd-division/country:us/state:de/sldl:8/precinct:9": {
+   "name": "Delaware precinct 09-08"
   },
   "ocd-division/country:us/state:de/sldl:23/precinct:8": {
    "name": "Delaware precinct 08-23"
@@ -1746,9 +1746,6 @@
   "ocd-division/country:us/state:de/sldl:1/precinct:3": {
    "name": "Delaware precinct 03-01"
   },
-  "ocd-division/country:us/state:de/sldl:1/precinct:4": {
-   "name": "Delaware precinct 04-01"
-  },
   "ocd-division/country:us/state:de/county:sussex": {
    "name": "Sussex County",
    "officeIndices": [
@@ -1757,6 +1754,9 @@
     113,
     114
    ]
+  },
+  "ocd-division/country:us/state:de/sldl:1/precinct:4": {
+   "name": "Delaware precinct 04-01"
   },
   "ocd-division/country:us/state:de/sldl:1/precinct:5": {
    "name": "Delaware precinct 05-01"
@@ -3750,11 +3750,11 @@
    ],
    "channels": [
     {
-     "type": "YouTube",
+     "type": "Facebook",
      "id": "friends4jeff"
     },
     {
-     "type": "Facebook",
+     "type": "YouTube",
      "id": "friends4jeff"
     },
     {
@@ -4702,11 +4702,11 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "GregLavelle302"
     },
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "GregLavelle302"
     }
    ]
@@ -5174,12 +5174,12 @@
    ],
    "channels": [
     {
-     "type": "YouTube",
-     "id": "UCaW7lhy_nAFuN5VQQbseD-Q"
-    },
-    {
      "type": "Facebook",
      "id": "StephanieTBolden"
+    },
+    {
+     "type": "YouTube",
+     "id": "UCaW7lhy_nAFuN5VQQbseD-Q"
     }
    ]
   },

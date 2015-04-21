@@ -1,10 +1,10 @@
 {
  "divisions": {
-  "ocd-division/country:us/state:wa/county:thurston/precinct:172-tykle_cove": {
-   "name": "Thurston County WA - Precinct: Tykle Cove"
-  },
   "ocd-division/country:us/state:wa/county:okanogan/precinct:82-balky_hill": {
    "name": "Okanogan County WA - Precinct: BALKY HILL"
+  },
+  "ocd-division/country:us/state:wa/county:thurston/precinct:172-tykle_cove": {
+   "name": "Thurston County WA - Precinct: Tykle Cove"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:840-new_41-0840": {
    "name": "King County WA - Precinct: NEW 41-0840"
@@ -18,11 +18,11 @@
   "ocd-division/country:us/state:wa/place:colfax": {
    "name": "Colfax city"
   },
-  "ocd-division/country:us/state:wa/county:columbia/precinct:4-star": {
-   "name": "Columbia County WA - Precinct: STAR"
-  },
   "ocd-division/country:us/state:wa/county:klickitat/precinct:110-n_white_salmon": {
    "name": "Klickitat County WA - Precinct: N WHITE SALMON"
+  },
+  "ocd-division/country:us/state:wa/county:columbia/precinct:4-star": {
+   "name": "Columbia County WA - Precinct: STAR"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:3204-margery": {
    "name": "King County WA - Precinct: MARGERY"
@@ -69,6 +69,9 @@
   "ocd-division/country:us/state:wa/county:snohomish/precinct:445450-trail": {
    "name": "Snohomish County WA - Precinct: TRAIL"
   },
+  "ocd-division/country:us/state:wa/county:franklin/precinct:10": {
+   "name": "Franklin County WA - Precinct: Pct 010"
+  },
   "ocd-division/country:us/state:wa/county:asotin": {
    "name": "Asotin County",
    "officeIndices": [
@@ -79,9 +82,6 @@
     126,
     127
    ]
-  },
-  "ocd-division/country:us/state:wa/county:franklin/precinct:10": {
-   "name": "Franklin County WA - Precinct: Pct 010"
   },
   "ocd-division/country:us/state:wa/county:clallam/precinct:224-dry_creek": {
    "name": "Clallam County WA - Precinct: DRY CREEK 224"
@@ -107,11 +107,11 @@
   "ocd-division/country:us/state:wa/county:snohomish/precinct:395436-tualco": {
    "name": "Snohomish County WA - Precinct: TUALCO"
   },
-  "ocd-division/country:us/state:wa/county:benton/precinct:1402-dot": {
-   "name": "Benton County WA - Precinct: Dot"
-  },
   "ocd-division/country:us/state:wa/county:franklin/precinct:19": {
    "name": "Franklin County WA - Precinct: Pct 019"
+  },
+  "ocd-division/country:us/state:wa/county:benton/precinct:1402-dot": {
+   "name": "Benton County WA - Precinct: Dot"
   },
   "ocd-division/country:us/state:wa/county:franklin/precinct:17": {
    "name": "Franklin County WA - Precinct: Pct 017"
@@ -119,23 +119,23 @@
   "ocd-division/country:us/state:wa/county:franklin/precinct:18": {
    "name": "Franklin County WA - Precinct: Pct 018"
   },
-  "ocd-division/country:us/state:wa/place:raymond/ward:2/precinct:1": {
-   "name": "Pacific County WA - Precinct: Raymond W2"
-  },
   "ocd-division/country:us/state:wa/county:franklin/precinct:15": {
    "name": "Franklin County WA - Precinct: Pct 015"
   },
-  "ocd-division/country:us/state:wa/county:franklin/precinct:16": {
-   "name": "Franklin County WA - Precinct: Pct 016"
+  "ocd-division/country:us/state:wa/place:raymond/ward:2/precinct:1": {
+   "name": "Pacific County WA - Precinct: Raymond W2"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:3405-aub_31-3405": {
    "name": "King County WA - Precinct: AUB 31-3405"
   },
-  "ocd-division/country:us/state:wa/county:franklin/precinct:13": {
-   "name": "Franklin County WA - Precinct: Pct 013"
+  "ocd-division/country:us/state:wa/county:franklin/precinct:16": {
+   "name": "Franklin County WA - Precinct: Pct 016"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:213418-norma": {
    "name": "Snohomish County WA - Precinct: NORMA"
+  },
+  "ocd-division/country:us/state:wa/county:franklin/precinct:13": {
+   "name": "Franklin County WA - Precinct: Pct 013"
   },
   "ocd-division/country:us/state:wa/county:franklin/precinct:14": {
    "name": "Franklin County WA - Precinct: Pct 014"
@@ -296,14 +296,14 @@
   "ocd-division/country:us/state:wa/county:snohomish/precinct:382236-everett_36": {
    "name": "Snohomish County WA - Precinct: EVERETT  36"
   },
-  "ocd-division/country:us/state:wa/county:asotin/precinct:401-south_clarkston_1": {
-   "name": "Asotin County WA - Precinct: SOUTH CLARKSTON #1"
+  "ocd-division/country:us/state:wa/county:kittitas/precinct:16-ellensburg_9": {
+   "name": "Kittitas County WA - Precinct: ELLENSBURG 9"
   },
   "ocd-division/country:us/state:wa/county:franklin/precinct:26": {
    "name": "Franklin County WA - Precinct: Pct 026"
   },
-  "ocd-division/country:us/state:wa/county:kittitas/precinct:16-ellensburg_9": {
-   "name": "Kittitas County WA - Precinct: ELLENSBURG 9"
+  "ocd-division/country:us/state:wa/county:asotin/precinct:401-south_clarkston_1": {
+   "name": "Asotin County WA - Precinct: SOUTH CLARKSTON #1"
   },
   "ocd-division/country:us/state:wa/county:franklin/precinct:29": {
    "name": "Franklin County WA - Precinct: Pct 029"
@@ -314,11 +314,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:1806-sea_36-1806": {
    "name": "King County WA - Precinct: SEA 36-1806"
   },
-  "ocd-division/country:us/state:wa/county:clark/precinct:720": {
-   "name": "Clark County WA - Precinct: 720"
-  },
   "ocd-division/country:us/state:wa/county:okanogan/precinct:232-rodeo_trail_2": {
    "name": "Okanogan County WA - Precinct: RODEO TRAIL #2"
+  },
+  "ocd-division/country:us/state:wa/county:clark/precinct:720": {
+   "name": "Clark County WA - Precinct: 720"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:1895-sea_37-1895": {
    "name": "King County WA - Precinct: SEA 37-1895"
@@ -332,11 +332,11 @@
     128
    ]
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:1737-sea_36-1737": {
-   "name": "King County WA - Precinct: SEA 36-1737"
-  },
   "ocd-division/country:us/state:wa/county:lincoln/precinct:16-hawk_creek": {
    "name": "Lincoln County WA - Precinct: HAWK CREEK"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:1737-sea_36-1737": {
+   "name": "King County WA - Precinct: SEA 36-1737"
   },
   "ocd-division/country:us/state:wa/place:coulee_dam": {
    "name": "Coulee Dam town"
@@ -356,11 +356,11 @@
   "ocd-division/country:us/state:wa/county:franklin/precinct:53": {
    "name": "Franklin County WA - Precinct: Pct 053"
   },
-  "ocd-division/country:us/state:wa/county:clallam/precinct:210-bluffs": {
-   "name": "Clallam County WA - Precinct: BLUFFS 210"
-  },
   "ocd-division/country:us/state:wa/county:franklin/precinct:54": {
    "name": "Franklin County WA - Precinct: Pct 054"
+  },
+  "ocd-division/country:us/state:wa/county:clallam/precinct:210-bluffs": {
+   "name": "Clallam County WA - Precinct: BLUFFS 210"
   },
   "ocd-division/country:us/state:wa/county:franklin/precinct:51": {
    "name": "Franklin County WA - Precinct: Pct 051"
@@ -374,20 +374,20 @@
   "ocd-division/country:us/state:wa/county:thurston/precinct:247-olympia_47": {
    "name": "Thurston County WA - Precinct: Olympia 47"
   },
-  "ocd-division/country:us/state:wa/place:wilson_creek": {
-   "name": "Wilson Creek town"
-  },
   "ocd-division/country:us/state:wa/county:cowlitz/precinct:22-haussler": {
    "name": "Cowlitz County WA - Precinct: Haussler"
+  },
+  "ocd-division/country:us/state:wa/place:wilson_creek": {
+   "name": "Wilson Creek town"
   },
   "ocd-division/country:us/state:wa/county:franklin/precinct:59": {
    "name": "Franklin County WA - Precinct: Pct 059"
   },
-  "ocd-division/country:us/state:wa/county:thurston/precinct:330-lacey_30": {
-   "name": "Thurston County WA - Precinct: Lacey 30"
-  },
   "ocd-division/country:us/state:wa/county:franklin/precinct:58": {
    "name": "Franklin County WA - Precinct: Pct 058"
+  },
+  "ocd-division/country:us/state:wa/county:thurston/precinct:330-lacey_30": {
+   "name": "Thurston County WA - Precinct: Lacey 30"
   },
   "ocd-division/country:us/state:wa/county:franklin/precinct:57": {
    "name": "Franklin County WA - Precinct: Pct 057"
@@ -395,17 +395,17 @@
   "ocd-division/country:us/state:wa/county:franklin/precinct:56": {
    "name": "Franklin County WA - Precinct: Pct 056"
   },
-  "ocd-division/country:us/state:wa/county:franklin/precinct:55": {
-   "name": "Franklin County WA - Precinct: Pct 055"
-  },
   "ocd-division/country:us/state:wa/county:klickitat/precinct:109-white_salmon": {
    "name": "Klickitat County WA - Precinct: WHITE SALMON"
   },
-  "ocd-division/country:us/state:wa/county:clark/precinct:710": {
-   "name": "Clark County WA - Precinct: 710"
+  "ocd-division/country:us/state:wa/county:franklin/precinct:55": {
+   "name": "Franklin County WA - Precinct: Pct 055"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:1034-ken_47-1034": {
    "name": "King County WA - Precinct: KEN 47-1034"
+  },
+  "ocd-division/country:us/state:wa/county:clark/precinct:710": {
+   "name": "Clark County WA - Precinct: 710"
   },
   "ocd-division/country:us/state:wa/county:grays_harbor/precinct:601-montesano_601": {
    "name": "Grays Harbor County WA - Precinct: Montesano 601"
@@ -593,23 +593,23 @@
     131
    ]
   },
+  "ocd-division/country:us/state:wa/county:snohomish/precinct:445234-lake_stevens_14": {
+   "name": "Snohomish County WA - Precinct: LAKE STEVENS 14"
+  },
   "ocd-division/country:us/state:wa/county:okanogan/council_district:2": {
    "name": "Okanogan County District 2",
    "officeIndices": [
     132
    ]
   },
-  "ocd-division/country:us/state:wa/county:snohomish/precinct:445234-lake_stevens_14": {
-   "name": "Snohomish County WA - Precinct: LAKE STEVENS 14"
-  },
-  "ocd-division/country:us/state:wa/county:king/precinct:1457-sea_34-1457": {
-   "name": "King County WA - Precinct: SEA 34-1457"
-  },
   "ocd-division/country:us/state:wa/county:okanogan/council_district:1": {
    "name": "Okanogan County District 1",
    "officeIndices": [
     133
    ]
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:1457-sea_34-1457": {
+   "name": "King County WA - Precinct: SEA 34-1457"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:212409-york": {
    "name": "Snohomish County WA - Precinct: YORK"
@@ -626,20 +626,20 @@
   "ocd-division/country:us/state:wa/county:mason/school_district:hood_canal_school_district": {
    "name": "hood canal school district"
   },
-  "ocd-division/country:us/state:wa/county:columbia/precinct:106-starbuck_city": {
-   "name": "Columbia County WA - Precinct: STARBUCK CITY"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:323404-rob": {
    "name": "Snohomish County WA - Precinct: ROB"
+  },
+  "ocd-division/country:us/state:wa/county:columbia/precinct:106-starbuck_city": {
+   "name": "Columbia County WA - Precinct: STARBUCK CITY"
   },
   "ocd-division/country:us/state:wa/place:snoqualmie": {
    "name": "Snoqualmie city"
   },
-  "ocd-division/country:us/state:wa/place:st_john": {
-   "name": "St. John town"
-  },
   "ocd-division/country:us/state:wa/county:okanogan/precinct:33-riverside_rural": {
    "name": "Okanogan County WA - Precinct: RIVERSIDE RURAL"
+  },
+  "ocd-division/country:us/state:wa/place:st_john": {
+   "name": "St. John town"
   },
   "ocd-division/country:us/state:wa/county:spokane/precinct:9600": {
    "name": "Spokane County WA - Precinct: PCT 9600"
@@ -677,17 +677,17 @@
   "ocd-division/country:us/state:wa/county:king/precinct:3476-aub_30-3476": {
    "name": "King County WA - Precinct: AUB 30-3476"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:1535-sea_34-1535": {
-   "name": "King County WA - Precinct: SEA 34-1535"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:1416-sea_34-1416": {
    "name": "King County WA - Precinct: SEA 34-1416"
   },
-  "ocd-division/country:us/state:wa/place:mattawa": {
-   "name": "Mattawa city"
+  "ocd-division/country:us/state:wa/county:king/precinct:1535-sea_34-1535": {
+   "name": "King County WA - Precinct: SEA 34-1535"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:576-ken_33-0576": {
    "name": "King County WA - Precinct: KEN 33-0576"
+  },
+  "ocd-division/country:us/state:wa/place:mattawa": {
+   "name": "Mattawa city"
   },
   "ocd-division/country:us/state:wa/county:kitsap/precinct:100283-drive-in": {
    "name": "Kitsap County WA - Precinct: DRIVE-IN 283"
@@ -767,11 +767,11 @@
   "ocd-division/country:us/state:wa/county:thurston/precinct:51-spurgeon_creek": {
    "name": "Thurston County WA - Precinct: Spurgeon Creek"
   },
-  "ocd-division/country:us/state:wa/county:thurston/precinct:246-olympia_46": {
-   "name": "Thurston County WA - Precinct: Olympia 46"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:381417-tulalip_1": {
    "name": "Snohomish County WA - Precinct: TULALIP 1"
+  },
+  "ocd-division/country:us/state:wa/county:thurston/precinct:246-olympia_46": {
+   "name": "Thurston County WA - Precinct: Olympia 46"
   },
   "ocd-division/country:us/state:wa/county:island/precinct:208-oak_harbor_8": {
    "name": "Island County WA - Precinct: OAK HARBOR 08"
@@ -779,11 +779,11 @@
   "ocd-division/country:us/state:wa/county:cowlitz/precinct:42-ocean_beach": {
    "name": "Cowlitz County WA - Precinct: Ocean Beach"
   },
-  "ocd-division/country:us/state:wa/county:grant/school_district:grand_coulee_dam_school_district": {
-   "name": "grand coulee dam school district"
-  },
   "ocd-division/country:us/state:wa/county:kitsap/precinct:100130-erlands_point": {
    "name": "Kitsap County WA - Precinct: ERLANDS POINT 130"
+  },
+  "ocd-division/country:us/state:wa/county:grant/school_district:grand_coulee_dam_school_district": {
+   "name": "grand coulee dam school district"
   },
   "ocd-division/country:us/state:wa/county:lincoln/precinct:43-odessa_in": {
    "name": "Lincoln County WA - Precinct: ODESSA IN"
@@ -809,11 +809,11 @@
   "ocd-division/country:us/state:wa/county:pacific/precinct:30-south_bend_2_rural": {
    "name": "Pacific County WA - Precinct: South Bend 2R"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2705-carriage": {
-   "name": "King County WA - Precinct: CARRIAGE"
-  },
   "ocd-division/country:us/state:wa/county:benton/precinct:4006-west_richland_6": {
    "name": "Benton County WA - Precinct: WR 6"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:2705-carriage": {
+   "name": "King County WA - Precinct: CARRIAGE"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:2000-sea_43-2000": {
    "name": "King County WA - Precinct: SEA 43-2000"
@@ -854,17 +854,17 @@
   "ocd-division/country:us/state:wa/county:thurston/precinct:156-grand_mound": {
    "name": "Thurston County WA - Precinct: Grand Mound"
   },
-  "ocd-division/country:us/state:wa/county:skagit/precinct:307-mount_vernon_7": {
-   "name": "Skagit County WA - Precinct: MOUNT VERNON  7"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:395409-hartford": {
    "name": "Snohomish County WA - Precinct: HARTFORD"
   },
-  "ocd-division/country:us/state:wa/county:okanogan/precinct:63-janis": {
-   "name": "Okanogan County WA - Precinct: JANIS"
+  "ocd-division/country:us/state:wa/county:skagit/precinct:307-mount_vernon_7": {
+   "name": "Skagit County WA - Precinct: MOUNT VERNON  7"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:101254-stanwood_4": {
    "name": "Snohomish County WA - Precinct: STANWOOD 4"
+  },
+  "ocd-division/country:us/state:wa/county:okanogan/precinct:63-janis": {
+   "name": "Okanogan County WA - Precinct: JANIS"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:3367-m-v_5-3367": {
    "name": "King County WA - Precinct: M-V 05-3367"
@@ -881,11 +881,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:969-rnt_37-0969": {
    "name": "King County WA - Precinct: RNT 37-0969"
   },
-  "ocd-division/country:us/state:wa/county:walla_walla/precinct:17-marcus": {
-   "name": "Walla Walla County WA - Precinct: Marcus 17"
-  },
   "ocd-division/country:us/state:wa/county:kitsap/precinct:100037-bremerton_37": {
    "name": "Kitsap County WA - Precinct: BREMERTON 037"
+  },
+  "ocd-division/country:us/state:wa/county:walla_walla/precinct:17-marcus": {
+   "name": "Walla Walla County WA - Precinct: Marcus 17"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:46-aub_30-0046": {
    "name": "King County WA - Precinct: AUB 30-0046"
@@ -902,17 +902,17 @@
   "ocd-division/country:us/state:wa/county:okanogan/precinct:215-omak_23": {
    "name": "Okanogan County WA - Precinct: OMAK #23"
   },
-  "ocd-division/country:us/state:wa/county:spokane/precinct:9500": {
-   "name": "Spokane County WA - Precinct: PCT 9500"
-  },
-  "ocd-division/country:us/state:wa/county:king/precinct:3413-aub_47-3413": {
-   "name": "King County WA - Precinct: AUB 47-3413"
+  "ocd-division/country:us/state:wa/county:snohomish/precinct:212217-mukilteo_17": {
+   "name": "Snohomish County WA - Precinct: MUKILTEO 17"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:3418-quail": {
    "name": "King County WA - Precinct: QUAIL"
   },
-  "ocd-division/country:us/state:wa/county:snohomish/precinct:212217-mukilteo_17": {
-   "name": "Snohomish County WA - Precinct: MUKILTEO 17"
+  "ocd-division/country:us/state:wa/county:king/precinct:3413-aub_47-3413": {
+   "name": "King County WA - Precinct: AUB 47-3413"
+  },
+  "ocd-division/country:us/state:wa/county:spokane/precinct:9500": {
+   "name": "Spokane County WA - Precinct: PCT 9500"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:391427-pilot": {
    "name": "Snohomish County WA - Precinct: PILOT"
@@ -932,23 +932,23 @@
   "ocd-division/country:us/state:wa/county:king/precinct:175-bel_41-0175": {
    "name": "King County WA - Precinct: BEL 41-0175"
   },
-  "ocd-division/country:us/state:wa/county:thurston/precinct:199-beaver_creek": {
-   "name": "Thurston County WA - Precinct: Beaver Creek"
-  },
   "ocd-division/country:us/state:wa/county:skagit/school_district:mount_vernon_school_district": {
    "name": "mount vernon school district"
+  },
+  "ocd-division/country:us/state:wa/county:thurston/precinct:199-beaver_creek": {
+   "name": "Thurston County WA - Precinct: Beaver Creek"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:382219-everett_19": {
    "name": "Snohomish County WA - Precinct: EVERETT  19"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2297-sea_46-2297": {
-   "name": "King County WA - Precinct: SEA 46-2297"
+  "ocd-division/country:us/state:wa/county:snohomish/precinct:212202-mukilteo_2": {
+   "name": "Snohomish County WA - Precinct: MUKILTEO  2"
   },
   "ocd-division/country:us/state:wa/county:kittitas/precinct:35-mountain": {
    "name": "Kittitas County WA - Precinct: MOUNTAIN"
   },
-  "ocd-division/country:us/state:wa/county:snohomish/precinct:212202-mukilteo_2": {
-   "name": "Snohomish County WA - Precinct: MUKILTEO  2"
+  "ocd-division/country:us/state:wa/county:king/precinct:2297-sea_46-2297": {
+   "name": "King County WA - Precinct: SEA 46-2297"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:766-m-i_41-0766": {
    "name": "King County WA - Precinct: M-I 41-0766"
@@ -956,11 +956,11 @@
   "ocd-division/country:us/state:wa/county:thurston/precinct:145-delphi": {
    "name": "Thurston County WA - Precinct: Delphi"
   },
-  "ocd-division/country:us/state:wa/place:deer_park": {
-   "name": "Deer Park city"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:858-n-b_5-0858": {
    "name": "King County WA - Precinct: N-B 05-0858"
+  },
+  "ocd-division/country:us/state:wa/place:deer_park": {
+   "name": "Deer Park city"
   },
   "ocd-division/country:us/state:wa/county:thurston/precinct:88-woodland": {
    "name": "Thurston County WA - Precinct: Woodland"
@@ -974,23 +974,23 @@
   "ocd-division/country:us/state:wa/county:kitsap/precinct:100419-point_jefferson": {
    "name": "Kitsap County WA - Precinct: POINT JEFFERSON 419"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2642-red_48-2642": {
-   "name": "King County WA - Precinct: RED 48-2642"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:880-ken_47-0880": {
    "name": "King County WA - Precinct: KEN 47-0880"
   },
-  "ocd-division/country:us/state:wa/county:benton/precinct:1407-elk": {
-   "name": "Benton County WA - Precinct: Elk"
+  "ocd-division/country:us/state:wa/county:king/precinct:2642-red_48-2642": {
+   "name": "King County WA - Precinct: RED 48-2642"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:382211-everett_11": {
    "name": "Snohomish County WA - Precinct: EVERETT  11"
   },
-  "ocd-division/country:us/state:wa/place:mountlake_terrace": {
-   "name": "Mountlake Terrace city"
+  "ocd-division/country:us/state:wa/county:benton/precinct:1407-elk": {
+   "name": "Benton County WA - Precinct: Elk"
   },
   "ocd-division/country:us/state:wa/county:cowlitz/precinct:51-rose_valley": {
    "name": "Cowlitz County WA - Precinct: Rose Valley"
+  },
+  "ocd-division/country:us/state:wa/place:mountlake_terrace": {
+   "name": "Mountlake Terrace city"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:101412-mc_donald": {
    "name": "Snohomish County WA - Precinct: MC DONALD"
@@ -1019,11 +1019,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:1513-sea_34-1513": {
    "name": "King County WA - Precinct: SEA 34-1513"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3080-fed_30-3080": {
-   "name": "King County WA - Precinct: FED 30-3080"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:710-bur_34-0710": {
    "name": "King County WA - Precinct: BUR 34-0710"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:3080-fed_30-3080": {
+   "name": "King County WA - Precinct: FED 30-3080"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:3607-sam_41-3607": {
    "name": "King County WA - Precinct: SAM 41-3607"
@@ -1052,14 +1052,14 @@
   "ocd-division/country:us/state:wa/county:king/precinct:1704-sea_36-1704": {
    "name": "King County WA - Precinct: SEA 36-1704"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3584-red_45-3584": {
-   "name": "King County WA - Precinct: RED 45-3584"
-  },
   "ocd-division/country:us/state:wa/county:mason/council_district:3": {
    "name": "Mason County District 3",
    "officeIndices": [
     141
    ]
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:3584-red_45-3584": {
+   "name": "King County WA - Precinct: RED 45-3584"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:1458-sea_34-1458": {
    "name": "King County WA - Precinct: SEA 34-1458"
@@ -1082,11 +1082,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:3104-set_33-3104": {
    "name": "King County WA - Precinct: SET 33-3104"
   },
-  "ocd-division/country:us/state:wa/place:south_prairie": {
-   "name": "South Prairie town"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:2001-sea_43-2001": {
    "name": "King County WA - Precinct: SEA 43-2001"
+  },
+  "ocd-division/country:us/state:wa/place:south_prairie": {
+   "name": "South Prairie town"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:340-kmr_46-0340": {
    "name": "King County WA - Precinct: KMR 46-0340"
@@ -1109,47 +1109,47 @@
   "ocd-division/country:us/state:wa/place:everson": {
    "name": "Everson city"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3210-salish": {
-   "name": "King County WA - Precinct: SALISH"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:525-hollywood": {
    "name": "King County WA - Precinct: HOLLYWOOD"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:3210-salish": {
+   "name": "King County WA - Precinct: SALISH"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:644-kir_48-0644": {
    "name": "King County WA - Precinct: KIR 48-0644"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2731-kir_48-2731": {
-   "name": "King County WA - Precinct: KIR 48-2731"
-  },
   "ocd-division/country:us/state:wa/county:king/school_district:tukwila_school_district": {
    "name": "tukwila school district"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:2731-kir_48-2731": {
+   "name": "King County WA - Precinct: KIR 48-2731"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:615-kir_48-0615": {
    "name": "King County WA - Precinct: KIR 48-0615"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3564-rnt_11-3564": {
-   "name": "King County WA - Precinct: RNT 11-3564"
-  },
   "ocd-division/country:us/state:wa/county:pend_oreille/precinct:5-fertile_valley_north": {
    "name": "Pend Oreille County WA - Precinct: Fertile Valley North"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:1913-sea_37-1913": {
-   "name": "King County WA - Precinct: SEA 37-1913"
+  "ocd-division/country:us/state:wa/county:king/precinct:3564-rnt_11-3564": {
+   "name": "King County WA - Precinct: RNT 11-3564"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:739-maury": {
    "name": "King County WA - Precinct: MAURY"
   },
-  "ocd-division/country:us/state:wa/county:ferry/precinct:116-south_lake": {
-   "name": "Ferry County WA - Precinct: SOUTH LAKE"
+  "ocd-division/country:us/state:wa/county:king/precinct:1913-sea_37-1913": {
+   "name": "King County WA - Precinct: SEA 37-1913"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:348-cumberland": {
    "name": "King County WA - Precinct: CUMBERLAND"
   },
-  "ocd-division/country:us/state:wa/county:okanogan/precinct:224-okanogan_12": {
-   "name": "Okanogan County WA - Precinct: OKANOGAN #12"
+  "ocd-division/country:us/state:wa/county:ferry/precinct:116-south_lake": {
+   "name": "Ferry County WA - Precinct: SOUTH LAKE"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:382228-everett_28": {
    "name": "Snohomish County WA - Precinct: EVERETT  28"
+  },
+  "ocd-division/country:us/state:wa/county:okanogan/precinct:224-okanogan_12": {
+   "name": "Okanogan County WA - Precinct: OKANOGAN #12"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:2841-m-v_5-2841": {
    "name": "King County WA - Precinct: M-V 05-2841"
@@ -1160,17 +1160,17 @@
   "ocd-division/country:us/state:wa/county:yakima/precinct:1103": {
    "name": "Yakima County WA - Precinct: 1103"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:1511-sea_34-1511": {
-   "name": "King County WA - Precinct: SEA 34-1511"
-  },
   "ocd-division/country:us/state:wa/county:jefferson/precinct:308-center_2": {
    "name": "Jefferson County WA - Precinct: 308 Center II"
   },
-  "ocd-division/country:us/state:wa/county:yakima/precinct:1101": {
-   "name": "Yakima County WA - Precinct: 1101"
+  "ocd-division/country:us/state:wa/county:king/precinct:1511-sea_34-1511": {
+   "name": "King County WA - Precinct: SEA 34-1511"
   },
   "ocd-division/country:us/state:wa/county:kittitas/precinct:6-east_sanders": {
    "name": "Kittitas County WA - Precinct: EAST SANDERS"
+  },
+  "ocd-division/country:us/state:wa/county:yakima/precinct:1101": {
+   "name": "Yakima County WA - Precinct: 1101"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:3679-sea_36-3679": {
    "name": "King County WA - Precinct: SEA 36-3679"
@@ -1646,53 +1646,53 @@
   "ocd-division/country:us/state:wa/county:king/precinct:1233-ypt_48-1233": {
    "name": "King County WA - Precinct: YPT 48-1233"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:126": {
-   "name": "Chelan County WA - Precinct: 126"
-  },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-515": {
    "name": "Pierce County WA - Precinct: 28-515"
+  },
+  "ocd-division/country:us/state:wa/county:chelan/precinct:126": {
+   "name": "Chelan County WA - Precinct: 126"
   },
   "ocd-division/country:us/state:wa/county:chelan/precinct:125": {
    "name": "Chelan County WA - Precinct: 125"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:124": {
-   "name": "Chelan County WA - Precinct: 124"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:212215-mukilteo_15": {
    "name": "Snohomish County WA - Precinct: MUKILTEO 15"
+  },
+  "ocd-division/country:us/state:wa/county:chelan/precinct:124": {
+   "name": "Chelan County WA - Precinct: 124"
   },
   "ocd-division/country:us/state:wa/county:chelan/precinct:123": {
    "name": "Chelan County WA - Precinct: 123"
   },
-  "ocd-division/country:us/state:wa/county:okanogan/precinct:134-riverside_city": {
-   "name": "Okanogan County WA - Precinct: RIVERSIDE CITY"
-  },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-519": {
    "name": "Pierce County WA - Precinct: 28-519"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:129": {
-   "name": "Chelan County WA - Precinct: 129"
+  "ocd-division/country:us/state:wa/county:okanogan/precinct:134-riverside_city": {
+   "name": "Okanogan County WA - Precinct: RIVERSIDE CITY"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-518": {
    "name": "Pierce County WA - Precinct: 28-518"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:128": {
-   "name": "Chelan County WA - Precinct: 128"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:129": {
+   "name": "Chelan County WA - Precinct: 129"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-517": {
    "name": "Pierce County WA - Precinct: 28-517"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:127": {
-   "name": "Chelan County WA - Precinct: 127"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:128": {
+   "name": "Chelan County WA - Precinct: 128"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:51-aub_31-0051": {
-   "name": "King County WA - Precinct: AUB 31-0051"
+  "ocd-division/country:us/state:wa/county:snohomish/precinct:323401-ann": {
+   "name": "Snohomish County WA - Precinct: ANN"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-516": {
    "name": "Pierce County WA - Precinct: 28-516"
   },
-  "ocd-division/country:us/state:wa/county:snohomish/precinct:323401-ann": {
-   "name": "Snohomish County WA - Precinct: ANN"
+  "ocd-division/country:us/state:wa/county:king/precinct:51-aub_31-0051": {
+   "name": "King County WA - Precinct: AUB 31-0051"
+  },
+  "ocd-division/country:us/state:wa/county:chelan/precinct:127": {
+   "name": "Chelan County WA - Precinct: 127"
   },
   "ocd-division/country:us/state:wa/county:island/precinct:308-camano_8": {
    "name": "Island County WA - Precinct: CAMANO 08"
@@ -1706,14 +1706,14 @@
   "ocd-division/country:us/state:wa/county:chelan/precinct:121": {
    "name": "Chelan County WA - Precinct: 121"
   },
-  "ocd-division/country:us/state:wa/county:cowlitz/precinct:60-tunstall": {
-   "name": "Cowlitz County WA - Precinct: Tunstall"
+  "ocd-division/country:us/state:wa/county:king/precinct:819-shl_32-0819": {
+   "name": "King County WA - Precinct: SHL 32-0819"
   },
   "ocd-division/country:us/state:wa/county:chelan/precinct:120": {
    "name": "Chelan County WA - Precinct: 120"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:819-shl_32-0819": {
-   "name": "King County WA - Precinct: SHL 32-0819"
+  "ocd-division/country:us/state:wa/county:cowlitz/precinct:60-tunstall": {
+   "name": "Cowlitz County WA - Precinct: Tunstall"
   },
   "ocd-division/country:us/state:wa/county:thurston/precinct:342-lacey_42": {
    "name": "Thurston County WA - Precinct: Lacey 42"
@@ -1721,17 +1721,17 @@
   "ocd-division/country:us/state:wa/county:thurston/precinct:349-lacey_49": {
    "name": "Thurston County WA - Precinct: Lacey 49"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:416-enm_31-0416": {
-   "name": "King County WA - Precinct: ENM 31-0416"
-  },
   "ocd-division/country:us/state:wa/county:san_juan/precinct:26-blakely_and_outer_islands": {
    "name": "San Juan County WA - Precinct: Blakely & Outer Is"
   },
-  "ocd-division/country:us/state:wa/county:snohomish/school_district:arlington_school_district": {
-   "name": "arlington school district"
+  "ocd-division/country:us/state:wa/county:king/precinct:416-enm_31-0416": {
+   "name": "King County WA - Precinct: ENM 31-0416"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:3035-fed_30-3035": {
    "name": "King County WA - Precinct: FED 30-3035"
+  },
+  "ocd-division/country:us/state:wa/county:snohomish/school_district:arlington_school_district": {
+   "name": "arlington school district"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:41-aub_47-0041": {
    "name": "King County WA - Precinct: AUB 47-0041"
@@ -1742,59 +1742,59 @@
   "ocd-division/country:us/state:wa/county:mason/precinct:120-belfair": {
    "name": "Mason County WA - Precinct: BELFAIR"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:113": {
-   "name": "Chelan County WA - Precinct: 113"
+  "ocd-division/country:us/state:wa/county:pierce/precinct:28-502": {
+   "name": "Pierce County WA - Precinct: 28-502"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:136-bel_48-0136": {
    "name": "King County WA - Precinct: BEL 48-0136"
   },
-  "ocd-division/country:us/state:wa/county:pierce/precinct:28-502": {
-   "name": "Pierce County WA - Precinct: 28-502"
-  },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:112": {
-   "name": "Chelan County WA - Precinct: 112"
-  },
-  "ocd-division/country:us/state:wa/county:king/precinct:711-shl_32-0711": {
-   "name": "King County WA - Precinct: SHL 32-0711"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:113": {
+   "name": "Chelan County WA - Precinct: 113"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-501": {
    "name": "Pierce County WA - Precinct: 28-501"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:115": {
-   "name": "Chelan County WA - Precinct: 115"
+  "ocd-division/country:us/state:wa/county:king/precinct:711-shl_32-0711": {
+   "name": "King County WA - Precinct: SHL 32-0711"
+  },
+  "ocd-division/country:us/state:wa/county:chelan/precinct:112": {
+   "name": "Chelan County WA - Precinct: 112"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-504": {
    "name": "Pierce County WA - Precinct: 28-504"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:114": {
-   "name": "Chelan County WA - Precinct: 114"
-  },
-  "ocd-division/country:us/state:wa/county:kitsap/school_district:south_kitsap_school_district": {
-   "name": "south kitsap school district"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:115": {
+   "name": "Chelan County WA - Precinct: 115"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-503": {
    "name": "Pierce County WA - Precinct: 28-503"
   },
-  "ocd-division/country:us/state:wa/county:clallam/precinct:301-forks_301": {
-   "name": "Clallam County WA - Precinct: FORKS 301"
+  "ocd-division/country:us/state:wa/county:kitsap/school_district:south_kitsap_school_district": {
+   "name": "south kitsap school district"
+  },
+  "ocd-division/country:us/state:wa/county:chelan/precinct:114": {
+   "name": "Chelan County WA - Precinct: 114"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-506": {
    "name": "Pierce County WA - Precinct: 28-506"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:116": {
-   "name": "Chelan County WA - Precinct: 116"
+  "ocd-division/country:us/state:wa/county:clallam/precinct:301-forks_301": {
+   "name": "Clallam County WA - Precinct: FORKS 301"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-505": {
    "name": "Pierce County WA - Precinct: 28-505"
   },
+  "ocd-division/country:us/state:wa/county:chelan/precinct:116": {
+   "name": "Chelan County WA - Precinct: 116"
+  },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-508": {
    "name": "Pierce County WA - Precinct: 28-508"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3363-shl_32-3363": {
-   "name": "King County WA - Precinct: SHL 32-3363"
-  },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-507": {
    "name": "Pierce County WA - Precinct: 28-507"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:3363-shl_32-3363": {
+   "name": "King County WA - Precinct: SHL 32-3363"
   },
   "ocd-division/country:us/state:wa/county:walla_walla/precinct:4-baumeister": {
    "name": "Walla Walla County WA - Precinct: Baumeister 04"
@@ -1808,29 +1808,29 @@
   "ocd-division/country:us/state:wa/county:chelan/precinct:111": {
    "name": "Chelan County WA - Precinct: 111"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:218-bel_48-0218": {
-   "name": "King County WA - Precinct: BEL 48-0218"
+  "ocd-division/country:us/state:wa/county:okanogan/precinct:130-winthrop_1": {
+   "name": "Okanogan County WA - Precinct: WINTHROP #1"
   },
   "ocd-division/country:us/state:wa/county:chelan/precinct:110": {
    "name": "Chelan County WA - Precinct: 110"
   },
-  "ocd-division/country:us/state:wa/county:okanogan/precinct:130-winthrop_1": {
-   "name": "Okanogan County WA - Precinct: WINTHROP #1"
-  },
-  "ocd-division/country:us/state:wa/county:adams/precinct:123-batum": {
-   "name": "Adams County WA - Precinct: Batum"
+  "ocd-division/country:us/state:wa/county:king/precinct:218-bel_48-0218": {
+   "name": "King County WA - Precinct: BEL 48-0218"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:1313-sea_46-1313": {
    "name": "King County WA - Precinct: SEA 46-1313"
   },
+  "ocd-division/country:us/state:wa/county:adams/precinct:123-batum": {
+   "name": "Adams County WA - Precinct: Batum"
+  },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-509": {
    "name": "Pierce County WA - Precinct: 28-509"
   },
-  "ocd-division/country:us/state:wa/county:whitman/school_district:garfield_school_district": {
-   "name": "garfield school district"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:382269-everett_69": {
    "name": "Snohomish County WA - Precinct: EVERETT  69"
+  },
+  "ocd-division/country:us/state:wa/county:whitman/school_district:garfield_school_district": {
+   "name": "garfield school district"
   },
   "ocd-division/country:us/state:wa/county:lincoln/precinct:6-davenport_rural": {
    "name": "Lincoln County WA - Precinct: DAVENPORT RURAL"
@@ -1844,11 +1844,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:723-marian": {
    "name": "King County WA - Precinct: MARIAN"
   },
-  "ocd-division/country:us/state:wa/county:thurston/precinct:232-olympia_32": {
-   "name": "Thurston County WA - Precinct: Olympia 32"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:1722-sea_36-1722": {
    "name": "King County WA - Precinct: SEA 36-1722"
+  },
+  "ocd-division/country:us/state:wa/county:thurston/precinct:232-olympia_32": {
+   "name": "Thurston County WA - Precinct: Olympia 32"
   },
   "ocd-division/country:us/state:wa/county:thurston/precinct:129-college": {
    "name": "Thurston County WA - Precinct: College"
@@ -1865,14 +1865,14 @@
   "ocd-division/country:us/state:wa/county:king/precinct:2029-sea_43-2029": {
    "name": "King County WA - Precinct: SEA 43-2029"
   },
-  "ocd-division/country:us/state:wa/place:tenino": {
-   "name": "Tenino city"
+  "ocd-division/country:us/state:wa/county:island/precinct:254-n_whidbey_9": {
+   "name": "Island County WA - Precinct: N WHIDBEY 09"
   },
   "ocd-division/country:us/state:wa/county:benton/precinct:2404-south": {
    "name": "Benton County WA - Precinct: South"
   },
-  "ocd-division/country:us/state:wa/county:island/precinct:254-n_whidbey_9": {
-   "name": "Island County WA - Precinct: N WHIDBEY 09"
+  "ocd-division/country:us/state:wa/place:tenino": {
+   "name": "Tenino city"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:113101-edmonds_52": {
    "name": "Snohomish County WA - Precinct: EDMONDS 52"
@@ -1880,11 +1880,11 @@
   "ocd-division/country:us/state:wa/county:snohomish/precinct:445456-pellerin": {
    "name": "Snohomish County WA - Precinct: PELLERIN"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:1600-sea_11-1600": {
-   "name": "King County WA - Precinct: SEA 11-1600"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:921-shl_32-0921": {
    "name": "King County WA - Precinct: SHL 32-0921"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:1600-sea_11-1600": {
+   "name": "King County WA - Precinct: SEA 11-1600"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:381404-coho": {
    "name": "Snohomish County WA - Precinct: COHO"
@@ -1901,11 +1901,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:2148-sea_36-2148": {
    "name": "King County WA - Precinct: SEA 36-2148"
   },
-  "ocd-division/country:us/state:wa/place:duvall": {
-   "name": "Duvall city"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:3109-kir_45-3109": {
    "name": "King County WA - Precinct: KIR 45-3109"
+  },
+  "ocd-division/country:us/state:wa/place:duvall": {
+   "name": "Duvall city"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:558-shl_32-0558": {
    "name": "King County WA - Precinct: SHL 32-0558"
@@ -1931,47 +1931,47 @@
   "ocd-division/country:us/state:wa/county:king/precinct:1910-sea_37-1910": {
    "name": "King County WA - Precinct: SEA 37-1910"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2924-kir_45-2924": {
-   "name": "King County WA - Precinct: KIR 45-2924"
+  "ocd-division/country:us/state:wa/county:king/precinct:1008-rnt_11-1008": {
+   "name": "King County WA - Precinct: RNT 11-1008"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:2360-sea_46-2360": {
    "name": "King County WA - Precinct: SEA 46-2360"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:1008-rnt_11-1008": {
-   "name": "King County WA - Precinct: RNT 11-1008"
+  "ocd-division/country:us/state:wa/county:king/precinct:2924-kir_45-2924": {
+   "name": "King County WA - Precinct: KIR 45-2924"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:3579-ken_47-3579": {
    "name": "King County WA - Precinct: KEN 47-3579"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:161": {
-   "name": "Chelan County WA - Precinct: 161"
-  },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-550": {
    "name": "Pierce County WA - Precinct: 28-550"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:162": {
-   "name": "Chelan County WA - Precinct: 162"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:161": {
+   "name": "Chelan County WA - Precinct: 161"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-551": {
    "name": "Pierce County WA - Precinct: 28-551"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:163": {
-   "name": "Chelan County WA - Precinct: 163"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:162": {
+   "name": "Chelan County WA - Precinct: 162"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-552": {
    "name": "Pierce County WA - Precinct: 28-552"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:164": {
-   "name": "Chelan County WA - Precinct: 164"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:163": {
+   "name": "Chelan County WA - Precinct: 163"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-553": {
    "name": "Pierce County WA - Precinct: 28-553"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:165": {
-   "name": "Chelan County WA - Precinct: 165"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:164": {
+   "name": "Chelan County WA - Precinct: 164"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-554": {
    "name": "Pierce County WA - Precinct: 28-554"
+  },
+  "ocd-division/country:us/state:wa/county:chelan/precinct:165": {
+   "name": "Chelan County WA - Precinct: 165"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-555": {
    "name": "Pierce County WA - Precinct: 28-555"
@@ -2009,80 +2009,80 @@
   "ocd-division/country:us/state:wa/county:chelan/precinct:150": {
    "name": "Chelan County WA - Precinct: 150"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:151": {
-   "name": "Chelan County WA - Precinct: 151"
-  },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-540": {
    "name": "Pierce County WA - Precinct: 28-540"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:154": {
-   "name": "Chelan County WA - Precinct: 154"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:151": {
+   "name": "Chelan County WA - Precinct: 151"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-543": {
    "name": "Pierce County WA - Precinct: 28-543"
   },
-  "ocd-division/country:us/state:wa/place:winthrop": {
-   "name": "Winthrop town"
-  },
-  "ocd-division/country:us/state:wa/county:benton/school_district:prosser_school_district": {
-   "name": "prosser school district"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:154": {
+   "name": "Chelan County WA - Precinct: 154"
   },
   "ocd-division/country:us/state:wa/county:chelan/precinct:155": {
    "name": "Chelan County WA - Precinct: 155"
   },
-  "ocd-division/country:us/state:wa/county:whatcom/school_district:blaine_school_district": {
-   "name": "blaine school district"
+  "ocd-division/country:us/state:wa/county:benton/school_district:prosser_school_district": {
+   "name": "prosser school district"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:152": {
-   "name": "Chelan County WA - Precinct: 152"
-  },
-  "ocd-division/country:us/state:wa/county:king/precinct:50-aub_31-0050": {
-   "name": "King County WA - Precinct: AUB 31-0050"
+  "ocd-division/country:us/state:wa/place:winthrop": {
+   "name": "Winthrop town"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-541": {
    "name": "Pierce County WA - Precinct: 28-541"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:153": {
-   "name": "Chelan County WA - Precinct: 153"
+  "ocd-division/country:us/state:wa/county:king/precinct:50-aub_31-0050": {
+   "name": "King County WA - Precinct: AUB 31-0050"
+  },
+  "ocd-division/country:us/state:wa/county:chelan/precinct:152": {
+   "name": "Chelan County WA - Precinct: 152"
+  },
+  "ocd-division/country:us/state:wa/county:whatcom/school_district:blaine_school_district": {
+   "name": "blaine school district"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-542": {
    "name": "Pierce County WA - Precinct: 28-542"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:158": {
-   "name": "Chelan County WA - Precinct: 158"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:153": {
+   "name": "Chelan County WA - Precinct: 153"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-547": {
    "name": "Pierce County WA - Precinct: 28-547"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2206-sea_32-2206": {
-   "name": "King County WA - Precinct: SEA 32-2206"
-  },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:159": {
-   "name": "Chelan County WA - Precinct: 159"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:158": {
+   "name": "Chelan County WA - Precinct: 158"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-548": {
    "name": "Pierce County WA - Precinct: 28-548"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:156": {
-   "name": "Chelan County WA - Precinct: 156"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:159": {
+   "name": "Chelan County WA - Precinct: 159"
   },
-  "ocd-division/country:us/state:wa/county:kittitas/precinct:8-ellensburg_1": {
-   "name": "Kittitas County WA - Precinct: ELLENSBURG 1"
+  "ocd-division/country:us/state:wa/county:king/precinct:2206-sea_32-2206": {
+   "name": "King County WA - Precinct: SEA 32-2206"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-545": {
    "name": "Pierce County WA - Precinct: 28-545"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:157": {
-   "name": "Chelan County WA - Precinct: 157"
+  "ocd-division/country:us/state:wa/county:kittitas/precinct:8-ellensburg_1": {
+   "name": "Kittitas County WA - Precinct: ELLENSBURG 1"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3663-ken_11-3663": {
-   "name": "King County WA - Precinct: KEN 11-3663"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:156": {
+   "name": "Chelan County WA - Precinct: 156"
+  },
+  "ocd-division/country:us/state:wa/county:pierce/precinct:28-546": {
+   "name": "Pierce County WA - Precinct: 28-546"
   },
   "ocd-division/country:us/state:wa/county:okanogan/precinct:70-pine_cone": {
    "name": "Okanogan County WA - Precinct: PINE CONE"
   },
-  "ocd-division/country:us/state:wa/county:pierce/precinct:28-546": {
-   "name": "Pierce County WA - Precinct: 28-546"
+  "ocd-division/country:us/state:wa/county:king/precinct:3663-ken_11-3663": {
+   "name": "King County WA - Precinct: KEN 11-3663"
+  },
+  "ocd-division/country:us/state:wa/county:chelan/precinct:157": {
+   "name": "Chelan County WA - Precinct: 157"
   },
   "ocd-division/country:us/state:wa/county:kitsap/precinct:100460-suquamish": {
    "name": "Kitsap County WA - Precinct: SUQUAMISH 460"
@@ -2099,29 +2099,29 @@
   "ocd-division/country:us/state:wa/county:benton/precinct:1020-carley": {
    "name": "Benton County WA - Precinct: Carley"
   },
-  "ocd-division/country:us/state:wa/county:walla_walla/precinct:40-derry": {
-   "name": "Walla Walla County WA - Precinct: Derry 40"
-  },
   "ocd-division/country:us/state:wa/county:thurston/precinct:67-quince": {
    "name": "Thurston County WA - Precinct: Quince"
+  },
+  "ocd-division/country:us/state:wa/county:walla_walla/precinct:40-derry": {
+   "name": "Walla Walla County WA - Precinct: Derry 40"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:3040-fed_30-3040": {
    "name": "King County WA - Precinct: FED 30-3040"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:141": {
-   "name": "Chelan County WA - Precinct: 141"
-  },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-530": {
    "name": "Pierce County WA - Precinct: 28-530"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:142": {
-   "name": "Chelan County WA - Precinct: 142"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:141": {
+   "name": "Chelan County WA - Precinct: 141"
+  },
+  "ocd-division/country:us/state:wa/county:snohomish/precinct:213251-lynnwood_1": {
+   "name": "Snohomish County WA - Precinct: LYNNWOOD  1"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-531": {
    "name": "Pierce County WA - Precinct: 28-531"
   },
-  "ocd-division/country:us/state:wa/county:snohomish/precinct:213251-lynnwood_1": {
-   "name": "Snohomish County WA - Precinct: LYNNWOOD  1"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:142": {
+   "name": "Chelan County WA - Precinct: 142"
   },
   "ocd-division/country:us/state:wa/county:chelan/precinct:143": {
    "name": "Chelan County WA - Precinct: 143"
@@ -2135,44 +2135,44 @@
   "ocd-division/country:us/state:wa/county:chelan/precinct:140": {
    "name": "Chelan County WA - Precinct: 140"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:149": {
-   "name": "Chelan County WA - Precinct: 149"
-  },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-538": {
    "name": "Pierce County WA - Precinct: 28-538"
+  },
+  "ocd-division/country:us/state:wa/county:chelan/precinct:149": {
+   "name": "Chelan County WA - Precinct: 149"
   },
   "ocd-division/country:us/state:wa/county:chelan/precinct:145": {
    "name": "Chelan County WA - Precinct: 145"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3008-fed_30-3008": {
-   "name": "King County WA - Precinct: FED 30-3008"
-  },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:146": {
-   "name": "Chelan County WA - Precinct: 146"
+  "ocd-division/country:us/state:wa/county:snohomish/precinct:442902-everett_58": {
+   "name": "Snohomish County WA - Precinct: EVERETT  58"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-535": {
    "name": "Pierce County WA - Precinct: 28-535"
   },
-  "ocd-division/country:us/state:wa/county:snohomish/precinct:442902-everett_58": {
-   "name": "Snohomish County WA - Precinct: EVERETT  58"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:146": {
+   "name": "Chelan County WA - Precinct: 146"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:147": {
-   "name": "Chelan County WA - Precinct: 147"
+  "ocd-division/country:us/state:wa/county:king/precinct:3008-fed_30-3008": {
+   "name": "King County WA - Precinct: FED 30-3008"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-536": {
    "name": "Pierce County WA - Precinct: 28-536"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:148": {
-   "name": "Chelan County WA - Precinct: 148"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:147": {
+   "name": "Chelan County WA - Precinct: 147"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-537": {
    "name": "Pierce County WA - Precinct: 28-537"
   },
-  "ocd-division/country:us/state:wa/county:snohomish/precinct:114117-bothell_45": {
-   "name": "Snohomish County WA - Precinct: BOTHELL 45"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:148": {
+   "name": "Chelan County WA - Precinct: 148"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:444199-everett_61": {
    "name": "Snohomish County WA - Precinct: EVERETT  61"
+  },
+  "ocd-division/country:us/state:wa/county:snohomish/precinct:114117-bothell_45": {
+   "name": "Snohomish County WA - Precinct: BOTHELL 45"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:2023-sea_43-2023": {
    "name": "King County WA - Precinct: SEA 43-2023"
@@ -2195,29 +2195,29 @@
   "ocd-division/country:us/state:wa/county:snohomish/precinct:395216-monroe_6": {
    "name": "Snohomish County WA - Precinct: MONROE  6"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:132": {
-   "name": "Chelan County WA - Precinct: 132"
-  },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-521": {
    "name": "Pierce County WA - Precinct: 28-521"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:133": {
-   "name": "Chelan County WA - Precinct: 133"
-  },
-  "ocd-division/country:us/state:wa/county:grays_harbor/school_district:montesano_school_district": {
-   "name": "montesano school district"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:132": {
+   "name": "Chelan County WA - Precinct: 132"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-522": {
    "name": "Pierce County WA - Precinct: 28-522"
   },
+  "ocd-division/country:us/state:wa/county:grays_harbor/school_district:montesano_school_district": {
+   "name": "montesano school district"
+  },
+  "ocd-division/country:us/state:wa/county:chelan/precinct:133": {
+   "name": "Chelan County WA - Precinct: 133"
+  },
   "ocd-division/country:us/state:wa/county:king/precinct:2349-sea_46-2349": {
    "name": "King County WA - Precinct: SEA 46-2349"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:131": {
-   "name": "Chelan County WA - Precinct: 131"
-  },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-520": {
    "name": "Pierce County WA - Precinct: 28-520"
+  },
+  "ocd-division/country:us/state:wa/county:chelan/precinct:131": {
+   "name": "Chelan County WA - Precinct: 131"
   },
   "ocd-division/country:us/state:wa/county:cowlitz/precinct:49-ridgecrest": {
    "name": "Cowlitz County WA - Precinct: Ridgecrest"
@@ -2231,29 +2231,29 @@
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-528": {
    "name": "Pierce County WA - Precinct: 28-528"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:156-bel_48-0156": {
-   "name": "King County WA - Precinct: BEL 48-0156"
+  "ocd-division/country:us/state:wa/county:pierce/precinct:28-525": {
+   "name": "Pierce County WA - Precinct: 28-525"
   },
   "ocd-division/country:us/state:wa/county:chelan/precinct:136": {
    "name": "Chelan County WA - Precinct: 136"
   },
-  "ocd-division/country:us/state:wa/county:pierce/precinct:28-525": {
-   "name": "Pierce County WA - Precinct: 28-525"
+  "ocd-division/country:us/state:wa/county:king/precinct:156-bel_48-0156": {
+   "name": "King County WA - Precinct: BEL 48-0156"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-526": {
    "name": "Pierce County WA - Precinct: 28-526"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:134": {
-   "name": "Chelan County WA - Precinct: 134"
-  },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-523": {
    "name": "Pierce County WA - Precinct: 28-523"
   },
-  "ocd-division/country:us/state:wa/county:chelan/precinct:135": {
-   "name": "Chelan County WA - Precinct: 135"
+  "ocd-division/country:us/state:wa/county:chelan/precinct:134": {
+   "name": "Chelan County WA - Precinct: 134"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-524": {
    "name": "Pierce County WA - Precinct: 28-524"
+  },
+  "ocd-division/country:us/state:wa/county:chelan/precinct:135": {
+   "name": "Chelan County WA - Precinct: 135"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:1982-sea_43-1982": {
    "name": "King County WA - Precinct: SEA 43-1982"
@@ -2267,23 +2267,23 @@
   "ocd-division/country:us/state:wa/county:snohomish/precinct:323207-edmonds_7": {
    "name": "Snohomish County WA - Precinct: EDMONDS  7"
   },
-  "ocd-division/country:us/state:wa/county:whitman/precinct:142-colfax_city_142": {
-   "name": "Whitman County WA - Precinct: COLFAX CITY 142"
+  "ocd-division/country:us/state:wa/county:snohomish/precinct:395234-sultan_4": {
+   "name": "Snohomish County WA - Precinct: SULTAN 4"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:3290-car_5-3290": {
    "name": "King County WA - Precinct: CAR 05-3290"
   },
-  "ocd-division/country:us/state:wa/county:snohomish/precinct:395234-sultan_4": {
-   "name": "Snohomish County WA - Precinct: SULTAN 4"
+  "ocd-division/country:us/state:wa/county:whitman/precinct:142-colfax_city_142": {
+   "name": "Whitman County WA - Precinct: COLFAX CITY 142"
   },
   "ocd-division/country:us/state:wa/county:skagit/school_district:burlington-edison_school_district": {
    "name": "burlington-edison school district"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3463-b-d_5-3463": {
-   "name": "King County WA - Precinct: B-D 05-3463"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:114109-bothell_38": {
    "name": "Snohomish County WA - Precinct: BOTHELL 38"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:3463-b-d_5-3463": {
+   "name": "King County WA - Precinct: B-D 05-3463"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:2593-sea_36-2593": {
    "name": "King County WA - Precinct: SEA 36-2593"
@@ -2291,14 +2291,14 @@
   "ocd-division/country:us/state:wa/county:ferry/school_district:curlew_school_district": {
    "name": "curlew school district"
   },
+  "ocd-division/country:us/state:wa/county:king/precinct:3530-wod_45-3530": {
+   "name": "King County WA - Precinct: WOD 45-3530"
+  },
   "ocd-division/country:us/state:wa/county:chelan/council_district:1": {
    "name": "Chelan County District 1",
    "officeIndices": [
     154
    ]
-  },
-  "ocd-division/country:us/state:wa/county:king/precinct:3530-wod_45-3530": {
-   "name": "King County WA - Precinct: WOD 45-3530"
   },
   "ocd-division/country:us/state:wa/county:chelan/council_district:3": {
    "name": "Chelan County District 3",
@@ -2326,11 +2326,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:2272-sea_46-2272": {
    "name": "King County WA - Precinct: SEA 46-2272"
   },
-  "ocd-division/country:us/state:wa/county:pierce/precinct:28-590": {
-   "name": "Pierce County WA - Precinct: 28-590"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:382275-everett_75": {
    "name": "Snohomish County WA - Precinct: EVERETT  75"
+  },
+  "ocd-division/country:us/state:wa/county:pierce/precinct:28-590": {
+   "name": "Pierce County WA - Precinct: 28-590"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:641-kir_48-0641": {
    "name": "King County WA - Precinct: KIR 48-0641"
@@ -2338,23 +2338,23 @@
   "ocd-division/country:us/state:wa/county:king/precinct:241-shl_32-0241": {
    "name": "King County WA - Precinct: SHL 32-0241"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2449-red_48-2449": {
-   "name": "King County WA - Precinct: RED 48-2449"
-  },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-589": {
    "name": "Pierce County WA - Precinct: 28-589"
   },
-  "ocd-division/country:us/state:wa/county:thurston/precinct:148-scatter_creek": {
-   "name": "Thurston County WA - Precinct: Scatter Creek"
+  "ocd-division/country:us/state:wa/county:king/precinct:2449-red_48-2449": {
+   "name": "King County WA - Precinct: RED 48-2449"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-584": {
    "name": "Pierce County WA - Precinct: 28-584"
   },
-  "ocd-division/country:us/state:wa/county:pierce/precinct:28-583": {
-   "name": "Pierce County WA - Precinct: 28-583"
+  "ocd-division/country:us/state:wa/county:thurston/precinct:148-scatter_creek": {
+   "name": "Thurston County WA - Precinct: Scatter Creek"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:445243-lake_stevens_23": {
    "name": "Snohomish County WA - Precinct: LAKE STEVENS 23"
+  },
+  "ocd-division/country:us/state:wa/county:pierce/precinct:28-583": {
+   "name": "Pierce County WA - Precinct: 28-583"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-582": {
    "name": "Pierce County WA - Precinct: 28-582"
@@ -2371,17 +2371,17 @@
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-586": {
    "name": "Pierce County WA - Precinct: 28-586"
   },
-  "ocd-division/country:us/state:wa/county:kitsap/precinct:100140-gilberton": {
-   "name": "Kitsap County WA - Precinct: GILBERTON 140"
-  },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-585": {
    "name": "Pierce County WA - Precinct: 28-585"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:1868-sea_43-1868": {
-   "name": "King County WA - Precinct: SEA 43-1868"
+  "ocd-division/country:us/state:wa/county:kitsap/precinct:100140-gilberton": {
+   "name": "Kitsap County WA - Precinct: GILBERTON 140"
   },
   "ocd-division/country:us/state:wa/county:chelan/precinct:190": {
    "name": "Chelan County WA - Precinct: 190"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:1868-sea_43-1868": {
+   "name": "King County WA - Precinct: SEA 43-1868"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:28-580": {
    "name": "Pierce County WA - Precinct: 28-580"
@@ -4109,11 +4109,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:1067-bur_33-1067": {
    "name": "King County WA - Precinct: BUR 33-1067"
   },
-  "ocd-division/country:us/state:wa/place:kennewick/ward:2/precinct:570": {
-   "name": "Benton County WA - Precinct: W2 - P570"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:391406-boulder": {
    "name": "Snohomish County WA - Precinct: BOULDER"
+  },
+  "ocd-division/country:us/state:wa/place:kennewick/ward:2/precinct:570": {
+   "name": "Benton County WA - Precinct: W2 - P570"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:331-connaught": {
    "name": "King County WA - Precinct: CONNAUGHT"
@@ -4121,11 +4121,11 @@
   "ocd-division/country:us/state:wa/county:snohomish/precinct:395412-highland": {
    "name": "Snohomish County WA - Precinct: HIGHLAND"
   },
-  "ocd-division/country:us/state:wa/county:grays_harbor/precinct:16-wilderness": {
-   "name": "Grays Harbor County WA - Precinct: Wilderness 016"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:1031-set_33-1031": {
    "name": "King County WA - Precinct: SET 33-1031"
+  },
+  "ocd-division/country:us/state:wa/county:grays_harbor/precinct:16-wilderness": {
+   "name": "Grays Harbor County WA - Precinct: Wilderness 016"
   },
   "ocd-division/country:us/state:wa/county:spokane/school_district:lakewood_school_district": {
    "name": "lakewood school district"
@@ -4133,11 +4133,11 @@
   "ocd-division/country:us/state:wa/county:asotin/precinct:102-asotin_2": {
    "name": "Asotin County WA - Precinct: ASOTIN #2"
   },
-  "ocd-division/country:us/state:wa/county:whitman/school_district:pullman_school_district": {
-   "name": "pullman school district"
-  },
   "ocd-division/country:us/state:wa/county:kitsap/precinct:100240-harper": {
    "name": "Kitsap County WA - Precinct: HARPER 240"
+  },
+  "ocd-division/country:us/state:wa/county:whitman/school_district:pullman_school_district": {
+   "name": "pullman school district"
   },
   "ocd-division/country:us/state:wa/county:lewis/precinct:55-stillwater_west": {
    "name": "Lewis County WA - Precinct: Stillwater West"
@@ -4145,11 +4145,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:3468-crow": {
    "name": "King County WA - Precinct: CROW"
   },
-  "ocd-division/country:us/state:wa/county:thurston/precinct:66-fish_trap": {
-   "name": "Thurston County WA - Precinct: Fish Trap"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:391433-sisco": {
    "name": "Snohomish County WA - Precinct: SISCO"
+  },
+  "ocd-division/country:us/state:wa/county:thurston/precinct:66-fish_trap": {
+   "name": "Thurston County WA - Precinct: Fish Trap"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:445426-marsh": {
    "name": "Snohomish County WA - Precinct: MARSH"
@@ -4163,11 +4163,11 @@
   "ocd-division/country:us/state:wa/county:asotin/precinct:305-clarkston_hts_5": {
    "name": "Asotin County WA - Precinct: CLARKSTON HTS #5"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2338-sea_46-2338": {
-   "name": "King County WA - Precinct: SEA 46-2338"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:19-kir_1-0019": {
    "name": "King County WA - Precinct: KIR 01-0019"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:2338-sea_46-2338": {
+   "name": "King County WA - Precinct: SEA 46-2338"
   },
   "ocd-division/country:us/state:wa/county:benton": {
    "name": "Benton County",
@@ -4184,11 +4184,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:2999-fed_30-2999": {
    "name": "King County WA - Precinct: FED 30-2999"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2699-ken_33-2699": {
-   "name": "King County WA - Precinct: KEN 33-2699"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:2068-sea_43-2068": {
    "name": "King County WA - Precinct: SEA 43-2068"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:2699-ken_33-2699": {
+   "name": "King County WA - Precinct: KEN 33-2699"
   },
   "ocd-division/country:us/state:wa/county:skagit/precinct:403-sedro_woolley_3": {
    "name": "Skagit County WA - Precinct: SEDRO WOOLLEY  3"
@@ -4229,17 +4229,17 @@
   "ocd-division/country:us/state:wa/county:clark/precinct:584": {
    "name": "Clark County WA - Precinct: 584"
   },
-  "ocd-division/country:us/state:wa/county:clark/precinct:583": {
-   "name": "Clark County WA - Precinct: 583"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:114415-freeway": {
    "name": "Snohomish County WA - Precinct: FREEWAY"
   },
-  "ocd-division/country:us/state:wa/county:clark/precinct:582": {
-   "name": "Clark County WA - Precinct: 582"
+  "ocd-division/country:us/state:wa/county:clark/precinct:583": {
+   "name": "Clark County WA - Precinct: 583"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:114111-bothell_40": {
    "name": "Snohomish County WA - Precinct: BOTHELL 40"
+  },
+  "ocd-division/country:us/state:wa/county:clark/precinct:582": {
+   "name": "Clark County WA - Precinct: 582"
   },
   "ocd-division/country:us/state:wa/county:clark/precinct:581": {
    "name": "Clark County WA - Precinct: 581"
@@ -4274,11 +4274,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:1423-sea_34-1423": {
    "name": "King County WA - Precinct: SEA 34-1423"
   },
-  "ocd-division/country:us/state:wa/county:thurston/precinct:64-airport": {
-   "name": "Thurston County WA - Precinct: Airport"
-  },
   "ocd-division/country:us/state:wa/county:clark/precinct:591": {
    "name": "Clark County WA - Precinct: 591"
+  },
+  "ocd-division/country:us/state:wa/county:thurston/precinct:64-airport": {
+   "name": "Thurston County WA - Precinct: Airport"
   },
   "ocd-division/country:us/state:wa/county:clark/precinct:590": {
    "name": "Clark County WA - Precinct: 590"
@@ -4289,14 +4289,14 @@
   "ocd-division/country:us/state:wa/county:clark/precinct:592": {
    "name": "Clark County WA - Precinct: 592"
   },
-  "ocd-division/country:us/state:wa/county:clark/precinct:595": {
-   "name": "Clark County WA - Precinct: 595"
+  "ocd-division/country:us/state:wa/county:skagit/precinct:109-belfast": {
+   "name": "Skagit County WA - Precinct: BELFAST"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:3344-ken_47-3344": {
    "name": "King County WA - Precinct: KEN 47-3344"
   },
-  "ocd-division/country:us/state:wa/county:skagit/precinct:109-belfast": {
-   "name": "Skagit County WA - Precinct: BELFAST"
+  "ocd-division/country:us/state:wa/county:clark/precinct:595": {
+   "name": "Clark County WA - Precinct: 595"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:2773-bel_48-2773": {
    "name": "King County WA - Precinct: BEL 48-2773"
@@ -4307,11 +4307,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:785-m-i_41-0785": {
    "name": "King County WA - Precinct: M-I 41-0785"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3131-des_33-3131": {
-   "name": "King County WA - Precinct: DES 33-3131"
-  },
   "ocd-division/country:us/state:wa/county:island/precinct:352-n_whidbey_2": {
    "name": "Island County WA - Precinct: N WHIDBEY 02"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:3131-des_33-3131": {
+   "name": "King County WA - Precinct: DES 33-3131"
   },
   "ocd-division/country:us/state:wa/county:klickitat/precinct:14-roosevelt": {
    "name": "Klickitat County WA - Precinct: ROOSEVELT"
@@ -4325,11 +4325,11 @@
   "ocd-division/country:us/state:wa/county:yakima/precinct:1301": {
    "name": "Yakima County WA - Precinct: 1301"
   },
-  "ocd-division/country:us/state:wa/county:thurston/precinct:187-mullen": {
-   "name": "Thurston County WA - Precinct: Mullen"
-  },
   "ocd-division/country:us/state:wa/county:kitsap/precinct:100155-seabeck": {
    "name": "Kitsap County WA - Precinct: SEABECK 155"
+  },
+  "ocd-division/country:us/state:wa/county:thurston/precinct:187-mullen": {
+   "name": "Thurston County WA - Precinct: Mullen"
   },
   "ocd-division/country:us/state:wa/county:walla_walla/precinct:56-touchet_5": {
    "name": "Walla Walla County WA - Precinct: Touchet 5 56"
@@ -4358,11 +4358,11 @@
   "ocd-division/country:us/state:wa/county:grant/school_district:moses_lake_school_district": {
    "name": "moses lake school district"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3680-bel_41-3680": {
-   "name": "King County WA - Precinct: BEL 41-3680"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:114435-wandering_creek": {
    "name": "Snohomish County WA - Precinct: WANDERING CREEK"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:3680-bel_41-3680": {
+   "name": "King County WA - Precinct: BEL 41-3680"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:2517-sea_36-2517": {
    "name": "King County WA - Precinct: SEA 36-2517"
@@ -4376,26 +4376,26 @@
   "ocd-division/country:us/state:wa/county:stevens/precinct:40-tum_tum_4": {
    "name": "Stevens County WA - Precinct: TUM TUM 4"
   },
-  "ocd-division/country:us/state:wa/county:thurston/precinct:151-littlerock": {
-   "name": "Thurston County WA - Precinct: Littlerock"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:1759-sea_36-1759": {
    "name": "King County WA - Precinct: SEA 36-1759"
+  },
+  "ocd-division/country:us/state:wa/county:thurston/precinct:151-littlerock": {
+   "name": "Thurston County WA - Precinct: Littlerock"
   },
   "ocd-division/country:us/state:wa/county:whitman/precinct:125-pullman_city_125": {
    "name": "Whitman County WA - Precinct: PULLMAN CITY 125"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3386-sam_45-3386": {
-   "name": "King County WA - Precinct: SAM 45-3386"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:374-dolphin": {
    "name": "King County WA - Precinct: DOLPHIN"
   },
-  "ocd-division/country:us/state:wa/county:island/precinct:355-n_whidbey_5": {
-   "name": "Island County WA - Precinct: N WHIDBEY 05"
+  "ocd-division/country:us/state:wa/county:king/precinct:3386-sam_45-3386": {
+   "name": "King County WA - Precinct: SAM 45-3386"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:3387-sam_45-3387": {
    "name": "King County WA - Precinct: SAM 45-3387"
+  },
+  "ocd-division/country:us/state:wa/county:island/precinct:355-n_whidbey_5": {
+   "name": "Island County WA - Precinct: N WHIDBEY 05"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:1143-lfp_46-1143": {
    "name": "King County WA - Precinct: LFP 46-1143"
@@ -4448,20 +4448,20 @@
   "ocd-division/country:us/state:wa/county:snohomish/precinct:442405-valmont": {
    "name": "Snohomish County WA - Precinct: VALMONT"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3384-sam_41-3384": {
-   "name": "King County WA - Precinct: SAM 41-3384"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:113412-stone_gate": {
    "name": "Snohomish County WA - Precinct: STONE GATE"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:3384-sam_41-3384": {
+   "name": "King County WA - Precinct: SAM 41-3384"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:2736-lynx": {
    "name": "King County WA - Precinct: LYNX"
   },
-  "ocd-division/country:us/state:wa/county:thurston/precinct:344-lacey_44": {
-   "name": "Thurston County WA - Precinct: Lacey 44"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:598-ken_33-0598": {
    "name": "King County WA - Precinct: KEN 33-0598"
+  },
+  "ocd-division/country:us/state:wa/county:thurston/precinct:344-lacey_44": {
+   "name": "Thurston County WA - Precinct: Lacey 44"
   },
   "ocd-division/country:us/state:wa/county:skagit/precinct:139-minkler": {
    "name": "Skagit County WA - Precinct: MINKLER"
@@ -4484,11 +4484,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:1078-des_33-1078": {
    "name": "King County WA - Precinct: DES 33-1078"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2161-sea_36-2161": {
-   "name": "King County WA - Precinct: SEA 36-2161"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:213422-post": {
    "name": "Snohomish County WA - Precinct: POST"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:2161-sea_36-2161": {
+   "name": "King County WA - Precinct: SEA 36-2161"
   },
   "ocd-division/country:us/state:wa/county:clallam/precinct:207-bell_hill": {
    "name": "Clallam County WA - Precinct: BELL HILL 207"
@@ -4523,14 +4523,14 @@
   "ocd-division/country:us/state:wa/county:king/precinct:1747-sea_36-1747": {
    "name": "King County WA - Precinct: SEA 36-1747"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3127-tuk_11-3127": {
-   "name": "King County WA - Precinct: TUK 11-3127"
+  "ocd-division/country:us/state:wa/county:snohomish/precinct:114424-north_creek": {
+   "name": "Snohomish County WA - Precinct: NORTH CREEK"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:1396-sea_36-1396": {
    "name": "King County WA - Precinct: SEA 36-1396"
   },
-  "ocd-division/country:us/state:wa/county:snohomish/precinct:114424-north_creek": {
-   "name": "Snohomish County WA - Precinct: NORTH CREEK"
+  "ocd-division/country:us/state:wa/county:king/precinct:3127-tuk_11-3127": {
+   "name": "King County WA - Precinct: TUK 11-3127"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:381204-marysville_4": {
    "name": "Snohomish County WA - Precinct: MARYSVILLE  4"
@@ -4547,11 +4547,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:1715-sea_36-1715": {
    "name": "King County WA - Precinct: SEA 36-1715"
   },
-  "ocd-division/country:us/state:wa/county:cowlitz/precinct:66-woodland_north": {
-   "name": "Cowlitz County WA - Precinct: Woodland North"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:212204-mukilteo_4": {
    "name": "Snohomish County WA - Precinct: MUKILTEO  4"
+  },
+  "ocd-division/country:us/state:wa/county:cowlitz/precinct:66-woodland_north": {
+   "name": "Cowlitz County WA - Precinct: Woodland North"
   },
   "ocd-division/country:us/state:wa/county:skagit/precinct:176-fredonia": {
    "name": "Skagit County WA - Precinct: FREDONIA"
@@ -4565,11 +4565,11 @@
   "ocd-division/country:us/state:wa/county:thurston/precinct:259-olympia_59": {
    "name": "Thurston County WA - Precinct: Olympia 59"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2506-sea_36-2506": {
-   "name": "King County WA - Precinct: SEA 36-2506"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:3518-aub_47-3518": {
    "name": "King County WA - Precinct: AUB 47-3518"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:2506-sea_36-2506": {
+   "name": "King County WA - Precinct: SEA 36-2506"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:2840-hansen": {
    "name": "King County WA - Precinct: HANSEN"
@@ -4577,17 +4577,17 @@
   "ocd-division/country:us/state:wa/county:okanogan/precinct:306-omak_unincorporated": {
    "name": "Okanogan County WA - Precinct: OMAK UNINCORPORATED"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:300-cedar_park": {
-   "name": "King County WA - Precinct: CEDAR PARK"
-  },
   "ocd-division/country:us/state:wa/county:benton/precinct:5631-miller": {
    "name": "Benton County WA - Precinct: Miller"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:1963-sea_46-1963": {
-   "name": "King County WA - Precinct: SEA 46-1963"
+  "ocd-division/country:us/state:wa/county:king/precinct:300-cedar_park": {
+   "name": "King County WA - Precinct: CEDAR PARK"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:1478-sea_34-1478": {
    "name": "King County WA - Precinct: SEA 34-1478"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:1963-sea_46-1963": {
+   "name": "King County WA - Precinct: SEA 46-1963"
   },
   "ocd-division/country:us/state:wa/county:thurston/precinct:101-zangle": {
    "name": "Thurston County WA - Precinct: Zangle"
@@ -4637,11 +4637,11 @@
   "ocd-division/country:us/state:wa/county:douglas/precinct:306": {
    "name": "Douglas County WA - Precinct: 306"
   },
-  "ocd-division/country:us/state:wa/county:douglas/precinct:305": {
-   "name": "Douglas County WA - Precinct: 305"
-  },
   "ocd-division/country:us/state:wa/county:pierce/school_district:eatonville_school_district": {
    "name": "eatonville school district"
+  },
+  "ocd-division/country:us/state:wa/county:douglas/precinct:305": {
+   "name": "Douglas County WA - Precinct: 305"
   },
   "ocd-division/country:us/state:wa/county:douglas/precinct:304": {
    "name": "Douglas County WA - Precinct: 304"
@@ -4649,11 +4649,11 @@
   "ocd-division/country:us/state:wa/county:douglas/precinct:303": {
    "name": "Douglas County WA - Precinct: 303"
   },
-  "ocd-division/country:us/state:wa/county:douglas/precinct:302": {
-   "name": "Douglas County WA - Precinct: 302"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:379-dorre_don": {
    "name": "King County WA - Precinct: DORRE DON"
+  },
+  "ocd-division/country:us/state:wa/county:douglas/precinct:302": {
+   "name": "Douglas County WA - Precinct: 302"
   },
   "ocd-division/country:us/state:wa/county:douglas/precinct:301": {
    "name": "Douglas County WA - Precinct: 301"
@@ -4670,11 +4670,11 @@
   "ocd-division/country:us/state:wa/county:snohomish/precinct:445437-railroad": {
    "name": "Snohomish County WA - Precinct: RAILROAD"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2638-red_45-2638": {
-   "name": "King County WA - Precinct: RED 45-2638"
-  },
   "ocd-division/country:us/state:wa/county:lincoln/precinct:3-canby": {
    "name": "Lincoln County WA - Precinct: CANBY"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:2638-red_45-2638": {
+   "name": "King County WA - Precinct: RED 45-2638"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:1533-sea_34-1533": {
    "name": "King County WA - Precinct: SEA 34-1533"
@@ -4694,17 +4694,17 @@
   "ocd-division/country:us/state:wa/county:okanogan/precinct:43-whitestone": {
    "name": "Okanogan County WA - Precinct: WHITESTONE"
   },
-  "ocd-division/country:us/state:wa/county:thurston/school_district:tenino_school_district": {
-   "name": "tenino school district"
-  },
-  "ocd-division/country:us/state:wa/county:king/precinct:2933-kir_45-2933": {
-   "name": "King County WA - Precinct: KIR 45-2933"
+  "ocd-division/country:us/state:wa/county:okanogan/precinct:305-omak_airport": {
+   "name": "Okanogan County WA - Precinct: OMAK AIRPORT"
   },
   "ocd-division/country:us/state:wa/county:clark/precinct:610": {
    "name": "Clark County WA - Precinct: 610"
   },
-  "ocd-division/country:us/state:wa/county:okanogan/precinct:305-omak_airport": {
-   "name": "Okanogan County WA - Precinct: OMAK AIRPORT"
+  "ocd-division/country:us/state:wa/county:king/precinct:2933-kir_45-2933": {
+   "name": "King County WA - Precinct: KIR 45-2933"
+  },
+  "ocd-division/country:us/state:wa/county:thurston/school_district:tenino_school_district": {
+   "name": "tenino school district"
   },
   "ocd-division/country:us/state:wa/county:clark/precinct:613": {
    "name": "Clark County WA - Precinct: 613"
@@ -4715,11 +4715,11 @@
   "ocd-division/country:us/state:wa/county:jefferson/precinct:708-port_townsend_708": {
    "name": "Jefferson County WA - Precinct: 708 Port Townsend"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2726-sam_45-2726": {
-   "name": "King County WA - Precinct: SAM 45-2726"
-  },
   "ocd-division/country:us/state:wa/county:okanogan/precinct:206-omak_14": {
    "name": "Okanogan County WA - Precinct: OMAK #14"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:2726-sam_45-2726": {
+   "name": "King County WA - Precinct: SAM 45-2726"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:3641-aspen_glen": {
    "name": "King County WA - Precinct: ASPEN GLEN"
@@ -4727,11 +4727,11 @@
   "ocd-division/country:us/state:wa/place:uniontown": {
    "name": "Uniontown town"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:1429-sea_34-1429": {
-   "name": "King County WA - Precinct: SEA 34-1429"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:1104-bur_34-1104": {
    "name": "King County WA - Precinct: BUR 34-1104"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:1429-sea_34-1429": {
+   "name": "King County WA - Precinct: SEA 34-1429"
   },
   "ocd-division/country:us/state:wa/county:stevens/precinct:7-daisy": {
    "name": "Stevens County WA - Precinct: DAISY"
@@ -4742,11 +4742,11 @@
   "ocd-division/country:us/state:wa/county:clark/precinct:618": {
    "name": "Clark County WA - Precinct: 618"
   },
-  "ocd-division/country:us/state:wa/county:clark/precinct:617": {
-   "name": "Clark County WA - Precinct: 617"
-  },
   "ocd-division/country:us/state:wa/county:island/precinct:204-oak_harbor_4": {
    "name": "Island County WA - Precinct: OAK HARBOR 04"
+  },
+  "ocd-division/country:us/state:wa/county:clark/precinct:617": {
+   "name": "Clark County WA - Precinct: 617"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:444438-merwin": {
    "name": "Snohomish County WA - Precinct: MERWIN"
@@ -6127,9 +6127,6 @@
   "ocd-division/country:us/state:wa/county:snohomish/precinct:115414-turner": {
    "name": "Snohomish County WA - Precinct: TURNER"
   },
-  "ocd-division/country:us/state:wa/county:grant/precinct:12-ephrata_7": {
-   "name": "Grant County WA - Precinct: Ephrata 7 012"
-  },
   "ocd-division/country:us/state:wa/county:okanogan": {
    "name": "Okanogan County",
    "officeIndices": [
@@ -6140,6 +6137,9 @@
     222,
     223
    ]
+  },
+  "ocd-division/country:us/state:wa/county:grant/precinct:12-ephrata_7": {
+   "name": "Grant County WA - Precinct: Ephrata 7 012"
   },
   "ocd-division/country:us/state:wa/county:cowlitz/precinct:13-cloverdale": {
    "name": "Cowlitz County WA - Precinct: Cloverdale"
@@ -6246,9 +6246,6 @@
   "ocd-division/country:us/state:wa/county:king/precinct:807-millikin": {
    "name": "King County WA - Precinct: MILLIKIN"
   },
-  "ocd-division/country:us/state:wa/county:whitman/precinct:120-pullman_city_120": {
-   "name": "Whitman County WA - Precinct: PULLMAN CITY 120"
-  },
   "ocd-division/country:us/state:wa": {
    "name": "Washington",
    "officeIndices": [
@@ -6263,6 +6260,9 @@
     229,
     230
    ]
+  },
+  "ocd-division/country:us/state:wa/county:whitman/precinct:120-pullman_city_120": {
+   "name": "Whitman County WA - Precinct: PULLMAN CITY 120"
   },
   "ocd-division/country:us/state:wa/county:grant/school_district:wahluke_school_district": {
    "name": "wahluke school district"
@@ -9371,23 +9371,23 @@
   "ocd-division/country:us/state:wa/county:benton/precinct:5628-mills": {
    "name": "Benton County WA - Precinct: Mills"
   },
-  "ocd-division/country:us/state:wa/county:whatcom/precinct:124": {
-   "name": "Whatcom County WA - Precinct: 124"
+  "ocd-division/country:us/state:wa/county:king/precinct:1278-sea_43-1278": {
+   "name": "King County WA - Precinct: SEA 43-1278"
   },
   "ocd-division/country:us/state:wa/county:thurston/precinct:169-mcallister_creek": {
    "name": "Thurston County WA - Precinct: Mcallister Creek"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:1278-sea_43-1278": {
-   "name": "King County WA - Precinct: SEA 43-1278"
+  "ocd-division/country:us/state:wa/county:whatcom/precinct:124": {
+   "name": "Whatcom County WA - Precinct: 124"
   },
   "ocd-division/country:us/state:wa/county:whatcom/precinct:125": {
    "name": "Whatcom County WA - Precinct: 125"
   },
-  "ocd-division/country:us/state:wa/county:whatcom/precinct:126": {
-   "name": "Whatcom County WA - Precinct: 126"
-  },
   "ocd-division/country:us/state:wa/county:grant/precinct:54-wheeler_1": {
    "name": "Grant County WA - Precinct: Wheeler 1 054"
+  },
+  "ocd-division/country:us/state:wa/county:whatcom/precinct:126": {
+   "name": "Whatcom County WA - Precinct: 126"
   },
   "ocd-division/country:us/state:wa/county:whatcom/precinct:120": {
    "name": "Whatcom County WA - Precinct: 120"
@@ -9395,14 +9395,14 @@
   "ocd-division/country:us/state:wa/county:whatcom/precinct:121": {
    "name": "Whatcom County WA - Precinct: 121"
   },
-  "ocd-division/country:us/state:wa/county:whatcom/precinct:122": {
-   "name": "Whatcom County WA - Precinct: 122"
+  "ocd-division/country:us/state:wa/county:clallam/precinct:232-fairview": {
+   "name": "Clallam County WA - Precinct: FAIRVIEW 232"
   },
   "ocd-division/country:us/state:wa/county:benton/precinct:4008-west_richland_8": {
    "name": "Benton County WA - Precinct: WR 8"
   },
-  "ocd-division/country:us/state:wa/county:clallam/precinct:232-fairview": {
-   "name": "Clallam County WA - Precinct: FAIRVIEW 232"
+  "ocd-division/country:us/state:wa/county:whatcom/precinct:122": {
+   "name": "Whatcom County WA - Precinct: 122"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:444212-mill_creek_12": {
    "name": "Snohomish County WA - Precinct: MILL CREEK 12"
@@ -9419,17 +9419,17 @@
   "ocd-division/country:us/state:wa/county:whatcom/precinct:128": {
    "name": "Whatcom County WA - Precinct: 128"
   },
-  "ocd-division/country:us/state:wa/county:whatcom/precinct:127": {
-   "name": "Whatcom County WA - Precinct: 127"
-  },
   "ocd-division/country:us/state:wa/county:thurston/precinct:93-trailblazer": {
    "name": "Thurston County WA - Precinct: Trailblazer"
   },
-  "ocd-division/country:us/state:wa/county:whatcom/precinct:136": {
-   "name": "Whatcom County WA - Precinct: 136"
+  "ocd-division/country:us/state:wa/county:whatcom/precinct:127": {
+   "name": "Whatcom County WA - Precinct: 127"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:382227-everett_27": {
    "name": "Snohomish County WA - Precinct: EVERETT  27"
+  },
+  "ocd-division/country:us/state:wa/county:whatcom/precinct:136": {
+   "name": "Whatcom County WA - Precinct: 136"
   },
   "ocd-division/country:us/state:wa/county:whatcom/precinct:137": {
    "name": "Whatcom County WA - Precinct: 137"
@@ -9551,20 +9551,20 @@
   "ocd-division/country:us/state:wa/county:king/precinct:648-shl_32-0648": {
    "name": "King County WA - Precinct: SHL 32-0648"
   },
-  "ocd-division/country:us/state:wa/county:thurston/precinct:178-pattison": {
-   "name": "Thurston County WA - Precinct: Pattison"
-  },
   "ocd-division/country:us/state:wa/county:jefferson/precinct:502-port_ludlow_2": {
    "name": "Jefferson County WA - Precinct: 502 Port Ludlow II"
+  },
+  "ocd-division/country:us/state:wa/county:thurston/precinct:178-pattison": {
+   "name": "Thurston County WA - Precinct: Pattison"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:2543-sea_43-2543": {
    "name": "King County WA - Precinct: SEA 43-2543"
   },
-  "ocd-division/country:us/state:wa/county:yakima/precinct:3904": {
-   "name": "Yakima County WA - Precinct: 3904"
-  },
   "ocd-division/country:us/state:wa/county:clark/precinct:985": {
    "name": "Clark County WA - Precinct: 985"
+  },
+  "ocd-division/country:us/state:wa/county:yakima/precinct:3904": {
+   "name": "Yakima County WA - Precinct: 3904"
   },
   "ocd-division/country:us/state:wa/county:yakima/precinct:3903": {
    "name": "Yakima County WA - Precinct: 3903"
@@ -9581,11 +9581,11 @@
   "ocd-division/country:us/state:wa/county:benton/precinct:5636-gage": {
    "name": "Benton County WA - Precinct: Gage"
   },
-  "ocd-division/country:us/state:wa/county:okanogan/precinct:222-okanogan_10": {
-   "name": "Okanogan County WA - Precinct: OKANOGAN #10"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:381402-boeing": {
    "name": "Snohomish County WA - Precinct: BOEING"
+  },
+  "ocd-division/country:us/state:wa/county:okanogan/precinct:222-okanogan_10": {
+   "name": "Okanogan County WA - Precinct: OKANOGAN #10"
   },
   "ocd-division/country:us/state:wa/county:grays_harbor/precinct:121-aberdeen_121": {
    "name": "Grays Harbor County WA - Precinct: Aberdeen 121"
@@ -9599,11 +9599,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:1353-sea_43-1353": {
    "name": "King County WA - Precinct: SEA 43-1353"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3338-heron": {
-   "name": "King County WA - Precinct: HERON"
-  },
   "ocd-division/country:us/state:wa/county:grays_harbor/precinct:98-cohasset": {
    "name": "Grays Harbor County WA - Precinct: Cohasset 098"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:3338-heron": {
+   "name": "King County WA - Precinct: HERON"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:191-bel_48-0191": {
    "name": "King County WA - Precinct: BEL 48-0191"
@@ -9611,11 +9611,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:1559-sea_37-1559": {
    "name": "King County WA - Precinct: SEA 37-1559"
   },
-  "ocd-division/country:us/state:wa/county:grays_harbor/precinct:38-aberdeen_lake": {
-   "name": "Grays Harbor County WA - Precinct: Aberdeen Lake 038"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:83-aub_31-0083": {
    "name": "King County WA - Precinct: AUB 31-0083"
+  },
+  "ocd-division/country:us/state:wa/county:grays_harbor/precinct:38-aberdeen_lake": {
+   "name": "Grays Harbor County WA - Precinct: Aberdeen Lake 038"
   },
   "ocd-division/country:us/state:wa/county:clark/precinct:962": {
    "name": "Clark County WA - Precinct: 962"
@@ -9635,11 +9635,11 @@
   "ocd-division/country:us/state:wa/county:clark/precinct:964": {
    "name": "Clark County WA - Precinct: 964"
   },
-  "ocd-division/country:us/state:wa/county:thurston/precinct:84-trosper_lake": {
-   "name": "Thurston County WA - Precinct: Trosper Lake"
-  },
   "ocd-division/country:us/state:wa/county:clark/precinct:963": {
    "name": "Clark County WA - Precinct: 963"
+  },
+  "ocd-division/country:us/state:wa/county:thurston/precinct:84-trosper_lake": {
+   "name": "Thurston County WA - Precinct: Trosper Lake"
   },
   "ocd-division/country:us/state:wa/county:clark/precinct:969": {
    "name": "Clark County WA - Precinct: 969"
@@ -9668,11 +9668,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:3326-brookshire": {
    "name": "King County WA - Precinct: BROOKSHIRE"
   },
-  "ocd-division/country:us/state:wa/county:benton/school_district:kennewick_school_district": {
-   "name": "kennewick school district"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:445216-snohomish_6": {
    "name": "Snohomish County WA - Precinct: SNOHOMISH  6"
+  },
+  "ocd-division/country:us/state:wa/county:benton/school_district:kennewick_school_district": {
+   "name": "kennewick school district"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:1630-sea_37-1630": {
    "name": "King County WA - Precinct: SEA 37-1630"
@@ -9698,11 +9698,11 @@
   "ocd-division/country:us/state:wa/county:grant/precinct:36-moses_lake_12": {
    "name": "Grant County WA - Precinct: Moses Lake 12 036"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:1717-sea_36-1717": {
-   "name": "King County WA - Precinct: SEA 36-1717"
-  },
   "ocd-division/country:us/state:wa/county:clark/precinct:947": {
    "name": "Clark County WA - Precinct: 947"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:1717-sea_36-1717": {
+   "name": "King County WA - Precinct: SEA 36-1717"
   },
   "ocd-division/country:us/state:wa/county:stevens/precinct:49-arden_2": {
    "name": "Stevens County WA - Precinct: ARDEN 2"
@@ -9734,11 +9734,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:283-campbell_hill": {
    "name": "King County WA - Precinct: CAMPBELL HILL"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3069-set_33-3069": {
-   "name": "King County WA - Precinct: SET 33-3069"
-  },
   "ocd-division/country:us/state:wa/county:clark/precinct:951": {
    "name": "Clark County WA - Precinct: 951"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:3069-set_33-3069": {
+   "name": "King County WA - Precinct: SET 33-3069"
   },
   "ocd-division/country:us/state:wa/county:clark/precinct:950": {
    "name": "Clark County WA - Precinct: 950"
@@ -9764,47 +9764,47 @@
   "ocd-division/country:us/state:wa/county:spokane/precinct:6306": {
    "name": "Spokane County WA - Precinct: PCT 6306"
   },
-  "ocd-division/country:us/state:wa/county:spokane/precinct:6303": {
-   "name": "Spokane County WA - Precinct: PCT 6303"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:1523-sea_34-1523": {
    "name": "King County WA - Precinct: SEA 34-1523"
   },
-  "ocd-division/country:us/state:wa/county:spokane/precinct:6304": {
-   "name": "Spokane County WA - Precinct: PCT 6304"
+  "ocd-division/country:us/state:wa/county:spokane/precinct:6303": {
+   "name": "Spokane County WA - Precinct: PCT 6303"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:382272-everett_72": {
    "name": "Snohomish County WA - Precinct: EVERETT  72"
   },
-  "ocd-division/country:us/state:wa/county:spokane/precinct:6309": {
-   "name": "Spokane County WA - Precinct: PCT 6309"
-  },
-  "ocd-division/country:us/state:wa/county:king/precinct:2357-sea_46-2357": {
-   "name": "King County WA - Precinct: SEA 46-2357"
-  },
-  "ocd-division/country:us/state:wa/county:adams/precinct:513-othello_rural_3": {
-   "name": "Adams County WA - Precinct: Othello Rural #3"
+  "ocd-division/country:us/state:wa/county:spokane/precinct:6304": {
+   "name": "Spokane County WA - Precinct: PCT 6304"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:25-291": {
    "name": "Pierce County WA - Precinct: 25-291"
   },
+  "ocd-division/country:us/state:wa/county:adams/precinct:513-othello_rural_3": {
+   "name": "Adams County WA - Precinct: Othello Rural #3"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:2357-sea_46-2357": {
+   "name": "King County WA - Precinct: SEA 46-2357"
+  },
+  "ocd-division/country:us/state:wa/county:spokane/precinct:6309": {
+   "name": "Spokane County WA - Precinct: PCT 6309"
+  },
   "ocd-division/country:us/state:wa/county:pierce/precinct:25-290": {
    "name": "Pierce County WA - Precinct: 25-290"
-  },
-  "ocd-division/country:us/state:wa/county:spokane/precinct:6307": {
-   "name": "Spokane County WA - Precinct: PCT 6307"
   },
   "ocd-division/country:us/state:wa/county:pierce/precinct:25-293": {
    "name": "Pierce County WA - Precinct: 25-293"
   },
-  "ocd-division/country:us/state:wa/county:spokane/precinct:6308": {
-   "name": "Spokane County WA - Precinct: PCT 6308"
+  "ocd-division/country:us/state:wa/county:spokane/precinct:6307": {
+   "name": "Spokane County WA - Precinct: PCT 6307"
+  },
+  "ocd-division/country:us/state:wa/county:pierce/precinct:25-292": {
+   "name": "Pierce County WA - Precinct: 25-292"
   },
   "ocd-division/country:us/state:wa/county:clark/precinct:920": {
    "name": "Clark County WA - Precinct: 920"
   },
-  "ocd-division/country:us/state:wa/county:pierce/precinct:25-292": {
-   "name": "Pierce County WA - Precinct: 25-292"
+  "ocd-division/country:us/state:wa/county:spokane/precinct:6308": {
+   "name": "Spokane County WA - Precinct: PCT 6308"
   },
   "ocd-division/country:us/state:wa/county:spokane/precinct:6301": {
    "name": "Spokane County WA - Precinct: PCT 6301"
@@ -11234,9 +11234,6 @@
   "ocd-division/country:us/state:wa/county:whatcom/precinct:235": {
    "name": "Whatcom County WA - Precinct: 235"
   },
-  "ocd-division/country:us/state:wa/county:whatcom/precinct:236": {
-   "name": "Whatcom County WA - Precinct: 236"
-  },
   "ocd-division/country:us/state:wa/county:skagit": {
    "name": "Skagit County",
    "officeIndices": [
@@ -11248,6 +11245,9 @@
     310,
     311
    ]
+  },
+  "ocd-division/country:us/state:wa/county:whatcom/precinct:236": {
+   "name": "Whatcom County WA - Precinct: 236"
   },
   "ocd-division/country:us/state:wa/county:whatcom/precinct:233": {
    "name": "Whatcom County WA - Precinct: 233"
@@ -11732,14 +11732,14 @@
     314
    ]
   },
-  "ocd-division/country:us/state:wa/place:cashmere": {
-   "name": "Cashmere city"
-  },
   "ocd-division/country:us/state:wa/county:king/council_district:8": {
    "name": "King County WA County Council District 8",
    "officeIndices": [
     315
    ]
+  },
+  "ocd-division/country:us/state:wa/place:cashmere": {
+   "name": "Cashmere city"
   },
   "ocd-division/country:us/state:wa/county:king/council_district:9": {
    "name": "King County WA County Council District 9",
@@ -11765,14 +11765,14 @@
     319
    ]
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2606-husky": {
-   "name": "King County WA - Precinct: HUSKY"
-  },
   "ocd-division/country:us/state:wa/county:king/council_district:5": {
    "name": "King County WA County Council District 5",
    "officeIndices": [
     320
    ]
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:2606-husky": {
+   "name": "King County WA - Precinct: HUSKY"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:2292-sea_46-2292": {
    "name": "King County WA - Precinct: SEA 46-2292"
@@ -12089,14 +12089,14 @@
     324
    ]
   },
-  "ocd-division/country:us/state:wa/county:thurston/precinct:114-mckinley": {
-   "name": "Thurston County WA - Precinct: Mckinley"
-  },
   "ocd-division/country:us/state:wa/county:pierce/council_district:6": {
    "name": "Pierce County WA County Council District 6",
    "officeIndices": [
     325
    ]
+  },
+  "ocd-division/country:us/state:wa/county:thurston/precinct:114-mckinley": {
+   "name": "Thurston County WA - Precinct: Mckinley"
   },
   "ocd-division/country:us/state:wa/county:pierce/council_district:5": {
    "name": "Pierce County WA County Council District 5",
@@ -12146,23 +12146,23 @@
   "ocd-division/country:us/state:wa/county:okanogan/precinct:213-omak_21": {
    "name": "Okanogan County WA - Precinct: OMAK #21"
   },
-  "ocd-division/country:us/state:wa/county:spokane/precinct:6102": {
-   "name": "Spokane County WA - Precinct: PCT 6102"
-  },
   "ocd-division/country:us/state:wa/county:pierce/council_district:1": {
    "name": "Pierce County WA County Council District 1",
    "officeIndices": [
     329
    ]
   },
-  "ocd-division/country:us/state:wa/county:spokane/precinct:6101": {
-   "name": "Spokane County WA - Precinct: PCT 6101"
+  "ocd-division/country:us/state:wa/county:spokane/precinct:6102": {
+   "name": "Spokane County WA - Precinct: PCT 6102"
   },
   "ocd-division/country:us/state:wa/county:pierce/council_district:2": {
    "name": "Pierce County WA County Council District 2",
    "officeIndices": [
     330
    ]
+  },
+  "ocd-division/country:us/state:wa/county:spokane/precinct:6101": {
+   "name": "Spokane County WA - Precinct: PCT 6101"
   },
   "ocd-division/country:us/state:wa/county:spokane/precinct:6104": {
    "name": "Spokane County WA - Precinct: PCT 6104"
@@ -12452,11 +12452,11 @@
   "ocd-division/country:us/state:wa/county:lewis/precinct:42-randle_east": {
    "name": "Lewis County WA - Precinct: Randle East"
   },
-  "ocd-division/country:us/state:wa/place:walla_walla": {
-   "name": "Walla Walla city"
-  },
   "ocd-division/country:us/state:wa/place:bellingham": {
    "name": "Bellingham city"
+  },
+  "ocd-division/country:us/state:wa/place:walla_walla": {
+   "name": "Walla Walla city"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:114127-brier_7": {
    "name": "Snohomish County WA - Precinct: BRIER 7"
@@ -13135,9 +13135,6 @@
   "ocd-division/country:us/state:wa/place:kennewick/ward:3/precinct:530": {
    "name": "Benton County WA - Precinct: W3 - P530"
   },
-  "ocd-division/country:us/state:wa/county:whitman/precinct:119-pullman_city_119": {
-   "name": "Whitman County WA - Precinct: PULLMAN CITY 119"
-  },
   "ocd-division/country:us/state:wa/county:spokane": {
    "name": "Spokane County",
    "officeIndices": [
@@ -13148,6 +13145,9 @@
     348,
     349
    ]
+  },
+  "ocd-division/country:us/state:wa/county:whitman/precinct:119-pullman_city_119": {
+   "name": "Whitman County WA - Precinct: PULLMAN CITY 119"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:1076-ken_47-1076": {
    "name": "King County WA - Precinct: KEN 47-1076"
@@ -15667,9 +15667,6 @@
   "ocd-division/country:us/state:wa/county:kittitas/precinct:29-ellensburg_22": {
    "name": "Kittitas County WA - Precinct: ELLENSBURG 22"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2686-sea_37-2686": {
-   "name": "King County WA - Precinct: SEA 37-2686"
-  },
   "ocd-division/country:us/state:wa/county:chelan": {
    "name": "Chelan County",
    "officeIndices": [
@@ -15681,6 +15678,9 @@
     373,
     374
    ]
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:2686-sea_37-2686": {
+   "name": "King County WA - Precinct: SEA 37-2686"
   },
   "ocd-division/country:us/state:wa/county:king/school_district:shoreline_school_district": {
    "name": "shoreline school district"
@@ -18192,14 +18192,14 @@
     413
    ]
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:3034-fed_30-3034": {
-   "name": "King County WA - Precinct: FED 30-3034"
-  },
   "ocd-division/country:us/state:wa/county:island/council_district:1": {
    "name": "Island County District 1",
    "officeIndices": [
     414
    ]
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:3034-fed_30-3034": {
+   "name": "King County WA - Precinct: FED 30-3034"
   },
   "ocd-division/country:us/state:wa/county:mason/precinct:114-harstine": {
    "name": "Mason County WA - Precinct: HARSTINE"
@@ -18450,12 +18450,6 @@
   "ocd-division/country:us/state:wa/county:king/precinct:2247-sea_46-2247": {
    "name": "King County WA - Precinct: SEA 46-2247"
   },
-  "ocd-division/country:us/state:wa/county:kitsap/precinct:100095-navy_yard_city": {
-   "name": "Kitsap County WA - Precinct: NAVY YARD CITY 095"
-  },
-  "ocd-division/country:us/state:wa/county:pacific/precinct:20-ocean_park_2": {
-   "name": "Pacific County WA - Precinct: Ocean Park 2"
-  },
   "ocd-division/country:us/state:wa/county:san_juan": {
    "name": "San Juan County",
    "officeIndices": [
@@ -18467,6 +18461,12 @@
     423,
     424
    ]
+  },
+  "ocd-division/country:us/state:wa/county:kitsap/precinct:100095-navy_yard_city": {
+   "name": "Kitsap County WA - Precinct: NAVY YARD CITY 095"
+  },
+  "ocd-division/country:us/state:wa/county:pacific/precinct:20-ocean_park_2": {
+   "name": "Pacific County WA - Precinct: Ocean Park 2"
   },
   "ocd-division/country:us/state:wa/county:skamania/precinct:105-cape_horn": {
    "name": "Skamania County WA - Precinct: CAPE HORN"
@@ -19254,29 +19254,29 @@
   "ocd-division/country:us/state:wa/county:pierce/precinct:29-618": {
    "name": "Pierce County WA - Precinct: 29-618"
   },
+  "ocd-division/country:us/state:wa/county:pierce/precinct:29-619": {
+   "name": "Pierce County WA - Precinct: 29-619"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:2560-kir_45-2560": {
+   "name": "King County WA - Precinct: KIR 45-2560"
+  },
   "ocd-division/country:us/state:wa/county:yakima/precinct:4615": {
    "name": "Yakima County WA - Precinct: 4615"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:3147-red_48-3147": {
    "name": "King County WA - Precinct: RED 48-3147"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2560-kir_45-2560": {
-   "name": "King County WA - Precinct: KIR 45-2560"
-  },
-  "ocd-division/country:us/state:wa/county:pierce/precinct:29-619": {
-   "name": "Pierce County WA - Precinct: 29-619"
+  "ocd-division/country:us/state:wa/county:king/precinct:805-bur_33-0805": {
+   "name": "King County WA - Precinct: BUR 33-0805"
   },
   "ocd-division/country:us/state:wa/county:yakima/precinct:4616": {
    "name": "Yakima County WA - Precinct: 4616"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:805-bur_33-0805": {
-   "name": "King County WA - Precinct: BUR 33-0805"
+  "ocd-division/country:us/state:wa/county:snohomish/precinct:381235-marysville_35": {
+   "name": "Snohomish County WA - Precinct: MARYSVILLE 35"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:1738-sea_36-1738": {
    "name": "King County WA - Precinct: SEA 36-1738"
-  },
-  "ocd-division/country:us/state:wa/county:snohomish/precinct:381235-marysville_35": {
-   "name": "Snohomish County WA - Precinct: MARYSVILLE 35"
   },
   "ocd-division/country:us/state:wa/county:lincoln/precinct:1-almira_rural": {
    "name": "Lincoln County WA - Precinct: ALMIRA RURAL"
@@ -19303,11 +19303,11 @@
   "ocd-division/country:us/state:wa/county:snohomish/precinct:391248-marysville_26": {
    "name": "Snohomish County WA - Precinct: MARYSVILLE 26"
   },
-  "ocd-division/country:us/state:wa/county:cowlitz/precinct:5-baltimore": {
-   "name": "Cowlitz County WA - Precinct: Baltimore"
-  },
   "ocd-division/country:us/state:wa/county:pend_oreille/precinct:8-ione_west": {
    "name": "Pend Oreille County WA - Precinct: Ione West"
+  },
+  "ocd-division/country:us/state:wa/county:cowlitz/precinct:5-baltimore": {
+   "name": "Cowlitz County WA - Precinct: Baltimore"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:3639-sea_37-3639": {
    "name": "King County WA - Precinct: SEA 37-3639"
@@ -19318,11 +19318,11 @@
   "ocd-division/country:us/state:wa/county:thurston/precinct:407-tumwater_7": {
    "name": "Thurston County WA - Precinct: Tumwater 07"
   },
-  "ocd-division/country:us/state:wa/county:stevens/precinct:105-colville_1": {
-   "name": "Stevens County WA - Precinct: COLVILLE 1"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:2865-bot_1-2865": {
    "name": "King County WA - Precinct: BOT 01-2865"
+  },
+  "ocd-division/country:us/state:wa/county:stevens/precinct:105-colville_1": {
+   "name": "Stevens County WA - Precinct: COLVILLE 1"
   },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:114426-parkshore": {
    "name": "Snohomish County WA - Precinct: PARKSHORE"
@@ -19336,17 +19336,17 @@
   "ocd-division/country:us/state:wa/county:stevens/precinct:51-clayton_2": {
    "name": "Stevens County WA - Precinct: CLAYTON 2"
   },
-  "ocd-division/country:us/state:wa/county:whitman/school_district:rosalia_school_district": {
-   "name": "rosalia school district"
-  },
   "ocd-division/country:us/state:wa/county:snohomish/precinct:114403-cascadian": {
    "name": "Snohomish County WA - Precinct: CASCADIAN"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:1710-sea_36-1710": {
-   "name": "King County WA - Precinct: SEA 36-1710"
+  "ocd-division/country:us/state:wa/county:whitman/school_district:rosalia_school_district": {
+   "name": "rosalia school district"
   },
   "ocd-division/country:us/state:wa/county:kitsap/precinct:100285-twin_lakes": {
    "name": "Kitsap County WA - Precinct: TWIN LAKES 285"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:1710-sea_36-1710": {
+   "name": "King County WA - Precinct: SEA 36-1710"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:1689-sea_36-1689": {
    "name": "King County WA - Precinct: SEA 36-1689"
@@ -19357,11 +19357,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:3050-fed_30-3050": {
    "name": "King County WA - Precinct: FED 30-3050"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:1235-bel_41-1235": {
-   "name": "King County WA - Precinct: BEL 41-1235"
-  },
   "ocd-division/country:us/state:wa/county:king/precinct:452-franklin": {
    "name": "King County WA - Precinct: FRANKLIN"
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:1235-bel_41-1235": {
+   "name": "King County WA - Precinct: BEL 41-1235"
   },
   "ocd-division/country:us/state:wa/county:whitman/precinct:34-garfield_in": {
    "name": "Whitman County WA - Precinct: GARFIELD IN"
@@ -20789,9 +20789,6 @@
   "ocd-division/country:us/state:wa/county:snohomish/precinct:391206-arlington_6": {
    "name": "Snohomish County WA - Precinct: ARLINGTON  6"
   },
-  "ocd-division/country:us/state:wa/place:endicott": {
-   "name": "Endicott town"
-  },
   "ocd-division/country:us/state:wa/county:kitsap": {
    "name": "Kitsap County",
    "officeIndices": [
@@ -20803,6 +20800,9 @@
     475,
     476
    ]
+  },
+  "ocd-division/country:us/state:wa/place:endicott": {
+   "name": "Endicott town"
   },
   "ocd-division/country:us/state:wa/county:king/precinct:1002-rnt_11-1002": {
    "name": "King County WA - Precinct: RNT 11-1002"
@@ -21028,14 +21028,14 @@
   "ocd-division/country:us/state:wa/county:pend_oreille/precinct:17-ruby": {
    "name": "Pend Oreille County WA - Precinct: Ruby"
   },
-  "ocd-division/country:us/state:wa/county:yakima/precinct:4303": {
-   "name": "Yakima County WA - Precinct: 4303"
-  },
   "ocd-division/country:us/state:wa/county:kitsap/council_district:3": {
    "name": "Kitsap County WA County Commissioner District 3",
    "officeIndices": [
     486
    ]
+  },
+  "ocd-division/country:us/state:wa/county:yakima/precinct:4303": {
+   "name": "Yakima County WA - Precinct: 4303"
   },
   "ocd-division/country:us/state:wa/county:okanogan/precinct:171-tonasket_5": {
    "name": "Okanogan County WA - Precinct: TONASKET #5"
@@ -23695,11 +23695,11 @@
   "ocd-division/country:us/state:wa/county:king/precinct:3150-twin_peaks": {
    "name": "King County WA - Precinct: TWIN PEAKS"
   },
-  "ocd-division/country:us/state:wa/place:ritzville/ward:1": {
-   "name": "Adams County WA - Precinct: Ritzville Ward #1"
-  },
   "ocd-division/country:us/state:wa/place:mercer_island": {
    "name": "Mercer Island city"
+  },
+  "ocd-division/country:us/state:wa/place:ritzville/ward:1": {
+   "name": "Adams County WA - Precinct: Ritzville Ward #1"
   },
   "ocd-division/country:us/state:wa/place:ritzville/ward:4": {
    "name": "Adams County WA - Precinct: Ritzville Ward #4"
@@ -24550,14 +24550,14 @@
   "ocd-division/country:us/state:wa/county:king/precinct:2083-sea_43-2083": {
    "name": "King County WA - Precinct: SEA 43-2083"
   },
-  "ocd-division/country:us/state:wa/county:king/precinct:2935-bel_41-2935": {
-   "name": "King County WA - Precinct: BEL 41-2935"
-  },
   "ocd-division/country:us/state:wa/county:clark/council_district:2": {
    "name": "Clark County WA County Commissioner District 2",
    "officeIndices": [
     512
    ]
+  },
+  "ocd-division/country:us/state:wa/county:king/precinct:2935-bel_41-2935": {
+   "name": "King County WA - Precinct: BEL 41-2935"
   },
   "ocd-division/country:us/state:wa/county:kittitas/precinct:58-damman": {
    "name": "Kittitas County WA - Precinct: DAMMAN"
@@ -29223,7 +29223,7 @@
     "(202) 224-3441"
    ],
    "urls": [
-    "http://www.cantwell.senate.gov/public/"
+    "http://cantwell.senate.gov/"
    ],
    "photoUrl": "http://bioguide.congress.gov/bioguide/photo/C/C000127.jpg",
    "channels": [
@@ -29232,12 +29232,12 @@
      "id": "CantwellPress"
     },
     {
-     "type": "YouTube",
-     "id": "SenatorCantwell"
-    },
-    {
      "type": "Facebook",
      "id": "senatorcantwell"
+    },
+    {
+     "type": "YouTube",
+     "id": "SenatorCantwell"
     }
    ]
   },
@@ -35823,12 +35823,12 @@
      "id": "reagandunn"
     },
     {
-     "type": "Twitter",
-     "id": "reagandunn"
-    },
-    {
      "type": "Facebook",
      "id": "reaganbdunn"
+    },
+    {
+     "type": "Twitter",
+     "id": "reagandunn"
     }
    ]
   },

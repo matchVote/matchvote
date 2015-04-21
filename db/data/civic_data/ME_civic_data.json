@@ -39,11 +39,11 @@
   "ocd-division/country:us/state:me/place:biddeford/precinct:7-1": {
    "name": "Biddeford Precinct 7-1"
   },
-  "ocd-division/country:us/state:me/place:greenville/precinct:1-1": {
-   "name": "Greenville Precinct 1-1"
-  },
   "ocd-division/country:us/state:me/place:lowell": {
    "name": "Lowell town"
+  },
+  "ocd-division/country:us/state:me/place:greenville/precinct:1-1": {
+   "name": "Greenville Precinct 1-1"
   },
   "ocd-division/country:us/state:me/place:portland/precinct:1-45": {
    "name": "Portland Precinct 1-45"
@@ -60,14 +60,14 @@
   "ocd-division/country:us/state:me/place:livermore_falls": {
    "name": "Livermore Falls town"
   },
-  "ocd-division/country:us/state:me/place:fort_kent/precinct:1-10": {
-   "name": "Fort Kent Precinct 1-10"
+  "ocd-division/country:us/state:me/place:saco/precinct:4-1": {
+   "name": "Saco Precinct 4-1"
   },
   "ocd-division/country:us/state:me/place:hallowell/precinct:1-1": {
    "name": "Hallowell Precinct 1-1"
   },
-  "ocd-division/country:us/state:me/place:saco/precinct:4-1": {
-   "name": "Saco Precinct 4-1"
+  "ocd-division/country:us/state:me/place:fort_kent/precinct:1-10": {
+   "name": "Fort Kent Precinct 1-10"
   },
   "ocd-division/country:us/state:me/place:masardis": {
    "name": "Masardis town"
@@ -162,20 +162,20 @@
   "ocd-division/country:us/state:me/place:bath/precinct:7-1": {
    "name": "Bath Precinct 7-1"
   },
-  "ocd-division/country:us/state:me/county:kennebec/school_district:winthrop_public_schools": {
-   "name": "winthrop public schools"
-  },
   "ocd-division/country:us/state:me/county:aroostook/school_district:grand_isle_school_department": {
    "name": "grand isle school department"
+  },
+  "ocd-division/country:us/state:me/county:kennebec/school_district:winthrop_public_schools": {
+   "name": "winthrop public schools"
   },
   "ocd-division/country:us/state:me/place:stetson": {
    "name": "Stetson town"
   },
-  "ocd-division/country:us/state:me/county:washington/school_district:rsu_84~msad_14": {
-   "name": "rsu 84/msad 14"
-  },
   "ocd-division/country:us/state:me/place:passadumkeag/precinct:1-1": {
    "name": "Passadumkeag Precinct 1-1"
+  },
+  "ocd-division/country:us/state:me/county:washington/school_district:rsu_84~msad_14": {
+   "name": "rsu 84/msad 14"
   },
   "ocd-division/country:us/state:me/place:madison/precinct:1-1": {
    "name": "Madison Precinct 1-1"
@@ -294,62 +294,62 @@
   "ocd-division/country:us/state:me/place:perry/precinct:1-1": {
    "name": "Perry Precinct 1-1"
   },
-  "ocd-division/country:us/state:me/place:marshfield": {
-   "name": "Marshfield town"
-  },
   "ocd-division/country:us/state:me/place:pittston/precinct:1-1": {
    "name": "Pittston Precinct 1-1"
   },
-  "ocd-division/country:us/state:me/place:otis": {
-   "name": "Otis town"
+  "ocd-division/country:us/state:me/place:marshfield": {
+   "name": "Marshfield town"
   },
   "ocd-division/country:us/state:me/place:smithfield/precinct:1-1": {
    "name": "Smithfield Precinct 1-1"
   },
+  "ocd-division/country:us/state:me/place:otis": {
+   "name": "Otis town"
+  },
   "ocd-division/country:us/state:me/county:aroostook/school_district:rsu_86~msad_20": {
    "name": "rsu 86/msad 20"
-  },
-  "ocd-division/country:us/state:me/place:bancroft/precinct:1-1": {
-   "name": "Bancroft Precinct 1-1"
-  },
-  "ocd-division/country:us/state:me/county:lincoln/school_district:south_bristol_school_department": {
-   "name": "south bristol school department"
   },
   "ocd-division/country:us/state:me/place:kingsbury/precinct:1-1": {
    "name": "Kingsbury Precinct 1-1"
   },
+  "ocd-division/country:us/state:me/county:lincoln/school_district:south_bristol_school_department": {
+   "name": "south bristol school department"
+  },
+  "ocd-division/country:us/state:me/place:bancroft/precinct:1-1": {
+   "name": "Bancroft Precinct 1-1"
+  },
   "ocd-division/country:us/state:me/county:hancock/school_district:deer_isle-stonington_csd": {
    "name": "deer isle-stonington csd"
-  },
-  "ocd-division/country:us/state:me/place:dixfield": {
-   "name": "Dixfield town"
   },
   "ocd-division/country:us/state:me/place:owls_head": {
    "name": "Owls Head town"
   },
-  "ocd-division/country:us/state:me/place:bowdoinham/precinct:1-1": {
-   "name": "Bowdoinham Precinct 1-1"
-  },
-  "ocd-division/country:us/state:me/place:belfast/precinct:5-1": {
-   "name": "Belfast Precinct 5-1"
+  "ocd-division/country:us/state:me/place:dixfield": {
+   "name": "Dixfield town"
   },
   "ocd-division/country:us/state:me/place:lewiston/precinct:4-2": {
    "name": "Lewiston Precinct 4-2"
   },
-  "ocd-division/country:us/state:me/place:glenwood/precinct:1-1": {
-   "name": "Glenwood Precinct 1-1"
+  "ocd-division/country:us/state:me/place:belfast/precinct:5-1": {
+   "name": "Belfast Precinct 5-1"
+  },
+  "ocd-division/country:us/state:me/place:bowdoinham/precinct:1-1": {
+   "name": "Bowdoinham Precinct 1-1"
   },
   "ocd-division/country:us/state:me/place:brooklin": {
    "name": "Brooklin town"
   },
+  "ocd-division/country:us/state:me/place:glenwood/precinct:1-1": {
+   "name": "Glenwood Precinct 1-1"
+  },
   "ocd-division/country:us/state:me/county:lincoln/school_district:newcastle_school_department": {
    "name": "newcastle school department"
   },
-  "ocd-division/country:us/state:me/place:bangor/precinct:1-1": {
-   "name": "Bangor Precinct 1-1"
-  },
   "ocd-division/country:us/state:me/place:monticello/precinct:1-1": {
    "name": "Monticello Precinct 1-1"
+  },
+  "ocd-division/country:us/state:me/place:bangor/precinct:1-1": {
+   "name": "Bangor Precinct 1-1"
   },
   "ocd-division/country:us/state:me/place:farmingdale": {
    "name": "Farmingdale town"
@@ -363,11 +363,11 @@
   "ocd-division/country:us/state:me/place:portland/precinct:1-3": {
    "name": "Portland Precinct 1-3"
   },
-  "ocd-division/country:us/state:me/place:jefferson": {
-   "name": "Jefferson town"
-  },
   "ocd-division/country:us/state:me/place:portland/precinct:1-2": {
    "name": "Portland Precinct 1-2"
+  },
+  "ocd-division/country:us/state:me/place:jefferson": {
+   "name": "Jefferson town"
   },
   "ocd-division/country:us/state:me/place:portland/precinct:1-1": {
    "name": "Portland Precinct 1-1"
@@ -385,11 +385,11 @@
   "ocd-division/country:us/state:me/place:portland/precinct:5-1": {
    "name": "Portland Precinct 5-1"
   },
-  "ocd-division/country:us/state:me/place:litchfield/precinct:1-1": {
-   "name": "Litchfield Precinct 1-1"
-  },
   "ocd-division/country:us/state:me/place:maxfield/precinct:1-1": {
    "name": "Maxfield Precinct 1-1"
+  },
+  "ocd-division/country:us/state:me/place:litchfield/precinct:1-1": {
+   "name": "Litchfield Precinct 1-1"
   },
   "ocd-division/country:us/state:me/place:fayette/precinct:1-1": {
    "name": "Fayette Precinct 1-1"
@@ -397,14 +397,14 @@
   "ocd-division/country:us/state:me/place:farmington": {
    "name": "Farmington town"
   },
-  "ocd-division/country:us/state:me/place:belmont/precinct:1-1": {
-   "name": "Belmont Precinct 1-1"
+  "ocd-division/country:us/state:me/place:winn/precinct:1-1": {
+   "name": "Winn Precinct 1-1"
   },
   "ocd-division/country:us/state:me/place:new_vineyard/precinct:1-1": {
    "name": "New Vineyard Precinct 1-1"
   },
-  "ocd-division/country:us/state:me/place:winn/precinct:1-1": {
-   "name": "Winn Precinct 1-1"
+  "ocd-division/country:us/state:me/place:belmont/precinct:1-1": {
+   "name": "Belmont Precinct 1-1"
   },
   "ocd-division/country:us/state:me/place:waterboro/precinct:2-1": {
    "name": "Waterboro Precinct 2-1"
@@ -415,11 +415,11 @@
   "ocd-division/country:us/state:me/place:swans_island": {
    "name": "Swans Island town"
   },
-  "ocd-division/country:us/state:me/county:knox/school_district:five_town_csd": {
-   "name": "five town csd"
-  },
   "ocd-division/country:us/state:me/place:lincolnville": {
    "name": "Lincolnville town"
+  },
+  "ocd-division/country:us/state:me/county:knox/school_district:five_town_csd": {
+   "name": "five town csd"
   },
   "ocd-division/country:us/state:me/place:gardiner/precinct:2-1": {
    "name": "Gardiner Precinct 2-1"
@@ -451,23 +451,23 @@
   "ocd-division/country:us/state:me/place:durham/precinct:1-1": {
    "name": "Durham Precinct 1-1"
   },
-  "ocd-division/country:us/state:me/county:cumberland/school_district:rsu_61~msad_61": {
-   "name": "rsu 61/msad 61"
+  "ocd-division/country:us/state:me/place:knox": {
+   "name": "Knox town"
   },
   "ocd-division/country:us/state:me/place:hanover": {
    "name": "Hanover town"
   },
-  "ocd-division/country:us/state:me/place:knox": {
-   "name": "Knox town"
+  "ocd-division/country:us/state:me/county:cumberland/school_district:rsu_61~msad_61": {
+   "name": "rsu 61/msad 61"
   },
   "ocd-division/country:us/state:me/place:buxton": {
    "name": "Buxton town"
   },
-  "ocd-division/country:us/state:me/place:boothbay_harbor/precinct:1-1": {
-   "name": "Boothbay Harbor Precinct 1-1"
-  },
   "ocd-division/country:us/state:me/place:jackson/precinct:1-1": {
    "name": "Jackson Precinct 1-1"
+  },
+  "ocd-division/country:us/state:me/place:boothbay_harbor/precinct:1-1": {
+   "name": "Boothbay Harbor Precinct 1-1"
   },
   "ocd-division/country:us/state:me/county:lincoln/school_district:nobleboro_school_department": {
    "name": "nobleboro school department"
@@ -478,6 +478,9 @@
   "ocd-division/country:us/state:me/place:lebanon/precinct:1-1": {
    "name": "Lebanon Precinct 1-1"
   },
+  "ocd-division/country:us/state:me/place:mars_hill": {
+   "name": "Mars Hill town"
+  },
   "ocd-division/country:us/state:me/county:washington": {
    "name": "Washington County",
    "officeIndices": [
@@ -487,9 +490,6 @@
     196,
     197
    ]
-  },
-  "ocd-division/country:us/state:me/place:mars_hill": {
-   "name": "Mars Hill town"
   },
   "ocd-division/country:us/state:me/place:damariscotta": {
    "name": "Damariscotta town"
@@ -503,11 +503,11 @@
   "ocd-division/country:us/state:me/county:cumberland/school_district:me_educational_ctr_for_the_deaf_and_hard_of_hearing": {
    "name": "me educational ctr for the deaf & hard of hearing"
   },
-  "ocd-division/country:us/state:me/place:seboeis": {
-   "name": "Seboeis plantation"
-  },
   "ocd-division/country:us/state:me/place:union/precinct:1-1": {
    "name": "Union Precinct 1-1"
+  },
+  "ocd-division/country:us/state:me/place:seboeis": {
+   "name": "Seboeis plantation"
   },
   "ocd-division/country:us/state:me/place:matinicus_isle": {
    "name": "Matinicus Isle plantation"
@@ -539,35 +539,35 @@
   "ocd-division/country:us/state:me/place:kennebunkport/precinct:1-1": {
    "name": "Kennebunkport Precinct 1-1"
   },
-  "ocd-division/country:us/state:me/county:waldo/school_district:rsu_03~msad_03": {
-   "name": "rsu 03/msad 03"
-  },
   "ocd-division/country:us/state:me/place:newfield": {
    "name": "Newfield town"
+  },
+  "ocd-division/country:us/state:me/county:waldo/school_district:rsu_03~msad_03": {
+   "name": "rsu 03/msad 03"
   },
   "ocd-division/country:us/state:me/place:woodstock": {
    "name": "Woodstock town"
   },
-  "ocd-division/country:us/state:me/district_court:bangor": {
-   "name": "ME State District Court - Bangor District"
-  },
   "ocd-division/country:us/state:me/place:ludlow": {
    "name": "Ludlow town"
+  },
+  "ocd-division/country:us/state:me/district_court:bangor": {
+   "name": "ME State District Court - Bangor District"
   },
   "ocd-division/country:us/state:me/place:freeport": {
    "name": "Freeport town"
   },
-  "ocd-division/country:us/state:me/place:stow/precinct:1-1": {
-   "name": "Stow Precinct 1-1"
-  },
   "ocd-division/country:us/state:me/place:strong": {
    "name": "Strong town"
   },
-  "ocd-division/country:us/state:me/county:hancock/school_district:mount_desert_school_department": {
-   "name": "mount desert school department"
+  "ocd-division/country:us/state:me/place:stow/precinct:1-1": {
+   "name": "Stow Precinct 1-1"
   },
   "ocd-division/country:us/state:me/place:rangeley_town/precinct:1-1": {
    "name": "Rangeley Town Precinct 1-1"
+  },
+  "ocd-division/country:us/state:me/county:hancock/school_district:mount_desert_school_department": {
+   "name": "mount desert school department"
   },
   "ocd-division/country:us/state:me/place:albion": {
    "name": "Albion town"
@@ -584,11 +584,11 @@
   "ocd-division/country:us/state:me/place:liberty": {
    "name": "Liberty town"
   },
-  "ocd-division/country:us/state:me/county:penobscot/school_district:lincoln-region_3": {
-   "name": "lincoln-region 3"
-  },
   "ocd-division/country:us/state:me/place:lake_view/precinct:1-1": {
    "name": "Lake View Precinct 1-1"
+  },
+  "ocd-division/country:us/state:me/county:penobscot/school_district:lincoln-region_3": {
+   "name": "lincoln-region 3"
   },
   "ocd-division/country:us/state:me/place:woodville/precinct:1-1": {
    "name": "Woodville Precinct 1-1"
@@ -602,11 +602,11 @@
   "ocd-division/country:us/state:me/place:north_haven": {
    "name": "North Haven town"
   },
-  "ocd-division/country:us/state:me/place:howland/precinct:1-1": {
-   "name": "Howland Precinct 1-1"
-  },
   "ocd-division/country:us/state:me/place:oxford": {
    "name": "Oxford town"
+  },
+  "ocd-division/country:us/state:me/place:howland/precinct:1-1": {
+   "name": "Howland Precinct 1-1"
   },
   "ocd-division/country:us/state:me/place:west_paris": {
    "name": "West Paris town"
@@ -647,14 +647,14 @@
   "ocd-division/country:us/state:me/place:wesley": {
    "name": "Wesley town"
   },
+  "ocd-division/country:us/state:me/place:veazie": {
+   "name": "Veazie town"
+  },
   "ocd-division/country:us/state:me/county:oxford/school_district:rsu_55~msad_55": {
    "name": "rsu 55/msad 55"
   },
   "ocd-division/country:us/state:me/place:moose_river/precinct:1-1": {
    "name": "Moose River Precinct 1-1"
-  },
-  "ocd-division/country:us/state:me/place:veazie": {
-   "name": "Veazie town"
   },
   "ocd-division/country:us/state:me/place:southwest_harbor": {
    "name": "Southwest Harbor town"
@@ -803,11 +803,11 @@
   "ocd-division/country:us/state:me/place:eastport": {
    "name": "Eastport city"
   },
-  "ocd-division/country:us/state:me/place:great_pond/precinct:1-1": {
-   "name": "Great Pond Precinct 1-1"
-  },
   "ocd-division/country:us/state:me/place:plymouth/precinct:1-1": {
    "name": "Plymouth Precinct 1-1"
+  },
+  "ocd-division/country:us/state:me/place:great_pond/precinct:1-1": {
+   "name": "Great Pond Precinct 1-1"
   },
   "ocd-division/country:us/state:me/county:oxford/school_district:rsu_10": {
    "name": "rsu 10"
@@ -818,17 +818,17 @@
   "ocd-division/country:us/state:me/county:hancock/school_district:sedgwick_school_department": {
    "name": "sedgwick school department"
   },
-  "ocd-division/country:us/state:me/county:hancock/school_district:brooksville_school_department": {
-   "name": "brooksville school department"
-  },
   "ocd-division/country:us/state:me/place:livermore/precinct:1-1": {
    "name": "Livermore Precinct 1-1"
   },
-  "ocd-division/country:us/state:me/place:biddeford": {
-   "name": "Biddeford city"
+  "ocd-division/country:us/state:me/county:hancock/school_district:brooksville_school_department": {
+   "name": "brooksville school department"
   },
   "ocd-division/country:us/state:me/place:winslow/precinct:5-1": {
    "name": "Winslow Precinct 5-1"
+  },
+  "ocd-division/country:us/state:me/place:biddeford": {
+   "name": "Biddeford city"
   },
   "ocd-division/country:us/state:me/place:winslow/precinct:1-1": {
    "name": "Winslow Precinct 1-1"
@@ -842,11 +842,11 @@
   "ocd-division/country:us/state:me/place:frenchboro": {
    "name": "Frenchboro town"
   },
-  "ocd-division/country:us/state:me/place:castine": {
-   "name": "Castine town"
-  },
   "ocd-division/country:us/state:me/place:wiscasset": {
    "name": "Wiscasset town"
+  },
+  "ocd-division/country:us/state:me/place:castine": {
+   "name": "Castine town"
   },
   "ocd-division/country:us/state:me/county:franklin/school_district:jay_school_department": {
    "name": "jay school department"
@@ -884,11 +884,11 @@
   "ocd-division/country:us/state:me/place:brooksville": {
    "name": "Brooksville town"
   },
-  "ocd-division/country:us/state:me/place:orland/precinct:1-1": {
-   "name": "Orland Precinct 1-1"
-  },
   "ocd-division/country:us/state:me/place:whitneyville": {
    "name": "Whitneyville town"
+  },
+  "ocd-division/country:us/state:me/place:orland/precinct:1-1": {
+   "name": "Orland Precinct 1-1"
   },
   "ocd-division/country:us/state:me/place:deer_isle/precinct:1-1": {
    "name": "Deer Isle Precinct 1-1"
@@ -902,11 +902,11 @@
     4
    ]
   },
-  "ocd-division/country:us/state:me/place:lincoln_town": {
-   "name": "Lincoln town"
-  },
   "ocd-division/country:us/state:me/place:orient": {
    "name": "Orient town"
+  },
+  "ocd-division/country:us/state:me/place:lincoln_town": {
+   "name": "Lincoln town"
   },
   "ocd-division/country:us/state:me/sldu:7": {
    "name": "Maine State Senate district 7",
@@ -914,14 +914,14 @@
     5
    ]
   },
+  "ocd-division/country:us/state:me/place:garfield/precinct:1-1": {
+   "name": "Garfield Precinct 1-1"
+  },
   "ocd-division/country:us/state:me/sldu:6": {
    "name": "Maine State Senate district 6",
    "officeIndices": [
     6
    ]
-  },
-  "ocd-division/country:us/state:me/place:garfield/precinct:1-1": {
-   "name": "Garfield Precinct 1-1"
   },
   "ocd-division/country:us/state:me/sldu:9": {
    "name": "Maine State Senate district 9",
@@ -935,14 +935,14 @@
     8
    ]
   },
+  "ocd-division/country:us/state:me/place:columbia": {
+   "name": "Columbia town"
+  },
   "ocd-division/country:us/state:me/sldu:3": {
    "name": "Maine State Senate district 3",
    "officeIndices": [
     9
    ]
-  },
-  "ocd-division/country:us/state:me/place:columbia": {
-   "name": "Columbia town"
   },
   "ocd-division/country:us/state:me/sldu:2": {
    "name": "Maine State Senate district 2",
@@ -971,23 +971,23 @@
   "ocd-division/country:us/state:me/place:jackman": {
    "name": "Jackman town"
   },
+  "ocd-division/country:us/state:me/county:cumberland/school_district:brunswick_school_department": {
+   "name": "brunswick school department"
+  },
   "ocd-division/country:us/state:me/county:knox/council_district:2": {
    "name": "Knox County Commissioner District 2",
    "officeIndices": [
     198
    ]
   },
-  "ocd-division/country:us/state:me/county:cumberland/school_district:brunswick_school_department": {
-   "name": "brunswick school department"
-  },
-  "ocd-division/country:us/state:me/place:clifton": {
-   "name": "Clifton town"
-  },
   "ocd-division/country:us/state:me/county:knox/council_district:1": {
    "name": "Knox County Commissioner District 1",
    "officeIndices": [
     199
    ]
+  },
+  "ocd-division/country:us/state:me/place:clifton": {
+   "name": "Clifton town"
   },
   "ocd-division/country:us/state:me/county:knox/council_district:3": {
    "name": "Knox County Commissioner District 3",
@@ -1001,11 +1001,11 @@
   "ocd-division/country:us/state:me/place:sweden/precinct:1-1": {
    "name": "Sweden Precinct 1-1"
   },
-  "ocd-division/country:us/state:me/place:east_millinocket/precinct:1-1": {
-   "name": "East Millinocket Precinct 1-1"
-  },
   "ocd-division/country:us/state:me/place:houlton/precinct:1-1": {
    "name": "Houlton Precinct 1-1"
+  },
+  "ocd-division/country:us/state:me/place:east_millinocket/precinct:1-1": {
+   "name": "East Millinocket Precinct 1-1"
   },
   "ocd-division/country:us/state:me/place:columbia_falls": {
    "name": "Columbia Falls town"
@@ -1049,11 +1049,11 @@
   "ocd-division/country:us/state:me/place:big_lake": {
    "name": "Big Lake Township"
   },
-  "ocd-division/country:us/state:me/place:aurora": {
-   "name": "Aurora town"
-  },
   "ocd-division/country:us/state:me/place:oakfield": {
    "name": "Oakfield town"
+  },
+  "ocd-division/country:us/state:me/place:aurora": {
+   "name": "Aurora town"
   },
   "ocd-division/country:us/state:me/place:penobscot_nation/precinct:1-1": {
    "name": "Penobscot Nation Precinct 1-1"
@@ -1106,11 +1106,11 @@
   "ocd-division/country:us/state:me/place:edmunds": {
    "name": "Edmunds Township"
   },
-  "ocd-division/country:us/state:me/place:buxton/precinct:1-1": {
-   "name": "Buxton Precinct 1-1"
-  },
   "ocd-division/country:us/state:me/place:stockton_springs/precinct:1-1": {
    "name": "Stockton Springs Precinct 1-1"
+  },
+  "ocd-division/country:us/state:me/place:buxton/precinct:1-1": {
+   "name": "Buxton Precinct 1-1"
   },
   "ocd-division/country:us/state:me/place:dennysville/precinct:1-1": {
    "name": "Dennysville Precinct 1-1"
@@ -1121,14 +1121,14 @@
   "ocd-division/country:us/state:me/place:andover/precinct:1-1": {
    "name": "Andover Precinct 1-1"
   },
+  "ocd-division/country:us/state:me/place:oakland": {
+   "name": "Oakland town"
+  },
   "ocd-division/country:us/state:me/sldl:9": {
    "name": "Maine State House district 9",
    "officeIndices": [
     15
    ]
-  },
-  "ocd-division/country:us/state:me/place:oakland": {
-   "name": "Oakland town"
   },
   "ocd-division/country:us/state:me/sldl:7": {
    "name": "Maine State House district 7",
@@ -1136,14 +1136,14 @@
     16
    ]
   },
+  "ocd-division/country:us/state:me/place:fairfield/precinct:1-1": {
+   "name": "Fairfield Precinct 1-1"
+  },
   "ocd-division/country:us/state:me/sldl:8": {
    "name": "Maine State House district 8",
    "officeIndices": [
     17
    ]
-  },
-  "ocd-division/country:us/state:me/place:fairfield/precinct:1-1": {
-   "name": "Fairfield Precinct 1-1"
   },
   "ocd-division/country:us/state:me/sldl:5": {
    "name": "Maine State House district 5",
@@ -1151,14 +1151,14 @@
     18
    ]
   },
+  "ocd-division/country:us/state:me/place:casco": {
+   "name": "Casco town"
+  },
   "ocd-division/country:us/state:me/sldl:6": {
    "name": "Maine State House district 6",
    "officeIndices": [
     19
    ]
-  },
-  "ocd-division/country:us/state:me/place:casco": {
-   "name": "Casco town"
   },
   "ocd-division/country:us/state:me/sldl:3": {
    "name": "Maine State House district 3",
@@ -1214,23 +1214,23 @@
   "ocd-division/country:us/state:me/place:veazie/precinct:1-1": {
    "name": "Veazie Precinct 1-1"
   },
-  "ocd-division/country:us/state:me/place:coplin": {
-   "name": "Coplin plantation"
-  },
   "ocd-division/country:us/state:me/place:cambridge/precinct:1-1": {
    "name": "Cambridge Precinct 1-1"
   },
+  "ocd-division/country:us/state:me/place:coplin": {
+   "name": "Coplin plantation"
+  },
   "ocd-division/country:us/state:me/place:roque_bluffs": {
    "name": "Roque Bluffs town"
+  },
+  "ocd-division/country:us/state:me/county:penobscot/school_district:moro_plt_school_department": {
+   "name": "moro plt school department"
   },
   "ocd-division/country:us/state:me/sldl:29": {
    "name": "Maine State House district 29",
    "officeIndices": [
     22
    ]
-  },
-  "ocd-division/country:us/state:me/county:penobscot/school_district:moro_plt_school_department": {
-   "name": "moro plt school department"
   },
   "ocd-division/country:us/state:me/sldl:28": {
    "name": "Maine State House district 28",
@@ -1881,17 +1881,17 @@
   "ocd-division/country:us/state:me/county:franklin/school_district:rangeley_plt_school_department": {
    "name": "rangeley plt school department"
   },
-  "ocd-division/country:us/state:me/county:penobscot/school_district:rsu_63~msad_63": {
-   "name": "rsu 63/msad 63"
-  },
-  "ocd-division/country:us/state:me/place:monmouth": {
-   "name": "Monmouth town"
-  },
   "ocd-division/country:us/state:me/sldl:126": {
    "name": "Maine State House district 126",
    "officeIndices": [
     95
    ]
+  },
+  "ocd-division/country:us/state:me/county:penobscot/school_district:rsu_63~msad_63": {
+   "name": "rsu 63/msad 63"
+  },
+  "ocd-division/country:us/state:me/place:monmouth": {
+   "name": "Monmouth town"
   },
   "ocd-division/country:us/state:me/sldl:127": {
    "name": "Maine State House district 127",
@@ -1965,18 +1965,18 @@
     106
    ]
   },
-  "ocd-division/country:us/state:me/sldl:45": {
-   "name": "Maine State House district 45",
-   "officeIndices": [
-    107
-   ]
-  },
   "ocd-division/country:us/state:me/county:kennebec": {
    "name": "Kennebec County",
    "officeIndices": [
     206,
     207,
     208
+   ]
+  },
+  "ocd-division/country:us/state:me/sldl:45": {
+   "name": "Maine State House district 45",
+   "officeIndices": [
+    107
    ]
   },
   "ocd-division/country:us/state:me/sldl:46": {
@@ -2640,11 +2640,11 @@
   "ocd-division/country:us/state:me/place:raymond": {
    "name": "Raymond town"
   },
-  "ocd-division/country:us/state:me/place:frenchville/precinct:1-1": {
-   "name": "Frenchville Precinct 1-1"
-  },
   "ocd-division/country:us/state:me/place:freedom": {
    "name": "Freedom town"
+  },
+  "ocd-division/country:us/state:me/place:frenchville/precinct:1-1": {
+   "name": "Frenchville Precinct 1-1"
   },
   "ocd-division/country:us/state:me/place:waterville/precinct:7-1": {
    "name": "Waterville Precinct 7-1"
@@ -2658,11 +2658,11 @@
   "ocd-division/country:us/state:me/county:hancock/school_district:cranberry_isles_school_department": {
    "name": "cranberry isles school department"
   },
-  "ocd-division/country:us/state:me/place:grand_isle/precinct:1-1": {
-   "name": "Grand Isle Precinct 1-1"
-  },
   "ocd-division/country:us/state:me/place:levant/precinct:1-1": {
    "name": "Levant Precinct 1-1"
+  },
+  "ocd-division/country:us/state:me/place:grand_isle/precinct:1-1": {
+   "name": "Grand Isle Precinct 1-1"
   },
   "ocd-division/country:us/state:me/county:somerset/school_district:west_forks_plt_school_department": {
    "name": "west forks plt school department"
@@ -2685,17 +2685,17 @@
   "ocd-division/country:us/state:me/place:dayton/precinct:1-1": {
    "name": "Dayton Precinct 1-1"
   },
-  "ocd-division/country:us/state:me/county:knox/school_district:rsu_08~msad_08": {
-   "name": "rsu 08/msad 08"
-  },
   "ocd-division/country:us/state:me/county:aroostook/school_district:rsu_70~msad_70": {
    "name": "rsu 70/msad 70"
   },
-  "ocd-division/country:us/state:me/place:byron": {
-   "name": "Byron town"
+  "ocd-division/country:us/state:me/county:knox/school_district:rsu_08~msad_08": {
+   "name": "rsu 08/msad 08"
   },
   "ocd-division/country:us/state:me/place:presque_isle/precinct:2-17": {
    "name": "Presque Isle Precinct 2-17"
+  },
+  "ocd-division/country:us/state:me/place:byron": {
+   "name": "Byron town"
   },
   "ocd-division/country:us/state:me/place:milford/precinct:1-1": {
    "name": "Milford Precinct 1-1"
@@ -2715,11 +2715,11 @@
   "ocd-division/country:us/state:me/county:cumberland/school_district:falmouth_school_department": {
    "name": "falmouth school department"
   },
-  "ocd-division/country:us/state:me/place:smithfield": {
-   "name": "Smithfield town"
-  },
   "ocd-division/country:us/state:me/place:swans_island/precinct:1-1": {
    "name": "Swans Island Precinct 1-1"
+  },
+  "ocd-division/country:us/state:me/place:smithfield": {
+   "name": "Smithfield town"
   },
   "ocd-division/country:us/state:me/sldu:18": {
    "name": "Maine State Senate district 18",
@@ -2727,14 +2727,14 @@
     164
    ]
   },
+  "ocd-division/country:us/state:me/county:washington/school_district:indian_island": {
+   "name": "indian island"
+  },
   "ocd-division/country:us/state:me/sldu:17": {
    "name": "Maine State Senate district 17",
    "officeIndices": [
     165
    ]
-  },
-  "ocd-division/country:us/state:me/county:washington/school_district:indian_island": {
-   "name": "indian island"
   },
   "ocd-division/country:us/state:me/sldu:19": {
    "name": "Maine State Senate district 19",
@@ -2796,14 +2796,14 @@
     171
    ]
   },
+  "ocd-division/country:us/state:me/county:lincoln/school_district:boothbay-boothbay_hbr_csd": {
+   "name": "boothbay-boothbay hbr csd"
+  },
   "ocd-division/country:us/state:me/sldu:15": {
    "name": "Maine State Senate district 15",
    "officeIndices": [
     172
    ]
-  },
-  "ocd-division/country:us/state:me/county:lincoln/school_district:boothbay-boothbay_hbr_csd": {
-   "name": "boothbay-boothbay hbr csd"
   },
   "ocd-division/country:us/state:me/sldu:16": {
    "name": "Maine State Senate district 16",
@@ -2853,23 +2853,23 @@
   "ocd-division/country:us/state:me/place:waterville/precinct:6-1": {
    "name": "Waterville Precinct 6-1"
   },
-  "ocd-division/country:us/state:me/place:holden": {
-   "name": "Holden town"
-  },
   "ocd-division/country:us/state:me/place:palermo": {
    "name": "Palermo town"
   },
+  "ocd-division/country:us/state:me/place:holden": {
+   "name": "Holden town"
+  },
   "ocd-division/country:us/state:me/district_court:lincoln": {
    "name": "ME State District Court - Lincoln District"
+  },
+  "ocd-division/country:us/state:me/place:grand_lake_stream": {
+   "name": "Grand Lake Stream plantation"
   },
   "ocd-division/country:us/state:me/sldu:30": {
    "name": "Maine State Senate district 30",
    "officeIndices": [
     174
    ]
-  },
-  "ocd-division/country:us/state:me/place:grand_lake_stream": {
-   "name": "Grand Lake Stream plantation"
   },
   "ocd-division/country:us/state:me/sldu:35": {
    "name": "Maine State Senate district 35",
@@ -3094,14 +3094,11 @@
   "ocd-division/country:us/state:me/place:chapman/precinct:1-1": {
    "name": "Chapman Precinct 1-1"
   },
-  "ocd-division/country:us/state:me/place:mercer": {
-   "name": "Mercer town"
-  },
   "ocd-division/country:us/state:me/place:waldoboro": {
    "name": "Waldoboro town"
   },
-  "ocd-division/country:us/state:me/place:fort_fairfield": {
-   "name": "Fort Fairfield town"
+  "ocd-division/country:us/state:me/place:mercer": {
+   "name": "Mercer town"
   },
   "ocd-division/country:us/state:me/county:sagadahoc": {
    "name": "Sagadahoc County",
@@ -3112,6 +3109,9 @@
     233,
     234
    ]
+  },
+  "ocd-division/country:us/state:me/place:fort_fairfield": {
+   "name": "Fort Fairfield town"
   },
   "ocd-division/country:us/state:me/county:piscataquis": {
    "name": "Piscataquis County",
@@ -3605,11 +3605,11 @@
   "ocd-division/country:us/state:me/county:york/school_district:rsu_23": {
    "name": "rsu 23"
   },
-  "ocd-division/country:us/state:me/place:appleton/precinct:1-1": {
-   "name": "Appleton Precinct 1-1"
-  },
   "ocd-division/country:us/state:me/place:south_portland": {
    "name": "South Portland city"
+  },
+  "ocd-division/country:us/state:me/place:appleton/precinct:1-1": {
+   "name": "Appleton Precinct 1-1"
   },
   "ocd-division/country:us/state:me/place:alexander/precinct:1-1": {
    "name": "Alexander Precinct 1-1"
@@ -4163,11 +4163,11 @@
   "ocd-division/country:us/state:me/place:gardiner/precinct:1-1": {
    "name": "Gardiner Precinct 1-1"
   },
-  "ocd-division/country:us/state:me/county:penobscot/school_district:orrington_school_department": {
-   "name": "orrington school department"
-  },
   "ocd-division/country:us/state:me/place:porter": {
    "name": "Porter town"
+  },
+  "ocd-division/country:us/state:me/county:penobscot/school_district:orrington_school_department": {
+   "name": "orrington school department"
   },
   "ocd-division/country:us/state:me/place:old_orchard_beach": {
    "name": "Old Orchard Beach town"
@@ -4208,11 +4208,11 @@
   "ocd-division/country:us/state:me/place:kennebunkport": {
    "name": "Kennebunkport town"
   },
-  "ocd-division/country:us/state:me/district_court:lewiston": {
-   "name": "ME State District Court - Lewiston District"
-  },
   "ocd-division/country:us/state:me/place:phillips": {
    "name": "Phillips town"
+  },
+  "ocd-division/country:us/state:me/district_court:lewiston": {
+   "name": "ME State District Court - Lewiston District"
   },
   "ocd-division/country:us/state:me/place:whiting": {
    "name": "Whiting town"
@@ -4391,14 +4391,14 @@
   "ocd-division/country:us/state:me/place:carmel/precinct:1-1": {
    "name": "Carmel Precinct 1-1"
   },
-  "ocd-division/country:us/state:me/place:dover-foxcroft": {
-   "name": "Dover-Foxcroft town"
-  },
   "ocd-division/country:us/state:me/county:penobscot/council_district:1": {
    "name": "Penobscot County ME Commissioner District 1",
    "officeIndices": [
     283
    ]
+  },
+  "ocd-division/country:us/state:me/place:dover-foxcroft": {
+   "name": "Dover-Foxcroft town"
   },
   "ocd-division/country:us/state:me/county:knox/school_district:rsu_28~msad_28": {
    "name": "rsu 28/msad 28"
@@ -4469,11 +4469,11 @@
   "ocd-division/country:us/state:me/place:acton/precinct:1-1": {
    "name": "Acton Precinct 1-1"
   },
-  "ocd-division/country:us/state:me/place:easton": {
-   "name": "Easton town"
-  },
   "ocd-division/country:us/state:me/place:caribou": {
    "name": "Caribou city"
+  },
+  "ocd-division/country:us/state:me/place:easton": {
+   "name": "Easton town"
   },
   "ocd-division/country:us/state:me/place:prentiss": {
    "name": "Prentiss Township"
@@ -4559,12 +4559,6 @@
   "ocd-division/country:us/state:me/district_court:waterville": {
    "name": "ME State District Court - Waterville District"
   },
-  "ocd-division/country:us/state:me/county:penobscot/school_district:mountain_view_youth_dev_ctr": {
-   "name": "mountain view youth dev ctr"
-  },
-  "ocd-division/country:us/state:me/county:penobscot/school_district:dedham_school_department": {
-   "name": "dedham school department"
-  },
   "ocd-division/country:us/state:me/county:aroostook": {
    "name": "Aroostook County",
    "officeIndices": [
@@ -4575,6 +4569,12 @@
     291,
     292
    ]
+  },
+  "ocd-division/country:us/state:me/county:penobscot/school_district:mountain_view_youth_dev_ctr": {
+   "name": "mountain view youth dev ctr"
+  },
+  "ocd-division/country:us/state:me/county:penobscot/school_district:dedham_school_department": {
+   "name": "dedham school department"
   },
   "ocd-division/country:us/state:me/county:kennebec/school_district:vassalboro_school_department": {
    "name": "vassalboro school department"
@@ -5413,11 +5413,11 @@
   "ocd-division/country:us/state:me/county:penobscot/school_district:seboeis_plt_school_department": {
    "name": "seboeis plt school department"
   },
-  "ocd-division/country:us/state:me/place:lewiston/precinct:3-2": {
-   "name": "Lewiston Precinct 3-2"
-  },
   "ocd-division/country:us/state:me/place:woolwich/precinct:1-1": {
    "name": "Woolwich Precinct 1-1"
+  },
+  "ocd-division/country:us/state:me/place:lewiston/precinct:3-2": {
+   "name": "Lewiston Precinct 3-2"
   },
   "ocd-division/country:us/state:me/place:lewiston/precinct:3-1": {
    "name": "Lewiston Precinct 3-1"
@@ -5428,11 +5428,11 @@
   "ocd-division/country:us/state:me/county:hancock/school_district:msad_76": {
    "name": "msad 76"
   },
-  "ocd-division/country:us/state:me/county:cumberland/school_district:scarborough_school_department": {
-   "name": "scarborough school department"
-  },
   "ocd-division/country:us/state:me/place:woolwich/precinct:1-3": {
    "name": "Woolwich Precinct 1-3"
+  },
+  "ocd-division/country:us/state:me/county:cumberland/school_district:scarborough_school_department": {
+   "name": "scarborough school department"
   },
   "ocd-division/country:us/state:me/county:penobscot/school_district:woodville_school_department": {
    "name": "woodville school department"
@@ -5446,11 +5446,11 @@
   "ocd-division/country:us/state:me/place:stockholm/precinct:1-1": {
    "name": "Stockholm Precinct 1-1"
   },
-  "ocd-division/country:us/state:me/county:aroostook/school_district:rsu_33~msad_33": {
-   "name": "rsu 33/msad 33"
-  },
   "ocd-division/country:us/state:me/place:lisbon": {
    "name": "Lisbon town"
+  },
+  "ocd-division/country:us/state:me/county:aroostook/school_district:rsu_33~msad_33": {
+   "name": "rsu 33/msad 33"
   },
   "ocd-division/country:us/state:me/place:franklin": {
    "name": "Franklin town"
@@ -9654,12 +9654,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "briandlangley"
-    },
-    {
      "type": "Facebook",
      "id": "BrianDLangley"
+    },
+    {
+     "type": "Twitter",
+     "id": "briandlangley"
     }
    ]
   },
@@ -11149,8 +11149,7 @@
     "(207) 403-3383"
    ],
    "urls": [
-    "http://www.maine.gov/legis/house/hsebios/turnbp.htm",
-    "http://www.repbethturner.com/"
+    "http://www.maine.gov/legis/house/hsebios/turnbp.htm"
    ],
    "photoUrl": "http://www.maine.gov/legis/house/photo127/turnbp.jpg",
    "emails": [
@@ -11840,12 +11839,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "MEDistrict101RepPowers"
-    },
-    {
      "type": "Twitter",
      "id": "MERepCBPowers"
+    },
+    {
+     "type": "Facebook",
+     "id": "MEDistrict101RepPowers"
     }
    ]
   },
@@ -12843,17 +12842,18 @@
     "http://www.maine.gov/legis/house/hsebios/hobabd.htm",
     "http://mehousegop.org/reps-l-p/brian-hobart/"
    ],
+   "photoUrl": "http://www.maine.gov/legis/house/photo127/hobabd.jpg",
    "emails": [
     "Brian.Hobart@legislature.maine.gov"
    ],
    "channels": [
     {
      "type": "Facebook",
-     "id": "253556708156741"
+     "id": "bhobart"
     },
     {
      "type": "Facebook",
-     "id": "bhobart"
+     "id": "253556708156741"
     }
    ]
   },
@@ -13691,12 +13691,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "MattieforMaine"
-    },
-    {
      "type": "Facebook",
      "id": "mattieformaine"
+    },
+    {
+     "type": "Twitter",
+     "id": "MattieforMaine"
     }
    ]
   },
@@ -14696,11 +14696,11 @@
    "channels": [
     {
      "type": "Facebook",
-     "id": "repjoanwelsh94"
+     "id": "joan.welsh.94"
     },
     {
      "type": "Facebook",
-     "id": "joan.welsh.94"
+     "id": "repjoanwelsh94"
     }
    ]
   },
@@ -15769,11 +15769,11 @@
    "channels": [
     {
      "type": "Facebook",
-     "id": "317515465119238"
+     "id": "paul.gilbert.79827"
     },
     {
      "type": "Facebook",
-     "id": "paul.gilbert.79827"
+     "id": "317515465119238"
     }
    ]
   },
@@ -15877,6 +15877,7 @@
     "http://legisweb1.mainelegislature.org/wp/senate/senators/patrick/",
     "http://www.mainesenate.org/meet-your-senators/senator-patrick/"
    ],
+   "photoUrl": "http://legisweb1.mainelegislature.org/wp/senate/wp-content/uploads/sites/2/2013/02/Patrick.png",
    "emails": [
     "senjohnpatrick14@gmail.com"
    ],
@@ -16006,12 +16007,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "SenatorMikeThibodeau"
-    },
-    {
      "type": "Twitter",
      "id": "s_presthibodeau"
+    },
+    {
+     "type": "Facebook",
+     "id": "SenatorMikeThibodeau"
     }
    ]
   },
@@ -16132,12 +16133,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "181817348620154"
-    },
-    {
      "type": "Twitter",
      "id": "senrogerkatz"
+    },
+    {
+     "type": "Facebook",
+     "id": "181817348620154"
     }
    ]
   },
@@ -16251,7 +16252,7 @@
    ],
    "channels": [
     {
-     "type": "YouTube",
+     "type": "Facebook",
      "id": "SenatorDawnHill"
     },
     {
@@ -16259,7 +16260,7 @@
      "id": "DawnHillNow"
     },
     {
-     "type": "Facebook",
+     "type": "YouTube",
      "id": "SenatorDawnHill"
     }
    ]
@@ -16300,12 +16301,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "senatorvalentino"
-    },
-    {
      "type": "Twitter",
      "id": "votevalentino"
+    },
+    {
+     "type": "Facebook",
+     "id": "senatorvalentino"
     }
    ]
   },
@@ -16551,11 +16552,11 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "justinalfond"
     },
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "justinalfond"
     }
    ]
@@ -16753,12 +16754,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "senatorbrakey"
-    },
-    {
      "type": "Facebook",
      "id": "BrakeyForMaineSenate"
+    },
+    {
+     "type": "Twitter",
+     "id": "senatorbrakey"
     }
    ]
   },
@@ -17178,6 +17179,9 @@
    "party": "Republican",
    "phones": [
     "(207) 474-9591"
+   ],
+   "urls": [
+    "http://www.somersetcounty-me.org/index.cfm?PageContent=Department.cfm&DeptID=24"
    ],
    "emails": [
     "BDelong@SomersetCounty-ME.org"
@@ -19271,9 +19275,6 @@
    "party": "Democratic",
    "phones": [
     "(207) 594-0429"
-   ],
-   "urls": [
-    "http://www.knoxso.com/"
    ],
    "emails": [
     "ddennison@knoxcountymaine.gov"

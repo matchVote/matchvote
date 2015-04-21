@@ -5212,6 +5212,10 @@
     {
      "type": "Facebook",
      "id": "187885081230453"
+    },
+    {
+     "type": "Twitter",
+     "id": "giesselaksenate"
     }
    ]
   },
@@ -5518,6 +5522,9 @@
    "party": "Nonpartisan",
    "phones": [
     "(907) 459-1300"
+   ],
+   "urls": [
+    "http://co.fairbanks.ak.us/mayor/default.htm"
    ],
    "emails": [
     "mayor@co.fairbanks.ak.us"

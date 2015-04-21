@@ -21,11 +21,11 @@
   "ocd-division/country:us/state:sd/county:brown/place:west_hanson": {
    "name": "West Hanson township"
   },
-  "ocd-division/country:us/state:sd/county:tripp/place:rosedale": {
-   "name": "Rosedale township"
-  },
   "ocd-division/country:us/state:sd/county:brown/place:westport": {
    "name": "Westport township"
+  },
+  "ocd-division/country:us/state:sd/county:tripp/place:rosedale": {
+   "name": "Rosedale township"
   },
   "ocd-division/country:us/state:sd/county:hamlin/place:cleveland": {
    "name": "Cleveland township"
@@ -77,11 +77,11 @@
   "ocd-division/country:us/state:sd/county:minnehaha/place:buffalo": {
    "name": "Buffalo township"
   },
-  "ocd-division/country:us/state:sd/place:batesland": {
-   "name": "Batesland town"
-  },
   "ocd-division/country:us/state:sd/county:day/place:rusk": {
    "name": "Rusk township"
+  },
+  "ocd-division/country:us/state:sd/place:batesland": {
+   "name": "Batesland town"
   },
   "ocd-division/country:us/state:sd/place:lennox": {
    "name": "Lennox city"
@@ -167,41 +167,41 @@
   "ocd-division/country:us/state:sd/county:aurora/school_district:stickney_school_district_01-2": {
    "name": "stickney school district 01-2"
   },
-  "ocd-division/country:us/state:sd/county:tripp/place:witten": {
-   "name": "Witten township"
+  "ocd-division/country:us/state:sd/county:moody/place:union": {
+   "name": "Union township"
   },
   "ocd-division/country:us/state:sd/county:tripp/place:irwin": {
    "name": "Irwin township"
   },
-  "ocd-division/country:us/state:sd/county:moody/place:union": {
-   "name": "Union township"
+  "ocd-division/country:us/state:sd/county:tripp/place:witten": {
+   "name": "Witten township"
   },
   "ocd-division/country:us/state:sd/county:turner/school_district:irene_-_wakonda_school_district_13-3": {
    "name": "irene - wakonda school district 13-3"
   },
-  "ocd-division/country:us/state:sd/county:turner/place:salem": {
-   "name": "Salem township"
-  },
   "ocd-division/country:us/state:sd/county:hanson/precinct:4": {
    "name": "HANSON County Precinct 4"
+  },
+  "ocd-division/country:us/state:sd/county:turner/place:salem": {
+   "name": "Salem township"
   },
   "ocd-division/country:us/state:sd/county:hanson/precinct:3": {
    "name": "HANSON County Precinct 3"
   },
-  "ocd-division/country:us/state:sd/place:lemmon": {
-   "name": "Lemmon city"
-  },
-  "ocd-division/country:us/state:sd/place:egan": {
-   "name": "Egan city"
-  },
-  "ocd-division/country:us/state:sd/county:deuel/place:goodwin": {
-   "name": "Goodwin township"
+  "ocd-division/country:us/state:sd/county:hanson/precinct:2": {
+   "name": "HANSON County Precinct 2"
   },
   "ocd-division/country:us/state:sd/county:beadle/place:iowa": {
    "name": "Iowa township"
   },
-  "ocd-division/country:us/state:sd/county:hanson/precinct:2": {
-   "name": "HANSON County Precinct 2"
+  "ocd-division/country:us/state:sd/county:deuel/place:goodwin": {
+   "name": "Goodwin township"
+  },
+  "ocd-division/country:us/state:sd/place:egan": {
+   "name": "Egan city"
+  },
+  "ocd-division/country:us/state:sd/place:lemmon": {
+   "name": "Lemmon city"
   },
   "ocd-division/country:us/state:sd/county:hanson/precinct:1": {
    "name": "HANSON County Precinct 1"
@@ -224,11 +224,11 @@
   "ocd-division/country:us/state:sd/county:pennington/precinct:js": {
    "name": "PENNINGTON County Precinct JS"
   },
-  "ocd-division/country:us/state:sd/county:clark/place:merton": {
-   "name": "Merton township"
-  },
   "ocd-division/country:us/state:sd/county:mellette/place:ring_thunder": {
    "name": "Ring Thunder township"
+  },
+  "ocd-division/country:us/state:sd/county:clark/place:merton": {
+   "name": "Merton township"
   },
   "ocd-division/country:us/state:sd/county:brown": {
    "name": "Brown County",
@@ -245,11 +245,11 @@
   "ocd-division/country:us/state:sd/county:kingsbury/precinct:de_smet": {
    "name": "KINGSBURY County Precinct DE SMET"
   },
-  "ocd-division/country:us/state:sd/county:brule/place:willow_lake": {
-   "name": "Willow Lake township"
-  },
   "ocd-division/country:us/state:sd/county:hanson/place:plano": {
    "name": "Plano township"
+  },
+  "ocd-division/country:us/state:sd/county:brule/place:willow_lake": {
+   "name": "Willow Lake township"
   },
   "ocd-division/country:us/state:sd/county:brown/place:columbia": {
    "name": "Columbia township"
@@ -307,17 +307,14 @@
     101
    ]
   },
+  "ocd-division/country:us/state:sd/county:mccook/place:brookfield": {
+   "name": "Brookfield township"
+  },
   "ocd-division/country:us/state:sd/county:butte/council_district:2": {
    "name": "Butte County District 2",
    "officeIndices": [
     102
    ]
-  },
-  "ocd-division/country:us/state:sd/county:mccook/place:brookfield": {
-   "name": "Brookfield township"
-  },
-  "ocd-division/country:us/state:sd/county:roberts/place:white_rock": {
-   "name": "White Rock township"
   },
   "ocd-division/country:us/state:sd/county:butte/council_district:5": {
    "name": "Butte County District 5",
@@ -325,20 +322,23 @@
     103
    ]
   },
+  "ocd-division/country:us/state:sd/county:roberts/place:white_rock": {
+   "name": "White Rock township"
+  },
   "ocd-division/country:us/state:sd/county:butte/council_district:4": {
    "name": "Butte County District 4",
    "officeIndices": [
     104
    ]
   },
-  "ocd-division/country:us/state:sd/county:perkins/place:cash": {
-   "name": "Cash township"
-  },
   "ocd-division/country:us/state:sd/county:butte/council_district:1": {
    "name": "Butte County District 1",
    "officeIndices": [
     105
    ]
+  },
+  "ocd-division/country:us/state:sd/county:perkins/place:cash": {
+   "name": "Cash township"
   },
   "ocd-division/country:us/state:sd/county:tripp/place:black": {
    "name": "Black township"
@@ -436,14 +436,14 @@
     107
    ]
   },
+  "ocd-division/country:us/state:sd/county:charles_mix/school_district:wagner_community_school_district_11-4": {
+   "name": "wagner community school district 11-4"
+  },
   "ocd-division/country:us/state:sd/county:moody/council_district:4": {
    "name": "Moody County District 4",
    "officeIndices": [
     108
    ]
-  },
-  "ocd-division/country:us/state:sd/county:charles_mix/school_district:wagner_community_school_district_11-4": {
-   "name": "wagner community school district 11-4"
   },
   "ocd-division/country:us/state:sd/county:moody/council_district:3": {
    "name": "Moody County District 3",
@@ -469,11 +469,11 @@
   "ocd-division/country:us/state:sd/county:douglas/precinct:3": {
    "name": "DOUGLAS County Precinct 3"
   },
-  "ocd-division/country:us/state:sd/county:douglas/precinct:5": {
-   "name": "DOUGLAS County Precinct 5"
-  },
   "ocd-division/country:us/state:sd/county:jerauld/place:crow": {
    "name": "Crow township"
+  },
+  "ocd-division/country:us/state:sd/county:douglas/precinct:5": {
+   "name": "DOUGLAS County Precinct 5"
   },
   "ocd-division/country:us/state:sd/county:lincoln/school_district:tea_area_school_district_41-5": {
    "name": "tea area school district 41-5"
@@ -502,26 +502,26 @@
   "ocd-division/country:us/state:sd/county:codington/precinct:a1": {
    "name": "CODINGTON County Precinct A1"
   },
-  "ocd-division/country:us/state:sd/county:edmunds/place:union": {
-   "name": "Union township"
-  },
   "ocd-division/country:us/state:sd/county:aurora/school_district:white_lake_school_district_01-3": {
    "name": "white lake school district 01-3"
+  },
+  "ocd-division/country:us/state:sd/county:edmunds/place:union": {
+   "name": "Union township"
   },
   "ocd-division/country:us/state:sd/county:davison/precinct:3": {
    "name": "DAVISON County Precinct 3"
   },
-  "ocd-division/country:us/state:sd/county:davison/precinct:2": {
-   "name": "DAVISON County Precinct 2"
-  },
   "ocd-division/country:us/state:sd/county:codington/precinct:a4": {
    "name": "CODINGTON County Precinct A4"
   },
-  "ocd-division/country:us/state:sd/county:davison/precinct:1": {
-   "name": "DAVISON County Precinct 1"
+  "ocd-division/country:us/state:sd/county:davison/precinct:2": {
+   "name": "DAVISON County Precinct 2"
   },
   "ocd-division/country:us/state:sd/county:codington/precinct:a3": {
    "name": "CODINGTON County Precinct A3"
+  },
+  "ocd-division/country:us/state:sd/county:davison/precinct:1": {
+   "name": "DAVISON County Precinct 1"
   },
   "ocd-division/country:us/state:sd/county:codington/precinct:a2": {
    "name": "CODINGTON County Precinct A2"
@@ -577,6 +577,15 @@
   "ocd-division/country:us/state:sd/county:codington/precinct:b4": {
    "name": "CODINGTON County Precinct B4"
   },
+  "ocd-division/country:us/state:sd/county:brookings/place:winsor": {
+   "name": "Winsor township"
+  },
+  "ocd-division/country:us/state:sd/county:codington/precinct:b3": {
+   "name": "CODINGTON County Precinct B3"
+  },
+  "ocd-division/country:us/state:sd/county:deuel/place:havana": {
+   "name": "Havana township"
+  },
   "ocd-division/country:us/state:sd/county:faulk": {
    "name": "Faulk County",
    "officeIndices": [
@@ -588,15 +597,6 @@
     116,
     117
    ]
-  },
-  "ocd-division/country:us/state:sd/county:deuel/place:havana": {
-   "name": "Havana township"
-  },
-  "ocd-division/country:us/state:sd/county:codington/precinct:b3": {
-   "name": "CODINGTON County Precinct B3"
-  },
-  "ocd-division/country:us/state:sd/county:brookings/place:winsor": {
-   "name": "Winsor township"
   },
   "ocd-division/country:us/state:sd/place:nunda": {
    "name": "Nunda town"
@@ -697,12 +697,6 @@
   "ocd-division/country:us/state:sd/county:brown/school_district:sd_sch_for_the_blind_and_visually_impaired": {
    "name": "sd sch for the blind & visually impaired"
   },
-  "ocd-division/country:us/state:sd/county:deuel/precinct:1": {
-   "name": "DEUEL County Precinct 1"
-  },
-  "ocd-division/country:us/state:sd/county:jackson/place:grandview_ii": {
-   "name": "Grandview II township"
-  },
   "ocd-division/country:us/state:sd/county:meade": {
    "name": "Meade County",
    "officeIndices": [
@@ -712,6 +706,12 @@
     121,
     122
    ]
+  },
+  "ocd-division/country:us/state:sd/county:deuel/precinct:1": {
+   "name": "DEUEL County Precinct 1"
+  },
+  "ocd-division/country:us/state:sd/county:jackson/place:grandview_ii": {
+   "name": "Grandview II township"
   },
   "ocd-division/country:us/state:sd/county:deuel/precinct:3": {
    "name": "DEUEL County Precinct 3"
@@ -1069,14 +1069,14 @@
   "ocd-division/country:us/state:sd/county:jackson/place:jewett": {
    "name": "Jewett township"
   },
-  "ocd-division/country:us/state:sd/county:tripp/place:lone_star": {
-   "name": "Lone Star township"
+  "ocd-division/country:us/state:sd/county:faulk/place:fairview": {
+   "name": "Fairview township"
   },
   "ocd-division/country:us/state:sd/county:edmunds/place:rosette": {
    "name": "Rosette township"
   },
-  "ocd-division/country:us/state:sd/county:faulk/place:fairview": {
-   "name": "Fairview township"
+  "ocd-division/country:us/state:sd/county:tripp/place:lone_star": {
+   "name": "Lone Star township"
   },
   "ocd-division/country:us/state:sd/county:mccook/school_district:mccook_central_school_district_43-7": {
    "name": "mccook central school district 43-7"
@@ -1084,17 +1084,23 @@
   "ocd-division/country:us/state:sd/place:platte": {
    "name": "Platte city"
   },
+  "ocd-division/country:us/state:sd/county:brookings/precinct:15": {
+   "name": "BROOKINGS County Precinct 15"
+  },
+  "ocd-division/country:us/state:sd/county:roberts/precinct:7": {
+   "name": "ROBERTS County Precinct 7"
+  },
   "ocd-division/country:us/state:sd/county:stanley/council_district:2": {
    "name": "Stanley County District 2",
    "officeIndices": [
     129
    ]
   },
-  "ocd-division/country:us/state:sd/county:roberts/precinct:7": {
-   "name": "ROBERTS County Precinct 7"
+  "ocd-division/country:us/state:sd/county:brookings/precinct:16": {
+   "name": "BROOKINGS County Precinct 16"
   },
-  "ocd-division/country:us/state:sd/county:brookings/precinct:15": {
-   "name": "BROOKINGS County Precinct 15"
+  "ocd-division/country:us/state:sd/county:roberts/precinct:8": {
+   "name": "ROBERTS County Precinct 8"
   },
   "ocd-division/country:us/state:sd/county:stanley/council_district:3": {
    "name": "Stanley County District 3",
@@ -1102,11 +1108,14 @@
     130
    ]
   },
-  "ocd-division/country:us/state:sd/county:roberts/precinct:8": {
-   "name": "ROBERTS County Precinct 8"
+  "ocd-division/country:us/state:sd/county:lake/place:le_roy": {
+   "name": "Le Roy township"
   },
-  "ocd-division/country:us/state:sd/county:brookings/precinct:16": {
-   "name": "BROOKINGS County Precinct 16"
+  "ocd-division/country:us/state:sd/county:brookings/precinct:13": {
+   "name": "BROOKINGS County Precinct 13"
+  },
+  "ocd-division/country:us/state:sd/county:roberts/precinct:9": {
+   "name": "ROBERTS County Precinct 9"
   },
   "ocd-division/country:us/state:sd/county:stanley/council_district:4": {
    "name": "Stanley County District 4",
@@ -1114,14 +1123,14 @@
     131
    ]
   },
-  "ocd-division/country:us/state:sd/county:roberts/precinct:9": {
-   "name": "ROBERTS County Precinct 9"
+  "ocd-division/country:us/state:sd/county:miner/place:carthage": {
+   "name": "Carthage township"
   },
-  "ocd-division/country:us/state:sd/county:brookings/precinct:13": {
-   "name": "BROOKINGS County Precinct 13"
+  "ocd-division/country:us/state:sd/county:brookings/precinct:14": {
+   "name": "BROOKINGS County Precinct 14"
   },
-  "ocd-division/country:us/state:sd/county:lake/place:le_roy": {
-   "name": "Le Roy township"
+  "ocd-division/country:us/state:sd/county:brown/place:garland": {
+   "name": "Garland township"
   },
   "ocd-division/country:us/state:sd/county:stanley/council_district:5": {
    "name": "Stanley County District 5",
@@ -1129,38 +1138,29 @@
     132
    ]
   },
-  "ocd-division/country:us/state:sd/county:brown/place:garland": {
-   "name": "Garland township"
-  },
-  "ocd-division/country:us/state:sd/county:brookings/precinct:14": {
-   "name": "BROOKINGS County Precinct 14"
-  },
-  "ocd-division/country:us/state:sd/county:miner/place:carthage": {
-   "name": "Carthage township"
+  "ocd-division/country:us/state:sd/county:roberts/precinct:3": {
+   "name": "ROBERTS County Precinct 3"
   },
   "ocd-division/country:us/state:sd/county:union/place:civil_bend": {
    "name": "Civil Bend township"
   },
-  "ocd-division/country:us/state:sd/county:roberts/precinct:3": {
-   "name": "ROBERTS County Precinct 3"
-  },
   "ocd-division/country:us/state:sd/county:roberts/precinct:4": {
    "name": "ROBERTS County Precinct 4"
+  },
+  "ocd-division/country:us/state:sd/county:perkins/school_district:lemmon_school_district_52-4": {
+   "name": "lemmon school district 52-4"
   },
   "ocd-division/country:us/state:sd/county:roberts/precinct:5": {
    "name": "ROBERTS County Precinct 5"
   },
-  "ocd-division/country:us/state:sd/county:perkins/school_district:lemmon_school_district_52-4": {
-   "name": "lemmon school district 52-4"
+  "ocd-division/country:us/state:sd/county:roberts/precinct:6": {
+   "name": "ROBERTS County Precinct 6"
   },
   "ocd-division/country:us/state:sd/county:stanley/council_district:1": {
    "name": "Stanley County District 1",
    "officeIndices": [
     133
    ]
-  },
-  "ocd-division/country:us/state:sd/county:roberts/precinct:6": {
-   "name": "ROBERTS County Precinct 6"
   },
   "ocd-division/country:us/state:sd/county:deuel/place:altamont": {
    "name": "Altamont township"
@@ -1171,11 +1171,11 @@
   "ocd-division/country:us/state:sd/county:brookings/precinct:12": {
    "name": "BROOKINGS County Precinct 12"
   },
-  "ocd-division/country:us/state:sd/county:brookings/precinct:11": {
-   "name": "BROOKINGS County Precinct 11"
-  },
   "ocd-division/country:us/state:sd/county:mellette/place:rocky_ford": {
    "name": "Rocky Ford township"
+  },
+  "ocd-division/country:us/state:sd/county:brookings/precinct:11": {
+   "name": "BROOKINGS County Precinct 11"
   },
   "ocd-division/country:us/state:sd/county:charles_mix/place:wahehe": {
    "name": "Wahehe township"
@@ -1192,11 +1192,11 @@
     140
    ]
   },
-  "ocd-division/country:us/state:sd/place:interior": {
-   "name": "Interior town"
-  },
   "ocd-division/country:us/state:sd/county:union/school_district:alcester-hudson_school_district_61-1": {
    "name": "alcester-hudson school district 61-1"
+  },
+  "ocd-division/country:us/state:sd/place:interior": {
+   "name": "Interior town"
   },
   "ocd-division/country:us/state:sd/place:vienna": {
    "name": "Vienna town"
@@ -1207,11 +1207,11 @@
   "ocd-division/country:us/state:sd/county:brown/place:garden_prairie": {
    "name": "Garden Prairie township"
   },
-  "ocd-division/country:us/state:sd/county:beadle/place:pleasant_view": {
-   "name": "Pleasant View township"
-  },
   "ocd-division/country:us/state:sd/county:grant/place:lura": {
    "name": "Lura township"
+  },
+  "ocd-division/country:us/state:sd/county:beadle/place:pleasant_view": {
+   "name": "Pleasant View township"
   },
   "ocd-division/country:us/state:sd/place:murdo": {
    "name": "Murdo city"
@@ -1258,14 +1258,17 @@
   "ocd-division/country:us/state:sd/county:beadle/place:vernon": {
    "name": "Vernon township"
   },
-  "ocd-division/country:us/state:sd/place:orient": {
-   "name": "Orient town"
-  },
   "ocd-division/country:us/state:sd/county:turner/council_district:5": {
    "name": "Turner County District 5",
    "officeIndices": [
     151
    ]
+  },
+  "ocd-division/country:us/state:sd/place:orient": {
+   "name": "Orient town"
+  },
+  "ocd-division/country:us/state:sd/county:sanborn/place:afton": {
+   "name": "Afton township"
   },
   "ocd-division/country:us/state:sd/county:turner/council_district:4": {
    "name": "Turner County District 4",
@@ -1273,23 +1276,26 @@
     152
    ]
   },
-  "ocd-division/country:us/state:sd/county:sanborn/place:afton": {
-   "name": "Afton township"
+  "ocd-division/country:us/state:sd/county:dewey/school_district:eagle_butte_school_district_20-1": {
+   "name": "eagle butte school district 20-1"
   },
   "ocd-division/country:us/state:sd/county:moody/precinct:5": {
    "name": "MOODY County Precinct 5"
   },
-  "ocd-division/country:us/state:sd/county:dewey/school_district:eagle_butte_school_district_20-1": {
-   "name": "eagle butte school district 20-1"
+  "ocd-division/country:us/state:sd/county:fall_river/precinct:eda": {
+   "name": "FALL RIVER County Precinct EDA"
   },
   "ocd-division/country:us/state:sd/county:moody/precinct:4": {
    "name": "MOODY County Precinct 4"
   },
-  "ocd-division/country:us/state:sd/county:fall_river/precinct:eda": {
-   "name": "FALL RIVER County Precinct EDA"
-  },
   "ocd-division/country:us/state:sd/county:minnehaha/school_district:east_dakota_educational_cooperative": {
    "name": "east dakota educational cooperative"
+  },
+  "ocd-division/country:us/state:sd/county:mellette/place:red_fish": {
+   "name": "Red Fish township"
+  },
+  "ocd-division/country:us/state:sd/county:hand/place:grand": {
+   "name": "Grand township"
   },
   "ocd-division/country:us/state:sd/county:douglas": {
    "name": "Douglas County",
@@ -1301,12 +1307,6 @@
     157,
     158
    ]
-  },
-  "ocd-division/country:us/state:sd/county:hand/place:grand": {
-   "name": "Grand township"
-  },
-  "ocd-division/country:us/state:sd/county:mellette/place:red_fish": {
-   "name": "Red Fish township"
   },
   "ocd-division/country:us/state:sd/county:lyman/school_district:lyman_school_district_42-1": {
    "name": "lyman school district 42-1"
@@ -2182,12 +2182,6 @@
   "ocd-division/country:us/state:sd/county:minnehaha/precinct:106": {
    "name": "MINNEHAHA County Precinct 106"
   },
-  "ocd-division/country:us/state:sd/county:walworth/precinct:6": {
-   "name": "WALWORTH County Precinct 6"
-  },
-  "ocd-division/country:us/state:sd/county:codington/place:eden": {
-   "name": "Eden township"
-  },
   "ocd-division/country:us/state:sd/county:brule": {
    "name": "Brule County",
    "officeIndices": [
@@ -2202,6 +2196,12 @@
     208,
     209
    ]
+  },
+  "ocd-division/country:us/state:sd/county:walworth/precinct:6": {
+   "name": "WALWORTH County Precinct 6"
+  },
+  "ocd-division/country:us/state:sd/county:codington/place:eden": {
+   "name": "Eden township"
   },
   "ocd-division/country:us/state:sd/county:walworth/precinct:5": {
    "name": "WALWORTH County Precinct 5"
@@ -2444,11 +2444,14 @@
   "ocd-division/country:us/state:sd/county:corson/school_district:mclaughlin_school_district_15-2": {
    "name": "mclaughlin school district 15-2"
   },
+  "ocd-division/country:us/state:sd/county:beadle/place:liberty": {
+   "name": "Liberty township"
+  },
   "ocd-division/country:us/state:sd/place:castlewood": {
    "name": "Castlewood city"
   },
-  "ocd-division/country:us/state:sd/county:beadle/place:liberty": {
-   "name": "Liberty township"
+  "ocd-division/country:us/state:sd/county:marshall/place:hamilton": {
+   "name": "Hamilton township"
   },
   "ocd-division/country:us/state:sd/county:sully/council_district:2": {
    "name": "Sully County District 2",
@@ -2456,8 +2459,8 @@
     238
    ]
   },
-  "ocd-division/country:us/state:sd/county:marshall/place:hamilton": {
-   "name": "Hamilton township"
+  "ocd-division/country:us/state:sd/county:minnehaha/place:highland": {
+   "name": "Highland township"
   },
   "ocd-division/country:us/state:sd/county:sully/council_district:1": {
    "name": "Sully County District 1",
@@ -2465,14 +2468,8 @@
     239
    ]
   },
-  "ocd-division/country:us/state:sd/county:minnehaha/place:highland": {
-   "name": "Highland township"
-  },
   "ocd-division/country:us/state:sd/county:marshall/place:miller": {
    "name": "Miller township"
-  },
-  "ocd-division/country:us/state:sd/place:wilmot": {
-   "name": "Wilmot city"
   },
   "ocd-division/country:us/state:sd/county:dewey/council_district:4": {
    "name": "Dewey County District 4",
@@ -2480,14 +2477,17 @@
     240
    ]
   },
-  "ocd-division/country:us/state:sd/county:pennington/school_district:hill_city_school_district_51-2": {
-   "name": "hill city school district 51-2"
+  "ocd-division/country:us/state:sd/place:wilmot": {
+   "name": "Wilmot city"
   },
   "ocd-division/country:us/state:sd/county:dewey/council_district:5": {
    "name": "Dewey County District 5",
    "officeIndices": [
     241
    ]
+  },
+  "ocd-division/country:us/state:sd/county:pennington/school_district:hill_city_school_district_51-2": {
+   "name": "hill city school district 51-2"
   },
   "ocd-division/country:us/state:sd/county:dewey/council_district:2": {
    "name": "Dewey County District 2",
@@ -2519,20 +2519,20 @@
   "ocd-division/country:us/state:sd/county:meade/precinct:10": {
    "name": "MEADE County Precinct 10"
   },
-  "ocd-division/country:us/state:sd/county:edmunds/place:richland": {
-   "name": "Richland township"
-  },
   "ocd-division/country:us/state:sd/county:meade/precinct:12": {
    "name": "MEADE County Precinct 12"
+  },
+  "ocd-division/country:us/state:sd/county:edmunds/place:richland": {
+   "name": "Richland township"
   },
   "ocd-division/country:us/state:sd/county:meade/precinct:11": {
    "name": "MEADE County Precinct 11"
   },
-  "ocd-division/country:us/state:sd/county:codington/place:kampeska": {
-   "name": "Kampeska township"
-  },
   "ocd-division/country:us/state:sd/county:meade/precinct:14": {
    "name": "MEADE County Precinct 14"
+  },
+  "ocd-division/country:us/state:sd/county:codington/place:kampeska": {
+   "name": "Kampeska township"
   },
   "ocd-division/country:us/state:sd/county:meade/precinct:13": {
    "name": "MEADE County Precinct 13"
@@ -2552,11 +2552,11 @@
   "ocd-division/country:us/state:sd/county:marshall/place:newark": {
    "name": "Newark township"
   },
-  "ocd-division/country:us/state:sd/place:veblen": {
-   "name": "Veblen city"
-  },
   "ocd-division/country:us/state:sd/county:hand/place:campbell": {
    "name": "Campbell township"
+  },
+  "ocd-division/country:us/state:sd/place:veblen": {
+   "name": "Veblen city"
   },
   "ocd-division/country:us/state:sd/county:codington/place:graceland": {
    "name": "Graceland township"
@@ -2564,32 +2564,32 @@
   "ocd-division/country:us/state:sd/county:minnehaha/place:humboldt": {
    "name": "Humboldt township"
   },
-  "ocd-division/country:us/state:sd/county:mcpherson/place:hoffman": {
-   "name": "Hoffman township"
-  },
   "ocd-division/country:us/state:sd/county:meade/precinct:21": {
    "name": "MEADE County Precinct 21"
   },
-  "ocd-division/country:us/state:sd/county:brule/place:eagle": {
-   "name": "Eagle township"
+  "ocd-division/country:us/state:sd/county:mcpherson/place:hoffman": {
+   "name": "Hoffman township"
   },
   "ocd-division/country:us/state:sd/county:meade/precinct:20": {
    "name": "MEADE County Precinct 20"
   },
+  "ocd-division/country:us/state:sd/county:brule/place:eagle": {
+   "name": "Eagle township"
+  },
   "ocd-division/country:us/state:sd/county:roberts/school_district:summit_school_district_54-6": {
    "name": "summit school district 54-6"
-  },
-  "ocd-division/country:us/state:sd/county:meade/precinct:25": {
-   "name": "MEADE County Precinct 25"
   },
   "ocd-division/country:us/state:sd/county:miner/place:adams": {
    "name": "Adams township"
   },
-  "ocd-division/country:us/state:sd/county:douglas/place:belmont": {
-   "name": "Belmont township"
+  "ocd-division/country:us/state:sd/county:meade/precinct:25": {
+   "name": "MEADE County Precinct 25"
   },
   "ocd-division/country:us/state:sd/county:meade/precinct:24": {
    "name": "MEADE County Precinct 24"
+  },
+  "ocd-division/country:us/state:sd/county:douglas/place:belmont": {
+   "name": "Belmont township"
   },
   "ocd-division/country:us/state:sd/county:meade/precinct:23": {
    "name": "MEADE County Precinct 23"
@@ -5402,11 +5402,11 @@
   "ocd-division/country:us/state:sd/county:mellette/place:fairview": {
    "name": "Fairview township"
   },
-  "ocd-division/country:us/state:sd/county:perkins/place:trail": {
-   "name": "Trail township"
-  },
   "ocd-division/country:us/state:sd/county:perkins/place:foster": {
    "name": "Foster township"
+  },
+  "ocd-division/country:us/state:sd/county:perkins/place:trail": {
+   "name": "Trail township"
   },
   "ocd-division/country:us/state:sd/county:jackson/place:weta": {
    "name": "Weta township"
@@ -5435,32 +5435,32 @@
   "ocd-division/country:us/state:sd/place:arlington": {
    "name": "Arlington city"
   },
-  "ocd-division/country:us/state:sd/county:brown/place:savo": {
-   "name": "Savo township"
-  },
   "ocd-division/country:us/state:sd/county:hand/precinct:4": {
    "name": "HAND County Precinct 4"
+  },
+  "ocd-division/country:us/state:sd/county:brown/place:savo": {
+   "name": "Savo township"
   },
   "ocd-division/country:us/state:sd/county:hand/precinct:3": {
    "name": "HAND County Precinct 3"
   },
-  "ocd-division/country:us/state:sd/county:hand/precinct:10": {
-   "name": "HAND County Precinct 10"
-  },
   "ocd-division/country:us/state:sd/county:hand/precinct:6": {
    "name": "HAND County Precinct 6"
   },
-  "ocd-division/country:us/state:sd/county:hand/precinct:11": {
-   "name": "HAND County Precinct 11"
+  "ocd-division/country:us/state:sd/county:hand/precinct:10": {
+   "name": "HAND County Precinct 10"
   },
   "ocd-division/country:us/state:sd/county:hand/precinct:5": {
    "name": "HAND County Precinct 5"
   },
-  "ocd-division/country:us/state:sd/county:aurora/place:pleasant_lake": {
-   "name": "Pleasant Lake township"
+  "ocd-division/country:us/state:sd/county:hand/precinct:11": {
+   "name": "HAND County Precinct 11"
   },
   "ocd-division/country:us/state:sd/county:beadle/place:carlyle": {
    "name": "Carlyle township"
+  },
+  "ocd-division/country:us/state:sd/county:aurora/place:pleasant_lake": {
+   "name": "Pleasant Lake township"
   },
   "ocd-division/country:us/state:sd/county:lincoln/council_district:5": {
    "name": "Lincoln County District 5",
@@ -5468,23 +5468,23 @@
     455
    ]
   },
-  "ocd-division/country:us/state:sd/county:hand/precinct:2": {
-   "name": "HAND County Precinct 2"
-  },
   "ocd-division/country:us/state:sd/county:lincoln/council_district:4": {
    "name": "Lincoln County District 4",
    "officeIndices": [
     456
    ]
   },
-  "ocd-division/country:us/state:sd/county:hand/precinct:1": {
-   "name": "HAND County Precinct 1"
+  "ocd-division/country:us/state:sd/county:hand/precinct:2": {
+   "name": "HAND County Precinct 2"
   },
   "ocd-division/country:us/state:sd/county:lincoln/council_district:3": {
    "name": "Lincoln County District 3",
    "officeIndices": [
     457
    ]
+  },
+  "ocd-division/country:us/state:sd/county:hand/precinct:1": {
+   "name": "HAND County Precinct 1"
   },
   "ocd-division/country:us/state:sd/county:roberts/place:springdale": {
    "name": "Springdale township"
@@ -6106,9 +6106,6 @@
     495
    ]
   },
-  "ocd-division/country:us/state:sd/county:minnehaha/precinct:502": {
-   "name": "MINNEHAHA County Precinct 502"
-  },
   "ocd-division/country:us/state:sd/county:beadle": {
    "name": "Beadle County",
    "officeIndices": [
@@ -6119,6 +6116,9 @@
     500,
     501
    ]
+  },
+  "ocd-division/country:us/state:sd/county:minnehaha/precinct:502": {
+   "name": "MINNEHAHA County Precinct 502"
   },
   "ocd-division/country:us/state:sd/county:minnehaha/precinct:504": {
    "name": "MINNEHAHA County Precinct 504"
@@ -6465,9 +6465,6 @@
   "ocd-division/country:us/state:sd/county:dewey/precinct:13": {
    "name": "DEWEY County Precinct 13"
   },
-  "ocd-division/country:us/state:sd/place:vilas": {
-   "name": "Vilas town"
-  },
   "ocd-division/country:us/state:sd/county:moody": {
    "name": "Moody County",
    "officeIndices": [
@@ -6478,6 +6475,9 @@
     530,
     531
    ]
+  },
+  "ocd-division/country:us/state:sd/place:vilas": {
+   "name": "Vilas town"
   },
   "ocd-division/country:us/state:sd/county:dewey/precinct:14": {
    "name": "DEWEY County Precinct 14"
@@ -6820,12 +6820,6 @@
   "ocd-division/country:us/state:sd/county:jones/place:kolls": {
    "name": "Kolls township"
   },
-  "ocd-division/country:us/state:sd/county:tripp/school_district:winner_school_district_59-2": {
-   "name": "winner school district 59-2"
-  },
-  "ocd-division/country:us/state:sd/county:codington/school_district:waverly_school_district_14-5": {
-   "name": "waverly school district 14-5"
-  },
   "ocd-division/country:us/state:sd/county:grant": {
    "name": "Grant County",
    "officeIndices": [
@@ -6836,6 +6830,12 @@
     566,
     567
    ]
+  },
+  "ocd-division/country:us/state:sd/county:tripp/school_district:winner_school_district_59-2": {
+   "name": "winner school district 59-2"
+  },
+  "ocd-division/country:us/state:sd/county:codington/school_district:waverly_school_district_14-5": {
+   "name": "waverly school district 14-5"
   },
   "ocd-division/country:us/state:sd/place:tolstoy": {
    "name": "Tolstoy town"
@@ -7573,20 +7573,20 @@
   "ocd-division/country:us/state:sd/county:davison/precinct:19": {
    "name": "DAVISON County Precinct 19"
   },
-  "ocd-division/country:us/state:sd/county:walworth/council_district:5": {
-   "name": "Walworth County District 5",
-   "officeIndices": [
-    627
-   ]
-  },
   "ocd-division/country:us/state:sd/county:hughes": {
    "name": "Hughes County",
    "officeIndices": [
-    622,
     623,
     624,
     625,
-    626
+    626,
+    627
+   ]
+  },
+  "ocd-division/country:us/state:sd/county:walworth/council_district:5": {
+   "name": "Walworth County District 5",
+   "officeIndices": [
+    622
    ]
   },
   "ocd-division/country:us/state:sd/county:faulk/precinct:5": {
@@ -13834,48 +13834,48 @@
    ]
   },
   {
-   "name": "Coroner",
-   "divisionId": "ocd-division/country:us/state:sd/county:hughes",
+   "name": "County Commission, District 5",
+   "divisionId": "ocd-division/country:us/state:sd/county:walworth/council_district:5",
    "officialIndices": [
     710
    ]
   },
   {
-   "name": "Sheriff",
+   "name": "Coroner",
    "divisionId": "ocd-division/country:us/state:sd/county:hughes",
    "officialIndices": [
     711
    ]
   },
   {
-   "name": "Finance Officer",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:sd/county:hughes",
    "officialIndices": [
     712
    ]
   },
   {
-   "name": "State's Attorney",
+   "name": "Finance Officer",
    "divisionId": "ocd-division/country:us/state:sd/county:hughes",
    "officialIndices": [
     713
    ]
   },
   {
-   "name": "County Commission, District At-Large",
+   "name": "State's Attorney",
    "divisionId": "ocd-division/country:us/state:sd/county:hughes",
    "officialIndices": [
-    714,
-    715,
-    716,
-    717,
-    718
+    714
    ]
   },
   {
-   "name": "County Commission, District 5",
-   "divisionId": "ocd-division/country:us/state:sd/county:walworth/council_district:5",
+   "name": "County Commission, District At-Large",
+   "divisionId": "ocd-division/country:us/state:sd/county:hughes",
    "officialIndices": [
+    715,
+    716,
+    717,
+    718,
     719
    ]
   },
@@ -14643,11 +14643,11 @@
      "id": "SenJohnThune"
     },
     {
-     "type": "YouTube",
+     "type": "Facebook",
      "id": "johnthune"
     },
     {
-     "type": "Facebook",
+     "type": "YouTube",
      "id": "johnthune"
     }
    ]
@@ -22398,6 +22398,10 @@
    "party": "Unknown"
   },
   {
+   "name": "Donald Leff",
+   "party": "Unknown"
+  },
+  {
    "name": "Charlie Walker",
    "address": [
     {
@@ -22591,10 +22595,6 @@
      "id": "bill.abernathy.75"
     }
    ]
-  },
-  {
-   "name": "Donald Leff",
-   "party": "Unknown"
   },
   {
    "name": "Tresh Swedlund",

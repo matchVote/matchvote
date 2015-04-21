@@ -15,18 +15,18 @@
   "ocd-division/country:us/state:ga/county:fulton/precinct:cp07b": {
    "name": "Fulton County GA - Precinct CP07B"
   },
-  "ocd-division/country:us/state:ga/county:talbot/council_district:2": {
-   "name": "Talbot County Commission District 2",
-   "officeIndices": [
-    253
-   ]
-  },
   "ocd-division/country:us/state:ga/county:quitman": {
    "name": "Quitman County",
    "officeIndices": [
+    253,
     254,
     255,
-    256,
+    256
+   ]
+  },
+  "ocd-division/country:us/state:ga/county:talbot/council_district:2": {
+   "name": "Talbot County Commission District 2",
+   "officeIndices": [
     257
    ]
   },
@@ -110,14 +110,11 @@
   "ocd-division/country:us/state:ga/county:gwinnett/precinct:52-berkshire_g": {
    "name": "Gwinnett County GA - Precinct 052 Berkshire G"
   },
-  "ocd-division/country:us/state:ga/county:fulton/precinct:cp083": {
-   "name": "Fulton County GA - Precinct CP083"
-  },
   "ocd-division/country:us/state:ga/county:pickens/precinct:refuge": {
    "name": "Pickens County GA - Precinct REFUGE"
   },
-  "ocd-division/country:us/state:ga/place:gillsville": {
-   "name": "Gillsville city"
+  "ocd-division/country:us/state:ga/county:fulton/precinct:cp083": {
+   "name": "Fulton County GA - Precinct CP083"
   },
   "ocd-division/country:us/state:ga/county:baldwin/council_district:1": {
    "name": "Baldwin County Commission District 1",
@@ -125,14 +122,17 @@
     271
    ]
   },
+  "ocd-division/country:us/state:ga/place:gillsville": {
+   "name": "Gillsville city"
+  },
+  "ocd-division/country:us/state:ga/county:fulton/precinct:cp081": {
+   "name": "Fulton County GA - Precinct CP081"
+  },
   "ocd-division/country:us/state:ga/county:baldwin/council_district:2": {
    "name": "Baldwin County Commission District 2",
    "officeIndices": [
     272
    ]
-  },
-  "ocd-division/country:us/state:ga/county:fulton/precinct:cp081": {
-   "name": "Fulton County GA - Precinct CP081"
   },
   "ocd-division/country:us/state:ga/county:baldwin/council_district:3": {
    "name": "Baldwin County Commission District 3",
@@ -161,14 +161,14 @@
     274
    ]
   },
-  "ocd-division/country:us/state:ga/county:talbot/council_district:3": {
-   "name": "Talbot County Commission District 3",
+  "ocd-division/country:us/state:ga/county:bibb/council_district:1": {
+   "name": "Bibb County Commission District 1",
    "officeIndices": [
     275
    ]
   },
-  "ocd-division/country:us/state:ga/county:bibb/council_district:1": {
-   "name": "Bibb County Commission District 1",
+  "ocd-division/country:us/state:ga/county:talbot/council_district:3": {
+   "name": "Talbot County Commission District 3",
    "officeIndices": [
     276
    ]
@@ -191,11 +191,11 @@
   "ocd-division/country:us/state:ga/county:pierce/school_district:pierce_county": {
    "name": "pierce county"
   },
-  "ocd-division/country:us/state:ga/county:worth/precinct:warwick": {
-   "name": "Worth County GA - Precinct Warwick"
-  },
   "ocd-division/country:us/state:ga/county:clay/precinct:bluffton": {
    "name": "Clay County GA - Precinct Bluffton"
+  },
+  "ocd-division/country:us/state:ga/county:worth/precinct:warwick": {
+   "name": "Worth County GA - Precinct Warwick"
   },
   "ocd-division/country:us/state:ga/county:fulton/precinct:cp05a": {
    "name": "Fulton County GA - Precinct CP05A"
@@ -440,14 +440,14 @@
     23
    ]
   },
+  "ocd-division/country:us/state:ga/place:cairo": {
+   "name": "Cairo city"
+  },
   "ocd-division/country:us/state:ga/sldu:13": {
    "name": "Georgia State Senate district 13",
    "officeIndices": [
     24
    ]
-  },
-  "ocd-division/country:us/state:ga/place:cairo": {
-   "name": "Cairo city"
   },
   "ocd-division/country:us/state:ga/county:dekalb/precinct:miller_grove_road": {
    "name": "DeKalb County GA - Precinct MILLER GROVE ROAD"
@@ -461,14 +461,14 @@
   "ocd-division/country:us/state:ga/county:jeff_davis/precinct:whitehead_2": {
    "name": "Jeff Davis County GA - Precinct Whitehead 2"
   },
-  "ocd-division/country:us/state:ga/county:jeff_davis/precinct:whitehead_1": {
-   "name": "Jeff Davis County GA - Precinct Whitehead 1"
-  },
   "ocd-division/country:us/state:ga/county:liberty/council_district:4": {
    "name": "Liberty County Commission District 4",
    "officeIndices": [
     295
    ]
+  },
+  "ocd-division/country:us/state:ga/county:jeff_davis/precinct:whitehead_1": {
+   "name": "Jeff Davis County GA - Precinct Whitehead 1"
   },
   "ocd-division/country:us/state:ga/county:liberty/council_district:5": {
    "name": "Liberty County Commission District 5",
@@ -476,14 +476,14 @@
     296
    ]
   },
-  "ocd-division/country:us/state:ga/county:cobb/precinct:timber_ridge_1": {
-   "name": "Cobb County GA - Precinct Timber Ridge 01"
-  },
   "ocd-division/country:us/state:ga/county:liberty/council_district:2": {
    "name": "Liberty County Commission District 2",
    "officeIndices": [
     297
    ]
+  },
+  "ocd-division/country:us/state:ga/county:cobb/precinct:timber_ridge_1": {
+   "name": "Cobb County GA - Precinct Timber Ridge 01"
   },
   "ocd-division/country:us/state:ga/county:liberty/council_district:3": {
    "name": "Liberty County Commission District 3",
@@ -580,8 +580,8 @@
     308
    ]
   },
-  "ocd-division/country:us/state:ga/county:terrell/precinct:herod-dover": {
-   "name": "Terrell County GA - Precinct Herod-Dover"
+  "ocd-division/country:us/state:ga/county:franklin/precinct:strange": {
+   "name": "Franklin County GA - Precinct Strange"
   },
   "ocd-division/country:us/state:ga/county:terrell/council_district:2": {
    "name": "Terrell County Commission District 2",
@@ -589,8 +589,8 @@
     309
    ]
   },
-  "ocd-division/country:us/state:ga/county:franklin/precinct:strange": {
-   "name": "Franklin County GA - Precinct Strange"
+  "ocd-division/country:us/state:ga/county:terrell/precinct:herod-dover": {
+   "name": "Terrell County GA - Precinct Herod-Dover"
   },
   "ocd-division/country:us/state:ga/county:coweta/school_district:commission_charter_schools-_coweta_charter_academy": {
    "name": "commission charter schools- coweta charter academy"
@@ -811,22 +811,16 @@
     43
    ]
   },
-  "ocd-division/country:us/state:ga/sldu:24": {
-   "name": "Georgia State Senate district 24",
-   "officeIndices": [
-    44
-   ]
-  },
   "ocd-division/country:us/state:ga/county:murray/school_board_district:2": {
    "name": "Murray County School Board District 2",
    "officeIndices": [
     321
    ]
   },
-  "ocd-division/country:us/state:ga/sldu:25": {
-   "name": "Georgia State Senate district 25",
+  "ocd-division/country:us/state:ga/sldu:24": {
+   "name": "Georgia State Senate district 24",
    "officeIndices": [
-    45
+    44
    ]
   },
   "ocd-division/country:us/state:ga/county:murray/school_board_district:1": {
@@ -835,23 +829,29 @@
     322
    ]
   },
+  "ocd-division/country:us/state:ga/sldu:25": {
+   "name": "Georgia State Senate district 25",
+   "officeIndices": [
+    45
+   ]
+  },
   "ocd-division/country:us/state:ga/sldu:20": {
    "name": "Georgia State Senate district 20",
    "officeIndices": [
     46
    ]
   },
+  "ocd-division/country:us/state:ga/county:bulloch/precinct:nevils": {
+   "name": "Bulloch County GA - Precinct Nevils"
+  },
+  "ocd-division/country:us/state:ga/place:ailey": {
+   "name": "Ailey city"
+  },
   "ocd-division/country:us/state:ga/sldu:21": {
    "name": "Georgia State Senate district 21",
    "officeIndices": [
     47
    ]
-  },
-  "ocd-division/country:us/state:ga/place:ailey": {
-   "name": "Ailey city"
-  },
-  "ocd-division/country:us/state:ga/county:bulloch/precinct:nevils": {
-   "name": "Bulloch County GA - Precinct Nevils"
   },
   "ocd-division/country:us/state:ga/county:murray/school_board_district:4": {
    "name": "Murray County School Board District 4",
@@ -865,17 +865,17 @@
     324
    ]
   },
-  "ocd-division/country:us/state:ga/place:jersey": {
-   "name": "Jersey city"
-  },
-  "ocd-division/country:us/state:ga/county:camden/precinct:mush_bluff": {
-   "name": "Camden County GA - Precinct Mush Bluff"
-  },
   "ocd-division/country:us/state:ga/county:murray/school_board_district:6": {
    "name": "Murray County School Board District 6",
    "officeIndices": [
     325
    ]
+  },
+  "ocd-division/country:us/state:ga/county:camden/precinct:mush_bluff": {
+   "name": "Camden County GA - Precinct Mush Bluff"
+  },
+  "ocd-division/country:us/state:ga/place:jersey": {
+   "name": "Jersey city"
   },
   "ocd-division/country:us/state:ga/county:murray/school_board_district:5": {
    "name": "Murray County School Board District 5",
@@ -910,17 +910,17 @@
     50
    ]
   },
+  "ocd-division/country:us/state:ga/county:cobb/precinct:norton_park_1": {
+   "name": "Cobb County GA - Precinct Norton Park 01"
+  },
+  "ocd-division/country:us/state:ga/county:taylor/precinct:6-reynolds": {
+   "name": "Taylor County GA - Precinct #6 REYNOLDS"
+  },
   "ocd-division/country:us/state:ga/sldu:28": {
    "name": "Georgia State Senate district 28",
    "officeIndices": [
     51
    ]
-  },
-  "ocd-division/country:us/state:ga/county:taylor/precinct:6-reynolds": {
-   "name": "Taylor County GA - Precinct #6 REYNOLDS"
-  },
-  "ocd-division/country:us/state:ga/county:cobb/precinct:norton_park_1": {
-   "name": "Cobb County GA - Precinct Norton Park 01"
   },
   "ocd-division/country:us/state:ga/sldu:35": {
    "name": "Georgia State Senate district 35",
@@ -928,14 +928,17 @@
     52
    ]
   },
+  "ocd-division/country:us/state:ga/county:brooks/school_district:brooks_county": {
+   "name": "brooks county"
+  },
   "ocd-division/country:us/state:ga/sldu:36": {
    "name": "Georgia State Senate district 36",
    "officeIndices": [
     53
    ]
   },
-  "ocd-division/country:us/state:ga/county:brooks/school_district:brooks_county": {
-   "name": "brooks county"
+  "ocd-division/country:us/state:ga/county:mitchell/precinct:pebble_city": {
+   "name": "Mitchell County GA - Precinct Pebble City"
   },
   "ocd-division/country:us/state:ga/sldu:33": {
    "name": "Georgia State Senate district 33",
@@ -951,9 +954,6 @@
     329,
     330
    ]
-  },
-  "ocd-division/country:us/state:ga/county:mitchell/precinct:pebble_city": {
-   "name": "Mitchell County GA - Precinct Pebble City"
   },
   "ocd-division/country:us/state:ga/sldu:34": {
    "name": "Georgia State Senate district 34",
@@ -973,17 +973,17 @@
     57
    ]
   },
+  "ocd-division/country:us/state:ga/place:dawson": {
+   "name": "Dawson city"
+  },
+  "ocd-division/country:us/state:ga/place:milton": {
+   "name": "Milton city"
+  },
   "ocd-division/country:us/state:ga/sldu:30": {
    "name": "Georgia State Senate district 30",
    "officeIndices": [
     58
    ]
-  },
-  "ocd-division/country:us/state:ga/place:milton": {
-   "name": "Milton city"
-  },
-  "ocd-division/country:us/state:ga/place:dawson": {
-   "name": "Dawson city"
   },
   "ocd-division/country:us/state:ga/county:early/precinct:cuba": {
    "name": "Early County GA - Precinct Cuba"
@@ -1009,14 +1009,14 @@
     59
    ]
   },
+  "ocd-division/country:us/state:ga/county:elbert/precinct:webbsboro": {
+   "name": "Elbert County GA - Precinct Webbsboro"
+  },
   "ocd-division/country:us/state:ga/sldu:38": {
    "name": "Georgia State Senate district 38",
    "officeIndices": [
     60
    ]
-  },
-  "ocd-division/country:us/state:ga/county:elbert/precinct:webbsboro": {
-   "name": "Elbert County GA - Precinct Webbsboro"
   },
   "ocd-division/country:us/state:ga/sldu:37": {
    "name": "Georgia State Senate district 37",
@@ -1027,11 +1027,11 @@
   "ocd-division/country:us/state:ga/county:catoosa/precinct:fort_oglethorpe": {
    "name": "Catoosa County GA - Precinct FORT OGLETHORPE"
   },
-  "ocd-division/country:us/state:ga/place:swainsboro": {
-   "name": "Swainsboro city"
-  },
   "ocd-division/country:us/state:ga/place:mount_airy": {
    "name": "Mount Airy town"
+  },
+  "ocd-division/country:us/state:ga/place:swainsboro": {
+   "name": "Swainsboro city"
   },
   "ocd-division/country:us/state:ga/county:cobb/precinct:gritters_1": {
    "name": "Cobb County GA - Precinct Gritters 01"
@@ -1039,11 +1039,11 @@
   "ocd-division/country:us/state:ga/county:richmond/precinct:101": {
    "name": "Richmond County GA - Precinct 101"
   },
-  "ocd-division/country:us/state:ga/county:richmond/precinct:102": {
-   "name": "Richmond County GA - Precinct 102"
-  },
   "ocd-division/country:us/state:ga/county:fayette/precinct:brooks": {
    "name": "Fayette County GA - Precinct BROOKS"
+  },
+  "ocd-division/country:us/state:ga/county:richmond/precinct:102": {
+   "name": "Richmond County GA - Precinct 102"
   },
   "ocd-division/country:us/state:ga/county:richmond/precinct:103": {
    "name": "Richmond County GA - Precinct 103"
@@ -1051,11 +1051,11 @@
   "ocd-division/country:us/state:ga/county:dekalb/precinct:candler": {
    "name": "DeKalb County GA - Precinct CANDLER"
   },
-  "ocd-division/country:us/state:ga/place:albany": {
-   "name": "Albany city"
-  },
   "ocd-division/country:us/state:ga/county:gwinnett/precinct:110-martins_g": {
    "name": "Gwinnett County GA - Precinct 110 Martins G"
+  },
+  "ocd-division/country:us/state:ga/place:albany": {
+   "name": "Albany city"
   },
   "ocd-division/country:us/state:ga/place:jenkinsburg": {
    "name": "Jenkinsburg city"
@@ -1063,11 +1063,11 @@
   "ocd-division/country:us/state:ga/county:dekalb/precinct:memorial_north": {
    "name": "DeKalb County GA - Precinct MEMORIAL NORTH"
   },
-  "ocd-division/country:us/state:ga/place:morrow": {
-   "name": "Morrow city"
-  },
   "ocd-division/country:us/state:ga/place:glennville": {
    "name": "Glennville city"
+  },
+  "ocd-division/country:us/state:ga/place:morrow": {
+   "name": "Morrow city"
   },
   "ocd-division/country:us/state:ga/place:lone_oak": {
    "name": "Lone Oak town"
@@ -1087,11 +1087,11 @@
   "ocd-division/country:us/state:ga/place:west_point": {
    "name": "West Point city"
   },
-  "ocd-division/country:us/state:ga/county:cherokee/precinct:woodstock": {
-   "name": "Cherokee County GA - Precinct WOODSTOCK"
-  },
   "ocd-division/country:us/state:ga/county:jasper/precinct:thompson-barnes": {
    "name": "Jasper County GA - Precinct THOMPSON &amp; BARNES"
+  },
+  "ocd-division/country:us/state:ga/county:cherokee/precinct:woodstock": {
+   "name": "Cherokee County GA - Precinct WOODSTOCK"
   },
   "ocd-division/country:us/state:ga/county:catoosa/precinct:lakeview": {
    "name": "Catoosa County GA - Precinct LAKEVIEW"
@@ -1099,26 +1099,26 @@
   "ocd-division/country:us/state:ga/county:carroll/precinct:1371-burwell": {
    "name": "Carroll County GA - Precinct BURWELL (1371)"
   },
-  "ocd-division/country:us/state:ga/county:gwinnett/precinct:152-rockycreek_c": {
-   "name": "Gwinnett County GA - Precinct 152 Rockycreek C"
-  },
   "ocd-division/country:us/state:ga/county:lumpkin/precinct:south_west": {
    "name": "Lumpkin County GA - Precinct South West"
   },
-  "ocd-division/country:us/state:ga/county:treutlen/school_district:treutlen_county": {
-   "name": "treutlen county"
+  "ocd-division/country:us/state:ga/county:gwinnett/precinct:152-rockycreek_c": {
+   "name": "Gwinnett County GA - Precinct 152 Rockycreek C"
   },
   "ocd-division/country:us/state:ga/county:madison/precinct:pittman": {
    "name": "Madison County GA - Precinct PITTMAN"
   },
+  "ocd-division/country:us/state:ga/county:treutlen/school_district:treutlen_county": {
+   "name": "treutlen county"
+  },
   "ocd-division/country:us/state:ga/county:colquitt/precinct:moultrie": {
    "name": "Colquitt County GA - Precinct Moultrie"
   },
-  "ocd-division/country:us/state:ga/county:lowndes/precinct:old_pine_grove_elem": {
-   "name": "Lowndes County GA - Precinct Old Pine Grove Elem"
-  },
   "ocd-division/country:us/state:ga/county:oconee/precinct:annex": {
    "name": "Oconee County GA - Precinct Annex"
+  },
+  "ocd-division/country:us/state:ga/county:lowndes/precinct:old_pine_grove_elem": {
+   "name": "Lowndes County GA - Precinct Old Pine Grove Elem"
   },
   "ocd-division/country:us/state:ga/county:whitfield/school_district:dalton_city": {
    "name": "dalton city"
@@ -1126,11 +1126,11 @@
   "ocd-division/country:us/state:ga/county:cherokee/precinct:neese": {
    "name": "Cherokee County GA - Precinct NEESE"
   },
-  "ocd-division/country:us/state:ga/place:adel": {
-   "name": "Adel city"
-  },
   "ocd-division/country:us/state:ga/county:greene/precinct:woodville": {
    "name": "Greene County GA - Precinct Woodville"
+  },
+  "ocd-division/country:us/state:ga/place:adel": {
+   "name": "Adel city"
   },
   "ocd-division/country:us/state:ga/place:collins": {
    "name": "Collins city"
@@ -1147,14 +1147,14 @@
   "ocd-division/country:us/state:ga/county:richmond/precinct:115": {
    "name": "Richmond County GA - Precinct 115"
   },
-  "ocd-division/country:us/state:ga/county:thomas/precinct:central": {
-   "name": "Thomas County GA - Precinct Central"
-  },
   "ocd-division/country:us/state:ga/county:lanier/council_district:4": {
    "name": "Lanier County Commission District 4",
    "officeIndices": [
     335
    ]
+  },
+  "ocd-division/country:us/state:ga/county:thomas/precinct:central": {
+   "name": "Thomas County GA - Precinct Central"
   },
   "ocd-division/country:us/state:ga/county:lanier/council_district:2": {
    "name": "Lanier County Commission District 2",
@@ -1189,6 +1189,12 @@
   "ocd-division/country:us/state:ga/county:fulton/precinct:cp01b": {
    "name": "Fulton County GA - Precinct CP01B"
   },
+  "ocd-division/country:us/state:ga/county:laurens/precinct:reedy_springs": {
+   "name": "Laurens County GA - Precinct Reedy Springs"
+  },
+  "ocd-division/country:us/state:ga/county:grady/precinct:whigham": {
+   "name": "Grady County GA - Precinct Whigham"
+  },
   "ocd-division/country:us/state:ga/county:whitfield": {
    "name": "Whitfield County",
    "officeIndices": [
@@ -1199,12 +1205,6 @@
     343
    ]
   },
-  "ocd-division/country:us/state:ga/county:grady/precinct:whigham": {
-   "name": "Grady County GA - Precinct Whigham"
-  },
-  "ocd-division/country:us/state:ga/county:laurens/precinct:reedy_springs": {
-   "name": "Laurens County GA - Precinct Reedy Springs"
-  },
   "ocd-division/country:us/state:ga/county:gwinnett/precinct:28-rockycreek_a": {
    "name": "Gwinnett County GA - Precinct 028 Rockycreek A"
   },
@@ -1214,14 +1214,14 @@
   "ocd-division/country:us/state:ga/place:warner_robins": {
    "name": "Warner Robins city"
   },
-  "ocd-division/country:us/state:ga/county:dekalb/precinct:tucker": {
-   "name": "DeKalb County GA - Precinct TUCKER"
-  },
   "ocd-division/country:us/state:ga/county:newton/council_district:1": {
    "name": "Newton County Commission District 1",
    "officeIndices": [
     344
    ]
+  },
+  "ocd-division/country:us/state:ga/county:dekalb/precinct:tucker": {
+   "name": "DeKalb County GA - Precinct TUCKER"
   },
   "ocd-division/country:us/state:ga/county:newton/council_district:3": {
    "name": "Newton County Commission District 3",
@@ -1241,68 +1241,68 @@
     347
    ]
   },
-  "ocd-division/country:us/state:ga/county:carroll/precinct:1240-mt_zion": {
-   "name": "Carroll County GA - Precinct MT ZION (1240)"
-  },
   "ocd-division/country:us/state:ga/county:newton/council_district:4": {
    "name": "Newton County Commission District 4",
    "officeIndices": [
     348
    ]
   },
+  "ocd-division/country:us/state:ga/county:carroll/precinct:1240-mt_zion": {
+   "name": "Carroll County GA - Precinct MT ZION (1240)"
+  },
   "ocd-division/country:us/state:ga/county:richmond/precinct:107": {
    "name": "Richmond County GA - Precinct 107"
-  },
-  "ocd-division/country:us/state:ga/county:spalding/precinct:second_baptish_ch": {
-   "name": "Spalding County GA - Precinct SECOND BAPTISH CH"
   },
   "ocd-division/country:us/state:ga/county:richmond/precinct:106": {
    "name": "Richmond County GA - Precinct 106"
   },
-  "ocd-division/country:us/state:ga/county:richmond/precinct:105": {
-   "name": "Richmond County GA - Precinct 105"
+  "ocd-division/country:us/state:ga/county:spalding/precinct:second_baptish_ch": {
+   "name": "Spalding County GA - Precinct SECOND BAPTISH CH"
   },
   "ocd-division/country:us/state:ga/county:fulton/precinct:cp011": {
    "name": "Fulton County GA - Precinct CP011"
   },
-  "ocd-division/country:us/state:ga/county:richmond/precinct:104": {
-   "name": "Richmond County GA - Precinct 104"
-  },
-  "ocd-division/country:us/state:ga/county:emanuel/precinct:garfield": {
-   "name": "Emanuel County GA - Precinct Garfield"
+  "ocd-division/country:us/state:ga/county:richmond/precinct:105": {
+   "name": "Richmond County GA - Precinct 105"
   },
   "ocd-division/country:us/state:ga/county:fulton/precinct:cp012": {
    "name": "Fulton County GA - Precinct CP012"
   },
+  "ocd-division/country:us/state:ga/county:emanuel/precinct:garfield": {
+   "name": "Emanuel County GA - Precinct Garfield"
+  },
+  "ocd-division/country:us/state:ga/county:richmond/precinct:104": {
+   "name": "Richmond County GA - Precinct 104"
+  },
   "ocd-division/country:us/state:ga/county:richmond/precinct:109": {
    "name": "Richmond County GA - Precinct 109"
-  },
-  "ocd-division/country:us/state:ga/county:richmond/precinct:108": {
-   "name": "Richmond County GA - Precinct 108"
   },
   "ocd-division/country:us/state:ga/county:gwinnett/precinct:121-pinckneyville_x": {
    "name": "Gwinnett County GA - Precinct 121 Pinckneyville X"
   },
-  "ocd-division/country:us/state:ga/county:dekalb/precinct:princeton_elementary": {
-   "name": "DeKalb County GA - Precinct PRINCETON ELEM"
+  "ocd-division/country:us/state:ga/county:richmond/precinct:108": {
+   "name": "Richmond County GA - Precinct 108"
   },
   "ocd-division/country:us/state:ga/county:greene/precinct:union_point": {
    "name": "Greene County GA - Precinct Union Point"
   },
-  "ocd-division/country:us/state:ga/county:white/precinct:nacoochee": {
-   "name": "White County GA - Precinct Nacoochee"
+  "ocd-division/country:us/state:ga/county:dekalb/precinct:princeton_elementary": {
+   "name": "DeKalb County GA - Precinct PRINCETON ELEM"
   },
   "ocd-division/country:us/state:ga/county:richmond/precinct:110": {
    "name": "Richmond County GA - Precinct 110"
   },
+  "ocd-division/country:us/state:ga/county:white/precinct:nacoochee": {
+   "name": "White County GA - Precinct Nacoochee"
+  },
   "ocd-division/country:us/state:ga/county:jasper/precinct:smith-jordan-lazenby": {
    "name": "Jasper County GA - Precinct SMITH/JORDAN/LAZENBY"
   },
-  "ocd-division/country:us/state:ga/county:richmond/precinct:113": {
-   "name": "Richmond County GA - Precinct 113"
-  },
   "ocd-division/country:us/state:ga/county:pierce/precinct:st_johns-blackshear": {
    "name": "Pierce County GA - Precinct St Johns/Blackshear"
+  },
+  "ocd-division/country:us/state:ga/county:richmond/precinct:113": {
+   "name": "Richmond County GA - Precinct 113"
   },
   "ocd-division/country:us/state:ga/county:richmond/precinct:114": {
    "name": "Richmond County GA - Precinct 114"
@@ -1310,14 +1310,14 @@
   "ocd-division/country:us/state:ga/county:richmond/precinct:111": {
    "name": "Richmond County GA - Precinct 111"
   },
-  "ocd-division/country:us/state:ga/county:whitfield/precinct:grove_level": {
-   "name": "Whitfield County GA - Precinct GROVE LEVEL"
+  "ocd-division/country:us/state:ga/county:grady/precinct:limesink": {
+   "name": "Grady County GA - Precinct Limesink"
   },
   "ocd-division/country:us/state:ga/county:richmond/precinct:112": {
    "name": "Richmond County GA - Precinct 112"
   },
-  "ocd-division/country:us/state:ga/county:grady/precinct:limesink": {
-   "name": "Grady County GA - Precinct Limesink"
+  "ocd-division/country:us/state:ga/county:whitfield/precinct:grove_level": {
+   "name": "Whitfield County GA - Precinct GROVE LEVEL"
   },
   "ocd-division/country:us/state:ga/county:cherokee/precinct:bells": {
    "name": "Cherokee County GA - Precinct BELLS"
@@ -1355,11 +1355,11 @@
   "ocd-division/country:us/state:ga/county:cobb/precinct:mcclure_1": {
    "name": "Cobb County GA - Precinct McClure 01"
   },
-  "ocd-division/country:us/state:ga/county:whitfield/precinct:upper_tenth": {
-   "name": "Whitfield County GA - Precinct UPPER TENTH"
-  },
   "ocd-division/country:us/state:ga/county:gwinnett/precinct:6-goodwins_a": {
    "name": "Gwinnett County GA - Precinct 006 Goodwins A"
+  },
+  "ocd-division/country:us/state:ga/county:whitfield/precinct:upper_tenth": {
+   "name": "Whitfield County GA - Precinct UPPER TENTH"
   },
   "ocd-division/country:us/state:ga/county:lee/precinct:smithville": {
    "name": "Lee County GA - Precinct Smithville"
@@ -1370,14 +1370,14 @@
   "ocd-division/country:us/state:ga/county:decatur/precinct:west_bainbridge": {
    "name": "Decatur County GA - Precinct West Bainbridge"
   },
+  "ocd-division/country:us/state:ga/county:cobb/precinct:lassiter_1": {
+   "name": "Cobb County GA - Precinct Lassiter 01"
+  },
   "ocd-division/country:us/state:ga/county:pike/school_board_district:6": {
    "name": "Pike County School Board District 6",
    "officeIndices": [
     352
    ]
-  },
-  "ocd-division/country:us/state:ga/county:cobb/precinct:lassiter_1": {
-   "name": "Cobb County GA - Precinct Lassiter 01"
   },
   "ocd-division/country:us/state:ga/county:pike/school_board_district:4": {
    "name": "Pike County School Board District 4",
@@ -1397,14 +1397,14 @@
     355
    ]
   },
+  "ocd-division/country:us/state:ga/county:dodge/precinct:mccranie": {
+   "name": "Dodge County GA - Precinct McCranie"
+  },
   "ocd-division/country:us/state:ga/county:pike/school_board_district:3": {
    "name": "Pike County School Board District 3",
    "officeIndices": [
     356
    ]
-  },
-  "ocd-division/country:us/state:ga/county:dodge/precinct:mccranie": {
-   "name": "Dodge County GA - Precinct McCranie"
   },
   "ocd-division/country:us/state:ga/county:pike/school_board_district:1": {
    "name": "Pike County School Board District 1",
@@ -1415,9 +1415,6 @@
   "ocd-division/country:us/state:ga/county:dekalb/precinct:stone_mountain_elementary": {
    "name": "DeKalb County GA - Precinct STONE MOUNTAIN ELEM"
   },
-  "ocd-division/country:us/state:ga/place:sandersville": {
-   "name": "Sandersville city"
-  },
   "ocd-division/country:us/state:ga/county:screven": {
    "name": "Screven County",
    "officeIndices": [
@@ -1425,6 +1422,9 @@
     359,
     360
    ]
+  },
+  "ocd-division/country:us/state:ga/place:sandersville": {
+   "name": "Sandersville city"
   },
   "ocd-division/country:us/state:ga/county:cobb/precinct:chestnut_ridge_1": {
    "name": "Cobb County GA - Precinct Chestnut Ridge 01"
@@ -1443,15 +1443,15 @@
     364
    ]
   },
+  "ocd-division/country:us/state:ga/county:pickens/precinct:nelson": {
+   "name": "Pickens County GA - Precinct NELSON"
+  },
   "ocd-division/country:us/state:ga/county:madison/council_district:3": {
    "name": "Madison County Commission District 3",
    "officeIndices": [
     365,
     366
    ]
-  },
-  "ocd-division/country:us/state:ga/county:pickens/precinct:nelson": {
-   "name": "Pickens County GA - Precinct NELSON"
   },
   "ocd-division/country:us/state:ga/county:madison/council_district:2": {
    "name": "Madison County Commission District 2",
@@ -1467,11 +1467,11 @@
     370
    ]
   },
-  "ocd-division/country:us/state:ga/county:spalding/precinct:city_park": {
-   "name": "Spalding County GA - Precinct CITY PARK"
-  },
   "ocd-division/country:us/state:ga/county:floyd/precinct:texas_valley": {
    "name": "Floyd County GA - Precinct TEXAS VALLEY"
+  },
+  "ocd-division/country:us/state:ga/county:spalding/precinct:city_park": {
+   "name": "Spalding County GA - Precinct CITY PARK"
   },
   "ocd-division/country:us/state:ga/county:coweta/precinct:westside": {
    "name": "Coweta County GA - Precinct WESTSIDE"
@@ -1479,20 +1479,20 @@
   "ocd-division/country:us/state:ga/county:dekalb/precinct:warren_tech": {
    "name": "DeKalb County GA - Precinct WARREN TECH"
   },
-  "ocd-division/country:us/state:ga/county:walton/precinct:good_hope": {
-   "name": "Walton County GA - Precinct Good Hope"
-  },
   "ocd-division/country:us/state:ga/county:putnam/precinct:102": {
    "name": "Putnam County GA - Precinct 102"
+  },
+  "ocd-division/country:us/state:ga/county:walton/precinct:good_hope": {
+   "name": "Walton County GA - Precinct Good Hope"
   },
   "ocd-division/country:us/state:ga/county:putnam/precinct:101": {
    "name": "Putnam County GA - Precinct 101"
   },
-  "ocd-division/country:us/state:ga/county:putnam/precinct:108": {
-   "name": "Putnam County GA - Precinct 108"
-  },
   "ocd-division/country:us/state:ga/county:fulton/school_district:atlanta_public_schools": {
    "name": "atlanta public schools"
+  },
+  "ocd-division/country:us/state:ga/county:putnam/precinct:108": {
+   "name": "Putnam County GA - Precinct 108"
   },
   "ocd-division/country:us/state:ga/county:putnam/precinct:107": {
    "name": "Putnam County GA - Precinct 107"
@@ -1500,17 +1500,17 @@
   "ocd-division/country:us/state:ga/county:putnam/precinct:104": {
    "name": "Putnam County GA - Precinct 104"
   },
-  "ocd-division/country:us/state:ga/county:putnam/precinct:103": {
-   "name": "Putnam County GA - Precinct 103"
-  },
   "ocd-division/country:us/state:ga/county:colquitt/precinct:warrior": {
    "name": "Colquitt County GA - Precinct Warrior"
   },
-  "ocd-division/country:us/state:ga/county:putnam/precinct:106": {
-   "name": "Putnam County GA - Precinct 106"
+  "ocd-division/country:us/state:ga/county:putnam/precinct:103": {
+   "name": "Putnam County GA - Precinct 103"
   },
   "ocd-division/country:us/state:ga/county:gordon/precinct:gordon_county": {
    "name": "Gordon County GA - Precinct GORDON COUNTY"
+  },
+  "ocd-division/country:us/state:ga/county:putnam/precinct:106": {
+   "name": "Putnam County GA - Precinct 106"
   },
   "ocd-division/country:us/state:ga/county:putnam/precinct:105": {
    "name": "Putnam County GA - Precinct 105"
@@ -1537,23 +1537,23 @@
     372
    ]
   },
-  "ocd-division/country:us/state:ga/county:talbot/precinct:box_springs": {
-   "name": "Talbot County GA - Precinct BOX SPRINGS"
+  "ocd-division/country:us/state:ga/county:newton/precinct:leguinn": {
+   "name": "Newton County GA - Precinct Leguinn"
   },
   "ocd-division/country:us/state:ga/county:burke/precinct:scotts_crossroads": {
    "name": "Burke County GA - Precinct Scotts Crossroads"
   },
-  "ocd-division/country:us/state:ga/county:newton/precinct:leguinn": {
-   "name": "Newton County GA - Precinct Leguinn"
+  "ocd-division/country:us/state:ga/county:talbot/precinct:box_springs": {
+   "name": "Talbot County GA - Precinct BOX SPRINGS"
   },
   "ocd-division/country:us/state:ga/place:clarkesville": {
    "name": "Clarkesville city"
   },
-  "ocd-division/country:us/state:ga/place:peachtree_corners": {
-   "name": "Peachtree Corners city"
-  },
   "ocd-division/country:us/state:ga/county:monroe/precinct:burgays": {
    "name": "Monroe County GA - Precinct BURGAYS"
+  },
+  "ocd-division/country:us/state:ga/place:peachtree_corners": {
+   "name": "Peachtree Corners city"
   },
   "ocd-division/country:us/state:ga/county:telfair/precinct:jacksonville": {
    "name": "Telfair County GA - Precinct Jacksonville"
@@ -2199,17 +2199,17 @@
   "ocd-division/country:us/state:ga/county:richmond/precinct:806": {
    "name": "Richmond County GA - Precinct 806"
   },
+  "ocd-division/country:us/state:ga/county:dekalb/precinct:rock_chapel_road": {
+   "name": "DeKalb County GA - Precinct ROCK CHAPEL ROAD"
+  },
+  "ocd-division/country:us/state:ga/place:ocilla": {
+   "name": "Ocilla city"
+  },
   "ocd-division/country:us/state:ga/sldl:4": {
    "name": "Georgia State House district 4",
    "officeIndices": [
     62
    ]
-  },
-  "ocd-division/country:us/state:ga/place:ocilla": {
-   "name": "Ocilla city"
-  },
-  "ocd-division/country:us/state:ga/county:dekalb/precinct:rock_chapel_road": {
-   "name": "DeKalb County GA - Precinct ROCK CHAPEL ROAD"
   },
   "ocd-division/country:us/state:ga/sldl:3": {
    "name": "Georgia State House district 3",
@@ -2217,14 +2217,14 @@
     63
    ]
   },
+  "ocd-division/country:us/state:ga/county:richmond/precinct:809": {
+   "name": "Richmond County GA - Precinct 809"
+  },
   "ocd-division/country:us/state:ga/sldl:2": {
    "name": "Georgia State House district 2",
    "officeIndices": [
     64
    ]
-  },
-  "ocd-division/country:us/state:ga/county:richmond/precinct:809": {
-   "name": "Richmond County GA - Precinct 809"
   },
   "ocd-division/country:us/state:ga/sldl:1": {
    "name": "Georgia State House district 1",
@@ -2240,9 +2240,6 @@
   },
   "ocd-division/country:us/state:ga/county:richmond/precinct:803": {
    "name": "Richmond County GA - Precinct 803"
-  },
-  "ocd-division/country:us/state:ga/county:richmond/precinct:804": {
-   "name": "Richmond County GA - Precinct 804"
   },
   "ocd-division/country:us/state:ga/county:dawson": {
    "name": "Dawson County",
@@ -2260,14 +2257,17 @@
     433
    ]
   },
+  "ocd-division/country:us/state:ga/county:richmond/precinct:804": {
+   "name": "Richmond County GA - Precinct 804"
+  },
   "ocd-division/country:us/state:ga/county:richmond/precinct:801": {
    "name": "Richmond County GA - Precinct 801"
   },
-  "ocd-division/country:us/state:ga/county:richmond/precinct:802": {
-   "name": "Richmond County GA - Precinct 802"
-  },
   "ocd-division/country:us/state:ga/county:chatham/precinct:6-10": {
    "name": "Chatham County GA - Precinct 6-10 Georgetown Elem"
+  },
+  "ocd-division/country:us/state:ga/county:richmond/precinct:802": {
+   "name": "Richmond County GA - Precinct 802"
   },
   "ocd-division/country:us/state:ga/county:appling/council_district:1": {
    "name": "Appling County Commission District 1",
@@ -2293,14 +2293,14 @@
     66
    ]
   },
+  "ocd-division/country:us/state:ga/county:tift/precinct:ty_ty": {
+   "name": "Tift County GA - Precinct Ty Ty"
+  },
   "ocd-division/country:us/state:ga/sldl:6": {
    "name": "Georgia State House district 6",
    "officeIndices": [
     67
    ]
-  },
-  "ocd-division/country:us/state:ga/county:tift/precinct:ty_ty": {
-   "name": "Tift County GA - Precinct Ty Ty"
   },
   "ocd-division/country:us/state:ga/sldl:7": {
    "name": "Georgia State House district 7",
@@ -2314,16 +2314,16 @@
     69
    ]
   },
-  "ocd-division/country:us/state:ga/sldl:9": {
-   "name": "Georgia State House district 9",
-   "officeIndices": [
-    70
-   ]
-  },
   "ocd-division/country:us/state:ga/county:appling/council_district:5": {
    "name": "Appling County Commission District 5",
    "officeIndices": [
     435
+   ]
+  },
+  "ocd-division/country:us/state:ga/sldl:9": {
+   "name": "Georgia State House district 9",
+   "officeIndices": [
+    70
    ]
   },
   "ocd-division/country:us/state:ga/county:appling/council_district:4": {
@@ -2338,14 +2338,14 @@
     437
    ]
   },
-  "ocd-division/country:us/state:ga/county:dekalb/precinct:chapel_hill_elementary": {
-   "name": "DeKalb County GA - Precinct CHAPEL HILL ELEM"
-  },
   "ocd-division/country:us/state:ga/county:appling/council_district:2": {
    "name": "Appling County Commission District 2",
    "officeIndices": [
     438
    ]
+  },
+  "ocd-division/country:us/state:ga/county:dekalb/precinct:chapel_hill_elementary": {
+   "name": "DeKalb County GA - Precinct CHAPEL HILL ELEM"
   },
   "ocd-division/country:us/state:ga/county:houston/precinct:nses": {
    "name": "Houston County GA - Precinct NSES"
@@ -2368,8 +2368,8 @@
   "ocd-division/country:us/state:ga/place:tybee_island": {
    "name": "Tybee Island city"
   },
-  "ocd-division/country:us/state:ga/county:colquitt/precinct:thigpen": {
-   "name": "Colquitt County GA - Precinct Thigpen"
+  "ocd-division/country:us/state:ga/county:cobb/precinct:hayes_1": {
+   "name": "Cobb County GA - Precinct Hayes 01"
   },
   "ocd-division/country:us/state:ga/county:burke/council_district:5": {
    "name": "Burke County Commission District 5",
@@ -2377,8 +2377,8 @@
     439
    ]
   },
-  "ocd-division/country:us/state:ga/county:cobb/precinct:hayes_1": {
-   "name": "Cobb County GA - Precinct Hayes 01"
+  "ocd-division/country:us/state:ga/county:colquitt/precinct:thigpen": {
+   "name": "Colquitt County GA - Precinct Thigpen"
   },
   "ocd-division/country:us/state:ga/county:burke/council_district:4": {
    "name": "Burke County Commission District 4",
@@ -2392,14 +2392,14 @@
   "ocd-division/country:us/state:ga/county:henry/precinct:wesley_lakes": {
    "name": "Henry County GA - Precinct WESLEY LAKES"
   },
-  "ocd-division/country:us/state:ga/place:ball_ground": {
-   "name": "Ball Ground city"
-  },
   "ocd-division/country:us/state:ga/county:burke/council_district:3": {
    "name": "Burke County Commission District 3",
    "officeIndices": [
     441
    ]
+  },
+  "ocd-division/country:us/state:ga/place:ball_ground": {
+   "name": "Ball Ground city"
   },
   "ocd-division/country:us/state:ga/county:burke/council_district:2": {
    "name": "Burke County Commission District 2",
@@ -2407,17 +2407,17 @@
     442
    ]
   },
-  "ocd-division/country:us/state:ga/county:sumter/precinct:e-27": {
-   "name": "Sumter County GA - Precinct E-27"
-  },
-  "ocd-division/country:us/state:ga/county:columbia/precinct:120": {
-   "name": "Columbia County GA - Precinct 120-Gold Cross EMS"
-  },
   "ocd-division/country:us/state:ga/county:burke/council_district:1": {
    "name": "Burke County Commission District 1",
    "officeIndices": [
     443
    ]
+  },
+  "ocd-division/country:us/state:ga/county:columbia/precinct:120": {
+   "name": "Columbia County GA - Precinct 120-Gold Cross EMS"
+  },
+  "ocd-division/country:us/state:ga/county:sumter/precinct:e-27": {
+   "name": "Sumter County GA - Precinct E-27"
   },
   "ocd-division/country:us/state:ga/county:dekalb/precinct:midvale_road": {
    "name": "DeKalb County GA - Precinct MIDVALE ROAD"
@@ -2434,59 +2434,59 @@
   "ocd-division/country:us/state:ga/place:rutledge": {
    "name": "Rutledge city"
   },
-  "ocd-division/country:us/state:ga/county:carroll/precinct:1006-kansas": {
-   "name": "Carroll County GA - Precinct KANSAS (1006)"
-  },
   "ocd-division/country:us/state:ga/county:henry/precinct:sandy_ridge": {
    "name": "Henry County GA - Precinct SANDY RIDGE"
+  },
+  "ocd-division/country:us/state:ga/county:carroll/precinct:1006-kansas": {
+   "name": "Carroll County GA - Precinct KANSAS (1006)"
   },
   "ocd-division/country:us/state:ga/county:oglethorpe/precinct:glade": {
    "name": "Oglethorpe County GA - Precinct Glade"
   },
-  "ocd-division/country:us/state:ga/place:stapleton": {
-   "name": "Stapleton city"
-  },
   "ocd-division/country:us/state:ga/county:polk/precinct:cedartown": {
    "name": "Polk County GA - Precinct CEDARTOWN"
   },
-  "ocd-division/country:us/state:ga/county:fulton/council_district:3": {
-   "name": "Fulton County GA Board of Commissioners District 3",
-   "officeIndices": [
-    444
-   ]
+  "ocd-division/country:us/state:ga/place:stapleton": {
+   "name": "Stapleton city"
   },
   "ocd-division/country:us/state:ga/county:haralson/council_district:2": {
    "name": "Haralson County Commission District 2",
    "officeIndices": [
+    444
+   ]
+  },
+  "ocd-division/country:us/state:ga/county:fulton/council_district:3": {
+   "name": "Fulton County GA Board of Commissioners District 3",
+   "officeIndices": [
     445
-   ]
-  },
-  "ocd-division/country:us/state:ga/county:walker/precinct:rossville": {
-   "name": "Walker County GA - Precinct ROSSVILLE"
-  },
-  "ocd-division/country:us/state:ga/county:baker": {
-   "name": "Baker County",
-   "officeIndices": [
-    446,
-    447,
-    448,
-    449
-   ]
-  },
-  "ocd-division/country:us/state:ga/county:fulton/council_district:4": {
-   "name": "Fulton County GA Board of Commissioners District 4",
-   "officeIndices": [
-    450
    ]
   },
   "ocd-division/country:us/state:ga/county:haralson/council_district:1": {
    "name": "Haralson County Commission District 1",
    "officeIndices": [
+    446
+   ]
+  },
+  "ocd-division/country:us/state:ga/county:baker": {
+   "name": "Baker County",
+   "officeIndices": [
+    447,
+    448,
+    449,
+    450
+   ]
+  },
+  "ocd-division/country:us/state:ga/county:walker/precinct:rossville": {
+   "name": "Walker County GA - Precinct ROSSVILLE"
+  },
+  "ocd-division/country:us/state:ga/county:fulton/council_district:4": {
+   "name": "Fulton County GA Board of Commissioners District 4",
+   "officeIndices": [
     451
    ]
   },
-  "ocd-division/country:us/state:ga/county:bartow/school_district:bartow_county": {
-   "name": "bartow county"
+  "ocd-division/country:us/state:ga/county:jones/precinct:pope": {
+   "name": "Jones County GA - Precinct POPE"
   },
   "ocd-division/country:us/state:ga/county:haralson/council_district:4": {
    "name": "Haralson County Commission District 4",
@@ -2494,11 +2494,8 @@
     452
    ]
   },
-  "ocd-division/country:us/state:ga/county:jones/precinct:pope": {
-   "name": "Jones County GA - Precinct POPE"
-  },
-  "ocd-division/country:us/state:ga/county:columbia/precinct:130": {
-   "name": "Columbia County GA - Precinct 130-West Acres Baptist Church"
+  "ocd-division/country:us/state:ga/county:bartow/school_district:bartow_county": {
+   "name": "bartow county"
   },
   "ocd-division/country:us/state:ga/county:haralson/council_district:3": {
    "name": "Haralson County Commission District 3",
@@ -2506,14 +2503,17 @@
     453
    ]
   },
-  "ocd-division/country:us/state:ga/county:columbia/precinct:131": {
-   "name": "Columbia County GA - Precinct 131-Journey Community Church"
+  "ocd-division/country:us/state:ga/county:columbia/precinct:130": {
+   "name": "Columbia County GA - Precinct 130-West Acres Baptist Church"
   },
   "ocd-division/country:us/state:ga/county:fulton/council_district:7": {
    "name": "Fulton County GA Board of Commissioners District 7",
    "officeIndices": [
     454
    ]
+  },
+  "ocd-division/country:us/state:ga/county:columbia/precinct:131": {
+   "name": "Columbia County GA - Precinct 131-Journey Community Church"
   },
   "ocd-division/country:us/state:ga/county:columbia/precinct:132": {
    "name": "Columbia County GA - Precinct 132-Wesley Methodist Church"
@@ -2545,11 +2545,11 @@
   "ocd-division/country:us/state:ga/county:baldwin/precinct:east_hardwick": {
    "name": "Baldwin County GA - Precinct East Hardwick"
   },
-  "ocd-division/country:us/state:ga/place:brunswick": {
-   "name": "Brunswick city"
-  },
   "ocd-division/country:us/state:ga/county:columbia/precinct:137": {
    "name": "Columbia County GA - Precinct 137-Christ The King Lutheran Church"
+  },
+  "ocd-division/country:us/state:ga/place:brunswick": {
+   "name": "Brunswick city"
   },
   "ocd-division/country:us/state:ga/county:grady/precinct:spring_hill": {
    "name": "Grady County GA - Precinct Spring Hill"
@@ -2563,11 +2563,11 @@
   "ocd-division/country:us/state:ga/county:chatham/precinct:6-03": {
    "name": "Chatham County GA - Precinct 6-03 Crusader Comm Ctr"
   },
-  "ocd-division/country:us/state:ga/place:allentown": {
-   "name": "Allentown city"
-  },
   "ocd-division/country:us/state:ga/county:chatham/precinct:6-01": {
    "name": "Chatham County GA - Precinct 6-01 White Bluff Pres Chr"
+  },
+  "ocd-division/country:us/state:ga/place:allentown": {
+   "name": "Allentown city"
   },
   "ocd-division/country:us/state:ga/county:columbia/precinct:100": {
    "name": "Columbia County GA - Precinct 100-Augusta Christian School"
@@ -2578,20 +2578,20 @@
   "ocd-division/country:us/state:ga/county:bibb/precinct:howard_7": {
    "name": "Bibb County GA - Precinct HOWARD 7"
   },
-  "ocd-division/country:us/state:ga/county:dekalb/precinct:fernbank_elementary": {
-   "name": "DeKalb County GA - Precinct FERNBANK ELEM"
+  "ocd-division/country:us/state:ga/county:bibb/precinct:howard_6": {
+   "name": "Bibb County GA - Precinct HOWARD 6"
   },
   "ocd-division/country:us/state:ga/county:camden/precinct:south_st_marys": {
    "name": "Camden County GA - Precinct South St Marys"
   },
-  "ocd-division/country:us/state:ga/county:bibb/precinct:howard_6": {
-   "name": "Bibb County GA - Precinct HOWARD 6"
-  },
-  "ocd-division/country:us/state:ga/county:wilkinson/precinct:bloodworth": {
-   "name": "Wilkinson County GA - Precinct Bloodworth"
+  "ocd-division/country:us/state:ga/county:dekalb/precinct:fernbank_elementary": {
+   "name": "DeKalb County GA - Precinct FERNBANK ELEM"
   },
   "ocd-division/country:us/state:ga/county:bibb/precinct:howard_5": {
    "name": "Bibb County GA - Precinct HOWARD 5"
+  },
+  "ocd-division/country:us/state:ga/county:wilkinson/precinct:bloodworth": {
+   "name": "Wilkinson County GA - Precinct Bloodworth"
   },
   "ocd-division/country:us/state:ga/county:bibb/precinct:howard_4": {
    "name": "Bibb County GA - Precinct HOWARD 4"
@@ -2602,23 +2602,23 @@
   "ocd-division/country:us/state:ga/county:walton/precinct:blasingame": {
    "name": "Walton County GA - Precinct Blasingame"
   },
-  "ocd-division/country:us/state:ga/county:walker/precinct:center_post": {
-   "name": "Walker County GA - Precinct CENTER POST"
-  },
   "ocd-division/country:us/state:ga/county:barrow/school_district:barrow_county": {
    "name": "barrow county"
   },
-  "ocd-division/country:us/state:ga/county:columbia/precinct:108": {
-   "name": "Columbia County GA - Precinct 108-Genesis Church"
+  "ocd-division/country:us/state:ga/county:walker/precinct:center_post": {
+   "name": "Walker County GA - Precinct CENTER POST"
   },
   "ocd-division/country:us/state:ga/county:chattooga/precinct:summerville": {
    "name": "Chattooga County GA - Precinct SUMMERVILLE"
   },
-  "ocd-division/country:us/state:ga/county:decatur/precinct:mt_pleasant": {
-   "name": "Decatur County GA - Precinct Mt Pleasant"
+  "ocd-division/country:us/state:ga/county:columbia/precinct:108": {
+   "name": "Columbia County GA - Precinct 108-Genesis Church"
   },
   "ocd-division/country:us/state:ga/county:columbia/precinct:109": {
    "name": "Columbia County GA - Precinct 109-Stevens Creek Church"
+  },
+  "ocd-division/country:us/state:ga/county:decatur/precinct:mt_pleasant": {
+   "name": "Decatur County GA - Precinct Mt Pleasant"
   },
   "ocd-division/country:us/state:ga/county:columbia/precinct:106": {
    "name": "Columbia County GA - Precinct 106-Savannah Rapids Pavilion"
@@ -2668,17 +2668,17 @@
   "ocd-division/country:us/state:ga/county:oglethorpe/precinct:lexington": {
    "name": "Oglethorpe County GA - Precinct Lexington"
   },
-  "ocd-division/country:us/state:ga/county:bibb/precinct:howard_1": {
-   "name": "Bibb County GA - Precinct HOWARD 1"
-  },
   "ocd-division/country:us/state:ga/county:lanier/school_district:lanier_county": {
    "name": "lanier county"
   },
-  "ocd-division/country:us/state:ga/county:bibb/precinct:howard_2": {
-   "name": "Bibb County GA - Precinct HOWARD 2"
+  "ocd-division/country:us/state:ga/county:bibb/precinct:howard_1": {
+   "name": "Bibb County GA - Precinct HOWARD 1"
   },
   "ocd-division/country:us/state:ga/county:cherokee/precinct:avery": {
    "name": "Cherokee County GA - Precinct AVERY"
+  },
+  "ocd-division/country:us/state:ga/county:bibb/precinct:howard_2": {
+   "name": "Bibb County GA - Precinct HOWARD 2"
   },
   "ocd-division/country:us/state:ga/county:bibb/precinct:howard_3": {
    "name": "Bibb County GA - Precinct HOWARD 3"
@@ -2704,23 +2704,23 @@
   "ocd-division/country:us/state:ga/place:resaca": {
    "name": "Resaca town"
   },
-  "ocd-division/country:us/state:ga/county:columbia/precinct:115": {
-   "name": "Columbia County GA - Precinct 115-Martinez Baptist Church"
+  "ocd-division/country:us/state:ga/county:cobb/precinct:mccleskey_1": {
+   "name": "Cobb County GA - Precinct McCleskey 01"
   },
   "ocd-division/country:us/state:ga/county:colquitt/precinct:murphy": {
    "name": "Colquitt County GA - Precinct Murphy"
   },
-  "ocd-division/country:us/state:ga/county:cobb/precinct:mccleskey_1": {
-   "name": "Cobb County GA - Precinct McCleskey 01"
+  "ocd-division/country:us/state:ga/county:columbia/precinct:115": {
+   "name": "Columbia County GA - Precinct 115-Martinez Baptist Church"
   },
   "ocd-division/country:us/state:ga/county:wilkes/precinct:young_farmer~s_building": {
    "name": "Wilkes County GA - Precinct Young Farmer's Bldg"
   },
-  "ocd-division/country:us/state:ga/place:greensboro": {
-   "name": "Greensboro city"
-  },
   "ocd-division/country:us/state:ga/county:pickens/precinct:hinton": {
    "name": "Pickens County GA - Precinct HINTON"
+  },
+  "ocd-division/country:us/state:ga/place:greensboro": {
+   "name": "Greensboro city"
   },
   "ocd-division/country:us/state:ga/county:dekalb/precinct:lavista_road": {
    "name": "DeKalb County GA - Precinct LAVISTA ROAD"
@@ -2731,17 +2731,17 @@
   "ocd-division/country:us/state:ga/county:sumter/precinct:w-27": {
    "name": "Sumter County GA - Precinct W-27"
   },
-  "ocd-division/country:us/state:ga/county:gwinnett/school_district:buford_city": {
-   "name": "buford city"
-  },
   "ocd-division/country:us/state:ga/county:habersham/precinct:view": {
    "name": "Habersham County GA - Precinct View"
   },
-  "ocd-division/country:us/state:ga/county:cherokee/precinct:clayton": {
-   "name": "Cherokee County GA - Precinct CLAYTON"
+  "ocd-division/country:us/state:ga/county:gwinnett/school_district:buford_city": {
+   "name": "buford city"
   },
   "ocd-division/country:us/state:ga/county:mcduffie/precinct:fort_creek": {
    "name": "McDuffie County GA - Precinct Fort Creek"
+  },
+  "ocd-division/country:us/state:ga/county:cherokee/precinct:clayton": {
+   "name": "Cherokee County GA - Precinct CLAYTON"
   },
   "ocd-division/country:us/state:ga/county:bartow/precinct:folsom": {
    "name": "Bartow County GA - Precinct FOLSOM"
@@ -2749,11 +2749,11 @@
   "ocd-division/country:us/state:ga/county:ware/precinct:jamestown": {
    "name": "Ware County GA - Precinct Jamestown"
   },
-  "ocd-division/country:us/state:ga/county:jasper/school_district:jasper_county": {
-   "name": "jasper county"
-  },
   "ocd-division/country:us/state:ga/county:pike/precinct:concord": {
    "name": "Pike County GA - Precinct Concord"
+  },
+  "ocd-division/country:us/state:ga/county:jasper/school_district:jasper_county": {
+   "name": "jasper county"
   },
   "ocd-division/country:us/state:ga/place:milan": {
    "name": "Milan city"
@@ -2776,14 +2776,11 @@
   "ocd-division/country:us/state:ga/place:hiltonia": {
    "name": "Hiltonia town"
   },
-  "ocd-division/country:us/state:ga/county:gwinnett/precinct:23-pinckneyville_d": {
-   "name": "Gwinnett County GA - Precinct 023 Pinckneyville D"
-  },
   "ocd-division/country:us/state:ga/county:harris/precinct:mulberry_grove": {
    "name": "Harris County GA - Precinct MULBERRY GROVE"
   },
-  "ocd-division/country:us/state:ga/county:carroll/school_district:carroll_county": {
-   "name": "carroll county"
+  "ocd-division/country:us/state:ga/county:gwinnett/precinct:23-pinckneyville_d": {
+   "name": "Gwinnett County GA - Precinct 023 Pinckneyville D"
   },
   "ocd-division/country:us/state:ga/county:pierce/council_district:3": {
    "name": "Pierce County Commission District 3",
@@ -2791,19 +2788,22 @@
     465
    ]
   },
-  "ocd-division/country:us/state:ga/county:chatham": {
-   "name": "Chatham County",
-   "officeIndices": [
-    466,
-    467,
-    468,
-    469,
-    470
-   ]
+  "ocd-division/country:us/state:ga/county:carroll/school_district:carroll_county": {
+   "name": "carroll county"
   },
   "ocd-division/country:us/state:ga/county:pierce/council_district:4": {
    "name": "Pierce County Commission District 4",
    "officeIndices": [
+    466
+   ]
+  },
+  "ocd-division/country:us/state:ga/county:chatham": {
+   "name": "Chatham County",
+   "officeIndices": [
+    467,
+    468,
+    469,
+    470,
     471
    ]
   },
@@ -2825,11 +2825,11 @@
   "ocd-division/country:us/state:ga/county:walton/precinct:between": {
    "name": "Walton County GA - Precinct Between"
   },
-  "ocd-division/country:us/state:ga/county:worth/precinct:red_rock": {
-   "name": "Worth County GA - Precinct Red Rock"
-  },
   "ocd-division/country:us/state:ga/county:elbert/precinct:wyche": {
    "name": "Elbert County GA - Precinct Wyche"
+  },
+  "ocd-division/country:us/state:ga/county:worth/precinct:red_rock": {
+   "name": "Worth County GA - Precinct Red Rock"
   },
   "ocd-division/country:us/state:ga/county:camden/precinct:waverly": {
    "name": "Camden County GA - Precinct Waverly"
@@ -2854,14 +2854,14 @@
   "ocd-division/country:us/state:ga/county:walton/precinct:oasis": {
    "name": "Walton County GA - Precinct Oasis"
   },
-  "ocd-division/country:us/state:ga/county:dekalb/precinct:johnson_estates": {
-   "name": "DeKalb County GA - Precinct JOHNSON ESTATES"
+  "ocd-division/country:us/state:ga/county:houston/precinct:nsms": {
+   "name": "Houston County GA - Precinct NSMS"
   },
   "ocd-division/country:us/state:ga/county:cobb/precinct:ford_1": {
    "name": "Cobb County GA - Precinct Ford 01"
   },
-  "ocd-division/country:us/state:ga/county:houston/precinct:nsms": {
-   "name": "Houston County GA - Precinct NSMS"
+  "ocd-division/country:us/state:ga/county:dekalb/precinct:johnson_estates": {
+   "name": "DeKalb County GA - Precinct JOHNSON ESTATES"
   },
   "ocd-division/country:us/state:ga/county:meriwether/precinct:manchester_gill_ii": {
    "name": "Meriwether County GA - Precinct MANCHESTER GILL II"
@@ -2869,11 +2869,11 @@
   "ocd-division/country:us/state:ga/county:ben_hill/precinct:west": {
    "name": "Ben Hill County GA - Precinct West"
   },
-  "ocd-division/country:us/state:ga/place:kingsland": {
-   "name": "Kingsland city"
-  },
   "ocd-division/country:us/state:ga/county:fayette/precinct:oak_grove": {
    "name": "Fayette County GA - Precinct OAK GROVE"
+  },
+  "ocd-division/country:us/state:ga/place:kingsland": {
+   "name": "Kingsland city"
   },
   "ocd-division/country:us/state:ga/county:cobb/precinct:willeo_1": {
    "name": "Cobb County GA - Precinct Willeo 01"
@@ -2902,35 +2902,35 @@
   "ocd-division/country:us/state:ga/county:mitchell/precinct:hinsonton": {
    "name": "Mitchell County GA - Precinct Hinsonton"
   },
-  "ocd-division/country:us/state:ga/county:gwinnett/precinct:75-rockbridge_c": {
-   "name": "Gwinnett County GA - Precinct 075 Rockbridge C"
-  },
   "ocd-division/country:us/state:ga/county:houston/precinct:rozr": {
    "name": "Houston County GA - Precinct ROZR"
+  },
+  "ocd-division/country:us/state:ga/county:gwinnett/precinct:75-rockbridge_c": {
+   "name": "Gwinnett County GA - Precinct 075 Rockbridge C"
   },
   "ocd-division/country:us/state:ga/county:banks/school_district:banks_county": {
    "name": "banks county"
   },
-  "ocd-division/country:us/state:ga/county:fannin/precinct:hothouse": {
-   "name": "Fannin County GA - Precinct HOTHOUSE"
-  },
   "ocd-division/country:us/state:ga/county:gwinnett/precinct:126-pinckneyville_a1": {
    "name": "Gwinnett County GA - Precinct 126 Pinckneyville A1"
+  },
+  "ocd-division/country:us/state:ga/county:fannin/precinct:hothouse": {
+   "name": "Fannin County GA - Precinct HOTHOUSE"
   },
   "ocd-division/country:us/state:ga/county:bulloch/precinct:statesboro": {
    "name": "Bulloch County GA - Precinct Statesboro"
   },
-  "ocd-division/country:us/state:ga/place:warm_springs": {
-   "name": "Warm Springs city"
-  },
-  "ocd-division/country:us/state:ga/county:worth/precinct:scooterville": {
-   "name": "Worth County GA - Precinct Scooterville"
+  "ocd-division/country:us/state:ga/county:tift/precinct:docia": {
+   "name": "Tift County GA - Precinct Docia"
   },
   "ocd-division/country:us/state:ga/county:wheeler/precinct:glenwood": {
    "name": "Wheeler County GA - Precinct Glenwood"
   },
-  "ocd-division/country:us/state:ga/county:tift/precinct:docia": {
-   "name": "Tift County GA - Precinct Docia"
+  "ocd-division/country:us/state:ga/county:worth/precinct:scooterville": {
+   "name": "Worth County GA - Precinct Scooterville"
+  },
+  "ocd-division/country:us/state:ga/place:warm_springs": {
+   "name": "Warm Springs city"
   },
   "ocd-division/country:us/state:ga/place:cartersville": {
    "name": "Cartersville city"
@@ -2947,11 +2947,11 @@
   "ocd-division/country:us/state:ga/county:laurens/precinct:calhoun_park": {
    "name": "Laurens County GA - Precinct Calhoun Park"
   },
-  "ocd-division/country:us/state:ga/county:coweta/precinct:moreland": {
-   "name": "Coweta County GA - Precinct MORELAND"
-  },
   "ocd-division/country:us/state:ga/county:newton/precinct:crowell": {
    "name": "Newton County GA - Precinct Crowell"
+  },
+  "ocd-division/country:us/state:ga/county:coweta/precinct:moreland": {
+   "name": "Coweta County GA - Precinct MORELAND"
   },
   "ocd-division/country:us/state:ga/county:taylor/council_district:1": {
    "name": "Taylor County Commission District 1",
@@ -3698,9 +3698,6 @@
   "ocd-division/country:us/state:ga/county:upson/precinct:reeves": {
    "name": "Upson County GA - Precinct REEVES"
   },
-  "ocd-division/country:us/state:ga/county:bartow/precinct:adairsville": {
-   "name": "Bartow County GA - Precinct ADAIRSVILLE"
-  },
   "ocd-division/country:us/state:ga/county:fulton": {
    "name": "Fulton County",
    "officeIndices": [
@@ -3713,6 +3710,9 @@
     544,
     545
    ]
+  },
+  "ocd-division/country:us/state:ga/county:bartow/precinct:adairsville": {
+   "name": "Bartow County GA - Precinct ADAIRSVILLE"
   },
   "ocd-division/country:us/state:ga/county:hall/precinct:23-west_whelchel": {
    "name": "Hall County GA - Precinct 23-West Whelchel"
@@ -4134,16 +4134,16 @@
     592
    ]
   },
-  "ocd-division/country:us/state:ga/sldu:6": {
-   "name": "Georgia State Senate district 6",
-   "officeIndices": [
-    80
-   ]
-  },
   "ocd-division/country:us/state:ga/county:richmond/council_district:2": {
    "name": "Richmond County Commission District 2",
    "officeIndices": [
     593
+   ]
+  },
+  "ocd-division/country:us/state:ga/sldu:6": {
+   "name": "Georgia State Senate district 6",
+   "officeIndices": [
+    80
    ]
   },
   "ocd-division/country:us/state:ga/county:floyd/precinct:north_rome": {
@@ -4670,14 +4670,14 @@
   "ocd-division/country:us/state:ga/county:terrell/school_district:terrell_county": {
    "name": "terrell county"
   },
-  "ocd-division/country:us/state:ga/county:rockdale/precinct:milstead": {
-   "name": "Rockdale County GA - Precinct Milstead"
-  },
   "ocd-division/country:us/state:ga/county:cobb/council_district:3": {
    "name": "Cobb County GA Board of Commissioners District 3",
    "officeIndices": [
     628
    ]
+  },
+  "ocd-division/country:us/state:ga/county:rockdale/precinct:milstead": {
+   "name": "Rockdale County GA - Precinct Milstead"
   },
   "ocd-division/country:us/state:ga/county:cobb/council_district:4": {
    "name": "Cobb County GA Board of Commissioners District 4",
@@ -5186,35 +5186,35 @@
   "ocd-division/country:us/state:ga/county:colquitt/precinct:norman_park": {
    "name": "Colquitt County GA - Precinct Norman Park"
   },
-  "ocd-division/country:us/state:ga/county:richmond/precinct:304": {
-   "name": "Richmond County GA - Precinct 304"
-  },
   "ocd-division/country:us/state:ga/county:franklin/precinct:red_hill": {
    "name": "Franklin County GA - Precinct Red Hill"
   },
-  "ocd-division/country:us/state:ga/county:richmond/precinct:305": {
-   "name": "Richmond County GA - Precinct 305"
+  "ocd-division/country:us/state:ga/county:richmond/precinct:304": {
+   "name": "Richmond County GA - Precinct 304"
   },
   "ocd-division/country:us/state:ga/county:quitman/school_district:quitman_county": {
    "name": "quitman county"
   },
-  "ocd-division/country:us/state:ga/county:treutlen/precinct:orland": {
-   "name": "Treutlen County GA - Precinct Orland"
-  },
-  "ocd-division/country:us/state:ga/county:richmond/precinct:302": {
-   "name": "Richmond County GA - Precinct 302"
+  "ocd-division/country:us/state:ga/county:richmond/precinct:305": {
+   "name": "Richmond County GA - Precinct 305"
   },
   "ocd-division/country:us/state:ga/county:henry/precinct:stockbridge_west": {
    "name": "Henry County GA - Precinct STOCKBRIDGE WEST"
   },
+  "ocd-division/country:us/state:ga/county:richmond/precinct:302": {
+   "name": "Richmond County GA - Precinct 302"
+  },
+  "ocd-division/country:us/state:ga/county:treutlen/precinct:orland": {
+   "name": "Treutlen County GA - Precinct Orland"
+  },
   "ocd-division/country:us/state:ga/county:richmond/precinct:303": {
    "name": "Richmond County GA - Precinct 303"
   },
-  "ocd-division/country:us/state:ga/county:richmond/precinct:308": {
-   "name": "Richmond County GA - Precinct 308"
-  },
   "ocd-division/country:us/state:ga/county:pierce/precinct:sunset-sweat": {
    "name": "Pierce County GA - Precinct Sunset/Sweat"
+  },
+  "ocd-division/country:us/state:ga/county:richmond/precinct:308": {
+   "name": "Richmond County GA - Precinct 308"
   },
   "ocd-division/country:us/state:ga/county:richmond/precinct:306": {
    "name": "Richmond County GA - Precinct 306"
@@ -5249,14 +5249,14 @@
     678
    ]
   },
-  "ocd-division/country:us/state:ga/county:cobb/precinct:kennesaw_2b": {
-   "name": "Cobb County GA - Precinct Kennesaw 2B"
-  },
   "ocd-division/country:us/state:ga/county:barrow/council_district:3": {
    "name": "Barrow County Commission District 3",
    "officeIndices": [
     679
    ]
+  },
+  "ocd-division/country:us/state:ga/county:cobb/precinct:kennesaw_2b": {
+   "name": "Cobb County GA - Precinct Kennesaw 2B"
   },
   "ocd-division/country:us/state:ga/county:jeff_davis/precinct:altamaha_2": {
    "name": "Jeff Davis County GA - Precinct Altamaha 2"
@@ -5267,14 +5267,14 @@
   "ocd-division/country:us/state:ga/county:jeff_davis/precinct:altamaha_1": {
    "name": "Jeff Davis County GA - Precinct Altamaha 1"
   },
-  "ocd-division/country:us/state:ga/place:meigs": {
-   "name": "Meigs city"
+  "ocd-division/country:us/state:ga/county:dooly/precinct:vienna": {
+   "name": "Dooly County GA - Precinct VIENNA"
   },
   "ocd-division/country:us/state:ga/place:enigma": {
    "name": "Enigma town"
   },
-  "ocd-division/country:us/state:ga/county:dooly/precinct:vienna": {
-   "name": "Dooly County GA - Precinct VIENNA"
+  "ocd-division/country:us/state:ga/place:meigs": {
+   "name": "Meigs city"
   },
   "ocd-division/country:us/state:ga/county:ware/school_district:ware_county": {
    "name": "ware county"
@@ -5288,11 +5288,11 @@
   "ocd-division/country:us/state:ga/county:henry/precinct:lake_dow": {
    "name": "Henry County GA - Precinct LAKE DOW"
   },
-  "ocd-division/country:us/state:ga/place:newnan": {
-   "name": "Newnan city"
-  },
   "ocd-division/country:us/state:ga/county:bulloch/precinct:blitch": {
    "name": "Bulloch County GA - Precinct Blitch"
+  },
+  "ocd-division/country:us/state:ga/place:newnan": {
+   "name": "Newnan city"
   },
   "ocd-division/country:us/state:ga/county:catoosa/precinct:blackstock": {
    "name": "Catoosa County GA - Precinct BLACKSTOCK"
@@ -5398,11 +5398,11 @@
     692
    ]
   },
-  "ocd-division/country:us/state:ga/county:fulton/precinct:ml07a": {
-   "name": "Fulton County GA - Precinct ML07A"
-  },
   "ocd-division/country:us/state:ga/county:madison/precinct:paoli": {
    "name": "Madison County GA - Precinct PAOLI"
+  },
+  "ocd-division/country:us/state:ga/county:fulton/precinct:ml07a": {
+   "name": "Fulton County GA - Precinct ML07A"
   },
   "ocd-division/country:us/state:ga/county:fulton/precinct:ml07b": {
    "name": "Fulton County GA - Precinct ML07B"
@@ -5438,20 +5438,20 @@
   "ocd-division/country:us/state:ga/county:carroll/precinct:1540-fairfield": {
    "name": "Carroll County GA - Precinct FAIRFIELD (1540)"
   },
-  "ocd-division/country:us/state:ga/county:bulloch/school_district:bulloch_county": {
-   "name": "bulloch county"
-  },
   "ocd-division/country:us/state:ga/county:fulton/precinct:pa01": {
    "name": "Fulton County GA - Precinct PA01"
+  },
+  "ocd-division/country:us/state:ga/county:bulloch/school_district:bulloch_county": {
+   "name": "bulloch county"
   },
   "ocd-division/country:us/state:ga/county:burke/school_district:burke_county": {
    "name": "burke county"
   },
-  "ocd-division/country:us/state:ga/county:elbert/precinct:centerville": {
-   "name": "Elbert County GA - Precinct Centerville"
-  },
   "ocd-division/country:us/state:ga/county:cobb/precinct:wade_green_1": {
    "name": "Cobb County GA - Precinct Wade Green 01"
+  },
+  "ocd-division/country:us/state:ga/county:elbert/precinct:centerville": {
+   "name": "Elbert County GA - Precinct Centerville"
   },
   "ocd-division/country:us/state:ga/county:cobb/precinct:wade_green_2": {
    "name": "Cobb County GA - Precinct Wade Green 02"
@@ -5459,11 +5459,11 @@
   "ocd-division/country:us/state:ga/county:jones/precinct:barron": {
    "name": "Jones County GA - Precinct BARRON"
   },
-  "ocd-division/country:us/state:ga/county:dodge/school_district:heart_of_georgia_resa": {
-   "name": "heart of georgia resa"
-  },
   "ocd-division/country:us/state:ga/county:grady/precinct:blowing_cave": {
    "name": "Grady County GA - Precinct Blowing Cave"
+  },
+  "ocd-division/country:us/state:ga/county:dodge/school_district:heart_of_georgia_resa": {
+   "name": "heart of georgia resa"
   },
   "ocd-division/country:us/state:ga/county:rockdale/precinct:sheffield": {
    "name": "Rockdale County GA - Precinct Sheffield"
@@ -5480,9 +5480,6 @@
   "ocd-division/country:us/state:ga/place:lake_city": {
    "name": "Lake City city"
   },
-  "ocd-division/country:us/state:ga/county:white/precinct:helen": {
-   "name": "White County GA - Precinct Helen"
-  },
   "ocd-division/country:us/state:ga/county:bleckley": {
    "name": "Bleckley County",
    "officeIndices": [
@@ -5491,20 +5488,26 @@
     700
    ]
   },
-  "ocd-division/country:us/state:ga/county:greene/precinct:greensboro": {
-   "name": "Greene County GA - Precinct Greensboro"
+  "ocd-division/country:us/state:ga/county:white/precinct:helen": {
+   "name": "White County GA - Precinct Helen"
   },
   "ocd-division/country:us/state:ga/county:haralson/school_district:bremen_city": {
    "name": "bremen city"
   },
-  "ocd-division/country:us/state:ga/county:dekalb/precinct:oak_grove_elementary": {
-   "name": "DeKalb County GA - Precinct OAK GROVE ELEM"
+  "ocd-division/country:us/state:ga/county:greene/precinct:greensboro": {
+   "name": "Greene County GA - Precinct Greensboro"
   },
   "ocd-division/country:us/state:ga/county:heard/precinct:enon_grove": {
    "name": "Heard County GA - Precinct ENON GROVE"
   },
+  "ocd-division/country:us/state:ga/county:dekalb/precinct:oak_grove_elementary": {
+   "name": "DeKalb County GA - Precinct OAK GROVE ELEM"
+  },
   "ocd-division/country:us/state:ga/county:madison/precinct:ila": {
    "name": "Madison County GA - Precinct ILA"
+  },
+  "ocd-division/country:us/state:ga/county:coffee/school_district:coffee_county": {
+   "name": "coffee county"
   },
   "ocd-division/country:us/state:ga/county:turner": {
    "name": "Turner County",
@@ -5513,9 +5516,6 @@
     702,
     703
    ]
-  },
-  "ocd-division/country:us/state:ga/county:coffee/school_district:coffee_county": {
-   "name": "coffee county"
   },
   "ocd-division/country:us/state:ga/county:cobb/precinct:austell_1a": {
    "name": "Cobb County GA - Precinct Austell 1A"
@@ -5526,20 +5526,20 @@
   "ocd-division/country:us/state:ga/place:vidette": {
    "name": "Vidette city"
   },
-  "ocd-division/country:us/state:ga/county:dade/precinct:north_dade": {
-   "name": "Dade County GA - Precinct NORTH DADE"
-  },
   "ocd-division/country:us/state:ga/county:gwinnett/precinct:35-cates_d": {
    "name": "Gwinnett County GA - Precinct 035 Cates D"
+  },
+  "ocd-division/country:us/state:ga/county:dade/precinct:north_dade": {
+   "name": "Dade County GA - Precinct NORTH DADE"
   },
   "ocd-division/country:us/state:ga/county:toombs/precinct:1715th-normantown": {
    "name": "Toombs County GA - Precinct 1715th-Normantown"
   },
-  "ocd-division/country:us/state:ga/county:calhoun/precinct:arlington": {
-   "name": "Calhoun County GA - Precinct Arlington"
-  },
   "ocd-division/country:us/state:ga/county:haralson/precinct:buchanan": {
    "name": "Haralson County GA - Precinct BUCHANAN"
+  },
+  "ocd-division/country:us/state:ga/county:calhoun/precinct:arlington": {
+   "name": "Calhoun County GA - Precinct Arlington"
   },
   "ocd-division/country:us/state:ga/place:homerville": {
    "name": "Homerville city"
@@ -5571,14 +5571,14 @@
   "ocd-division/country:us/state:ga/county:brooks/precinct:south_brooks-nankin": {
    "name": "Brooks County GA - Precinct S.Brooks/Nankin"
   },
-  "ocd-division/country:us/state:ga/county:dekalb/precinct:lakeside_high": {
-   "name": "DeKalb County GA - Precinct LAKESIDE HIGH"
+  "ocd-division/country:us/state:ga/county:meriwether/precinct:lone_oak": {
+   "name": "Meriwether County GA - Precinct LONE OAK"
   },
   "ocd-division/country:us/state:ga/county:hall/precinct:19-murrayville": {
    "name": "Hall County GA - Precinct 19-Murrayville"
   },
-  "ocd-division/country:us/state:ga/county:meriwether/precinct:lone_oak": {
-   "name": "Meriwether County GA - Precinct LONE OAK"
+  "ocd-division/country:us/state:ga/county:dekalb/precinct:lakeside_high": {
+   "name": "DeKalb County GA - Precinct LAKESIDE HIGH"
   },
   "ocd-division/country:us/state:ga/county:towns": {
    "name": "Towns County",
@@ -5601,9 +5601,6 @@
   "ocd-division/country:us/state:ga/county:liberty/precinct:memorial_dr_east": {
    "name": "Liberty County GA - Precinct Memorial Dr. East"
   },
-  "ocd-division/country:us/state:ga/county:troup/precinct:hogansville": {
-   "name": "Troup County GA - Precinct HOGANSVILLE"
-  },
   "ocd-division/country:us/state:ga/county:seminole": {
    "name": "Seminole County",
    "officeIndices": [
@@ -5612,6 +5609,9 @@
     710,
     711
    ]
+  },
+  "ocd-division/country:us/state:ga/county:troup/precinct:hogansville": {
+   "name": "Troup County GA - Precinct HOGANSVILLE"
   },
   "ocd-division/country:us/state:ga/county:sumter/precinct:c1-27": {
    "name": "Sumter County GA - Precinct C1-27"
@@ -5631,6 +5631,9 @@
     712
    ]
   },
+  "ocd-division/country:us/state:ga/county:fulton/precinct:ap12a": {
+   "name": "Fulton County GA - Precinct AP12A"
+  },
   "ocd-division/country:us/state:ga/county:stephens": {
    "name": "Stephens County",
    "officeIndices": [
@@ -5644,9 +5647,6 @@
     720
    ]
   },
-  "ocd-division/country:us/state:ga/county:fulton/precinct:ap12a": {
-   "name": "Fulton County GA - Precinct AP12A"
-  },
   "ocd-division/country:us/state:ga/county:thomas/precinct:metcalfe": {
    "name": "Thomas County GA - Precinct Metcalfe"
   },
@@ -5659,14 +5659,14 @@
     721
    ]
   },
-  "ocd-division/country:us/state:ga/place:pelham": {
-   "name": "Pelham city"
-  },
   "ocd-division/country:us/state:ga/county:screven/council_district:2": {
    "name": "Screven County Commission District 2",
    "officeIndices": [
     722
    ]
+  },
+  "ocd-division/country:us/state:ga/place:pelham": {
+   "name": "Pelham city"
   },
   "ocd-division/country:us/state:ga/county:screven/council_district:5": {
    "name": "Screven County Commission District 5",
@@ -5716,11 +5716,11 @@
   "ocd-division/country:us/state:ga/county:habersham/precinct:center_hill": {
    "name": "Habersham County GA - Precinct Center Hill"
   },
-  "ocd-division/country:us/state:ga/county:whitfield/precinct:eastside": {
-   "name": "Whitfield County GA - Precinct EASTSIDE"
-  },
   "ocd-division/country:us/state:ga/county:stephens/precinct:big_smith": {
    "name": "Stephens County GA - Precinct Big Smith"
+  },
+  "ocd-division/country:us/state:ga/county:whitfield/precinct:eastside": {
+   "name": "Whitfield County GA - Precinct EASTSIDE"
   },
   "ocd-division/country:us/state:ga/county:columbia/precinct:40": {
    "name": "Columbia County GA - Precinct 40-Eubank/Blanchard Center"
@@ -5731,11 +5731,11 @@
   "ocd-division/country:us/state:ga/county:columbia/precinct:30": {
    "name": "Columbia County GA - Precinct 30-Grovetown City Hall"
   },
-  "ocd-division/country:us/state:ga/county:columbia/precinct:31": {
-   "name": "Columbia County GA - Precinct 31-Grovetown Methodist Church"
-  },
   "ocd-division/country:us/state:ga/county:coffee/precinct:west_green": {
    "name": "Coffee County GA - Precinct West Green"
+  },
+  "ocd-division/country:us/state:ga/county:columbia/precinct:31": {
+   "name": "Columbia County GA - Precinct 31-Grovetown Methodist Church"
   },
   "ocd-division/country:us/state:ga/county:columbia/precinct:32": {
    "name": "Columbia County GA - Precinct 32-Greater Aug. Apostolic Church"
@@ -5743,11 +5743,11 @@
   "ocd-division/country:us/state:ga/county:columbia/precinct:33": {
    "name": "Columbia County GA - Precinct 33-Grovetown Middle School"
   },
-  "ocd-division/country:us/state:ga/place:whigham": {
-   "name": "Whigham city"
-  },
   "ocd-division/country:us/state:ga/county:fulton/precinct:ml01a": {
    "name": "Fulton County GA - Precinct ML01A"
+  },
+  "ocd-division/country:us/state:ga/place:whigham": {
+   "name": "Whigham city"
   },
   "ocd-division/country:us/state:ga/county:fulton/precinct:ml01b": {
    "name": "Fulton County GA - Precinct ML01B"
@@ -5758,14 +5758,14 @@
     727
    ]
   },
+  "ocd-division/country:us/state:ga/county:coweta/precinct:jefferson_parkway": {
+   "name": "Coweta County GA - Precinct JEFFERSON PARKWAY"
+  },
   "ocd-division/country:us/state:ga/county:warren/council_district:2": {
    "name": "Warren County Commission District 2",
    "officeIndices": [
     728
    ]
-  },
-  "ocd-division/country:us/state:ga/county:coweta/precinct:jefferson_parkway": {
-   "name": "Coweta County GA - Precinct JEFFERSON PARKWAY"
   },
   "ocd-division/country:us/state:ga/county:johnson/precinct:bray": {
    "name": "Johnson County GA - Precinct Bray"
@@ -5794,14 +5794,14 @@
     2
    ]
   },
+  "ocd-division/country:us/state:ga/county:hart/school_district:hart_county": {
+   "name": "hart county"
+  },
   "ocd-division/country:us/state:ga/cd:4": {
    "name": "Georgia's 4th congressional district",
    "officeIndices": [
     3
    ]
-  },
-  "ocd-division/country:us/state:ga/county:hart/school_district:hart_county": {
-   "name": "hart county"
   },
   "ocd-division/country:us/state:ga/county:gwinnett/precinct:21-pinckneyville_b": {
    "name": "Gwinnett County GA - Precinct 021 Pinckneyville B"
@@ -5863,14 +5863,14 @@
     4
    ]
   },
-  "ocd-division/country:us/state:ga/county:burke/precinct:saint_clair": {
-   "name": "Burke County GA - Precinct St. Clair"
-  },
   "ocd-division/country:us/state:ga/cd:8": {
    "name": "Georgia's 8th congressional district",
    "officeIndices": [
     5
    ]
+  },
+  "ocd-division/country:us/state:ga/county:burke/precinct:saint_clair": {
+   "name": "Burke County GA - Precinct St. Clair"
   },
   "ocd-division/country:us/state:ga/cd:7": {
    "name": "Georgia's 7th congressional district",
@@ -5884,14 +5884,14 @@
     7
    ]
   },
-  "ocd-division/country:us/state:ga/county:columbia/precinct:15": {
-   "name": "Columbia County GA - Precinct 15-Lewis Methodist Church"
-  },
   "ocd-division/country:us/state:ga/cd:5": {
    "name": "Georgia's 5th congressional district",
    "officeIndices": [
     8
    ]
+  },
+  "ocd-division/country:us/state:ga/county:columbia/precinct:15": {
+   "name": "Columbia County GA - Precinct 15-Lewis Methodist Church"
   },
   "ocd-division/country:us/state:ga/county:columbia/precinct:16": {
    "name": "Columbia County GA - Precinct 16-Woodlawn Baptist Church"
@@ -6332,9 +6332,6 @@
   "ocd-division/country:us/state:ga/place:crawford": {
    "name": "Crawford city"
   },
-  "ocd-division/country:us/state:ga/county:gwinnett/precinct:30-cates_c": {
-   "name": "Gwinnett County GA - Precinct 030 Cates C"
-  },
   "ocd-division/country:us/state:ga/county:newton": {
    "name": "Newton County",
    "officeIndices": [
@@ -6343,6 +6340,9 @@
     777,
     778
    ]
+  },
+  "ocd-division/country:us/state:ga/county:gwinnett/precinct:30-cates_c": {
+   "name": "Gwinnett County GA - Precinct 030 Cates C"
   },
   "ocd-division/country:us/state:ga/county:pike/precinct:zebulon": {
    "name": "Pike County GA - Precinct Zebulon"
@@ -6780,14 +6780,14 @@
   "ocd-division/country:us/state:ga/place:blairsville": {
    "name": "Blairsville city"
   },
-  "ocd-division/country:us/state:ga/county:wilcox/precinct:pineview_2": {
-   "name": "Wilcox County GA - Precinct Pineview 2"
-  },
   "ocd-division/country:us/state:ga/county:clayton/council_district:3": {
    "name": "Clayton County GA Board of County Commissioners District 3",
    "officeIndices": [
     808
    ]
+  },
+  "ocd-division/country:us/state:ga/county:wilcox/precinct:pineview_2": {
+   "name": "Wilcox County GA - Precinct Pineview 2"
   },
   "ocd-division/country:us/state:ga/county:pickens/precinct:yellow_creek": {
    "name": "Pickens County GA - Precinct YELLOW CREEK"
@@ -7053,14 +7053,14 @@
   "ocd-division/country:us/state:ga/place:monroe": {
    "name": "Monroe city"
   },
-  "ocd-division/country:us/state:ga/place:hiram": {
-   "name": "Hiram city"
-  },
   "ocd-division/country:us/state:ga/county:douglas/council_district:1": {
    "name": "Douglas County GA Board of Commissioners District 1",
    "officeIndices": [
     819
    ]
+  },
+  "ocd-division/country:us/state:ga/place:hiram": {
+   "name": "Hiram city"
   },
   "ocd-division/country:us/state:ga/place:atlanta/school_board_district:1": {
    "name": "Atlanta GA school board district 1"
@@ -7206,12 +7206,6 @@
     825
    ]
   },
-  "ocd-division/country:us/state:ga/county:dekalb/precinct:pine_lake": {
-   "name": "DeKalb County GA - Precinct PINE LAKE"
-  },
-  "ocd-division/country:us/state:ga/county:brantley/precinct:lulaton": {
-   "name": "Brantley County GA - Precinct Lulaton"
-  },
   "ocd-division/country:us/state:ga/county:barrow": {
    "name": "Barrow County",
    "officeIndices": [
@@ -7220,6 +7214,12 @@
     828,
     829
    ]
+  },
+  "ocd-division/country:us/state:ga/county:dekalb/precinct:pine_lake": {
+   "name": "DeKalb County GA - Precinct PINE LAKE"
+  },
+  "ocd-division/country:us/state:ga/county:brantley/precinct:lulaton": {
+   "name": "Brantley County GA - Precinct Lulaton"
   },
   "ocd-division/country:us/state:ga/county:brooks/precinct:grooverville": {
    "name": "Brooks County GA - Precinct Grooverville"
@@ -8576,14 +8576,14 @@
   "ocd-division/country:us/state:ga/county:floyd/precinct:vanns_valley": {
    "name": "Floyd County GA - Precinct VANNS VALLEY"
   },
+  "ocd-division/country:us/state:ga/place:jonesboro": {
+   "name": "Jonesboro city"
+  },
   "ocd-division/country:us/state:ga/sldl:31": {
    "name": "Georgia State House district 31",
    "officeIndices": [
     115
    ]
-  },
-  "ocd-division/country:us/state:ga/place:jonesboro": {
-   "name": "Jonesboro city"
   },
   "ocd-division/country:us/state:ga/sldl:30": {
    "name": "Georgia State House district 30",
@@ -9530,18 +9530,18 @@
     1008
    ]
   },
-  "ocd-division/country:us/state:ga/county:forsyth/precinct:16-otwell": {
-   "name": "Forsyth County GA - Precinct 16 Otwell"
-  },
-  "ocd-division/country:us/state:ga/county:gwinnett/precinct:24-sugar_hill_a": {
-   "name": "Gwinnett County GA - Precinct 024 Sugar Hill A"
-  },
   "ocd-division/country:us/state:ga/county:muscogee/council_district:1": {
    "name": "Muscogee County Council District 1",
    "officeIndices": [
     1009,
     1010
    ]
+  },
+  "ocd-division/country:us/state:ga/county:forsyth/precinct:16-otwell": {
+   "name": "Forsyth County GA - Precinct 16 Otwell"
+  },
+  "ocd-division/country:us/state:ga/county:gwinnett/precinct:24-sugar_hill_a": {
+   "name": "Gwinnett County GA - Precinct 024 Sugar Hill A"
   },
   "ocd-division/country:us/state:ga/county:taylor/precinct:5-courthouse": {
    "name": "Taylor County GA - Precinct #5 COURTHOUSE"
@@ -10591,9 +10591,6 @@
   "ocd-division/country:us/state:ga/county:peach/precinct:fort_valley_2": {
    "name": "Peach County GA - Precinct FORT VALLEY #2"
   },
-  "ocd-division/country:us/state:ga/county:baker/precinct:hoggard_mill": {
-   "name": "Baker County GA - Precinct Hoggard Mill"
-  },
   "ocd-division/country:us/state:ga/county:muscogee": {
    "name": "Muscogee County",
    "alsoKnownAs": [
@@ -10607,6 +10604,9 @@
     1085,
     1086
    ]
+  },
+  "ocd-division/country:us/state:ga/county:baker/precinct:hoggard_mill": {
+   "name": "Baker County GA - Precinct Hoggard Mill"
   },
   "ocd-division/country:us/state:ga/place:powder_springs": {
    "name": "Powder Springs city"
@@ -10777,9 +10777,6 @@
   "ocd-division/country:us/state:ga/county:dodge/precinct:vilula": {
    "name": "Dodge County GA - Precinct Vilula"
   },
-  "ocd-division/country:us/state:ga/county:thomas/precinct:resource_center": {
-   "name": "Thomas County GA - Precinct Resource Center"
-  },
   "ocd-division/country:us/state:ga/county:spalding": {
    "name": "Spalding County",
    "officeIndices": [
@@ -10788,6 +10785,9 @@
     1097,
     1098
    ]
+  },
+  "ocd-division/country:us/state:ga/county:thomas/precinct:resource_center": {
+   "name": "Thomas County GA - Precinct Resource Center"
   },
   "ocd-division/country:us/state:ga/place:midway": {
    "name": "Midway city"
@@ -11064,16 +11064,16 @@
     1146
    ]
   },
-  "ocd-division/country:us/state:ga/county:hart/council_district:2": {
-   "name": "Hart County Commission District 2",
-   "officeIndices": [
-    1147,
-    1148
-   ]
-  },
   "ocd-division/country:us/state:ga/county:jackson/council_district:4": {
    "name": "Jackson County Commission District 4",
    "officeIndices": [
+    1147
+   ]
+  },
+  "ocd-division/country:us/state:ga/county:hart/council_district:2": {
+   "name": "Hart County Commission District 2",
+   "officeIndices": [
+    1148,
     1149
    ]
   },
@@ -11175,11 +11175,11 @@
   "ocd-division/country:us/state:ga/county:forsyth/precinct:27-concord": {
    "name": "Forsyth County GA - Precinct 27 Concord"
   },
-  "ocd-division/country:us/state:ga/county:walton/precinct:gratis": {
-   "name": "Walton County GA - Precinct Gratis"
-  },
   "ocd-division/country:us/state:ga/county:cobb/precinct:vinings_1": {
    "name": "Cobb County GA - Precinct Vinings 01"
+  },
+  "ocd-division/country:us/state:ga/county:walton/precinct:gratis": {
+   "name": "Walton County GA - Precinct Gratis"
   },
   "ocd-division/country:us/state:ga/county:heard": {
    "name": "Heard County",
@@ -11267,23 +11267,23 @@
   "ocd-division/country:us/state:ga/county:fulton/precinct:ss09": {
    "name": "Fulton County GA - Precinct SS09"
   },
-  "ocd-division/country:us/state:ga/place:springfield": {
-   "name": "Springfield city"
-  },
   "ocd-division/country:us/state:ga/county:pierce/precinct:otter_creek": {
    "name": "Pierce County GA - Precinct Otter Creek"
   },
-  "ocd-division/country:us/state:ga/county:baker/school_district:baker_county": {
-   "name": "baker county"
+  "ocd-division/country:us/state:ga/place:springfield": {
+   "name": "Springfield city"
   },
   "ocd-division/country:us/state:ga/county:clay/school_district:clay_county": {
    "name": "clay county"
   },
-  "ocd-division/country:us/state:ga/place:helena": {
-   "name": "Helena city"
+  "ocd-division/country:us/state:ga/county:baker/school_district:baker_county": {
+   "name": "baker county"
   },
   "ocd-division/country:us/state:ga/county:glascock/precinct:gibson": {
    "name": "Glascock County GA - Precinct Gibson"
+  },
+  "ocd-division/country:us/state:ga/place:helena": {
+   "name": "Helena city"
   },
   "ocd-division/country:us/state:ga/county:banks/precinct:bushville": {
    "name": "Banks County GA - Precinct Bushville"
@@ -11318,11 +11318,11 @@
   "ocd-division/country:us/state:ga/county:fulton/precinct:ss14": {
    "name": "Fulton County GA - Precinct SS14"
   },
-  "ocd-division/country:us/state:ga/place:wrens": {
-   "name": "Wrens city"
-  },
   "ocd-division/country:us/state:ga/county:troup/precinct:long_cane": {
    "name": "Troup County GA - Precinct LONG CANE"
+  },
+  "ocd-division/country:us/state:ga/place:wrens": {
+   "name": "Wrens city"
   },
   "ocd-division/country:us/state:ga/place:clarkston": {
    "name": "Clarkston city"
@@ -11336,17 +11336,17 @@
   "ocd-division/country:us/state:ga/county:fulton/precinct:ss20": {
    "name": "Fulton County GA - Precinct SS20"
   },
-  "ocd-division/country:us/state:ga/county:wayne/precinct:altamaha": {
-   "name": "Wayne County GA - Precinct Altamaha"
-  },
   "ocd-division/country:us/state:ga/county:burke/precinct:greenscut": {
    "name": "Burke County GA - Precinct Greenscut"
   },
-  "ocd-division/country:us/state:ga/place:alamo": {
-   "name": "Alamo town"
+  "ocd-division/country:us/state:ga/county:wayne/precinct:altamaha": {
+   "name": "Wayne County GA - Precinct Altamaha"
   },
   "ocd-division/country:us/state:ga/county:fayette/precinct:windgate": {
    "name": "Fayette County GA - Precinct WINDGATE"
+  },
+  "ocd-division/country:us/state:ga/place:alamo": {
+   "name": "Alamo town"
   },
   "ocd-division/country:us/state:ga/county:fulton/precinct:ss26": {
    "name": "Fulton County GA - Precinct SS26"
@@ -11357,23 +11357,23 @@
   "ocd-division/country:us/state:ga/county:carroll/precinct:1152-center_point": {
    "name": "Carroll County GA - Precinct CENTER POINT (1152)"
   },
-  "ocd-division/country:us/state:ga/place:oconee": {
-   "name": "Oconee city"
-  },
   "ocd-division/country:us/state:ga/county:spalding/precinct:sun_city": {
    "name": "Spalding County GA - Precinct SUN CITY"
+  },
+  "ocd-division/country:us/state:ga/place:oconee": {
+   "name": "Oconee city"
   },
   "ocd-division/country:us/state:ga/county:fulton/precinct:02f1": {
    "name": "Fulton County GA - Precinct 02F1"
   },
-  "ocd-division/country:us/state:ga/county:thomas/precinct:pavo": {
-   "name": "Thomas County GA - Precinct Pavo"
+  "ocd-division/country:us/state:ga/county:fulton/precinct:02f2": {
+   "name": "Fulton County GA - Precinct 02F2"
   },
   "ocd-division/country:us/state:ga/county:stephens/school_district:stephens_county": {
    "name": "stephens county"
   },
-  "ocd-division/country:us/state:ga/county:fulton/precinct:02f2": {
-   "name": "Fulton County GA - Precinct 02F2"
+  "ocd-division/country:us/state:ga/county:thomas/precinct:pavo": {
+   "name": "Thomas County GA - Precinct Pavo"
   },
   "ocd-division/country:us/state:ga/county:forsyth/council_district:1": {
    "name": "Forsyth County GA Board of Commissioners District 1",
@@ -11416,14 +11416,14 @@
   "ocd-division/country:us/state:ga/county:fulton/precinct:ss31": {
    "name": "Fulton County GA - Precinct SS31"
   },
-  "ocd-division/country:us/state:ga/county:white/school_district:white_county": {
-   "name": "white county"
+  "ocd-division/country:us/state:ga/county:murray/precinct:mcdonald": {
+   "name": "Murray County GA - Precinct MCDONALD"
   },
   "ocd-division/country:us/state:ga/county:crisp/precinct:arabi": {
    "name": "Crisp County GA - Precinct Arabi"
   },
-  "ocd-division/country:us/state:ga/county:murray/precinct:mcdonald": {
-   "name": "Murray County GA - Precinct MCDONALD"
+  "ocd-division/country:us/state:ga/county:white/school_district:white_county": {
+   "name": "white county"
   },
   "ocd-division/country:us/state:ga/place:atlanta/council_district:12": {
    "name": "Atlanta GA city council district 12",
@@ -11444,14 +11444,14 @@
     1191
    ]
   },
+  "ocd-division/country:us/state:ga/county:laurens/precinct:burgamy": {
+   "name": "Laurens County GA - Precinct Burgamy"
+  },
   "ocd-division/country:us/state:ga/place:atlanta/council_district:11": {
    "name": "Atlanta GA city council district 11",
    "officeIndices": [
     1192
    ]
-  },
-  "ocd-division/country:us/state:ga/county:laurens/precinct:burgamy": {
-   "name": "Laurens County GA - Precinct Burgamy"
   },
   "ocd-division/country:us/state:ga/county:warren": {
    "name": "Warren County",
@@ -11465,11 +11465,11 @@
   "ocd-division/country:us/state:ga/county:liberty/precinct:walthourville": {
    "name": "Liberty County GA - Precinct Walthourville"
   },
-  "ocd-division/country:us/state:ga/county:treutlen/precinct:oglethorpe": {
-   "name": "Treutlen County GA - Precinct Oglethorpe"
-  },
   "ocd-division/country:us/state:ga/county:fannin/precinct:mobile": {
    "name": "Fannin County GA - Precinct MOBILE"
+  },
+  "ocd-division/country:us/state:ga/county:treutlen/precinct:oglethorpe": {
+   "name": "Treutlen County GA - Precinct Oglethorpe"
   },
   "ocd-division/country:us/state:ga/county:chattooga/precinct:seminole": {
    "name": "Chattooga County GA - Precinct SEMINOLE"
@@ -12454,12 +12454,6 @@
   "ocd-division/country:us/state:ga/place:rocky_ford": {
    "name": "Rocky Ford town"
   },
-  "ocd-division/country:us/state:ga/sldl:55": {
-   "name": "Georgia State House district 55",
-   "officeIndices": [
-    156
-   ]
-  },
   "ocd-division/country:us/state:ga/county:dougherty": {
    "name": "Dougherty County",
    "officeIndices": [
@@ -12468,6 +12462,12 @@
     1273,
     1274,
     1275
+   ]
+  },
+  "ocd-division/country:us/state:ga/sldl:55": {
+   "name": "Georgia State House district 55",
+   "officeIndices": [
+    156
    ]
   },
   "ocd-division/country:us/state:ga/sldl:52": {
@@ -12647,9 +12647,6 @@
   "ocd-division/country:us/state:ga/county:gwinnett/school_district:commission_charter_schools-_ivy_preparatory_academy_school": {
    "name": "commission charter schools- ivy preparatory academy school"
   },
-  "ocd-division/country:us/state:ga/place:bellville": {
-   "name": "Bellville city"
-  },
   "ocd-division/country:us/state:ga/county:walton": {
    "name": "Walton County",
    "officeIndices": [
@@ -12658,6 +12655,9 @@
     1278,
     1279
    ]
+  },
+  "ocd-division/country:us/state:ga/place:bellville": {
+   "name": "Bellville city"
   },
   "ocd-division/country:us/state:ga/county:tift/precinct:tifton_northwest": {
    "name": "Tift County GA - Precinct Tifton Northwest"
@@ -12709,14 +12709,14 @@
     178
    ]
   },
+  "ocd-division/country:us/state:ga/place:peachtree_city": {
+   "name": "Peachtree City city"
+  },
   "ocd-division/country:us/state:ga/sldl:131": {
    "name": "Georgia State House district 131",
    "officeIndices": [
     179
    ]
-  },
-  "ocd-division/country:us/state:ga/place:peachtree_city": {
-   "name": "Peachtree City city"
   },
   "ocd-division/country:us/state:ga/sldl:134": {
    "name": "Georgia State House district 134",
@@ -12841,12 +12841,6 @@
   "ocd-division/country:us/state:ga/county:upson/precinct:the_rock": {
    "name": "Upson County GA - Precinct THE ROCK"
   },
-  "ocd-division/country:us/state:ga/sldl:104": {
-   "name": "Georgia State House district 104",
-   "officeIndices": [
-    197
-   ]
-  },
   "ocd-division/country:us/state:ga/county:columbia": {
    "name": "Columbia County",
    "officeIndices": [
@@ -12858,6 +12852,12 @@
     1294,
     1295,
     1296
+   ]
+  },
+  "ocd-division/country:us/state:ga/sldl:104": {
+   "name": "Georgia State House district 104",
+   "officeIndices": [
+    197
    ]
   },
   "ocd-division/country:us/state:ga/sldl:105": {
@@ -14020,19 +14020,9 @@
     1376
    ]
   },
-  "ocd-division/country:us/state:ga/county:wayne/council_district:4": {
-   "name": "Wayne County Commission District 4",
-   "officeIndices": [
-    1388
-   ]
-  },
-  "ocd-division/country:us/state:ga/county:berrien/precinct:west_berrien": {
-   "name": "Berrien County GA - Precinct West Berrien"
-  },
   "ocd-division/country:us/state:ga/county:lowndes": {
    "name": "Lowndes County",
    "officeIndices": [
-    1377,
     1378,
     1379,
     1380,
@@ -14042,8 +14032,18 @@
     1384,
     1385,
     1386,
-    1387
+    1387,
+    1388
    ]
+  },
+  "ocd-division/country:us/state:ga/county:wayne/council_district:4": {
+   "name": "Wayne County Commission District 4",
+   "officeIndices": [
+    1377
+   ]
+  },
+  "ocd-division/country:us/state:ga/county:berrien/precinct:west_berrien": {
+   "name": "Berrien County GA - Precinct West Berrien"
   },
   "ocd-division/country:us/state:ga/county:wayne/council_district:3": {
    "name": "Wayne County Commission District 3",
@@ -14131,29 +14131,29 @@
     1398
    ]
   },
+  "ocd-division/country:us/state:ga/county:hall": {
+   "name": "Hall County",
+   "officeIndices": [
+    1403,
+    1404,
+    1405,
+    1406,
+    1407,
+    1408
+   ]
+  },
   "ocd-division/country:us/state:ga/county:turner/council_district:1": {
    "name": "Turner County Commission District 1",
    "officeIndices": [
-    1408
+    1402
    ]
   },
   "ocd-division/country:us/state:ga/county:crawford": {
    "name": "Crawford County",
    "officeIndices": [
-    1405,
-    1406,
-    1407
-   ]
-  },
-  "ocd-division/country:us/state:ga/county:hall": {
-   "name": "Hall County",
-   "officeIndices": [
     1399,
     1400,
-    1401,
-    1402,
-    1403,
-    1404
+    1401
    ]
   },
   "ocd-division/country:us/state:ga/county:fayette/precinct:oak_ridge": {
@@ -16007,14 +16007,14 @@
   "ocd-division/country:us/state:ga/place:duluth": {
    "name": "Duluth city"
   },
-  "ocd-division/country:us/state:ga/county:pulaski/school_district:pulaski_county": {
-   "name": "pulaski county"
-  },
   "ocd-division/country:us/state:ga/county:gwinnett/council_district:2": {
    "name": "Gwinnett County GA Board of Commissioners District 2",
    "officeIndices": [
     1585
    ]
+  },
+  "ocd-division/country:us/state:ga/county:pulaski/school_district:pulaski_county": {
+   "name": "pulaski county"
   },
   "ocd-division/country:us/state:ga/county:gwinnett/council_district:1": {
    "name": "Gwinnett County GA Board of Commissioners District 1",
@@ -16022,14 +16022,14 @@
     1586
    ]
   },
-  "ocd-division/country:us/state:ga/county:fulton/precinct:02j": {
-   "name": "Fulton County GA - Precinct 02J"
-  },
   "ocd-division/country:us/state:ga/county:gwinnett/council_district:4": {
    "name": "Gwinnett County GA Board of Commissioners District 4",
    "officeIndices": [
     1587
    ]
+  },
+  "ocd-division/country:us/state:ga/county:fulton/precinct:02j": {
+   "name": "Fulton County GA - Precinct 02J"
   },
   "ocd-division/country:us/state:ga/county:gwinnett/council_district:3": {
    "name": "Gwinnett County GA Board of Commissioners District 3",
@@ -20582,36 +20582,36 @@
    ]
   },
   {
-   "name": "County Commission, District 2",
-   "divisionId": "ocd-division/country:us/state:ga/county:talbot/council_district:2",
-   "officialIndices": [
-    254
-   ]
-  },
-  {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ga/county:quitman",
    "officialIndices": [
-    255
+    254
    ]
   },
   {
    "name": "Attorney",
    "divisionId": "ocd-division/country:us/state:ga/county:quitman",
    "officialIndices": [
-    256
+    255
    ]
   },
   {
    "name": "Clerk of Courts",
    "divisionId": "ocd-division/country:us/state:ga/county:quitman",
    "officialIndices": [
-    257
+    256
    ]
   },
   {
    "name": "Tax Commissioner",
    "divisionId": "ocd-division/country:us/state:ga/county:quitman",
+   "officialIndices": [
+    257
+   ]
+  },
+  {
+   "name": "County Commission, District 2",
+   "divisionId": "ocd-division/country:us/state:ga/county:talbot/council_district:2",
    "officialIndices": [
     258
    ]
@@ -20736,15 +20736,15 @@
    ]
   },
   {
-   "name": "County Commission, District 3",
-   "divisionId": "ocd-division/country:us/state:ga/county:talbot/council_district:3",
+   "name": "County Commission, District 1",
+   "divisionId": "ocd-division/country:us/state:ga/county:bibb/council_district:1",
    "officialIndices": [
     276
    ]
   },
   {
-   "name": "County Commission, District 1",
-   "divisionId": "ocd-division/country:us/state:ga/county:bibb/council_district:1",
+   "name": "County Commission, District 3",
+   "divisionId": "ocd-division/country:us/state:ga/county:talbot/council_district:3",
    "officialIndices": [
     277
    ]
@@ -21927,60 +21927,60 @@
    ]
   },
   {
-   "name": "County Commission, District 3",
-   "divisionId": "ocd-division/country:us/state:ga/county:fulton/council_district:3",
+   "name": "County Commission, District 2",
+   "divisionId": "ocd-division/country:us/state:ga/county:haralson/council_district:2",
    "officialIndices": [
     453
    ]
   },
   {
-   "name": "County Commission, District 2",
-   "divisionId": "ocd-division/country:us/state:ga/county:haralson/council_district:2",
+   "name": "County Commission, District 3",
+   "divisionId": "ocd-division/country:us/state:ga/county:fulton/council_district:3",
    "officialIndices": [
     454
+   ]
+  },
+  {
+   "name": "County Commission, District 1",
+   "divisionId": "ocd-division/country:us/state:ga/county:haralson/council_district:1",
+   "officialIndices": [
+    455
    ]
   },
   {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ga/county:baker",
    "officialIndices": [
-    455
+    456
    ]
   },
   {
    "name": "Clerk of Courts",
    "divisionId": "ocd-division/country:us/state:ga/county:baker",
    "officialIndices": [
-    456
+    457
    ]
   },
   {
    "name": "County Commission",
    "divisionId": "ocd-division/country:us/state:ga/county:baker",
    "officialIndices": [
-    457,
     458,
     459,
-    460
+    460,
+    461
    ]
   },
   {
    "name": "Tax Commissioner/Chief Registrar",
    "divisionId": "ocd-division/country:us/state:ga/county:baker",
    "officialIndices": [
-    461
+    462
    ]
   },
   {
    "name": "County Commission, District 4",
    "divisionId": "ocd-division/country:us/state:ga/county:fulton/council_district:4",
-   "officialIndices": [
-    462
-   ]
-  },
-  {
-   "name": "County Commission, District 1",
-   "divisionId": "ocd-division/country:us/state:ga/county:haralson/council_district:1",
    "officialIndices": [
     463
    ]
@@ -22086,43 +22086,43 @@
    ]
   },
   {
-   "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:ga/county:chatham",
+   "name": "County Commission, District 4",
+   "divisionId": "ocd-division/country:us/state:ga/county:pierce/council_district:4",
    "officialIndices": [
     480
    ]
   },
   {
-   "name": "Clerk of Courts",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ga/county:chatham",
    "officialIndices": [
     481
    ]
   },
   {
-   "name": "Tax Commissioner",
+   "name": "Clerk of Courts",
    "divisionId": "ocd-division/country:us/state:ga/county:chatham",
    "officialIndices": [
     482
    ]
   },
   {
-   "name": "District Attorney",
+   "name": "Tax Commissioner",
    "divisionId": "ocd-division/country:us/state:ga/county:chatham",
    "officialIndices": [
     483
    ]
   },
   {
-   "name": "County Commission, District At-Large",
+   "name": "District Attorney",
    "divisionId": "ocd-division/country:us/state:ga/county:chatham",
    "officialIndices": [
     484
    ]
   },
   {
-   "name": "County Commission, District 4",
-   "divisionId": "ocd-division/country:us/state:ga/county:pierce/council_district:4",
+   "name": "County Commission, District At-Large",
+   "divisionId": "ocd-division/country:us/state:ga/county:chatham",
    "officialIndices": [
     485
    ]
@@ -26942,22 +26942,22 @@
    ]
   },
   {
-   "name": "School Board, District 2",
-   "divisionId": "ocd-division/country:us/state:ga/county:hart/council_district:2",
+   "name": "County Commission, District 4",
+   "divisionId": "ocd-division/country:us/state:ga/county:jackson/council_district:4",
    "officialIndices": [
     1250
    ]
   },
   {
-   "name": "County Commission, District 2",
+   "name": "School Board, District 2",
    "divisionId": "ocd-division/country:us/state:ga/county:hart/council_district:2",
    "officialIndices": [
     1251
    ]
   },
   {
-   "name": "County Commission, District 4",
-   "divisionId": "ocd-division/country:us/state:ga/county:jackson/council_district:4",
+   "name": "County Commission, District 2",
+   "divisionId": "ocd-division/country:us/state:ga/county:hart/council_district:2",
    "officialIndices": [
     1252
    ]
@@ -28586,85 +28586,85 @@
    ]
   },
   {
-   "name": "Coroner",
-   "divisionId": "ocd-division/country:us/state:ga/county:lowndes",
+   "name": "County Commission, District 4",
+   "divisionId": "ocd-division/country:us/state:ga/county:wayne/council_district:4",
    "officialIndices": [
     1516
    ]
   },
   {
-   "name": "Sheriff",
+   "name": "Coroner",
    "divisionId": "ocd-division/country:us/state:ga/county:lowndes",
    "officialIndices": [
     1517
    ]
   },
   {
-   "name": "Surveyor",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ga/county:lowndes",
    "officialIndices": [
     1518
    ]
   },
   {
-   "name": "Solicitor",
+   "name": "Surveyor",
    "divisionId": "ocd-division/country:us/state:ga/county:lowndes",
    "officialIndices": [
     1519
    ]
   },
   {
-   "name": "Probate Judge",
+   "name": "Solicitor",
    "divisionId": "ocd-division/country:us/state:ga/county:lowndes",
    "officialIndices": [
     1520
    ]
   },
   {
-   "name": "Assessor, Post 1",
+   "name": "Probate Judge",
    "divisionId": "ocd-division/country:us/state:ga/county:lowndes",
    "officialIndices": [
     1521
    ]
   },
   {
-   "name": "Assessor, Post 2",
+   "name": "Assessor, Post 1",
    "divisionId": "ocd-division/country:us/state:ga/county:lowndes",
    "officialIndices": [
     1522
    ]
   },
   {
-   "name": "Assessor, Post 3",
+   "name": "Assessor, Post 2",
    "divisionId": "ocd-division/country:us/state:ga/county:lowndes",
    "officialIndices": [
     1523
    ]
   },
   {
-   "name": "Clerk of Courts",
+   "name": "Assessor, Post 3",
    "divisionId": "ocd-division/country:us/state:ga/county:lowndes",
    "officialIndices": [
     1524
    ]
   },
   {
-   "name": "Tax Commissioner",
+   "name": "Clerk of Courts",
    "divisionId": "ocd-division/country:us/state:ga/county:lowndes",
    "officialIndices": [
     1525
    ]
   },
   {
-   "name": "County Commission",
+   "name": "Tax Commissioner",
    "divisionId": "ocd-division/country:us/state:ga/county:lowndes",
    "officialIndices": [
     1526
    ]
   },
   {
-   "name": "County Commission, District 4",
-   "divisionId": "ocd-division/country:us/state:ga/county:wayne/council_district:4",
+   "name": "County Commission",
+   "divisionId": "ocd-division/country:us/state:ga/county:lowndes",
    "officialIndices": [
     1527
    ]
@@ -28741,70 +28741,70 @@
   },
   {
    "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:ga/county:hall",
+   "divisionId": "ocd-division/country:us/state:ga/county:crawford",
    "officialIndices": [
     1538
    ]
   },
   {
-   "name": "Probate Judge",
-   "divisionId": "ocd-division/country:us/state:ga/county:hall",
+   "name": "Clerk of Courts",
+   "divisionId": "ocd-division/country:us/state:ga/county:crawford",
    "officialIndices": [
     1539
    ]
   },
   {
-   "name": "Clerk of Courts",
-   "divisionId": "ocd-division/country:us/state:ga/county:hall",
+   "name": "Tax Commissioner",
+   "divisionId": "ocd-division/country:us/state:ga/county:crawford",
    "officialIndices": [
     1540
    ]
   },
   {
-   "name": "Tax Commissioner",
-   "divisionId": "ocd-division/country:us/state:ga/county:hall",
+   "name": "County Commission, District 1",
+   "divisionId": "ocd-division/country:us/state:ga/county:turner/council_district:1",
    "officialIndices": [
     1541
    ]
   },
   {
-   "name": "County Commission",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ga/county:hall",
    "officialIndices": [
     1542
    ]
   },
   {
-   "name": "Superior Court Judge",
+   "name": "Probate Judge",
    "divisionId": "ocd-division/country:us/state:ga/county:hall",
    "officialIndices": [
     1543
    ]
   },
   {
-   "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:ga/county:crawford",
+   "name": "Clerk of Courts",
+   "divisionId": "ocd-division/country:us/state:ga/county:hall",
    "officialIndices": [
     1544
    ]
   },
   {
-   "name": "Clerk of Courts",
-   "divisionId": "ocd-division/country:us/state:ga/county:crawford",
+   "name": "Tax Commissioner",
+   "divisionId": "ocd-division/country:us/state:ga/county:hall",
    "officialIndices": [
     1545
    ]
   },
   {
-   "name": "Tax Commissioner",
-   "divisionId": "ocd-division/country:us/state:ga/county:crawford",
+   "name": "County Commission",
+   "divisionId": "ocd-division/country:us/state:ga/county:hall",
    "officialIndices": [
     1546
    ]
   },
   {
-   "name": "County Commission, District 1",
-   "divisionId": "ocd-division/country:us/state:ga/county:turner/council_district:1",
+   "name": "Superior Court Judge",
+   "divisionId": "ocd-division/country:us/state:ga/county:hall",
    "officialIndices": [
     1547
    ]
@@ -31191,12 +31191,12 @@
    "photoUrl": "http://www.perdue.senate.gov/sites/default/files/DavidPerdueOfficialHeadshot2015_small.jpg",
    "channels": [
     {
-     "type": "Facebook",
-     "id": "perduesenate"
-    },
-    {
      "type": "Twitter",
      "id": "Perduesenate"
+    },
+    {
+     "type": "Facebook",
+     "id": "perduesenate"
     }
    ]
   },
@@ -31263,16 +31263,16 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "RepLoudermilk"
+     "type": "YouTube",
+     "id": "UC2Kfw8fjca8k3w3KpzL5tNg"
     },
     {
      "type": "Facebook",
      "id": "RepLoudermilk"
     },
     {
-     "type": "YouTube",
-     "id": "UC2Kfw8fjca8k3w3KpzL5tNg"
+     "type": "Twitter",
+     "id": "RepLoudermilk"
     }
    ]
   },
@@ -31316,16 +31316,16 @@
      "id": "congressmanhice"
     },
     {
-     "type": "YouTube",
-     "id": "jodyhice"
-    },
-    {
      "type": "Facebook",
      "id": "jodyhice"
     },
     {
      "type": "YouTube",
      "id": "UCzUMsS8DusN2QLpgweFthgQ"
+    },
+    {
+     "type": "YouTube",
+     "id": "jodyhice"
     }
    ]
   },
@@ -31397,10 +31397,6 @@
      "id": "RickAllenGA"
     },
     {
-     "type": "Twitter",
-     "id": "rickallen"
-    },
-    {
      "type": "Facebook",
      "id": "RickAllenGA"
     },
@@ -31415,6 +31411,10 @@
     {
      "type": "YouTube",
      "id": "UCZPoYXHFDAV17BGLMzGAmpg"
+    },
+    {
+     "type": "Twitter",
+     "id": "rickallen"
     }
    ]
   },
@@ -31443,7 +31443,7 @@
     "(404) 656-0074"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=17&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=17&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/HarbisonEd17.jpg",
    "emails": [
@@ -31515,8 +31515,7 @@
     "(678) 432-7676"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=747&Session=23",
-    "http://www.rickjeffares.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=747&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/JeffaresRick747.jpg",
    "emails": [
@@ -31588,8 +31587,7 @@
     "(912) 526-7444"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=56&Session=23",
-    "http://tommiewilliams.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=56&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/WilliamsTommie56.jpg",
    "emails": [
@@ -31597,12 +31595,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "senatorwilliams"
-    },
-    {
      "type": "Twitter",
      "id": "SenatorTommie"
+    },
+    {
+     "type": "Facebook",
+     "id": "senatorwilliams"
     }
    ]
   },
@@ -31632,8 +31630,7 @@
     "(770) 964-8888"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=28&Session=23",
-    "http://www.senatoremanueljones.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=28&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/JonesEmanuel28.jpg",
    "emails": [
@@ -31671,7 +31668,7 @@
     "(404) 463-5259"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=209&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=209&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/SimsFreddie209.jpg",
    "emails": [
@@ -31704,7 +31701,7 @@
     "(229) 243-6267"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=841&Session=24"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=841&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/BurkeDean841.jpg",
    "emails": [
@@ -31811,17 +31808,18 @@
    "urls": [
     "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=170&amp;Session=23"
    ],
+   "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/MillarFran170.jpg",
    "emails": [
     "Fran.Millar@senate.ga.gov"
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "millar.ga"
-    },
-    {
      "type": "Twitter",
      "id": "fran_millar"
+    },
+    {
+     "type": "Facebook",
+     "id": "millar.ga"
     }
    ]
   },
@@ -31851,8 +31849,7 @@
     "(404) 243-5107"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=21&Session=23",
-    "http://stevehenson.net/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=21&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/HensonSteve21.jpg",
    "emails": [
@@ -31918,7 +31915,7 @@
     "(404) 281-9948"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=36&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=36&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/Ramsey,%20Sr.Ronald36.jpg",
    "emails": [
@@ -31957,8 +31954,7 @@
     "(678) 215-9971"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=10&Session=23",
-    "http://www.gaildavenport.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=10&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/DavenportGail10.jpg",
    "emails": [
@@ -31990,7 +31986,7 @@
     "(404) 463-1368"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=53&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=53&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/UntermanRenee53.jpg",
    "emails": [
@@ -32023,7 +32019,7 @@
     "(706) 543-7700"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=9&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=9&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/CowsertBill9.jpg",
    "emails": [
@@ -32060,6 +32056,9 @@
    "phones": [
     "(404) 656-4700",
     "(706) 680-4466"
+   ],
+   "urls": [
+    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=751&Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/GinnFrank751.jpg",
    "emails": [
@@ -32098,7 +32097,7 @@
     "(678) 989-5301"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=719&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=719&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/MillerButch719.jpg",
    "emails": [
@@ -32138,7 +32137,7 @@
     "(770) 497-1646"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=42&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=42&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/ShaferDavid42.jpg",
    "emails": [
@@ -32146,12 +32145,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "DavidShafer"
-    },
-    {
      "type": "Facebook",
      "id": "davidshafer"
+    },
+    {
+     "type": "Twitter",
+     "id": "DavidShafer"
     }
    ]
   },
@@ -32181,7 +32180,7 @@
     "(706) 375-1776"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=31&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=31&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/MullisJeff31.jpg",
    "emails": [
@@ -32220,7 +32219,7 @@
     "(706) 270-1685"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=753&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=753&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/BethelCharlie753.jpg",
    "emails": [
@@ -32258,7 +32257,7 @@
     "(404) 656-9221"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=752&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=752&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/GoochSteve752.jpg",
    "emails": [
@@ -32291,7 +32290,7 @@
     "(706) 291-6191"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=838&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=838&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/HufstetlerChuck838.jpg",
    "emails": [
@@ -32329,7 +32328,7 @@
     "(404) 656-0075"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=5&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=5&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/ButlerGloria5.jpg",
    "emails": [
@@ -32368,7 +32367,7 @@
     "(678) 667-3656"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=754&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=754&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/AlbersJohn754.jpg",
    "emails": [
@@ -32376,16 +32375,16 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "johnalbers"
+     "type": "Facebook",
+     "id": "john.albers"
     },
     {
      "type": "YouTube",
      "id": "albersforsenate"
     },
     {
-     "type": "Facebook",
-     "id": "john.albers"
+     "type": "Twitter",
+     "id": "johnalbers"
     }
    ]
   },
@@ -32415,8 +32414,7 @@
     "(706) 886-1898"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=799&Session=23",
-    "http://www.votewilkinson.com/contact.php"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=799&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/WilkinsonJohn799.jpg",
    "emails": [
@@ -32424,12 +32422,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "senjwilkinson"
-    },
-    {
      "type": "Facebook",
      "id": "247815761921124"
+    },
+    {
+     "type": "Twitter",
+     "id": "senjwilkinson"
     }
    ]
   },
@@ -32528,7 +32526,7 @@
     "(706) 863-5818"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=26&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=26&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/JacksonWilliam26.jpg",
    "emails": [
@@ -32561,8 +32559,7 @@
     "(770) 775-4880"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=805&Session=23",
-    "http://www.electburtjones.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=805&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/JonesBurt805.jpg",
    "emails": [
@@ -32595,7 +32592,7 @@
     "(478) 998-1206"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=52&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=52&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/TollesonRoss52.jpg",
    "emails": [
@@ -32634,7 +32631,7 @@
     "(678) 640-1811"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=840&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=840&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/BeachBrandon840.jpg",
    "emails": [
@@ -32642,12 +32639,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "beachforgeorgia"
-    },
-    {
      "type": "Twitter",
      "id": "beachforsenate"
+    },
+    {
+     "type": "Facebook",
+     "id": "beachforgeorgia"
     }
    ]
   },
@@ -32709,7 +32706,7 @@
     "(478) 254-7600"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=157&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=157&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/LucasDavid157.jpg",
    "emails": [
@@ -32742,7 +32739,7 @@
     "(706) 442-9130"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=749&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=749&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/McKoonJoshua749.jpg",
    "emails": [
@@ -32788,8 +32785,7 @@
     "(404) 656-6446"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=798&Session=23",
-    "http://www.mikecraneforsenate.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=798&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/CraneMike798.jpg",
    "emails": [
@@ -32828,7 +32824,7 @@
     "(404) 625-8855"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=372&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=372&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/JamesDonzella372.jpg",
    "emails": [
@@ -32867,7 +32863,7 @@
     "(404) 524-5999"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=33&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=33&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/OrrockNan33.jpg",
    "emails": [
@@ -32932,7 +32928,7 @@
     "(770) 909-9912"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=41&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=41&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/SeayValencia41.jpg",
    "emails": [
@@ -32965,8 +32961,7 @@
     "(770) 537-5234"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=20&Session=23",
-    "http://www.billheath.net/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=20&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/HeathBill20.jpg",
    "emails": [
@@ -33005,8 +33000,7 @@
     "(770) 565-0024"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=23&Session=23",
-    "http://judsonhill.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=23&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/HillJudson23.jpg",
    "emails": [
@@ -33044,7 +33038,7 @@
     "(404) 656-7454"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=839&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=839&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/DuganMike839.jpg",
    "emails": [
@@ -33074,7 +33068,7 @@
     "(404) 656-5091"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=12&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=12&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/FortVincent12.jpg",
    "emails": [
@@ -33113,8 +33107,7 @@
     "(404) 577-5609"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=47&Session=23",
-    "http://www.horacenatate.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=47&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/TateHoracena47.jpg",
    "emails": [
@@ -33153,7 +33146,7 @@
     "(770) 424-2700"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=750&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=750&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/TippinsLindsey750.jpg",
    "emails": [
@@ -33185,7 +33178,7 @@
     "(404) 656-0298"
    ],
    "urls": [
-    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=812&amp;Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=812&Session=24"
    ],
    "emails": [
     "bruce.broadrick@house.ga.gov"
@@ -33216,6 +33209,9 @@
    "party": "Republican",
    "phones": [
     "(404) 656-0213"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=732&amp;Session=23"
    ],
    "emails": [
     "tom.weldon@house.ga.gov"
@@ -33252,9 +33248,6 @@
     "(404) 656-0109",
     "(423) 605-7328"
    ],
-   "urls": [
-    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=849&Session=23"
-   ],
    "emails": [
     "steve.tarvin@house.ga.gov"
    ],
@@ -33289,6 +33282,10 @@
    "phones": [
     "(404) 656-0202"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=816&amp;Session=23"
+   ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/DeffenbaughJohn816.jpg",
    "emails": [
     "john.deffenbaugh@house.ga.gov"
    ],
@@ -33343,6 +33340,9 @@
    "phones": [
     "(404) 463-2247"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=93&amp;Session=23"
+   ],
    "emails": [
     "tom.dickson@house.ga.gov"
    ],
@@ -33378,6 +33378,9 @@
     "(404) 656-5020",
     "(706) 632-2221"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=189&amp;Session=23"
+   ],
    "emails": [
     "david.ralston@house.ga.gov"
    ],
@@ -33410,7 +33413,7 @@
     "(706) 781-3929"
    ],
    "urls": [
-    "http://voteallison.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=726&amp;Session=23"
    ],
    "emails": [
     "stephen.allison@house.ga.gov"
@@ -33451,7 +33454,7 @@
     "(404) 656-0152"
    ],
    "urls": [
-    "http://www.votekevintanner.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=836&amp;Session=23"
    ],
    "emails": [
     "kevin.tanner@house.ga.gov"
@@ -33489,7 +33492,7 @@
     "(912) 541-0243"
    ],
    "urls": [
-    "http://spencer4ga.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=789&amp;Session=23"
    ],
    "emails": [
     "jason.spencer@house.ga.gov"
@@ -33572,8 +33575,7 @@
     "(912) 261-2263"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=746&Session=23",
-    "http://www.senatorligon.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=746&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/Ligon,%20Jr.William746.jpg",
    "emails": [
@@ -33714,8 +33716,7 @@
     "(770) 696-4777"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=50&Session=23",
-    "http://www.makingyourvoicecount.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=50&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/ThompsonCurt50.jpg",
    "emails": [
@@ -33762,8 +33763,7 @@
     "(912) 557-3811"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=22&Session=23",
-    "http://www.senatorjackhill.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=22&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/HillJack22.jpg",
    "emails": [
@@ -33802,8 +33802,7 @@
     "(229) 425-4840"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=804&Session=23",
-    "http://www.harperforgeorgia.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=804&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/HarperTyler804.jpg",
    "emails": [
@@ -33846,7 +33845,7 @@
     "(404) 414-1891"
    ],
    "urls": [
-    "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=803&Session=23"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=803&amp;Session=23"
    ],
    "photoUrl": "http://www.senate.ga.gov/SiteCollectionImages/HillHunter803.jpg",
    "emails": [
@@ -33888,7 +33887,7 @@
     "(404) 656-0152"
    ],
    "urls": [
-    "http://www.caldwellforhouse.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=814&amp;Session=23"
    ],
    "emails": [
     "michael.caldwell@house.ga.gov"
@@ -33926,7 +33925,7 @@
     "(770) 844-6768"
    ],
    "urls": [
-    "http://www.votehamilton.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=116&amp;Session=23"
    ],
    "emails": [
     "mark.hamilton@house.ga.gov"
@@ -33965,6 +33964,9 @@
    "party": "Republican",
    "phones": [
     "(404) 656-0254"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=808&amp;Session=23"
    ],
    "emails": [
     "mandi.ballinger@house.ga.gov"
@@ -34034,6 +34036,9 @@
    "phones": [
     "(404) 656-0152"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=842&amp;Session=23"
+   ],
    "emails": [
     "scot.turner@house.ga.gov"
    ],
@@ -34070,7 +34075,7 @@
     "(706) 654-6348"
    ],
    "urls": [
-    "http://www.votegasaway.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=820&amp;Session=23"
    ],
    "emails": [
     "dan.gasaway@house.ga.gov"
@@ -34105,6 +34110,9 @@
    "party": "Republican",
    "phones": [
     "(404) 656-0213"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=19&amp;Session=23"
    ],
    "emails": [
     "lee.hawkins@house.ga.gov"
@@ -34141,7 +34149,7 @@
     "(404) 656-0189"
    ],
    "urls": [
-    "http://www.duncanforgeorgia.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=818&amp;Session=23"
    ],
    "emails": [
     "geoff.duncan@house.ga.gov"
@@ -34179,7 +34187,7 @@
     "(770) 490-7983"
    ],
    "urls": [
-    "http://www.votedudgeon.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=759&amp;Session=23"
    ],
    "emails": [
     "mike.dudgeon@house.ga.gov"
@@ -34217,6 +34225,9 @@
     "(770) 308-2381",
     "(770) 535-0994"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=196&amp;Session=23"
+   ],
    "emails": [
     "carl.rogers@house.ga.gov"
    ],
@@ -34253,7 +34264,7 @@
     "(770) 893-2039"
    ],
    "urls": [
-    "http://www.rickjasperse.org/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=755&amp;Session=23"
    ],
    "emails": [
     "rick.jasperse@house.ga.gov"
@@ -34264,11 +34275,11 @@
      "id": "118403351565407"
     },
     {
-     "type": "Twitter",
+     "type": "YouTube",
      "id": "rickjasperse"
     },
     {
-     "type": "YouTube",
+     "type": "Twitter",
      "id": "rickjasperse"
     }
    ]
@@ -34295,7 +34306,7 @@
     "(706) 754-0706"
    ],
    "urls": [
-    "http://voteterryrogers.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=796&amp;Session=23"
    ],
    "emails": [
     "terry.rogers@house.ga.gov"
@@ -34331,6 +34342,9 @@
    "phones": [
     "(404) 463-2247"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=92&amp;Session=23"
+   ],
    "emails": [
     "katie.dempsey@house.ga.gov"
    ],
@@ -34365,6 +34379,7 @@
    "phones": [
     "(404) 656-0325"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/LumsdenEddie826.jpg",
    "emails": [
     "eddie.lumsden@house.ga.gov"
    ],
@@ -34434,6 +34449,10 @@
     "(404) 651-7737",
     "(770) 383-9171"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=756&amp;Session=23"
+   ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/CoomerChristian756.jpg",
    "emails": [
     "christian.coomer@house.ga.gov"
    ],
@@ -34464,6 +34483,9 @@
    "phones": [
     "(404) 656-5143",
     "(770) 386-5420"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=165&amp;Session=23"
    ],
    "emails": [
     "howard.maxwell@house.ga.gov"
@@ -34500,7 +34522,7 @@
     "(404) 657-1803"
    ],
    "urls": [
-    "http://www.kelleyforhouse.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=825&amp;Session=23"
    ],
    "emails": [
     "trey.kelley@house.ga.gov"
@@ -34538,7 +34560,7 @@
     "(770) 439-9056"
    ],
    "urls": [
-    "http://paulettehouserep.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=758&amp;Session=23"
    ],
    "emails": [
     "paulette.braddock@house.ga.gov"
@@ -34571,7 +34593,7 @@
     "(404) 656-0188"
    ],
    "urls": [
-    "http://kevincooke.org/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=757&amp;Session=23"
    ],
    "emails": [
     "kevin.cooke@house.ga.gov"
@@ -34609,7 +34631,7 @@
     "(404) 575-2785"
    ],
    "urls": [
-    "http://www.votejohncarson.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=795&amp;Session=23"
    ],
    "emails": [
     "john.carson@house.ga.gov"
@@ -34642,7 +34664,7 @@
     "(404) 657-8441"
    ],
    "urls": [
-    "http://mattdollar.us/index.html"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=94&amp;Session=23"
    ],
    "emails": [
     "matt.dollar@house.ga.gov"
@@ -34674,7 +34696,7 @@
     "(770) 977-4426"
    ],
    "urls": [
-    "http://www.donparsons.org/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=184&amp;Session=23"
    ],
    "emails": [
     "repdon@donparsons.org"
@@ -34716,7 +34738,7 @@
     "(770) 956-8357"
    ],
    "urls": [
-    "http://www.sharoncooper.org/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=86&amp;Session=23"
    ],
    "emails": [
     "sharon.cooper@house.ga.gov"
@@ -34758,7 +34780,7 @@
     "(770) 710-4087"
    ],
    "urls": [
-    "http://www.staceyevans.org/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=762&amp;Session=23"
    ],
    "emails": [
     "stacey@staceyevans.org"
@@ -34769,11 +34791,11 @@
      "id": "189386167739699"
     },
     {
-     "type": "YouTube",
+     "type": "Twitter",
      "id": "staceyevanshd40"
     },
     {
-     "type": "Twitter",
+     "type": "YouTube",
      "id": "staceyevanshd40"
     }
    ]
@@ -34802,6 +34824,9 @@
    "phones": [
     "(404) 656-0265",
     "(404) 652-9227"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=832&amp;Session=23"
    ],
    "emails": [
     "michael.smith@house.ga.gov"
@@ -34838,6 +34863,9 @@
     "(404) 651-5943",
     "(770) 319-7200"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=112&amp;Session=23"
+   ],
    "emails": [
     "rich.golick@house.ga.gov"
    ],
@@ -34873,7 +34901,7 @@
     "(404) 656-5064"
    ],
    "urls": [
-    "http://www.martinforga.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=164&amp;Session=23"
    ],
    "emails": [
     "chuck@martinforgeorgia.com"
@@ -34912,8 +34940,9 @@
     "(770) 993-4264"
    ],
    "urls": [
-    "http://harrygeisinger.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=110&amp;Session=23"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/GeisingerHarry110.jpg",
    "emails": [
     "harry.geisinger@house.ga.gov"
    ],
@@ -34949,8 +34978,9 @@
     "(404) 656-5072"
    ],
    "urls": [
-    "http://www.janjonesforgeorgia.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=142&amp;Session=23"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/JonesJan142.jpg",
    "emails": [
     "jan.jones@house.ga.gov"
    ],
@@ -34985,6 +35015,9 @@
    "phones": [
     "(404) 656-5099",
     "(706) 283-5436"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=167&amp;Session=23"
    ],
    "emails": [
     "tommccall@bellsouth.net"
@@ -35023,7 +35056,7 @@
     "(706) 376-4422"
    ],
    "urls": [
-    "http://www.alanpowell.net/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=187&amp;Session=23"
    ],
    "emails": [
     "alanpowell23@hotmail.com"
@@ -35059,6 +35092,9 @@
    "phones": [
     "(404) 656-7857",
     "(404) 630-8452"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=203&amp;Session=23"
    ],
    "emails": [
     "ed.setzler@house.ga.gov"
@@ -35131,7 +35167,7 @@
     "(706) 367-5891"
    ],
    "urls": [
-    "http://www.tommybenton.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=65&amp;Session=23"
    ],
    "emails": [
     "tommy.benton@house.ga.gov"
@@ -35166,6 +35202,9 @@
    "party": "Republican",
    "phones": [
     "(404) 656-0152"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=797&amp;Session=23"
    ],
    "emails": [
     "emory.dunahoo@house.ga.gov"
@@ -35206,6 +35245,9 @@
     "(404) 656-5146",
     "(678) 453-8683"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=761&amp;Session=23"
+   ],
    "emails": [
     "sam.teasley@house.ga.gov"
    ],
@@ -35245,7 +35287,6 @@
    "urls": [
     "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=97&amp;Session=23"
    ],
-   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/EhrhartEarl97.jpg",
    "emails": [
     "earl@ehrhart.4emm.com"
    ],
@@ -35417,6 +35458,9 @@
    "phones": [
     "(404) 656-7859"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=807&amp;Session=23"
+   ],
    "emails": [
     "tonya.anderson@house.ga.gov"
    ],
@@ -35454,7 +35498,7 @@
     "(678) 323-7887"
    ],
    "urls": [
-    "http://www.kendrickforgeorgia.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=770&amp;Session=23"
    ],
    "emails": [
     "dkendrick@kendrickforgeorgia.com"
@@ -35490,6 +35534,9 @@
    "phones": [
     "(404) 656-0126",
     "(404) 243-0200"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=220&amp;Session=23"
    ],
    "emails": [
     "pam.stephenson@house.ga.gov"
@@ -35532,8 +35579,9 @@
     "(404) 788-9875"
    ],
    "urls": [
-    "http://www.deeforgeorgia.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=236&amp;Session=23"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/Dawkins-HaiglerDee236.jpg",
    "emails": [
     "dee.dawkins-haigler@house.ga.gov"
    ],
@@ -35575,7 +35623,7 @@
     "(404) 202-8212"
    ],
    "urls": [
-    "http://www.hughfloyd.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=102&amp;Session=23"
    ],
    "emails": [
     "hughfloyd@mindspring.com"
@@ -35647,7 +35695,7 @@
     "(770) 476-4471"
    ],
    "urls": [
-    "http://www.votebrookscoleman.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=84&amp;Session=23"
    ],
    "emails": [
     "brooks.coleman@house.ga.gov"
@@ -35685,7 +35733,7 @@
     "(770) 416-8465"
    ],
    "urls": [
-    "http://marinstatehouse.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=163&amp;Session=23"
    ],
    "emails": [
     "marinstatehouse@aol.com"
@@ -35723,7 +35771,7 @@
     "(770) 447-9646"
    ],
    "urls": [
-    "http://tomrice.qualitycampus4.com/Tom_Rice/Welcome.html"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=194&amp;Session=23"
    ],
    "emails": [
     "tqgrice@aol.com"
@@ -35762,7 +35810,6 @@
    "urls": [
     "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=810&amp;Session=23"
    ],
-   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/BennettKaren810.jpg",
    "emails": [
     "karen.bennett@house.ga.gov"
    ],
@@ -35802,7 +35849,7 @@
     "(404) 656-0177"
    ],
    "urls": [
-    "http://votestover.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=843&amp;Session=23"
    ],
    "emails": [
     "david.stover@house.ga.gov"
@@ -35828,6 +35875,9 @@
    "party": "Republican",
    "phones": [
     "(404) 656-7149"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=212&amp;Session=23"
    ],
    "emails": [
     "lynn.smith@house.ga.gov"
@@ -35865,7 +35915,7 @@
     "(678) 632-2825"
    ],
    "urls": [
-    "http://gostovall.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=834&amp;Session=23"
    ],
    "emails": [
     "valencia.stovall@house.ga.gov"
@@ -35903,7 +35953,7 @@
     "(678) 479-7730"
    ],
    "urls": [
-    "http://www.mikeglanton.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=111&amp;Session=23"
    ],
    "emails": [
     "mike.glanton@house.ga.gov"
@@ -35940,7 +35990,7 @@
     "(404) 656-5024"
    ],
    "urls": [
-    "http://www.mattramsey.org/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=190&amp;Session=23"
    ],
    "emails": [
     "matt.ramsey@house.ga.gov"
@@ -35981,6 +36031,9 @@
     "(404) 656-5126",
     "(770) 227-1474"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=235&amp;Session=23"
+   ],
    "emails": [
     "john.yates@house.ga.gov"
    ],
@@ -36019,6 +36072,9 @@
    "phones": [
     "(404) 656-7859"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=817&amp;Session=23"
+   ],
    "emails": [
     "demetrius.douglas@house.ga.gov"
    ],
@@ -36049,6 +36105,9 @@
    "phones": [
     "(404) 656-0152"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=767&amp;Session=23"
+   ],
    "emails": [
     "tom.taylor@house.ga.gov"
    ],
@@ -36078,6 +36137,9 @@
    "party": "Democratic",
    "phones": [
     "(404) 656-0314"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=766&amp;Session=23"
    ],
    "emails": [
     "sandra.scott@house.ga.gov"
@@ -36141,6 +36203,9 @@
    "phones": [
     "(404) 656-5116",
     "(404) 590-7377"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=135&amp;Session=23"
    ],
    "emails": [
     "repjacobs@gmail.com"
@@ -36211,19 +36276,19 @@
     "(404) 387-0373"
    ],
    "urls": [
-    "http://repscottholcomb.com/home/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=769&amp;Session=23"
    ],
    "emails": [
     "scott.holcomb@house.ga.gov"
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "groups"
-    },
-    {
      "type": "Twitter",
      "id": "repscottholcomb"
+    },
+    {
+     "type": "Facebook",
+     "id": "groups"
     }
    ]
   },
@@ -36251,6 +36316,10 @@
    "phones": [
     "(404) 656-0287"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=175&Session=24"
+   ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/MosbyHoward175.jpg",
    "emails": [
     "howard.mosby@house.ga.gov"
    ],
@@ -36287,7 +36356,7 @@
     "(770) 314-1207"
    ],
    "urls": [
-    "http://rahnmayo.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=730&amp;Session=23"
    ],
    "emails": [
     "rahnmayo@gmail.com"
@@ -36318,7 +36387,7 @@
     "(404) 656-0202"
    ],
    "urls": [
-    "http://www.karladrenner.org/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=95&amp;Session=23"
    ],
    "emails": [
     "dren16999@aol.com"
@@ -36329,12 +36398,12 @@
      "id": "97613544152"
     },
     {
-     "type": "YouTube",
-     "id": "KarlaDrenner"
-    },
-    {
      "type": "Twitter",
      "id": "karladrenner"
+    },
+    {
+     "type": "YouTube",
+     "id": "KarlaDrenner"
     }
    ]
   },
@@ -36364,7 +36433,7 @@
     "(404) 296-1442"
    ],
    "urls": [
-    "http://www.repmichelehenson86.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=124&amp;Session=23"
    ],
    "emails": [
     "michele.henson@house.ga.gov"
@@ -36400,6 +36469,10 @@
    "phones": [
     "(404) 656-0202"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=231&amp;Session=23"
+   ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/WilliamsEarnest231.jpg",
    "emails": [
     "earnest.williams@house.ga.gov"
    ],
@@ -36434,6 +36507,9 @@
    "phones": [
     "(404) 656-0126",
     "(770) 465-8800"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=172&amp;Session=23"
    ],
    "emails": [
     "billy.mitchell@house.ga.gov"
@@ -36510,7 +36586,7 @@
     "(404) 692-3410"
    ],
    "urls": [
-    "http://www.ablemable.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=224&amp;Session=23"
    ],
    "emails": [
     "mable.thomas@house.ga.gov"
@@ -36553,8 +36629,7 @@
     "(678) 362-6599"
    ],
    "urls": [
-    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=109&Session=24",
-    "http://pat-gardner.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=109&amp;Session=23"
    ],
    "emails": [
     "pat@patgardner.org"
@@ -36590,6 +36665,9 @@
    "phones": [
     "(404) 656-0177",
     "(404) 264-1500"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=154&Session=23"
    ],
    "emails": [
     "edward.lindsey@house.ga.gov",
@@ -36655,7 +36733,6 @@
    "urls": [
     "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=228&amp;Session=23"
    ],
-   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/WilkinsonJoe228.jpg",
    "emails": [
     "joe@joewilkinson.org"
    ],
@@ -36683,7 +36760,7 @@
     "(404) 656-0126"
    ],
    "urls": [
-    "http://www.sheilajones.org/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=143&amp;Session=23"
    ],
    "emails": [
     "sheila.jones@house.ga.gov"
@@ -36759,6 +36836,9 @@
     "(770) 481-7100",
     "(770) 392-0676"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=229&amp;Session=23"
+   ],
    "emails": [
     "wendell.willard@house.ga.gov"
    ],
@@ -36790,7 +36870,7 @@
     "(404) 656-0325"
    ],
    "urls": [
-    "http://www.simonebell.org/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=735&amp;Session=23"
    ],
    "emails": [
     "simone.bell@house.ga.gov"
@@ -36827,7 +36907,7 @@
     "(404) 656-0265"
    ],
    "urls": [
-    "http://margaretkaiser.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=145&amp;Session=23"
    ],
    "emails": [
     "margaret.kaiser@house.ga.gov"
@@ -36862,6 +36942,9 @@
    "party": "Democratic",
    "phones": [
     "(404) 656-0220"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=801&amp;Session=23"
    ],
    "emails": [
     "keisha.waites@house.ga.gov"
@@ -36901,6 +36984,9 @@
    "phones": [
     "(404) 656-0221"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=63&amp;Session=23"
+   ],
    "emails": [
     "sharon.beasley-teague@house.ga.gov"
    ],
@@ -36934,6 +37020,9 @@
    "party": "Democratic",
    "phones": [
     "(404) 656-7859"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=806&amp;Session=23"
    ],
    "emails": [
     "kimberly.alexander@house.ga.gov"
@@ -36972,6 +37061,7 @@
    "urls": [
     "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=821&amp;Session=23"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/GravleyMicah821.jpg",
    "emails": [
     "micah.gravley@house.ga.gov"
    ],
@@ -37006,6 +37096,9 @@
    "phones": [
     "(404) 657-1803",
     "(404) 285-1445"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=800&amp;Session=23"
    ],
    "emails": [
     "dustin.hightower@house.ga.gov"
@@ -37043,7 +37136,7 @@
     "(404) 344-8051"
    ],
    "urls": [
-    "http://www.rogerbruce.net/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=69&amp;Session=23"
    ],
    "emails": [
     "rbruce5347@aol.com"
@@ -37079,6 +37172,9 @@
    "phones": [
     "(404) 656-7859",
     "(404) 343-6770"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=824&amp;Session=23"
    ],
    "emails": [
     "ladawn.jones@house.ga.gov"
@@ -37156,8 +37252,9 @@
     "(770) 683-8711"
    ],
    "urls": [
-    "http://www.virgilfludd.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=104&amp;Session=23"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/FluddVirgil104.jpg",
    "emails": [
     "vfludd@mindspring.com"
    ],
@@ -37198,7 +37295,7 @@
     "(706) 845-9853"
    ],
    "urls": [
-    "http://www.randynix.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=179&amp;Session=23"
    ],
    "emails": [
     "randy.nix@house.ga.gov"
@@ -37234,6 +37331,9 @@
    "phones": [
     "(404) 656-0265",
     "(706) 560-9709"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=107&amp;Session=23"
    ],
    "emails": [
     "frazier26@comcast.net"
@@ -37306,7 +37406,7 @@
     "(478) 232-9684"
    ],
    "urls": [
-    "http://repmackjackson.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=738&amp;Session=23"
    ],
    "emails": [
     "mack.jackson@house.ga.gov"
@@ -37343,8 +37443,9 @@
     "(404) 656-0178"
    ],
    "urls": [
-    "http://representativesusanholmes.wordpress.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=780&amp;Session=23"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/HolmesSusan780.jpg",
    "emails": [
     "sdholmes@bellsouth.net"
    ],
@@ -37450,7 +37551,7 @@
     "(706) 647-9223"
    ],
    "urls": [
-    "http://www.johnnielcaldwelljr.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=813&amp;Session=23"
    ],
    "emails": [
     "johnnie.caldwell@house.ga.gov"
@@ -37488,6 +37589,7 @@
     "(706) 324-0197",
     "(706) 442-3480"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/SmithRichard213.jpg",
    "emails": [
     "richard.smith@house.ga.gov"
    ],
@@ -37523,19 +37625,19 @@
     "(404) 656-0188"
    ],
    "urls": [
-    "http://www.johnpezold.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=828&amp;Session=23"
    ],
    "emails": [
     "john.pezold@house.ga.gov"
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "johnpezold"
-    },
-    {
      "type": "Facebook",
      "id": "Pezold133"
+    },
+    {
+     "type": "Twitter",
+     "id": "johnpezold"
     }
    ]
   },
@@ -37565,7 +37667,7 @@
     "(706) 687-4327"
    ],
    "urls": [
-    "http://repcarolynhugley.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=133&amp;Session=23"
    ],
    "emails": [
     "carolyn.hugley@house.ga.gov"
@@ -37602,6 +37704,9 @@
     "(404) 656-0116",
     "(706) 649-2243"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=216&amp;Session=23"
+   ],
    "emails": [
     "calvinsmyre@synovus.com"
    ],
@@ -37637,8 +37742,9 @@
     "(404) 656-0220"
    ],
    "urls": [
-    "http://www.quickforhouse.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=829&amp;Session=23"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/QuickRegina829.jpg",
    "emails": [
     "regina.quick@house.ga.gov"
    ],
@@ -37674,9 +37780,9 @@
     "(404) 656-0265"
    ],
    "urls": [
-    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=819&Session=24",
-    "http://www.spencerfrye.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=819&amp;Session=23"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/FryeSpencer819.jpg",
    "emails": [
     "spencer.frye@house.ga.gov"
    ],
@@ -37716,9 +37822,6 @@
     "(404) 656-0152",
     "(770) 267-2566"
    ],
-   "urls": [
-    "http://williamsonforgeorgia.com/"
-   ],
    "emails": [
     "bruce.williamson@house.ga.gov"
    ],
@@ -37756,7 +37859,7 @@
     "(770) 867-8096"
    ],
    "urls": [
-    "http://terryenglandforgeorgia.org/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=98&amp;Session=23"
    ],
    "emails": [
     "englandhomeport2@windstream.net"
@@ -37793,7 +37896,7 @@
     "(404) 656-0254"
    ],
    "urls": [
-    "http://www.votechuckwilliams.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=792&amp;Session=23"
    ],
    "emails": [
     "chuck.williams@house.ga.gov"
@@ -37831,7 +37934,7 @@
     "(706) 434-8770 ext. 201"
    ],
    "urls": [
-    "http://www.barryfleming.org/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=101&amp;Session=23"
    ],
    "emails": [
     "barry.fleming@house.ga.gov"
@@ -37846,6 +37949,9 @@
   {
    "name": "Mickey Channell",
    "party": "Republican",
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=80&amp;Session=23"
+   ],
    "emails": [
     "mickey.channell@house.ga.gov"
    ],
@@ -37882,8 +37988,9 @@
     "(706) 832-4690"
    ],
    "urls": [
-    "http://repearnestsmith.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=731&amp;Session=23"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/SmithEarnest731.jpg",
    "emails": [
     "earnest.smith@house.ga.gov"
    ],
@@ -37920,7 +38027,7 @@
     "(706) 722-1123"
    ],
    "urls": [
-    "http://gadistrict121.com/main/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=131&amp;Session=23"
    ],
    "emails": [
     "wayne.howard@house.ga.gov"
@@ -37956,6 +38063,9 @@
    "phones": [
     "(404) 656-7857"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=207&amp;Session=23"
+   ],
    "emails": [
     "barbara.sims@house.ga.gov"
    ],
@@ -37990,6 +38100,9 @@
    "phones": [
     "(404) 656-3949",
     "(706) 869-1953"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=118&amp;Session=23"
    ],
    "emails": [
     "ben.harbin@house.ga.gov"
@@ -38027,7 +38140,7 @@
     "(678) 637-2654"
    ],
    "urls": [
-    "http://www.bjpak.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=774&amp;Session=23"
    ],
    "emails": [
     "votebjpak@gmail.com"
@@ -38064,7 +38177,7 @@
     "(404) 656-0109"
    ],
    "urls": [
-    "http://www.votedale.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=830&amp;Session=23"
    ],
    "emails": [
     "dale.rutledge@house.ga.gov"
@@ -38102,7 +38215,7 @@
     "(404) 932-2030"
    ],
    "urls": [
-    "http://chuckforhouse.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=846&Session=23"
    ],
    "emails": [
     "chuck.efstration@house.ga.gov"
@@ -38139,7 +38252,7 @@
     "(404) 656-0254"
    ],
    "urls": [
-    "http://chandlerforhouse.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=815&amp;Session=23"
    ],
    "emails": [
     "joyce.chandler@house.ga.gov"
@@ -38173,7 +38286,7 @@
     "(404) 966-5804"
    ],
    "urls": [
-    "http://www.voteharrell.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=776&amp;Session=23"
    ],
    "emails": [
     "brett@voteharrell.com"
@@ -38215,7 +38328,7 @@
     "(770) 931-8033"
    ],
    "urls": [
-    "http://votecasas.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=78&amp;Session=23"
    ],
    "emails": [
     "david.casas@house.ga.gov"
@@ -38293,8 +38406,9 @@
     "(404) 656-0109"
    ],
    "urls": [
-    "http://votebrianstrickland.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=835&amp;Session=23"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/StricklandBrian835.jpg",
    "emails": [
     "brian.strickland@house.ga.gov"
    ],
@@ -38330,7 +38444,7 @@
     "(404) 656-0177"
    ],
    "urls": [
-    "http://kirbyforgeorgia.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=802&amp;Session=23"
    ],
    "emails": [
     "tom.kirby@house.ga.gov"
@@ -38369,7 +38483,7 @@
     "(770) 602-0085"
    ],
    "urls": [
-    "http://pamforthepeople.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=771&amp;Session=23"
    ],
    "emails": [
     "pam.dickerson@house.ga.gov"
@@ -38401,7 +38515,7 @@
     "(770) 957-3937"
    ],
    "urls": [
-    "http://andywelchforhouse.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=777&amp;Session=23"
    ],
    "emails": [
     "awelch@swblawfirm.com"
@@ -38434,7 +38548,7 @@
     "(404) 656-0325"
    ],
    "urls": [
-    "http://votetimothybarr.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=809&amp;Session=23"
    ],
    "emails": [
     "timothy.barr@house.ga.gov"
@@ -38467,7 +38581,7 @@
     "(404) 656-0254"
    ],
    "urls": [
-    "http://www.vote4buzz.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=773&amp;Session=23"
    ],
    "emails": [
     "buzz.brockway@house.ga.gov"
@@ -38509,7 +38623,7 @@
     "(770) 314-0456"
    ],
    "urls": [
-    "http://www.valerieforgahouse.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=775&amp;Session=23"
    ],
    "emails": [
     "vclark123@charter.net"
@@ -38582,7 +38696,7 @@
     "(229) 225-9943"
    ],
    "urls": [
-    "http://www.darleneforgeorgia.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=786&amp;Session=23"
    ],
    "emails": [
     "darlene.taylor@house.ga.gov"
@@ -38613,6 +38727,7 @@
     "(404) 656-0287"
    ],
    "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=859&Session=24",
     "http://www.electjohncorbett.com/"
    ],
    "emails": [
@@ -38651,7 +38766,7 @@
     "(229) 245-1092"
    ],
    "urls": [
-    "http://www.amyforgeorgia.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=76&amp;Session=23"
    ],
    "emails": [
     "amy.carter@house.ga.gov"
@@ -38725,6 +38840,9 @@
    "phones": [
     "(404) 656-0126"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=831&amp;Session=23"
+   ],
    "emails": [
     "dexter.sharper@house.ga.gov"
    ],
@@ -38760,6 +38878,9 @@
     "(404) 651-7737",
     "(912) 807-6190"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=790&amp;Session=23"
+   ],
    "emails": [
     "chad.nimmer@house.ga.gov"
    ],
@@ -38792,7 +38913,7 @@
     "(912) 265-5515"
    ],
    "urls": [
-    "http://www.alexatwoodstaterep.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=788&amp;Session=23"
    ],
    "emails": [
     "alex.atwood@house.ga.gov"
@@ -38823,6 +38944,9 @@
    "party": "Republican",
    "phones": [
     "(404) 463-2247"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=130&amp;Session=23"
    ],
    "emails": [
     "penny.houston@house.ga.gov"
@@ -38893,8 +39017,9 @@
     "(404) 656-0213"
    ],
    "urls": [
-    "http://www.votesamwatson.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=837&amp;Session=23"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/WatsonSam837.jpg",
    "emails": [
     "sam.watson@house.ga.gov"
    ],
@@ -38934,6 +39059,9 @@
     "(404) 656-5099",
     "(912) 754-3439"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=73&amp;Session=23"
+   ],
    "emails": [
     "jon.burns@house.ga.gov"
    ],
@@ -38968,6 +39096,9 @@
    "phones": [
     "(404) 656-5115",
     "(912) 596-1998"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=219&amp;Session=23"
    ],
    "emails": [
     "quickrxdrugs@yahoo.com"
@@ -39082,7 +39213,7 @@
     "(912) 231-8958"
    ],
    "urls": [
-    "http://www.votejcraig.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=113&amp;Session=23"
    ],
    "emails": [
     "jcraig.gordon@house.ga.gov"
@@ -39123,7 +39254,6 @@
    "urls": [
     "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=230&amp;Session=23"
    ],
-   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/WilliamsAl230.jpg",
    "emails": [
     "al.williams@house.ga.gov"
    ],
@@ -39197,7 +39327,6 @@
    "urls": [
     "http://www.jessepetrea.com/Jesse_Petrea.html"
    ],
-   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/PetreaJesse862.jpg",
    "emails": [
     "jesse.petrea@house.ga.gov"
    ],
@@ -39271,6 +39400,9 @@
     "(404) 656-7855",
     "(912) 842-5512"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=783&amp;Session=23"
+   ],
    "emails": [
     "jan.tankersley@house.ga.gov"
    ],
@@ -39309,6 +39441,9 @@
    "phones": [
     "(404) 656-0178"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=823&amp;Session=23"
+   ],
    "emails": [
     "bill.hitchens@house.ga.gov"
    ],
@@ -39345,7 +39480,7 @@
     "(478) 374-4316"
    ],
    "urls": [
-    "http://www.jimmypruett.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=188&amp;Session=23"
    ],
    "emails": [
     "jimmy.pruett@house.ga.gov"
@@ -39384,7 +39519,7 @@
     "(404) 909-5767"
    ],
    "urls": [
-    "http://buddyharden.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=724&amp;Session=23"
    ],
    "emails": [
     "bharden@planttel.net"
@@ -39422,7 +39557,7 @@
     "(229) 468-5404"
    ],
    "urls": [
-    "http://jayrobertsforgeorgia.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=195&amp;Session=23"
    ],
    "emails": [
     "jay.roberts@house.ga.gov"
@@ -39458,6 +39593,9 @@
    "phones": [
     "(404) 656-5115",
     "(912) 293-0725"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=174&amp;Session=23"
    ],
    "emails": [
     "greg.morris@house.ga.gov"
@@ -39529,6 +39667,9 @@
     "(404) 463-2247",
     "(478) 237-3838"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=183&amp;Session=23"
+   ],
    "emails": [
     "butch.parrish@house.ga.gov"
    ],
@@ -39563,6 +39704,9 @@
    "phones": [
     "(404) 656-0202",
     "(229) 732-2750"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=115&amp;Session=23"
    ],
    "emails": [
     "gerald.greene@house.ga.gov"
@@ -39599,6 +39743,9 @@
     "(404) 463-6108",
     "(229) 436-7455",
     "(229) 894-8386"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=198&amp;Session=23"
    ],
    "emails": [
     "erynders@bellsouth.net"
@@ -39671,8 +39818,9 @@
     "(229) 883-8537"
    ],
    "urls": [
-    "http://www.representativewinfreddukes.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=96&amp;Session=23"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/DukesWinfred96.jpg",
    "emails": [
     "wdukes_2000@yahoo.com"
    ],
@@ -39709,7 +39857,7 @@
     "(478) 274-1834"
    ],
    "urls": [
-    "http://www.votehatchett.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=781&amp;Session=23"
    ],
    "emails": [
     "matt.hatchett@house.ga.gov"
@@ -39744,6 +39892,9 @@
    "party": "Democratic",
    "phones": [
     "(404) 656-0287"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=811&amp;Session=23"
    ],
    "emails": [
     "patty.bentley@house.ga.gov"
@@ -39781,6 +39932,9 @@
     "(229) 924-7823",
     "(229) 928-2507"
    ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=81&amp;Session=23"
+   ],
    "emails": [
     "mike.cheokas@house.ga.gov"
    ],
@@ -39817,7 +39971,7 @@
     "(706) 269-3630"
    ],
    "urls": [
-    "http://www.debbiebuckner.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=71&amp;Session=23"
    ],
    "emails": [
     "debbie.buckner@house.ga.gov"
@@ -39832,6 +39986,9 @@
   {
    "name": "Larry O`Neal",
    "party": "Republican",
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=180&amp;Session=23"
+   ],
    "emails": [
     "larry.oneal@house.ga.gov"
    ],
@@ -39870,6 +40027,7 @@
    "urls": [
     "http://www.heathclark2014.com/"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/ClarkHeath858.jpg",
    "emails": [
     "heath.clark@house.ga.gov"
    ],
@@ -39905,6 +40063,9 @@
     "(404) 656-0298",
     "(478) 743-9901",
     "(478) 743-1398"
+   ],
+   "urls": [
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=733&amp;Session=23"
    ],
    "emails": [
     "bubberepps@gmail.com"
@@ -39942,7 +40103,7 @@
     "(478) 452-1354"
    ],
    "urls": [
-    "http://www.rustykidd.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=742&amp;Session=23"
    ],
    "emails": [
     "rusty.kidd@house.ga.gov"
@@ -39980,7 +40141,7 @@
     "(478) 978-5885"
    ],
    "urls": [
-    "http://www.randallforgahouse.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=191&amp;Session=23"
    ],
    "emails": [
     "nikki.randall@house.ga.gov"
@@ -40018,7 +40179,7 @@
     "(478) 803-0001"
    ],
    "urls": [
-    "http://www.votejamesbeverly.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=793&amp;Session=23"
    ],
    "emails": [
     "james.beverly@house.ga.gov"
@@ -40051,8 +40212,9 @@
     "(478) 836-3136"
    ],
    "urls": [
-    "http://www.voterobertdickey.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=791&amp;Session=23"
    ],
+   "photoUrl": "http://www.house.ga.gov/SiteCollectionImages/DickeyRobert791.jpg",
    "emails": [
     "robert.dickey@house.ga.gov"
    ],
@@ -40089,7 +40251,7 @@
     "(478) 474-5633 ext. 12"
    ],
    "urls": [
-    "http://www.allenpeake.com/"
+    "http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=185&amp;Session=23"
    ],
    "emails": [
     "allen.peake@house.ga.gov"
@@ -40100,18 +40262,14 @@
      "id": "66882167999"
     },
     {
-     "type": "YouTube",
-     "id": "rmsceo"
-    },
-    {
      "type": "Twitter",
      "id": "AllenPeake"
+    },
+    {
+     "type": "YouTube",
+     "id": "rmsceo"
     }
    ]
-  },
-  {
-   "name": "Ken Chapman",
-   "party": "Unknown"
   },
   {
    "name": "Steve Newton",
@@ -40127,6 +40285,10 @@
   },
   {
    "name": "Martha Kinsey",
+   "party": "Unknown"
+  },
+  {
+   "name": "Ken Chapman",
    "party": "Unknown"
   },
   {
@@ -40215,10 +40377,6 @@
    "party": "Unknown"
   },
   {
-   "name": "Sher'Londa Walker",
-   "party": "Unknown"
-  },
-  {
    "name": "Lonzy Edwards",
    "address": [
     {
@@ -40235,6 +40393,10 @@
    "emails": [
     "ledwards@co.bibb.ga.us"
    ]
+  },
+  {
+   "name": "Sher'Londa Walker",
+   "party": "Unknown"
   },
   {
    "name": "Franklin Holmes",
@@ -41446,6 +41608,13 @@
    ]
   },
   {
+   "name": "Jamie Bennett",
+   "party": "Unknown",
+   "urls": [
+    "http://haralson.org/index.php?page=elected-officials"
+   ]
+  },
+  {
    "name": "Elizabeth Hausmann",
    "party": "Unknown",
    "phones": [
@@ -41459,7 +41628,7 @@
    ]
   },
   {
-   "name": "Jamie Bennett",
+   "name": "Kenneth Smith",
    "party": "Unknown",
    "urls": [
     "http://haralson.org/index.php?page=elected-officials"
@@ -41504,13 +41673,6 @@
    ],
    "emails": [
     "tom.lowe@fultoncountyga.gov"
-   ]
-  },
-  {
-   "name": "Kenneth Smith",
-   "party": "Unknown",
-   "urls": [
-    "http://haralson.org/index.php?page=elected-officials"
    ]
   },
   {
@@ -41626,6 +41788,13 @@
    ]
   },
   {
+   "name": "Carl Boyette",
+   "party": "Unknown",
+   "urls": [
+    "http://www.piercecountyga.org/boardofcommissioners/district4commissioner.html"
+   ]
+  },
+  {
    "name": "Al St.Lawrence",
    "party": "Unknown",
    "urls": [
@@ -41648,20 +41817,19 @@
   },
   {
    "name": "Meg Heap",
-   "party": "Unknown"
+   "party": "Unknown",
+   "urls": [
+    "http://www.chathamcounty.org/Government/ElectedOfficials.aspx"
+   ]
   },
   {
    "name": "Albert Scott",
    "party": "Unknown",
+   "urls": [
+    "http://www.chathamcounty.org/Government/BoardofCommissioners.aspx"
+   ],
    "emails": [
     "alscott@chathamcounty.org"
-   ]
-  },
-  {
-   "name": "Carl Boyette",
-   "party": "Unknown",
-   "urls": [
-    "http://www.piercecountyga.org/boardofcommissioners/district4commissioner.html"
    ]
   },
   {
@@ -43100,11 +43268,11 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "kwanzahall"
     },
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "kwanzahall"
     }
    ]
@@ -44075,10 +44243,7 @@
   },
   {
    "name": "Barry Babb",
-   "party": "Unknown",
-   "urls": [
-    "http://www.fayettesheriff.org/"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "Sheila Studdard",
@@ -45196,9 +45361,6 @@
    "phones": [
     "(404) 330-6030"
    ],
-   "urls": [
-    "http://www.atlantapost2.com/"
-   ],
    "emails": [
     "aaronwatson@atlantaga.gov"
    ],
@@ -45293,12 +45455,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "ceasarcmitchell"
-    },
-    {
      "type": "Facebook",
      "id": "ceasarmitchellATL"
+    },
+    {
+     "type": "Twitter",
+     "id": "ceasarcmitchell"
     }
    ]
   },
@@ -45959,6 +46121,9 @@
    "phones": [
     "(404) 656-2800"
    ],
+   "urls": [
+    "http://www.doe.k12.ga.us/Pages/Home.aspx"
+   ],
    "emails": [
     "state.superintendent@doe.k12.ga.us"
    ]
@@ -46204,9 +46369,6 @@
    "phones": [
     "(706) 604-6114"
    ],
-   "urls": [
-    "https://www.muscogee.k12.ga.us/AboutUS/board/Pages/default.aspx"
-   ],
    "emails": [
     "Harris.Norma.B@muscogee.k12.ga.us"
    ]
@@ -46376,9 +46538,6 @@
    "party": "Unknown",
    "phones": [
     "(706) 687-2888"
-   ],
-   "urls": [
-    "https://www.muscogee.k12.ga.us/AboutUS/board/Pages/default.aspx"
    ],
    "emails": [
     "Green.Patricia.A@muscogee.k12.ga.us"
@@ -47180,7 +47339,10 @@
   },
   {
    "name": "Lynn Anderson",
-   "party": "Unknown"
+   "party": "Unknown",
+   "urls": [
+    "http://www.bullochsheriff.com/"
+   ]
   },
   {
    "name": "Teresa Tucker",
@@ -47302,6 +47464,13 @@
    ]
   },
   {
+   "name": "Dwain Smith",
+   "party": "Unknown",
+   "urls": [
+    "http://www.jacksoncountygov.com/Index.aspx?page=283"
+   ]
+  },
+  {
    "name": "Paul Abernathy",
    "party": "Unknown",
    "urls": [
@@ -47313,13 +47482,6 @@
    "party": "Unknown",
    "urls": [
     "http://www.hartcountyga.org/"
-   ]
-  },
-  {
-   "name": "Dwain Smith",
-   "party": "Unknown",
-   "urls": [
-    "http://www.jacksoncountygov.com/Index.aspx?page=283"
    ]
   },
   {
@@ -47564,12 +47726,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "joycesheperd"
-    },
-    {
      "type": "Facebook",
      "id": "105823833098"
+    },
+    {
+     "type": "Twitter",
+     "id": "joycesheperd"
     }
    ]
   },
@@ -47636,12 +47798,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "KeishaBottoms"
-    },
-    {
      "type": "Facebook",
      "id": "keisha.bottoms"
+    },
+    {
+     "type": "Twitter",
+     "id": "KeishaBottoms"
     }
    ]
   },
@@ -48929,6 +49091,10 @@
    "party": "Unknown"
   },
   {
+   "name": "James Thomas",
+   "party": "Unknown"
+  },
+  {
    "name": "W.M. Watson",
    "party": "Unknown"
   },
@@ -48970,10 +49136,6 @@
   },
   {
    "name": "Ashley Paulk",
-   "party": "Unknown"
-  },
-  {
-   "name": "James Thomas",
    "party": "Unknown"
   },
   {
@@ -49029,6 +49191,28 @@
    "party": "Unknown"
   },
   {
+   "name": "Lewis Walker",
+   "party": "Unknown",
+   "urls": [
+    "http://www.crawfordsheriff.net/"
+   ]
+  },
+  {
+   "name": "Johnny Castleberry",
+   "party": "Unknown"
+  },
+  {
+   "name": "Cynthia Davis",
+   "party": "Unknown",
+   "urls": [
+    "http://www.crawfordcountyga.org/site/index.php?cID=84"
+   ]
+  },
+  {
+   "name": "Joe Burgess",
+   "party": "Unknown"
+  },
+  {
    "name": "Gerald Couch",
    "address": [
     {
@@ -49072,28 +49256,6 @@
   },
   {
    "name": "Kathlene Gosselin",
-   "party": "Unknown"
-  },
-  {
-   "name": "Lewis Walker",
-   "party": "Unknown",
-   "urls": [
-    "http://www.crawfordsheriff.net/"
-   ]
-  },
-  {
-   "name": "Johnny Castleberry",
-   "party": "Unknown"
-  },
-  {
-   "name": "Cynthia Davis",
-   "party": "Unknown",
-   "urls": [
-    "http://www.crawfordcountyga.org/site/index.php?cID=84"
-   ]
-  },
-  {
-   "name": "Joe Burgess",
    "party": "Unknown"
   },
   {
@@ -50870,10 +51032,7 @@
   },
   {
    "name": "Earle Rainwater",
-   "party": "Unknown",
-   "urls": [
-    "http://chattoogacountyga.com/secondary.aspx?pageID=124"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "John Everett",
@@ -50891,10 +51050,7 @@
   },
   {
    "name": "Tracy Maddux",
-   "party": "Unknown",
-   "urls": [
-    "http://www.chattoogacountyga.com/secondary.aspx?pageID=126"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "Kathy Brown",
@@ -50905,17 +51061,11 @@
   },
   {
    "name": "Jason Winters",
-   "party": "Unknown",
-   "urls": [
-    "http://chattoogacountyga.com/secondary.aspx?pageID=120"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "Jon Payne",
-   "party": "Unknown",
-   "urls": [
-    "http://www.chattoogacountyga.com/secondary.aspx?pageID=127"
-   ]
+   "party": "Unknown"
   },
   {
    "name": "Patrick Farrell",

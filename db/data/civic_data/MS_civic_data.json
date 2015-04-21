@@ -15,11 +15,11 @@
   "ocd-division/country:us/state:ms/county:simpson/precinct:merit-merit": {
    "name": "Simpson County Precinct Merit-Merit"
   },
-  "ocd-division/country:us/state:ms/county:smith/precinct:9-taylorsville": {
-   "name": "Smith County Precinct 9-Taylorsville"
-  },
   "ocd-division/country:us/state:ms/county:jones/precinct:17-glade": {
    "name": "Jones County Precinct 17-Glade"
+  },
+  "ocd-division/country:us/state:ms/county:smith/precinct:9-taylorsville": {
+   "name": "Smith County Precinct 9-Taylorsville"
   },
   "ocd-division/country:us/state:ms/county:jefferson/precinct:3020-city_hall": {
    "name": "Jefferson County Precinct 3020-City Hall"
@@ -30,11 +30,11 @@
   "ocd-division/country:us/state:ms/county:george/precinct:53-benndale": {
    "name": "George County Precinct 53-Benndale"
   },
-  "ocd-division/country:us/state:ms/county:forrest/precinct:sun-sunrise": {
-   "name": "Forrest County Precinct Sun-Sunrise"
-  },
   "ocd-division/country:us/state:ms/county:jefferson/precinct:1030-red_lick": {
    "name": "Jefferson County Precinct 1030-Red Lick"
+  },
+  "ocd-division/country:us/state:ms/county:forrest/precinct:sun-sunrise": {
+   "name": "Forrest County Precinct Sun-Sunrise"
   },
   "ocd-division/country:us/state:ms/place:mccool": {
    "name": "McCool town"
@@ -66,11 +66,11 @@
   "ocd-division/country:us/state:ms/county:jefferson/precinct:5010-lorman": {
    "name": "Jefferson County Precinct 5010-Lorman"
   },
-  "ocd-division/country:us/state:ms/county:hancock/precinct:418-west_shoreline_park": {
-   "name": "Hancock County Precinct 418-West Shoreline Park"
-  },
   "ocd-division/country:us/state:ms/county:lincoln/precinct:27-pearlhaven": {
    "name": "Lincoln County Precinct 27-Pearlhaven"
+  },
+  "ocd-division/country:us/state:ms/county:hancock/precinct:418-west_shoreline_park": {
+   "name": "Hancock County Precinct 418-West Shoreline Park"
   },
   "ocd-division/country:us/state:ms/county:harrison/precinct:3101-long_beach_g4": {
    "name": "Harrison County Precinct 3101-Long Beach G4"
@@ -160,18 +160,18 @@
     182
    ]
   },
-  "ocd-division/country:us/state:ms/county:tallahatchie/precinct:103-springhill": {
-   "name": "Tallahatchie County Precinct 103-Springhill"
-  },
-  "ocd-division/country:us/state:ms/county:neshoba/precinct:35-southeast_philadelphia": {
-   "name": "Neshoba County Precinct 35-Southeast Philadelphia"
-  },
   "ocd-division/country:us/state:ms/county:humphreys/council_district:5": {
    "name": "Humphreys County Supervisor District 5",
    "officeIndices": [
     183,
     184
    ]
+  },
+  "ocd-division/country:us/state:ms/county:neshoba/precinct:35-southeast_philadelphia": {
+   "name": "Neshoba County Precinct 35-Southeast Philadelphia"
+  },
+  "ocd-division/country:us/state:ms/county:tallahatchie/precinct:103-springhill": {
+   "name": "Tallahatchie County Precinct 103-Springhill"
   },
   "ocd-division/country:us/state:ms/county:humphreys/council_district:2": {
    "name": "Humphreys County Supervisor District 2",
@@ -190,15 +190,15 @@
   "ocd-division/country:us/state:ms/county:yalobusha/precinct:5tl-five_tillatoba": {
    "name": "Yalobusha County Precinct 5Tl-Five Tillatoba"
   },
-  "ocd-division/country:us/state:ms/county:tippah/precinct:15-mitchell": {
-   "name": "Tippah County Precinct 15-Mitchell"
-  },
   "ocd-division/country:us/state:ms/county:humphreys/council_district:1": {
    "name": "Humphreys County Supervisor District 1",
    "officeIndices": [
     189,
     190
    ]
+  },
+  "ocd-division/country:us/state:ms/county:tippah/precinct:15-mitchell": {
+   "name": "Tippah County Precinct 15-Mitchell"
   },
   "ocd-division/country:us/state:ms/county:jackson/precinct:505-os_civic_ctr": {
    "name": "Jackson County Precinct 505-Os Civic Ctr"
@@ -215,11 +215,11 @@
   "ocd-division/country:us/state:ms/county:winston/precinct:23-lovorn_tractor": {
    "name": "Winston County Precinct 23-Lovorn Tractor"
   },
-  "ocd-division/country:us/state:ms/place:artesia": {
-   "name": "Artesia town"
-  },
   "ocd-division/country:us/state:ms/county:adams/precinct:bf-1_by_pass_fire": {
    "name": "Adams County Precinct Bf-1 By Pass Fire"
+  },
+  "ocd-division/country:us/state:ms/place:artesia": {
+   "name": "Artesia town"
   },
   "ocd-division/country:us/state:ms/place:winstonville": {
    "name": "Winstonville town"
@@ -257,11 +257,11 @@
   "ocd-division/country:us/state:ms/place:crawford": {
    "name": "Crawford town"
   },
-  "ocd-division/country:us/state:ms/county:bolivar/precinct:wr-west_rosedale": {
-   "name": "Bolivar County Precinct Wr-West Rosedale"
-  },
   "ocd-division/country:us/state:ms/county:carroll/precinct:4-430-430_school": {
    "name": "Carroll County Precinct 4-430-430 School"
+  },
+  "ocd-division/country:us/state:ms/county:bolivar/precinct:wr-west_rosedale": {
+   "name": "Bolivar County Precinct Wr-West Rosedale"
   },
   "ocd-division/country:us/state:ms/county:pike/precinct:12-courthouse": {
    "name": "Pike County Precinct 12-Courthouse"
@@ -275,15 +275,15 @@
   "ocd-division/country:us/state:ms/county:yalobusha/precinct:4cf-four_coffeeville": {
    "name": "Yalobusha County Precinct 4Cf-Four Coffeeville"
   },
+  "ocd-division/country:us/state:ms/county:lawrence/precinct:7-center": {
+   "name": "Lawrence County Precinct 7-Center"
+  },
   "ocd-division/country:us/state:ms/county:scott/council_district:1": {
    "name": "Scott County Supervisor District 1",
    "officeIndices": [
     191,
     192
    ]
-  },
-  "ocd-division/country:us/state:ms/county:lawrence/precinct:7-center": {
-   "name": "Lawrence County Precinct 7-Center"
   },
   "ocd-division/country:us/state:ms/county:scott/council_district:2": {
    "name": "Scott County Supervisor District 2",
@@ -292,21 +292,24 @@
     194
    ]
   },
-  "ocd-division/country:us/state:ms/place:jackson/ward:7": {
-   "name": "Jackson MS - ward 7",
-   "officeIndices": [
-    195
-   ]
+  "ocd-division/country:us/state:ms/county:desoto/precinct:403-civic_center": {
+   "name": "Desoto County Precinct 403-Civic Center"
   },
   "ocd-division/country:us/state:ms/county:scott/council_district:3": {
    "name": "Scott County Supervisor District 3",
    "officeIndices": [
-    196,
+    195,
+    196
+   ]
+  },
+  "ocd-division/country:us/state:ms/place:jackson/ward:7": {
+   "name": "Jackson MS - ward 7",
+   "officeIndices": [
     197
    ]
   },
-  "ocd-division/country:us/state:ms/county:desoto/precinct:403-civic_center": {
-   "name": "Desoto County Precinct 403-Civic Center"
+  "ocd-division/country:us/state:ms/county:benton/precinct:2fl4-floyd_dist_4": {
+   "name": "Benton County Precinct 2Fl4-Floyd Dist 4"
   },
   "ocd-division/country:us/state:ms/county:scott/council_district:4": {
    "name": "Scott County Supervisor District 4",
@@ -314,9 +317,6 @@
     198,
     199
    ]
-  },
-  "ocd-division/country:us/state:ms/county:benton/precinct:2fl4-floyd_dist_4": {
-   "name": "Benton County Precinct 2Fl4-Floyd Dist 4"
   },
   "ocd-division/country:us/state:ms/county:scott/council_district:5": {
    "name": "Scott County Supervisor District 5",
@@ -382,11 +382,11 @@
   "ocd-division/country:us/state:ms/county:carroll/precinct:4-sla-salem": {
    "name": "Carroll County Precinct 4-Sla-Salem"
   },
-  "ocd-division/country:us/state:ms/place:woodville": {
-   "name": "Woodville town"
-  },
   "ocd-division/country:us/state:ms/county:oktibbeha/precinct:ne-northeast_starkville": {
    "name": "Oktibbeha County Precinct Ne-Northeast Starkville"
+  },
+  "ocd-division/country:us/state:ms/place:woodville": {
+   "name": "Woodville town"
   },
   "ocd-division/country:us/state:ms/county:montgomery/school_district:winona_separate_school_dist": {
    "name": "winona separate school dist"
@@ -397,14 +397,14 @@
   "ocd-division/country:us/state:ms/county:madison/precinct:105-new_life": {
    "name": "Madison County Precinct 105-New Life"
   },
-  "ocd-division/country:us/state:ms/county:benton/precinct:2lm2-lamar_district_2": {
-   "name": "Benton County Precinct 2Lm2-Lamar District 2"
+  "ocd-division/country:us/state:ms/county:leflore/precinct:45-north_itta_bena": {
+   "name": "Leflore County Precinct 45-North Itta Bena"
   },
   "ocd-division/country:us/state:ms/county:lamar/precinct:333-purvis": {
    "name": "Lamar County Precinct 333-Purvis"
   },
-  "ocd-division/country:us/state:ms/county:leflore/precinct:45-north_itta_bena": {
-   "name": "Leflore County Precinct 45-North Itta Bena"
+  "ocd-division/country:us/state:ms/county:benton/precinct:2lm2-lamar_district_2": {
+   "name": "Benton County Precinct 2Lm2-Lamar District 2"
   },
   "ocd-division/country:us/state:ms/county:panola/precinct:420-north_springport": {
    "name": "Panola County Precinct 420-North Springport"
@@ -432,11 +432,11 @@
   "ocd-division/country:us/state:ms/county:carroll/precinct:1-cal-calvary": {
    "name": "Carroll County Precinct 1-Cal-Calvary"
   },
-  "ocd-division/country:us/state:ms/county:rankin/precinct:412-north_brandon": {
-   "name": "Rankin County Precinct 412-North Brandon"
-  },
   "ocd-division/country:us/state:ms/county:alcorn/precinct:2uc-union_center": {
    "name": "Alcorn County Precinct 2Uc-Union Center"
+  },
+  "ocd-division/country:us/state:ms/county:rankin/precinct:412-north_brandon": {
+   "name": "Rankin County Precinct 412-North Brandon"
   },
   "ocd-division/country:us/state:ms/county:harrison/precinct:5091-new_popps_ferry": {
    "name": "Harrison County Precinct 5091-New Popps Ferry"
@@ -456,11 +456,11 @@
   "ocd-division/country:us/state:ms/county:simpson/precinct:wthrsby-weathersby": {
    "name": "Simpson County Precinct Wthrsby-Weathersby"
   },
-  "ocd-division/country:us/state:ms/place:flora": {
-   "name": "Flora town"
-  },
   "ocd-division/country:us/state:ms/county:covington/precinct:4dry-dry_creek": {
    "name": "Covington County Precinct 4Dry-Dry Creek"
+  },
+  "ocd-division/country:us/state:ms/place:flora": {
+   "name": "Flora town"
   },
   "ocd-division/country:us/state:ms/county:leake/precinct:lena-lena": {
    "name": "Leake County Precinct Lena-Lena"
@@ -474,20 +474,20 @@
   "ocd-division/country:us/state:ms/county:newton/precinct:hickory-hickory": {
    "name": "Newton County Precinct Hickory-Hickory"
   },
-  "ocd-division/country:us/state:ms/place:itta_bena": {
-   "name": "Itta Bena city"
-  },
   "ocd-division/country:us/state:ms/county:madison/precinct:408-bear_creek": {
    "name": "Madison County Precinct 408-Bear Creek"
+  },
+  "ocd-division/country:us/state:ms/place:itta_bena": {
+   "name": "Itta Bena city"
   },
   "ocd-division/country:us/state:ms/place:natchez": {
    "name": "Natchez city"
   },
-  "ocd-division/country:us/state:ms/county:walthall/precinct:12-lexie": {
-   "name": "Walthall County Precinct 12-Lexie"
-  },
   "ocd-division/country:us/state:ms/county:harrison/precinct:3141-pineville": {
    "name": "Harrison County Precinct 3141-Pineville"
+  },
+  "ocd-division/country:us/state:ms/county:walthall/precinct:12-lexie": {
+   "name": "Walthall County Precinct 12-Lexie"
   },
   "ocd-division/country:us/state:ms/county:hinds/precinct:14": {
    "name": "Hinds County Precinct 14"
@@ -495,14 +495,14 @@
   "ocd-division/country:us/state:ms/county:hinds/precinct:16": {
    "name": "Hinds County Precinct 16"
   },
-  "ocd-division/country:us/state:ms/place:coahoma": {
-   "name": "Coahoma town"
+  "ocd-division/country:us/state:ms/county:hinds/precinct:17": {
+   "name": "Hinds County Precinct 17"
   },
   "ocd-division/country:us/state:ms/county:tate/precinct:sar-sarah": {
    "name": "Tate County Precinct Sar-Sarah"
   },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:17": {
-   "name": "Hinds County Precinct 17"
+  "ocd-division/country:us/state:ms/place:coahoma": {
+   "name": "Coahoma town"
   },
   "ocd-division/country:us/state:ms/county:hinds/precinct:10": {
    "name": "Hinds County Precinct 10"
@@ -510,17 +510,17 @@
   "ocd-division/country:us/state:ms/county:hinds/precinct:11": {
    "name": "Hinds County Precinct 11"
   },
-  "ocd-division/country:us/state:ms/place:cary": {
-   "name": "Cary town"
-  },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:12": {
-   "name": "Hinds County Precinct 12"
+  "ocd-division/country:us/state:ms/county:lamar/precinct:442-midway": {
+   "name": "Lamar County Precinct 442-Midway"
   },
   "ocd-division/country:us/state:ms/county:jones/precinct:2-shady_grove": {
    "name": "Jones County Precinct 2-Shady Grove"
   },
-  "ocd-division/country:us/state:ms/county:lamar/precinct:442-midway": {
-   "name": "Lamar County Precinct 442-Midway"
+  "ocd-division/country:us/state:ms/county:hinds/precinct:12": {
+   "name": "Hinds County Precinct 12"
+  },
+  "ocd-division/country:us/state:ms/place:cary": {
+   "name": "Cary town"
   },
   "ocd-division/country:us/state:ms/county:hinds/precinct:13": {
    "name": "Hinds County Precinct 13"
@@ -545,6 +545,12 @@
     216
    ]
   },
+  "ocd-division/country:us/state:ms/county:jones/precinct:30-moselle": {
+   "name": "Jones County Precinct 30-Moselle"
+  },
+  "ocd-division/country:us/state:ms/county:hinds/precinct:24": {
+   "name": "Hinds County Precinct 24"
+  },
   "ocd-division/country:us/state:ms/county:smith/council_district:1": {
    "name": "Smith County Supervisor District 1",
    "officeIndices": [
@@ -552,20 +558,14 @@
     218
    ]
   },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:24": {
-   "name": "Hinds County Precinct 24"
-  },
-  "ocd-division/country:us/state:ms/county:jones/precinct:30-moselle": {
-   "name": "Jones County Precinct 30-Moselle"
-  },
   "ocd-division/country:us/state:ms/county:hinds/precinct:23": {
    "name": "Hinds County Precinct 23"
   },
-  "ocd-division/country:us/state:ms/place:rosedale": {
-   "name": "Rosedale city"
-  },
   "ocd-division/country:us/state:ms/county:hinds/precinct:26": {
    "name": "Hinds County Precinct 26"
+  },
+  "ocd-division/country:us/state:ms/place:rosedale": {
+   "name": "Rosedale city"
   },
   "ocd-division/country:us/state:ms/county:hinds/precinct:25": {
    "name": "Hinds County Precinct 25"
@@ -573,26 +573,29 @@
   "ocd-division/country:us/state:ms/county:hinds/precinct:28": {
    "name": "Hinds County Precinct 28"
   },
-  "ocd-division/country:us/state:ms/county:wayne/precinct:21-state_line": {
-   "name": "Wayne County Precinct 21-State Line"
-  },
-  "ocd-division/country:us/state:ms/county:sunflower/precinct:12-moorhead": {
-   "name": "Sunflower County Precinct 12-Moorhead"
+  "ocd-division/country:us/state:ms/county:hinds/precinct:27": {
+   "name": "Hinds County Precinct 27"
   },
   "ocd-division/country:us/state:ms/county:pearl_river/precinct:230-oak_hill_beat_2": {
    "name": "Pearl River County Precinct 230-Oak Hill Beat 2"
   },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:27": {
-   "name": "Hinds County Precinct 27"
+  "ocd-division/country:us/state:ms/county:sunflower/precinct:12-moorhead": {
+   "name": "Sunflower County Precinct 12-Moorhead"
   },
-  "ocd-division/country:us/state:ms/county:quitman/precinct:13-crowder": {
-   "name": "Quitman County Precinct 13-Crowder"
+  "ocd-division/country:us/state:ms/county:wayne/precinct:21-state_line": {
+   "name": "Wayne County Precinct 21-State Line"
   },
   "ocd-division/country:us/state:ms/county:oktibbeha/precinct:ss-south_starkville": {
    "name": "Oktibbeha County Precinct Ss-South Starkville"
   },
+  "ocd-division/country:us/state:ms/county:quitman/precinct:13-crowder": {
+   "name": "Quitman County Precinct 13-Crowder"
+  },
   "ocd-division/country:us/state:ms/county:adams/precinct:ok-5_oakland": {
    "name": "Adams County Precinct Ok-5 Oakland"
+  },
+  "ocd-division/country:us/state:ms/county:hinds/precinct:c3-clinton_3": {
+   "name": "Hinds County Precinct C3-Clinton 3"
   },
   "ocd-division/country:us/state:ms/county:smith/council_district:3": {
    "name": "Smith County Supervisor District 3",
@@ -601,8 +604,8 @@
     220
    ]
   },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:c3-clinton_3": {
-   "name": "Hinds County Precinct C3-Clinton 3"
+  "ocd-division/country:us/state:ms/county:lincoln/precinct:35-old_brook": {
+   "name": "Lincoln County Precinct 35-Old Brook"
   },
   "ocd-division/country:us/state:ms/county:smith/council_district:2": {
    "name": "Smith County Supervisor District 2",
@@ -611,8 +614,8 @@
     222
    ]
   },
-  "ocd-division/country:us/state:ms/county:lincoln/precinct:35-old_brook": {
-   "name": "Lincoln County Precinct 35-Old Brook"
+  "ocd-division/country:us/state:ms/county:hinds/precinct:20": {
+   "name": "Hinds County Precinct 20"
   },
   "ocd-division/country:us/state:ms/county:smith/council_district:5": {
    "name": "Smith County Supervisor District 5",
@@ -621,9 +624,6 @@
     224
    ]
   },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:20": {
-   "name": "Hinds County Precinct 20"
-  },
   "ocd-division/country:us/state:ms/county:smith/council_district:4": {
    "name": "Smith County Supervisor District 4",
    "officeIndices": [
@@ -631,14 +631,11 @@
     226
    ]
   },
-  "ocd-division/country:us/state:ms/county:bolivar/precinct:da-duncan_alligator": {
-   "name": "Bolivar County Precinct Da-Duncan Alligator"
-  },
   "ocd-division/country:us/state:ms/county:lowndes/precinct:8-first_assembly": {
    "name": "Lowndes County Precinct 8-First Assembly"
   },
-  "ocd-division/country:us/state:ms/county:wayne/precinct:53-matherville": {
-   "name": "Wayne County Precinct 53-Matherville"
+  "ocd-division/country:us/state:ms/county:bolivar/precinct:da-duncan_alligator": {
+   "name": "Bolivar County Precinct Da-Duncan Alligator"
   },
   "ocd-division/country:us/state:ms/county:claiborne/council_district:1": {
    "name": "Claiborne County Supervisor District 1",
@@ -646,6 +643,9 @@
     227,
     228
    ]
+  },
+  "ocd-division/country:us/state:ms/county:wayne/precinct:53-matherville": {
+   "name": "Wayne County Precinct 53-Matherville"
   },
   "ocd-division/country:us/state:ms/county:hinds/precinct:18": {
    "name": "Hinds County Precinct 18"
@@ -659,11 +659,11 @@
   "ocd-division/country:us/state:ms/county:hinds/precinct:35": {
    "name": "Hinds County Precinct 35"
   },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:34": {
-   "name": "Hinds County Precinct 34"
-  },
   "ocd-division/country:us/state:ms/county:george/precinct:11-rocky_creek": {
    "name": "George County Precinct 11-Rocky Creek"
+  },
+  "ocd-division/country:us/state:ms/county:hinds/precinct:34": {
+   "name": "Hinds County Precinct 34"
   },
   "ocd-division/country:us/state:ms/county:hinds/precinct:33": {
    "name": "Hinds County Precinct 33"
@@ -1082,18 +1082,18 @@
   "ocd-division/country:us/state:ms/county:hinds/precinct:73": {
    "name": "Hinds County Precinct 73"
   },
-  "ocd-division/country:us/state:ms/county:pike/precinct:2-leggett_community": {
-   "name": "Pike County Precinct 2-Leggett Community"
-  },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:78": {
-   "name": "Hinds County Precinct 78"
-  },
   "ocd-division/country:us/state:ms/county:lincoln/council_district:1": {
    "name": "Lincoln County Supervisor District 1",
    "officeIndices": [
     274,
     275
    ]
+  },
+  "ocd-division/country:us/state:ms/county:hinds/precinct:78": {
+   "name": "Hinds County Precinct 78"
+  },
+  "ocd-division/country:us/state:ms/county:pike/precinct:2-leggett_community": {
+   "name": "Pike County Precinct 2-Leggett Community"
   },
   "ocd-division/country:us/state:ms/county:hinds/precinct:79": {
    "name": "Hinds County Precinct 79"
@@ -1104,9 +1104,6 @@
   "ocd-division/country:us/state:ms/county:hinds/precinct:77": {
    "name": "Hinds County Precinct 77"
   },
-  "ocd-division/country:us/state:ms/county:grenada/precinct:35-tie_plant": {
-   "name": "Grenada County Precinct 35-Tie Plant"
-  },
   "ocd-division/country:us/state:ms/county:lincoln/council_district:5": {
    "name": "Lincoln County Supervisor District 5",
    "officeIndices": [
@@ -1114,23 +1111,26 @@
     277
    ]
   },
+  "ocd-division/country:us/state:ms/county:grenada/precinct:35-tie_plant": {
+   "name": "Grenada County Precinct 35-Tie Plant"
+  },
+  "ocd-division/country:us/state:ms/county:lincoln/council_district:4": {
+   "name": "Lincoln County Supervisor District 4",
+   "officeIndices": [
+    278,
+    279
+   ]
+  },
   "ocd-division/country:us/state:ms/county:alcorn": {
    "name": "Alcorn County",
    "officeIndices": [
-    278,
-    279,
     280,
     281,
     282,
     283,
     284,
     285,
-    286
-   ]
-  },
-  "ocd-division/country:us/state:ms/county:lincoln/council_district:4": {
-   "name": "Lincoln County Supervisor District 4",
-   "officeIndices": [
+    286,
     287,
     288
    ]
@@ -1152,11 +1152,11 @@
     292
    ]
   },
-  "ocd-division/country:us/state:ms/county:coahoma/school_district:clarksdale_municipal_school_dist": {
-   "name": "clarksdale municipal school dist"
-  },
   "ocd-division/country:us/state:ms/county:lowndes/precinct:21-university": {
    "name": "Lowndes County Precinct 21-University"
+  },
+  "ocd-division/country:us/state:ms/county:coahoma/school_district:clarksdale_municipal_school_dist": {
+   "name": "clarksdale municipal school dist"
   },
   "ocd-division/country:us/state:ms/county:sharkey/precinct:2car-cary_second_district": {
    "name": "Sharkey County Precinct 2Car-Cary Second District"
@@ -1173,53 +1173,53 @@
   "ocd-division/country:us/state:ms/county:hinds/precinct:83": {
    "name": "Hinds County Precinct 83"
   },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:84": {
-   "name": "Hinds County Precinct 84"
-  },
   "ocd-division/country:us/state:ms/county:itawamba/precinct:531-cardsville": {
    "name": "Itawamba County Precinct 531-Cardsville"
   },
-  "ocd-division/country:us/state:ms/county:hancock/precinct:316-courthouse": {
-   "name": "Hancock County Precinct 316-Courthouse"
+  "ocd-division/country:us/state:ms/county:hinds/precinct:84": {
+   "name": "Hinds County Precinct 84"
   },
   "ocd-division/country:us/state:ms/county:hinds/precinct:85": {
    "name": "Hinds County Precinct 85"
   },
-  "ocd-division/country:us/state:ms/county:desoto/precinct:303-horn_lake_north": {
-   "name": "Desoto County Precinct 303-Horn Lake North"
+  "ocd-division/country:us/state:ms/county:hancock/precinct:316-courthouse": {
+   "name": "Hancock County Precinct 316-Courthouse"
   },
   "ocd-division/country:us/state:ms/county:hinds/precinct:86": {
    "name": "Hinds County Precinct 86"
   },
+  "ocd-division/country:us/state:ms/county:desoto/precinct:303-horn_lake_north": {
+   "name": "Desoto County Precinct 303-Horn Lake North"
+  },
   "ocd-division/country:us/state:ms/county:jones/school_district:ellisville_state_school_adm": {
    "name": "ellisville state school adm"
-  },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:80": {
-   "name": "Hinds County Precinct 80"
   },
   "ocd-division/country:us/state:ms/county:jackson/precinct:203-rec_center": {
    "name": "Jackson County Precinct 203-Rec Center"
   },
-  "ocd-division/country:us/state:ms/county:alcorn/precinct:2ch-college_hill": {
-   "name": "Alcorn County Precinct 2Ch-College Hill"
-  },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:81": {
-   "name": "Hinds County Precinct 81"
+  "ocd-division/country:us/state:ms/county:hinds/precinct:80": {
+   "name": "Hinds County Precinct 80"
   },
   "ocd-division/country:us/state:ms/county:hinds/precinct:c7-clinton_7": {
    "name": "Hinds County Precinct C7-Clinton 7"
   },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:82": {
-   "name": "Hinds County Precinct 82"
+  "ocd-division/country:us/state:ms/county:hinds/precinct:81": {
+   "name": "Hinds County Precinct 81"
+  },
+  "ocd-division/country:us/state:ms/county:alcorn/precinct:2ch-college_hill": {
+   "name": "Alcorn County Precinct 2Ch-College Hill"
   },
   "ocd-division/country:us/state:ms/county:madison/precinct:519-couparle": {
    "name": "Madison County Precinct 519-Couparle"
   },
-  "ocd-division/country:us/state:ms/place:wiggins": {
-   "name": "Wiggins city"
+  "ocd-division/country:us/state:ms/county:hinds/precinct:82": {
+   "name": "Hinds County Precinct 82"
   },
   "ocd-division/country:us/state:ms/place:waveland": {
    "name": "Waveland city"
+  },
+  "ocd-division/country:us/state:ms/place:wiggins": {
+   "name": "Wiggins city"
   },
   "ocd-division/country:us/state:ms/county:jackson/precinct:306-american_legion": {
    "name": "Jackson County Precinct 306-American Legion"
@@ -1248,17 +1248,20 @@
   "ocd-division/country:us/state:ms/county:scott/precinct:2-5-usry": {
    "name": "Scott County Precinct 2-05-Usry"
   },
-  "ocd-division/country:us/state:ms/county:amite/precinct:310-crosby": {
-   "name": "Amite County Precinct 310-Crosby"
-  },
   "ocd-division/country:us/state:ms/county:jones/precinct:9-hebron": {
    "name": "Jones County Precinct 9-Hebron"
+  },
+  "ocd-division/country:us/state:ms/county:amite/precinct:310-crosby": {
+   "name": "Amite County Precinct 310-Crosby"
   },
   "ocd-division/country:us/state:ms/place:grenada": {
    "name": "Grenada city"
   },
   "ocd-division/country:us/state:ms/county:amite/precinct:213-east_centreville": {
    "name": "Amite County Precinct 213-East Centreville"
+  },
+  "ocd-division/country:us/state:ms/county:bolivar/precinct:by-boyle": {
+   "name": "Bolivar County Precinct By-Boyle"
   },
   "ocd-division/country:us/state:ms/county:warren": {
    "name": "Warren County",
@@ -1274,11 +1277,8 @@
     301
    ]
   },
-  "ocd-division/country:us/state:ms/county:bolivar/precinct:by-boyle": {
-   "name": "Bolivar County Precinct By-Boyle"
-  },
-  "ocd-division/country:us/state:ms/county:pontotoc/precinct:to-toccopola": {
-   "name": "Pontotoc County Precinct To-Toccopola"
+  "ocd-division/country:us/state:ms/county:hinds/precinct:96": {
+   "name": "Hinds County Precinct 96"
   },
   "ocd-division/country:us/state:ms/county:neshoba": {
    "name": "Neshoba County",
@@ -1294,20 +1294,20 @@
     310
    ]
   },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:96": {
-   "name": "Hinds County Precinct 96"
-  },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:97": {
-   "name": "Hinds County Precinct 97"
+  "ocd-division/country:us/state:ms/county:pontotoc/precinct:to-toccopola": {
+   "name": "Pontotoc County Precinct To-Toccopola"
   },
   "ocd-division/country:us/state:ms/county:lauderdale/precinct:331-collinsville": {
    "name": "Lauderdale County Precinct 331-Collinsville"
   },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:94": {
-   "name": "Hinds County Precinct 94"
+  "ocd-division/country:us/state:ms/county:hinds/precinct:97": {
+   "name": "Hinds County Precinct 97"
   },
   "ocd-division/country:us/state:ms/county:jackson/precinct:401-villa_maria": {
    "name": "Jackson County Precinct 401-Villa Maria"
+  },
+  "ocd-division/country:us/state:ms/county:hinds/precinct:94": {
+   "name": "Hinds County Precinct 94"
   },
   "ocd-division/country:us/state:ms/county:hinds/precinct:95": {
    "name": "Hinds County Precinct 95"
@@ -1342,23 +1342,23 @@
   "ocd-division/country:us/state:ms/county:lee/precinct:p203-davis_box": {
    "name": "Lee County Precinct P203-Davis Box"
   },
-  "ocd-division/country:us/state:ms/county:newton/precinct:newt_5-newton_5": {
-   "name": "Newton County Precinct Newt 5-Newton 5"
-  },
   "ocd-division/country:us/state:ms/county:monroe/precinct:5f2-5_central_grove": {
    "name": "Monroe County Precinct 5F2-5 Central Grove"
   },
-  "ocd-division/country:us/state:ms/county:harrison/precinct:3111-long_beach_g5": {
-   "name": "Harrison County Precinct 3111-Long Beach G5"
+  "ocd-division/country:us/state:ms/county:newton/precinct:newt_5-newton_5": {
+   "name": "Newton County Precinct Newt 5-Newton 5"
   },
   "ocd-division/country:us/state:ms/county:lamar/precinct:551-breland": {
    "name": "Lamar County Precinct 551-Breland"
   },
-  "ocd-division/country:us/state:ms/county:smith/precinct:6-summerland": {
-   "name": "Smith County Precinct 6-Summerland"
+  "ocd-division/country:us/state:ms/county:harrison/precinct:3111-long_beach_g5": {
+   "name": "Harrison County Precinct 3111-Long Beach G5"
   },
   "ocd-division/country:us/state:ms/county:lincoln/precinct:45-northwest_brookhaven": {
    "name": "Lincoln County Precinct 45-Northwest Brookhaven"
+  },
+  "ocd-division/country:us/state:ms/county:smith/precinct:6-summerland": {
+   "name": "Smith County Precinct 6-Summerland"
   },
   "ocd-division/country:us/state:ms/county:greene/precinct:7-wade": {
    "name": "Greene County Precinct 7-Wade"
@@ -1512,9 +1512,10 @@
   "ocd-division/country:us/state:ms/county:bolivar/school_district:shaw_school_district": {
    "name": "shaw school district"
   },
-  "ocd-division/country:us/state:ms/county:wilkinson": {
-   "name": "Wilkinson County",
+  "ocd-division/country:us/state:ms/county:leflore": {
+   "name": "Leflore County",
    "officeIndices": [
+    328,
     329,
     330,
     331,
@@ -1525,8 +1526,8 @@
     336
    ]
   },
-  "ocd-division/country:us/state:ms/county:leflore": {
-   "name": "Leflore County",
+  "ocd-division/country:us/state:ms/county:wilkinson": {
+   "name": "Wilkinson County",
    "officeIndices": [
     320,
     321,
@@ -1535,8 +1536,7 @@
     324,
     325,
     326,
-    327,
-    328
+    327
    ]
   },
   "ocd-division/country:us/state:ms/county:rankin/precinct:306-antioch": {
@@ -1547,9 +1547,6 @@
   },
   "ocd-division/country:us/state:ms/county:tallahatchie/precinct:101-teasdale": {
    "name": "Tallahatchie County Precinct 101-Teasdale"
-  },
-  "ocd-division/country:us/state:ms/county:lee/precinct:p509-kedron": {
-   "name": "Lee County Precinct P509-Kedron"
   },
   "ocd-division/country:us/state:ms/county:marion": {
    "name": "Marion County",
@@ -1564,6 +1561,9 @@
     344,
     345
    ]
+  },
+  "ocd-division/country:us/state:ms/county:lee/precinct:p509-kedron": {
+   "name": "Lee County Precinct P509-Kedron"
   },
   "ocd-division/country:us/state:ms/county:pontotoc/school_district:pontotoc_co_school_dist": {
    "name": "pontotoc co school dist"
@@ -1627,15 +1627,15 @@
   "ocd-division/country:us/state:ms/county:marion/precinct:302-morgantown": {
    "name": "Marion County Precinct 302-Morgantown"
   },
-  "ocd-division/country:us/state:ms/county:jefferson/school_district:jefferson_co_school_dist": {
-   "name": "jefferson co school dist"
-  },
   "ocd-division/country:us/state:ms/county:lamar/council_district:1": {
    "name": "Lamar County Supervisor District 1",
    "officeIndices": [
     356,
     357
    ]
+  },
+  "ocd-division/country:us/state:ms/county:jefferson/school_district:jefferson_co_school_dist": {
+   "name": "jefferson co school dist"
   },
   "ocd-division/country:us/state:ms/county:carroll/council_district:4": {
    "name": "Carroll County Supervisor District 4",
@@ -1827,15 +1827,15 @@
   "ocd-division/country:us/state:ms/county:washington/school_district:hollandale_school_dist": {
    "name": "hollandale school dist"
   },
-  "ocd-division/country:us/state:ms/county:pontotoc/precinct:ro-robbs": {
-   "name": "Pontotoc County Precinct Ro-Robbs"
-  },
   "ocd-division/country:us/state:ms/county:oktibbeha/council_district:2": {
    "name": "Oktibbeha County Supervisor District 2",
    "officeIndices": [
     383,
     384
    ]
+  },
+  "ocd-division/country:us/state:ms/county:pontotoc/precinct:ro-robbs": {
+   "name": "Pontotoc County Precinct Ro-Robbs"
   },
   "ocd-division/country:us/state:ms/county:oktibbeha/council_district:3": {
    "name": "Oktibbeha County Supervisor District 3",
@@ -2207,25 +2207,25 @@
     440
    ]
   },
+  "ocd-division/country:us/state:ms/county:hinds/council_district:2": {
+   "name": "Hinds County MS Board of Supervisors District 2",
+   "officeIndices": [
+    450,
+    451
+   ]
+  },
   "ocd-division/country:us/state:ms/county:simpson": {
    "name": "Simpson County",
    "officeIndices": [
+    441,
+    442,
     443,
     444,
     445,
     446,
     447,
     448,
-    449,
-    450,
-    451
-   ]
-  },
-  "ocd-division/country:us/state:ms/county:hinds/council_district:2": {
-   "name": "Hinds County MS Board of Supervisors District 2",
-   "officeIndices": [
-    441,
-    442
+    449
    ]
   },
   "ocd-division/country:us/state:ms/county:yazoo/precinct:1-6-robinette": {
@@ -2765,38 +2765,35 @@
   "ocd-division/country:us/state:ms/county:scott/precinct:5-5-langs_mill": {
    "name": "Scott County Precinct 5-05-Langs Mill"
   },
-  "ocd-division/country:us/state:ms/place:mendenhall": {
-   "name": "Mendenhall city"
-  },
   "ocd-division/country:us/state:ms/place:centreville": {
    "name": "Centreville town"
+  },
+  "ocd-division/country:us/state:ms/place:mendenhall": {
+   "name": "Mendenhall city"
   },
   "ocd-division/country:us/state:ms/county:simpson/precinct:newhope-new_hope": {
    "name": "Simpson County Precinct Newhope-New Hope"
   },
-  "ocd-division/country:us/state:ms/place:louin": {
-   "name": "Louin town"
-  },
   "ocd-division/country:us/state:ms/county:leake/precinct:conwa-conway": {
    "name": "Leake County Precinct Conwa-Conway"
   },
-  "ocd-division/country:us/state:ms/county:newton/precinct:newt_4-newton_g4": {
-   "name": "Newton County Precinct Newt 4-Newton G4"
+  "ocd-division/country:us/state:ms/place:louin": {
+   "name": "Louin town"
+  },
+  "ocd-division/country:us/state:ms/county:coahoma/precinct:13-lyon": {
+   "name": "Coahoma County Precinct 13-Lyon"
   },
   "ocd-division/country:us/state:ms/county:neshoba/precinct:13-fork": {
    "name": "Neshoba County Precinct 13-Fork"
   },
-  "ocd-division/country:us/state:ms/county:coahoma/precinct:13-lyon": {
-   "name": "Coahoma County Precinct 13-Lyon"
+  "ocd-division/country:us/state:ms/county:newton/precinct:newt_4-newton_g4": {
+   "name": "Newton County Precinct Newt 4-Newton G4"
   },
   "ocd-division/country:us/state:ms/county:holmes/precinct:2wl-beat_2_west": {
    "name": "Holmes County Precinct 2Wl-Beat 2 West"
   },
   "ocd-division/country:us/state:ms/county:rankin/precinct:320-west_brandon": {
    "name": "Rankin County Precinct 320-West Brandon"
-  },
-  "ocd-division/country:us/state:ms/county:tishomingo/precinct:4pdn-paden": {
-   "name": "Tishomingo County Precinct 4Pdn-Paden"
   },
   "ocd-division/country:us/state:ms/county:calhoun": {
    "name": "Calhoun County",
@@ -2811,11 +2808,11 @@
     574
    ]
   },
-  "ocd-division/country:us/state:ms/county:wayne/precinct:83-yellow_creek": {
-   "name": "Wayne County Precinct 83-Yellow Creek"
+  "ocd-division/country:us/state:ms/county:tishomingo/precinct:4pdn-paden": {
+   "name": "Tishomingo County Precinct 4Pdn-Paden"
   },
-  "ocd-division/country:us/state:ms/county:noxubee/precinct:1-brook-brooksville": {
-   "name": "Noxubee County Precinct 1-Brook-Brooksville"
+  "ocd-division/country:us/state:ms/county:jackson/precinct:209-fair": {
+   "name": "Jackson County Precinct 209-Fair"
   },
   "ocd-division/country:us/state:ms/county:holmes/council_district:3": {
    "name": "Holmes County Supervisor District 3",
@@ -2824,8 +2821,11 @@
     576
    ]
   },
-  "ocd-division/country:us/state:ms/county:jackson/precinct:209-fair": {
-   "name": "Jackson County Precinct 209-Fair"
+  "ocd-division/country:us/state:ms/county:noxubee/precinct:1-brook-brooksville": {
+   "name": "Noxubee County Precinct 1-Brook-Brooksville"
+  },
+  "ocd-division/country:us/state:ms/county:wayne/precinct:83-yellow_creek": {
+   "name": "Wayne County Precinct 83-Yellow Creek"
   },
   "ocd-division/country:us/state:ms/county:holmes/council_district:4": {
    "name": "Holmes County Supervisor District 4",
@@ -2834,9 +2834,6 @@
     578
    ]
   },
-  "ocd-division/country:us/state:ms/place:brandon": {
-   "name": "Brandon city"
-  },
   "ocd-division/country:us/state:ms/county:holmes/council_district:1": {
    "name": "Holmes County Supervisor District 1",
    "officeIndices": [
@@ -2844,8 +2841,8 @@
     580
    ]
   },
-  "ocd-division/country:us/state:ms/county:walthall/precinct:48-darbun": {
-   "name": "Walthall County Precinct 48-Darbun"
+  "ocd-division/country:us/state:ms/place:brandon": {
+   "name": "Brandon city"
   },
   "ocd-division/country:us/state:ms/county:holmes/council_district:2": {
    "name": "Holmes County Supervisor District 2",
@@ -2854,14 +2851,17 @@
     582
    ]
   },
+  "ocd-division/country:us/state:ms/county:walthall/precinct:48-darbun": {
+   "name": "Walthall County Precinct 48-Darbun"
+  },
   "ocd-division/country:us/state:ms/county:jones/precinct:6-centerville": {
    "name": "Jones County Precinct 6-Centerville"
   },
-  "ocd-division/country:us/state:ms/county:pontotoc/school_district:pontotoc_city_schools": {
-   "name": "pontotoc city schools"
-  },
   "ocd-division/country:us/state:ms/county:noxubee/precinct:2-sav-savannah": {
    "name": "Noxubee County Precinct 2-Sav-Savannah"
+  },
+  "ocd-division/country:us/state:ms/county:pontotoc/school_district:pontotoc_city_schools": {
+   "name": "pontotoc city schools"
   },
   "ocd-division/country:us/state:ms/county:jefferson_davis/precinct:32-bassfield": {
    "name": "Jefferson Davis County Precinct 32-Bassfield"
@@ -2872,15 +2872,15 @@
   "ocd-division/country:us/state:ms/county:jefferson_davis/precinct:51-gwinville": {
    "name": "Jefferson Davis County Precinct 51-Gwinville"
   },
-  "ocd-division/country:us/state:ms/county:covington/precinct:4mto-mt_olive": {
-   "name": "Covington County Precinct 4Mto-Mt Olive"
-  },
   "ocd-division/country:us/state:ms/county:holmes/council_district:5": {
    "name": "Holmes County Supervisor District 5",
    "officeIndices": [
     583,
     584
    ]
+  },
+  "ocd-division/country:us/state:ms/county:covington/precinct:4mto-mt_olive": {
+   "name": "Covington County Precinct 4Mto-Mt Olive"
   },
   "ocd-division/country:us/state:ms/county:kemper/precinct:11-preston": {
    "name": "Kemper County Precinct 11-Preston"
@@ -2909,9 +2909,6 @@
   "ocd-division/country:us/state:ms/county:holmes/precinct:5tj-beat_5_tchula": {
    "name": "Holmes County Precinct 5Tj-Beat 5 Tchula"
   },
-  "ocd-division/country:us/state:ms/place:byhalia": {
-   "name": "Byhalia town"
-  },
   "ocd-division/country:us/state:ms/county:claiborne": {
    "name": "Claiborne County",
    "officeIndices": [
@@ -2926,6 +2923,9 @@
     593
    ]
   },
+  "ocd-division/country:us/state:ms/place:byhalia": {
+   "name": "Byhalia town"
+  },
   "ocd-division/country:us/state:ms/county:tunica/school_district:tunica_county_school_district": {
    "name": "tunica county school district"
   },
@@ -2935,32 +2935,32 @@
   "ocd-division/country:us/state:ms/county:oktibbeha/precinct:sa-south_adaton": {
    "name": "Oktibbeha County Precinct Sa-South Adaton"
   },
-  "ocd-division/country:us/state:ms/county:bolivar/school_district:north_bolivar_school_district": {
-   "name": "north bolivar school district"
+  "ocd-division/country:us/state:ms/county:lauderdale/precinct:175-west_dalewood": {
+   "name": "Lauderdale County Precinct 175-West Dalewood"
   },
   "ocd-division/country:us/state:ms/county:jones/precinct:43-currie": {
    "name": "Jones County Precinct 43-Currie"
   },
-  "ocd-division/country:us/state:ms/county:lauderdale/precinct:175-west_dalewood": {
-   "name": "Lauderdale County Precinct 175-West Dalewood"
+  "ocd-division/country:us/state:ms/county:bolivar/school_district:north_bolivar_school_district": {
+   "name": "north bolivar school district"
   },
   "ocd-division/country:us/state:ms/county:greene/precinct:15-leaf": {
    "name": "Greene County Precinct 15-Leaf"
   },
-  "ocd-division/country:us/state:ms/place:roxie": {
-   "name": "Roxie town"
+  "ocd-division/country:us/state:ms/county:lee/precinct:p107-fellowship": {
+   "name": "Lee County Precinct P107-Fellowship"
   },
   "ocd-division/country:us/state:ms/county:chickasaw/precinct:egt-egypt_003": {
    "name": "Chickasaw County Precinct Egt-Egypt 003"
   },
-  "ocd-division/country:us/state:ms/county:lee/precinct:p107-fellowship": {
-   "name": "Lee County Precinct P107-Fellowship"
-  },
-  "ocd-division/country:us/state:ms/county:perry/precinct:4100-arlington": {
-   "name": "Perry County Precinct 4100-Arlington"
+  "ocd-division/country:us/state:ms/place:roxie": {
+   "name": "Roxie town"
   },
   "ocd-division/country:us/state:ms/county:jones/precinct:33-sand_hill": {
    "name": "Jones County Precinct 33-Sand Hill"
+  },
+  "ocd-division/country:us/state:ms/county:perry/precinct:4100-arlington": {
+   "name": "Perry County Precinct 4100-Arlington"
   },
   "ocd-division/country:us/state:ms/county:washington/precinct:3-4-lake_vista_masonic_lodge": {
    "name": "Washington County Precinct 3-4-Lake Vista Masonic Lodge"
@@ -2968,11 +2968,11 @@
   "ocd-division/country:us/state:ms/county:holmes/precinct:2dg-beat_2_durant": {
    "name": "Holmes County Precinct 2Dg-Beat 2 Durant"
   },
-  "ocd-division/country:us/state:ms/county:pearl_river/precinct:550-picayune_beat_5": {
-   "name": "Pearl River County Precinct 550-Picayune Beat 5"
-  },
   "ocd-division/country:us/state:ms/county:lauderdale/precinct:560-south_nellieburg": {
    "name": "Lauderdale County Precinct 560-South Nellieburg"
+  },
+  "ocd-division/country:us/state:ms/county:pearl_river/precinct:550-picayune_beat_5": {
+   "name": "Pearl River County Precinct 550-Picayune Beat 5"
   },
   "ocd-division/country:us/state:ms/county:noxubee/precinct:5-earl-earl_nash_gym": {
    "name": "Noxubee County Precinct 5-Earl-Earl Nash Gym"
@@ -3964,15 +3964,15 @@
   "ocd-division/country:us/state:ms/county:lafayette/school_district:stovall_sped_complex_administration": {
    "name": "stovall sped complex administration"
   },
-  "ocd-division/country:us/state:ms/county:harrison/precinct:2041-e_orange_grove": {
-   "name": "Harrison County Precinct 2041-E Orange Grove"
-  },
   "ocd-division/country:us/state:ms/county:lowndes/council_district:1": {
    "name": "Lowndes County Supervisor District 1",
    "officeIndices": [
     697,
     698
    ]
+  },
+  "ocd-division/country:us/state:ms/county:harrison/precinct:2041-e_orange_grove": {
+   "name": "Harrison County Precinct 2041-E Orange Grove"
   },
   "ocd-division/country:us/state:ms/county:pearl_river/precinct:270-picayune_beat_2": {
    "name": "Pearl River County Precinct 270-Picayune Beat 2"
@@ -4706,15 +4706,15 @@
   "ocd-division/country:us/state:ms/county:alcorn/precinct:2fp-five_points_1st_dist": {
    "name": "Alcorn County Precinct 2Fp-Five Points 1St Dist"
   },
-  "ocd-division/country:us/state:ms/county:yazoo/precinct:2-3-deasonville": {
-   "name": "Yazoo County Precinct 2-3-Deasonville"
-  },
   "ocd-division/country:us/state:ms/county:harrison/council_district:2": {
    "name": "Harrison County Supervisor District 2",
    "officeIndices": [
     813,
     814
    ]
+  },
+  "ocd-division/country:us/state:ms/county:yazoo/precinct:2-3-deasonville": {
+   "name": "Yazoo County Precinct 2-3-Deasonville"
   },
   "ocd-division/country:us/state:ms/county:harrison/council_district:1": {
    "name": "Harrison County Supervisor District 1",
@@ -5054,16 +5054,11 @@
     894
    ]
   },
-  "ocd-division/country:us/state:ms/county:monroe/council_district:5": {
-   "name": "Monroe County Supervisor District 5",
-   "officeIndices": [
-    895,
-    896
-   ]
-  },
   "ocd-division/country:us/state:ms/county:hinds": {
    "name": "Hinds County",
    "officeIndices": [
+    895,
+    896,
     897,
     898,
     899,
@@ -5075,7 +5070,12 @@
     905,
     906,
     907,
-    908,
+    908
+   ]
+  },
+  "ocd-division/country:us/state:ms/county:monroe/council_district:5": {
+   "name": "Monroe County Supervisor District 5",
+   "officeIndices": [
     909,
     910
    ]
@@ -5811,14 +5811,11 @@
     1002
    ]
   },
-  "ocd-division/country:us/state:ms/county:monroe/precinct:4f5-4_prairie": {
-   "name": "Monroe County Precinct 4F5-4 Prairie"
-  },
   "ocd-division/country:us/state:ms/county:hancock/precinct:105-waveland_east": {
    "name": "Hancock County Precinct 105-Waveland East"
   },
-  "ocd-division/country:us/state:ms/county:simpson/precinct:magee1-magee_1": {
-   "name": "Simpson County Precinct Magee1-Magee 1"
+  "ocd-division/country:us/state:ms/county:monroe/precinct:4f5-4_prairie": {
+   "name": "Monroe County Precinct 4F5-4 Prairie"
   },
   "ocd-division/country:us/state:ms/county:rankin": {
    "name": "Rankin County",
@@ -5834,14 +5831,17 @@
     1011
    ]
   },
+  "ocd-division/country:us/state:ms/county:simpson/precinct:magee1-magee_1": {
+   "name": "Simpson County Precinct Magee1-Magee 1"
+  },
   "ocd-division/country:us/state:ms/county:newton/precinct:lawrenc-lawrence": {
    "name": "Newton County Precinct Lawrenc-Lawrence"
   },
-  "ocd-division/country:us/state:ms/county:marshall/precinct:3bar-3_barton": {
-   "name": "Marshall County Precinct 3Bar-3 Barton"
-  },
   "ocd-division/country:us/state:ms/county:madison/precinct:527-canton_2": {
    "name": "Madison County Precinct 527-Canton 2"
+  },
+  "ocd-division/country:us/state:ms/county:marshall/precinct:3bar-3_barton": {
+   "name": "Marshall County Precinct 3Bar-3 Barton"
   },
   "ocd-division/country:us/state:ms/county:harrison/precinct:4121-magnolia_grove": {
    "name": "Harrison County Precinct 4121-Magnolia Grove"
@@ -5852,20 +5852,20 @@
   "ocd-division/country:us/state:ms/county:hinds/precinct:c4-clinton_4": {
    "name": "Hinds County Precinct C4-Clinton 4"
   },
-  "ocd-division/country:us/state:ms/place:clarksdale": {
-   "name": "Clarksdale city"
-  },
   "ocd-division/country:us/state:ms/county:marshall/precinct:4vic-4_victoria": {
    "name": "Marshall County Precinct 4Vic-4 Victoria"
+  },
+  "ocd-division/country:us/state:ms/place:clarksdale": {
+   "name": "Clarksdale city"
   },
   "ocd-division/country:us/state:ms/county:pontotoc/precinct:oh-oakhill": {
    "name": "Pontotoc County Precinct Oh-Oakhill"
   },
-  "ocd-division/country:us/state:ms/county:pontotoc/precinct:ju-judah": {
-   "name": "Pontotoc County Precinct Ju-Judah"
-  },
   "ocd-division/country:us/state:ms/county:harrison/precinct:3051-ladner": {
    "name": "Harrison County Precinct 3051-Ladner"
+  },
+  "ocd-division/country:us/state:ms/county:pontotoc/precinct:ju-judah": {
+   "name": "Pontotoc County Precinct Ju-Judah"
   },
   "ocd-division/country:us/state:ms/county:lee/council_district:5": {
    "name": "Lee County Supervisor District 5",
@@ -5874,12 +5874,6 @@
     1013
    ]
   },
-  "ocd-division/country:us/state:ms/county:yazoo/precinct:1-4-center_ridge": {
-   "name": "Yazoo County Precinct 1-4-Center Ridge"
-  },
-  "ocd-division/country:us/state:ms/county:copiah/school_district:copiah_co_school_dist": {
-   "name": "copiah co school dist"
-  },
   "ocd-division/country:us/state:ms/county:lee/council_district:4": {
    "name": "Lee County Supervisor District 4",
    "officeIndices": [
@@ -5887,26 +5881,32 @@
     1015
    ]
   },
+  "ocd-division/country:us/state:ms/county:copiah/school_district:copiah_co_school_dist": {
+   "name": "copiah co school dist"
+  },
+  "ocd-division/country:us/state:ms/county:yazoo/precinct:1-4-center_ridge": {
+   "name": "Yazoo County Precinct 1-4-Center Ridge"
+  },
   "ocd-division/country:us/state:ms/county:lee/council_district:3": {
    "name": "Lee County Supervisor District 3",
    "officeIndices": [
     1016
    ]
   },
-  "ocd-division/country:us/state:ms/place:noxapater": {
-   "name": "Noxapater town"
-  },
   "ocd-division/country:us/state:ms/county:lawrence/precinct:4-sontag": {
    "name": "Lawrence County Precinct 4-Sontag"
+  },
+  "ocd-division/country:us/state:ms/place:noxapater": {
+   "name": "Noxapater town"
   },
   "ocd-division/country:us/state:ms/county:greene/precinct:4-state_line": {
    "name": "Greene County Precinct 4-State Line"
   },
-  "ocd-division/country:us/state:ms/place:booneville": {
-   "name": "Booneville city"
-  },
   "ocd-division/country:us/state:ms/county:tippah/precinct:6-north_falkner": {
    "name": "Tippah County Precinct 6-North Falkner"
+  },
+  "ocd-division/country:us/state:ms/place:booneville": {
+   "name": "Booneville city"
   },
   "ocd-division/country:us/state:ms/county:montgomery/precinct:k-kilmichael": {
    "name": "Montgomery County Precinct K-Kilmichael"
@@ -5917,20 +5917,20 @@
   "ocd-division/country:us/state:ms/county:alcorn/precinct:2rie-rienzi": {
    "name": "Alcorn County Precinct 2Rie-Rienzi"
   },
-  "ocd-division/country:us/state:ms/county:lafayette/precinct:401-oxford_4": {
-   "name": "Lafayette County Precinct 401-Oxford 4"
-  },
   "ocd-division/country:us/state:ms/county:lamar/precinct:112-okahola": {
    "name": "Lamar County Precinct 112-Okahola"
+  },
+  "ocd-division/country:us/state:ms/county:lafayette/precinct:401-oxford_4": {
+   "name": "Lafayette County Precinct 401-Oxford 4"
   },
   "ocd-division/country:us/state:ms/county:amite/precinct:413-tangipahoa": {
    "name": "Amite County Precinct 413-Tangipahoa"
   },
-  "ocd-division/country:us/state:ms/county:rankin/precinct:118-west_steen_creek": {
-   "name": "Rankin County Precinct 118-West Steen Creek"
-  },
   "ocd-division/country:us/state:ms/county:lamar/precinct:446-kingsmill": {
    "name": "Lamar County Precinct 446-Kingsmill"
+  },
+  "ocd-division/country:us/state:ms/county:rankin/precinct:118-west_steen_creek": {
+   "name": "Rankin County Precinct 118-West Steen Creek"
   },
   "ocd-division/country:us/state:ms/county:smith": {
    "name": "Smith County",
@@ -5968,15 +5968,15 @@
     1028
    ]
   },
+  "ocd-division/country:us/state:ms/county:desoto/precinct:202-greenbrook_north": {
+   "name": "Desoto County Precinct 202-Greenbrook North"
+  },
   "ocd-division/country:us/state:ms/county:yalobusha/council_district:3": {
    "name": "Yalobusha County Supervisor District 3",
    "officeIndices": [
     1029,
     1030
    ]
-  },
-  "ocd-division/country:us/state:ms/county:desoto/precinct:202-greenbrook_north": {
-   "name": "Desoto County Precinct 202-Greenbrook North"
   },
   "ocd-division/country:us/state:ms/county:yalobusha/council_district:4": {
    "name": "Yalobusha County Supervisor District 4",
@@ -5991,11 +5991,11 @@
   "ocd-division/country:us/state:ms/county:itawamba/precinct:541-greenwood": {
    "name": "Itawamba County Precinct 541-Greenwood"
   },
-  "ocd-division/country:us/state:ms/county:sunflower/precinct:45-sunflower_4": {
-   "name": "Sunflower County Precinct 45-Sunflower 4"
-  },
   "ocd-division/country:us/state:ms/county:rankin/precinct:414-pelahatchie": {
    "name": "Rankin County Precinct 414-Pelahatchie"
+  },
+  "ocd-division/country:us/state:ms/county:sunflower/precinct:45-sunflower_4": {
+   "name": "Sunflower County Precinct 45-Sunflower 4"
   },
   "ocd-division/country:us/state:ms/place:collins": {
    "name": "Collins city"
@@ -6003,17 +6003,17 @@
   "ocd-division/country:us/state:ms/county:holmes/precinct:5l-beat_5_lexington": {
    "name": "Holmes County Precinct 5L-Beat 5 Lexington"
   },
-  "ocd-division/country:us/state:ms/county:tallahatchie/precinct:406-leverette": {
-   "name": "Tallahatchie County Precinct 406-Leverette"
-  },
   "ocd-division/country:us/state:ms/county:clay/precinct:us-union_star": {
    "name": "Clay County Precinct Us-Union Star"
   },
-  "ocd-division/country:us/state:ms/county:tunica/precinct:10-supt_of_education": {
-   "name": "Tunica County Precinct 10-Supt Of Education"
+  "ocd-division/country:us/state:ms/county:tallahatchie/precinct:406-leverette": {
+   "name": "Tallahatchie County Precinct 406-Leverette"
   },
   "ocd-division/country:us/state:ms/county:perry/school_district:richton_school_dist": {
    "name": "richton school dist"
+  },
+  "ocd-division/country:us/state:ms/county:tunica/precinct:10-supt_of_education": {
+   "name": "Tunica County Precinct 10-Supt Of Education"
   },
   "ocd-division/country:us/state:ms/county:bolivar": {
    "name": "Bolivar County",
@@ -6774,15 +6774,15 @@
   "ocd-division/country:us/state:ms/county:calhoun/precinct:7-calhoun_city_4": {
    "name": "Calhoun County Precinct 7-Calhoun City 4"
   },
-  "ocd-division/country:us/state:ms/county:wayne/precinct:35-corinth": {
-   "name": "Wayne County Precinct 35-Corinth"
-  },
   "ocd-division/country:us/state:ms/county:washington/council_district:2": {
    "name": "Washington County Supervisor District 2",
    "officeIndices": [
     1133,
     1134
    ]
+  },
+  "ocd-division/country:us/state:ms/county:wayne/precinct:35-corinth": {
+   "name": "Wayne County Precinct 35-Corinth"
   },
   "ocd-division/country:us/state:ms/county:lincoln/precinct:33-enterprise": {
    "name": "Lincoln County Precinct 33-Enterprise"
@@ -7260,14 +7260,14 @@
     3
    ]
   },
-  "ocd-division/country:us/state:ms/county:tippah/precinct:22-peoples": {
-   "name": "Tippah County Precinct 22-Peoples"
-  },
   "ocd-division/country:us/state:ms/cd:4": {
    "name": "Mississippi's 4th congressional district",
    "officeIndices": [
     4
    ]
+  },
+  "ocd-division/country:us/state:ms/county:tippah/precinct:22-peoples": {
+   "name": "Tippah County Precinct 22-Peoples"
   },
   "ocd-division/country:us/state:ms/county:clay/precinct:ewp-east_west_point": {
    "name": "Clay County Precinct Ewp-East West Point"
@@ -8436,9 +8436,6 @@
   "ocd-division/country:us/state:ms/county:hinds/precinct:6": {
    "name": "Hinds County Precinct 6"
   },
-  "ocd-division/country:us/state:ms/county:hinds/precinct:8": {
-   "name": "Hinds County Precinct 8"
-  },
   "ocd-division/country:us/state:ms/county:lincoln": {
    "name": "Lincoln County",
    "officeIndices": [
@@ -8452,6 +8449,9 @@
     1309,
     1310
    ]
+  },
+  "ocd-division/country:us/state:ms/county:hinds/precinct:8": {
+   "name": "Hinds County Precinct 8"
   },
   "ocd-division/country:us/state:ms/county:webster/precinct:21-eupora_no_2": {
    "name": "Webster County Precinct 21-Eupora No 2"
@@ -9134,17 +9134,17 @@
     1375
    ]
   },
-  "ocd-division/country:us/state:ms/sldl:29": {
-   "name": "Mississippi State House district 29",
-   "officeIndices": [
-    94
-   ]
-  },
   "ocd-division/country:us/state:ms/county:desoto/council_district:4": {
    "name": "Desoto County Supervisor District 4",
    "officeIndices": [
     1376,
     1377
+   ]
+  },
+  "ocd-division/country:us/state:ms/sldl:29": {
+   "name": "Mississippi State House district 29",
+   "officeIndices": [
+    94
    ]
   },
   "ocd-division/country:us/state:ms/place:pelahatchie": {
@@ -9395,15 +9395,15 @@
     1399
    ]
   },
-  "ocd-division/country:us/state:ms/county:pike/precinct:13-holmesville_comm": {
-   "name": "Pike County Precinct 13-Holmesville Comm"
-  },
   "ocd-division/country:us/state:ms/county:grenada/council_district:5": {
    "name": "Grenada County Supervisor District 5",
    "officeIndices": [
     1400,
     1401
    ]
+  },
+  "ocd-division/country:us/state:ms/county:pike/precinct:13-holmesville_comm": {
+   "name": "Pike County Precinct 13-Holmesville Comm"
   },
   "ocd-division/country:us/state:ms/county:madison/precinct:313-tougaloo": {
    "name": "Madison County Precinct 313-Tougaloo"
@@ -9554,9 +9554,6 @@
   "ocd-division/country:us/state:ms/county:claiborne/precinct:5-b": {
    "name": "Claiborne County Precinct 5-B"
   },
-  "ocd-division/country:us/state:ms/county:claiborne/precinct:5-a": {
-   "name": "Claiborne County Precinct 5-A"
-  },
   "ocd-division/country:us/state:ms/county:lafayette/council_district:4": {
    "name": "Lafayette County Supervisor District 4",
    "officeIndices": [
@@ -9564,8 +9561,8 @@
     1431
    ]
   },
-  "ocd-division/country:us/state:ms/place:webb": {
-   "name": "Webb town"
+  "ocd-division/country:us/state:ms/county:claiborne/precinct:5-a": {
+   "name": "Claiborne County Precinct 5-A"
   },
   "ocd-division/country:us/state:ms/county:lafayette/council_district:5": {
    "name": "Lafayette County Supervisor District 5",
@@ -9573,6 +9570,9 @@
     1432,
     1433
    ]
+  },
+  "ocd-division/country:us/state:ms/place:webb": {
+   "name": "Webb town"
   },
   "ocd-division/country:us/state:ms/county:winston/precinct:53-new_national_guard": {
    "name": "Winston County Precinct 53-New National Guard"
@@ -10373,14 +10373,14 @@
   "ocd-division/country:us/state:ms/county:lowndes/school_district:ms_sch_for_math_and_sc": {
    "name": "ms sch for math and sc"
   },
-  "ocd-division/country:us/state:ms/sldl:98": {
-   "name": "Mississippi State House district 98",
+  "ocd-division/country:us/state:ms/sldl:115": {
+   "name": "Mississippi State House district 115",
    "officeIndices": [
     135
    ]
   },
-  "ocd-division/country:us/state:ms/sldl:115": {
-   "name": "Mississippi State House district 115",
+  "ocd-division/country:us/state:ms/sldl:98": {
+   "name": "Mississippi State House district 98",
    "officeIndices": [
     134
    ]
@@ -10526,14 +10526,14 @@
     151
    ]
   },
-  "ocd-division/country:us/state:ms/sldl:87": {
-   "name": "Mississippi State House district 87",
+  "ocd-division/country:us/state:ms/sldl:104": {
+   "name": "Mississippi State House district 104",
    "officeIndices": [
     153
    ]
   },
-  "ocd-division/country:us/state:ms/sldl:104": {
-   "name": "Mississippi State House district 104",
+  "ocd-division/country:us/state:ms/sldl:87": {
+   "name": "Mississippi State House district 87",
    "officeIndices": [
     152
    ]
@@ -10553,14 +10553,14 @@
   "ocd-division/country:us/state:ms/county:madison/precinct:523-farmhaven": {
    "name": "Madison County Precinct 523-Farmhaven"
   },
-  "ocd-division/country:us/state:ms/sldl:89": {
-   "name": "Mississippi State House district 89",
+  "ocd-division/country:us/state:ms/sldl:106": {
+   "name": "Mississippi State House district 106",
    "officeIndices": [
     157
    ]
   },
-  "ocd-division/country:us/state:ms/sldl:106": {
-   "name": "Mississippi State House district 106",
+  "ocd-division/country:us/state:ms/sldl:89": {
+   "name": "Mississippi State House district 89",
    "officeIndices": [
     156
    ]
@@ -11328,9 +11328,6 @@
     1609
    ]
   },
-  "ocd-division/country:us/state:ms/county:sharkey/precinct:1rf-rolling_fork_first_district": {
-   "name": "Sharkey County Precinct 1Rf-Rolling Fork First District"
-  },
   "ocd-division/country:us/state:ms/county:adams": {
    "name": "Adams County",
    "officeIndices": [
@@ -11344,6 +11341,9 @@
     1619,
     1620
    ]
+  },
+  "ocd-division/country:us/state:ms/county:sharkey/precinct:1rf-rolling_fork_first_district": {
+   "name": "Sharkey County Precinct 1Rf-Rolling Fork First District"
   },
   "ocd-division/country:us/state:ms/county:leflore/council_district:5": {
    "name": "Leflore County Supervisor District 5",
@@ -11559,9 +11559,6 @@
   "ocd-division/country:us/state:ms/place:raymond": {
    "name": "Raymond city"
   },
-  "ocd-division/country:us/state:ms/place:blue_springs": {
-   "name": "Blue Springs village"
-  },
   "ocd-division/country:us/state:ms/county:pearl_river": {
    "name": "Pearl River County",
    "officeIndices": [
@@ -11575,6 +11572,9 @@
     1651,
     1652
    ]
+  },
+  "ocd-division/country:us/state:ms/place:blue_springs": {
+   "name": "Blue Springs village"
   },
   "ocd-division/country:us/state:ms/county:union/precinct:404-east_union": {
    "name": "Union County Precinct 404-East Union"
@@ -14007,8 +14007,8 @@
    ]
   },
   {
-   "name": "MS State House District 115",
-   "divisionId": "ocd-division/country:us/state:ms/sldl:115",
+   "name": "MS State House District 98",
+   "divisionId": "ocd-division/country:us/state:ms/sldl:98",
    "levels": [
     "administrativeArea1"
    ],
@@ -14020,8 +14020,8 @@
    ]
   },
   {
-   "name": "MS State House District 98",
-   "divisionId": "ocd-division/country:us/state:ms/sldl:98",
+   "name": "MS State House District 115",
+   "divisionId": "ocd-division/country:us/state:ms/sldl:115",
    "levels": [
     "administrativeArea1"
    ],
@@ -14241,8 +14241,8 @@
    ]
   },
   {
-   "name": "MS State House District 104",
-   "divisionId": "ocd-division/country:us/state:ms/sldl:104",
+   "name": "MS State House District 87",
+   "divisionId": "ocd-division/country:us/state:ms/sldl:87",
    "levels": [
     "administrativeArea1"
    ],
@@ -14254,8 +14254,8 @@
    ]
   },
   {
-   "name": "MS State House District 87",
-   "divisionId": "ocd-division/country:us/state:ms/sldl:87",
+   "name": "MS State House District 104",
+   "divisionId": "ocd-division/country:us/state:ms/sldl:104",
    "levels": [
     "administrativeArea1"
    ],
@@ -14293,8 +14293,8 @@
    ]
   },
   {
-   "name": "MS State House District 106",
-   "divisionId": "ocd-division/country:us/state:ms/sldl:106",
+   "name": "MS State House District 89",
+   "divisionId": "ocd-division/country:us/state:ms/sldl:89",
    "levels": [
     "administrativeArea1"
    ],
@@ -14306,8 +14306,8 @@
    ]
   },
   {
-   "name": "MS State House District 89",
-   "divisionId": "ocd-division/country:us/state:ms/sldl:89",
+   "name": "MS State House District 106",
+   "divisionId": "ocd-division/country:us/state:ms/sldl:106",
    "levels": [
     "administrativeArea1"
    ],
@@ -14716,22 +14716,22 @@
    ]
   },
   {
-   "name": "Council, Ward 7",
-   "divisionId": "ocd-division/country:us/state:ms/place:jackson/ward:7",
+   "name": "Election Commission, District 3",
+   "divisionId": "ocd-division/country:us/state:ms/county:scott/council_district:3",
    "officialIndices": [
     196
    ]
   },
   {
-   "name": "Election Commission, District 3",
+   "name": "Board of Supervisors, District 3",
    "divisionId": "ocd-division/country:us/state:ms/county:scott/council_district:3",
    "officialIndices": [
     197
    ]
   },
   {
-   "name": "Board of Supervisors, District 3",
-   "divisionId": "ocd-division/country:us/state:ms/county:scott/council_district:3",
+   "name": "Council, Ward 7",
+   "divisionId": "ocd-division/country:us/state:ms/place:jackson/ward:7",
    "officialIndices": [
     198
    ]
@@ -15297,78 +15297,78 @@
    ]
   },
   {
-   "name": "Coroner",
-   "divisionId": "ocd-division/country:us/state:ms/county:alcorn",
+   "name": "Election Commission, District 4",
+   "divisionId": "ocd-division/country:us/state:ms/county:lincoln/council_district:4",
    "officialIndices": [
     279
    ]
   },
   {
-   "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:ms/county:alcorn",
+   "name": "Board of Supervisors, District 4",
+   "divisionId": "ocd-division/country:us/state:ms/county:lincoln/council_district:4",
    "officialIndices": [
     280
    ]
   },
   {
-   "name": "Tax Assessor",
+   "name": "Coroner",
    "divisionId": "ocd-division/country:us/state:ms/county:alcorn",
    "officialIndices": [
     281
    ]
   },
   {
-   "name": "Circuit Clerk",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ms/county:alcorn",
    "officialIndices": [
     282
    ]
   },
   {
-   "name": "Tax Collector",
+   "name": "Tax Assessor",
    "divisionId": "ocd-division/country:us/state:ms/county:alcorn",
    "officialIndices": [
     283
    ]
   },
   {
-   "name": "Chancery Clerk",
+   "name": "Circuit Clerk",
    "divisionId": "ocd-division/country:us/state:ms/county:alcorn",
    "officialIndices": [
     284
    ]
   },
   {
-   "name": "District Attorney",
+   "name": "Tax Collector",
    "divisionId": "ocd-division/country:us/state:ms/county:alcorn",
    "officialIndices": [
     285
    ]
   },
   {
-   "name": "County Prosecuting Attorney",
+   "name": "Chancery Clerk",
    "divisionId": "ocd-division/country:us/state:ms/county:alcorn",
    "officialIndices": [
     286
    ]
   },
   {
-   "name": "Superintendent of Education",
+   "name": "District Attorney",
    "divisionId": "ocd-division/country:us/state:ms/county:alcorn",
    "officialIndices": [
     287
    ]
   },
   {
-   "name": "Election Commission, District 4",
-   "divisionId": "ocd-division/country:us/state:ms/county:lincoln/council_district:4",
+   "name": "County Prosecuting Attorney",
+   "divisionId": "ocd-division/country:us/state:ms/county:alcorn",
    "officialIndices": [
     288
    ]
   },
   {
-   "name": "Board of Supervisors, District 4",
-   "divisionId": "ocd-division/country:us/state:ms/county:lincoln/council_district:4",
+   "name": "Superintendent of Education",
+   "divisionId": "ocd-division/country:us/state:ms/county:alcorn",
    "officialIndices": [
     289
    ]
@@ -15592,119 +15592,119 @@
   },
   {
    "name": "Coroner",
-   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
+   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
    "officialIndices": [
     321
    ]
   },
   {
    "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
+   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
    "officialIndices": [
     322
    ]
   },
   {
    "name": "Tax Assessor",
-   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
+   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
    "officialIndices": [
     323
    ]
   },
   {
    "name": "Circuit Clerk",
-   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
+   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
    "officialIndices": [
     324
    ]
   },
   {
    "name": "Tax Collector",
-   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
+   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
    "officialIndices": [
     325
    ]
   },
   {
    "name": "Chancery Clerk",
-   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
+   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
    "officialIndices": [
     326
    ]
   },
   {
    "name": "District Attorney",
-   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
+   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
    "officialIndices": [
     327
    ]
   },
   {
-   "name": "County Prosecuting Attorney",
-   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
+   "name": "Superintendent of Education",
+   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
    "officialIndices": [
     328
    ]
   },
   {
-   "name": "Superintendent of Education",
+   "name": "Coroner",
    "divisionId": "ocd-division/country:us/state:ms/county:leflore",
    "officialIndices": [
     329
    ]
   },
   {
-   "name": "Coroner",
-   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
+   "name": "Sheriff",
+   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
    "officialIndices": [
     330
    ]
   },
   {
-   "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
+   "name": "Tax Assessor",
+   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
    "officialIndices": [
     331
    ]
   },
   {
-   "name": "Tax Assessor",
-   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
+   "name": "Circuit Clerk",
+   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
    "officialIndices": [
     332
    ]
   },
   {
-   "name": "Circuit Clerk",
-   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
+   "name": "Tax Collector",
+   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
    "officialIndices": [
     333
    ]
   },
   {
-   "name": "Tax Collector",
-   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
+   "name": "Chancery Clerk",
+   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
    "officialIndices": [
     334
    ]
   },
   {
-   "name": "Chancery Clerk",
-   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
+   "name": "District Attorney",
+   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
    "officialIndices": [
     335
    ]
   },
   {
-   "name": "District Attorney",
-   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
+   "name": "County Prosecuting Attorney",
+   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
    "officialIndices": [
     336
    ]
   },
   {
    "name": "Superintendent of Education",
-   "divisionId": "ocd-division/country:us/state:ms/county:wilkinson",
+   "divisionId": "ocd-division/country:us/state:ms/county:leflore",
    "officialIndices": [
     337
    ]
@@ -16438,78 +16438,78 @@
    ]
   },
   {
-   "name": "Election Commission, District 2",
-   "divisionId": "ocd-division/country:us/state:ms/county:hinds/council_district:2",
-   "officialIndices": [
-    442
-   ]
-  },
-  {
-   "name": "Board of Supervisors, District 2",
-   "divisionId": "ocd-division/country:us/state:ms/county:hinds/council_district:2",
-   "officialIndices": [
-    443
-   ]
-  },
-  {
    "name": "Coroner",
    "divisionId": "ocd-division/country:us/state:ms/county:simpson",
    "officialIndices": [
-    444
+    442
    ]
   },
   {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ms/county:simpson",
    "officialIndices": [
-    445
+    443
    ]
   },
   {
    "name": "Tax Assessor",
    "divisionId": "ocd-division/country:us/state:ms/county:simpson",
    "officialIndices": [
-    446
+    444
    ]
   },
   {
    "name": "Circuit Clerk",
    "divisionId": "ocd-division/country:us/state:ms/county:simpson",
    "officialIndices": [
-    447
+    445
    ]
   },
   {
    "name": "Tax Collector",
    "divisionId": "ocd-division/country:us/state:ms/county:simpson",
    "officialIndices": [
-    448
+    446
    ]
   },
   {
    "name": "Chancery Clerk",
    "divisionId": "ocd-division/country:us/state:ms/county:simpson",
    "officialIndices": [
-    449
+    447
    ]
   },
   {
    "name": "District Attorney",
    "divisionId": "ocd-division/country:us/state:ms/county:simpson",
    "officialIndices": [
-    450
+    448
    ]
   },
   {
    "name": "County Prosecuting Attorney",
    "divisionId": "ocd-division/country:us/state:ms/county:simpson",
    "officialIndices": [
-    451
+    449
    ]
   },
   {
    "name": "Superintendent of Education",
    "divisionId": "ocd-division/country:us/state:ms/county:simpson",
+   "officialIndices": [
+    450
+   ]
+  },
+  {
+   "name": "Election Commission, District 2",
+   "divisionId": "ocd-division/country:us/state:ms/county:hinds/council_district:2",
+   "officialIndices": [
+    451
+   ]
+  },
+  {
+   "name": "Board of Supervisors, District 2",
+   "divisionId": "ocd-division/country:us/state:ms/county:hinds/council_district:2",
    "officialIndices": [
     452
    ]
@@ -19616,113 +19616,113 @@
    ]
   },
   {
-   "name": "Election Commission, District 5",
-   "divisionId": "ocd-division/country:us/state:ms/county:monroe/council_district:5",
-   "officialIndices": [
-    896
-   ]
-  },
-  {
-   "name": "Board of Supervisors, District 5",
-   "divisionId": "ocd-division/country:us/state:ms/county:monroe/council_district:5",
-   "officialIndices": [
-    897
-   ]
-  },
-  {
    "name": "Coroner",
    "divisionId": "ocd-division/country:us/state:ms/county:hinds",
    "officialIndices": [
-    898
+    896
    ]
   },
   {
    "name": "County Attorney",
    "divisionId": "ocd-division/country:us/state:ms/county:hinds",
    "officialIndices": [
-    899
+    897
    ]
   },
   {
    "name": "District Attorney",
    "divisionId": "ocd-division/country:us/state:ms/county:hinds",
    "officialIndices": [
-    900
+    898
    ]
   },
   {
    "name": "Sheriff, First Judicial",
    "divisionId": "ocd-division/country:us/state:ms/county:hinds",
    "officialIndices": [
-    901
+    899
    ]
   },
   {
    "name": "Sheriff, Second Judicial",
    "divisionId": "ocd-division/country:us/state:ms/county:hinds",
    "officialIndices": [
-    902
+    900
    ]
   },
   {
    "name": "Superintendent of Education",
    "divisionId": "ocd-division/country:us/state:ms/county:hinds",
    "officialIndices": [
-    903
+    901
    ]
   },
   {
    "name": "Tax Assessor, First Judicial",
    "divisionId": "ocd-division/country:us/state:ms/county:hinds",
    "officialIndices": [
-    904
+    902
    ]
   },
   {
    "name": "Circuit Clerk, First Judicial",
    "divisionId": "ocd-division/country:us/state:ms/county:hinds",
    "officialIndices": [
-    905
+    903
    ]
   },
   {
    "name": "Tax Assessor, Second Judicial",
    "divisionId": "ocd-division/country:us/state:ms/county:hinds",
    "officialIndices": [
-    906
+    904
    ]
   },
   {
    "name": "Tax Collector, First Judicial",
    "divisionId": "ocd-division/country:us/state:ms/county:hinds",
    "officialIndices": [
-    907
+    905
    ]
   },
   {
    "name": "Chancery Clerk, First Judicial",
    "divisionId": "ocd-division/country:us/state:ms/county:hinds",
    "officialIndices": [
-    908
+    906
    ]
   },
   {
    "name": "Circuit Clerk, Second Judicial",
    "divisionId": "ocd-division/country:us/state:ms/county:hinds",
    "officialIndices": [
-    909
+    907
    ]
   },
   {
    "name": "Tax Collector, Second Judicial",
    "divisionId": "ocd-division/country:us/state:ms/county:hinds",
    "officialIndices": [
-    910
+    908
    ]
   },
   {
    "name": "Chancery Clerk, Second Judicial",
    "divisionId": "ocd-division/country:us/state:ms/county:hinds",
+   "officialIndices": [
+    909
+   ]
+  },
+  {
+   "name": "Election Commission, District 5",
+   "divisionId": "ocd-division/country:us/state:ms/county:monroe/council_district:5",
+   "officialIndices": [
+    910
+   ]
+  },
+  {
+   "name": "Board of Supervisors, District 5",
+   "divisionId": "ocd-division/country:us/state:ms/county:monroe/council_district:5",
    "officialIndices": [
     911
    ]
@@ -25875,6 +25875,9 @@
    "phones": [
     "(601) 359-3200"
    ],
+   "urls": [
+    "http://ltgovreeves.ms.gov/"
+   ],
    "emails": [
     "ltgov@senate.ms.gov"
    ],
@@ -25912,11 +25915,11 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "senatormcdaniel"
     },
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "senatormcdaniel"
     }
    ]
@@ -26070,12 +26073,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "JohnPolkforStateSenate"
-    },
-    {
      "type": "Twitter",
      "id": "senatorjohnpolk"
+    },
+    {
+     "type": "Facebook",
+     "id": "JohnPolkforStateSenate"
     }
    ]
   },
@@ -26252,16 +26255,16 @@
    ],
    "channels": [
     {
+     "type": "Twitter",
+     "id": "dbaria"
+    },
+    {
      "type": "YouTube",
      "id": "BariaCampaign"
     },
     {
      "type": "Facebook",
      "id": "bariaforhouse122"
-    },
-    {
-     "type": "Twitter",
-     "id": "dbaria"
     }
    ]
   },
@@ -26519,12 +26522,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "SenDTSimmons"
-    },
-    {
      "type": "Facebook",
      "id": "DerrickTSimmons"
+    },
+    {
+     "type": "Twitter",
+     "id": "SenDTSimmons"
     }
    ]
   },
@@ -26709,12 +26712,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "WillLongwitz"
-    },
-    {
      "type": "Facebook",
      "id": "longwitz"
+    },
+    {
+     "type": "Twitter",
+     "id": "WillLongwitz"
     }
    ]
   },
@@ -27228,12 +27231,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "PhilipGunn"
-    },
-    {
      "type": "Twitter",
      "id": "philipgunnms"
+    },
+    {
+     "type": "Facebook",
+     "id": "PhilipGunn"
     }
    ]
   },
@@ -27667,16 +27670,16 @@
    ],
    "channels": [
     {
+     "type": "Twitter",
+     "id": "joeyhoodms"
+    },
+    {
      "type": "GooglePlus",
      "id": "105341666236756698116"
     },
     {
      "type": "Facebook",
      "id": "joeyhoodformississippi"
-    },
-    {
-     "type": "Twitter",
-     "id": "joeyhoodms"
     }
    ]
   },
@@ -27703,16 +27706,16 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "RepLindaWhittington"
-    },
-    {
      "type": "YouTube",
      "id": "replindawhittington"
     },
     {
      "type": "Twitter",
      "id": "RepWhittington"
+    },
+    {
+     "type": "Facebook",
+     "id": "RepLindaWhittington"
     }
    ]
   },
@@ -27834,12 +27837,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "miles.p.nelson"
-    },
-    {
      "type": "Twitter",
      "id": "RepPatNelson"
+    },
+    {
+     "type": "Facebook",
+     "id": "miles.p.nelson"
     }
    ]
   },
@@ -28422,12 +28425,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "Nancyacollins47"
-    },
-    {
      "type": "Facebook",
      "id": "nancy.collins.3766"
+    },
+    {
+     "type": "Twitter",
+     "id": "Nancyacollins47"
     }
    ]
   },
@@ -28526,12 +28529,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "senatorbillstone"
-    },
-    {
      "type": "Twitter",
      "id": "senbillstone"
+    },
+    {
+     "type": "Facebook",
+     "id": "senatorbillstone"
     }
    ]
   },
@@ -28793,12 +28796,12 @@
    ],
    "channels": [
     {
-     "type": "GooglePlus",
-     "id": "108016662523660606730"
-    },
-    {
      "type": "Twitter",
      "id": "staterepbain2"
+    },
+    {
+     "type": "GooglePlus",
+     "id": "108016662523660606730"
     }
    ]
   },
@@ -28885,12 +28888,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "RepJAnderson"
-    },
-    {
      "type": "Facebook",
      "id": "jerameyanderson13"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepJAnderson"
     }
    ]
   },
@@ -29075,28 +29078,6 @@
    ]
   },
   {
-   "name": "Randall Patterson",
-   "address": [
-    {
-     "line1": "1352 kensington drive",
-     "city": "biloxi",
-     "state": "MS",
-     "zip": ""
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(228) 432-8480"
-   ],
-   "urls": [
-    "http://billstatus.ls.state.ms.us/members/house/patterson.xml"
-   ],
-   "photoUrl": "http://billstatus.ls.state.ms.us/members/house/patterson.jpg",
-   "emails": [
-    "rhpatterson@house.ms.gov"
-   ]
-  },
-  {
    "name": "David W. Myers",
    "address": [
     {
@@ -29116,6 +29097,28 @@
    "photoUrl": "http://billstatus.ls.state.ms.us/members/house/myers.jpg",
    "emails": [
     "dmyers@house.ms.gov"
+   ]
+  },
+  {
+   "name": "Randall Patterson",
+   "address": [
+    {
+     "line1": "1352 kensington drive",
+     "city": "biloxi",
+     "state": "MS",
+     "zip": ""
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(228) 432-8480"
+   ],
+   "urls": [
+    "http://billstatus.ls.state.ms.us/members/house/patterson.xml"
+   ],
+   "photoUrl": "http://billstatus.ls.state.ms.us/members/house/patterson.jpg",
+   "emails": [
+    "rhpatterson@house.ms.gov"
    ]
   },
   {
@@ -29517,28 +29520,6 @@
    ]
   },
   {
-   "name": "Larry Byrd",
-   "address": [
-    {
-     "line1": "17 byrd rd.",
-     "city": "petal",
-     "state": "MS",
-     "zip": "39465"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(601) 544-1877"
-   ],
-   "urls": [
-    "http://billstatus.ls.state.ms.us/members/house/byrd.xml"
-   ],
-   "photoUrl": "http://billstatus.ls.state.ms.us/members/house/byrd.jpg",
-   "emails": [
-    "lbyrd@house.ms.gov"
-   ]
-  },
-  {
    "name": "Johnny W. Stringer",
    "address": [
     {
@@ -29558,6 +29539,28 @@
    "photoUrl": "http://billstatus.ls.state.ms.us/members/house/stringer.jpg",
    "emails": [
     "jstringer@house.ms.gov"
+   ]
+  },
+  {
+   "name": "Larry Byrd",
+   "address": [
+    {
+     "line1": "17 byrd rd.",
+     "city": "petal",
+     "state": "MS",
+     "zip": "39465"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(601) 544-1877"
+   ],
+   "urls": [
+    "http://billstatus.ls.state.ms.us/members/house/byrd.xml"
+   ],
+   "photoUrl": "http://billstatus.ls.state.ms.us/members/house/byrd.jpg",
+   "emails": [
+    "lbyrd@house.ms.gov"
    ]
   },
   {
@@ -29605,6 +29608,28 @@
    ]
   },
   {
+   "name": "Bobby Shows",
+   "address": [
+    {
+     "line1": "P.O. Box 373",
+     "city": "ellisville",
+     "state": "MS",
+     "zip": "39437"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(601) 477-3956"
+   ],
+   "urls": [
+    "http://billstatus.ls.state.ms.us/members/house/shows.xml"
+   ],
+   "photoUrl": "http://billstatus.ls.state.ms.us/members/house/shows.jpg",
+   "emails": [
+    "bshows@house.ms.gov"
+   ]
+  },
+  {
    "name": "Herb Frierson",
    "address": [
     {
@@ -29630,28 +29655,6 @@
      "type": "Twitter",
      "id": "HerbFrierson"
     }
-   ]
-  },
-  {
-   "name": "Bobby Shows",
-   "address": [
-    {
-     "line1": "P.O. Box 373",
-     "city": "ellisville",
-     "state": "MS",
-     "zip": "39437"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(601) 477-3956"
-   ],
-   "urls": [
-    "http://billstatus.ls.state.ms.us/members/house/shows.xml"
-   ],
-   "photoUrl": "http://billstatus.ls.state.ms.us/members/house/shows.jpg",
-   "emails": [
-    "bshows@house.ms.gov"
    ]
   },
   {
@@ -29838,12 +29841,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "RepSnowden"
-    },
-    {
      "type": "Twitter",
      "id": "snowlaw"
+    },
+    {
+     "type": "Facebook",
+     "id": "RepSnowden"
     }
    ]
   },
@@ -30058,11 +30061,11 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "reptommiles"
     },
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "reptommiles"
     }
    ]
@@ -30401,26 +30404,6 @@
    ]
   },
   {
-   "name": "Margaret Barrett-Simon",
-   "address": [
-    {
-     "line1": "219 south president street",
-     "city": "jackson",
-     "state": "MS",
-     "zip": "39205"
-    }
-   ],
-   "phones": [
-    "(601) 960-1063"
-   ],
-   "urls": [
-    "http://www.jacksonms.gov/index.aspx?nid=531"
-   ],
-   "emails": [
-    "mbarrett@city.jackson.ms.us"
-   ]
-  },
-  {
    "name": "Doris Derrick",
    "address": [
     {
@@ -30445,6 +30428,26 @@
    "party": "Unknown",
    "phones": [
     "(601) 469-1926"
+   ]
+  },
+  {
+   "name": "Margaret Barrett-Simon",
+   "address": [
+    {
+     "line1": "219 south president street",
+     "city": "jackson",
+     "state": "MS",
+     "zip": "39205"
+    }
+   ],
+   "phones": [
+    "(601) 960-1063"
+   ],
+   "urls": [
+    "http://www.jacksonms.gov/index.aspx?nid=531"
+   ],
+   "emails": [
+    "mbarrett@city.jackson.ms.us"
    ]
   },
   {
@@ -30677,6 +30680,9 @@
    "party": "Republican",
    "phones": [
     "(601) 359-3569"
+   ],
+   "urls": [
+    "http://www.mid.state.ms.us/"
    ],
    "emails": [
     "commissioner@mid.state.ms.us"
@@ -31422,9 +31428,6 @@
    "phones": [
     "(601) 485-2958"
    ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officenservices/coroner.htm"
-   ],
    "emails": [
     "coroner@lauderdalecounty.org"
    ]
@@ -31464,9 +31467,6 @@
    "phones": [
     "(601) 482-9779"
    ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officenservices/tax_assessor.htm"
-   ],
    "emails": [
     "taxassessor@lauderdalecounty.org"
    ]
@@ -31484,9 +31484,6 @@
    "party": "Unknown",
    "phones": [
     "(601) 482-9731"
-   ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officenservices/circuit_clerk.htm"
    ],
    "emails": [
     "circuitclerk@lauderdalecounty.org"
@@ -31506,9 +31503,6 @@
    "phones": [
     "(601) 482-9786"
    ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officenservices/tax_collector.htm"
-   ],
    "emails": [
     "taxcollector@lauderdalecounty.org"
    ]
@@ -31527,9 +31521,6 @@
    "phones": [
     "(601) 482-9701"
    ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officenservices/chancery_clerk.htm"
-   ],
    "emails": [
     "chanceryclerk@lauderdalecounty.org"
    ]
@@ -31547,9 +31538,6 @@
    "party": "Unknown",
    "phones": [
     "(601) 482-9757"
-   ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officenservices/district_attorney.htm"
    ],
    "emails": [
     "da@lauderdalecounty.org"
@@ -31637,6 +31625,33 @@
    "party": "Unknown",
    "phones": [
     "(601) 833-2680"
+   ]
+  },
+  {
+   "name": "John Guist",
+   "address": [
+    {
+     "line1": "117 hillcrest dr.",
+     "city": "brookhaven",
+     "state": "",
+     "zip": "39601"
+    }
+   ],
+   "party": "Unknown"
+  },
+  {
+   "name": "C.E. (Eddie) Brown",
+   "address": [
+    {
+     "line1": "3125 maude lane sw",
+     "city": "bogue chitto",
+     "state": "",
+     "zip": "39629"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(601) 734-6455"
    ]
   },
   {
@@ -31797,41 +31812,11 @@
    "phones": [
     "(662) 286-5591"
    ],
-   "urls": [
-    "http://www.alcorn.k12.ms.us/52VWE23K"
-   ],
    "channels": [
     {
      "type": "Twitter",
      "id": "GinaRogersSmith"
     }
-   ]
-  },
-  {
-   "name": "John Guist",
-   "address": [
-    {
-     "line1": "117 hillcrest dr.",
-     "city": "brookhaven",
-     "state": "",
-     "zip": "39601"
-    }
-   ],
-   "party": "Unknown"
-  },
-  {
-   "name": "C.E. (Eddie) Brown",
-   "address": [
-    {
-     "line1": "3125 maude lane sw",
-     "city": "bogue chitto",
-     "state": "",
-     "zip": "39629"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(601) 734-6455"
    ]
   },
   {
@@ -32387,6 +32372,126 @@
    ]
   },
   {
+   "name": "Travis Sharp",
+   "address": [
+    {
+     "line1": "392 Elmsely Rd.",
+     "city": "woodville",
+     "state": "",
+     "zip": "39669"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(601) 888-6730"
+   ]
+  },
+  {
+   "name": "Reginald Jackson",
+   "address": [
+    {
+     "line1": "P.O. Box 980",
+     "city": "woodville",
+     "state": "",
+     "zip": "39669"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(601) 888-3511"
+   ]
+  },
+  {
+   "name": "Jeremy Ephion",
+   "address": [
+    {
+     "line1": "P.O. Box 695",
+     "city": "woodville",
+     "state": "",
+     "zip": "39669"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(601) 888-4562"
+   ]
+  },
+  {
+   "name": "Lynn Tolliver-Delaney",
+   "address": [
+    {
+     "line1": "P.O. Box 327",
+     "city": "woodville",
+     "state": "",
+     "zip": "39669"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(601) 888-6697"
+   ]
+  },
+  {
+   "name": "Jeremy Ephion",
+   "address": [
+    {
+     "line1": "P.O. Box 695",
+     "city": "woodville",
+     "state": "",
+     "zip": "39669"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(601) 888-4562"
+   ]
+  },
+  {
+   "name": "Thomas C. Tolliver, Jr",
+   "address": [
+    {
+     "line1": "P.O. Box 516",
+     "city": "woodville",
+     "state": "",
+     "zip": "39669"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(601) 888-4381"
+   ]
+  },
+  {
+   "name": "Ronnie Harper",
+   "address": [
+    {
+     "line1": "P.O. Box 1148",
+     "city": "natchez",
+     "state": "",
+     "zip": "39121"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(601) 445-4099"
+   ]
+  },
+  {
+   "name": "Timothy Scott",
+   "address": [
+    {
+     "line1": "P.O. Box 785",
+     "city": "woodville",
+     "state": "",
+     "zip": "39669"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(601) 888-3582"
+   ]
+  },
+  {
    "name": "Debra Sanders",
    "address": [
     {
@@ -32522,126 +32627,6 @@
    "party": "Unknown",
    "phones": [
     "(662) 453-0554"
-   ]
-  },
-  {
-   "name": "Travis Sharp",
-   "address": [
-    {
-     "line1": "392 Elmsely Rd.",
-     "city": "woodville",
-     "state": "",
-     "zip": "39669"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(601) 888-6730"
-   ]
-  },
-  {
-   "name": "Reginald Jackson",
-   "address": [
-    {
-     "line1": "P.O. Box 980",
-     "city": "woodville",
-     "state": "",
-     "zip": "39669"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(601) 888-3511"
-   ]
-  },
-  {
-   "name": "Jeremy Ephion",
-   "address": [
-    {
-     "line1": "P.O. Box 695",
-     "city": "woodville",
-     "state": "",
-     "zip": "39669"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(601) 888-4562"
-   ]
-  },
-  {
-   "name": "Lynn Tolliver-Delaney",
-   "address": [
-    {
-     "line1": "P.O. Box 327",
-     "city": "woodville",
-     "state": "",
-     "zip": "39669"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(601) 888-6697"
-   ]
-  },
-  {
-   "name": "Jeremy Ephion",
-   "address": [
-    {
-     "line1": "P.O. Box 695",
-     "city": "woodville",
-     "state": "",
-     "zip": "39669"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(601) 888-4562"
-   ]
-  },
-  {
-   "name": "Thomas C. Tolliver, Jr",
-   "address": [
-    {
-     "line1": "P.O. Box 516",
-     "city": "woodville",
-     "state": "",
-     "zip": "39669"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(601) 888-4381"
-   ]
-  },
-  {
-   "name": "Ronnie Harper",
-   "address": [
-    {
-     "line1": "P.O. Box 1148",
-     "city": "natchez",
-     "state": "",
-     "zip": "39121"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(601) 445-4099"
-   ]
-  },
-  {
-   "name": "Timothy Scott",
-   "address": [
-    {
-     "line1": "P.O. Box 785",
-     "city": "woodville",
-     "state": "",
-     "zip": "39669"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(601) 888-3582"
    ]
   },
   {
@@ -34310,45 +34295,6 @@
    ]
   },
   {
-   "name": "Josephine Anderson",
-   "address": [
-    {
-     "line1": "1340 rockdale dr.",
-     "city": "jackson",
-     "state": "",
-     "zip": "39213"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(601) 968-6684"
-   ],
-   "emails": [
-    "janderson@co.hinds.ms.us"
-   ]
-  },
-  {
-   "name": "Darrel McQuirter",
-   "address": [
-    {
-     "line1": "P.O. Box 686",
-     "city": "jackson",
-     "state": "",
-     "zip": "39205"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(601) 973-5552"
-   ],
-   "urls": [
-    "http://www.co.hinds.ms.us/pgs/elected/district2.asp"
-   ],
-   "emails": [
-    "dmcquirter@co.hinds.ms.us"
-   ]
-  },
-  {
    "name": "Terry Tutor",
    "address": [
     {
@@ -34507,6 +34453,45 @@
    "party": "Unknown",
    "phones": [
     "(601) 847-1562"
+   ]
+  },
+  {
+   "name": "Josephine Anderson",
+   "address": [
+    {
+     "line1": "1340 rockdale dr.",
+     "city": "jackson",
+     "state": "",
+     "zip": "39213"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(601) 968-6684"
+   ],
+   "emails": [
+    "janderson@co.hinds.ms.us"
+   ]
+  },
+  {
+   "name": "Darrel McQuirter",
+   "address": [
+    {
+     "line1": "P.O. Box 686",
+     "city": "jackson",
+     "state": "",
+     "zip": "39205"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(601) 973-5552"
+   ],
+   "urls": [
+    "http://www.co.hinds.ms.us/pgs/elected/district2.asp"
+   ],
+   "emails": [
+    "dmcquirter@co.hinds.ms.us"
    ]
   },
   {
@@ -41092,36 +41077,6 @@
    ]
   },
   {
-   "name": "Doris Suggs",
-   "address": [
-    {
-     "line1": "1108 108th st.",
-     "city": "amory",
-     "state": "",
-     "zip": "38821"
-    }
-   ],
-   "party": "Unknown"
-  },
-  {
-   "name": "Robert Tomey",
-   "address": [
-    {
-     "line1": "P.O. Box 427",
-     "city": "amory",
-     "state": "MS",
-     "zip": "38821"
-    }
-   ],
-   "party": "Unknown",
-   "phones": [
-    "(662) 257-9370"
-   ],
-   "emails": [
-    "monroesupervisor5@gmail.com"
-   ]
-  },
-  {
    "name": "Sharon Grisham-Stewart",
    "address": [
     {
@@ -41374,6 +41329,36 @@
    ],
    "urls": [
     "http://www.co.hinds.ms.us/pgs/elected/chanceryclerk.asp"
+   ]
+  },
+  {
+   "name": "Doris Suggs",
+   "address": [
+    {
+     "line1": "1108 108th st.",
+     "city": "amory",
+     "state": "",
+     "zip": "38821"
+    }
+   ],
+   "party": "Unknown"
+  },
+  {
+   "name": "Robert Tomey",
+   "address": [
+    {
+     "line1": "P.O. Box 427",
+     "city": "amory",
+     "state": "MS",
+     "zip": "38821"
+    }
+   ],
+   "party": "Unknown",
+   "phones": [
+    "(662) 257-9370"
+   ],
+   "emails": [
+    "monroesupervisor5@gmail.com"
    ]
   },
   {
@@ -46217,9 +46202,6 @@
    "phones": [
     "(601) 477-3261"
    ],
-   "urls": [
-    "http://www.jonescountyms.com/index.php/gov_admin/tax_assessor_collector/"
-   ],
    "emails": [
     "bjckledge@co.jones.ms.us"
    ]
@@ -46271,6 +46253,9 @@
    "phones": [
     "(601) 477-3261"
    ],
+   "urls": [
+    "http://www.jonescountyms.com/index.php/gov_admin/tax_assessor_collector/"
+   ],
    "emails": [
     "bjckledge@co.jones.ms.us"
    ]
@@ -46288,9 +46273,6 @@
    "party": "Unknown",
    "phones": [
     "(601) 477-3307"
-   ],
-   "urls": [
-    "http://www.jonescountyms.com/index.php/gov_admin/chancery_clerk/"
    ]
   },
   {
@@ -48782,9 +48764,6 @@
    "phones": [
     "(601) 482-9809"
    ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officenservices/elections.htm"
-   ],
    "emails": [
     "electioncommission@lauderdalecounty.org"
    ]
@@ -48804,9 +48783,6 @@
    "phones": [
     "(601) 482-9746"
    ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officals/disrrict1.htm"
-   ],
    "emails": [
     "districtone@lauderdalecounty.org"
    ]
@@ -48816,9 +48792,6 @@
    "party": "Unknown",
    "phones": [
     "(601) 482-9809"
-   ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officenservices/elections.htm"
    ],
    "emails": [
     "electioncommission@lauderdalecounty.org"
@@ -48839,9 +48812,6 @@
    "phones": [
     "(601) 482-9746"
    ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officals/district4.htm"
-   ],
    "emails": [
     "districtfour@lauderdalecounty.org"
    ]
@@ -48851,9 +48821,6 @@
    "party": "Unknown",
    "phones": [
     "(601) 482-9809"
-   ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officenservices/elections.htm"
    ],
    "emails": [
     "electioncommission@lauderdalecounty.org"
@@ -48874,9 +48841,6 @@
    "phones": [
     "(601) 482-9746"
    ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officals/district5.htm"
-   ],
    "emails": [
     "districtfive@lauderdalecounty.org"
    ]
@@ -48886,9 +48850,6 @@
    "party": "Unknown",
    "phones": [
     "(601) 482-9809"
-   ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officenservices/elections.htm"
    ],
    "emails": [
     "electioncommission@lauderdalecounty.org"
@@ -48909,9 +48870,6 @@
    "phones": [
     "(601) 482-9746"
    ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officals/district2.htm"
-   ],
    "emails": [
     "districttwo@lauderdalecounty.org"
    ]
@@ -48921,9 +48879,6 @@
    "party": "Unknown",
    "phones": [
     "(601) 482-9809"
-   ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officenservices/elections.htm"
    ],
    "emails": [
     "electioncommission@lauderdalecounty.org"
@@ -48943,9 +48898,6 @@
    "party": "Unknown",
    "phones": [
     "(601) 482-9746"
-   ],
-   "urls": [
-    "http://www.lauderdalecounty.org/officals/district3.htm"
    ],
    "emails": [
     "districtthree@lauderdalecounty.org"

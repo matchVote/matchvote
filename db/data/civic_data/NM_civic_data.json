@@ -21,11 +21,11 @@
   "ocd-division/country:us/state:nm/place:lordsburg": {
    "name": "Lordsburg city"
   },
-  "ocd-division/country:us/state:nm/county:grant/school_district:aldo_leopold_charter": {
-   "name": "aldo leopold charter"
-  },
   "ocd-division/country:us/state:nm/county:curry/school_district:grady_municipal_schools": {
    "name": "grady municipal schools"
+  },
+  "ocd-division/country:us/state:nm/county:grant/school_district:aldo_leopold_charter": {
+   "name": "aldo leopold charter"
   },
   "ocd-division/country:us/state:nm/county:santa_fe/school_district:nm_school_for_the_deaf": {
    "name": "nm school for the deaf"
@@ -90,11 +90,11 @@
   "ocd-division/country:us/state:nm/place:sunland_park": {
    "name": "Sunland Park city"
   },
-  "ocd-division/country:us/state:nm/county:rio_arriba/school_district:jemez_mountain_public_schools": {
-   "name": "jemez mountain public schools"
-  },
   "ocd-division/country:us/state:nm/county:rio_arriba/school_district:dulce_independent_schools": {
    "name": "dulce independent schools"
+  },
+  "ocd-division/country:us/state:nm/county:rio_arriba/school_district:jemez_mountain_public_schools": {
+   "name": "jemez mountain public schools"
   },
   "ocd-division/country:us/state:nm/county:los_alamos": {
    "name": "Los Alamos County",
@@ -121,11 +121,11 @@
   "ocd-division/country:us/state:nm/place:farmington/council_district:3": {
    "name": "Farmington NM city council district 3"
   },
-  "ocd-division/country:us/state:nm/place:virden": {
-   "name": "Virden village"
-  },
   "ocd-division/country:us/state:nm/county:bernalillo/school_district:south_valley_prep": {
    "name": "south valley prep"
+  },
+  "ocd-division/country:us/state:nm/place:virden": {
+   "name": "Virden village"
   },
   "ocd-division/country:us/state:nm/place:farmington/council_district:2": {
    "name": "Farmington NM city council district 2"
@@ -151,6 +151,9 @@
   "ocd-division/country:us/state:nm/county:eddy/school_district:artesia_public_schools": {
    "name": "artesia public schools"
   },
+  "ocd-division/country:us/state:nm/county:socorro/school_district:magdalena_municipal_schools": {
+   "name": "magdalena municipal schools"
+  },
   "ocd-division/country:us/state:nm/county:roosevelt": {
    "name": "Roosevelt County",
    "officeIndices": [
@@ -160,9 +163,6 @@
     129,
     130
    ]
-  },
-  "ocd-division/country:us/state:nm/county:socorro/school_district:magdalena_municipal_schools": {
-   "name": "magdalena municipal schools"
   },
   "ocd-division/country:us/state:nm/county:quay/school_district:logan_municipal_schools": {
    "name": "logan municipal schools"
@@ -281,11 +281,11 @@
   "ocd-division/country:us/state:nm/place:edgewood": {
    "name": "Edgewood town"
   },
-  "ocd-division/country:us/state:nm/county:bernalillo/school_district:albuquerque_public_schools": {
-   "name": "albuquerque public schools"
-  },
   "ocd-division/country:us/state:nm/place:carlsbad": {
    "name": "Carlsbad city"
+  },
+  "ocd-division/country:us/state:nm/county:bernalillo/school_district:albuquerque_public_schools": {
+   "name": "albuquerque public schools"
   },
   "ocd-division/country:us/state:nm/sldl:61": {
    "name": "New Mexico State House district 61",
@@ -423,14 +423,14 @@
   "ocd-division/country:us/state:nm/county:bernalillo/school_district:gilbert_l_sena_charter_hs": {
    "name": "gilbert l sena charter hs"
   },
+  "ocd-division/country:us/state:nm/county:harding/school_district:roy_municipal_schools": {
+   "name": "roy municipal schools"
+  },
   "ocd-division/country:us/state:nm/sldl:9": {
    "name": "New Mexico State House district 9",
    "officeIndices": [
     27
    ]
-  },
-  "ocd-division/country:us/state:nm/county:harding/school_district:roy_municipal_schools": {
-   "name": "roy municipal schools"
   },
   "ocd-division/country:us/state:nm/place:estancia": {
    "name": "Estancia town"
@@ -525,16 +525,16 @@
     149
    ]
   },
-  "ocd-division/country:us/state:nm/sldu:30": {
-   "name": "New Mexico State Senate district 30",
-   "officeIndices": [
-    37
-   ]
-  },
   "ocd-division/country:us/state:nm/county:taos/council_district:2": {
    "name": "Taos County Commission District 2",
    "officeIndices": [
     150
+   ]
+  },
+  "ocd-division/country:us/state:nm/sldu:30": {
+   "name": "New Mexico State Senate district 30",
+   "officeIndices": [
+    37
    ]
   },
   "ocd-division/country:us/state:nm/place:red_river": {
@@ -546,16 +546,16 @@
   "ocd-division/country:us/state:nm/place:las_cruces/council_district:5": {
    "name": "Las Cruces NM city council district 5"
   },
-  "ocd-division/country:us/state:nm/sldu:32": {
-   "name": "New Mexico State Senate district 32",
-   "officeIndices": [
-    38
-   ]
-  },
   "ocd-division/country:us/state:nm/county:harding/council_district:3": {
    "name": "Harding County Commission District 3",
    "officeIndices": [
     151
+   ]
+  },
+  "ocd-division/country:us/state:nm/sldu:32": {
+   "name": "New Mexico State Senate district 32",
+   "officeIndices": [
+    38
    ]
   },
   "ocd-division/country:us/state:nm/sldu:33": {
@@ -564,31 +564,31 @@
     39
    ]
   },
-  "ocd-division/country:us/state:nm/sldu:34": {
-   "name": "New Mexico State Senate district 34",
-   "officeIndices": [
-    40
-   ]
-  },
   "ocd-division/country:us/state:nm/county:harding/council_district:1": {
    "name": "Harding County Commission District 1",
    "officeIndices": [
     152
    ]
   },
+  "ocd-division/country:us/state:nm/sldu:34": {
+   "name": "New Mexico State Senate district 34",
+   "officeIndices": [
+    40
+   ]
+  },
   "ocd-division/country:us/state:nm/place:los_lunas": {
    "name": "Los Lunas village"
-  },
-  "ocd-division/country:us/state:nm/sldu:35": {
-   "name": "New Mexico State Senate district 35",
-   "officeIndices": [
-    41
-   ]
   },
   "ocd-division/country:us/state:nm/county:harding/council_district:2": {
    "name": "Harding County Commission District 2",
    "officeIndices": [
     153
+   ]
+  },
+  "ocd-division/country:us/state:nm/sldu:35": {
+   "name": "New Mexico State Senate district 35",
+   "officeIndices": [
+    41
    ]
   },
   "ocd-division/country:us/state:nm/sldu:36": {
@@ -618,14 +618,14 @@
   "ocd-division/country:us/state:nm/place:las_cruces/council_district:4": {
    "name": "Las Cruces NM city council district 4"
   },
+  "ocd-division/country:us/state:nm/county:bernalillo/school_district:albuquerque_institute_of_math_and_science": {
+   "name": "albuquerque institute of math & science"
+  },
   "ocd-division/country:us/state:nm/sldu:39": {
    "name": "New Mexico State Senate district 39",
    "officeIndices": [
     45
    ]
-  },
-  "ocd-division/country:us/state:nm/county:bernalillo/school_district:albuquerque_institute_of_math_and_science": {
-   "name": "albuquerque institute of math & science"
   },
   "ocd-division/country:us/state:nm/place:las_cruces/council_district:3": {
    "name": "Las Cruces NM city council district 3"
@@ -666,22 +666,28 @@
     49
    ]
   },
-  "ocd-division/country:us/state:nm/sldu:22": {
-   "name": "New Mexico State Senate district 22",
-   "officeIndices": [
-    50
-   ]
-  },
   "ocd-division/country:us/state:nm/county:mora/council_district:2": {
    "name": "Mora County Commission District 2",
    "officeIndices": [
     157
    ]
   },
+  "ocd-division/country:us/state:nm/sldu:22": {
+   "name": "New Mexico State Senate district 22",
+   "officeIndices": [
+    50
+   ]
+  },
   "ocd-division/country:us/state:nm/county:san_miguel/council_district:1": {
    "name": "San Miguel County Commission District 1",
    "officeIndices": [
     156
+   ]
+  },
+  "ocd-division/country:us/state:nm/county:mora/council_district:1": {
+   "name": "Mora County Commission District 1",
+   "officeIndices": [
+    163
    ]
   },
   "ocd-division/country:us/state:nm/sldu:21": {
@@ -693,12 +699,6 @@
   "ocd-division/country:us/state:nm/place:truth_or_consequences": {
    "name": "Truth or Consequences city"
   },
-  "ocd-division/country:us/state:nm/county:mora/council_district:1": {
-   "name": "Mora County Commission District 1",
-   "officeIndices": [
-    163
-   ]
-  },
   "ocd-division/country:us/state:nm/county:sierra": {
    "name": "Sierra County",
    "officeIndices": [
@@ -709,16 +709,16 @@
     162
    ]
   },
-  "ocd-division/country:us/state:nm/sldu:24": {
-   "name": "New Mexico State Senate district 24",
-   "officeIndices": [
-    52
-   ]
-  },
   "ocd-division/country:us/state:nm/county:san_miguel/council_district:3": {
    "name": "San Miguel County Commission District 3",
    "officeIndices": [
     164
+   ]
+  },
+  "ocd-division/country:us/state:nm/sldu:24": {
+   "name": "New Mexico State Senate district 24",
+   "officeIndices": [
+    52
    ]
   },
   "ocd-division/country:us/state:nm/sldu:23": {
@@ -742,11 +742,11 @@
   "ocd-division/country:us/state:nm/county:quay/school_district:tucumcari_public_schools": {
    "name": "tucumcari public schools"
   },
-  "ocd-division/country:us/state:nm/county:san_juan/school_district:farmington_municipal_schools": {
-   "name": "farmington municipal schools"
-  },
   "ocd-division/country:us/state:nm/place:dexter": {
    "name": "Dexter town"
+  },
+  "ocd-division/country:us/state:nm/county:san_juan/school_district:farmington_municipal_schools": {
+   "name": "farmington municipal schools"
   },
   "ocd-division/country:us/state:nm/sldu:29": {
    "name": "New Mexico State Senate district 29",
@@ -976,11 +976,11 @@
   "ocd-division/country:us/state:nm/place:clayton": {
    "name": "Clayton town"
   },
-  "ocd-division/country:us/state:nm/county:lincoln/school_district:carrizozo_municipal_schools": {
-   "name": "carrizozo municipal schools"
-  },
   "ocd-division/country:us/state:nm/county:san_miguel/school_district:las_vegas_city_public_schools": {
    "name": "las vegas city public schools"
+  },
+  "ocd-division/country:us/state:nm/county:lincoln/school_district:carrizozo_municipal_schools": {
+   "name": "carrizozo municipal schools"
   },
   "ocd-division/country:us/state:nm/county:cibola": {
    "name": "Cibola County",
@@ -992,11 +992,11 @@
     197
    ]
   },
-  "ocd-division/country:us/state:nm/place:ruidoso": {
-   "name": "Ruidoso village"
-  },
   "ocd-division/country:us/state:nm/county:colfax/school_district:cimarron_municipal_schools": {
    "name": "cimarron municipal schools"
+  },
+  "ocd-division/country:us/state:nm/place:ruidoso": {
+   "name": "Ruidoso village"
   },
   "ocd-division/country:us/state:nm/place:artesia": {
    "name": "Artesia city"
@@ -1026,14 +1026,14 @@
   "ocd-division/country:us/state:nm/place:cloudcroft": {
    "name": "Cloudcroft village"
   },
-  "ocd-division/country:us/state:nm/county:rio_arriba/school_district:mesa_vista_consolidated_schools": {
-   "name": "mesa vista consolidated schools"
-  },
   "ocd-division/country:us/state:nm/county:socorro/council_district:5": {
    "name": "Socorro County Commission District 5",
    "officeIndices": [
     203
    ]
+  },
+  "ocd-division/country:us/state:nm/county:rio_arriba/school_district:mesa_vista_consolidated_schools": {
+   "name": "mesa vista consolidated schools"
   },
   "ocd-division/country:us/state:nm/county:bernalillo/school_district:cesar_chavez_community_center": {
    "name": "cesar chavez community  center"
@@ -1062,6 +1062,9 @@
     205
    ]
   },
+  "ocd-division/country:us/state:nm/place:grenville": {
+   "name": "Grenville village"
+  },
   "ocd-division/country:us/state:nm/county:mckinley": {
    "name": "McKinley County",
    "officeIndices": [
@@ -1077,9 +1080,6 @@
    "officeIndices": [
     211
    ]
-  },
-  "ocd-division/country:us/state:nm/place:grenville": {
-   "name": "Grenville village"
   },
   "ocd-division/country:us/state:nm/county:grant/school_district:silver_consolidated_schools": {
    "name": "silver consolidated schools"
@@ -1169,11 +1169,11 @@
   "ocd-division/country:us/state:nm/place:silver_city": {
    "name": "Silver City town"
   },
-  "ocd-division/country:us/state:nm/place:texico": {
-   "name": "Texico city"
-  },
   "ocd-division/country:us/state:nm/county:torrance/school_district:mountainair_public_schools": {
    "name": "mountainair public schools"
+  },
+  "ocd-division/country:us/state:nm/place:texico": {
+   "name": "Texico city"
   },
   "ocd-division/country:us/state:nm/county:torrance": {
    "name": "Torrance County",
@@ -1204,17 +1204,11 @@
     235
    ]
   },
-  "ocd-division/country:us/state:nm/place:tularosa": {
-   "name": "Tularosa village"
-  },
   "ocd-division/country:us/state:nm/county:union/school_district:clayton_municipal_schools": {
    "name": "clayton municipal schools"
   },
-  "ocd-division/country:us/state:nm/sldl:10": {
-   "name": "New Mexico State House district 10",
-   "officeIndices": [
-    68
-   ]
+  "ocd-division/country:us/state:nm/place:tularosa": {
+   "name": "Tularosa village"
   },
   "ocd-division/country:us/state:nm/county:valencia": {
    "name": "Valencia County",
@@ -1224,6 +1218,12 @@
     238,
     239,
     240
+   ]
+  },
+  "ocd-division/country:us/state:nm/sldl:10": {
+   "name": "New Mexico State House district 10",
+   "officeIndices": [
+    68
    ]
   },
   "ocd-division/country:us/state:nm/sldl:11": {
@@ -1244,19 +1244,13 @@
     71
    ]
   },
+  "ocd-division/country:us/state:nm/place:hurley": {
+   "name": "Hurley town"
+  },
   "ocd-division/country:us/state:nm/sldl:14": {
    "name": "New Mexico State House district 14",
    "officeIndices": [
     72
-   ]
-  },
-  "ocd-division/country:us/state:nm/place:hurley": {
-   "name": "Hurley town"
-  },
-  "ocd-division/country:us/state:nm/sldl:15": {
-   "name": "New Mexico State House district 15",
-   "officeIndices": [
-    73
    ]
   },
   "ocd-division/country:us/state:nm/county:rio_arriba": {
@@ -1267,6 +1261,12 @@
     243,
     244,
     245
+   ]
+  },
+  "ocd-division/country:us/state:nm/sldl:15": {
+   "name": "New Mexico State House district 15",
+   "officeIndices": [
+    73
    ]
   },
   "ocd-division/country:us/state:nm/sldl:16": {
@@ -1301,11 +1301,11 @@
     261
    ]
   },
-  "ocd-division/country:us/state:nm/county:bernalillo/school_district:tierra_adentro": {
-   "name": "tierra adentro"
-  },
   "ocd-division/country:us/state:nm/county:sandoval/school_district:jemez_valley_public_schools": {
    "name": "jemez valley public schools"
+  },
+  "ocd-division/country:us/state:nm/county:bernalillo/school_district:tierra_adentro": {
+   "name": "tierra adentro"
   },
   "ocd-division/country:us/state:nm/county:bernalillo": {
    "name": "Bernalillo County",
@@ -1338,11 +1338,11 @@
   "ocd-division/country:us/state:nm/county:mckinley/school_district:zuni_public_schools": {
    "name": "zuni public schools"
   },
-  "ocd-division/country:us/state:nm/county:lea/school_district:hobbs_municipal_schools": {
-   "name": "hobbs municipal schools"
-  },
   "ocd-division/country:us/state:nm/place:loving": {
    "name": "Loving village"
+  },
+  "ocd-division/country:us/state:nm/county:lea/school_district:hobbs_municipal_schools": {
+   "name": "hobbs municipal schools"
   },
   "ocd-division/country:us/state:nm/county:sandoval/school_district:rio_rancho_public_schools": {
    "name": "rio rancho public schools"
@@ -1378,20 +1378,20 @@
   "ocd-division/country:us/state:nm/county:mora/school_district:mora_independent_schools": {
    "name": "mora independent schools"
   },
-  "ocd-division/country:us/state:nm/place:bayard": {
-   "name": "Bayard city"
-  },
   "ocd-division/country:us/state:nm/place:hope": {
    "name": "Hope village"
   },
-  "ocd-division/country:us/state:nm/county:bernalillo/school_district:media_arts_charter": {
-   "name": "media arts charter"
+  "ocd-division/country:us/state:nm/place:bayard": {
+   "name": "Bayard city"
+  },
+  "ocd-division/country:us/state:nm/county:taos/school_district:penasco_independent_schools": {
+   "name": "penasco independent schools"
   },
   "ocd-division/country:us/state:nm/county:doña_ana/school_district:hatch_valley_public_schools": {
    "name": "hatch valley public schools"
   },
-  "ocd-division/country:us/state:nm/county:taos/school_district:penasco_independent_schools": {
-   "name": "penasco independent schools"
+  "ocd-division/country:us/state:nm/county:bernalillo/school_district:media_arts_charter": {
+   "name": "media arts charter"
   },
   "ocd-division/country:us/state:nm/county:luna": {
    "name": "Luna County",
@@ -1444,14 +1444,14 @@
   "ocd-division/country:us/state:nm/county:torrance/school_district:moriarty_municipal_schools": {
    "name": "moriarty municipal schools"
   },
+  "ocd-division/country:us/state:nm/county:santa_fe/school_district:nm_school_for_arts": {
+   "name": "nm school for arts"
+  },
   "ocd-division/country:us/state:nm/sldl:50": {
    "name": "New Mexico State House district 50",
    "officeIndices": [
     75
    ]
-  },
-  "ocd-division/country:us/state:nm/county:santa_fe/school_district:nm_school_for_arts": {
-   "name": "nm school for arts"
   },
   "ocd-division/country:us/state:nm/sldl:52": {
    "name": "New Mexico State House district 52",
@@ -1483,14 +1483,14 @@
     80
    ]
   },
+  "ocd-division/country:us/state:nm/place:angel_fire": {
+   "name": "Angel Fire village"
+  },
   "ocd-division/country:us/state:nm/sldl:55": {
    "name": "New Mexico State House district 55",
    "officeIndices": [
     81
    ]
-  },
-  "ocd-division/country:us/state:nm/place:angel_fire": {
-   "name": "Angel Fire village"
   },
   "ocd-division/country:us/state:nm/sldl:58": {
    "name": "New Mexico State House district 58",
@@ -1573,26 +1573,20 @@
     85
    ]
   },
-  "ocd-division/country:us/state:nm/sldl:40": {
-   "name": "New Mexico State House district 40",
-   "officeIndices": [
-    86
-   ]
-  },
   "ocd-division/country:us/state:nm/county:catron/council_district:3": {
    "name": "Catron County Commission District 3",
    "officeIndices": [
     297
    ]
   },
+  "ocd-division/country:us/state:nm/sldl:40": {
+   "name": "New Mexico State House district 40",
+   "officeIndices": [
+    86
+   ]
+  },
   "ocd-division/country:us/state:nm/place:grady": {
    "name": "Grady village"
-  },
-  "ocd-division/country:us/state:nm/sldl:45": {
-   "name": "New Mexico State House district 45",
-   "officeIndices": [
-    87
-   ]
   },
   "ocd-division/country:us/state:nm/county:de_baca/school_district:fort_sumner_municipal_schools": {
    "name": "fort sumner municipal schools"
@@ -1600,20 +1594,17 @@
   "ocd-division/country:us/state:nm/place:raton": {
    "name": "Raton city"
   },
+  "ocd-division/country:us/state:nm/sldl:45": {
+   "name": "New Mexico State House district 45",
+   "officeIndices": [
+    87
+   ]
+  },
   "ocd-division/country:us/state:nm/sldl:44": {
    "name": "New Mexico State House district 44",
    "officeIndices": [
     88
    ]
-  },
-  "ocd-division/country:us/state:nm/sldl:43": {
-   "name": "New Mexico State House district 43",
-   "officeIndices": [
-    89
-   ]
-  },
-  "ocd-division/country:us/state:nm/county:mora/school_district:wagon_mound_public_schools": {
-   "name": "wagon mound public schools"
   },
   "ocd-division/country:us/state:nm/county:catron/council_district:2": {
    "name": "Catron County Commission District 2",
@@ -1621,10 +1612,13 @@
     298
    ]
   },
-  "ocd-division/country:us/state:nm/sldl:42": {
-   "name": "New Mexico State House district 42",
+  "ocd-division/country:us/state:nm/county:mora/school_district:wagon_mound_public_schools": {
+   "name": "wagon mound public schools"
+  },
+  "ocd-division/country:us/state:nm/sldl:43": {
+   "name": "New Mexico State House district 43",
    "officeIndices": [
-    90
+    89
    ]
   },
   "ocd-division/country:us/state:nm/county:catron/council_district:1": {
@@ -1633,14 +1627,20 @@
     299
    ]
   },
+  "ocd-division/country:us/state:nm/sldl:42": {
+   "name": "New Mexico State House district 42",
+   "officeIndices": [
+    90
+   ]
+  },
+  "ocd-division/country:us/state:nm/place:elida": {
+   "name": "Elida town"
+  },
   "ocd-division/country:us/state:nm/sldl:49": {
    "name": "New Mexico State House district 49",
    "officeIndices": [
     91
    ]
-  },
-  "ocd-division/country:us/state:nm/place:elida": {
-   "name": "Elida town"
   },
   "ocd-division/country:us/state:nm/sldl:48": {
    "name": "New Mexico State House district 48",
@@ -1648,14 +1648,14 @@
     92
    ]
   },
+  "ocd-division/country:us/state:nm/county:colfax/school_district:raton_public_schools": {
+   "name": "raton public schools"
+  },
   "ocd-division/country:us/state:nm/sldl:47": {
    "name": "New Mexico State House district 47",
    "officeIndices": [
     93
    ]
-  },
-  "ocd-division/country:us/state:nm/county:colfax/school_district:raton_public_schools": {
-   "name": "raton public schools"
   },
   "ocd-division/country:us/state:nm/sldl:46": {
    "name": "New Mexico State House district 46",
@@ -1679,23 +1679,23 @@
   "ocd-division/country:us/state:nm/district_court:12": {
    "name": "NM State District Court - 12th District"
   },
+  "ocd-division/country:us/state:nm/district_court:11": {
+   "name": "NM State District Court - 11th District"
+  },
   "ocd-division/country:us/state:nm/sldl:39": {
    "name": "New Mexico State House district 39",
    "officeIndices": [
     95
    ]
   },
-  "ocd-division/country:us/state:nm/district_court:11": {
-   "name": "NM State District Court - 11th District"
-  },
   "ocd-division/country:us/state:nm/district_court:10": {
    "name": "NM State District Court - 10th District"
   },
-  "ocd-division/country:us/state:nm/county:sierra/school_district:t_or_c_municipal_schools": {
-   "name": "t or c municipal schools"
-  },
   "ocd-division/country:us/state:nm/place:floyd": {
    "name": "Floyd village"
+  },
+  "ocd-division/country:us/state:nm/county:sierra/school_district:t_or_c_municipal_schools": {
+   "name": "t or c municipal schools"
   },
   "ocd-division/country:us/state:nm/place:logan": {
    "name": "Logan village"
@@ -1769,14 +1769,14 @@
     103
    ]
   },
+  "ocd-division/country:us/state:nm/place:mesilla": {
+   "name": "Mesilla town"
+  },
   "ocd-division/country:us/state:nm/sldl:33": {
    "name": "New Mexico State House district 33",
    "officeIndices": [
     104
    ]
-  },
-  "ocd-division/country:us/state:nm/place:mesilla": {
-   "name": "Mesilla town"
   },
   "ocd-division/country:us/state:nm/county:cibola/council_district:3": {
    "name": "Cibola County Commission District 3",
@@ -1808,14 +1808,14 @@
     106
    ]
   },
-  "ocd-division/country:us/state:nm/county:quay/school_district:san_jon_municipal_schools": {
-   "name": "san jon municipal schools"
-  },
   "ocd-division/country:us/state:nm/county:cibola/council_district:5": {
    "name": "Cibola County Commission District 5",
    "officeIndices": [
     308
    ]
+  },
+  "ocd-division/country:us/state:nm/county:quay/school_district:san_jon_municipal_schools": {
+   "name": "san jon municipal schools"
   },
   "ocd-division/country:us/state:nm/county:cibola/council_district:4": {
    "name": "Cibola County Commission District 4",
@@ -1913,14 +1913,14 @@
     311
    ]
   },
-  "ocd-division/country:us/state:nm/county:otero/school_district:nm_school_for_the_blind_and_visually_impaired": {
-   "name": "nm school for the blind and visually impaired"
-  },
   "ocd-division/country:us/state:nm/county:curry/council_district:1": {
    "name": "Curry County Commission District 1",
    "officeIndices": [
     312
    ]
+  },
+  "ocd-division/country:us/state:nm/county:otero/school_district:nm_school_for_the_blind_and_visually_impaired": {
+   "name": "nm school for the blind and visually impaired"
   },
   "ocd-division/country:us/state:nm/county:curry/council_district:2": {
    "name": "Curry County Commission District 2",
@@ -2041,9 +2041,12 @@
   "ocd-division/country:us/state:nm/place:clovis": {
    "name": "Clovis city"
   },
-  "ocd-division/country:us/state:nm/county:harding": {
-   "name": "Harding County",
+  "ocd-division/country:us/state:nm/county:colfax": {
+   "name": "Colfax County",
    "officeIndices": [
+    337,
+    338,
+    339,
     340,
     341,
     342,
@@ -2051,17 +2054,14 @@
     344
    ]
   },
-  "ocd-division/country:us/state:nm/county:colfax": {
-   "name": "Colfax County",
+  "ocd-division/country:us/state:nm/county:harding": {
+   "name": "Harding County",
    "officeIndices": [
     332,
     333,
     334,
     335,
-    336,
-    337,
-    338,
-    339
+    336
    ]
   },
   "ocd-division/country:us/state:nm/county:santa_fe/school_district:juvenile_justice": {
@@ -2126,11 +2126,11 @@
   "ocd-division/country:us/state:nm/county:bernalillo/school_district:abq_sign_language_academy": {
    "name": "abq sign language academy"
   },
-  "ocd-division/country:us/state:nm/place:rio_rancho": {
-   "name": "Rio Rancho city"
-  },
   "ocd-division/country:us/state:nm/place:gallup": {
    "name": "Gallup city"
+  },
+  "ocd-division/country:us/state:nm/place:rio_rancho": {
+   "name": "Rio Rancho city"
   },
   "ocd-division/country:us/state:nm/county:santa_fe": {
    "name": "Santa Fe County",
@@ -2154,8 +2154,8 @@
     368
    ]
   },
-  "ocd-division/country:us/state:nm/county:lincoln/school_district:ruidoso_municipal_schools": {
-   "name": "ruidoso municipal schools"
+  "ocd-division/country:us/state:nm/place:las_cruces": {
+   "name": "Las Cruces city"
   },
   "ocd-division/country:us/state:nm/county:lincoln/council_district:5": {
    "name": "Lincoln County Commission District 5",
@@ -2163,8 +2163,8 @@
     369
    ]
   },
-  "ocd-division/country:us/state:nm/place:las_cruces": {
-   "name": "Las Cruces city"
+  "ocd-division/country:us/state:nm/county:lincoln/school_district:ruidoso_municipal_schools": {
+   "name": "ruidoso municipal schools"
   },
   "ocd-division/country:us/state:nm/county:bernalillo/school_district:east_mtn_high_school": {
    "name": "east mtn high school"
@@ -2218,14 +2218,14 @@
     379
    ]
   },
+  "ocd-division/country:us/state:nm/place:milan": {
+   "name": "Milan village"
+  },
   "ocd-division/country:us/state:nm/county:lincoln/council_district:3": {
    "name": "Lincoln County Commission District 3",
    "officeIndices": [
     380
    ]
-  },
-  "ocd-division/country:us/state:nm/place:milan": {
-   "name": "Milan village"
   },
   "ocd-division/country:us/state:nm/county:lincoln/council_district:4": {
    "name": "Lincoln County Commission District 4",
@@ -2245,6 +2245,9 @@
   "ocd-division/country:us/state:nm/county:mckinley/school_district:gallup-mckinley_cty_schools": {
    "name": "gallup-mckinley cty schools"
   },
+  "ocd-division/country:us/state:nm/place:corrales": {
+   "name": "Corrales village"
+  },
   "ocd-division/country:us/state:nm/county:eddy": {
    "name": "Eddy County",
    "officeIndices": [
@@ -2255,44 +2258,41 @@
     386
    ]
   },
-  "ocd-division/country:us/state:nm/place:corrales": {
-   "name": "Corrales village"
-  },
   "ocd-division/country:us/state:nm/county:roosevelt/school_district:floyd_municipal_schools": {
    "name": "floyd municipal schools"
   },
   "ocd-division/country:us/state:nm/county:roosevelt/school_district:portales_municipal_schools": {
    "name": "portales municipal schools"
   },
-  "ocd-division/country:us/state:nm/county:bernalillo/school_district:horizon_academy_west": {
-   "name": "horizon academy west"
-  },
   "ocd-division/country:us/state:nm/place:capitan": {
    "name": "Capitan village"
+  },
+  "ocd-division/country:us/state:nm/county:bernalillo/school_district:horizon_academy_west": {
+   "name": "horizon academy west"
   },
   "ocd-division/country:us/state:nm/district_court:9": {
    "name": "NM State District Court - 9th District"
   },
-  "ocd-division/country:us/state:nm/county:mckinley/council_district:2": {
-   "name": "McKinley County Commission District 2",
+  "ocd-division/country:us/state:nm/county:chaves/council_district:4": {
+   "name": "Chaves County Commission District 4",
    "officeIndices": [
     388
    ]
   },
-  "ocd-division/country:us/state:nm/county:chaves/council_district:4": {
-   "name": "Chaves County Commission District 4",
+  "ocd-division/country:us/state:nm/county:mckinley/council_district:2": {
+   "name": "McKinley County Commission District 2",
    "officeIndices": [
     387
    ]
   },
-  "ocd-division/country:us/state:nm/county:mckinley/council_district:3": {
-   "name": "McKinley County Commission District 3",
+  "ocd-division/country:us/state:nm/county:chaves/council_district:5": {
+   "name": "Chaves County Commission District 5",
    "officeIndices": [
     390
    ]
   },
-  "ocd-division/country:us/state:nm/county:chaves/council_district:5": {
-   "name": "Chaves County Commission District 5",
+  "ocd-division/country:us/state:nm/county:mckinley/council_district:3": {
+   "name": "McKinley County Commission District 3",
    "officeIndices": [
     389
    ]
@@ -2303,14 +2303,14 @@
     391
    ]
   },
-  "ocd-division/country:us/state:nm/county:mckinley/council_district:1": {
-   "name": "McKinley County Commission District 1",
+  "ocd-division/country:us/state:nm/county:chaves/council_district:3": {
+   "name": "Chaves County Commission District 3",
    "officeIndices": [
     393
    ]
   },
-  "ocd-division/country:us/state:nm/county:chaves/council_district:3": {
-   "name": "Chaves County Commission District 3",
+  "ocd-division/country:us/state:nm/county:mckinley/council_district:1": {
+   "name": "McKinley County Commission District 1",
    "officeIndices": [
     392
    ]
@@ -2378,14 +2378,14 @@
   "ocd-division/country:us/state:nm/county:valencia/school_district:belen_consolidated_schools": {
    "name": "belen consolidated schools"
   },
-  "ocd-division/country:us/state:nm/place:willard": {
-   "name": "Willard village"
-  },
   "ocd-division/country:us/state:nm/county:grant/council_district:3": {
    "name": "Grant County Commission District 3",
    "officeIndices": [
     395
    ]
+  },
+  "ocd-division/country:us/state:nm/place:willard": {
+   "name": "Willard village"
   },
   "ocd-division/country:us/state:nm/county:grant/council_district:2": {
    "name": "Grant County Commission District 2",
@@ -2411,14 +2411,14 @@
   "ocd-division/country:us/state:nm/county:sandoval/school_district:bernalillo_public_schools": {
    "name": "bernalillo public schools"
   },
-  "ocd-division/country:us/state:nm/place:san_jon": {
-   "name": "San Jon village"
-  },
   "ocd-division/country:us/state:nm/county:eddy/council_district:2": {
    "name": "Eddy County Commission District 2",
    "officeIndices": [
     399
    ]
+  },
+  "ocd-division/country:us/state:nm/place:san_jon": {
+   "name": "San Jon village"
   },
   "ocd-division/country:us/state:nm/county:eddy/council_district:3": {
    "name": "Eddy County Commission District 3",
@@ -2489,14 +2489,14 @@
     406
    ]
   },
-  "ocd-division/country:us/state:nm/county:bernalillo/school_district:ace_leadership_high_school": {
-   "name": "ace leadership high school"
-  },
   "ocd-division/country:us/state:nm/county:sandoval/council_district:2": {
    "name": "Sandoval County Commission District 2",
    "officeIndices": [
     407
    ]
+  },
+  "ocd-division/country:us/state:nm/county:bernalillo/school_district:ace_leadership_high_school": {
+   "name": "ace leadership high school"
   },
   "ocd-division/country:us/state:nm/place:las_vegas": {
    "name": "Las Vegas city"
@@ -2525,23 +2525,23 @@
     410
    ]
   },
-  "ocd-division/country:us/state:nm/county:lea/council_district:3": {
-   "name": "Lea County Commission District 3",
-   "officeIndices": [
-    419
-   ]
-  },
   "ocd-division/country:us/state:nm/county:guadalupe": {
    "name": "Guadalupe County",
    "officeIndices": [
-    411,
     412,
     413,
     414,
     415,
     416,
     417,
-    418
+    418,
+    419
+   ]
+  },
+  "ocd-division/country:us/state:nm/county:lea/council_district:3": {
+   "name": "Lea County Commission District 3",
+   "officeIndices": [
+    411
    ]
   },
   "ocd-division/country:us/state:nm/county:lea/council_district:1": {
@@ -5593,91 +5593,91 @@
   },
   {
    "name": "Clerk",
-   "divisionId": "ocd-division/country:us/state:nm/county:colfax",
+   "divisionId": "ocd-division/country:us/state:nm/county:harding",
    "officialIndices": [
     339
    ]
   },
   {
    "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:nm/county:colfax",
+   "divisionId": "ocd-division/country:us/state:nm/county:harding",
    "officialIndices": [
     340
    ]
   },
   {
    "name": "Assessor",
-   "divisionId": "ocd-division/country:us/state:nm/county:colfax",
+   "divisionId": "ocd-division/country:us/state:nm/county:harding",
    "officialIndices": [
     341
    ]
   },
   {
    "name": "Treasurer",
-   "divisionId": "ocd-division/country:us/state:nm/county:colfax",
+   "divisionId": "ocd-division/country:us/state:nm/county:harding",
    "officialIndices": [
     342
    ]
   },
   {
    "name": "Probate Judge",
-   "divisionId": "ocd-division/country:us/state:nm/county:colfax",
+   "divisionId": "ocd-division/country:us/state:nm/county:harding",
    "officialIndices": [
     343
    ]
   },
   {
-   "name": "County Commission, District 1",
+   "name": "Clerk",
    "divisionId": "ocd-division/country:us/state:nm/county:colfax",
    "officialIndices": [
     344
    ]
   },
   {
-   "name": "County Commission, District 2",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:nm/county:colfax",
    "officialIndices": [
     345
    ]
   },
   {
-   "name": "County Commission, District 3",
+   "name": "Assessor",
    "divisionId": "ocd-division/country:us/state:nm/county:colfax",
    "officialIndices": [
     346
    ]
   },
   {
-   "name": "Clerk",
-   "divisionId": "ocd-division/country:us/state:nm/county:harding",
+   "name": "Treasurer",
+   "divisionId": "ocd-division/country:us/state:nm/county:colfax",
    "officialIndices": [
     347
    ]
   },
   {
-   "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:nm/county:harding",
+   "name": "Probate Judge",
+   "divisionId": "ocd-division/country:us/state:nm/county:colfax",
    "officialIndices": [
     348
    ]
   },
   {
-   "name": "Assessor",
-   "divisionId": "ocd-division/country:us/state:nm/county:harding",
+   "name": "County Commission, District 1",
+   "divisionId": "ocd-division/country:us/state:nm/county:colfax",
    "officialIndices": [
     349
    ]
   },
   {
-   "name": "Treasurer",
-   "divisionId": "ocd-division/country:us/state:nm/county:harding",
+   "name": "County Commission, District 2",
+   "divisionId": "ocd-division/country:us/state:nm/county:colfax",
    "officialIndices": [
     350
    ]
   },
   {
-   "name": "Probate Judge",
-   "divisionId": "ocd-division/country:us/state:nm/county:harding",
+   "name": "County Commission, District 3",
+   "divisionId": "ocd-division/country:us/state:nm/county:colfax",
    "officialIndices": [
     351
    ]
@@ -5977,29 +5977,29 @@
    ]
   },
   {
-   "name": "County Commission, District 4",
-   "divisionId": "ocd-division/country:us/state:nm/county:chaves/council_district:4",
+   "name": "County Commission, District 2",
+   "divisionId": "ocd-division/country:us/state:nm/county:mckinley/council_district:2",
    "officialIndices": [
     394
    ]
   },
   {
-   "name": "County Commission, District 2",
-   "divisionId": "ocd-division/country:us/state:nm/county:mckinley/council_district:2",
+   "name": "County Commission, District 4",
+   "divisionId": "ocd-division/country:us/state:nm/county:chaves/council_district:4",
    "officialIndices": [
     395
    ]
   },
   {
-   "name": "County Commission, District 5",
-   "divisionId": "ocd-division/country:us/state:nm/county:chaves/council_district:5",
+   "name": "County Commission, District 3",
+   "divisionId": "ocd-division/country:us/state:nm/county:mckinley/council_district:3",
    "officialIndices": [
     396
    ]
   },
   {
-   "name": "County Commission, District 3",
-   "divisionId": "ocd-division/country:us/state:nm/county:mckinley/council_district:3",
+   "name": "County Commission, District 5",
+   "divisionId": "ocd-division/country:us/state:nm/county:chaves/council_district:5",
    "officialIndices": [
     397
    ]
@@ -6012,15 +6012,15 @@
    ]
   },
   {
-   "name": "County Commission, District 3",
-   "divisionId": "ocd-division/country:us/state:nm/county:chaves/council_district:3",
+   "name": "County Commission, District 1",
+   "divisionId": "ocd-division/country:us/state:nm/county:mckinley/council_district:1",
    "officialIndices": [
     399
    ]
   },
   {
-   "name": "County Commission, District 1",
-   "divisionId": "ocd-division/country:us/state:nm/county:mckinley/council_district:1",
+   "name": "County Commission, District 3",
+   "divisionId": "ocd-division/country:us/state:nm/county:chaves/council_district:3",
    "officialIndices": [
     400
    ]
@@ -6145,56 +6145,56 @@
    ]
   },
   {
-   "name": "Clerk",
-   "divisionId": "ocd-division/country:us/state:nm/county:guadalupe",
+   "name": "County Commission, District 3",
+   "divisionId": "ocd-division/country:us/state:nm/county:lea/council_district:3",
    "officialIndices": [
     418
    ]
   },
   {
-   "name": "Sheriff",
+   "name": "Clerk",
    "divisionId": "ocd-division/country:us/state:nm/county:guadalupe",
    "officialIndices": [
     419
    ]
   },
   {
-   "name": "Assessor",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:nm/county:guadalupe",
    "officialIndices": [
     420
    ]
   },
   {
-   "name": "Treasurer",
+   "name": "Assessor",
    "divisionId": "ocd-division/country:us/state:nm/county:guadalupe",
    "officialIndices": [
     421
    ]
   },
   {
-   "name": "Probate Judge",
+   "name": "Treasurer",
    "divisionId": "ocd-division/country:us/state:nm/county:guadalupe",
    "officialIndices": [
     422
    ]
   },
   {
-   "name": "County Commission, District 1",
+   "name": "Probate Judge",
    "divisionId": "ocd-division/country:us/state:nm/county:guadalupe",
    "officialIndices": [
     423
    ]
   },
   {
-   "name": "County Commission, District 2",
+   "name": "County Commission, District 1",
    "divisionId": "ocd-division/country:us/state:nm/county:guadalupe",
    "officialIndices": [
     424
    ]
   },
   {
-   "name": "County Commission, District 3",
+   "name": "County Commission, District 2",
    "divisionId": "ocd-division/country:us/state:nm/county:guadalupe",
    "officialIndices": [
     425
@@ -6202,7 +6202,7 @@
   },
   {
    "name": "County Commission, District 3",
-   "divisionId": "ocd-division/country:us/state:nm/county:lea/council_district:3",
+   "divisionId": "ocd-division/country:us/state:nm/county:guadalupe",
    "officialIndices": [
     426
    ]
@@ -6367,12 +6367,12 @@
      "id": "replujangrisham"
     },
     {
-     "type": "GooglePlus",
-     "id": "111410020293892531984"
-    },
-    {
      "type": "YouTube",
      "id": "RepLujanGrisham"
+    },
+    {
+     "type": "GooglePlus",
+     "id": "111410020293892531984"
     }
    ]
   },
@@ -6895,12 +6895,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "SpeakerWKenMartinez"
-    },
-    {
      "type": "Twitter",
      "id": "SpeakerMartinez"
+    },
+    {
+     "type": "Facebook",
+     "id": "SpeakerWKenMartinez"
     }
    ]
   },
@@ -7079,11 +7079,11 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "VoteAlonzo"
     },
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "VoteAlonzo"
     }
    ]
@@ -7122,11 +7122,11 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "KellyFajardoNM"
     },
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "KellyFajardoNM"
     }
    ]
@@ -7154,12 +7154,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "eliseolee.alcon"
-    },
-    {
      "type": "Twitter",
      "id": "eliseoalcon"
+    },
+    {
+     "type": "Facebook",
+     "id": "eliseolee.alcon"
     }
    ]
   },
@@ -7590,12 +7590,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "Soules4Senate37"
-    },
-    {
      "type": "Twitter",
      "id": "senatorsoules"
+    },
+    {
+     "type": "Facebook",
+     "id": "Soules4Senate37"
     }
    ]
   },
@@ -8052,12 +8052,12 @@
    "photoUrl": "http://www.governor.state.nm.us/uploads/images/Governor_Small.jpg",
    "channels": [
     {
-     "type": "Facebook",
-     "id": "SusanaMartinezFan"
-    },
-    {
      "type": "Twitter",
      "id": "Gov_Martinez"
+    },
+    {
+     "type": "Facebook",
+     "id": "SusanaMartinezFan"
     }
    ]
   },
@@ -8286,12 +8286,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "RomeroForDistrict10"
-    },
-    {
      "type": "Twitter",
      "id": "andresromeronm"
+    },
+    {
+     "type": "Facebook",
+     "id": "RomeroForDistrict10"
     }
    ]
   },
@@ -8329,12 +8329,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "JavierForNM"
-    },
-    {
      "type": "Facebook",
      "id": "aviermartinezfornewmexico"
+    },
+    {
+     "type": "Twitter",
+     "id": "JavierForNM"
     }
    ]
   },
@@ -8466,11 +8466,11 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "smaestasbarnes"
     },
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "smaestasbarnes"
     }
    ]
@@ -8536,11 +8536,11 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "mcqueenfornm"
     },
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "mcqueenfornm"
     }
    ]
@@ -9161,12 +9161,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "nategentrynm"
-    },
-    {
      "type": "Twitter",
      "id": "NateGentryNM"
+    },
+    {
+     "type": "Facebook",
+     "id": "nategentrynm"
     }
    ]
   },
@@ -9341,16 +9341,16 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "BillRehmNM"
+     "type": "YouTube",
+     "id": "BillRehmNewMexico"
     },
     {
      "type": "Facebook",
      "id": "BillRehmNM"
     },
     {
-     "type": "YouTube",
-     "id": "BillRehmNewMexico"
+     "type": "Twitter",
+     "id": "BillRehmNM"
     }
    ]
   },
@@ -9518,12 +9518,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "RepGeorgeneLouis"
-    },
-    {
      "type": "Twitter",
      "id": "georgenelouis"
+    },
+    {
+     "type": "Facebook",
+     "id": "RepGeorgeneLouis"
     }
    ]
   },
@@ -9561,12 +9561,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "electchristine"
-    },
-    {
      "type": "Twitter",
      "id": "elect_christine"
+    },
+    {
+     "type": "Facebook",
+     "id": "electchristine"
     }
    ]
   },
@@ -9817,12 +9817,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "repchasey"
-    },
-    {
      "type": "Twitter",
      "id": "repgailchasey"
+    },
+    {
+     "type": "Facebook",
+     "id": "repchasey"
     }
    ]
   },
@@ -13927,9 +13927,6 @@
    "phones": [
     "(575) 648-2856"
    ],
-   "urls": [
-    "http://www.lincolncountynm.net/county_offices/sheriff/index.php"
-   ],
    "emails": [
     "robert.shepperd@lcso.newmexico.gov"
    ]
@@ -13968,6 +13965,9 @@
    "party": "Republican",
    "phones": [
     "(575) 648-2394 ext. 130"
+   ],
+   "urls": [
+    "http://www.lincolncountynm.net/county_offices/clerk/index.php"
    ],
    "emails": [
     "rburrows@lincolncountynm.net"
@@ -14112,6 +14112,93 @@
    ],
    "emails": [
     "earagon@countyofmora.com"
+   ]
+  },
+  {
+   "name": "Barbara L. Shaw",
+   "address": [
+    {
+     "line1": "P.O. Box 1002",
+     "city": "mosquero",
+     "state": "NM",
+     "zip": "87733"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(575) 673-2301"
+   ],
+   "emails": [
+    "hardingcc@plateautel.net"
+   ]
+  },
+  {
+   "name": "Herman Martinez",
+   "address": [
+    {
+     "line1": "PO Box 1002",
+     "city": "mosquero",
+     "state": "NM",
+     "zip": "87733"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(575) 673-2231"
+   ],
+   "emails": [
+    "hcsheriff_law@plateautel.net"
+   ]
+  },
+  {
+   "name": "Pete Callahan",
+   "address": [
+    {
+     "line1": "P.O. Box 1002",
+     "city": "mosquero",
+     "state": "NM",
+     "zip": "87733"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(575) 673-2926"
+   ],
+   "emails": [
+    "arc@plateautel.net"
+   ]
+  },
+  {
+   "name": "Felicia A. Esquibel",
+   "address": [
+    {
+     "line1": "PO Box 1002",
+     "city": "mosquero",
+     "state": "NM",
+     "zip": "87733"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(575) 673-2928"
+   ],
+   "emails": [
+    "treasurer@plateuatel.net"
+   ]
+  },
+  {
+   "name": "Shawn C. Jeffrey",
+   "address": [
+    {
+     "line1": "PO Box 1002",
+     "city": "mosquero",
+     "state": "NM",
+     "zip": "87733"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(575) 673-2927"
    ]
   },
   {
@@ -14268,93 +14355,6 @@
    ],
    "emails": [
     "jlnewton@co.colfax.nm.us"
-   ]
-  },
-  {
-   "name": "Barbara L. Shaw",
-   "address": [
-    {
-     "line1": "P.O. Box 1002",
-     "city": "mosquero",
-     "state": "NM",
-     "zip": "87733"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(575) 673-2301"
-   ],
-   "emails": [
-    "hardingcc@plateautel.net"
-   ]
-  },
-  {
-   "name": "Herman Martinez",
-   "address": [
-    {
-     "line1": "PO Box 1002",
-     "city": "mosquero",
-     "state": "NM",
-     "zip": "87733"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(575) 673-2231"
-   ],
-   "emails": [
-    "hcsheriff_law@plateautel.net"
-   ]
-  },
-  {
-   "name": "Pete Callahan",
-   "address": [
-    {
-     "line1": "P.O. Box 1002",
-     "city": "mosquero",
-     "state": "NM",
-     "zip": "87733"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(575) 673-2926"
-   ],
-   "emails": [
-    "arc@plateautel.net"
-   ]
-  },
-  {
-   "name": "Felicia A. Esquibel",
-   "address": [
-    {
-     "line1": "PO Box 1002",
-     "city": "mosquero",
-     "state": "NM",
-     "zip": "87733"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(575) 673-2928"
-   ],
-   "emails": [
-    "treasurer@plateuatel.net"
-   ]
-  },
-  {
-   "name": "Shawn C. Jeffrey",
-   "address": [
-    {
-     "line1": "PO Box 1002",
-     "city": "mosquero",
-     "state": "NM",
-     "zip": "87733"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(575) 673-2927"
    ]
   },
   {
@@ -15202,6 +15202,27 @@
    ]
   },
   {
+   "name": "Genevieve Jackson",
+   "address": [
+    {
+     "line1": "207 West Hill St.",
+     "city": "gallup",
+     "state": "NM",
+     "zip": "87301"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(505) 722-3868"
+   ],
+   "urls": [
+    "http://www.co.mckinley.nm.us/style_sheets.htm"
+   ],
+   "emails": [
+    "info@co.mckinley.nm.us"
+   ]
+  },
+  {
    "name": "Robert Corn",
    "address": [
     {
@@ -15223,7 +15244,7 @@
    ]
   },
   {
-   "name": "Genevieve Jackson",
+   "name": "David Dallago Jr.",
    "address": [
     {
      "line1": "207 West Hill St.",
@@ -15237,7 +15258,7 @@
     "(505) 722-3868"
    ],
    "urls": [
-    "http://www.co.mckinley.nm.us/style_sheets.htm"
+    "http://www.co.mckinley.nm.us/license_agreement.htm"
    ],
    "emails": [
     "info@co.mckinley.nm.us"
@@ -15265,27 +15286,6 @@
    ]
   },
   {
-   "name": "David Dallago Jr.",
-   "address": [
-    {
-     "line1": "207 West Hill St.",
-     "city": "gallup",
-     "state": "NM",
-     "zip": "87301"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(505) 722-3868"
-   ],
-   "urls": [
-    "http://www.co.mckinley.nm.us/license_agreement.htm"
-   ],
-   "emails": [
-    "info@co.mckinley.nm.us"
-   ]
-  },
-  {
    "name": "Kim Chesser",
    "address": [
     {
@@ -15307,27 +15307,6 @@
    ]
   },
   {
-   "name": "Kyle Wooton",
-   "address": [
-    {
-     "line1": "#1 st. mary's place",
-     "city": "roswell",
-     "state": "NM",
-     "zip": "88203"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(575) 626-6253"
-   ],
-   "urls": [
-    "http://co.chaves.nm.us/index.php/district-3"
-   ],
-   "emails": [
-    "kwooton@co.chaves.nm.us"
-   ]
-  },
-  {
    "name": "Carol Bowman Muskett",
    "address": [
     {
@@ -15346,6 +15325,27 @@
    ],
    "emails": [
     "info@co.mckinley.nm.us"
+   ]
+  },
+  {
+   "name": "Kyle Wooton",
+   "address": [
+    {
+     "line1": "#1 st. mary's place",
+     "city": "roswell",
+     "state": "NM",
+     "zip": "88203"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(575) 626-6253"
+   ],
+   "urls": [
+    "http://co.chaves.nm.us/index.php/district-3"
+   ],
+   "emails": [
+    "kwooton@co.chaves.nm.us"
    ]
   },
   {
@@ -15697,6 +15697,24 @@
    ]
   },
   {
+   "name": "Ron Black",
+   "address": [
+    {
+     "line1": "100 N. Main",
+     "city": "lovington",
+     "state": "NM",
+     "zip": "88260"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(575) 396-8602"
+   ],
+   "emails": [
+    "ronrblack@leacounty.net"
+   ]
+  },
+  {
    "name": "Patrick Z. Martinez",
    "address": [
     {
@@ -15845,24 +15863,6 @@
    ],
    "emails": [
     "tnt-2363@hotmail.com"
-   ]
-  },
-  {
-   "name": "Ron Black",
-   "address": [
-    {
-     "line1": "100 N. Main",
-     "city": "lovington",
-     "state": "NM",
-     "zip": "88260"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(575) 396-8602"
-   ],
-   "emails": [
-    "ronrblack@leacounty.net"
    ]
   },
   {

@@ -27,14 +27,14 @@
   "ocd-division/country:us/state:vt/sldl:lamoille-4": {
    "name": "Vermont Lamoille-4 State House district (obsolete)"
   },
-  "ocd-division/country:us/state:vt/place:huntington": {
-   "name": "Huntington town"
-  },
   "ocd-division/country:us/state:vt/sldl:lamoille-3": {
    "name": "Vermont Lamoille-3 State House district",
    "officeIndices": [
     2
    ]
+  },
+  "ocd-division/country:us/state:vt/place:huntington": {
+   "name": "Huntington town"
   },
   "ocd-division/country:us/state:vt/place:newport_city": {
    "name": "Newport city"
@@ -88,11 +88,11 @@
   "ocd-division/country:us/state:vt/county:windsor/school_district:windsor_central_supervisory_union": {
    "name": "windsor central supervisory union"
   },
-  "ocd-division/country:us/state:vt/place:morrisville": {
-   "name": "Morrisville village"
-  },
   "ocd-division/country:us/state:vt/place:pittsford": {
    "name": "Pittsford town"
+  },
+  "ocd-division/country:us/state:vt/place:morrisville": {
+   "name": "Morrisville village"
   },
   "ocd-division/country:us/state:vt/place:barton_town": {
    "name": "Barton town"
@@ -215,6 +215,9 @@
   "ocd-division/country:us/state:vt/place:canaan": {
    "name": "Canaan town"
   },
+  "ocd-division/country:us/state:vt/place:maidstone": {
+   "name": "Maidstone town"
+  },
   "ocd-division/country:us/state:vt/county:orleans": {
    "name": "Orleans County",
    "officeIndices": [
@@ -225,14 +228,11 @@
     139
    ]
   },
-  "ocd-division/country:us/state:vt/place:maidstone": {
-   "name": "Maidstone town"
+  "ocd-division/country:us/state:vt/place:johnson_town": {
+   "name": "Johnson town"
   },
   "ocd-division/country:us/state:vt/county:lamoille/school_district:cambridge_school_district": {
    "name": "cambridge school district"
-  },
-  "ocd-division/country:us/state:vt/place:johnson_town": {
-   "name": "Johnson town"
   },
   "ocd-division/country:us/state:vt/county:orleans/school_district:lake_region_uhsd_24": {
    "name": "lake region uhsd 24"
@@ -264,11 +264,11 @@
   "ocd-division/country:us/state:vt/county:windham/school_district:brattleboro_school_district": {
    "name": "brattleboro school district"
   },
-  "ocd-division/country:us/state:vt/county:caledonia/school_district:millers_run_usd_37": {
-   "name": "millers run usd 37"
-  },
   "ocd-division/country:us/state:vt/place:marshfield_town": {
    "name": "Marshfield town"
+  },
+  "ocd-division/country:us/state:vt/county:caledonia/school_district:millers_run_usd_37": {
+   "name": "millers run usd 37"
   },
   "ocd-division/country:us/state:vt/place:pittsfield": {
    "name": "Pittsfield town"
@@ -291,14 +291,14 @@
   "ocd-division/country:us/state:vt/county:caledonia/school_district:newark_school_district": {
    "name": "newark school district"
   },
+  "ocd-division/country:us/state:vt/county:rutland/school_district:shrewsbury_school_district": {
+   "name": "shrewsbury school district"
+  },
   "ocd-division/country:us/state:vt/sldu:windham": {
    "name": "Vermont Windham State Senate district",
    "officeIndices": [
     11
    ]
-  },
-  "ocd-division/country:us/state:vt/county:rutland/school_district:shrewsbury_school_district": {
-   "name": "shrewsbury school district"
   },
   "ocd-division/country:us/state:vt/county:bennington/school_district:dorset_school_district": {
    "name": "dorset school district"
@@ -318,14 +318,14 @@
     12
    ]
   },
-  "ocd-division/country:us/state:vt/county:windsor/school_district:rutland_windsor_supervisory_union": {
-   "name": "rutland windsor supervisory union"
+  "ocd-division/country:us/state:vt/place:winooski": {
+   "name": "Winooski city"
   },
   "ocd-division/country:us/state:vt/county:chittenden/school_district:underhill_id_school_district": {
    "name": "underhill id school district"
   },
-  "ocd-division/country:us/state:vt/place:winooski": {
-   "name": "Winooski city"
+  "ocd-division/country:us/state:vt/county:windsor/school_district:rutland_windsor_supervisory_union": {
+   "name": "rutland windsor supervisory union"
   },
   "ocd-division/country:us/state:vt/place:jacksonville": {
    "name": "Jacksonville village"
@@ -333,11 +333,11 @@
   "ocd-division/country:us/state:vt/county:windham/school_district:windham_southwest_supervisory_union": {
    "name": "windham southwest supervisory union"
   },
-  "ocd-division/country:us/state:vt/county:washington/school_district:duxbury_school_district": {
-   "name": "duxbury school district"
-  },
   "ocd-division/country:us/state:vt/county:rutland/school_district:castleton-hubbardton_usd_42": {
    "name": "castleton-hubbardton usd 42"
+  },
+  "ocd-division/country:us/state:vt/county:washington/school_district:duxbury_school_district": {
+   "name": "duxbury school district"
   },
   "ocd-division/country:us/state:vt/place:fayston": {
    "name": "Fayston town"
@@ -399,14 +399,14 @@
     13
    ]
   },
+  "ocd-division/country:us/state:vt/place:waitsfield": {
+   "name": "Waitsfield town"
+  },
   "ocd-division/country:us/state:vt/sldu:chittenden": {
    "name": "Vermont Chittenden State Senate district",
    "officeIndices": [
     14
    ]
-  },
-  "ocd-division/country:us/state:vt/place:waitsfield": {
-   "name": "Waitsfield town"
   },
   "ocd-division/country:us/state:vt/county:windsor/school_district:stockbridge_school_district": {
    "name": "stockbridge school district"
@@ -453,11 +453,11 @@
   "ocd-division/country:us/state:vt/place:westfield": {
    "name": "Westfield town"
   },
-  "ocd-division/country:us/state:vt/county:windham/school_district:searsburg_school_district": {
-   "name": "searsburg school district"
-  },
   "ocd-division/country:us/state:vt/county:addison/school_district:waltham_school_district": {
    "name": "waltham school district"
+  },
+  "ocd-division/country:us/state:vt/county:windham/school_district:searsburg_school_district": {
+   "name": "searsburg school district"
   },
   "ocd-division/country:us/state:vt/place:saxtons_river": {
    "name": "Saxtons River village"
@@ -468,11 +468,11 @@
   "ocd-division/country:us/state:vt/county:windsor/school_district:springfield_supervisory_district": {
    "name": "springfield supervisory district"
   },
-  "ocd-division/country:us/state:vt/place:barnet": {
-   "name": "Barnet town"
-  },
   "ocd-division/country:us/state:vt/county:lamoille/school_district:lamoille_north_supervisory_union": {
    "name": "lamoille north supervisory union"
+  },
+  "ocd-division/country:us/state:vt/place:barnet": {
+   "name": "Barnet town"
   },
   "ocd-division/country:us/state:vt/county:addison": {
    "name": "Addison County",
@@ -559,14 +559,14 @@
   "ocd-division/country:us/state:vt/place:ludlow_town": {
    "name": "Ludlow town"
   },
-  "ocd-division/country:us/state:vt/county:caledonia/school_district:saint_johnsbury_school_district": {
-   "name": "saint johnsbury school district"
-  },
   "ocd-division/country:us/state:vt/sldl:chittenden-7-1": {
    "name": "Vermont Chittenden-7-1 State House district",
    "officeIndices": [
     21
    ]
+  },
+  "ocd-division/country:us/state:vt/county:caledonia/school_district:saint_johnsbury_school_district": {
+   "name": "saint johnsbury school district"
   },
   "ocd-division/country:us/state:vt/place:stannard": {
    "name": "Stannard town"
@@ -595,11 +595,11 @@
   "ocd-division/country:us/state:vt/county:rutland/school_district:otter_valley_uhsd_8": {
    "name": "otter valley uhsd 8"
   },
-  "ocd-division/country:us/state:vt/county:chittenden/school_district:champlain_valley_uhsd_15": {
-   "name": "champlain valley uhsd 15"
-  },
   "ocd-division/country:us/state:vt/place:brunswick": {
    "name": "Brunswick town"
+  },
+  "ocd-division/country:us/state:vt/county:chittenden/school_district:champlain_valley_uhsd_15": {
+   "name": "champlain valley uhsd 15"
   },
   "ocd-division/country:us/state:vt/county:rutland/school_district:poultney_school_district": {
    "name": "poultney school district"
@@ -650,11 +650,11 @@
     26
    ]
   },
-  "ocd-division/country:us/state:vt/place:cambridge_town": {
-   "name": "Cambridge town"
-  },
   "ocd-division/country:us/state:vt/sldl:chittenden-3-1": {
    "name": "Vermont Chittenden-3-1 State House district (obsolete)"
+  },
+  "ocd-division/country:us/state:vt/place:cambridge_town": {
+   "name": "Cambridge town"
   },
   "ocd-division/country:us/state:vt/sldl:franklin-7": {
    "name": "Vermont Franklin-7 State House district",
@@ -665,23 +665,23 @@
   "ocd-division/country:us/state:vt/sldl:chittenden-3-3": {
    "name": "Vermont Chittenden-3-3 State House district (obsolete)"
   },
-  "ocd-division/country:us/state:vt/county:lamoille/school_district:belvidere_school_district": {
-   "name": "belvidere school district"
-  },
   "ocd-division/country:us/state:vt/sldl:chittenden-3-2": {
    "name": "Vermont Chittenden-3-2 State House district (obsolete)"
   },
-  "ocd-division/country:us/state:vt/place:proctor": {
-   "name": "Proctor town"
+  "ocd-division/country:us/state:vt/county:lamoille/school_district:belvidere_school_district": {
+   "name": "belvidere school district"
   },
   "ocd-division/country:us/state:vt/sldl:chittenden-3-5": {
    "name": "Vermont Chittenden-3-5 State House district (obsolete)"
   },
-  "ocd-division/country:us/state:vt/place:lyndonville": {
-   "name": "Lyndonville village"
+  "ocd-division/country:us/state:vt/place:proctor": {
+   "name": "Proctor town"
   },
   "ocd-division/country:us/state:vt/sldl:chittenden-3-4": {
    "name": "Vermont Chittenden-3-4 State House district (obsolete)"
+  },
+  "ocd-division/country:us/state:vt/place:lyndonville": {
+   "name": "Lyndonville village"
   },
   "ocd-division/country:us/state:vt/sldl:chittenden-3-7": {
    "name": "Vermont Chittenden-3-7 State House district (obsolete)"
@@ -1282,20 +1282,20 @@
   "ocd-division/country:us/state:vt/place:richford": {
    "name": "Richford town"
   },
-  "ocd-division/country:us/state:vt/county:addison/school_district:shoreham_school_district": {
-   "name": "shoreham school district"
-  },
   "ocd-division/country:us/state:vt/county:franklin/school_district:georgia_school_district": {
    "name": "georgia school district"
+  },
+  "ocd-division/country:us/state:vt/county:addison/school_district:shoreham_school_district": {
+   "name": "shoreham school district"
   },
   "ocd-division/country:us/state:vt/county:bennington/school_district:southwest_vermont_supervisory_union": {
    "name": "southwest vermont supervisory union"
   },
-  "ocd-division/country:us/state:vt/place:baltimore": {
-   "name": "Baltimore town"
-  },
   "ocd-division/country:us/state:vt/county:chittenden/school_district:underhill_town_school_district": {
    "name": "underhill town school district"
+  },
+  "ocd-division/country:us/state:vt/place:baltimore": {
+   "name": "Baltimore town"
   },
   "ocd-division/country:us/state:vt/county:washington/school_district:woodbury_school_district": {
    "name": "woodbury school district"
@@ -1324,17 +1324,17 @@
   "ocd-division/country:us/state:vt/place:enosburgh": {
    "name": "Enosburgh town"
   },
-  "ocd-division/country:us/state:vt/county:windham/school_district:somerset": {
-   "name": "somerset"
-  },
   "ocd-division/country:us/state:vt/place:waterbury_town": {
    "name": "Waterbury town"
   },
-  "ocd-division/country:us/state:vt/county:addison/school_district:patricia_hannaford_career_center_sd": {
-   "name": "patricia hannaford career center sd"
+  "ocd-division/country:us/state:vt/county:windham/school_district:somerset": {
+   "name": "somerset"
   },
   "ocd-division/country:us/state:vt/place:winhall": {
    "name": "Winhall town"
+  },
+  "ocd-division/country:us/state:vt/county:addison/school_district:patricia_hannaford_career_center_sd": {
+   "name": "patricia hannaford career center sd"
   },
   "ocd-division/country:us/state:vt/county:franklin/school_district:montgomery_school_district": {
    "name": "montgomery school district"
@@ -1358,17 +1358,17 @@
   "ocd-division/country:us/state:vt/sldl:orleans-caledonia-1": {
    "name": "Vermont Orleans-Caledonia-1 State House district (obsolete)"
   },
-  "ocd-division/country:us/state:vt/place:morristown": {
-   "name": "Morristown town"
-  },
   "ocd-division/country:us/state:vt/place:pownal": {
    "name": "Pownal town"
   },
-  "ocd-division/country:us/state:vt/county:addison/school_district:starksboro_school_district": {
-   "name": "starksboro school district"
+  "ocd-division/country:us/state:vt/place:morristown": {
+   "name": "Morristown town"
   },
   "ocd-division/country:us/state:vt/place:danby": {
    "name": "Danby town"
+  },
+  "ocd-division/country:us/state:vt/county:addison/school_district:starksboro_school_district": {
+   "name": "starksboro school district"
   },
   "ocd-division/country:us/state:vt/place:pawlet": {
    "name": "Pawlet town"
@@ -1379,11 +1379,11 @@
   "ocd-division/country:us/state:vt/county:windham/school_district:brookline_school_district": {
    "name": "brookline school district"
   },
-  "ocd-division/country:us/state:vt/place:hartland": {
-   "name": "Hartland town"
-  },
   "ocd-division/country:us/state:vt/place:landgrove": {
    "name": "Landgrove town"
+  },
+  "ocd-division/country:us/state:vt/place:hartland": {
+   "name": "Hartland town"
   },
   "ocd-division/country:us/state:vt/place:bradford": {
    "name": "Bradford town"
@@ -1448,11 +1448,11 @@
   "ocd-division/country:us/state:vt/place:rochester": {
    "name": "Rochester town"
   },
-  "ocd-division/country:us/state:vt/county:windsor/school_district:windsor_northwest_supervisory_union": {
-   "name": "windsor northwest supervisory union"
-  },
   "ocd-division/country:us/state:vt/place:benson": {
    "name": "Benson town"
+  },
+  "ocd-division/country:us/state:vt/county:windsor/school_district:windsor_northwest_supervisory_union": {
+   "name": "windsor northwest supervisory union"
   },
   "ocd-division/country:us/state:vt/sldu:rutland": {
    "name": "Vermont Rutland State Senate district",
@@ -1743,6 +1743,9 @@
   "ocd-division/country:us/state:vt/county:bennington/school_district:battenkill_valley_supervisory_union": {
    "name": "battenkill valley supervisory union"
   },
+  "ocd-division/country:us/state:vt/place:hinesburg": {
+   "name": "Hinesburg town"
+  },
   "ocd-division/country:us/state:vt/county:grand_isle/school_district:grand_isle_supervisory_union": {
    "name": "grand isle supervisory union"
   },
@@ -1751,9 +1754,6 @@
   },
   "ocd-division/country:us/state:vt/place:georgia": {
    "name": "Georgia town"
-  },
-  "ocd-division/country:us/state:vt/place:hinesburg": {
-   "name": "Hinesburg town"
   },
   "ocd-division/country:us/state:vt/county:washington/school_district:washington_northeast_supervisory_union": {
    "name": "washington northeast supervisory union"
@@ -2022,14 +2022,14 @@
   "ocd-division/country:us/state:vt/county:caledonia/school_district:hazen_uhsd_26": {
    "name": "hazen uhsd 26"
   },
+  "ocd-division/country:us/state:vt/place:putney": {
+   "name": "Putney town"
+  },
   "ocd-division/country:us/state:vt/sldu:lamoille": {
    "name": "Vermont Lamoille State Senate district",
    "officeIndices": [
     74
    ]
-  },
-  "ocd-division/country:us/state:vt/place:putney": {
-   "name": "Putney town"
   },
   "ocd-division/country:us/state:vt/place:fletcher": {
    "name": "Fletcher town"
@@ -2112,14 +2112,14 @@
     79
    ]
   },
-  "ocd-division/country:us/state:vt/sldl:rutland-4": {
-   "name": "Vermont Rutland-4 State House district",
+  "ocd-division/country:us/state:vt/sldl:chittenden-6-2": {
+   "name": "Vermont Chittenden-6-2 State House district",
    "officeIndices": [
     80
    ]
   },
-  "ocd-division/country:us/state:vt/sldl:chittenden-6-2": {
-   "name": "Vermont Chittenden-6-2 State House district",
+  "ocd-division/country:us/state:vt/sldl:rutland-4": {
+   "name": "Vermont Rutland-4 State House district",
    "officeIndices": [
     81
    ]
@@ -2163,14 +2163,14 @@
     85
    ]
   },
-  "ocd-division/country:us/state:vt/sldl:rutland-1": {
-   "name": "Vermont Rutland-1 State House district",
+  "ocd-division/country:us/state:vt/sldl:chittenden-6-5": {
+   "name": "Vermont Chittenden-6-5 State House district",
    "officeIndices": [
     86
    ]
   },
-  "ocd-division/country:us/state:vt/sldl:chittenden-6-5": {
-   "name": "Vermont Chittenden-6-5 State House district",
+  "ocd-division/country:us/state:vt/sldl:rutland-1": {
+   "name": "Vermont Rutland-1 State House district",
    "officeIndices": [
     87
    ]
@@ -2435,14 +2435,14 @@
   "ocd-division/country:us/state:vt/county:rutland/school_district:barstow_joint_contract_district": {
    "name": "barstow joint contract district"
   },
+  "ocd-division/country:us/state:vt/place:warren": {
+   "name": "Warren town"
+  },
   "ocd-division/country:us/state:vt/county:orleans/school_district:glover_school_district": {
    "name": "glover school district"
   },
   "ocd-division/country:us/state:vt/county:addison/school_district:ferrisburg_school_district": {
    "name": "ferrisburg school district"
-  },
-  "ocd-division/country:us/state:vt/place:warren": {
-   "name": "Warren town"
   },
   "ocd-division/country:us/state:vt/county:windsor/school_district:hartford_school_district": {
    "name": "hartford school district"
@@ -2771,11 +2771,11 @@
   "ocd-division/country:us/state:vt/sldl:rutland-1-1": {
    "name": "Vermont Rutland-1-1 State House district (obsolete)"
   },
-  "ocd-division/country:us/state:vt/county:franklin/school_district:franklin_west_supervisory_union": {
-   "name": "franklin west supervisory union"
-  },
   "ocd-division/country:us/state:vt/sldl:rutland-1-2": {
    "name": "Vermont Rutland-1-2 State House district (obsolete)"
+  },
+  "ocd-division/country:us/state:vt/county:franklin/school_district:franklin_west_supervisory_union": {
+   "name": "franklin west supervisory union"
   },
   "ocd-division/country:us/state:vt/county:orleans/school_district:coventry_school_district": {
    "name": "coventry school district"
@@ -2792,12 +2792,6 @@
   "ocd-division/country:us/state:vt/county:lamoille/school_district:lamoille_uhsd_18": {
    "name": "lamoille uhsd 18"
   },
-  "ocd-division/country:us/state:vt/county:addison/school_district:middlebury_uhsd_3": {
-   "name": "middlebury uhsd 3"
-  },
-  "ocd-division/country:us/state:vt/county:addison/school_district:addison_central_supervisory_union": {
-   "name": "addison central supervisory union"
-  },
   "ocd-division/country:us/state:vt/county:orange": {
    "name": "Orange County",
    "officeIndices": [
@@ -2806,6 +2800,12 @@
     190,
     191
    ]
+  },
+  "ocd-division/country:us/state:vt/county:addison/school_district:middlebury_uhsd_3": {
+   "name": "middlebury uhsd 3"
+  },
+  "ocd-division/country:us/state:vt/county:addison/school_district:addison_central_supervisory_union": {
+   "name": "addison central supervisory union"
   },
   "ocd-division/country:us/state:vt/place:north_westminster": {
    "name": "North Westminster disincorporated but may be in election statistics"
@@ -2930,11 +2930,11 @@
   "ocd-division/country:us/state:vt/place:west_windsor": {
    "name": "West Windsor town"
   },
-  "ocd-division/country:us/state:vt/county:chittenden/school_district:mount_mansfield_usd_17": {
-   "name": "mount mansfield usd 17"
-  },
   "ocd-division/country:us/state:vt/place:shaftsbury": {
    "name": "Shaftsbury town"
+  },
+  "ocd-division/country:us/state:vt/county:chittenden/school_district:mount_mansfield_usd_17": {
+   "name": "mount mansfield usd 17"
   },
   "ocd-division/country:us/state:vt/county:chittenden/school_district:buels_gore": {
    "name": "buels gore"
@@ -4102,8 +4102,8 @@
    ]
   },
   {
-   "name": "VT State House District Rutland 4",
-   "divisionId": "ocd-division/country:us/state:vt/sldl:rutland-4",
+   "name": "VT State House District Chittenden 6 2",
+   "divisionId": "ocd-division/country:us/state:vt/sldl:chittenden-6-2",
    "levels": [
     "administrativeArea1"
    ],
@@ -4115,8 +4115,8 @@
    ]
   },
   {
-   "name": "VT State House District Chittenden 6 2",
-   "divisionId": "ocd-division/country:us/state:vt/sldl:chittenden-6-2",
+   "name": "VT State House District Rutland 4",
+   "divisionId": "ocd-division/country:us/state:vt/sldl:rutland-4",
    "levels": [
     "administrativeArea1"
    ],
@@ -4184,19 +4184,6 @@
    ]
   },
   {
-   "name": "VT State House District Rutland 1",
-   "divisionId": "ocd-division/country:us/state:vt/sldl:rutland-1",
-   "levels": [
-    "administrativeArea1"
-   ],
-   "roles": [
-    "legislatorLowerBody"
-   ],
-   "officialIndices": [
-    135
-   ]
-  },
-  {
    "name": "VT State House District Chittenden 6 5",
    "divisionId": "ocd-division/country:us/state:vt/sldl:chittenden-6-5",
    "levels": [
@@ -4206,7 +4193,20 @@
     "legislatorLowerBody"
    ],
    "officialIndices": [
-    136,
+    135,
+    136
+   ]
+  },
+  {
+   "name": "VT State House District Rutland 1",
+   "divisionId": "ocd-division/country:us/state:vt/sldl:rutland-1",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
     137
    ]
   },
@@ -6035,11 +6035,11 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "senatorsirotkin"
     },
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "senatorsirotkin"
     }
    ]
@@ -9409,40 +9409,6 @@
    ]
   },
   {
-   "name": "Thomas Terenzini",
-   "address": [
-    {
-     "line1": "Vermont State House",
-     "line2": "115 State Street",
-     "line3": "",
-     "city": "Montpelier",
-     "state": "VT",
-     "zip": "05633"
-    },
-    {
-     "line1": "34B Chasanna Drive",
-     "line2": "",
-     "line3": "",
-     "city": "Rutland",
-     "state": "VT",
-     "zip": "05701"
-    }
-   ],
-   "party": "Republican/Democratic",
-   "phones": [
-    "(802) 828-2231",
-    "(802) 855-1945"
-   ],
-   "urls": [
-    "http://legislature.vermont.gov/people/single/2016/20386"
-   ],
-   "photoUrl": "http://legislature.vermont.gov/assets/Documents/Legislators/TTerenzini.jpg",
-   "emails": [
-    "tterenzini@leg.state.vt.us",
-    "thomas.terenzini@yahoo.com"
-   ]
-  },
-  {
    "name": "Jean O'Sullivan",
    "address": [
     {
@@ -9474,6 +9440,40 @@
    "emails": [
     "josullivan@leg.state.vt.us",
     "osullivan.jean231@gmail.com"
+   ]
+  },
+  {
+   "name": "Thomas Terenzini",
+   "address": [
+    {
+     "line1": "Vermont State House",
+     "line2": "115 State Street",
+     "line3": "",
+     "city": "Montpelier",
+     "state": "VT",
+     "zip": "05633"
+    },
+    {
+     "line1": "34B Chasanna Drive",
+     "line2": "",
+     "line3": "",
+     "city": "Rutland",
+     "state": "VT",
+     "zip": "05701"
+    }
+   ],
+   "party": "Republican/Democratic",
+   "phones": [
+    "(802) 828-2231",
+    "(802) 855-1945"
+   ],
+   "urls": [
+    "http://legislature.vermont.gov/people/single/2016/20386"
+   ],
+   "photoUrl": "http://legislature.vermont.gov/assets/Documents/Legislators/TTerenzini.jpg",
+   "emails": [
+    "tterenzini@leg.state.vt.us",
+    "thomas.terenzini@yahoo.com"
    ]
   },
   {
@@ -9684,12 +9684,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "JKrowinski"
-    },
-    {
      "type": "Facebook",
      "id": "jill.krowinski"
+    },
+    {
+     "type": "Twitter",
+     "id": "JKrowinski"
     }
    ]
   },
@@ -9776,38 +9776,6 @@
    ]
   },
   {
-   "name": "Patricia McCoy",
-   "address": [
-    {
-     "line1": "Vermont State House",
-     "line2": "115 State Street",
-     "line3": "",
-     "city": "Montpelier",
-     "state": "VT",
-     "zip": "05633"
-    },
-    {
-     "line1": "1392 High Road",
-     "line2": "",
-     "line3": "",
-     "city": "Poultney",
-     "state": "VT",
-     "zip": "05764"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(802) 828-2231"
-   ],
-   "urls": [
-    "http://legislature.vermont.gov/people/single/2016/24015"
-   ],
-   "photoUrl": "http://legislature.vermont.gov/assets/Documents/Legislators/PMccoy.jpg",
-   "emails": [
-    "pmccoy@leg.state.vt.us"
-   ]
-  },
-  {
    "name": "Mary Sullivan",
    "address": [
     {
@@ -9872,6 +9840,38 @@
    "photoUrl": "http://legislature.vermont.gov/assets/Documents/Legislators/JDonovan.jpg",
    "emails": [
     "jdonovan@leg.state.vt.us"
+   ]
+  },
+  {
+   "name": "Patricia McCoy",
+   "address": [
+    {
+     "line1": "Vermont State House",
+     "line2": "115 State Street",
+     "line3": "",
+     "city": "Montpelier",
+     "state": "VT",
+     "zip": "05633"
+    },
+    {
+     "line1": "1392 High Road",
+     "line2": "",
+     "line3": "",
+     "city": "Poultney",
+     "state": "VT",
+     "zip": "05764"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(802) 828-2231"
+   ],
+   "urls": [
+    "http://legislature.vermont.gov/people/single/2016/24015"
+   ],
+   "photoUrl": "http://legislature.vermont.gov/assets/Documents/Legislators/PMccoy.jpg",
+   "emails": [
+    "pmccoy@leg.state.vt.us"
    ]
   },
   {
@@ -10948,12 +10948,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "KiahMorrisVT"
-    },
-    {
      "type": "Facebook",
      "id": "kiahmorrisvt"
+    },
+    {
+     "type": "Twitter",
+     "id": "KiahMorrisVT"
     }
    ]
   },

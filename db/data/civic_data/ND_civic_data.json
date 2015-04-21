@@ -15,26 +15,23 @@
   "ocd-division/country:us/state:nd/place:cavalier": {
    "name": "Cavalier city"
   },
-  "ocd-division/country:us/state:nd/county:steele/place:riverside": {
-   "name": "Riverside township"
-  },
   "ocd-division/country:us/state:nd/county:grand_forks/place:elm_grove": {
    "name": "Elm Grove township"
   },
-  "ocd-division/country:us/state:nd/county:cavalier/school_district:langdon_area_23": {
-   "name": "langdon area 23"
+  "ocd-division/country:us/state:nd/county:steele/place:riverside": {
+   "name": "Riverside township"
   },
   "ocd-division/country:us/state:nd/county:sargent/place:whitestone_hill": {
    "name": "Whitestone Hill township"
+  },
+  "ocd-division/country:us/state:nd/county:cavalier/school_district:langdon_area_23": {
+   "name": "langdon area 23"
   },
   "ocd-division/country:us/state:nd/county:stutsman/school_district:jamestown_special_ed_unit": {
    "name": "jamestown special ed unit"
   },
   "ocd-division/country:us/state:nd/county:pembina/school_district:drayton_19": {
    "name": "drayton 19"
-  },
-  "ocd-division/country:us/state:nd/county:mckenzie/place:sioux": {
-   "name": "Sioux township"
   },
   "ocd-division/country:us/state:nd/county:morton": {
    "name": "Morton County",
@@ -48,32 +45,35 @@
     104
    ]
   },
+  "ocd-division/country:us/state:nd/county:mckenzie/place:sioux": {
+   "name": "Sioux township"
+  },
   "ocd-division/country:us/state:nd/county:sargent/precinct:1-milnor": {
    "name": "Sargent County Precinct 1-Milnor"
-  },
-  "ocd-division/country:us/state:nd/county:williams/place:orthell": {
-   "name": "Orthell township"
-  },
-  "ocd-division/country:us/state:nd/county:burleigh/place:clear_lake": {
-   "name": "Clear Lake township"
   },
   "ocd-division/country:us/state:nd/county:nelson/school_district:dakota_prairie_1": {
    "name": "dakota prairie 1"
   },
-  "ocd-division/country:us/state:nd/county:hettinger/place:brittian": {
-   "name": "Brittian township"
+  "ocd-division/country:us/state:nd/county:burleigh/place:clear_lake": {
+   "name": "Clear Lake township"
+  },
+  "ocd-division/country:us/state:nd/county:williams/place:orthell": {
+   "name": "Orthell township"
   },
   "ocd-division/country:us/state:nd/county:pierce/place:ness": {
    "name": "Ness township"
   },
-  "ocd-division/country:us/state:nd/county:benson/place:esmond": {
-   "name": "Esmond township"
+  "ocd-division/country:us/state:nd/county:hettinger/place:brittian": {
+   "name": "Brittian township"
+  },
+  "ocd-division/country:us/state:nd/county:ramsey/school_district:lake_area_career_and_technical_center": {
+   "name": "lake area career & technical center"
   },
   "ocd-division/country:us/state:nd/county:griggs/place:rosendal": {
    "name": "Rosendal township"
   },
-  "ocd-division/country:us/state:nd/county:ramsey/school_district:lake_area_career_and_technical_center": {
-   "name": "lake area career & technical center"
+  "ocd-division/country:us/state:nd/county:benson/place:esmond": {
+   "name": "Esmond township"
   },
   "ocd-division/country:us/state:nd/county:bottineau/place:blaine": {
    "name": "Blaine township"
@@ -111,20 +111,20 @@
   "ocd-division/country:us/state:nd/county:mchenry/school_district:velva_1": {
    "name": "velva 1"
   },
-  "ocd-division/country:us/state:nd/county:emmons/precinct:4": {
-   "name": "Emmons County Precinct 4"
-  },
   "ocd-division/country:us/state:nd/county:richland/place:antelope": {
    "name": "Antelope township"
   },
-  "ocd-division/country:us/state:nd/county:emmons/precinct:5": {
-   "name": "Emmons County Precinct 5"
+  "ocd-division/country:us/state:nd/county:emmons/precinct:4": {
+   "name": "Emmons County Precinct 4"
   },
   "ocd-division/country:us/state:nd/county:hettinger/place:beery": {
    "name": "Beery township"
   },
-  "ocd-division/country:us/state:nd/county:emmons/precinct:2": {
-   "name": "Emmons County Precinct 2"
+  "ocd-division/country:us/state:nd/county:emmons/precinct:5": {
+   "name": "Emmons County Precinct 5"
+  },
+  "ocd-division/country:us/state:nd/county:mckenzie/place:alex": {
+   "name": "Alex township"
   },
   "ocd-division/country:us/state:nd/county:bottineau": {
    "name": "Bottineau County",
@@ -137,29 +137,29 @@
     110
    ]
   },
-  "ocd-division/country:us/state:nd/county:mckenzie/place:alex": {
-   "name": "Alex township"
+  "ocd-division/country:us/state:nd/county:emmons/precinct:2": {
+   "name": "Emmons County Precinct 2"
   },
   "ocd-division/country:us/state:nd/county:emmons/precinct:3": {
    "name": "Emmons County Precinct 3"
   },
-  "ocd-division/country:us/state:nd/county:ward/precinct:17-minot_b": {
-   "name": "Ward County Precinct 17-Minot B"
-  },
-  "ocd-division/country:us/state:nd/county:slope/place:sheets": {
-   "name": "Sheets township"
+  "ocd-division/country:us/state:nd/county:mountrail/place:manitou": {
+   "name": "Manitou township"
   },
   "ocd-division/country:us/state:nd/county:barnes/place:alta": {
    "name": "Alta township"
   },
-  "ocd-division/country:us/state:nd/county:mountrail/place:manitou": {
-   "name": "Manitou township"
+  "ocd-division/country:us/state:nd/county:slope/place:sheets": {
+   "name": "Sheets township"
   },
-  "ocd-division/country:us/state:nd/county:steele/place:easton": {
-   "name": "Easton township"
+  "ocd-division/country:us/state:nd/county:ward/precinct:17-minot_b": {
+   "name": "Ward County Precinct 17-Minot B"
   },
   "ocd-division/country:us/state:nd/county:emmons/precinct:1": {
    "name": "Emmons County Precinct 1"
+  },
+  "ocd-division/country:us/state:nd/county:steele/place:easton": {
+   "name": "Easton township"
   },
   "ocd-division/country:us/state:nd/county:hettinger/place:wagendorf": {
    "name": "Wagendorf township"
@@ -218,12 +218,6 @@
   "ocd-division/country:us/state:nd/county:ransom/place:alleghany": {
    "name": "Alleghany township"
   },
-  "ocd-division/country:us/state:nd/place:white_earth": {
-   "name": "White Earth city"
-  },
-  "ocd-division/country:us/state:nd/place:fort_yates": {
-   "name": "Fort Yates city"
-  },
   "ocd-division/country:us/state:nd/county:grand_forks": {
    "name": "Grand Forks County",
    "officeIndices": [
@@ -233,6 +227,12 @@
     121,
     122
    ]
+  },
+  "ocd-division/country:us/state:nd/place:white_earth": {
+   "name": "White Earth city"
+  },
+  "ocd-division/country:us/state:nd/place:fort_yates": {
+   "name": "Fort Yates city"
   },
   "ocd-division/country:us/state:nd/place:lamoure": {
    "name": "LaMoure city"
@@ -294,26 +294,26 @@
     133
    ]
   },
-  "ocd-division/country:us/state:nd/county:eddy/place:paradise": {
-   "name": "Paradise township"
-  },
   "ocd-division/country:us/state:nd/county:mclean/place:victoria": {
    "name": "Victoria township"
+  },
+  "ocd-division/country:us/state:nd/county:eddy/place:paradise": {
+   "name": "Paradise township"
   },
   "ocd-division/country:us/state:nd/county:barnes/school_district:barnes_county_north_7": {
    "name": "barnes county north 7"
   },
-  "ocd-division/country:us/state:nd/county:burleigh/precinct:3205-bis_civic_center_wachter": {
-   "name": "Burleigh County Precinct 3205-Bis Civic Center Wachter"
-  },
   "ocd-division/country:us/state:nd/county:oliver/precinct:2-center~west_side": {
    "name": "Oliver County Precinct 2-Center/West Side"
   },
-  "ocd-division/country:us/state:nd/place:sawyer": {
-   "name": "Sawyer city"
+  "ocd-division/country:us/state:nd/county:burleigh/precinct:3205-bis_civic_center_wachter": {
+   "name": "Burleigh County Precinct 3205-Bis Civic Center Wachter"
   },
   "ocd-division/country:us/state:nd/place:enderlin": {
    "name": "Enderlin city"
+  },
+  "ocd-division/country:us/state:nd/place:sawyer": {
+   "name": "Sawyer city"
   },
   "ocd-division/country:us/state:nd/county:cass/place:everest": {
    "name": "Everest township"
@@ -330,11 +330,11 @@
   "ocd-division/country:us/state:nd/county:lamoure/place:bluebird": {
    "name": "Bluebird township"
   },
-  "ocd-division/country:us/state:nd/place:cayuga": {
-   "name": "Cayuga city"
-  },
   "ocd-division/country:us/state:nd/county:eddy/place:pleasant_prairie": {
    "name": "Pleasant Prairie township"
+  },
+  "ocd-division/country:us/state:nd/place:cayuga": {
+   "name": "Cayuga city"
   },
   "ocd-division/country:us/state:nd/county:burleigh/place:morton": {
    "name": "Morton township"
@@ -592,11 +592,11 @@
   "ocd-division/country:us/state:nd/county:pierce/place:alexanter": {
    "name": "Alexanter township"
   },
-  "ocd-division/country:us/state:nd/county:stutsman/place:alexander": {
-   "name": "Alexander township"
-  },
   "ocd-division/country:us/state:nd/county:ransom/place:bale": {
    "name": "Bale township"
+  },
+  "ocd-division/country:us/state:nd/county:stutsman/place:alexander": {
+   "name": "Alexander township"
   },
   "ocd-division/country:us/state:nd/county:williams/school_district:grenora_99": {
    "name": "grenora 99"
@@ -637,14 +637,14 @@
   "ocd-division/country:us/state:nd/county:cass/place:ayr": {
    "name": "Ayr township"
   },
-  "ocd-division/country:us/state:nd/place:tappen": {
-   "name": "Tappen city"
+  "ocd-division/country:us/state:nd/county:nelson/place:central": {
+   "name": "Central township"
   },
   "ocd-division/country:us/state:nd/county:stutsman/precinct:5-p5": {
    "name": "Stutsman County Precinct 5-P5"
   },
-  "ocd-division/country:us/state:nd/county:nelson/place:central": {
-   "name": "Central township"
+  "ocd-division/country:us/state:nd/place:tappen": {
+   "name": "Tappen city"
   },
   "ocd-division/country:us/state:nd/county:dunn/precinct:12-manning": {
    "name": "Dunn County Precinct 12-Manning"
@@ -1262,14 +1262,14 @@
   "ocd-division/country:us/state:nd/county:stutsman/place:cusator": {
    "name": "Cusator township"
   },
-  "ocd-division/country:us/state:nd/place:golden_valley": {
-   "name": "Golden Valley city"
+  "ocd-division/country:us/state:nd/county:barnes/place:spring_creek": {
+   "name": "Spring Creek township"
   },
   "ocd-division/country:us/state:nd/county:williams/school_district:eight_mile_6": {
    "name": "eight mile 6"
   },
-  "ocd-division/country:us/state:nd/county:barnes/place:spring_creek": {
-   "name": "Spring Creek township"
+  "ocd-division/country:us/state:nd/place:golden_valley": {
+   "name": "Golden Valley city"
   },
   "ocd-division/country:us/state:nd/county:mckenzie/place:blue_butte": {
    "name": "Blue Butte township"
@@ -1283,11 +1283,11 @@
   "ocd-division/country:us/state:nd/county:cass/place:noble": {
    "name": "Noble township"
   },
-  "ocd-division/country:us/state:nd/county:bowman/place:adelaide": {
-   "name": "Adelaide township"
-  },
   "ocd-division/country:us/state:nd/county:mountrail/school_district:stanley_2": {
    "name": "stanley 2"
+  },
+  "ocd-division/country:us/state:nd/county:bowman/place:adelaide": {
+   "name": "Adelaide township"
   },
   "ocd-division/country:us/state:nd/place:lisbon": {
    "name": "Lisbon city"
@@ -2474,26 +2474,26 @@
   "ocd-division/country:us/state:nd/county:stutsman/place:nogosek": {
    "name": "Nogosek township"
   },
-  "ocd-division/country:us/state:nd/county:dickey/place:elm": {
-   "name": "Elm township"
-  },
   "ocd-division/country:us/state:nd/county:bowman/school_district:bowman_co_1": {
    "name": "bowman co 1"
   },
-  "ocd-division/country:us/state:nd/place:dunn_center": {
-   "name": "Dunn Center city"
+  "ocd-division/country:us/state:nd/county:dickey/place:elm": {
+   "name": "Elm township"
   },
   "ocd-division/country:us/state:nd/county:hettinger/place:steiner": {
    "name": "Steiner township"
   },
-  "ocd-division/country:us/state:nd/place:thompson": {
-   "name": "Thompson city"
+  "ocd-division/country:us/state:nd/place:dunn_center": {
+   "name": "Dunn Center city"
+  },
+  "ocd-division/country:us/state:nd/county:ransom/place:aliceton": {
+   "name": "Aliceton township"
   },
   "ocd-division/country:us/state:nd/county:ward/place:surrey": {
    "name": "Surrey township"
   },
-  "ocd-division/country:us/state:nd/county:ransom/place:aliceton": {
-   "name": "Aliceton township"
+  "ocd-division/country:us/state:nd/place:thompson": {
+   "name": "Thompson city"
   },
   "ocd-division/country:us/state:nd/county:steele/place:golden_lake": {
    "name": "Golden Lake township"
@@ -3486,15 +3486,6 @@
   "ocd-division/country:us/state:nd/place:tuttle": {
    "name": "Tuttle city"
   },
-  "ocd-division/country:us/state:nd/place:mayville": {
-   "name": "Mayville city"
-  },
-  "ocd-division/country:us/state:nd/county:towner/place:atkins": {
-   "name": "Atkins township"
-  },
-  "ocd-division/country:us/state:nd/county:sheridan/place:prophets": {
-   "name": "Prophets township"
-  },
   "ocd-division/country:us/state:nd/county:cass": {
    "name": "Cass County",
    "officeIndices": [
@@ -3504,6 +3495,15 @@
     252,
     253
    ]
+  },
+  "ocd-division/country:us/state:nd/place:mayville": {
+   "name": "Mayville city"
+  },
+  "ocd-division/country:us/state:nd/county:towner/place:atkins": {
+   "name": "Atkins township"
+  },
+  "ocd-division/country:us/state:nd/county:sheridan/place:prophets": {
+   "name": "Prophets township"
   },
   "ocd-division/country:us/state:nd/county:cass/precinct:4401-el_zagal_shrine": {
    "name": "Cass County Precinct 4401-El Zagal Shrine"
@@ -4893,14 +4893,14 @@
   "ocd-division/country:us/state:nd/county:barnes/place:marsh": {
    "name": "Marsh township"
   },
+  "ocd-division/country:us/state:nd/county:hettinger/place:clark": {
+   "name": "Clark township"
+  },
   "ocd-division/country:us/state:nd/county:emmons/council_district:1": {
    "name": "Emmons County District 1",
    "officeIndices": [
     309
    ]
-  },
-  "ocd-division/country:us/state:nd/county:hettinger/place:clark": {
-   "name": "Clark township"
   },
   "ocd-division/country:us/state:nd/place:monango": {
    "name": "Monango city"
@@ -4908,20 +4908,14 @@
   "ocd-division/country:us/state:nd/county:slope/place:connor": {
    "name": "Connor township"
   },
-  "ocd-division/country:us/state:nd/place:balta": {
-   "name": "Balta city"
-  },
   "ocd-division/country:us/state:nd/county:emmons/council_district:4": {
    "name": "Emmons County District 4",
    "officeIndices": [
     310
    ]
   },
-  "ocd-division/country:us/state:nd/place:goodrich": {
-   "name": "Goodrich city"
-  },
-  "ocd-division/country:us/state:nd/county:ward/place:des_lacs": {
-   "name": "Des Lacs township"
+  "ocd-division/country:us/state:nd/place:balta": {
+   "name": "Balta city"
   },
   "ocd-division/country:us/state:nd/county:emmons/council_district:5": {
    "name": "Emmons County District 5",
@@ -4929,19 +4923,25 @@
     311
    ]
   },
-  "ocd-division/country:us/state:nd/county:emmons/council_district:2": {
-   "name": "Emmons County District 2",
-   "officeIndices": [
-    312
-   ]
+  "ocd-division/country:us/state:nd/county:ward/place:des_lacs": {
+   "name": "Des Lacs township"
+  },
+  "ocd-division/country:us/state:nd/place:goodrich": {
+   "name": "Goodrich city"
   },
   "ocd-division/country:us/state:nd/county:sargent": {
    "name": "Sargent County",
    "officeIndices": [
+    312,
     313,
     314,
     315,
-    316,
+    316
+   ]
+  },
+  "ocd-division/country:us/state:nd/county:emmons/council_district:2": {
+   "name": "Emmons County District 2",
+   "officeIndices": [
     317
    ]
   },
@@ -11289,47 +11289,47 @@
    ]
   },
   {
-   "name": "County Commission, District 2",
-   "divisionId": "ocd-division/country:us/state:nd/county:emmons/council_district:2",
-   "officialIndices": [
-    440
-   ]
-  },
-  {
    "name": "Auditor",
    "divisionId": "ocd-division/country:us/state:nd/county:sargent",
    "officialIndices": [
-    441
+    440
    ]
   },
   {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:nd/county:sargent",
    "officialIndices": [
-    442
+    441
    ]
   },
   {
    "name": "State's Attorney",
    "divisionId": "ocd-division/country:us/state:nd/county:sargent",
    "officialIndices": [
-    443
+    442
    ]
   },
   {
    "name": "County Commission",
    "divisionId": "ocd-division/country:us/state:nd/county:sargent",
    "officialIndices": [
+    443,
     444,
     445,
     446,
-    447,
-    448
+    447
    ]
   },
   {
    "name": "Treasurer/Recorder/Clerk of Court",
    "divisionId": "ocd-division/country:us/state:nd/county:sargent",
+   "officialIndices": [
+    448
+   ]
+  },
+  {
+   "name": "County Commission, District 2",
+   "divisionId": "ocd-division/country:us/state:nd/county:emmons/council_district:2",
    "officialIndices": [
     449
    ]
@@ -21029,16 +21029,6 @@
    ]
   },
   {
-   "name": "Francis \"Pork\" Lawler",
-   "party": "Nonpartisan",
-   "phones": [
-    "(701) 254-4403"
-   ],
-   "urls": [
-    "http://emmonscounty.tripod.com/commission.html"
-   ]
-  },
-  {
    "name": "Sherry Hosford",
    "address": [
     {
@@ -21201,6 +21191,16 @@
    ],
    "emails": [
     "ghillest@nd.gov"
+   ]
+  },
+  {
+   "name": "Francis \"Pork\" Lawler",
+   "party": "Nonpartisan",
+   "phones": [
+    "(701) 254-4403"
+   ],
+   "urls": [
+    "http://emmonscounty.tripod.com/commission.html"
    ]
   },
   {

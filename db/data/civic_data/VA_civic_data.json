@@ -15,11 +15,11 @@
   "ocd-division/country:us/state:va/county:arlington/precinct:32-oakridge": {
    "name": "Arlington County VA - Precinct 032 - OAKRIDGE"
   },
-  "ocd-division/country:us/state:va/county:loudoun/precinct:401-west_lovettsville": {
-   "name": "Loudoun County VA - Precinct 401 - WEST LOVETTSVILLE"
-  },
   "ocd-division/country:us/state:va/county:middlesex/precinct:101-saluda": {
    "name": "Middlesex County VA - Precinct 101 - SALUDA"
+  },
+  "ocd-division/country:us/state:va/county:loudoun/precinct:401-west_lovettsville": {
+   "name": "Loudoun County VA - Precinct 401 - WEST LOVETTSVILLE"
   },
   "ocd-division/country:us/state:va/county:henrico/precinct:413-ridgefield": {
    "name": "Henrico County VA - Precinct 413 - RIDGEFIELD"
@@ -30,11 +30,11 @@
     153
    ]
   },
-  "ocd-division/country:us/state:va/place:richmond/precinct:811": {
-   "name": "Richmond City VA - Precinct 811 - EIGHT HUNDRED ELEVEN"
-  },
   "ocd-division/country:us/state:va/county:wythe/precinct:502-sheffey": {
    "name": "Wythe County VA - Precinct 502 - SHEFFEY"
+  },
+  "ocd-division/country:us/state:va/place:richmond/precinct:811": {
+   "name": "Richmond City VA - Precinct 811 - EIGHT HUNDRED ELEVEN"
   },
   "ocd-division/country:us/state:va/place:virginia_beach/precinct:86-haygood": {
    "name": "Virginia beach City VA - Precinct 086 - HAYGOOD"
@@ -69,14 +69,14 @@
   "ocd-division/country:us/state:va/place:pocahontas": {
    "name": "Pocahontas town"
   },
-  "ocd-division/country:us/state:va/county:fairfax/precinct:842-parkway": {
-   "name": "Fairfax County VA - Precinct 842 - PARKWAY"
-  },
   "ocd-division/country:us/state:va/county:fairfax/council_district:mount_vernon": {
    "name": "Fairfax County VA supervisor Mount Vernon district",
    "officeIndices": [
     155
    ]
+  },
+  "ocd-division/country:us/state:va/county:fairfax/precinct:842-parkway": {
+   "name": "Fairfax County VA - Precinct 842 - PARKWAY"
   },
   "ocd-division/country:us/state:va/county:stafford/precinct:303-harbour": {
    "name": "Stafford County VA - Precinct 303 - HARBOUR"
@@ -109,20 +109,20 @@
   "ocd-division/country:us/state:va/county:fauquier/precinct:402-leeds": {
    "name": "Fauquier County VA - Precinct 402 - LEEDS"
   },
-  "ocd-division/country:us/state:va/county:henrico/precinct:302-cedarfield": {
-   "name": "Henrico County VA - Precinct 302 - CEDARFIELD"
-  },
   "ocd-division/country:us/state:va/county:frederick/council_district:gainesboro": {
    "name": "Frederick County Board of Supervisors District Gainesboro",
    "officeIndices": [
     161
    ]
   },
-  "ocd-division/country:us/state:va/place:culpeper": {
-   "name": "Culpeper town"
+  "ocd-division/country:us/state:va/county:henrico/precinct:302-cedarfield": {
+   "name": "Henrico County VA - Precinct 302 - CEDARFIELD"
   },
   "ocd-division/country:us/state:va/place:hampton/precinct:105-east_hampton": {
    "name": "Hampton City VA - Precinct 105 - EAST HAMPTON"
+  },
+  "ocd-division/country:us/state:va/place:culpeper": {
+   "name": "Culpeper town"
   },
   "ocd-division/country:us/state:va/place:newport_news/precinct:106-reservoir": {
    "name": "Newport news City VA - Precinct 106 - RESERVOIR"
@@ -148,11 +148,11 @@
   "ocd-division/country:us/state:va/place:chesapeake/precinct:16-hickory_grove": {
    "name": "Chesapeake City VA - Precinct 016 - HICKORY GROVE"
   },
-  "ocd-division/country:us/state:va/county:highland/precinct:8-mcdowell": {
-   "name": "Highland County VA - Precinct 008 - MCDOWELL"
-  },
   "ocd-division/country:us/state:va/county:craig/precinct:303-marshalls_store": {
    "name": "Craig County VA - Precinct 303 - MARSHALLS STORE"
+  },
+  "ocd-division/country:us/state:va/county:highland/precinct:8-mcdowell": {
+   "name": "Highland County VA - Precinct 008 - MCDOWELL"
   },
   "ocd-division/country:us/state:va/place:virginia_beach/precinct:50-oceana": {
    "name": "Virginia beach City VA - Precinct 050 - OCEANA"
@@ -394,14 +394,14 @@
   "ocd-division/country:us/state:va/county:hanover/precinct:107-chickahominy": {
    "name": "Hanover County VA - Precinct 107 - CHICKAHOMINY"
   },
+  "ocd-division/country:us/state:va/county:fairfax/school_district:fairfax-falls_church_comm_svcs_bd": {
+   "name": "fairfax-falls church comm svcs bd"
+  },
   "ocd-division/country:us/state:va/sldl:81": {
    "name": "Virginia State House district 81",
    "officeIndices": [
     35
    ]
-  },
-  "ocd-division/country:us/state:va/county:fairfax/school_district:fairfax-falls_church_comm_svcs_bd": {
-   "name": "fairfax-falls church comm svcs bd"
   },
   "ocd-division/country:us/state:va/sldl:80": {
    "name": "Virginia State House district 80",
@@ -457,14 +457,17 @@
     43
    ]
   },
+  "ocd-division/country:us/state:va/place:virginia_beach/precinct:25-avalon": {
+   "name": "Virginia beach City VA - Precinct 025 - AVALON"
+  },
   "ocd-division/country:us/state:va/sldl:76": {
    "name": "Virginia State House district 76",
    "officeIndices": [
     44
    ]
   },
-  "ocd-division/country:us/state:va/place:virginia_beach/precinct:25-avalon": {
-   "name": "Virginia beach City VA - Precinct 025 - AVALON"
+  "ocd-division/country:us/state:va/county:dickenson/precinct:203-clinchco": {
+   "name": "Dickenson County VA - Precinct 203 - CLINCHCO"
   },
   "ocd-division/country:us/state:va/sldl:79": {
    "name": "Virginia State House district 79",
@@ -472,14 +475,11 @@
     45
    ]
   },
-  "ocd-division/country:us/state:va/county:dickenson/precinct:203-clinchco": {
-   "name": "Dickenson County VA - Precinct 203 - CLINCHCO"
+  "ocd-division/country:us/state:va/county:augusta/precinct:501-greenville": {
+   "name": "Augusta County VA - Precinct 501 - GREENVILLE"
   },
   "ocd-division/country:us/state:va/county:henrico/precinct:313-stoney_run": {
    "name": "Henrico County VA - Precinct 313 - STONEY RUN"
-  },
-  "ocd-division/country:us/state:va/county:augusta/precinct:501-greenville": {
-   "name": "Augusta County VA - Precinct 501 - GREENVILLE"
   },
   "ocd-division/country:us/state:va/county:stafford/council_district:griffis-widewater": {
    "name": "Stafford County Board of Supervisors District Griffis-Widewater",
@@ -490,23 +490,23 @@
   "ocd-division/country:us/state:va/county:frederick/precinct:301-clear_brook": {
    "name": "Frederick County VA - Precinct 301 - CLEAR BROOK"
   },
-  "ocd-division/country:us/state:va/place:roanoke/precinct:26-raleigh_court_2": {
-   "name": "Roanoke City VA - Precinct 026 - RALEIGH COURT 2"
-  },
   "ocd-division/country:us/state:va/place:burkeville": {
    "name": "Burkeville town"
   },
+  "ocd-division/country:us/state:va/place:roanoke/precinct:26-raleigh_court_2": {
+   "name": "Roanoke City VA - Precinct 026 - RALEIGH COURT 2"
+  },
   "ocd-division/country:us/state:va/county:scott/precinct:101-weber_city": {
    "name": "Scott County VA - Precinct 101 - WEBER CITY"
+  },
+  "ocd-division/country:us/state:va/county:lunenburg/precinct:502-peoples_community_center": {
+   "name": "Lunenburg County VA - Precinct 502 - PEOPLES COMMUNITY CENTER"
   },
   "ocd-division/country:us/state:va/county:essex/council_district:greater_tappahannock": {
    "name": "Essex County Board of Supervisors District Greater Tappahannock",
    "officeIndices": [
     166
    ]
-  },
-  "ocd-division/country:us/state:va/county:lunenburg/precinct:502-peoples_community_center": {
-   "name": "Lunenburg County VA - Precinct 502 - PEOPLES COMMUNITY CENTER"
   },
   "ocd-division/country:us/state:va/county:james_city/precinct:101-berkeley_a": {
    "name": "James city County VA - Precinct 101 - BERKELEY A"
@@ -538,26 +538,26 @@
     49
    ]
   },
+  "ocd-division/country:us/state:va/county:tazewell/precinct:204-clear_fork": {
+   "name": "Tazewell County VA - Precinct 204 - CLEAR FORK"
+  },
+  "ocd-division/country:us/state:va/county:louisa/precinct:602-locust_creek": {
+   "name": "Louisa County VA - Precinct 602 - LOCUST CREEK"
+  },
   "ocd-division/country:us/state:va/sldl:63": {
    "name": "Virginia State House district 63",
    "officeIndices": [
     50
    ]
   },
-  "ocd-division/country:us/state:va/county:louisa/precinct:602-locust_creek": {
-   "name": "Louisa County VA - Precinct 602 - LOCUST CREEK"
-  },
-  "ocd-division/country:us/state:va/county:tazewell/precinct:204-clear_fork": {
-   "name": "Tazewell County VA - Precinct 204 - CLEAR FORK"
+  "ocd-division/country:us/state:va/county:bedford/precinct:303-bethesda_united_methodist_church": {
+   "name": "Bedford County VA - Precinct 303 - BETHESDA UNITED METHODIST CHURCH"
   },
   "ocd-division/country:us/state:va/sldl:64": {
    "name": "Virginia State House district 64",
    "officeIndices": [
     51
    ]
-  },
-  "ocd-division/country:us/state:va/county:bedford/precinct:303-bethesda_united_methodist_church": {
-   "name": "Bedford County VA - Precinct 303 - BETHESDA UNITED METHODIST CHURCH"
   },
   "ocd-division/country:us/state:va/sldl:65": {
    "name": "Virginia State House district 65",
@@ -604,31 +604,31 @@
     168
    ]
   },
-  "ocd-division/country:us/state:va/sldl:58": {
-   "name": "Virginia State House district 58",
-   "officeIndices": [
-    57
-   ]
-  },
   "ocd-division/country:us/state:va/county:amelia/council_district:3": {
    "name": "Amelia County Board of Supervisors District 3",
    "officeIndices": [
     169
    ]
   },
-  "ocd-division/country:us/state:va/sldl:57": {
-   "name": "Virginia State House district 57",
+  "ocd-division/country:us/state:va/sldl:58": {
+   "name": "Virginia State House district 58",
    "officeIndices": [
-    58
+    57
    ]
-  },
-  "ocd-division/country:us/state:va/place:stony_creek": {
-   "name": "Stony Creek town"
   },
   "ocd-division/country:us/state:va/county:amelia/council_district:4": {
    "name": "Amelia County Board of Supervisors District 4",
    "officeIndices": [
     170
+   ]
+  },
+  "ocd-division/country:us/state:va/place:stony_creek": {
+   "name": "Stony Creek town"
+  },
+  "ocd-division/country:us/state:va/sldl:57": {
+   "name": "Virginia State House district 57",
+   "officeIndices": [
+    58
    ]
   },
   "ocd-division/country:us/state:va/county:amelia/council_district:5": {
@@ -655,17 +655,17 @@
     61
    ]
   },
+  "ocd-division/country:us/state:va/county:mecklenburg/precinct:203-chase_city_vfw_post": {
+   "name": "Mecklenburg County VA - Precinct 203 - CHASE CITY VFW POST"
+  },
+  "ocd-division/country:us/state:va/county:fairfax/precinct:919-green_trails": {
+   "name": "Fairfax County VA - Precinct 919 - GREEN TRAILS"
+  },
   "ocd-division/country:us/state:va/sldl:56": {
    "name": "Virginia State House district 56",
    "officeIndices": [
     62
    ]
-  },
-  "ocd-division/country:us/state:va/county:fairfax/precinct:919-green_trails": {
-   "name": "Fairfax County VA - Precinct 919 - GREEN TRAILS"
-  },
-  "ocd-division/country:us/state:va/county:mecklenburg/precinct:203-chase_city_vfw_post": {
-   "name": "Mecklenburg County VA - Precinct 203 - CHASE CITY VFW POST"
   },
   "ocd-division/country:us/state:va/sldl:55": {
    "name": "Virginia State House district 55",
@@ -694,35 +694,35 @@
   "ocd-division/country:us/state:va/county:loudoun/precinct:119-arcola": {
    "name": "Loudoun County VA - Precinct 119 - ARCOLA"
   },
+  "ocd-division/country:us/state:va/place:hurt": {
+   "name": "Hurt town"
+  },
   "ocd-division/country:us/state:va/county:henrico/council_district:three_chopt": {
    "name": "Henrico County Board of Supervisors District Three Chopt",
    "officeIndices": [
     172
    ]
   },
-  "ocd-division/country:us/state:va/place:hurt": {
-   "name": "Hurt town"
-  },
   "ocd-division/country:us/state:va/county:fairfax/precinct:928-poplar_tree": {
    "name": "Fairfax County VA - Precinct 928 - POPLAR TREE"
-  },
-  "ocd-division/country:us/state:va/county:halifax/precinct:102-liberty": {
-   "name": "Halifax County VA - Precinct 102 - LIBERTY"
   },
   "ocd-division/country:us/state:va/county:pulaski/school_district:pulaski_co_pblc_schs": {
    "name": "pulaski co pblc schs"
   },
+  "ocd-division/country:us/state:va/county:halifax/precinct:102-liberty": {
+   "name": "Halifax County VA - Precinct 102 - LIBERTY"
+  },
   "ocd-division/country:us/state:va/county:arlington/precinct:1-arlington": {
    "name": "Arlington County VA - Precinct 001 - ARLINGTON"
-  },
-  "ocd-division/country:us/state:va/place:salem/precinct:3-beverly_heights": {
-   "name": "Salem City VA - Precinct 003 - BEVERLY HEIGHTS"
   },
   "ocd-division/country:us/state:va/county:spotsylvania/council_district:berkeley": {
    "name": "Spotsylvania County Board of Supervisors District Berkeley",
    "officeIndices": [
     173
    ]
+  },
+  "ocd-division/country:us/state:va/place:salem/precinct:3-beverly_heights": {
+   "name": "Salem City VA - Precinct 003 - BEVERLY HEIGHTS"
   },
   "ocd-division/country:us/state:va/county:tazewell/precinct:502-graham": {
    "name": "Tazewell County VA - Precinct 502 - GRAHAM"
@@ -763,14 +763,14 @@
     72
    ]
   },
+  "ocd-division/country:us/state:va/county:roanoke/precinct:403-north_vinton": {
+   "name": "Roanoke County VA - Precinct 403 - NORTH VINTON"
+  },
   "ocd-division/country:us/state:va/sldl:43": {
    "name": "Virginia State House district 43",
    "officeIndices": [
     73
    ]
-  },
-  "ocd-division/country:us/state:va/county:roanoke/precinct:403-north_vinton": {
-   "name": "Roanoke County VA - Precinct 403 - NORTH VINTON"
   },
   "ocd-division/country:us/state:va/sldl:42": {
    "name": "Virginia State House district 42",
@@ -824,12 +824,6 @@
     77
    ]
   },
-  "ocd-division/country:us/state:va/sldl:35": {
-   "name": "Virginia State House district 35",
-   "officeIndices": [
-    78
-   ]
-  },
   "ocd-division/country:us/state:va/place:lexington": {
    "name": "Lexington city",
    "alsoKnownAs": [
@@ -840,14 +834,14 @@
     180
    ]
   },
+  "ocd-division/country:us/state:va/sldl:35": {
+   "name": "Virginia State House district 35",
+   "officeIndices": [
+    78
+   ]
+  },
   "ocd-division/country:us/state:va/county:nelson/school_district:nelson_co_pblc_schs": {
    "name": "nelson co pblc schs"
-  },
-  "ocd-division/country:us/state:va/sldl:38": {
-   "name": "Virginia State House district 38",
-   "officeIndices": [
-    79
-   ]
   },
   "ocd-division/country:us/state:va/place:alexandria": {
    "name": "Alexandria city",
@@ -860,10 +854,10 @@
     183
    ]
   },
-  "ocd-division/country:us/state:va/sldl:37": {
-   "name": "Virginia State House district 37",
+  "ocd-division/country:us/state:va/sldl:38": {
+   "name": "Virginia State House district 38",
    "officeIndices": [
-    80
+    79
    ]
   },
   "ocd-division/country:us/state:va/county:lancaster": {
@@ -876,26 +870,32 @@
     188
    ]
   },
+  "ocd-division/country:us/state:va/sldl:37": {
+   "name": "Virginia State House district 37",
+   "officeIndices": [
+    80
+   ]
+  },
+  "ocd-division/country:us/state:va/county:chesterfield/precinct:209-salem_church": {
+   "name": "Chesterfield County VA - Precinct 209 - SALEM CHURCH"
+  },
   "ocd-division/country:us/state:va/sldl:39": {
    "name": "Virginia State House district 39",
    "officeIndices": [
     81
    ]
   },
-  "ocd-division/country:us/state:va/county:chesterfield/precinct:209-salem_church": {
-   "name": "Chesterfield County VA - Precinct 209 - SALEM CHURCH"
-  },
   "ocd-division/country:us/state:va/place:chesapeake/precinct:60-parker_road": {
    "name": "Chesapeake City VA - Precinct 060 - PARKER ROAD"
+  },
+  "ocd-division/country:us/state:va/county:madison/precinct:1-oak_park": {
+   "name": "Madison County VA - Precinct 001 - OAK PARK"
   },
   "ocd-division/country:us/state:va/sldl:30": {
    "name": "Virginia State House district 30",
    "officeIndices": [
     82
    ]
-  },
-  "ocd-division/country:us/state:va/county:madison/precinct:1-oak_park": {
-   "name": "Madison County VA - Precinct 001 - OAK PARK"
   },
   "ocd-division/country:us/state:va/county:arlington/precinct:23-westover": {
    "name": "Arlington County VA - Precinct 023 - WESTOVER"
@@ -906,14 +906,14 @@
     83
    ]
   },
-  "ocd-division/country:us/state:va/sldl:31": {
-   "name": "Virginia State House district 31",
+  "ocd-division/country:us/state:va/sldl:100": {
+   "name": "Virginia State House district 100",
    "officeIndices": [
     85
    ]
   },
-  "ocd-division/country:us/state:va/sldl:100": {
-   "name": "Virginia State House district 100",
+  "ocd-division/country:us/state:va/sldl:31": {
+   "name": "Virginia State House district 31",
    "officeIndices": [
     84
    ]
@@ -954,28 +954,22 @@
     90
    ]
   },
+  "ocd-division/country:us/state:va/county:augusta/school_district:shenandoah_valley_reg": {
+   "name": "shenandoah valley reg"
+  },
   "ocd-division/country:us/state:va/sldl:24": {
    "name": "Virginia State House district 24",
    "officeIndices": [
     91
    ]
   },
-  "ocd-division/country:us/state:va/county:augusta/school_district:shenandoah_valley_reg": {
-   "name": "shenandoah valley reg"
+  "ocd-division/country:us/state:va/county:fairfax/precinct:116-wakefield": {
+   "name": "Fairfax County VA - Precinct 116 - WAKEFIELD"
   },
   "ocd-division/country:us/state:va/sldl:29": {
    "name": "Virginia State House district 29",
    "officeIndices": [
     92
-   ]
-  },
-  "ocd-division/country:us/state:va/county:fairfax/precinct:116-wakefield": {
-   "name": "Fairfax County VA - Precinct 116 - WAKEFIELD"
-  },
-  "ocd-division/country:us/state:va/sldl:28": {
-   "name": "Virginia State House district 28",
-   "officeIndices": [
-    93
    ]
   },
   "ocd-division/country:us/state:va/county:southampton/council_district:jerusalem": {
@@ -984,19 +978,25 @@
     189
    ]
   },
+  "ocd-division/country:us/state:va/sldl:28": {
+   "name": "Virginia State House district 28",
+   "officeIndices": [
+    93
+   ]
+  },
   "ocd-division/country:us/state:va/county:albemarle/precinct:201-jack_jouett": {
    "name": "Albemarle County VA - Precinct 201 - JACK JOUETT"
-  },
-  "ocd-division/country:us/state:va/sldl:23": {
-   "name": "Virginia State House district 23",
-   "officeIndices": [
-    94
-   ]
   },
   "ocd-division/country:us/state:va/county:caroline/council_district:western_caroline": {
    "name": "Caroline County Board of Supervisors District Western Caroline",
    "officeIndices": [
     190
+   ]
+  },
+  "ocd-division/country:us/state:va/sldl:23": {
+   "name": "Virginia State House district 23",
+   "officeIndices": [
+    94
    ]
   },
   "ocd-division/country:us/state:va/sldl:22": {
@@ -1005,23 +1005,23 @@
     95
    ]
   },
+  "ocd-division/country:us/state:va/place:newport_news/precinct:307-huntington": {
+   "name": "Newport news City VA - Precinct 307 - HUNTINGTON"
+  },
   "ocd-division/country:us/state:va/sldl:21": {
    "name": "Virginia State House district 21",
    "officeIndices": [
     96
    ]
   },
-  "ocd-division/country:us/state:va/place:newport_news/precinct:307-huntington": {
-   "name": "Newport news City VA - Precinct 307 - HUNTINGTON"
+  "ocd-division/country:us/state:va/county:lee/precinct:202-flatwoods": {
+   "name": "Lee County VA - Precinct 202 - FLATWOODS"
   },
   "ocd-division/country:us/state:va/sldl:20": {
    "name": "Virginia State House district 20",
    "officeIndices": [
     97
    ]
-  },
-  "ocd-division/country:us/state:va/county:lee/precinct:202-flatwoods": {
-   "name": "Lee County VA - Precinct 202 - FLATWOODS"
   },
   "ocd-division/country:us/state:va/county:amelia/school_district:piedmont_alternative_school": {
    "name": "piedmont alternative school"
@@ -1045,14 +1045,14 @@
     195
    ]
   },
+  "ocd-division/country:us/state:va/county:buchanan/precinct:403-south_grundy": {
+   "name": "Buchanan County VA - Precinct 403 - SOUTH GRUNDY"
+  },
   "ocd-division/country:us/state:va/sldl:10": {
    "name": "Virginia State House district 10",
    "officeIndices": [
     98
    ]
-  },
-  "ocd-division/country:us/state:va/county:buchanan/precinct:403-south_grundy": {
-   "name": "Buchanan County VA - Precinct 403 - SOUTH GRUNDY"
   },
   "ocd-division/country:us/state:va/sldl:11": {
    "name": "Virginia State House district 11",
@@ -1174,11 +1174,11 @@
   "ocd-division/country:us/state:va/county:nelson/precinct:301-shipman": {
    "name": "Nelson County VA - Precinct 301 - SHIPMAN"
   },
-  "ocd-division/country:us/state:va/county:madison/precinct:4-graves_mill": {
-   "name": "Madison County VA - Precinct 004 - GRAVES MILL"
-  },
   "ocd-division/country:us/state:va/place:charlottesville/precinct:303-buford": {
    "name": "Charlottesville City VA - Precinct 303 - BUFORD"
+  },
+  "ocd-division/country:us/state:va/county:madison/precinct:4-graves_mill": {
+   "name": "Madison County VA - Precinct 004 - GRAVES MILL"
   },
   "ocd-division/country:us/state:va/county:gloucester/precinct:302-roanes": {
    "name": "Gloucester County VA - Precinct 302 - ROANES"
@@ -1186,11 +1186,11 @@
   "ocd-division/country:us/state:va/place:montross": {
    "name": "Montross town"
   },
-  "ocd-division/country:us/state:va/place:suffolk/precinct:202-chuckatuck": {
-   "name": "Suffolk City VA - Precinct 202 - CHUCKATUCK"
-  },
   "ocd-division/country:us/state:va/county:fairfax/precinct:526-bren_mar": {
    "name": "Fairfax County VA - Precinct 526 - BREN MAR"
+  },
+  "ocd-division/country:us/state:va/place:suffolk/precinct:202-chuckatuck": {
+   "name": "Suffolk City VA - Precinct 202 - CHUCKATUCK"
   },
   "ocd-division/country:us/state:va/county:chesterfield/precinct:407-monacan": {
    "name": "Chesterfield County VA - Precinct 407 - MONACAN"
@@ -1201,14 +1201,14 @@
     199
    ]
   },
-  "ocd-division/country:us/state:va/county:fairfax/precinct:110-north_springfield": {
-   "name": "Fairfax County VA - Precinct 110 - NORTH SPRINGFIELD"
-  },
   "ocd-division/country:us/state:va/county:powhatan/council_district:4": {
    "name": "Powhatan County Board of Supervisors District 4",
    "officeIndices": [
     200
    ]
+  },
+  "ocd-division/country:us/state:va/county:fairfax/precinct:110-north_springfield": {
+   "name": "Fairfax County VA - Precinct 110 - NORTH SPRINGFIELD"
   },
   "ocd-division/country:us/state:va/county:mecklenburg/precinct:603-smith_crossroads": {
    "name": "Mecklenburg County VA - Precinct 603 - SMITH CROSSROADS"
@@ -1228,17 +1228,17 @@
     201
    ]
   },
+  "ocd-division/country:us/state:va/place:damascus": {
+   "name": "Damascus town"
+  },
+  "ocd-division/country:us/state:va/place:chesapeake/school_district:s.east_va_trn_ct": {
+   "name": "s.east va trn ct"
+  },
   "ocd-division/country:us/state:va/county:powhatan/council_district:3": {
    "name": "Powhatan County Board of Supervisors District 3",
    "officeIndices": [
     202
    ]
-  },
-  "ocd-division/country:us/state:va/place:chesapeake/school_district:s.east_va_trn_ct": {
-   "name": "s.east va trn ct"
-  },
-  "ocd-division/country:us/state:va/place:damascus": {
-   "name": "Damascus town"
   },
   "ocd-division/country:us/state:va/county:powhatan/council_district:2": {
    "name": "Powhatan County Board of Supervisors District 2",
@@ -1288,20 +1288,20 @@
   "ocd-division/country:us/state:va/county:henrico/precinct:502-cedar_fork": {
    "name": "Henrico County VA - Precinct 502 - CEDAR FORK"
   },
-  "ocd-division/country:us/state:va/place:st_charles": {
-   "name": "St. Charles town"
+  "ocd-division/country:us/state:va/county:buchanan/precinct:203-rocklick": {
+   "name": "Buchanan County VA - Precinct 203 - ROCKLICK"
   },
   "ocd-division/country:us/state:va/county:henrico/precinct:516-sullivans": {
    "name": "Henrico County VA - Precinct 516 - SULLIVANS"
   },
-  "ocd-division/country:us/state:va/county:buchanan/precinct:203-rocklick": {
-   "name": "Buchanan County VA - Precinct 203 - ROCKLICK"
-  },
-  "ocd-division/country:us/state:va/county:accomack/precinct:202-greenbackville": {
-   "name": "Accomack County VA - Precinct 202 - GREENBACKVILLE"
+  "ocd-division/country:us/state:va/place:st_charles": {
+   "name": "St. Charles town"
   },
   "ocd-division/country:us/state:va/county:pittsylvania/precinct:704-mt_hermon": {
    "name": "Pittsylvania County VA - Precinct 704 - MT HERMON"
+  },
+  "ocd-division/country:us/state:va/county:accomack/precinct:202-greenbackville": {
+   "name": "Accomack County VA - Precinct 202 - GREENBACKVILLE"
   },
   "ocd-division/country:us/state:va/county:buchanan": {
    "name": "Buchanan County",
@@ -1319,6 +1319,9 @@
   "ocd-division/country:us/state:va/county:floyd/school_district:floyd_co_pblc_schs": {
    "name": "floyd co pblc schs"
   },
+  "ocd-division/country:us/state:va/place:lynchburg/school_district:lynchburg_city_secondary_alternative": {
+   "name": "lynchburg city secondary alternative"
+  },
   "ocd-division/country:us/state:va/place:chesapeake": {
    "name": "Chesapeake city",
    "alsoKnownAs": [
@@ -1330,14 +1333,11 @@
     215
    ]
   },
-  "ocd-division/country:us/state:va/place:lynchburg/school_district:lynchburg_city_secondary_alternative": {
-   "name": "lynchburg city secondary alternative"
+  "ocd-division/country:us/state:va/place:danville/ward:11": {
+   "name": "Danville City VA - Ward 011 - WARD ELEVEN"
   },
   "ocd-division/country:us/state:va/place:salem/precinct:10-hidden_valley": {
    "name": "Salem City VA - Precinct 010 - HIDDEN VALLEY"
-  },
-  "ocd-division/country:us/state:va/place:danville/ward:11": {
-   "name": "Danville City VA - Ward 011 - WARD ELEVEN"
   },
   "ocd-division/country:us/state:va/place:danville/ward:12": {
    "name": "Danville City VA - Ward 012 - WARD TWELVE"
@@ -1345,41 +1345,41 @@
   "ocd-division/country:us/state:va/place:danville/ward:10": {
    "name": "Danville City VA - Ward 010 - WARD TEN"
   },
+  "ocd-division/country:us/state:va/place:danville/ward:15": {
+   "name": "Danville City VA - Ward 015 - WARD FIFTEEN"
+  },
   "ocd-division/country:us/state:va/county:pittsylvania/council_district:staunton_river": {
    "name": "Pittsylvania County Board of Supervisors District Staunton River",
    "officeIndices": [
     216
    ]
   },
-  "ocd-division/country:us/state:va/place:danville/ward:15": {
-   "name": "Danville City VA - Ward 015 - WARD FIFTEEN"
+  "ocd-division/country:us/state:va/place:danville/ward:16": {
+   "name": "Danville City VA - Ward 016 - WARD SIXTEEN"
   },
   "ocd-division/country:us/state:va/place:virginia_beach/precinct:34-blackwater": {
    "name": "Virginia beach City VA - Precinct 034 - BLACKWATER"
   },
-  "ocd-division/country:us/state:va/place:danville/ward:16": {
-   "name": "Danville City VA - Ward 016 - WARD SIXTEEN"
-  },
   "ocd-division/country:us/state:va/place:danville/ward:13": {
    "name": "Danville City VA - Ward 013 - WARD THIRTEEN"
-  },
-  "ocd-division/country:us/state:va/county:roanoke/precinct:106-green_hill": {
-   "name": "Roanoke County VA - Precinct 106 - GREEN HILL"
-  },
-  "ocd-division/country:us/state:va/county:york/precinct:102-waller_mill": {
-   "name": "York County VA - Precinct 102 - WALLER MILL"
   },
   "ocd-division/country:us/state:va/place:danville/ward:14": {
    "name": "Danville City VA - Ward 014 - WARD FOURTEEN"
   },
+  "ocd-division/country:us/state:va/county:york/precinct:102-waller_mill": {
+   "name": "York County VA - Precinct 102 - WALLER MILL"
+  },
+  "ocd-division/country:us/state:va/county:roanoke/precinct:106-green_hill": {
+   "name": "Roanoke County VA - Precinct 106 - GREEN HILL"
+  },
   "ocd-division/country:us/state:va/place:chesapeake/precinct:6-deep_creek": {
    "name": "Chesapeake City VA - Precinct 006 - DEEP CREEK"
   },
-  "ocd-division/country:us/state:va/place:chesapeake/precinct:42-parkways": {
-   "name": "Chesapeake City VA - Precinct 042 - PARKWAYS"
-  },
   "ocd-division/country:us/state:va/place:danville/ward:17": {
    "name": "Danville City VA - Ward 017 - WARD SEVENTEEN"
+  },
+  "ocd-division/country:us/state:va/place:chesapeake/precinct:42-parkways": {
+   "name": "Chesapeake City VA - Precinct 042 - PARKWAYS"
   },
   "ocd-division/country:us/state:va/county:pulaski": {
    "name": "Pulaski County",
@@ -1391,11 +1391,11 @@
     221
    ]
   },
-  "ocd-division/country:us/state:va/county:bland/precinct:201-davis": {
-   "name": "Bland County VA - Precinct 201 - DAVIS"
-  },
   "ocd-division/country:us/state:va/county:charlotte/precinct:101-county_seat": {
    "name": "Charlotte County VA - Precinct 101 - COUNTY SEAT"
+  },
+  "ocd-division/country:us/state:va/county:bland/precinct:201-davis": {
+   "name": "Bland County VA - Precinct 201 - DAVIS"
   },
   "ocd-division/country:us/state:va/county:washington/precinct:603-valley_institute": {
    "name": "Washington County VA - Precinct 603 - VALLEY INSTITUTE"
@@ -1434,11 +1434,11 @@
   "ocd-division/country:us/state:va/county:southampton/school_district:southampton_co_pblc_schs": {
    "name": "southampton co pblc schs"
   },
-  "ocd-division/country:us/state:va/county:fairfax/precinct:841-popes_head": {
-   "name": "Fairfax County VA - Precinct 841 - POPES HEAD"
-  },
   "ocd-division/country:us/state:va/county:fairfax/precinct:803-clifton": {
    "name": "Fairfax County VA - Precinct 803 - CLIFTON"
+  },
+  "ocd-division/country:us/state:va/county:fairfax/precinct:841-popes_head": {
+   "name": "Fairfax County VA - Precinct 841 - POPES HEAD"
   },
   "ocd-division/country:us/state:va/county:clarke/precinct:401-white_post": {
    "name": "Clarke County VA - Precinct 401 - WHITE POST"
@@ -1482,11 +1482,11 @@
     230
    ]
   },
-  "ocd-division/country:us/state:va/county:amherst/precinct:301-monroe": {
-   "name": "Amherst County VA - Precinct 301 - MONROE"
-  },
   "ocd-division/country:us/state:va/county:montgomery/precinct:601-precinct_f-1": {
    "name": "Montgomery County VA - Precinct 601 - PRECINCT F-1"
+  },
+  "ocd-division/country:us/state:va/county:amherst/precinct:301-monroe": {
+   "name": "Amherst County VA - Precinct 301 - MONROE"
   },
   "ocd-division/country:us/state:va/county:louisa/school_district:louisa_co_pblc_schs": {
    "name": "louisa co pblc schs"
@@ -1512,14 +1512,14 @@
   "ocd-division/country:us/state:va/county:chesterfield/precinct:306-winterpock": {
    "name": "Chesterfield County VA - Precinct 306 - WINTERPOCK"
   },
-  "ocd-division/country:us/state:va/county:hanover/precinct:502-rural_point": {
-   "name": "Hanover County VA - Precinct 502 - RURAL POINT"
+  "ocd-division/country:us/state:va/county:pittsylvania/precinct:301-central": {
+   "name": "Pittsylvania County VA - Precinct 301 - CENTRAL"
   },
   "ocd-division/country:us/state:va/county:fairfax/precinct:850-south_run": {
    "name": "Fairfax County VA - Precinct 850 - SOUTH RUN"
   },
-  "ocd-division/country:us/state:va/county:pittsylvania/precinct:301-central": {
-   "name": "Pittsylvania County VA - Precinct 301 - CENTRAL"
+  "ocd-division/country:us/state:va/county:hanover/precinct:502-rural_point": {
+   "name": "Hanover County VA - Precinct 502 - RURAL POINT"
   },
   "ocd-division/country:us/state:va/county:bland/council_district:3": {
    "name": "Bland County Board of Supervisors District 3",
@@ -1527,17 +1527,17 @@
     231
    ]
   },
-  "ocd-division/country:us/state:va/place:roanoke/precinct:31-fishburn_park": {
-   "name": "Roanoke City VA - Precinct 031 - FISHBURN PARK"
-  },
-  "ocd-division/country:us/state:va/county:isle_of_wight/precinct:501-walters": {
-   "name": "Isle of wight County VA - Precinct 501 - WALTERS"
-  },
   "ocd-division/country:us/state:va/county:bland/council_district:4": {
    "name": "Bland County Board of Supervisors District 4",
    "officeIndices": [
     232
    ]
+  },
+  "ocd-division/country:us/state:va/county:isle_of_wight/precinct:501-walters": {
+   "name": "Isle of wight County VA - Precinct 501 - WALTERS"
+  },
+  "ocd-division/country:us/state:va/place:roanoke/precinct:31-fishburn_park": {
+   "name": "Roanoke City VA - Precinct 031 - FISHBURN PARK"
   },
   "ocd-division/country:us/state:va/county:bland/council_district:1": {
    "name": "Bland County Board of Supervisors District 1",
@@ -1545,14 +1545,14 @@
     233
    ]
   },
+  "ocd-division/country:us/state:va/place:hampton/precinct:115-wythe": {
+   "name": "Hampton City VA - Precinct 115 - WYTHE"
+  },
   "ocd-division/country:us/state:va/county:bland/council_district:2": {
    "name": "Bland County Board of Supervisors District 2",
    "officeIndices": [
     234
    ]
-  },
-  "ocd-division/country:us/state:va/place:hampton/precinct:115-wythe": {
-   "name": "Hampton City VA - Precinct 115 - WYTHE"
   },
   "ocd-division/country:us/state:va/county:fairfax/precinct:413-fairfield": {
    "name": "Fairfax County VA - Precinct 413 - FAIRFIELD"
@@ -1581,20 +1581,20 @@
     238
    ]
   },
-  "ocd-division/country:us/state:va/place:norfolk/precinct:409-fairlawn": {
-   "name": "Norfolk City VA - Precinct 409 - FAIRLAWN"
-  },
-  "ocd-division/country:us/state:va/county:frederick/council_district:stonewall": {
-   "name": "Frederick County Board of Supervisors District Stonewall",
+  "ocd-division/country:us/state:va/county:prince_edward/council_district:5": {
+   "name": "Prince Edward County Board of Supervisors District 5",
    "officeIndices": [
     240
    ]
   },
-  "ocd-division/country:us/state:va/county:prince_edward/council_district:5": {
-   "name": "Prince Edward County Board of Supervisors District 5",
+  "ocd-division/country:us/state:va/county:frederick/council_district:stonewall": {
+   "name": "Frederick County Board of Supervisors District Stonewall",
    "officeIndices": [
     239
    ]
+  },
+  "ocd-division/country:us/state:va/place:norfolk/precinct:409-fairlawn": {
+   "name": "Norfolk City VA - Precinct 409 - FAIRLAWN"
   },
   "ocd-division/country:us/state:va/county:prince_edward/council_district:6": {
    "name": "Prince Edward County Board of Supervisors District 6",
@@ -1602,14 +1602,14 @@
     241
    ]
   },
-  "ocd-division/country:us/state:va/county:henry/precinct:203-horsepasture_2": {
-   "name": "Henry County VA - Precinct 203 - HORSEPASTURE #2"
-  },
   "ocd-division/country:us/state:va/county:prince_edward/council_district:3": {
    "name": "Prince Edward County Board of Supervisors District 3",
    "officeIndices": [
     242
    ]
+  },
+  "ocd-division/country:us/state:va/county:henry/precinct:203-horsepasture_2": {
+   "name": "Henry County VA - Precinct 203 - HORSEPASTURE #2"
   },
   "ocd-division/country:us/state:va/county:prince_edward/council_district:4": {
    "name": "Prince Edward County Board of Supervisors District 4",
@@ -1623,17 +1623,14 @@
     244
    ]
   },
-  "ocd-division/country:us/state:va/place:norton/ward:east": {
-   "name": "Norton City VA - Ward 001 - EAST WARD"
-  },
   "ocd-division/country:us/state:va/county:prince_edward/council_district:1": {
    "name": "Prince Edward County Board of Supervisors District 1",
    "officeIndices": [
     245
    ]
   },
-  "ocd-division/country:us/state:va/county:grayson/precinct:106-rugby": {
-   "name": "Grayson County VA - Precinct 106 - RUGBY"
+  "ocd-division/country:us/state:va/place:norton/ward:east": {
+   "name": "Norton City VA - Ward 001 - EAST WARD"
   },
   "ocd-division/country:us/state:va/county:madison": {
    "name": "Madison County",
@@ -1646,6 +1643,9 @@
     251
    ]
   },
+  "ocd-division/country:us/state:va/county:grayson/precinct:106-rugby": {
+   "name": "Grayson County VA - Precinct 106 - RUGBY"
+  },
   "ocd-division/country:us/state:va/county:campbell/precinct:101-brookville": {
    "name": "Campbell County VA - Precinct 101 - BROOKVILLE"
   },
@@ -1655,23 +1655,23 @@
     252
    ]
   },
-  "ocd-division/country:us/state:va/place:weber_city": {
-   "name": "Weber City town"
-  },
   "ocd-division/country:us/state:va/county:charlotte/precinct:702-saxe": {
    "name": "Charlotte County VA - Precinct 702 - SAXE"
+  },
+  "ocd-division/country:us/state:va/place:weber_city": {
+   "name": "Weber City town"
   },
   "ocd-division/country:us/state:va/place:independence": {
    "name": "Independence town"
   },
-  "ocd-division/country:us/state:va/place:virginia_beach/precinct:68-manor": {
-   "name": "Virginia beach City VA - Precinct 068 - MANOR"
+  "ocd-division/country:us/state:va/county:henrico/precinct:308-rivers_edge": {
+   "name": "Henrico County VA - Precinct 308 - RIVERS EDGE"
   },
   "ocd-division/country:us/state:va/county:lancaster/precinct:302-precinct_3-2": {
    "name": "Lancaster County VA - Precinct 302 - PRECINCT 3-2"
   },
-  "ocd-division/country:us/state:va/county:henrico/precinct:308-rivers_edge": {
-   "name": "Henrico County VA - Precinct 308 - RIVERS EDGE"
+  "ocd-division/country:us/state:va/place:virginia_beach/precinct:68-manor": {
+   "name": "Virginia beach City VA - Precinct 068 - MANOR"
   },
   "ocd-division/country:us/state:va/place:poquoson/precinct:2-eastern": {
    "name": "Poquoson City VA - Precinct 002 - EASTERN",
@@ -1784,14 +1784,14 @@
     261
    ]
   },
-  "ocd-division/country:us/state:va/county:botetourt/precinct:101-amsterdam": {
-   "name": "Botetourt County VA - Precinct 101 - AMSTERDAM"
-  },
   "ocd-division/country:us/state:va/county:york/council_district:4": {
    "name": "York County Board of Supervisors District 4",
    "officeIndices": [
     262
    ]
+  },
+  "ocd-division/country:us/state:va/county:botetourt/precinct:101-amsterdam": {
+   "name": "Botetourt County VA - Precinct 101 - AMSTERDAM"
   },
   "ocd-division/country:us/state:va/county:york/council_district:3": {
    "name": "York County Board of Supervisors District 3",
@@ -2064,11 +2064,11 @@
   "ocd-division/country:us/state:va/county:arlington/precinct:34-yorktown": {
    "name": "Arlington County VA - Precinct 034 - YORKTOWN"
   },
-  "ocd-division/country:us/state:va/county:chesterfield/precinct:103-enon": {
-   "name": "Chesterfield County VA - Precinct 103 - ENON"
-  },
   "ocd-division/country:us/state:va/place:berryville": {
    "name": "Berryville town"
+  },
+  "ocd-division/country:us/state:va/county:chesterfield/precinct:103-enon": {
+   "name": "Chesterfield County VA - Precinct 103 - ENON"
   },
   "ocd-division/country:us/state:va/county:charles_city/school_district:charles_city_co_pblc_schs": {
    "name": "charles city co pblc schs"
@@ -2549,11 +2549,11 @@
   "ocd-division/country:us/state:va/county:campbell/precinct:301-evington": {
    "name": "Campbell County VA - Precinct 301 - EVINGTON"
   },
-  "ocd-division/country:us/state:va/county:loudoun/precinct:114-dulles_south": {
-   "name": "Loudoun County VA - Precinct 114 - DULLES SOUTH"
-  },
   "ocd-division/country:us/state:va/place:chesapeake/precinct:47-green_sea": {
    "name": "Chesapeake City VA - Precinct 047 - GREEN SEA"
+  },
+  "ocd-division/country:us/state:va/county:loudoun/precinct:114-dulles_south": {
+   "name": "Loudoun County VA - Precinct 114 - DULLES SOUTH"
   },
   "ocd-division/country:us/state:va/county:southampton/precinct:501-hunterdale": {
    "name": "Southampton County VA - Precinct 501 - HUNTERDALE"
@@ -2571,14 +2571,14 @@
   "ocd-division/country:us/state:va/county:page/precinct:201-east_luray": {
    "name": "Page County VA - Precinct 201 - EAST LURAY"
   },
-  "ocd-division/country:us/state:va/county:isle_of_wight/council_district:hardy": {
-   "name": "Isle Of Wight County Board of Supervisors District Hardy",
+  "ocd-division/country:us/state:va/county:alleghany/council_district:covington": {
+   "name": "Alleghany County Board of Supervisors District Covington",
    "officeIndices": [
     339
    ]
   },
-  "ocd-division/country:us/state:va/county:alleghany/council_district:covington": {
-   "name": "Alleghany County Board of Supervisors District Covington",
+  "ocd-division/country:us/state:va/county:isle_of_wight/council_district:hardy": {
+   "name": "Isle Of Wight County Board of Supervisors District Hardy",
    "officeIndices": [
     340
    ]
@@ -2589,11 +2589,11 @@
   "ocd-division/country:us/state:va/county:russell/precinct:403-honaker": {
    "name": "Russell County VA - Precinct 403 - HONAKER"
   },
-  "ocd-division/country:us/state:va/county:henry/precinct:601-fontaine": {
-   "name": "Henry County VA - Precinct 601 - FONTAINE"
-  },
   "ocd-division/country:us/state:va/county:patrick/school_district:patrick_co_pblc_schs": {
    "name": "patrick co pblc schs"
+  },
+  "ocd-division/country:us/state:va/county:henry/precinct:601-fontaine": {
+   "name": "Henry County VA - Precinct 601 - FONTAINE"
   },
   "ocd-division/country:us/state:va/county:fairfax/precinct:223-glade": {
    "name": "Fairfax County VA - Precinct 223 - GLADE"
@@ -2625,11 +2625,11 @@
   "ocd-division/country:us/state:va/county:arlington/precinct:41-woodbury": {
    "name": "Arlington County VA - Precinct 041 - WOODBURY"
   },
-  "ocd-division/country:us/state:va/county:henrico/precinct:213-hungary": {
-   "name": "Henrico County VA - Precinct 213 - HUNGARY"
-  },
   "ocd-division/country:us/state:va/county:bland/precinct:302-mechanicsburg": {
    "name": "Bland County VA - Precinct 302 - MECHANICSBURG"
+  },
+  "ocd-division/country:us/state:va/county:henrico/precinct:213-hungary": {
+   "name": "Henrico County VA - Precinct 213 - HUNGARY"
   },
   "ocd-division/country:us/state:va/place:appalachia": {
    "name": "Appalachia town"
@@ -2662,17 +2662,17 @@
   "ocd-division/country:us/state:va/county:loudoun/precinct:703-rolling_ridge": {
    "name": "Loudoun County VA - Precinct 703 - ROLLING RIDGE"
   },
-  "ocd-division/country:us/state:va/place:salem/precinct:2-conehurst": {
-   "name": "Salem City VA - Precinct 002 - CONEHURST"
-  },
   "ocd-division/country:us/state:va/county:fairfax/precinct:729-nottoway": {
    "name": "Fairfax County VA - Precinct 729 - NOTTOWAY"
   },
-  "ocd-division/country:us/state:va/county:smyth/precinct:501-atkins": {
-   "name": "Smyth County VA - Precinct 501 - ATKINS"
+  "ocd-division/country:us/state:va/place:salem/precinct:2-conehurst": {
+   "name": "Salem City VA - Precinct 002 - CONEHURST"
   },
   "ocd-division/country:us/state:va/place:chesapeake/precinct:27-silverwood": {
    "name": "Chesapeake City VA - Precinct 027 - SILVERWOOD"
+  },
+  "ocd-division/country:us/state:va/county:smyth/precinct:501-atkins": {
+   "name": "Smyth County VA - Precinct 501 - ATKINS"
   },
   "ocd-division/country:us/state:va/county:culpeper/council_district:stevensburg": {
    "name": "Culpeper County Board of Supervisors District Stevensburg",
@@ -2699,11 +2699,11 @@
     352
    ]
   },
-  "ocd-division/country:us/state:va/county:bedford/precinct:104-stewartsville_rescue_squad": {
-   "name": "Bedford County VA - Precinct 104 - STEWARTSVILLE RESCUE SQUAD"
-  },
   "ocd-division/country:us/state:va/county:loudoun/precinct:620-russell_branch": {
    "name": "Loudoun County VA - Precinct 620 - RUSSELL BRANCH"
+  },
+  "ocd-division/country:us/state:va/county:bedford/precinct:104-stewartsville_rescue_squad": {
+   "name": "Bedford County VA - Precinct 104 - STEWARTSVILLE RESCUE SQUAD"
   },
   "ocd-division/country:us/state:va/place:newport_news/precinct:303-carver": {
    "name": "Newport news City VA - Precinct 303 - CARVER"
@@ -2717,14 +2717,17 @@
   "ocd-division/country:us/state:va/county:augusta/precinct:503-spottswood": {
    "name": "Augusta County VA - Precinct 503 - SPOTTSWOOD"
   },
+  "ocd-division/country:us/state:va/county:fairfax/precinct:833-white_oaks": {
+   "name": "Fairfax County VA - Precinct 833 - WHITE OAKS"
+  },
   "ocd-division/country:us/state:va/county:king_william/council_district:5": {
    "name": "King William County Board of Supervisors District 5",
    "officeIndices": [
     353
    ]
   },
-  "ocd-division/country:us/state:va/county:fairfax/precinct:833-white_oaks": {
-   "name": "Fairfax County VA - Precinct 833 - WHITE OAKS"
+  "ocd-division/country:us/state:va/place:chesapeake/precinct:25-st_julians": {
+   "name": "Chesapeake City VA - Precinct 025 - ST JULIANS"
   },
   "ocd-division/country:us/state:va/county:king_william/council_district:4": {
    "name": "King William County Board of Supervisors District 4",
@@ -2732,8 +2735,8 @@
     354
    ]
   },
-  "ocd-division/country:us/state:va/place:chesapeake/precinct:25-st_julians": {
-   "name": "Chesapeake City VA - Precinct 025 - ST JULIANS"
+  "ocd-division/country:us/state:va/place:emporia/precinct:401-precinct_4-1": {
+   "name": "Emporia City VA - Precinct 401 - PRECINCT 4-1"
   },
   "ocd-division/country:us/state:va/county:king_william/council_district:3": {
    "name": "King William County Board of Supervisors District 3",
@@ -2741,11 +2744,8 @@
     355
    ]
   },
-  "ocd-division/country:us/state:va/place:emporia/precinct:401-precinct_4-1": {
-   "name": "Emporia City VA - Precinct 401 - PRECINCT 4-1"
-  },
-  "ocd-division/country:us/state:va/place:virginia_beach/precinct:9-trantwood": {
-   "name": "Virginia beach City VA - Precinct 009 - TRANTWOOD"
+  "ocd-division/country:us/state:va/county:roanoke/precinct:104-northside": {
+   "name": "Roanoke County VA - Precinct 104 - NORTHSIDE"
   },
   "ocd-division/country:us/state:va/county:king_william/council_district:2": {
    "name": "King William County Board of Supervisors District 2",
@@ -2753,17 +2753,17 @@
     356
    ]
   },
-  "ocd-division/country:us/state:va/county:roanoke/precinct:104-northside": {
-   "name": "Roanoke County VA - Precinct 104 - NORTHSIDE"
+  "ocd-division/country:us/state:va/place:virginia_beach/precinct:9-trantwood": {
+   "name": "Virginia beach City VA - Precinct 009 - TRANTWOOD"
+  },
+  "ocd-division/country:us/state:va/county:appomattox/precinct:201-chap": {
+   "name": "Appomattox County VA - Precinct 201 - CHAP"
   },
   "ocd-division/country:us/state:va/county:king_william/council_district:1": {
    "name": "King William County Board of Supervisors District 1",
    "officeIndices": [
     357
    ]
-  },
-  "ocd-division/country:us/state:va/county:appomattox/precinct:201-chap": {
-   "name": "Appomattox County VA - Precinct 201 - CHAP"
   },
   "ocd-division/country:us/state:va/county:fairfax/precinct:219-westbriar": {
    "name": "Fairfax County VA - Precinct 219 - WESTBRIAR"
@@ -2783,11 +2783,11 @@
   "ocd-division/country:us/state:va/place:dungannon": {
    "name": "Dungannon town"
   },
-  "ocd-division/country:us/state:va/county:accomack/precinct:601-accomac": {
-   "name": "Accomack County VA - Precinct 601 - ACCOMAC"
-  },
   "ocd-division/country:us/state:va/county:russell/precinct:401-drill": {
    "name": "Russell County VA - Precinct 401 - DRILL"
+  },
+  "ocd-division/country:us/state:va/county:accomack/precinct:601-accomac": {
+   "name": "Accomack County VA - Precinct 601 - ACCOMAC"
   },
   "ocd-division/country:us/state:va/county:bedford/precinct:603-thaxton_community_center": {
    "name": "Bedford County VA - Precinct 603 - THAXTON COMMUNITY CENTER"
@@ -2801,11 +2801,11 @@
   "ocd-division/country:us/state:va/county:botetourt/precinct:502-cloverdale": {
    "name": "Botetourt County VA - Precinct 502 - CLOVERDALE"
   },
-  "ocd-division/country:us/state:va/county:amelia/precinct:501-precinct_5": {
-   "name": "Amelia County VA - Precinct 501 - NUMBER FIVE"
-  },
   "ocd-division/country:us/state:va/county:clarke/precinct:501-buckmarsh": {
    "name": "Clarke County VA - Precinct 501 - BUCKMARSH"
+  },
+  "ocd-division/country:us/state:va/county:amelia/precinct:501-precinct_5": {
+   "name": "Amelia County VA - Precinct 501 - NUMBER FIVE"
   },
   "ocd-division/country:us/state:va/place:vinton": {
    "name": "Vinton town"
@@ -2813,23 +2813,23 @@
   "ocd-division/country:us/state:va/county:prince_william/precinct:404-sinclair": {
    "name": "Prince william County VA - Precinct 404 - SINCLAIR"
   },
-  "ocd-division/country:us/state:va/county:pittsylvania/precinct:105-chatham": {
-   "name": "Pittsylvania County VA - Precinct 105 - CHATHAM"
-  },
   "ocd-division/country:us/state:va/county:rappahannock/council_district:wakefield": {
    "name": "Rappahannock County Board of Supervisors District Wakefield",
    "officeIndices": [
     360
    ]
   },
+  "ocd-division/country:us/state:va/county:pittsylvania/precinct:105-chatham": {
+   "name": "Pittsylvania County VA - Precinct 105 - CHATHAM"
+  },
   "ocd-division/country:us/state:va/county:prince_william/precinct:510-stadium": {
    "name": "Prince william County VA - Precinct 510 - STADIUM"
   },
-  "ocd-division/country:us/state:va/county:brunswick/precinct:302-danieltown": {
-   "name": "Brunswick County VA - Precinct 302 - DANIELTOWN"
-  },
   "ocd-division/country:us/state:va/place:newport_news/precinct:213-sanford": {
    "name": "Newport news City VA - Precinct 213 - SANFORD"
+  },
+  "ocd-division/country:us/state:va/county:brunswick/precinct:302-danieltown": {
+   "name": "Brunswick County VA - Precinct 302 - DANIELTOWN"
   },
   "ocd-division/country:us/state:va/county:loudoun/precinct:213-countryside": {
    "name": "Loudoun County VA - Precinct 213 - COUNTRYSIDE"
@@ -2840,14 +2840,14 @@
     361
    ]
   },
-  "ocd-division/country:us/state:va/county:chesterfield/precinct:417-edgewater": {
-   "name": "Chesterfield County VA - Precinct 417 - EDGEWATER"
-  },
   "ocd-division/country:us/state:va/county:wise/council_district:4": {
    "name": "Wise County Board of Supervisors District 4",
    "officeIndices": [
     362
    ]
+  },
+  "ocd-division/country:us/state:va/county:chesterfield/precinct:417-edgewater": {
+   "name": "Chesterfield County VA - Precinct 417 - EDGEWATER"
   },
   "ocd-division/country:us/state:va/county:wise/council_district:3": {
    "name": "Wise County Board of Supervisors District 3",
@@ -2883,11 +2883,11 @@
   "ocd-division/country:us/state:va/county:russell/precinct:202-dante": {
    "name": "Russell County VA - Precinct 202 - DANTE"
   },
-  "ocd-division/country:us/state:va/county:roanoke/precinct:404-south_vinton": {
-   "name": "Roanoke County VA - Precinct 404 - SOUTH VINTON"
-  },
   "ocd-division/country:us/state:va/place:alexandria/precinct:305-john_adams_school": {
    "name": "Alexandria City VA - Precinct 305 - JOHN ADAMS SCHOOL"
+  },
+  "ocd-division/country:us/state:va/county:roanoke/precinct:404-south_vinton": {
+   "name": "Roanoke County VA - Precinct 404 - SOUTH VINTON"
   },
   "ocd-division/country:us/state:va/county:fauquier/precinct:201-courthouse": {
    "name": "Fauquier County VA - Precinct 201 - COURTHOUSE"
@@ -2901,11 +2901,11 @@
   "ocd-division/country:us/state:va/county:spotsylvania/school_district:commonwealth_governor~s_school": {
    "name": "commonwealth governor's school"
   },
-  "ocd-division/country:us/state:va/county:chesterfield/precinct:516-pocoshock": {
-   "name": "Chesterfield County VA - Precinct 516 - POCOSHOCK"
-  },
   "ocd-division/country:us/state:va/place:gretna": {
    "name": "Gretna town"
+  },
+  "ocd-division/country:us/state:va/county:chesterfield/precinct:516-pocoshock": {
+   "name": "Chesterfield County VA - Precinct 516 - POCOSHOCK"
   },
   "ocd-division/country:us/state:va/county:augusta/council_district:pastures": {
    "name": "Augusta County Board of Supervisors District Pastures",
@@ -2919,14 +2919,14 @@
   "ocd-division/country:us/state:va/place:hampton/precinct:216-sandy_bottom": {
    "name": "Hampton City VA - Precinct 216 - SANDY BOTTOM"
   },
-  "ocd-division/country:us/state:va/county:carroll/precinct:403-oakland_d": {
-   "name": "Carroll County VA - Precinct 403 - OAKLAND D"
+  "ocd-division/country:us/state:va/county:stafford/precinct:304-barrett": {
+   "name": "Stafford County VA - Precinct 304 - BARRETT"
   },
   "ocd-division/country:us/state:va/county:fairfax/precinct:120-sideburn": {
    "name": "Fairfax County VA - Precinct 120 - SIDEBURN"
   },
-  "ocd-division/country:us/state:va/county:stafford/precinct:304-barrett": {
-   "name": "Stafford County VA - Precinct 304 - BARRETT"
+  "ocd-division/country:us/state:va/county:carroll/precinct:403-oakland_d": {
+   "name": "Carroll County VA - Precinct 403 - OAKLAND D"
   },
   "ocd-division/country:us/state:va/place:virginia_beach/precinct:2-south_beach": {
    "name": "Virginia beach City VA - Precinct 002 - SOUTH BEACH"
@@ -2934,14 +2934,14 @@
   "ocd-division/country:us/state:va/county:prince_william/precinct:701-belmont": {
    "name": "Prince william County VA - Precinct 701 - BELMONT"
   },
-  "ocd-division/country:us/state:va/county:arlington/precinct:39-ashlawn": {
-   "name": "Arlington County VA - Precinct 039 - ASHLAWN"
-  },
   "ocd-division/country:us/state:va/county:stafford/council_district:hartwood": {
    "name": "Stafford County Board of Supervisors District Hartwood",
    "officeIndices": [
     372
    ]
+  },
+  "ocd-division/country:us/state:va/county:arlington/precinct:39-ashlawn": {
+   "name": "Arlington County VA - Precinct 039 - ASHLAWN"
   },
   "ocd-division/country:us/state:va/place:waynesboro/school_district:waynesboro_city_pblc_schs": {
    "name": "waynesboro city pblc schs"
@@ -2961,11 +2961,11 @@
   "ocd-division/country:us/state:va/county:loudoun/precinct:308-st_louis": {
    "name": "Loudoun County VA - Precinct 308 - ST LOUIS"
   },
-  "ocd-division/country:us/state:va/county:appomattox/precinct:502-agee": {
-   "name": "Appomattox County VA - Precinct 502 - AGEE"
-  },
   "ocd-division/country:us/state:va/county:smyth/precinct:701-adwolfe": {
    "name": "Smyth County VA - Precinct 701 - ADWOLFE"
+  },
+  "ocd-division/country:us/state:va/county:appomattox/precinct:502-agee": {
+   "name": "Appomattox County VA - Precinct 502 - AGEE"
   },
   "ocd-division/country:us/state:va/county:amelia/precinct:101-precinct_1": {
    "name": "Amelia County VA - Precinct 101 - NUMBER ONE"
@@ -2993,26 +2993,26 @@
   "ocd-division/country:us/state:va/county:dinwiddie/precinct:101-white_oak": {
    "name": "Dinwiddie County VA - Precinct 101 - WHITE OAK"
   },
-  "ocd-division/country:us/state:va/county:fairfax/precinct:916-waples_mill": {
-   "name": "Fairfax County VA - Precinct 916 - WAPLES MILL"
-  },
   "ocd-division/country:us/state:va/county:rappahannock/council_district:jackson": {
    "name": "Rappahannock County Board of Supervisors District Jackson",
    "officeIndices": [
     380
    ]
   },
+  "ocd-division/country:us/state:va/county:fairfax/precinct:916-waples_mill": {
+   "name": "Fairfax County VA - Precinct 916 - WAPLES MILL"
+  },
   "ocd-division/country:us/state:va/county:buchanan/precinct:202-bull": {
    "name": "Buchanan County VA - Precinct 202 - BULL"
+  },
+  "ocd-division/country:us/state:va/county:nottoway/precinct:202-precinct_2-2": {
+   "name": "Nottoway County VA - Precinct 202 - PRECINCT 2-2"
   },
   "ocd-division/country:us/state:va/county:fairfax/council_district:braddock": {
    "name": "Fairfax County VA supervisor Braddock district",
    "officeIndices": [
     381
    ]
-  },
-  "ocd-division/country:us/state:va/county:nottoway/precinct:202-precinct_2-2": {
-   "name": "Nottoway County VA - Precinct 202 - PRECINCT 2-2"
   },
   "ocd-division/country:us/state:va/county:albemarle": {
    "name": "Albemarle County",
@@ -3050,6 +3050,9 @@
   "ocd-division/country:us/state:va/county:arlington/precinct:4-ballston": {
    "name": "Arlington County VA - Precinct 004 - BALLSTON"
   },
+  "ocd-division/country:us/state:va/county:spotsylvania/precinct:504-courthouse": {
+   "name": "Spotsylvania County VA - Precinct 504 - COURTHOUSE"
+  },
   "ocd-division/country:us/state:va/county:louisa": {
    "name": "Louisa County",
    "officeIndices": [
@@ -3060,17 +3063,14 @@
     395
    ]
   },
-  "ocd-division/country:us/state:va/county:spotsylvania/precinct:504-courthouse": {
-   "name": "Spotsylvania County VA - Precinct 504 - COURTHOUSE"
-  },
   "ocd-division/country:us/state:va/place:cape_charles": {
    "name": "Cape Charles town"
   },
-  "ocd-division/country:us/state:va/place:alexandria/precinct:207-temple_beth_el_synagogue": {
-   "name": "Alexandria City VA - Precinct 207 - TEMPLE BETH EL SYNAGOGUE"
-  },
   "ocd-division/country:us/state:va/place:new_market": {
    "name": "New Market town"
+  },
+  "ocd-division/country:us/state:va/place:alexandria/precinct:207-temple_beth_el_synagogue": {
+   "name": "Alexandria City VA - Precinct 207 - TEMPLE BETH EL SYNAGOGUE"
   },
   "ocd-division/country:us/state:va/county:wythe/school_district:wythe_co_pblc_schs": {
    "name": "wythe co pblc schs"
@@ -3083,6 +3083,9 @@
   },
   "ocd-division/country:us/state:va/county:henrico/precinct:110-johnson": {
    "name": "Henrico County VA - Precinct 110 - JOHNSON"
+  },
+  "ocd-division/country:us/state:va/county:loudoun/precinct:305-philomont": {
+   "name": "Loudoun County VA - Precinct 305 - PHILOMONT"
   },
   "ocd-division/country:us/state:va/county:buckingham/precinct:601-slate_river": {
    "name": "Buckingham County VA - Precinct 601 - SLATE RIVER"
@@ -3098,20 +3101,17 @@
     401
    ]
   },
-  "ocd-division/country:us/state:va/county:loudoun/precinct:305-philomont": {
-   "name": "Loudoun County VA - Precinct 305 - PHILOMONT"
-  },
   "ocd-division/country:us/state:va/county:scott/precinct:601-clinchport": {
    "name": "Scott County VA - Precinct 601 - CLINCHPORT"
   },
-  "ocd-division/country:us/state:va/county:carroll/precinct:301-hillsville_c": {
-   "name": "Carroll County VA - Precinct 301 - HILLSVILLE C"
+  "ocd-division/country:us/state:va/county:rappahannock/school_district:rappahannock_co_pblc_schs": {
+   "name": "rappahannock co pblc schs"
   },
   "ocd-division/country:us/state:va/county:craig/precinct:501-craig_city": {
    "name": "Craig County VA - Precinct 501 - CRAIG CITY"
   },
-  "ocd-division/country:us/state:va/county:rappahannock/school_district:rappahannock_co_pblc_schs": {
-   "name": "rappahannock co pblc schs"
+  "ocd-division/country:us/state:va/county:carroll/precinct:301-hillsville_c": {
+   "name": "Carroll County VA - Precinct 301 - HILLSVILLE C"
   },
   "ocd-division/country:us/state:va/county:fairfax/precinct:233-north_point": {
    "name": "Fairfax County VA - Precinct 233 - NORTH POINT"
@@ -3125,14 +3125,17 @@
   "ocd-division/country:us/state:va/county:grayson/precinct:302-fairview": {
    "name": "Grayson County VA - Precinct 302 - FAIRVIEW"
   },
+  "ocd-division/country:us/state:va/county:loudoun/precinct:217-south_bank": {
+   "name": "Loudoun County VA - Precinct 217 - SOUTH BANK"
+  },
   "ocd-division/country:us/state:va/county:brunswick/council_district:meherrin": {
    "name": "Brunswick County Board of Supervisors District Meherrin",
    "officeIndices": [
     402
    ]
   },
-  "ocd-division/country:us/state:va/county:loudoun/precinct:217-south_bank": {
-   "name": "Loudoun County VA - Precinct 217 - SOUTH BANK"
+  "ocd-division/country:us/state:va/county:mecklenburg/precinct:801-finchley": {
+   "name": "Mecklenburg County VA - Precinct 801 - FINCHLEY"
   },
   "ocd-division/country:us/state:va/county:charles_city/council_district:1": {
    "name": "Charles City County Board of Supervisors District 1",
@@ -3140,17 +3143,14 @@
     403
    ]
   },
-  "ocd-division/country:us/state:va/county:mecklenburg/precinct:801-finchley": {
-   "name": "Mecklenburg County VA - Precinct 801 - FINCHLEY"
-  },
-  "ocd-division/country:us/state:va/place:winchester/precinct:102-old_town": {
-   "name": "Winchester City VA - Precinct 102 - OLD TOWN"
-  },
   "ocd-division/country:us/state:va/county:grayson/council_district:old_town": {
    "name": "Grayson County Board of Supervisors District Old Town",
    "officeIndices": [
     404
    ]
+  },
+  "ocd-division/country:us/state:va/place:winchester/precinct:102-old_town": {
+   "name": "Winchester City VA - Precinct 102 - OLD TOWN"
   },
   "ocd-division/country:us/state:va/place:norfolk/precinct:211-chrysler_museum": {
    "name": "Norfolk City VA - Precinct 211 - CHRYSLER MUSEUM"
@@ -3357,6 +3357,12 @@
     0
    ]
   },
+  "ocd-division/country:us/state:va/cd:11": {
+   "name": "Virginia's 11th congressional district",
+   "officeIndices": [
+    1
+   ]
+  },
   "ocd-division/country:us/state:va/county:henry": {
    "name": "Henry County",
    "officeIndices": [
@@ -3365,12 +3371,6 @@
     425,
     426,
     427
-   ]
-  },
-  "ocd-division/country:us/state:va/cd:11": {
-   "name": "Virginia's 11th congressional district",
-   "officeIndices": [
-    1
    ]
   },
   "ocd-division/country:us/state:va/county:richmond/school_district:richmond_co_pblc_schs": {
@@ -3501,11 +3501,11 @@
   "ocd-division/country:us/state:va/county:lunenburg/precinct:701-meherrin_fire_department": {
    "name": "Lunenburg County VA - Precinct 701 - MEHERRIN FIRE DEPARTMENT"
   },
-  "ocd-division/country:us/state:va/county:richmond/school_district:northern_neck_technical_ctr": {
-   "name": "northern neck technical ctr"
-  },
   "ocd-division/country:us/state:va/place:fincastle": {
    "name": "Fincastle town"
+  },
+  "ocd-division/country:us/state:va/county:richmond/school_district:northern_neck_technical_ctr": {
+   "name": "northern neck technical ctr"
   },
   "ocd-division/country:us/state:va/county:campbell/precinct:702-gladys": {
    "name": "Campbell County VA - Precinct 702 - GLADYS"
@@ -3630,14 +3630,14 @@
   "ocd-division/country:us/state:va/county:frederick/precinct:601-millbrook": {
    "name": "Frederick County VA - Precinct 601 - MILLBROOK"
   },
-  "ocd-division/country:us/state:va/county:franklin/precinct:502-callaway": {
-   "name": "Franklin County VA - Precinct 502 - CALLAWAY"
-  },
   "ocd-division/country:us/state:va/county:spotsylvania/council_district:lee_hill": {
    "name": "Spotsylvania County Board of Supervisors District Lee Hill",
    "officeIndices": [
     435
    ]
+  },
+  "ocd-division/country:us/state:va/county:franklin/precinct:502-callaway": {
+   "name": "Franklin County VA - Precinct 502 - CALLAWAY"
   },
   "ocd-division/country:us/state:va/county:hanover/precinct:602-lee_davis": {
    "name": "Hanover County VA - Precinct 602 - LEE DAVIS"
@@ -4004,15 +4004,6 @@
   "ocd-division/country:us/state:va/county:accomack/precinct:501-mappsville": {
    "name": "Accomack County VA - Precinct 501 - MAPPSVILLE"
   },
-  "ocd-division/country:us/state:va/place:richmond/precinct:602": {
-   "name": "Richmond City VA - Precinct 602 - SIX HUNDRED TWO"
-  },
-  "ocd-division/country:us/state:va/county:appomattox/precinct:501-oakville": {
-   "name": "Appomattox County VA - Precinct 501 - OAKVILLE"
-  },
-  "ocd-division/country:us/state:va/county:scott/precinct:204-clark~s": {
-   "name": "Scott County VA - Precinct 204 - CLARK'S"
-  },
   "ocd-division/country:us/state:va/place:winchester": {
    "name": "Winchester city",
    "alsoKnownAs": [
@@ -4022,6 +4013,15 @@
     452,
     453
    ]
+  },
+  "ocd-division/country:us/state:va/place:richmond/precinct:602": {
+   "name": "Richmond City VA - Precinct 602 - SIX HUNDRED TWO"
+  },
+  "ocd-division/country:us/state:va/county:appomattox/precinct:501-oakville": {
+   "name": "Appomattox County VA - Precinct 501 - OAKVILLE"
+  },
+  "ocd-division/country:us/state:va/county:scott/precinct:204-clark~s": {
+   "name": "Scott County VA - Precinct 204 - CLARK'S"
   },
   "ocd-division/country:us/state:va/place:richmond/precinct:603": {
    "name": "Richmond City VA - Precinct 603 - SIX HUNDRED THREE"
@@ -4627,14 +4627,14 @@
   "ocd-division/country:us/state:va/circuit_court:25": {
    "name": "VA State Circuit Court - 25th Circuit"
   },
-  "ocd-division/country:us/state:va/circuit_court:22": {
-   "name": "VA State Circuit Court - 22nd Circuit"
-  },
   "ocd-division/country:us/state:va/place:lynchburg/ward:4": {
    "name": "Lynchburg City VA Ward 4",
    "officeIndices": [
     479
    ]
+  },
+  "ocd-division/country:us/state:va/circuit_court:22": {
+   "name": "VA State Circuit Court - 22nd Circuit"
   },
   "ocd-division/country:us/state:va/circuit_court:23": {
    "name": "VA State Circuit Court - 23rd Circuit"
@@ -4651,14 +4651,14 @@
     480
    ]
   },
-  "ocd-division/country:us/state:va/circuit_court:28": {
-   "name": "VA State Circuit Court - 28th Circuit"
-  },
   "ocd-division/country:us/state:va/place:lynchburg/ward:2": {
    "name": "Lynchburg City VA Ward 2",
    "officeIndices": [
     481
    ]
+  },
+  "ocd-division/country:us/state:va/circuit_court:28": {
+   "name": "VA State Circuit Court - 28th Circuit"
   },
   "ocd-division/country:us/state:va/circuit_court:29": {
    "name": "VA State Circuit Court - 29th Circuit"
@@ -5021,14 +5021,14 @@
   "ocd-division/country:us/state:va/place:newport_news/precinct:101-denbigh": {
    "name": "Newport news City VA - Precinct 101 - DENBIGH"
   },
-  "ocd-division/country:us/state:va/county:lunenburg/council_district:3": {
-   "name": "Lunenburg County Board of Supervisors District 3",
+  "ocd-division/country:us/state:va/place:newport_news/council_district:south": {
+   "name": "Newport News City Council District South",
    "officeIndices": [
     525
    ]
   },
-  "ocd-division/country:us/state:va/place:newport_news/council_district:south": {
-   "name": "Newport News City Council District South",
+  "ocd-division/country:us/state:va/county:lunenburg/council_district:3": {
+   "name": "Lunenburg County Board of Supervisors District 3",
    "officeIndices": [
     524
    ]
@@ -5345,17 +5345,17 @@
   "ocd-division/country:us/state:va/county:fairfax/precinct:705-graham-greenway": {
    "name": "Fairfax County VA - Precinct 705 - GRAHAM - GREENWAY"
   },
-  "ocd-division/country:us/state:va/place:waynesboro/ward:d": {
-   "name": "Waynesboro City VA - Ward 004 - WARD D"
-  },
-  "ocd-division/country:us/state:va/place:virginia_beach/precinct:30-red_wing": {
-   "name": "Virginia beach City VA - Precinct 030 - RED WING"
-  },
   "ocd-division/country:us/state:va/county:fauquier/council_district:lee": {
    "name": "Fauquier County Board of Supervisors District Lee",
    "officeIndices": [
     548
    ]
+  },
+  "ocd-division/country:us/state:va/place:waynesboro/ward:d": {
+   "name": "Waynesboro City VA - Ward 004 - WARD D"
+  },
+  "ocd-division/country:us/state:va/place:virginia_beach/precinct:30-red_wing": {
+   "name": "Virginia beach City VA - Precinct 030 - RED WING"
   },
   "ocd-division/country:us/state:va/place:harrisonburg/precinct:104-east": {
    "name": "Harrisonburg City VA - Precinct 104 - EAST"
@@ -5681,23 +5681,26 @@
     590
    ]
   },
+  "ocd-division/country:us/state:va/place:harrisonburg/precinct:102-east_central": {
+   "name": "Harrisonburg City VA - Precinct 102 - EAST CENTRAL"
+  },
   "ocd-division/country:us/state:va/county:russell/council_district:6": {
    "name": "Russell County Board of Supervisors District 6",
    "officeIndices": [
     591
    ]
   },
-  "ocd-division/country:us/state:va/place:harrisonburg/precinct:102-east_central": {
-   "name": "Harrisonburg City VA - Precinct 102 - EAST CENTRAL"
-  },
   "ocd-division/country:us/state:va/county:mecklenburg/precinct:401-american_legion_hall": {
    "name": "Mecklenburg County VA - Precinct 401 - AMERICAN LEGION HALL"
+  },
+  "ocd-division/country:us/state:va/county:rockbridge/precinct:103-plank_road": {
+   "name": "Rockbridge County VA - Precinct 103 - PLANK ROAD"
   },
   "ocd-division/country:us/state:va/county:james_city/precinct:401-stonehouse_a": {
    "name": "James city County VA - Precinct 401 - STONEHOUSE A"
   },
-  "ocd-division/country:us/state:va/county:rockbridge/precinct:103-plank_road": {
-   "name": "Rockbridge County VA - Precinct 103 - PLANK ROAD"
+  "ocd-division/country:us/state:va/county:fairfax/precinct:310-kirby": {
+   "name": "Fairfax County VA - Precinct 310 - KIRBY"
   },
   "ocd-division/country:us/state:va/county:giles": {
    "name": "Giles County",
@@ -5710,9 +5713,6 @@
     597
    ]
   },
-  "ocd-division/country:us/state:va/county:fairfax/precinct:310-kirby": {
-   "name": "Fairfax County VA - Precinct 310 - KIRBY"
-  },
   "ocd-division/country:us/state:va/county:chesterfield/precinct:106-harrowgate": {
    "name": "Chesterfield County VA - Precinct 106 - HARROWGATE"
   },
@@ -5722,14 +5722,14 @@
     598
    ]
   },
-  "ocd-division/country:us/state:va/county:chesterfield/precinct:405-la_prade": {
-   "name": "Chesterfield County VA - Precinct 405 - LA PRADE"
-  },
   "ocd-division/country:us/state:va/county:russell/council_district:2": {
    "name": "Russell County Board of Supervisors District 2",
    "officeIndices": [
     599
    ]
+  },
+  "ocd-division/country:us/state:va/county:chesterfield/precinct:405-la_prade": {
+   "name": "Chesterfield County VA - Precinct 405 - LA PRADE"
   },
   "ocd-division/country:us/state:va/county:russell/council_district:3": {
    "name": "Russell County Board of Supervisors District 3",
@@ -5743,14 +5743,14 @@
   "ocd-division/country:us/state:va/county:washington/precinct:703-john_battle": {
    "name": "Washington County VA - Precinct 703 - JOHN BATTLE"
   },
-  "ocd-division/country:us/state:va/county:wythe/precinct:203-west_wytheville": {
-   "name": "Wythe County VA - Precinct 203 - WEST WYTHEVILLE"
-  },
   "ocd-division/country:us/state:va/place:fredericksburg/ward:4": {
    "name": "Fredericksburg City VA Ward 4",
    "officeIndices": [
     601
    ]
+  },
+  "ocd-division/country:us/state:va/county:wythe/precinct:203-west_wytheville": {
+   "name": "Wythe County VA - Precinct 203 - WEST WYTHEVILLE"
   },
   "ocd-division/country:us/state:va/place:fredericksburg/ward:3": {
    "name": "Fredericksburg City VA Ward 3",
@@ -5819,17 +5819,17 @@
   "ocd-division/country:us/state:va/county:arlington/precinct:47-four_mile_run": {
    "name": "Arlington County VA - Precinct 047 - FOUR MILE RUN"
   },
-  "ocd-division/country:us/state:va/county:halifax/school_district:halifax_co_pblc_schs": {
-   "name": "halifax co pblc schs"
-  },
   "ocd-division/country:us/state:va/place:newport_news/precinct:302-briarfield": {
    "name": "Newport news City VA - Precinct 302 - BRIARFIELD"
   },
-  "ocd-division/country:us/state:va/county:henrico/precinct:503-chickahominy": {
-   "name": "Henrico County VA - Precinct 503 - CHICKAHOMINY"
+  "ocd-division/country:us/state:va/county:halifax/school_district:halifax_co_pblc_schs": {
+   "name": "halifax co pblc schs"
   },
   "ocd-division/country:us/state:va/county:pulaski/precinct:402-walker": {
    "name": "Pulaski County VA - Precinct 402 - WALKER"
+  },
+  "ocd-division/country:us/state:va/county:henrico/precinct:503-chickahominy": {
+   "name": "Henrico County VA - Precinct 503 - CHICKAHOMINY"
   },
   "ocd-division/country:us/state:va/county:clarke/precinct:101-russell": {
    "name": "Clarke County VA - Precinct 101 - RUSSELL"
@@ -5849,20 +5849,20 @@
   "ocd-division/country:us/state:va/place:fairfax/precinct:1": {
    "name": "Fairfax City VA - Precinct 001 - ONE"
   },
-  "ocd-division/country:us/state:va/county:arlington/precinct:17-overlee_knolls": {
-   "name": "Arlington County VA - Precinct 017 - OVERLEE KNOLLS"
-  },
   "ocd-division/country:us/state:va/place:fairfax/precinct:3": {
    "name": "Fairfax City VA - Precinct 003 - THREE"
   },
-  "ocd-division/country:us/state:va/county:lee/precinct:203-jonesville": {
-   "name": "Lee County VA - Precinct 203 - JONESVILLE"
+  "ocd-division/country:us/state:va/county:arlington/precinct:17-overlee_knolls": {
+   "name": "Arlington County VA - Precinct 017 - OVERLEE KNOLLS"
+  },
+  "ocd-division/country:us/state:va/place:fairfax/precinct:2": {
+   "name": "Fairfax City VA - Precinct 002 - TWO"
   },
   "ocd-division/country:us/state:va/county:montgomery/precinct:602-precinct_f-2": {
    "name": "Montgomery County VA - Precinct 602 - PRECINCT F-2"
   },
-  "ocd-division/country:us/state:va/place:fairfax/precinct:2": {
-   "name": "Fairfax City VA - Precinct 002 - TWO"
+  "ocd-division/country:us/state:va/county:lee/precinct:203-jonesville": {
+   "name": "Lee County VA - Precinct 203 - JONESVILLE"
   },
   "ocd-division/country:us/state:va/place:norfolk/precinct:103-northside": {
    "name": "Norfolk City VA - Precinct 103 - NORTHSIDE"
@@ -5873,11 +5873,11 @@
   "ocd-division/country:us/state:va/place:cheriton": {
    "name": "Cheriton town"
   },
-  "ocd-division/country:us/state:va/county:appomattox/precinct:401-courthouse": {
-   "name": "Appomattox County VA - Precinct 401 - COURTHOUSE"
-  },
   "ocd-division/country:us/state:va/county:wythe/precinct:102-rural_retreat": {
    "name": "Wythe County VA - Precinct 102 - RURAL RETREAT"
+  },
+  "ocd-division/country:us/state:va/county:appomattox/precinct:401-courthouse": {
+   "name": "Appomattox County VA - Precinct 401 - COURTHOUSE"
   },
   "ocd-division/country:us/state:va/place:norfolk/precinct:309-norview": {
    "name": "Norfolk City VA - Precinct 309 - NORVIEW"
@@ -5915,14 +5915,14 @@
   "ocd-division/country:us/state:va/place:duffield": {
    "name": "Duffield town"
   },
-  "ocd-division/country:us/state:va/circuit_court:2": {
-   "name": "VA State Circuit Court - 2nd Circuit"
+  "ocd-division/country:us/state:va/place:chesapeake/precinct:43-pleasant_crossing": {
+   "name": "Chesapeake City VA - Precinct 043 - PLEASANT CROSSING"
   },
   "ocd-division/country:us/state:va/county:wise/precinct:103-guest_river_voting_place": {
    "name": "Wise County VA - Precinct 103 - GUEST RIVER VOTING PLACE"
   },
-  "ocd-division/country:us/state:va/place:chesapeake/precinct:43-pleasant_crossing": {
-   "name": "Chesapeake City VA - Precinct 043 - PLEASANT CROSSING"
+  "ocd-division/country:us/state:va/circuit_court:2": {
+   "name": "VA State Circuit Court - 2nd Circuit"
   },
   "ocd-division/country:us/state:va/circuit_court:3": {
    "name": "VA State Circuit Court - 3rd Circuit"
@@ -5936,17 +5936,17 @@
   "ocd-division/country:us/state:va/circuit_court:1": {
    "name": "VA State Circuit Court - 1st Circuit"
   },
+  "ocd-division/country:us/state:va/circuit_court:6": {
+   "name": "VA State Circuit Court - 6th Circuit"
+  },
   "ocd-division/country:us/state:va/county:goochland/council_district:3": {
    "name": "Goochland County Board of Supervisors District 3",
    "officeIndices": [
     612
    ]
   },
-  "ocd-division/country:us/state:va/circuit_court:6": {
-   "name": "VA State Circuit Court - 6th Circuit"
-  },
-  "ocd-division/country:us/state:va/place:winchester/precinct:201-virginia_avenue": {
-   "name": "Winchester City VA - Precinct 201 - VIRGINIA AVENUE"
+  "ocd-division/country:us/state:va/circuit_court:7": {
+   "name": "VA State Circuit Court - 7th Circuit"
   },
   "ocd-division/country:us/state:va/county:goochland/council_district:4": {
    "name": "Goochland County Board of Supervisors District 4",
@@ -5954,8 +5954,11 @@
     613
    ]
   },
-  "ocd-division/country:us/state:va/circuit_court:7": {
-   "name": "VA State Circuit Court - 7th Circuit"
+  "ocd-division/country:us/state:va/place:winchester/precinct:201-virginia_avenue": {
+   "name": "Winchester City VA - Precinct 201 - VIRGINIA AVENUE"
+  },
+  "ocd-division/country:us/state:va/circuit_court:4": {
+   "name": "VA State Circuit Court - 4th Circuit"
   },
   "ocd-division/country:us/state:va/county:goochland/council_district:1": {
    "name": "Goochland County Board of Supervisors District 1",
@@ -5963,17 +5966,14 @@
     614
    ]
   },
-  "ocd-division/country:us/state:va/circuit_court:4": {
-   "name": "VA State Circuit Court - 4th Circuit"
+  "ocd-division/country:us/state:va/circuit_court:5": {
+   "name": "VA State Circuit Court - 5th Circuit"
   },
   "ocd-division/country:us/state:va/county:goochland/council_district:2": {
    "name": "Goochland County Board of Supervisors District 2",
    "officeIndices": [
     615
    ]
-  },
-  "ocd-division/country:us/state:va/circuit_court:5": {
-   "name": "VA State Circuit Court - 5th Circuit"
   },
   "ocd-division/country:us/state:va/county:chesterfield/precinct:414-crenshaw": {
    "name": "Chesterfield County VA - Precinct 414 - CRENSHAW"
@@ -5987,11 +5987,11 @@
   "ocd-division/country:us/state:va/county:nottoway/precinct:402-precinct_4-2": {
    "name": "Nottoway County VA - Precinct 402 - PRECINCT 4-2"
   },
-  "ocd-division/country:us/state:va/county:frederick/precinct:104-cedar_creek": {
-   "name": "Frederick County VA - Precinct 104 - CEDAR CREEK"
-  },
   "ocd-division/country:us/state:va/county:dinwiddie/precinct:402-mckenney": {
    "name": "Dinwiddie County VA - Precinct 402 - MCKENNEY"
+  },
+  "ocd-division/country:us/state:va/county:frederick/precinct:104-cedar_creek": {
+   "name": "Frederick County VA - Precinct 104 - CEDAR CREEK"
   },
   "ocd-division/country:us/state:va/place:virginia_beach/precinct:89-lake_christopher": {
    "name": "Virginia beach City VA - Precinct 089 - LAKE CHRISTOPHER"
@@ -6008,17 +6008,17 @@
   "ocd-division/country:us/state:va/place:roanoke/precinct:22-washington_heights": {
    "name": "Roanoke City VA - Precinct 022 - WASHINGTON HEIGHTS"
   },
-  "ocd-division/country:us/state:va/place:roanoke/precinct:17-monterey": {
-   "name": "Roanoke City VA - Precinct 017 - MONTEREY"
-  },
   "ocd-division/country:us/state:va/county:chesterfield/precinct:401-harbour_pointe": {
    "name": "Chesterfield County VA - Precinct 401 - HARBOUR POINTE"
   },
-  "ocd-division/country:us/state:va/county:hanover/precinct:405-pebble_creek": {
-   "name": "Hanover County VA - Precinct 405 - PEBBLE CREEK"
+  "ocd-division/country:us/state:va/place:roanoke/precinct:17-monterey": {
+   "name": "Roanoke City VA - Precinct 017 - MONTEREY"
   },
   "ocd-division/country:us/state:va/county:frederick/precinct:302-neff~s_town": {
    "name": "Frederick County VA - Precinct 302 - NEFF'S TOWN"
+  },
+  "ocd-division/country:us/state:va/county:hanover/precinct:405-pebble_creek": {
+   "name": "Hanover County VA - Precinct 405 - PEBBLE CREEK"
   },
   "ocd-division/country:us/state:va/county:mecklenburg/precinct:902-buffalo_springs": {
    "name": "Mecklenburg County VA - Precinct 902 - BUFFALO SPRINGS"
@@ -6052,11 +6052,11 @@
   "ocd-division/country:us/state:va/county:albemarle/precinct:405-cale": {
    "name": "Albemarle County VA - Precinct 405 - CALE"
   },
-  "ocd-division/country:us/state:va/county:fairfax/precinct:316-salona_1": {
-   "name": "Fairfax County VA - Precinct 316 - SALONA #1"
-  },
   "ocd-division/country:us/state:va/county:washington/precinct:502-damascus": {
    "name": "Washington County VA - Precinct 502 - DAMASCUS"
+  },
+  "ocd-division/country:us/state:va/county:fairfax/precinct:316-salona_1": {
+   "name": "Fairfax County VA - Precinct 316 - SALONA #1"
   },
   "ocd-division/country:us/state:va/county:prince_william/precinct:207-spriggs": {
    "name": "Prince william County VA - Precinct 207 - SPRIGGS"
@@ -6175,9 +6175,6 @@
   "ocd-division/country:us/state:va/place:richmond/precinct:908": {
    "name": "Richmond City VA - Precinct 908 - NINE HUNDRED EIGHT"
   },
-  "ocd-division/country:us/state:va/place:richmond/precinct:909": {
-   "name": "Richmond City VA - Precinct 909 - NINE HUNDRED NINE"
-  },
   "ocd-division/country:us/state:va/county:fairfax": {
    "name": "Fairfax County",
    "officeIndices": [
@@ -6187,14 +6184,14 @@
     633
    ]
   },
+  "ocd-division/country:us/state:va/place:richmond/precinct:909": {
+   "name": "Richmond City VA - Precinct 909 - NINE HUNDRED NINE"
+  },
   "ocd-division/country:us/state:va/place:newport_news/precinct:216-yates": {
    "name": "Newport news City VA - Precinct 216 - YATES"
   },
   "ocd-division/country:us/state:va/place:richmond/precinct:903": {
    "name": "Richmond City VA - Precinct 903 - NINE HUNDRED THREE"
-  },
-  "ocd-division/country:us/state:va/place:richmond/precinct:902": {
-   "name": "Richmond City VA - Precinct 902 - NINE HUNDRED TWO"
   },
   "ocd-division/country:us/state:va/place:lynchburg": {
    "name": "Lynchburg city",
@@ -6205,6 +6202,9 @@
     634,
     635
    ]
+  },
+  "ocd-division/country:us/state:va/place:richmond/precinct:902": {
+   "name": "Richmond City VA - Precinct 902 - NINE HUNDRED TWO"
   },
   "ocd-division/country:us/state:va/county:fairfax/precinct:601-belle_haven": {
    "name": "Fairfax County VA - Precinct 601 - BELLE HAVEN"
@@ -6227,9 +6227,6 @@
   "ocd-division/country:us/state:va/county:henrico/precinct:211-highland_gardens": {
    "name": "Henrico County VA - Precinct 211 - HIGHLAND GARDENS"
   },
-  "ocd-division/country:us/state:va/place:virginia_beach/precinct:91-lexington": {
-   "name": "Virginia beach City VA - Precinct 091 - LEXINGTON"
-  },
   "ocd-division/country:us/state:va/county:hanover": {
    "name": "Hanover County",
    "officeIndices": [
@@ -6239,6 +6236,9 @@
     641,
     642
    ]
+  },
+  "ocd-division/country:us/state:va/place:virginia_beach/precinct:91-lexington": {
+   "name": "Virginia beach City VA - Precinct 091 - LEXINGTON"
   },
   "ocd-division/country:us/state:va/county:rockingham/precinct:504-south_fork": {
    "name": "Rockingham County VA - Precinct 504 - SOUTH FORK"
@@ -6387,23 +6387,20 @@
     2
    ]
   },
-  "ocd-division/country:us/state:va/county:henry/precinct:302-axton": {
-   "name": "Henry County VA - Precinct 302 - AXTON"
-  },
   "ocd-division/country:us/state:va/cd:7": {
    "name": "Virginia's 7th congressional district",
    "officeIndices": [
     3
    ]
   },
+  "ocd-division/country:us/state:va/county:henry/precinct:302-axton": {
+   "name": "Henry County VA - Precinct 302 - AXTON"
+  },
   "ocd-division/country:us/state:va/cd:8": {
    "name": "Virginia's 8th congressional district",
    "officeIndices": [
     4
    ]
-  },
-  "ocd-division/country:us/state:va/county:greene/school_district:greene_co_pblc_schs": {
-   "name": "greene co pblc schs"
   },
   "ocd-division/country:us/state:va/cd:9": {
    "name": "Virginia's 9th congressional district",
@@ -6416,6 +6413,9 @@
    "officeIndices": [
     646
    ]
+  },
+  "ocd-division/country:us/state:va/county:greene/school_district:greene_co_pblc_schs": {
+   "name": "greene co pblc schs"
   },
   "ocd-division/country:us/state:va/place:drakes_branch": {
    "name": "Drakes Branch town"
@@ -7384,11 +7384,11 @@
   "ocd-division/country:us/state:va/place:norton/school_district:norton_city_pblc_schs": {
    "name": "norton city pblc schs"
   },
-  "ocd-division/country:us/state:va/county:prince_william/precinct:108-victory": {
-   "name": "Prince william County VA - Precinct 108 - VICTORY"
-  },
   "ocd-division/country:us/state:va/place:louisa": {
    "name": "Louisa town"
+  },
+  "ocd-division/country:us/state:va/county:prince_william/precinct:108-victory": {
+   "name": "Prince william County VA - Precinct 108 - VICTORY"
   },
   "ocd-division/country:us/state:va/county:mecklenburg/precinct:301-bracey": {
    "name": "Mecklenburg County VA - Precinct 301 - BRACEY"
@@ -8418,17 +8418,17 @@
   "ocd-division/country:us/state:va/county:fairfax/precinct:629-south_county": {
    "name": "Fairfax County VA - Precinct 629 - SOUTH COUNTY"
   },
-  "ocd-division/country:us/state:va/county:henrico/precinct:218-oakview": {
-   "name": "Henrico County VA - Precinct 218 - OAKVIEW"
-  },
-  "ocd-division/country:us/state:va/county:buckingham/precinct:101-new_canton": {
-   "name": "Buckingham County VA - Precinct 101 - NEW CANTON"
-  },
   "ocd-division/country:us/state:va/county:fairfax/council_district:providence": {
    "name": "Fairfax County VA supervisor Providence district",
    "officeIndices": [
     800
    ]
+  },
+  "ocd-division/country:us/state:va/county:henrico/precinct:218-oakview": {
+   "name": "Henrico County VA - Precinct 218 - OAKVIEW"
+  },
+  "ocd-division/country:us/state:va/county:buckingham/precinct:101-new_canton": {
+   "name": "Buckingham County VA - Precinct 101 - NEW CANTON"
   },
   "ocd-division/country:us/state:va/place:suffolk/precinct:102-driver": {
    "name": "Suffolk City VA - Precinct 102 - DRIVER"
@@ -8445,19 +8445,19 @@
     801
    ]
   },
-  "ocd-division/country:us/state:va/county:augusta/council_district:riverheads": {
-   "name": "Augusta County Board of Supervisors District Riverheads",
-   "officeIndices": [
-    802
-   ]
-  },
   "ocd-division/country:us/state:va/place:suffolk": {
    "name": "Suffolk city",
    "alsoKnownAs": [
     "ocd-division/country:us/state:va/county:suffolk"
    ],
    "officeIndices": [
-    803,
+    802,
+    803
+   ]
+  },
+  "ocd-division/country:us/state:va/county:augusta/council_district:riverheads": {
+   "name": "Augusta County Board of Supervisors District Riverheads",
+   "officeIndices": [
     804
    ]
   },
@@ -8747,14 +8747,14 @@
     827
    ]
   },
-  "ocd-division/country:us/state:va/county:fairfax/precinct:105-fairview": {
-   "name": "Fairfax County VA - Precinct 105 - FAIRVIEW"
-  },
   "ocd-division/country:us/state:va/county:shenandoah/council_district:4": {
    "name": "Shenandoah County Board of Supervisors District 4",
    "officeIndices": [
     828
    ]
+  },
+  "ocd-division/country:us/state:va/county:fairfax/precinct:105-fairview": {
+   "name": "Fairfax County VA - Precinct 105 - FAIRVIEW"
   },
   "ocd-division/country:us/state:va/county:isle_of_wight/precinct:402-windsor": {
    "name": "Isle of wight County VA - Precinct 402 - WINDSOR"
@@ -8883,14 +8883,14 @@
     840
    ]
   },
-  "ocd-division/country:us/state:va/county:cumberland/council_district:5": {
-   "name": "Cumberland County Board of Supervisors District 5",
+  "ocd-division/country:us/state:va/county:roanoke/council_district:windsor_hills": {
+   "name": "Roanoke County Board of Supervisors District Windsor Hills",
    "officeIndices": [
     841
    ]
   },
-  "ocd-division/country:us/state:va/county:roanoke/council_district:windsor_hills": {
-   "name": "Roanoke County Board of Supervisors District Windsor Hills",
+  "ocd-division/country:us/state:va/county:cumberland/council_district:5": {
+   "name": "Cumberland County Board of Supervisors District 5",
    "officeIndices": [
     842
    ]
@@ -10119,14 +10119,14 @@
   "ocd-division/country:us/state:va/place:buena_vista/school_district:buena_vista_city_pblc_schs": {
    "name": "buena vista city pblc schs"
   },
-  "ocd-division/country:us/state:va/place:virginia_beach/precinct:47-kings_grant": {
-   "name": "Virginia beach City VA - Precinct 047 - KINGS GRANT"
-  },
   "ocd-division/country:us/state:va/place:richmond/council_district:4": {
    "name": "Richmond City VA city council district 4",
    "officeIndices": [
     931
    ]
+  },
+  "ocd-division/country:us/state:va/place:virginia_beach/precinct:47-kings_grant": {
+   "name": "Virginia beach City VA - Precinct 047 - KINGS GRANT"
   },
   "ocd-division/country:us/state:va/place:parksley": {
    "name": "Parksley town"
@@ -10745,9 +10745,6 @@
     966
    ]
   },
-  "ocd-division/country:us/state:va/county:lee/precinct:404-dryden": {
-   "name": "Lee County VA - Precinct 404 - DRYDEN"
-  },
   "ocd-division/country:us/state:va/county:prince_william": {
    "name": "Prince William County",
    "officeIndices": [
@@ -10756,6 +10753,9 @@
     969,
     970
    ]
+  },
+  "ocd-division/country:us/state:va/county:lee/precinct:404-dryden": {
+   "name": "Lee County VA - Precinct 404 - DRYDEN"
   },
   "ocd-division/country:us/state:va/county:alleghany/school_district:jackson_river_tech_ctr": {
    "name": "jackson river tech ctr"
@@ -10877,14 +10877,14 @@
   "ocd-division/country:us/state:va/place:newport_news/precinct:317-washington": {
    "name": "Newport news City VA - Precinct 317 - WASHINGTON"
   },
-  "ocd-division/country:us/state:va/place:virginia_beach/precinct:67-eastern_shore": {
-   "name": "Virginia beach City VA - Precinct 067 - EASTERN SHORE"
-  },
   "ocd-division/country:us/state:va/county:frederick/council_district:back_creek": {
    "name": "Frederick County Board of Supervisors District Back Creek",
    "officeIndices": [
     978
    ]
+  },
+  "ocd-division/country:us/state:va/place:virginia_beach/precinct:67-eastern_shore": {
+   "name": "Virginia beach City VA - Precinct 067 - EASTERN SHORE"
   },
   "ocd-division/country:us/state:va/county:rappahannock/council_district:piedmont": {
    "name": "Rappahannock County Board of Supervisors District Piedmont",
@@ -11054,9 +11054,6 @@
   "ocd-division/country:us/state:va/place:richmond/precinct:503": {
    "name": "Richmond City VA - Precinct 503 - FIVE HUNDRED THREE"
   },
-  "ocd-division/country:us/state:va/place:richmond/precinct:508": {
-   "name": "Richmond City VA - Precinct 508 - FIVE HUNDRED EIGHT"
-  },
   "ocd-division/country:us/state:va/place:herndon": {
    "name": "Herndon town",
    "officeIndices": [
@@ -11064,6 +11061,9 @@
     1000,
     1001
    ]
+  },
+  "ocd-division/country:us/state:va/place:richmond/precinct:508": {
+   "name": "Richmond City VA - Precinct 508 - FIVE HUNDRED EIGHT"
   },
   "ocd-division/country:us/state:va/place:richmond/precinct:509": {
    "name": "Richmond City VA - Precinct 509 - FIVE HUNDRED NINE"
@@ -11171,9 +11171,6 @@
   "ocd-division/country:us/state:va/county:dickenson/precinct:101-south_clintwood": {
    "name": "Dickenson County VA - Precinct 101 - SOUTH CLINTWOOD"
   },
-  "ocd-division/country:us/state:va/county:king_and_queen/precinct:101-owenton": {
-   "name": "King and queen County VA - Precinct 101 - OWENTON"
-  },
   "ocd-division/country:us/state:va/place:roanoke": {
    "name": "Roanoke city",
    "alsoKnownAs": [
@@ -11184,6 +11181,9 @@
     1012,
     1013
    ]
+  },
+  "ocd-division/country:us/state:va/county:king_and_queen/precinct:101-owenton": {
+   "name": "King and queen County VA - Precinct 101 - OWENTON"
   },
   "ocd-division/country:us/state:va/county:frederick/precinct:603-greenwood": {
    "name": "Frederick County VA - Precinct 603 - GREENWOOD"
@@ -11437,14 +11437,14 @@
   "ocd-division/country:us/state:va/county:lunenburg/precinct:501-reedy_creek": {
    "name": "Lunenburg County VA - Precinct 501 - REEDY CREEK"
   },
-  "ocd-division/country:us/state:va/county:henrico/precinct:501-antioch": {
-   "name": "Henrico County VA - Precinct 501 - ANTIOCH"
-  },
   "ocd-division/country:us/state:va/county:fairfax/council_district:springfield": {
    "name": "Fairfax County VA supervisor Springfield district",
    "officeIndices": [
     1035
    ]
+  },
+  "ocd-division/country:us/state:va/county:henrico/precinct:501-antioch": {
+   "name": "Henrico County VA - Precinct 501 - ANTIOCH"
   },
   "ocd-division/country:us/state:va/county:loudoun/council_district:blue_ridge": {
    "name": "Loudoun County Board of Supervisors Blue Ridge Council District",
@@ -11630,14 +11630,14 @@
     1055
    ]
   },
-  "ocd-division/country:us/state:va/place:virginia_beach/precinct:54-cromwell": {
-   "name": "Virginia beach City VA - Precinct 054 - CROMWELL"
-  },
   "ocd-division/country:us/state:va/county:northumberland/council_district:5": {
    "name": "Northumberland County Board of Supervisors District 5",
    "officeIndices": [
     1056
    ]
+  },
+  "ocd-division/country:us/state:va/place:virginia_beach/precinct:54-cromwell": {
+   "name": "Virginia beach City VA - Precinct 054 - CROMWELL"
   },
   "ocd-division/country:us/state:va/county:essex/council_district:north": {
    "name": "Essex County Board of Supervisors District North",
@@ -11684,11 +11684,11 @@
   "ocd-division/country:us/state:va/county:cumberland/precinct:2": {
    "name": "Cumberland County VA - Precinct 201 - PRECINCT 2"
   },
-  "ocd-division/country:us/state:va/county:cumberland/precinct:5": {
-   "name": "Cumberland County VA - Precinct 501 - PRECINCT 5"
-  },
   "ocd-division/country:us/state:va/county:westmoreland/precinct:301-precinct_3-1": {
    "name": "Westmoreland County VA - Precinct 301 - PRECINCT 3-1"
+  },
+  "ocd-division/country:us/state:va/county:cumberland/precinct:5": {
+   "name": "Cumberland County VA - Precinct 501 - PRECINCT 5"
   },
   "ocd-division/country:us/state:va/county:fluvanna/council_district:fork_union": {
    "name": "Fluvanna County Board of Supervisors District Fork Union",
@@ -11702,11 +11702,11 @@
     1060
    ]
   },
-  "ocd-division/country:us/state:va/place:norfolk/precinct:503-east_ocean_view": {
-   "name": "Norfolk City VA - Precinct 503 - EAST OCEAN VIEW"
-  },
   "ocd-division/country:us/state:va/county:rockingham/precinct:401-bridgewater": {
    "name": "Rockingham County VA - Precinct 401 - BRIDGEWATER"
+  },
+  "ocd-division/country:us/state:va/place:norfolk/precinct:503-east_ocean_view": {
+   "name": "Norfolk City VA - Precinct 503 - EAST OCEAN VIEW"
   },
   "ocd-division/country:us/state:va/county:craig/council_district:simmonsville": {
    "name": "Craig County Board of Supervisors District Simmonsville",
@@ -11751,19 +11751,19 @@
     1069
    ]
   },
-  "ocd-division/country:us/state:va/county:northampton/council_district:4": {
-   "name": "Northampton County Board of Supervisors District 4",
-   "officeIndices": [
-    1070
-   ]
-  },
   "ocd-division/country:us/state:va/county:westmoreland": {
    "name": "Westmoreland County",
    "officeIndices": [
+    1070,
     1071,
     1072,
     1073,
-    1074,
+    1074
+   ]
+  },
+  "ocd-division/country:us/state:va/county:northampton/council_district:4": {
+   "name": "Northampton County Board of Supervisors District 4",
+   "officeIndices": [
     1075
    ]
   },
@@ -11773,11 +11773,11 @@
     1076
    ]
   },
-  "ocd-division/country:us/state:va/county:albemarle/precinct:101-woodbrook": {
-   "name": "Albemarle County VA - Precinct 101 - WOODBROOK"
-  },
   "ocd-division/country:us/state:va/county:scott/school_district:scott_co_pblc_schs": {
    "name": "scott co pblc schs"
+  },
+  "ocd-division/country:us/state:va/county:albemarle/precinct:101-woodbrook": {
+   "name": "Albemarle County VA - Precinct 101 - WOODBROOK"
   },
   "ocd-division/country:us/state:va/county:northampton/council_district:1": {
    "name": "Northampton County Board of Supervisors District 1",
@@ -12044,21 +12044,21 @@
     1092
    ]
   },
-  "ocd-division/country:us/state:va/place:petersburg/ward:3": {
-   "name": "Petersburg City VA Ward 3",
-   "officeIndices": [
-    1096
-   ]
-  },
   "ocd-division/country:us/state:va/place:virginia_beach": {
    "name": "Virginia Beach city",
    "alsoKnownAs": [
     "ocd-division/country:us/state:va/county:virginia_beach"
    ],
    "officeIndices": [
-    1093,
     1094,
-    1095
+    1095,
+    1096
+   ]
+  },
+  "ocd-division/country:us/state:va/place:petersburg/ward:3": {
+   "name": "Petersburg City VA Ward 3",
+   "officeIndices": [
+    1093
    ]
   },
   "ocd-division/country:us/state:va/place:petersburg/ward:1": {
@@ -12392,12 +12392,6 @@
   "ocd-division/country:us/state:va/county:fauquier/precinct:404-springs_valley": {
    "name": "Fauquier County VA - Precinct 404 - SPRINGS VALLEY"
   },
-  "ocd-division/country:us/state:va/place:roanoke/school_district:reg_alternative_plus_self_project~roanoke_city": {
-   "name": "reg alternative plus self project/roanoke city"
-  },
-  "ocd-division/country:us/state:va/county:james_city/precinct:504-roberts_d": {
-   "name": "James city County VA - Precinct 504 - ROBERTS D"
-  },
   "ocd-division/country:us/state:va/county:culpeper": {
    "name": "Culpeper County",
    "officeIndices": [
@@ -12407,6 +12401,12 @@
     1135,
     1136
    ]
+  },
+  "ocd-division/country:us/state:va/place:roanoke/school_district:reg_alternative_plus_self_project~roanoke_city": {
+   "name": "reg alternative plus self project/roanoke city"
+  },
+  "ocd-division/country:us/state:va/county:james_city/precinct:504-roberts_d": {
+   "name": "James city County VA - Precinct 504 - ROBERTS D"
   },
   "ocd-division/country:us/state:va/place:falls_church/ward:1": {
    "name": "Falls church City VA - Ward 001 - FIRST WARD"
@@ -12697,20 +12697,20 @@
   "ocd-division/country:us/state:va/county:wythe/precinct:601-huddle": {
    "name": "Wythe County VA - Precinct 601 - HUDDLE"
   },
-  "ocd-division/country:us/state:va/county:fluvanna/council_district:cunningham": {
-   "name": "Fluvanna County Board of Supervisors District Cunningham",
-   "officeIndices": [
-    1175
-   ]
-  },
   "ocd-division/country:us/state:va/county:nelson": {
    "name": "Nelson County",
    "officeIndices": [
-    1170,
     1171,
     1172,
     1173,
-    1174
+    1174,
+    1175
+   ]
+  },
+  "ocd-division/country:us/state:va/county:fluvanna/council_district:cunningham": {
+   "name": "Fluvanna County Board of Supervisors District Cunningham",
+   "officeIndices": [
+    1170
    ]
   },
   "ocd-division/country:us/state:va/place:suffolk/precinct:604-wilroy": {
@@ -13280,12 +13280,6 @@
     1217
    ]
   },
-  "ocd-division/country:us/state:va/sldl:2": {
-   "name": "Virginia State House district 2",
-   "officeIndices": [
-    150
-   ]
-  },
   "ocd-division/country:us/state:va/county:hanover/council_district:ashland": {
    "name": "Hanover County Board of Supervisors District Ashland",
    "officeIndices": [
@@ -13298,14 +13292,11 @@
     1218
    ]
   },
-  "ocd-division/country:us/state:va/sldl:3": {
-   "name": "Virginia State House district 3",
+  "ocd-division/country:us/state:va/sldl:2": {
+   "name": "Virginia State House district 2",
    "officeIndices": [
-    151
+    150
    ]
-  },
-  "ocd-division/country:us/state:va/county:carroll/precinct:105-fancy_gap": {
-   "name": "Carroll County VA - Precinct 105 - FANCY GAP"
   },
   "ocd-division/country:us/state:va/place:emporia": {
    "name": "Emporia city",
@@ -13315,6 +13306,15 @@
    "officeIndices": [
     1220
    ]
+  },
+  "ocd-division/country:us/state:va/sldl:3": {
+   "name": "Virginia State House district 3",
+   "officeIndices": [
+    151
+   ]
+  },
+  "ocd-division/country:us/state:va/county:carroll/precinct:105-fancy_gap": {
+   "name": "Carroll County VA - Precinct 105 - FANCY GAP"
   },
   "ocd-division/country:us/state:va/county:spotsylvania": {
    "name": "Spotsylvania County",
@@ -13979,9 +13979,6 @@
   "ocd-division/country:us/state:va/county:russell/precinct:302-daugherty": {
    "name": "Russell County VA - Precinct 302 - DAUGHERTY"
   },
-  "ocd-division/country:us/state:va/county:rockingham/precinct:402-montezuma": {
-   "name": "Rockingham County VA - Precinct 402 - MONTEZUMA"
-  },
   "ocd-division/country:us/state:va/place:staunton": {
    "name": "Staunton city",
    "alsoKnownAs": [
@@ -13992,17 +13989,20 @@
     1282
    ]
   },
+  "ocd-division/country:us/state:va/county:rockingham/precinct:402-montezuma": {
+   "name": "Rockingham County VA - Precinct 402 - MONTEZUMA"
+  },
   "ocd-division/country:us/state:va/county:buckingham/school_district:buckingham_co_pblc_schs": {
    "name": "buckingham co pblc schs"
-  },
-  "ocd-division/country:us/state:va/county:king_george/school_district:king_geo_co_pblc_schs": {
-   "name": "king geo co pblc schs"
   },
   "ocd-division/country:us/state:va/county:pulaski/council_district:massie": {
    "name": "Pulaski County Board of Supervisors District Massie",
    "officeIndices": [
     1283
    ]
+  },
+  "ocd-division/country:us/state:va/county:king_george/school_district:king_geo_co_pblc_schs": {
+   "name": "king geo co pblc schs"
   },
   "ocd-division/country:us/state:va/place:virginia_beach/precinct:60-foxfire": {
    "name": "Virginia beach City VA - Precinct 060 - FOXFIRE"
@@ -14201,14 +14201,14 @@
   "ocd-division/country:us/state:va/place:alexandria/precinct:105-lee_center": {
    "name": "Alexandria City VA - Precinct 105 - LEE CENTER"
   },
-  "ocd-division/country:us/state:va/county:henrico/precinct:223-yellow_tavern": {
-   "name": "Henrico County VA - Precinct 223 - YELLOW TAVERN"
-  },
   "ocd-division/country:us/state:va/county:augusta/council_district:beverley_manor": {
    "name": "Augusta County Board of Supervisors District Beverley Manor",
    "officeIndices": [
     1297
    ]
+  },
+  "ocd-division/country:us/state:va/county:henrico/precinct:223-yellow_tavern": {
+   "name": "Henrico County VA - Precinct 223 - YELLOW TAVERN"
   },
   "ocd-division/country:us/state:va/county:alleghany/precinct:103-dameron": {
    "name": "Alleghany County VA - Precinct 103 - DAMERON"
@@ -15362,8 +15362,8 @@
    ]
   },
   {
-   "name": "VA State House District 100",
-   "divisionId": "ocd-division/country:us/state:va/sldl:100",
+   "name": "VA State House District 31",
+   "divisionId": "ocd-division/country:us/state:va/sldl:31",
    "levels": [
     "administrativeArea1"
    ],
@@ -15375,8 +15375,8 @@
    ]
   },
   {
-   "name": "VA State House District 31",
-   "divisionId": "ocd-division/country:us/state:va/sldl:31",
+   "name": "VA State House District 100",
+   "divisionId": "ocd-division/country:us/state:va/sldl:100",
    "levels": [
     "administrativeArea1"
    ],
@@ -16879,15 +16879,15 @@
    ]
   },
   {
-   "name": "Board of Supervisors, District 5",
-   "divisionId": "ocd-division/country:us/state:va/county:prince_edward/council_district:5",
+   "name": "Board of Supervisors, District Stonewall",
+   "divisionId": "ocd-division/country:us/state:va/county:frederick/council_district:stonewall",
    "officialIndices": [
     258
    ]
   },
   {
-   "name": "Board of Supervisors, District Stonewall",
-   "divisionId": "ocd-division/country:us/state:va/county:frederick/council_district:stonewall",
+   "name": "Board of Supervisors, District 5",
+   "divisionId": "ocd-division/country:us/state:va/county:prince_edward/council_district:5",
    "officialIndices": [
     259
    ]
@@ -17594,15 +17594,15 @@
    ]
   },
   {
-   "name": "Board of Supervisors, District Hardy",
-   "divisionId": "ocd-division/country:us/state:va/county:isle_of_wight/council_district:hardy",
+   "name": "Board of Supervisors, District Covington",
+   "divisionId": "ocd-division/country:us/state:va/county:alleghany/council_district:covington",
    "officialIndices": [
     373
    ]
   },
   {
-   "name": "Board of Supervisors, District Covington",
-   "divisionId": "ocd-division/country:us/state:va/county:alleghany/council_district:covington",
+   "name": "Board of Supervisors, District Hardy",
+   "divisionId": "ocd-division/country:us/state:va/county:isle_of_wight/council_district:hardy",
    "officialIndices": [
     374
    ]
@@ -18912,17 +18912,17 @@
    ]
   },
   {
-   "name": "Council, District South",
-   "divisionId": "ocd-division/country:us/state:va/place:newport_news/council_district:south",
-   "officialIndices": [
-    581,
-    582
-   ]
-  },
-  {
    "name": "Board of Supervisors, District 3",
    "divisionId": "ocd-division/country:us/state:va/county:lunenburg/council_district:3",
    "officialIndices": [
+    581
+   ]
+  },
+  {
+   "name": "Council, District South",
+   "divisionId": "ocd-division/country:us/state:va/place:newport_news/council_district:south",
+   "officialIndices": [
+    582,
     583
    ]
   },
@@ -20887,22 +20887,22 @@
    ]
   },
   {
-   "name": "Board of Supervisors, District Riverheads",
-   "divisionId": "ocd-division/country:us/state:va/county:augusta/council_district:riverheads",
+   "name": "Mayor",
+   "divisionId": "ocd-division/country:us/state:va/place:suffolk",
    "officialIndices": [
     888
    ]
   },
   {
-   "name": "Mayor",
+   "name": "Clerk of the Circuit Court",
    "divisionId": "ocd-division/country:us/state:va/place:suffolk",
    "officialIndices": [
     889
    ]
   },
   {
-   "name": "Clerk of the Circuit Court",
-   "divisionId": "ocd-division/country:us/state:va/place:suffolk",
+   "name": "Board of Supervisors, District Riverheads",
+   "divisionId": "ocd-division/country:us/state:va/county:augusta/council_district:riverheads",
    "officialIndices": [
     890
    ]
@@ -21166,15 +21166,15 @@
    ]
   },
   {
-   "name": "Board of Supervisors, District 5",
-   "divisionId": "ocd-division/country:us/state:va/county:cumberland/council_district:5",
+   "name": "Board of Supervisors, District Windsor Hills",
+   "divisionId": "ocd-division/country:us/state:va/county:roanoke/council_district:windsor_hills",
    "officialIndices": [
     933
    ]
   },
   {
-   "name": "Board of Supervisors, District Windsor Hills",
-   "divisionId": "ocd-division/country:us/state:va/county:roanoke/council_district:windsor_hills",
+   "name": "Board of Supervisors, District 5",
+   "divisionId": "ocd-division/country:us/state:va/county:cumberland/council_district:5",
    "officialIndices": [
     934
    ]
@@ -22815,43 +22815,43 @@
    ]
   },
   {
-   "name": "Board of Supervisors, District 4",
-   "divisionId": "ocd-division/country:us/state:va/county:northampton/council_district:4",
-   "officialIndices": [
-    1208
-   ]
-  },
-  {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:va/county:westmoreland",
    "officialIndices": [
-    1209
+    1208
    ]
   },
   {
    "name": "Treasurer",
    "divisionId": "ocd-division/country:us/state:va/county:westmoreland",
    "officialIndices": [
-    1210
+    1209
    ]
   },
   {
    "name": "Commissioner of Revenue",
    "divisionId": "ocd-division/country:us/state:va/county:westmoreland",
    "officialIndices": [
-    1211
+    1210
    ]
   },
   {
    "name": "Commonwealth's Attorney",
    "divisionId": "ocd-division/country:us/state:va/county:westmoreland",
    "officialIndices": [
-    1212
+    1211
    ]
   },
   {
    "name": "Clerk of the Circuit Court",
    "divisionId": "ocd-division/country:us/state:va/county:westmoreland",
+   "officialIndices": [
+    1212
+   ]
+  },
+  {
+   "name": "Board of Supervisors, District 4",
+   "divisionId": "ocd-division/country:us/state:va/county:northampton/council_district:4",
    "officialIndices": [
     1213
    ]
@@ -22980,31 +22980,31 @@
    ]
   },
   {
+   "name": "Council, District 3",
+   "divisionId": "ocd-division/country:us/state:va/place:petersburg/ward:3",
+   "officialIndices": [
+    1235
+   ]
+  },
+  {
    "name": "Mayor",
    "divisionId": "ocd-division/country:us/state:va/place:virginia_beach",
    "officialIndices": [
-    1235
+    1236
    ]
   },
   {
    "name": "Council, District At Large",
    "divisionId": "ocd-division/country:us/state:va/place:virginia_beach",
    "officialIndices": [
-    1236,
     1237,
-    1238
+    1238,
+    1239
    ]
   },
   {
    "name": "Clerk of the Circuit Court",
    "divisionId": "ocd-division/country:us/state:va/place:virginia_beach",
-   "officialIndices": [
-    1239
-   ]
-  },
-  {
-   "name": "Council, District 3",
-   "divisionId": "ocd-division/country:us/state:va/place:petersburg/ward:3",
    "officialIndices": [
     1240
    ]
@@ -23529,43 +23529,43 @@
    ]
   },
   {
-   "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:va/county:nelson",
+   "name": "Board of Supervisors, District Cunningham",
+   "divisionId": "ocd-division/country:us/state:va/county:fluvanna/council_district:cunningham",
    "officialIndices": [
     1322
    ]
   },
   {
-   "name": "Treasurer",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:va/county:nelson",
    "officialIndices": [
     1323
    ]
   },
   {
-   "name": "Commissioner of Revenue",
+   "name": "Treasurer",
    "divisionId": "ocd-division/country:us/state:va/county:nelson",
    "officialIndices": [
     1324
    ]
   },
   {
-   "name": "Commonwealth's Attorney",
+   "name": "Commissioner of Revenue",
    "divisionId": "ocd-division/country:us/state:va/county:nelson",
    "officialIndices": [
     1325
    ]
   },
   {
-   "name": "Clerk of the Circuit Court",
+   "name": "Commonwealth's Attorney",
    "divisionId": "ocd-division/country:us/state:va/county:nelson",
    "officialIndices": [
     1326
    ]
   },
   {
-   "name": "Board of Supervisors, District Cunningham",
-   "divisionId": "ocd-division/country:us/state:va/county:fluvanna/council_district:cunningham",
+   "name": "Clerk of the Circuit Court",
+   "divisionId": "ocd-division/country:us/state:va/county:nelson",
    "officialIndices": [
     1327
    ]
@@ -26538,15 +26538,15 @@
    ],
    "channels": [
     {
+     "type": "YouTube",
+     "id": "lopez4va"
+    },
+    {
      "type": "Facebook",
      "id": "Lopez4VA"
     },
     {
      "type": "Twitter",
-     "id": "lopez4va"
-    },
-    {
-     "type": "YouTube",
      "id": "lopez4va"
     }
    ]
@@ -26675,12 +26675,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "RobKrupicka"
-    },
-    {
      "type": "YouTube",
      "id": "KrupickaforDelegate"
+    },
+    {
+     "type": "Twitter",
+     "id": "RobKrupicka"
     },
     {
      "type": "Facebook",
@@ -27057,34 +27057,6 @@
    ]
   },
   {
-   "name": "Robert S. Bloxom Jr.",
-   "address": [
-    {
-     "line1": "P.O. Box 406",
-     "city": "richmond",
-     "state": "VA",
-     "zip": "23218"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(804) 698-1000"
-   ],
-   "urls": [
-    "http://virginiageneralassembly.gov/house/members/members.php?id=H0267"
-   ],
-   "photoUrl": "http://virginiageneralassembly.gov/house/members/photos/100.jpg",
-   "emails": [
-    "DelRBloxom@house.virginia.gov"
-   ],
-   "channels": [
-    {
-     "type": "Facebook",
-     "id": "electbloxomfordelegate"
-    }
-   ]
-  },
-  {
    "name": "L. Scott Lingamfelter",
    "address": [
     {
@@ -27113,6 +27085,34 @@
     {
      "type": "Twitter",
      "id": "Scott4Delegate"
+    }
+   ]
+  },
+  {
+   "name": "Robert S. Bloxom Jr.",
+   "address": [
+    {
+     "line1": "P.O. Box 406",
+     "city": "richmond",
+     "state": "VA",
+     "zip": "23218"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(804) 698-1000"
+   ],
+   "urls": [
+    "http://virginiageneralassembly.gov/house/members/members.php?id=H0267"
+   ],
+   "photoUrl": "http://virginiageneralassembly.gov/house/members/photos/100.jpg",
+   "emails": [
+    "DelRBloxom@house.virginia.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "electbloxomfordelegate"
     }
    ]
   },
@@ -27306,8 +27306,7 @@
     "(804) 698-1029"
    ],
    "urls": [
-    "http://virginiageneralassembly.gov/house/members/members.php?id=H0254",
-    "http://markbergmd.com/"
+    "http://virginiageneralassembly.gov/house/members/members.php?id=H0254"
    ],
    "photoUrl": "http://virginiageneralassembly.gov/house/members/photos/29.jpg",
    "emails": [
@@ -27522,12 +27521,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "SamRasoulForDelegate"
-    },
-    {
      "type": "Twitter",
      "id": "Sam_Rasoul"
+    },
+    {
+     "type": "Facebook",
+     "id": "SamRasoulForDelegate"
     }
    ]
   },
@@ -27583,12 +27582,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "ChrisHead4Del"
-    },
-    {
      "type": "Facebook",
      "id": "ElectChrisHead"
+    },
+    {
+     "type": "Twitter",
+     "id": "ChrisHead4Del"
     }
    ]
   },
@@ -27963,12 +27962,12 @@
    ],
    "channels": [
     {
-     "type": "YouTube",
-     "id": "SenSaslaw"
-    },
-    {
      "type": "Facebook",
      "id": "DickSaslaw"
+    },
+    {
+     "type": "YouTube",
+     "id": "SenSaslaw"
     }
    ]
   },
@@ -28023,12 +28022,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "SenatorWexton"
-    },
-    {
      "type": "Facebook",
      "id": "wextonforstatesenate"
+    },
+    {
+     "type": "Twitter",
+     "id": "SenatorWexton"
     }
    ]
   },
@@ -28951,12 +28950,12 @@
      "id": "DelegateNickRush"
     },
     {
-     "type": "Twitter",
-     "id": "ElectNickRush"
-    },
-    {
      "type": "YouTube",
      "id": "DelegateNickRush"
+    },
+    {
+     "type": "Twitter",
+     "id": "ElectNickRush"
     }
    ]
   },
@@ -29927,6 +29926,9 @@
    "phones": [
     "(804) 462-5111"
    ],
+   "urls": [
+    "http://www.lancastersheriff.net/sheriff.asp"
+   ],
    "emails": [
     "crockett@lancastersheriff.net"
    ],
@@ -30754,6 +30756,9 @@
    "phones": [
     "(540) 980-7800"
    ],
+   "urls": [
+    "http://www.sheriffsoffice.org/"
+   ],
    "channels": [
     {
      "type": "Facebook",
@@ -31166,21 +31171,6 @@
    ]
   },
   {
-   "name": "Wiliam Fore Jr.",
-   "address": [
-    {
-     "line1": "2670 back hampden sydney road",
-     "city": "farmville",
-     "state": "VA",
-     "zip": "23901"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(434) 392-1434"
-   ]
-  },
-  {
    "name": "Charles \"Chuck\" DeHaven Jr.",
    "address": [
     {
@@ -31193,6 +31183,21 @@
    "party": "Republican",
    "phones": [
     "(540) 662-7421"
+   ]
+  },
+  {
+   "name": "Wiliam Fore Jr.",
+   "address": [
+    {
+     "line1": "2670 back hampden sydney road",
+     "city": "farmville",
+     "state": "VA",
+     "zip": "23901"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(434) 392-1434"
    ]
   },
   {
@@ -33388,24 +33393,6 @@
    ]
   },
   {
-   "name": "JoAnn Hall",
-   "address": [
-    {
-     "line1": "7432 bartons landing",
-     "city": "smithfield",
-     "state": "VA",
-     "zip": "23430"
-    }
-   ],
-   "party": "Independent",
-   "phones": [
-    "(757) 357-5465"
-   ],
-   "emails": [
-    "joannhall@charter.net"
-   ]
-  },
-  {
    "name": "Paige R. Morgan",
    "address": [
     {
@@ -33424,6 +33411,24 @@
    ],
    "emails": [
     "pmcovdist@yahoo.com"
+   ]
+  },
+  {
+   "name": "JoAnn Hall",
+   "address": [
+    {
+     "line1": "7432 bartons landing",
+     "city": "smithfield",
+     "state": "VA",
+     "zip": "23430"
+    }
+   ],
+   "party": "Independent",
+   "phones": [
+    "(757) 357-5465"
+   ],
+   "emails": [
+    "joannhall@charter.net"
    ]
   },
   {
@@ -37451,6 +37456,13 @@
    ]
   },
   {
+   "name": "Frank Bacon",
+   "party": "Democratic",
+   "emails": [
+    "baconfw@longwood.edu"
+   ]
+  },
+  {
    "name": "Joseph C. Whitaker",
    "address": [
     {
@@ -37486,13 +37498,6 @@
    ],
    "emails": [
     "council@nngov.com"
-   ]
-  },
-  {
-   "name": "Frank Bacon",
-   "party": "Democratic",
-   "emails": [
-    "baconfw@longwood.edu"
    ]
   },
   {
@@ -38732,6 +38737,9 @@
    "party": "Republican",
    "phones": [
     "(540) 743-6571"
+   ],
+   "urls": [
+    "http://www.pagesheriff.com/"
    ],
    "emails": [
     "jbthomas@pagesheriff.com"
@@ -41345,12 +41353,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "JohnUhrin"
-    },
-    {
      "type": "Facebook",
      "id": "uhrin"
+    },
+    {
+     "type": "Twitter",
+     "id": "JohnUhrin"
     }
    ]
   },
@@ -43553,24 +43561,6 @@
    ]
   },
   {
-   "name": "Michael L. Shull",
-   "address": [
-    {
-     "line1": "6173 lee jackson highway",
-     "city": "raphine",
-     "state": "VA",
-     "zip": "24472"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(540) 377-6650"
-   ],
-   "urls": [
-    "http://www.co.augusta.va.us/Index.aspx?page=410"
-   ]
-  },
-  {
    "name": "Linda T. Johnson",
    "address": [
     {
@@ -43609,6 +43599,24 @@
    ],
    "urls": [
     "http://www.suffolkva.us/citygovt/co/clerk-of-the-circuit-court/"
+   ]
+  },
+  {
+   "name": "Michael L. Shull",
+   "address": [
+    {
+     "line1": "6173 lee jackson highway",
+     "city": "raphine",
+     "state": "VA",
+     "zip": "24472"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(540) 377-6650"
+   ],
+   "urls": [
+    "http://www.co.augusta.va.us/Index.aspx?page=410"
    ]
   },
   {
@@ -44499,27 +44507,6 @@
    ]
   },
   {
-   "name": "Parker Wheeler",
-   "address": [
-    {
-     "line1": "P.O. Box 110 1 Courthouse Circle",
-     "city": "cumberland",
-     "state": "VA",
-     "zip": "23040"
-    }
-   ],
-   "party": "Independent",
-   "phones": [
-    "(434) 390-4851"
-   ],
-   "urls": [
-    "http://cumberlandcounty.virginia.gov/supervisors/docs/BIO-Parker%20Wheeler.pdf"
-   ],
-   "emails": [
-    "p_h_wheeler@hotmail.com"
-   ]
-  },
-  {
    "name": "Eddie \"Ed\" Elswick",
    "address": [
     {
@@ -44542,6 +44529,27 @@
      "type": "Twitter",
      "id": "edelswick"
     }
+   ]
+  },
+  {
+   "name": "Parker Wheeler",
+   "address": [
+    {
+     "line1": "P.O. Box 110 1 Courthouse Circle",
+     "city": "cumberland",
+     "state": "VA",
+     "zip": "23040"
+    }
+   ],
+   "party": "Independent",
+   "phones": [
+    "(434) 390-4851"
+   ],
+   "urls": [
+    "http://cumberlandcounty.virginia.gov/supervisors/docs/BIO-Parker%20Wheeler.pdf"
+   ],
+   "emails": [
+    "p_h_wheeler@hotmail.com"
    ]
   },
   {
@@ -46774,12 +46782,12 @@
      "id": "148606341838969"
     },
     {
-     "type": "Twitter",
-     "id": "jonbaliles"
-    },
-    {
      "type": "YouTube",
      "id": "JonBalilesforCouncil"
+    },
+    {
+     "type": "Twitter",
+     "id": "jonbaliles"
     }
    ]
   },
@@ -49962,24 +49970,6 @@
    ]
   },
   {
-   "name": "Richard Hubbard",
-   "address": [
-    {
-     "line1": "PO Box 328",
-     "city": "eastville",
-     "state": "VA",
-     "zip": "23347"
-    }
-   ],
-   "party": "Independent",
-   "phones": [
-    "(757) 617-3101"
-   ],
-   "emails": [
-    "rhubbard@co.northampton.va.us"
-   ]
-  },
-  {
    "name": "C. O. Balderson",
    "address": [
     {
@@ -50092,6 +50082,24 @@
    ],
    "urls": [
     "http://www.courts.state.va.us/courts/circuit/westmoreland/home.html"
+   ]
+  },
+  {
+   "name": "Richard Hubbard",
+   "address": [
+    {
+     "line1": "PO Box 328",
+     "city": "eastville",
+     "state": "VA",
+     "zip": "23347"
+    }
+   ],
+   "party": "Independent",
+   "phones": [
+    "(757) 617-3101"
+   ],
+   "emails": [
+    "rhubbard@co.northampton.va.us"
    ]
   },
   {
@@ -50522,6 +50530,26 @@
    ]
   },
   {
+   "name": "Ken Pritchett",
+   "address": [
+    {
+     "line1": "Petersburg",
+     "line2": "City Council",
+     "line3": "135 n. union street",
+     "city": "petersburg",
+     "state": "VA",
+     "zip": "23803"
+    }
+   ],
+   "party": "Independent",
+   "phones": [
+    "(804) 733-2301"
+   ],
+   "emails": [
+    "kpritchett@petersburg-va.org"
+   ]
+  },
+  {
    "name": "William D. Sessoms, Jr.",
    "address": [
     {
@@ -50639,26 +50667,6 @@
    ],
    "emails": [
     "tsinnen@courts.state.va.us"
-   ]
-  },
-  {
-   "name": "Ken Pritchett",
-   "address": [
-    {
-     "line1": "Petersburg",
-     "line2": "City Council",
-     "line3": "135 n. union street",
-     "city": "petersburg",
-     "state": "VA",
-     "zip": "23803"
-    }
-   ],
-   "party": "Independent",
-   "phones": [
-    "(804) 733-2301"
-   ],
-   "emails": [
-    "kpritchett@petersburg-va.org"
    ]
   },
   {
@@ -52366,6 +52374,24 @@
    ]
   },
   {
+   "name": "Donald Weaver",
+   "address": [
+    {
+     "line1": "4978 rolling road south",
+     "city": "scottsville",
+     "state": "VA",
+     "zip": "24590"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(434) 286-2687"
+   ],
+   "emails": [
+    "dweaver@fluvannacounty.org"
+   ]
+  },
+  {
    "name": "David Brooks",
    "address": [
     {
@@ -52462,24 +52488,6 @@
    ],
    "urls": [
     "http://www.courts.state.va.us/courts/circuit/nelson/home.html"
-   ]
-  },
-  {
-   "name": "Donald Weaver",
-   "address": [
-    {
-     "line1": "4978 rolling road south",
-     "city": "scottsville",
-     "state": "VA",
-     "zip": "24590"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(434) 286-2687"
-   ],
-   "emails": [
-    "dweaver@fluvannacounty.org"
    ]
   },
   {
@@ -54756,6 +54764,9 @@
    "party": "Unknown",
    "phones": [
     "(540) 863-6152"
+   ],
+   "urls": [
+    "http://www.alleghanycounty.us/board_of_supervisors/BoardMemberInfo/Cletus_Nicely.htm"
    ],
    "emails": [
     "cnicely@ntelos.net"

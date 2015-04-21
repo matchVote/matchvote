@@ -36,38 +36,38 @@
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:405": {
    "name": "MIAMI-DADE County Precinct 405"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:408": {
-   "name": "MIAMI-DADE County Precinct 408"
-  },
   "ocd-division/country:us/state:fl/county:orange/precinct:133": {
    "name": "ORANGE County Precinct 133"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:407": {
-   "name": "MIAMI-DADE County Precinct 407"
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:408": {
+   "name": "MIAMI-DADE County Precinct 408"
   },
   "ocd-division/country:us/state:fl/county:orange/precinct:134": {
    "name": "ORANGE County Precinct 134"
   },
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:407": {
+   "name": "MIAMI-DADE County Precinct 407"
+  },
   "ocd-division/country:us/state:fl/county:orange/precinct:131": {
    "name": "ORANGE County Precinct 131"
-  },
-  "ocd-division/country:us/state:fl/county:collier/precinct:223": {
-   "name": "COLLIER County Precinct 223"
-  },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:409": {
-   "name": "MIAMI-DADE County Precinct 409"
   },
   "ocd-division/country:us/state:fl/county:orange/precinct:132": {
    "name": "ORANGE County Precinct 132"
   },
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:409": {
+   "name": "MIAMI-DADE County Precinct 409"
+  },
+  "ocd-division/country:us/state:fl/county:collier/precinct:223": {
+   "name": "COLLIER County Precinct 223"
+  },
   "ocd-division/country:us/state:fl/county:duval/precinct:701": {
    "name": "DUVAL County Precinct 701"
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:702": {
-   "name": "DUVAL County Precinct 702"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:410": {
    "name": "MIAMI-DADE County Precinct 410"
+  },
+  "ocd-division/country:us/state:fl/county:duval/precinct:702": {
+   "name": "DUVAL County Precinct 702"
   },
   "ocd-division/country:us/state:fl/county:duval/precinct:703": {
    "name": "DUVAL County Precinct 703"
@@ -168,11 +168,11 @@
   "ocd-division/country:us/state:fl/county:duval/precinct:710": {
    "name": "DUVAL County Precinct 710"
   },
-  "ocd-division/country:us/state:fl/place:islamorada~_village_of_islands": {
-   "name": "Islamorada, Village of Islands village"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:402": {
    "name": "MIAMI-DADE County Precinct 402"
+  },
+  "ocd-division/country:us/state:fl/place:islamorada~_village_of_islands": {
+   "name": "Islamorada, Village of Islands village"
   },
   "ocd-division/country:us/state:fl/county:duval/precinct:713": {
    "name": "DUVAL County Precinct 713"
@@ -219,11 +219,11 @@
   "ocd-division/country:us/state:fl/county:orange/precinct:111": {
    "name": "ORANGE County Precinct 111"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:429": {
-   "name": "MIAMI-DADE County Precinct 429"
-  },
   "ocd-division/country:us/state:fl/county:orange/precinct:112": {
    "name": "ORANGE County Precinct 112"
+  },
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:429": {
+   "name": "MIAMI-DADE County Precinct 429"
   },
   "ocd-division/country:us/state:fl/county:orange/precinct:110": {
    "name": "ORANGE County Precinct 110"
@@ -234,11 +234,11 @@
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:425": {
    "name": "MIAMI-DADE County Precinct 425"
   },
-  "ocd-division/country:us/state:fl/county:collier/precinct:242": {
-   "name": "COLLIER County Precinct 242"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:428": {
    "name": "MIAMI-DADE County Precinct 428"
+  },
+  "ocd-division/country:us/state:fl/county:collier/precinct:242": {
+   "name": "COLLIER County Precinct 242"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:427": {
    "name": "MIAMI-DADE County Precinct 427"
@@ -255,11 +255,11 @@
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:435": {
    "name": "MIAMI-DADE County Precinct 435"
   },
-  "ocd-division/country:us/state:fl/place:crystal_river": {
-   "name": "Crystal River city"
-  },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:6070": {
    "name": "PALM BEACH County Precinct 6070"
+  },
+  "ocd-division/country:us/state:fl/place:crystal_river": {
+   "name": "Crystal River city"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:430": {
    "name": "MIAMI-DADE County Precinct 430"
@@ -276,26 +276,26 @@
   "ocd-division/country:us/state:fl/county:orange/precinct:106": {
    "name": "ORANGE County Precinct 106"
   },
-  "ocd-division/country:us/state:fl/county:orange/precinct:107": {
-   "name": "ORANGE County Precinct 107"
-  },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:6058": {
    "name": "PALM BEACH County Precinct 6058"
   },
-  "ocd-division/country:us/state:fl/county:collier/precinct:251": {
-   "name": "COLLIER County Precinct 251"
+  "ocd-division/country:us/state:fl/county:orange/precinct:107": {
+   "name": "ORANGE County Precinct 107"
   },
   "ocd-division/country:us/state:fl/county:orange/precinct:108": {
    "name": "ORANGE County Precinct 108"
   },
+  "ocd-division/country:us/state:fl/county:collier/precinct:251": {
+   "name": "COLLIER County Precinct 251"
+  },
   "ocd-division/country:us/state:fl/county:orange/precinct:109": {
    "name": "ORANGE County Precinct 109"
   },
-  "ocd-division/country:us/state:fl/county:bay/school_district:bay": {
-   "name": "bay"
-  },
   "ocd-division/country:us/state:fl/county:orange/precinct:102": {
    "name": "ORANGE County Precinct 102"
+  },
+  "ocd-division/country:us/state:fl/county:bay/school_district:bay": {
+   "name": "bay"
   },
   "ocd-division/country:us/state:fl/county:orange/precinct:103": {
    "name": "ORANGE County Precinct 103"
@@ -574,14 +574,14 @@
     225
    ]
   },
-  "ocd-division/country:us/state:fl/county:leon/precinct:5115": {
-   "name": "LEON County Precinct 5115"
-  },
   "ocd-division/country:us/state:fl/county:duval/council_district:14": {
    "name": "Duval County FL County-City Council District 14",
    "officeIndices": [
     226
    ]
+  },
+  "ocd-division/country:us/state:fl/county:leon/precinct:5115": {
+   "name": "LEON County Precinct 5115"
   },
   "ocd-division/country:us/state:fl/county:leon/precinct:5110": {
    "name": "LEON County Precinct 5110"
@@ -640,14 +640,17 @@
   "ocd-division/country:us/state:fl/county:escambia/precinct:108": {
    "name": "ESCAMBIA County Precinct 108"
   },
+  "ocd-division/country:us/state:fl/county:escambia/precinct:102": {
+   "name": "ESCAMBIA County Precinct 102"
+  },
   "ocd-division/country:us/state:fl/county:wakulla/council_district:3": {
    "name": "Commission District 3",
    "officeIndices": [
     229
    ]
   },
-  "ocd-division/country:us/state:fl/county:escambia/precinct:102": {
-   "name": "ESCAMBIA County Precinct 102"
+  "ocd-division/country:us/state:fl/county:escambia/precinct:101": {
+   "name": "ESCAMBIA County Precinct 101"
   },
   "ocd-division/country:us/state:fl/county:wakulla/council_district:2": {
    "name": "Commission District 2",
@@ -655,32 +658,29 @@
     230
    ]
   },
-  "ocd-division/country:us/state:fl/county:escambia/precinct:101": {
-   "name": "ESCAMBIA County Precinct 101"
-  },
-  "ocd-division/country:us/state:fl/county:wakulla/council_district:1": {
-   "name": "Commission District 1",
-   "officeIndices": [
-    231
-   ]
+  "ocd-division/country:us/state:fl/county:escambia/precinct:104": {
+   "name": "ESCAMBIA County Precinct 104"
   },
   "ocd-division/country:us/state:fl/county:lafayette/council_district:5": {
    "name": "Commission District 5",
    "officeIndices": [
+    231
+   ]
+  },
+  "ocd-division/country:us/state:fl/county:wakulla/council_district:1": {
+   "name": "Commission District 1",
+   "officeIndices": [
     232
    ]
   },
-  "ocd-division/country:us/state:fl/county:escambia/precinct:104": {
-   "name": "ESCAMBIA County Precinct 104"
+  "ocd-division/country:us/state:fl/county:escambia/precinct:103": {
+   "name": "ESCAMBIA County Precinct 103"
   },
   "ocd-division/country:us/state:fl/county:lafayette/council_district:4": {
    "name": "Commission District 4",
    "officeIndices": [
     233
    ]
-  },
-  "ocd-division/country:us/state:fl/county:escambia/precinct:103": {
-   "name": "ESCAMBIA County Precinct 103"
   },
   "ocd-division/country:us/state:fl/county:lafayette/council_district:3": {
    "name": "Commission District 3",
@@ -709,11 +709,11 @@
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:6030": {
    "name": "PALM BEACH County Precinct 6030"
   },
-  "ocd-division/country:us/state:fl/place:weston": {
-   "name": "Weston city"
-  },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:6032": {
    "name": "PALM BEACH County Precinct 6032"
+  },
+  "ocd-division/country:us/state:fl/place:weston": {
+   "name": "Weston city"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:6034": {
    "name": "PALM BEACH County Precinct 6034"
@@ -727,11 +727,11 @@
   "ocd-division/country:us/state:fl/county:escambia/precinct:111": {
    "name": "ESCAMBIA County Precinct 111"
   },
-  "ocd-division/country:us/state:fl/county:escambia/precinct:110": {
-   "name": "ESCAMBIA County Precinct 110"
-  },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:6026": {
    "name": "PALM BEACH County Precinct 6026"
+  },
+  "ocd-division/country:us/state:fl/county:escambia/precinct:110": {
+   "name": "ESCAMBIA County Precinct 110"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:6028": {
    "name": "PALM BEACH County Precinct 6028"
@@ -742,11 +742,11 @@
   "ocd-division/country:us/state:fl/county:escambia/precinct:112": {
    "name": "ESCAMBIA County Precinct 112"
   },
-  "ocd-division/country:us/state:fl/county:clay/precinct:410": {
-   "name": "CLAY County Precinct 410"
-  },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:6020": {
    "name": "PALM BEACH County Precinct 6020"
+  },
+  "ocd-division/country:us/state:fl/county:clay/precinct:410": {
+   "name": "CLAY County Precinct 410"
   },
   "ocd-division/country:us/state:fl/county:clay/precinct:412": {
    "name": "CLAY County Precinct 412"
@@ -775,11 +775,11 @@
   "ocd-division/country:us/state:fl/county:nassau/precinct:501": {
    "name": "NASSAU County Precinct 501"
   },
-  "ocd-division/country:us/state:fl/place:lake_clarke_shores": {
-   "name": "Lake Clarke Shores town"
-  },
   "ocd-division/country:us/state:fl/county:nassau/precinct:502": {
    "name": "NASSAU County Precinct 502"
+  },
+  "ocd-division/country:us/state:fl/place:lake_clarke_shores": {
+   "name": "Lake Clarke Shores town"
   },
   "ocd-division/country:us/state:fl/county:nassau/precinct:503": {
    "name": "NASSAU County Precinct 503"
@@ -787,11 +787,11 @@
   "ocd-division/country:us/state:fl/county:nassau/precinct:504": {
    "name": "NASSAU County Precinct 504"
   },
-  "ocd-division/country:us/state:fl/place:jacob_city": {
-   "name": "Jacob City city"
-  },
   "ocd-division/country:us/state:fl/county:duval/precinct:1210": {
    "name": "DUVAL County Precinct 1210"
+  },
+  "ocd-division/country:us/state:fl/place:jacob_city": {
+   "name": "Jacob City city"
   },
   "ocd-division/country:us/state:fl/county:duval/precinct:1212": {
    "name": "DUVAL County Precinct 1212"
@@ -1275,9 +1275,6 @@
   "ocd-division/country:us/state:fl/county:brevard/precinct:403": {
    "name": "BREVARD County Precinct 403"
   },
-  "ocd-division/country:us/state:fl/place:cross_city": {
-   "name": "Cross City town"
-  },
   "ocd-division/country:us/state:fl/county:highlands": {
    "name": "Highlands County",
    "officeIndices": [
@@ -1287,6 +1284,9 @@
     281,
     282
    ]
+  },
+  "ocd-division/country:us/state:fl/place:cross_city": {
+   "name": "Cross City town"
   },
   "ocd-division/country:us/state:fl/county:brevard/precinct:404": {
    "name": "BREVARD County Precinct 404"
@@ -1402,11 +1402,11 @@
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:334": {
    "name": "MIAMI-DADE County Precinct 334"
   },
-  "ocd-division/country:us/state:fl/place:riviera_beach": {
-   "name": "Riviera Beach city"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:333": {
    "name": "MIAMI-DADE County Precinct 333"
+  },
+  "ocd-division/country:us/state:fl/place:riviera_beach": {
+   "name": "Riviera Beach city"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:332": {
    "name": "MIAMI-DADE County Precinct 332"
@@ -1504,11 +1504,11 @@
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:353": {
    "name": "MIAMI-DADE County Precinct 353"
   },
-  "ocd-division/country:us/state:fl/place:bushnell": {
-   "name": "Bushnell city"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:352": {
    "name": "MIAMI-DADE County Precinct 352"
+  },
+  "ocd-division/country:us/state:fl/place:bushnell": {
+   "name": "Bushnell city"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:351": {
    "name": "MIAMI-DADE County Precinct 351"
@@ -1534,35 +1534,35 @@
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:309": {
    "name": "MIAMI-DADE County Precinct 309"
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:809": {
-   "name": "DUVAL County Precinct 809"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:308": {
    "name": "MIAMI-DADE County Precinct 308"
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:806": {
-   "name": "DUVAL County Precinct 806"
+  "ocd-division/country:us/state:fl/county:duval/precinct:809": {
+   "name": "DUVAL County Precinct 809"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:305": {
    "name": "MIAMI-DADE County Precinct 305"
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:805": {
-   "name": "DUVAL County Precinct 805"
+  "ocd-division/country:us/state:fl/county:duval/precinct:806": {
+   "name": "DUVAL County Precinct 806"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:304": {
    "name": "MIAMI-DADE County Precinct 304"
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:808": {
-   "name": "DUVAL County Precinct 808"
+  "ocd-division/country:us/state:fl/county:duval/precinct:805": {
+   "name": "DUVAL County Precinct 805"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:307": {
    "name": "MIAMI-DADE County Precinct 307"
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:807": {
-   "name": "DUVAL County Precinct 807"
+  "ocd-division/country:us/state:fl/county:duval/precinct:808": {
+   "name": "DUVAL County Precinct 808"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:306": {
    "name": "MIAMI-DADE County Precinct 306"
+  },
+  "ocd-division/country:us/state:fl/county:duval/precinct:807": {
+   "name": "DUVAL County Precinct 807"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:x030": {
    "name": "BROWARD County Precinct X030"
@@ -1588,68 +1588,68 @@
   "ocd-division/country:us/state:fl/county:broward/precinct:x035": {
    "name": "BROWARD County Precinct X035"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:u009": {
-   "name": "BROWARD County Precinct U009"
-  },
   "ocd-division/country:us/state:fl/county:broward/precinct:x036": {
    "name": "BROWARD County Precinct X036"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:u008": {
-   "name": "BROWARD County Precinct U008"
+  "ocd-division/country:us/state:fl/county:broward/precinct:u009": {
+   "name": "BROWARD County Precinct U009"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:x037": {
    "name": "BROWARD County Precinct X037"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:u007": {
-   "name": "BROWARD County Precinct U007"
+  "ocd-division/country:us/state:fl/county:broward/precinct:u008": {
+   "name": "BROWARD County Precinct U008"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:x038": {
    "name": "BROWARD County Precinct X038"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:u006": {
-   "name": "BROWARD County Precinct U006"
+  "ocd-division/country:us/state:fl/county:broward/precinct:u007": {
+   "name": "BROWARD County Precinct U007"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:x039": {
    "name": "BROWARD County Precinct X039"
   },
+  "ocd-division/country:us/state:fl/county:broward/precinct:u006": {
+   "name": "BROWARD County Precinct U006"
+  },
   "ocd-division/country:us/state:fl/county:broward/precinct:u005": {
    "name": "BROWARD County Precinct U005"
-  },
-  "ocd-division/country:us/state:fl/county:broward/precinct:u004": {
-   "name": "BROWARD County Precinct U004"
-  },
-  "ocd-division/country:us/state:fl/county:duval/precinct:801": {
-   "name": "DUVAL County Precinct 801"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:311": {
    "name": "MIAMI-DADE County Precinct 311"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:u003": {
-   "name": "BROWARD County Precinct U003"
+  "ocd-division/country:us/state:fl/county:duval/precinct:801": {
+   "name": "DUVAL County Precinct 801"
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:802": {
-   "name": "DUVAL County Precinct 802"
+  "ocd-division/country:us/state:fl/county:broward/precinct:u004": {
+   "name": "BROWARD County Precinct U004"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:312": {
    "name": "MIAMI-DADE County Precinct 312"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:u002": {
-   "name": "BROWARD County Precinct U002"
+  "ocd-division/country:us/state:fl/county:duval/precinct:802": {
+   "name": "DUVAL County Precinct 802"
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:803": {
-   "name": "DUVAL County Precinct 803"
+  "ocd-division/country:us/state:fl/county:broward/precinct:u003": {
+   "name": "BROWARD County Precinct U003"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:313": {
    "name": "MIAMI-DADE County Precinct 313"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:u001": {
-   "name": "BROWARD County Precinct U001"
+  "ocd-division/country:us/state:fl/county:duval/precinct:803": {
+   "name": "DUVAL County Precinct 803"
+  },
+  "ocd-division/country:us/state:fl/county:broward/precinct:u002": {
+   "name": "BROWARD County Precinct U002"
+  },
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:314": {
+   "name": "MIAMI-DADE County Precinct 314"
   },
   "ocd-division/country:us/state:fl/county:duval/precinct:804": {
    "name": "DUVAL County Precinct 804"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:314": {
-   "name": "MIAMI-DADE County Precinct 314"
+  "ocd-division/country:us/state:fl/county:broward/precinct:u001": {
+   "name": "BROWARD County Precinct U001"
   },
   "ocd-division/country:us/state:fl/county:sumter/council_district:1": {
    "name": "Commission District 1",
@@ -1723,32 +1723,32 @@
   "ocd-division/country:us/state:fl/county:broward/precinct:x049": {
    "name": "BROWARD County Precinct X049"
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:814": {
-   "name": "DUVAL County Precinct 814"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:302": {
    "name": "MIAMI-DADE County Precinct 302"
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:815": {
-   "name": "DUVAL County Precinct 815"
+  "ocd-division/country:us/state:fl/county:duval/precinct:814": {
+   "name": "DUVAL County Precinct 814"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:303": {
    "name": "MIAMI-DADE County Precinct 303"
   },
+  "ocd-division/country:us/state:fl/county:duval/precinct:815": {
+   "name": "DUVAL County Precinct 815"
+  },
   "ocd-division/country:us/state:fl/county:duval/precinct:812": {
    "name": "DUVAL County Precinct 812"
-  },
-  "ocd-division/country:us/state:fl/county:duval/precinct:813": {
-   "name": "DUVAL County Precinct 813"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:301": {
    "name": "MIAMI-DADE County Precinct 301"
   },
-  "ocd-division/country:us/state:fl/county:collier/precinct:139": {
-   "name": "COLLIER County Precinct 139"
+  "ocd-division/country:us/state:fl/county:duval/precinct:813": {
+   "name": "DUVAL County Precinct 813"
   },
   "ocd-division/country:us/state:fl/county:duval/precinct:810": {
    "name": "DUVAL County Precinct 810"
+  },
+  "ocd-division/country:us/state:fl/county:collier/precinct:139": {
+   "name": "COLLIER County Precinct 139"
   },
   "ocd-division/country:us/state:fl/county:duval/precinct:811": {
    "name": "DUVAL County Precinct 811"
@@ -1777,11 +1777,11 @@
   "ocd-division/country:us/state:fl/county:collier/precinct:103": {
    "name": "COLLIER County Precinct 103"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:714": {
-   "name": "VOLUSIA County Precinct 714"
-  },
   "ocd-division/country:us/state:fl/county:collier/precinct:102": {
    "name": "COLLIER County Precinct 102"
+  },
+  "ocd-division/country:us/state:fl/county:volusia/precinct:714": {
+   "name": "VOLUSIA County Precinct 714"
   },
   "ocd-division/country:us/state:fl/county:volusia/precinct:719": {
    "name": "VOLUSIA County Precinct 719"
@@ -1801,23 +1801,23 @@
   "ocd-division/country:us/state:fl/circuit_court:2": {
    "name": "FL State Circuit Court - 2nd District"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:703": {
-   "name": "VOLUSIA County Precinct 703"
-  },
   "ocd-division/country:us/state:fl/circuit_court:1": {
    "name": "FL State Circuit Court - 1st District"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:706": {
-   "name": "VOLUSIA County Precinct 706"
+  "ocd-division/country:us/state:fl/county:volusia/precinct:703": {
+   "name": "VOLUSIA County Precinct 703"
   },
   "ocd-division/country:us/state:fl/circuit_court:4": {
    "name": "FL State Circuit Court - 4th District"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:705": {
-   "name": "VOLUSIA County Precinct 705"
+  "ocd-division/country:us/state:fl/county:volusia/precinct:706": {
+   "name": "VOLUSIA County Precinct 706"
   },
   "ocd-division/country:us/state:fl/circuit_court:3": {
    "name": "FL State Circuit Court - 3rd District"
+  },
+  "ocd-division/country:us/state:fl/county:volusia/precinct:705": {
+   "name": "VOLUSIA County Precinct 705"
   },
   "ocd-division/country:us/state:fl/circuit_court:6": {
    "name": "FL State Circuit Court - 6th District"
@@ -1828,11 +1828,11 @@
   "ocd-division/country:us/state:fl/circuit_court:8": {
    "name": "FL State Circuit Court - 8th District"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:709": {
-   "name": "VOLUSIA County Precinct 709"
-  },
   "ocd-division/country:us/state:fl/circuit_court:7": {
    "name": "FL State Circuit Court - 7th District"
+  },
+  "ocd-division/country:us/state:fl/county:volusia/precinct:709": {
+   "name": "VOLUSIA County Precinct 709"
   },
   "ocd-division/country:us/state:fl/circuit_court:9": {
    "name": "FL State Circuit Court - 9th District"
@@ -1873,17 +1873,17 @@
   "ocd-division/country:us/state:fl/county:brevard/precinct:214": {
    "name": "BREVARD County Precinct 214"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:732": {
-   "name": "VOLUSIA County Precinct 732"
-  },
   "ocd-division/country:us/state:fl/county:brevard/precinct:211": {
    "name": "BREVARD County Precinct 211"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:733": {
-   "name": "VOLUSIA County Precinct 733"
+  "ocd-division/country:us/state:fl/county:volusia/precinct:732": {
+   "name": "VOLUSIA County Precinct 732"
   },
   "ocd-division/country:us/state:fl/county:brevard/precinct:210": {
    "name": "BREVARD County Precinct 210"
+  },
+  "ocd-division/country:us/state:fl/county:volusia/precinct:733": {
+   "name": "VOLUSIA County Precinct 733"
   },
   "ocd-division/country:us/state:fl/place:graceville": {
    "name": "Graceville city"
@@ -1903,29 +1903,29 @@
   "ocd-division/country:us/state:fl/county:miami-dade/school_board_district:5": {
    "name": "Miami-Dade FL School Board district 5"
   },
-  "ocd-division/country:us/state:fl/place:vernon": {
-   "name": "Vernon city"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/school_board_district:6": {
    "name": "Miami-Dade FL School Board district 6"
+  },
+  "ocd-division/country:us/state:fl/place:vernon": {
+   "name": "Vernon city"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/school_board_district:7": {
    "name": "Miami-Dade FL School Board district 7"
   },
-  "ocd-division/country:us/state:fl/county:brevard/precinct:209": {
-   "name": "BREVARD County Precinct 209"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/school_board_district:8": {
    "name": "Miami-Dade FL School Board district 8"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:729": {
-   "name": "VOLUSIA County Precinct 729"
+  "ocd-division/country:us/state:fl/county:brevard/precinct:209": {
+   "name": "BREVARD County Precinct 209"
+  },
+  "ocd-division/country:us/state:fl/county:miami-dade/school_board_district:9": {
+   "name": "Miami-Dade FL School Board district 9"
   },
   "ocd-division/country:us/state:fl/county:brevard/precinct:208": {
    "name": "BREVARD County Precinct 208"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/school_board_district:9": {
-   "name": "Miami-Dade FL School Board district 9"
+  "ocd-division/country:us/state:fl/county:volusia/precinct:729": {
+   "name": "VOLUSIA County Precinct 729"
   },
   "ocd-division/country:us/state:fl/county:brevard/precinct:207": {
    "name": "BREVARD County Precinct 207"
@@ -1936,26 +1936,26 @@
   "ocd-division/country:us/state:fl/county:brevard/precinct:205": {
    "name": "BREVARD County Precinct 205"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:725": {
-   "name": "VOLUSIA County Precinct 725"
-  },
   "ocd-division/country:us/state:fl/county:brevard/precinct:204": {
    "name": "BREVARD County Precinct 204"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:726": {
-   "name": "VOLUSIA County Precinct 726"
+  "ocd-division/country:us/state:fl/county:volusia/precinct:725": {
+   "name": "VOLUSIA County Precinct 725"
   },
   "ocd-division/country:us/state:fl/county:brevard/precinct:203": {
    "name": "BREVARD County Precinct 203"
   },
+  "ocd-division/country:us/state:fl/county:volusia/precinct:726": {
+   "name": "VOLUSIA County Precinct 726"
+  },
   "ocd-division/country:us/state:fl/county:brevard/precinct:202": {
    "name": "BREVARD County Precinct 202"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:728": {
-   "name": "VOLUSIA County Precinct 728"
-  },
   "ocd-division/country:us/state:fl/county:brevard/precinct:201": {
    "name": "BREVARD County Precinct 201"
+  },
+  "ocd-division/country:us/state:fl/county:volusia/precinct:728": {
+   "name": "VOLUSIA County Precinct 728"
   },
   "ocd-division/country:us/state:fl/county:brevard/precinct:200": {
    "name": "BREVARD County Precinct 200"
@@ -1963,17 +1963,17 @@
   "ocd-division/country:us/state:fl/county:volusia/precinct:722": {
    "name": "VOLUSIA County Precinct 722"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:720": {
-   "name": "VOLUSIA County Precinct 720"
-  },
   "ocd-division/country:us/state:fl/county:broward/precinct:x009": {
    "name": "BROWARD County Precinct X009"
   },
-  "ocd-division/country:us/state:fl/place:esto": {
-   "name": "Esto town"
+  "ocd-division/country:us/state:fl/county:volusia/precinct:720": {
+   "name": "VOLUSIA County Precinct 720"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:x008": {
    "name": "BROWARD County Precinct X008"
+  },
+  "ocd-division/country:us/state:fl/place:esto": {
+   "name": "Esto town"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:x003": {
    "name": "BROWARD County Precinct X003"
@@ -2002,11 +2002,11 @@
   "ocd-division/country:us/state:fl/county:escambia/precinct:6": {
    "name": "ESCAMBIA County Precinct 6"
   },
-  "ocd-division/country:us/state:fl/county:escambia/precinct:7": {
-   "name": "ESCAMBIA County Precinct 7"
-  },
   "ocd-division/country:us/state:fl/county:broward/precinct:x010": {
    "name": "BROWARD County Precinct X010"
+  },
+  "ocd-division/country:us/state:fl/county:escambia/precinct:7": {
+   "name": "ESCAMBIA County Precinct 7"
   },
   "ocd-division/country:us/state:fl/county:brevard/precinct:231": {
    "name": "BREVARD County Precinct 231"
@@ -2035,11 +2035,11 @@
   "ocd-division/country:us/state:fl/county:broward/precinct:x019": {
    "name": "BROWARD County Precinct X019"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:x016": {
-   "name": "BROWARD County Precinct X016"
-  },
   "ocd-division/country:us/state:fl/county:escambia/precinct:1": {
    "name": "ESCAMBIA County Precinct 1"
+  },
+  "ocd-division/country:us/state:fl/county:broward/precinct:x016": {
+   "name": "BROWARD County Precinct X016"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:x015": {
    "name": "BROWARD County Precinct X015"
@@ -2050,20 +2050,20 @@
   "ocd-division/country:us/state:fl/county:broward/precinct:x017": {
    "name": "BROWARD County Precinct X017"
   },
-  "ocd-division/country:us/state:fl/county:escambia/precinct:5": {
-   "name": "ESCAMBIA County Precinct 5"
-  },
   "ocd-division/country:us/state:fl/county:broward/precinct:x012": {
    "name": "BROWARD County Precinct X012"
+  },
+  "ocd-division/country:us/state:fl/county:escambia/precinct:5": {
+   "name": "ESCAMBIA County Precinct 5"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:x011": {
    "name": "BROWARD County Precinct X011"
   },
-  "ocd-division/country:us/state:fl/county:escambia/precinct:3": {
-   "name": "ESCAMBIA County Precinct 3"
-  },
   "ocd-division/country:us/state:fl/county:broward/precinct:x014": {
    "name": "BROWARD County Precinct X014"
+  },
+  "ocd-division/country:us/state:fl/county:escambia/precinct:3": {
+   "name": "ESCAMBIA County Precinct 3"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:x013": {
    "name": "BROWARD County Precinct X013"
@@ -2071,17 +2071,17 @@
   "ocd-division/country:us/state:fl/county:broward/precinct:x020": {
    "name": "BROWARD County Precinct X020"
   },
-  "ocd-division/country:us/state:fl/county:brevard/precinct:229": {
-   "name": "BREVARD County Precinct 229"
-  },
   "ocd-division/country:us/state:fl/county:broward/precinct:x021": {
    "name": "BROWARD County Precinct X021"
   },
-  "ocd-division/country:us/state:fl/place:hawthorne": {
-   "name": "Hawthorne city"
+  "ocd-division/country:us/state:fl/county:brevard/precinct:229": {
+   "name": "BREVARD County Precinct 229"
   },
   "ocd-division/country:us/state:fl/county:brevard/precinct:228": {
    "name": "BREVARD County Precinct 228"
+  },
+  "ocd-division/country:us/state:fl/place:hawthorne": {
+   "name": "Hawthorne city"
   },
   "ocd-division/country:us/state:fl/county:brevard/precinct:227": {
    "name": "BREVARD County Precinct 227"
@@ -2146,11 +2146,11 @@
   "ocd-division/country:us/state:fl/county:leon/precinct:5225": {
    "name": "LEON County Precinct 5225"
   },
-  "ocd-division/country:us/state:fl/county:leon/precinct:5227": {
-   "name": "LEON County Precinct 5227"
-  },
   "ocd-division/country:us/state:fl/county:baker/precinct:3a": {
    "name": "BAKER County Precinct 3A"
+  },
+  "ocd-division/country:us/state:fl/county:leon/precinct:5227": {
+   "name": "LEON County Precinct 5227"
   },
   "ocd-division/country:us/state:fl/county:leon/precinct:5220": {
    "name": "LEON County Precinct 5220"
@@ -2173,11 +2173,11 @@
   "ocd-division/country:us/state:fl/county:manatee/precinct:207": {
    "name": "MANATEE County Precinct 207"
   },
-  "ocd-division/country:us/state:fl/place:gulf_breeze": {
-   "name": "Gulf Breeze city"
-  },
   "ocd-division/country:us/state:fl/county:manatee/precinct:205": {
    "name": "MANATEE County Precinct 205"
+  },
+  "ocd-division/country:us/state:fl/place:gulf_breeze": {
+   "name": "Gulf Breeze city"
   },
   "ocd-division/country:us/state:fl/county:baker/precinct:2a": {
    "name": "BAKER County Precinct 2A"
@@ -2206,11 +2206,11 @@
   "ocd-division/country:us/state:fl/county:manatee/precinct:223": {
    "name": "MANATEE County Precinct 223"
   },
-  "ocd-division/country:us/state:fl/county:manatee/precinct:221": {
-   "name": "MANATEE County Precinct 221"
-  },
   "ocd-division/country:us/state:fl/county:hillsborough/precinct:117": {
    "name": "HILLSBOROUGH County Precinct 117"
+  },
+  "ocd-division/country:us/state:fl/county:manatee/precinct:221": {
+   "name": "MANATEE County Precinct 221"
   },
   "ocd-division/country:us/state:fl/county:hillsborough/precinct:119": {
    "name": "HILLSBOROUGH County Precinct 119"
@@ -2230,20 +2230,20 @@
   "ocd-division/country:us/state:fl/county:baker/precinct:4c": {
    "name": "BAKER County Precinct 4C"
   },
-  "ocd-division/country:us/state:fl/county:hillsborough/precinct:105": {
-   "name": "HILLSBOROUGH County Precinct 105"
-  },
   "ocd-division/country:us/state:fl/county:baker/precinct:4b": {
    "name": "BAKER County Precinct 4B"
   },
-  "ocd-division/country:us/state:fl/county:leon/precinct:5258": {
-   "name": "LEON County Precinct 5258"
+  "ocd-division/country:us/state:fl/county:hillsborough/precinct:105": {
+   "name": "HILLSBOROUGH County Precinct 105"
+  },
+  "ocd-division/country:us/state:fl/county:baker/precinct:4d": {
+   "name": "BAKER County Precinct 4D"
   },
   "ocd-division/country:us/state:fl/county:hillsborough/precinct:103": {
    "name": "HILLSBOROUGH County Precinct 103"
   },
-  "ocd-division/country:us/state:fl/county:baker/precinct:4d": {
-   "name": "BAKER County Precinct 4D"
+  "ocd-division/country:us/state:fl/county:leon/precinct:5258": {
+   "name": "LEON County Precinct 5258"
   },
   "ocd-division/country:us/state:fl/county:manatee/precinct:219": {
    "name": "MANATEE County Precinct 219"
@@ -2269,26 +2269,26 @@
   "ocd-division/country:us/state:fl/county:hillsborough/precinct:108": {
    "name": "HILLSBOROUGH County Precinct 108"
   },
-  "ocd-division/country:us/state:fl/county:hillsborough/precinct:107": {
-   "name": "HILLSBOROUGH County Precinct 107"
-  },
   "ocd-division/country:us/state:fl/county:collier/precinct:190": {
    "name": "COLLIER County Precinct 190"
+  },
+  "ocd-division/country:us/state:fl/county:hillsborough/precinct:107": {
+   "name": "HILLSBOROUGH County Precinct 107"
   },
   "ocd-division/country:us/state:fl/county:leon/precinct:5263": {
    "name": "LEON County Precinct 5263"
   },
-  "ocd-division/country:us/state:fl/county:leon/precinct:5261": {
-   "name": "LEON County Precinct 5261"
-  },
   "ocd-division/country:us/state:fl/county:collier/precinct:194": {
    "name": "COLLIER County Precinct 194"
   },
-  "ocd-division/country:us/state:fl/county:leon/precinct:5260": {
-   "name": "LEON County Precinct 5260"
+  "ocd-division/country:us/state:fl/county:leon/precinct:5261": {
+   "name": "LEON County Precinct 5261"
   },
   "ocd-division/country:us/state:fl/county:collier/precinct:193": {
    "name": "COLLIER County Precinct 193"
+  },
+  "ocd-division/country:us/state:fl/county:leon/precinct:5260": {
+   "name": "LEON County Precinct 5260"
   },
   "ocd-division/country:us/state:fl/county:madison/precinct:6": {
    "name": "MADISON County Precinct 6"
@@ -2327,11 +2327,11 @@
   "ocd-division/country:us/state:fl/place:largo": {
    "name": "Largo city"
   },
-  "ocd-division/country:us/state:fl/county:leon/precinct:5203": {
-   "name": "LEON County Precinct 5203"
-  },
   "ocd-division/country:us/state:fl/county:baker/precinct:1a": {
    "name": "BAKER County Precinct 1A"
+  },
+  "ocd-division/country:us/state:fl/county:leon/precinct:5203": {
+   "name": "LEON County Precinct 5203"
   },
   "ocd-division/country:us/state:fl/county:leon/precinct:5205": {
    "name": "LEON County Precinct 5205"
@@ -2342,20 +2342,20 @@
   "ocd-division/country:us/state:fl/county:collier/precinct:141": {
    "name": "COLLIER County Precinct 141"
   },
-  "ocd-division/country:us/state:fl/county:madison/precinct:5": {
-   "name": "MADISON County Precinct 5"
-  },
   "ocd-division/country:us/state:fl/county:collier/precinct:142": {
    "name": "COLLIER County Precinct 142"
+  },
+  "ocd-division/country:us/state:fl/county:madison/precinct:5": {
+   "name": "MADISON County Precinct 5"
   },
   "ocd-division/country:us/state:fl/county:madison/precinct:4": {
    "name": "MADISON County Precinct 4"
   },
-  "ocd-division/country:us/state:fl/county:madison/precinct:3": {
-   "name": "MADISON County Precinct 3"
-  },
   "ocd-division/country:us/state:fl/county:collier/precinct:144": {
    "name": "COLLIER County Precinct 144"
+  },
+  "ocd-division/country:us/state:fl/county:madison/precinct:3": {
+   "name": "MADISON County Precinct 3"
   },
   "ocd-division/country:us/state:fl/county:madison/precinct:2": {
    "name": "MADISON County Precinct 2"
@@ -2414,14 +2414,17 @@
     298
    ]
   },
+  "ocd-division/country:us/state:fl/county:nassau/precinct:402": {
+   "name": "NASSAU County Precinct 402"
+  },
   "ocd-division/country:us/state:fl/county:gilchrist/council_district:2": {
    "name": "Commission District 2",
    "officeIndices": [
     299
    ]
   },
-  "ocd-division/country:us/state:fl/county:nassau/precinct:402": {
-   "name": "NASSAU County Precinct 402"
+  "ocd-division/country:us/state:fl/county:nassau/precinct:403": {
+   "name": "NASSAU County Precinct 403"
   },
   "ocd-division/country:us/state:fl/county:gilchrist/council_district:3": {
    "name": "Commission District 3",
@@ -2429,23 +2432,20 @@
     300
    ]
   },
-  "ocd-division/country:us/state:fl/county:nassau/precinct:403": {
-   "name": "NASSAU County Precinct 403"
-  },
   "ocd-division/country:us/state:fl/county:gilchrist/council_district:4": {
    "name": "Commission District 4",
    "officeIndices": [
     301
    ]
   },
+  "ocd-division/country:us/state:fl/county:nassau/precinct:401": {
+   "name": "NASSAU County Precinct 401"
+  },
   "ocd-division/country:us/state:fl/county:gilchrist/council_district:5": {
    "name": "Commission District 5",
    "officeIndices": [
     302
    ]
-  },
-  "ocd-division/country:us/state:fl/county:nassau/precinct:401": {
-   "name": "NASSAU County Precinct 401"
   },
   "ocd-division/country:us/state:fl/place:medley": {
    "name": "Medley town"
@@ -2571,20 +2571,20 @@
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:260": {
    "name": "MIAMI-DADE County Precinct 260"
   },
-  "ocd-division/country:us/state:fl/place:lake_alfred": {
-   "name": "Lake Alfred city"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:261": {
    "name": "MIAMI-DADE County Precinct 261"
+  },
+  "ocd-division/country:us/state:fl/place:lake_alfred": {
+   "name": "Lake Alfred city"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:262": {
    "name": "MIAMI-DADE County Precinct 262"
   },
-  "ocd-division/country:us/state:fl/county:escambia/school_district:escambia": {
-   "name": "escambia"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:263": {
    "name": "MIAMI-DADE County Precinct 263"
+  },
+  "ocd-division/country:us/state:fl/county:escambia/school_district:escambia": {
+   "name": "escambia"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:264": {
    "name": "MIAMI-DADE County Precinct 264"
@@ -3639,11 +3639,14 @@
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2158": {
    "name": "PALM BEACH County Precinct 2158"
   },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:2156": {
+   "name": "PALM BEACH County Precinct 2156"
+  },
   "ocd-division/country:us/state:fl/place:deland": {
    "name": "DeLand city"
   },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:2156": {
-   "name": "PALM BEACH County Precinct 2156"
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:2154": {
+   "name": "PALM BEACH County Precinct 2154"
   },
   "ocd-division/country:us/state:fl/county:duval": {
    "name": "Duval County",
@@ -3660,9 +3663,6 @@
     355,
     356
    ]
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:2154": {
-   "name": "PALM BEACH County Precinct 2154"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:659": {
    "name": "MIAMI-DADE County Precinct 659"
@@ -3788,26 +3788,26 @@
   "ocd-division/country:us/state:fl/county:pasco/precinct:5": {
    "name": "PASCO County Precinct 5"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:422": {
-   "name": "VOLUSIA County Precinct 422"
-  },
   "ocd-division/country:us/state:fl/county:pasco/precinct:8": {
    "name": "PASCO County Precinct 8"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:423": {
-   "name": "VOLUSIA County Precinct 423"
+  "ocd-division/country:us/state:fl/county:volusia/precinct:422": {
+   "name": "VOLUSIA County Precinct 422"
   },
   "ocd-division/country:us/state:fl/county:pasco/precinct:7": {
    "name": "PASCO County Precinct 7"
   },
+  "ocd-division/country:us/state:fl/county:volusia/precinct:423": {
+   "name": "VOLUSIA County Precinct 423"
+  },
   "ocd-division/country:us/state:fl/county:volusia/precinct:420": {
    "name": "VOLUSIA County Precinct 420"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:421": {
-   "name": "VOLUSIA County Precinct 421"
-  },
   "ocd-division/country:us/state:fl/county:pasco/precinct:9": {
    "name": "PASCO County Precinct 9"
+  },
+  "ocd-division/country:us/state:fl/county:volusia/precinct:421": {
+   "name": "VOLUSIA County Precinct 421"
   },
   "ocd-division/country:us/state:fl/county:pasco/precinct:2": {
    "name": "PASCO County Precinct 2"
@@ -3938,11 +3938,11 @@
   "ocd-division/country:us/state:fl/county:duval/precinct:1411": {
    "name": "DUVAL County Precinct 1411"
   },
-  "ocd-division/country:us/state:fl/county:marion/precinct:1590": {
-   "name": "MARION County Precinct 1590"
-  },
   "ocd-division/country:us/state:fl/county:duval/precinct:1414": {
    "name": "DUVAL County Precinct 1414"
+  },
+  "ocd-division/country:us/state:fl/county:marion/precinct:1590": {
+   "name": "MARION County Precinct 1590"
   },
   "ocd-division/country:us/state:fl/county:duval/precinct:1413": {
    "name": "DUVAL County Precinct 1413"
@@ -4104,26 +4104,26 @@
     378
    ]
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:n026": {
-   "name": "BROWARD County Precinct N026"
-  },
   "ocd-division/country:us/state:fl/county:columbia/precinct:313": {
    "name": "COLUMBIA County Precinct 313"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:n027": {
-   "name": "BROWARD County Precinct N027"
+  "ocd-division/country:us/state:fl/county:broward/precinct:n026": {
+   "name": "BROWARD County Precinct N026"
   },
   "ocd-division/country:us/state:fl/county:columbia/precinct:314": {
    "name": "COLUMBIA County Precinct 314"
   },
+  "ocd-division/country:us/state:fl/county:broward/precinct:n027": {
+   "name": "BROWARD County Precinct N027"
+  },
   "ocd-division/country:us/state:fl/county:broward/precinct:n024": {
    "name": "BROWARD County Precinct N024"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:n025": {
-   "name": "BROWARD County Precinct N025"
-  },
   "ocd-division/country:us/state:fl/county:columbia/precinct:312": {
    "name": "COLUMBIA County Precinct 312"
+  },
+  "ocd-division/country:us/state:fl/county:broward/precinct:n025": {
+   "name": "BROWARD County Precinct N025"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:n022": {
    "name": "BROWARD County Precinct N022"
@@ -4187,53 +4187,53 @@
   "ocd-division/country:us/state:fl/county:clay/precinct:612": {
    "name": "CLAY County Precinct 612"
   },
-  "ocd-division/country:us/state:fl/place:royal_palm_beach": {
-   "name": "Royal Palm Beach village"
-  },
   "ocd-division/country:us/state:fl/place:fort_walton_beach": {
    "name": "Fort Walton Beach city"
+  },
+  "ocd-division/country:us/state:fl/place:royal_palm_beach": {
+   "name": "Royal Palm Beach village"
   },
   "ocd-division/country:us/state:fl/county:clay/precinct:610": {
    "name": "CLAY County Precinct 610"
   },
-  "ocd-division/country:us/state:fl/place:st_marks": {
-   "name": "St. Marks city"
-  },
   "ocd-division/country:us/state:fl/county:hendry/precinct:10": {
    "name": "HENDRY County Precinct 10"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:n029": {
-   "name": "BROWARD County Precinct N029"
-  },
-  "ocd-division/country:us/state:fl/county:broward/precinct:e034": {
-   "name": "BROWARD County Precinct E034"
+  "ocd-division/country:us/state:fl/place:st_marks": {
+   "name": "St. Marks city"
   },
   "ocd-division/country:us/state:fl/county:clay/precinct:600": {
    "name": "CLAY County Precinct 600"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:n028": {
-   "name": "BROWARD County Precinct N028"
+  "ocd-division/country:us/state:fl/county:broward/precinct:e034": {
+   "name": "BROWARD County Precinct E034"
+  },
+  "ocd-division/country:us/state:fl/county:broward/precinct:n029": {
+   "name": "BROWARD County Precinct N029"
   },
   "ocd-division/country:us/state:fl/county:clay/precinct:601": {
    "name": "CLAY County Precinct 601"
   },
+  "ocd-division/country:us/state:fl/county:broward/precinct:n028": {
+   "name": "BROWARD County Precinct N028"
+  },
   "ocd-division/country:us/state:fl/county:clay/precinct:602": {
    "name": "CLAY County Precinct 602"
-  },
-  "ocd-division/country:us/state:fl/county:broward/precinct:e030": {
-   "name": "BROWARD County Precinct E030"
   },
   "ocd-division/country:us/state:fl/county:clay/precinct:604": {
    "name": "CLAY County Precinct 604"
   },
+  "ocd-division/country:us/state:fl/county:broward/precinct:e030": {
+   "name": "BROWARD County Precinct E030"
+  },
   "ocd-division/country:us/state:fl/county:broward/precinct:e031": {
    "name": "BROWARD County Precinct E031"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:e032": {
-   "name": "BROWARD County Precinct E032"
-  },
   "ocd-division/country:us/state:fl/county:clay/precinct:606": {
    "name": "CLAY County Precinct 606"
+  },
+  "ocd-division/country:us/state:fl/county:broward/precinct:e032": {
+   "name": "BROWARD County Precinct E032"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:e033": {
    "name": "BROWARD County Precinct E033"
@@ -4290,44 +4290,44 @@
   "ocd-division/country:us/state:fl/county:bay/precinct:37": {
    "name": "BAY County Precinct 37"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:30": {
-   "name": "BAY County Precinct 30"
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:565": {
+   "name": "MIAMI-DADE County Precinct 565"
   },
   "ocd-division/country:us/state:fl/county:duval/precinct:912": {
    "name": "DUVAL County Precinct 912"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:565": {
-   "name": "MIAMI-DADE County Precinct 565"
-  },
-  "ocd-division/country:us/state:fl/county:bay/precinct:31": {
-   "name": "BAY County Precinct 31"
-  },
-  "ocd-division/country:us/state:fl/county:duval/precinct:911": {
-   "name": "DUVAL County Precinct 911"
+  "ocd-division/country:us/state:fl/county:bay/precinct:30": {
+   "name": "BAY County Precinct 30"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:564": {
    "name": "MIAMI-DADE County Precinct 564"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:32": {
-   "name": "BAY County Precinct 32"
+  "ocd-division/country:us/state:fl/county:duval/precinct:911": {
+   "name": "DUVAL County Precinct 911"
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:914": {
-   "name": "DUVAL County Precinct 914"
+  "ocd-division/country:us/state:fl/county:bay/precinct:31": {
+   "name": "BAY County Precinct 31"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:567": {
    "name": "MIAMI-DADE County Precinct 567"
   },
-  "ocd-division/country:us/state:fl/place:astatula": {
-   "name": "Astatula town"
+  "ocd-division/country:us/state:fl/county:duval/precinct:914": {
+   "name": "DUVAL County Precinct 914"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:33": {
-   "name": "BAY County Precinct 33"
+  "ocd-division/country:us/state:fl/county:bay/precinct:32": {
+   "name": "BAY County Precinct 32"
+  },
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:566": {
+   "name": "MIAMI-DADE County Precinct 566"
   },
   "ocd-division/country:us/state:fl/county:duval/precinct:913": {
    "name": "DUVAL County Precinct 913"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:566": {
-   "name": "MIAMI-DADE County Precinct 566"
+  "ocd-division/country:us/state:fl/county:bay/precinct:33": {
+   "name": "BAY County Precinct 33"
+  },
+  "ocd-division/country:us/state:fl/place:astatula": {
+   "name": "Astatula town"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:561": {
    "name": "MIAMI-DADE County Precinct 561"
@@ -4335,11 +4335,11 @@
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:560": {
    "name": "MIAMI-DADE County Precinct 560"
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:910": {
-   "name": "DUVAL County Precinct 910"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:563": {
    "name": "MIAMI-DADE County Precinct 563"
+  },
+  "ocd-division/country:us/state:fl/county:duval/precinct:910": {
+   "name": "DUVAL County Precinct 910"
   },
   "ocd-division/country:us/state:fl/county:brevard/council_district:4": {
    "name": "Brevard County FL Commissioner District 4",
@@ -4353,14 +4353,17 @@
     391
    ]
   },
+  "ocd-division/country:us/state:fl/county:duval/precinct:908": {
+   "name": "DUVAL County Precinct 908"
+  },
   "ocd-division/country:us/state:fl/county:brevard/council_district:2": {
    "name": "Brevard County FL Commissioner District 2",
    "officeIndices": [
     392
    ]
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:908": {
-   "name": "DUVAL County Precinct 908"
+  "ocd-division/country:us/state:fl/county:duval/precinct:909": {
+   "name": "DUVAL County Precinct 909"
   },
   "ocd-division/country:us/state:fl/county:marion/precinct:1500": {
    "name": "MARION County Precinct 1500"
@@ -4371,20 +4374,23 @@
     393
    ]
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:909": {
-   "name": "DUVAL County Precinct 909"
-  },
   "ocd-division/country:us/state:fl/county:duval/precinct:906": {
    "name": "DUVAL County Precinct 906"
   },
   "ocd-division/country:us/state:fl/county:duval/precinct:907": {
    "name": "DUVAL County Precinct 907"
   },
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:568": {
+   "name": "MIAMI-DADE County Precinct 568"
+  },
   "ocd-division/country:us/state:fl/county:duval/precinct:904": {
    "name": "DUVAL County Precinct 904"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:568": {
-   "name": "MIAMI-DADE County Precinct 568"
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:569": {
+   "name": "MIAMI-DADE County Precinct 569"
+  },
+  "ocd-division/country:us/state:fl/county:duval/precinct:905": {
+   "name": "DUVAL County Precinct 905"
   },
   "ocd-division/country:us/state:fl/county:brevard/council_district:5": {
    "name": "Brevard County FL Commissioner District 5",
@@ -4392,59 +4398,53 @@
     394
    ]
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:905": {
-   "name": "DUVAL County Precinct 905"
-  },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:569": {
-   "name": "MIAMI-DADE County Precinct 569"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:570": {
    "name": "MIAMI-DADE County Precinct 570"
-  },
-  "ocd-division/country:us/state:fl/county:bay/precinct:43": {
-   "name": "BAY County Precinct 43"
-  },
-  "ocd-division/country:us/state:fl/county:duval/precinct:903": {
-   "name": "DUVAL County Precinct 903"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:578": {
    "name": "MIAMI-DADE County Precinct 578"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:44": {
-   "name": "BAY County Precinct 44"
+  "ocd-division/country:us/state:fl/county:duval/precinct:903": {
+   "name": "DUVAL County Precinct 903"
   },
-  "ocd-division/country:us/state:fl/county:duval/precinct:902": {
-   "name": "DUVAL County Precinct 902"
+  "ocd-division/country:us/state:fl/county:bay/precinct:43": {
+   "name": "BAY County Precinct 43"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:577": {
    "name": "MIAMI-DADE County Precinct 577"
   },
-  "ocd-division/country:us/state:fl/place:winter_garden": {
-   "name": "Winter Garden city"
+  "ocd-division/country:us/state:fl/county:duval/precinct:902": {
+   "name": "DUVAL County Precinct 902"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:41": {
-   "name": "BAY County Precinct 41"
-  },
-  "ocd-division/country:us/state:fl/county:duval/precinct:901": {
-   "name": "DUVAL County Precinct 901"
+  "ocd-division/country:us/state:fl/county:bay/precinct:44": {
+   "name": "BAY County Precinct 44"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:576": {
    "name": "MIAMI-DADE County Precinct 576"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:42": {
-   "name": "BAY County Precinct 42"
+  "ocd-division/country:us/state:fl/county:duval/precinct:901": {
+   "name": "DUVAL County Precinct 901"
+  },
+  "ocd-division/country:us/state:fl/county:bay/precinct:41": {
+   "name": "BAY County Precinct 41"
+  },
+  "ocd-division/country:us/state:fl/place:winter_garden": {
+   "name": "Winter Garden city"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:575": {
    "name": "MIAMI-DADE County Precinct 575"
   },
+  "ocd-division/country:us/state:fl/county:bay/precinct:42": {
+   "name": "BAY County Precinct 42"
+  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:574": {
    "name": "MIAMI-DADE County Precinct 574"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:40": {
-   "name": "BAY County Precinct 40"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:573": {
    "name": "MIAMI-DADE County Precinct 573"
+  },
+  "ocd-division/country:us/state:fl/county:bay/precinct:40": {
+   "name": "BAY County Precinct 40"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:572": {
    "name": "MIAMI-DADE County Precinct 572"
@@ -4467,107 +4467,107 @@
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2078": {
    "name": "PALM BEACH County Precinct 2078"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:12": {
-   "name": "BAY County Precinct 12"
-  },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2080": {
    "name": "PALM BEACH County Precinct 2080"
+  },
+  "ocd-division/country:us/state:fl/county:bay/precinct:12": {
+   "name": "BAY County Precinct 12"
   },
   "ocd-division/country:us/state:fl/county:bay/precinct:13": {
    "name": "BAY County Precinct 13"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:c002": {
-   "name": "BROWARD County Precinct C002"
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:2082": {
+   "name": "PALM BEACH County Precinct 2082"
   },
   "ocd-division/country:us/state:fl/county:bay/precinct:14": {
    "name": "BAY County Precinct 14"
   },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:2082": {
-   "name": "PALM BEACH County Precinct 2082"
-  },
-  "ocd-division/country:us/state:fl/county:broward/precinct:c001": {
-   "name": "BROWARD County Precinct C001"
+  "ocd-division/country:us/state:fl/county:broward/precinct:c002": {
+   "name": "BROWARD County Precinct C002"
   },
   "ocd-division/country:us/state:fl/county:bay/precinct:15": {
    "name": "BAY County Precinct 15"
   },
-  "ocd-division/country:us/state:fl/place:marathon": {
-   "name": "Marathon city"
-  },
-  "ocd-division/country:us/state:fl/county:bay/precinct:16": {
-   "name": "BAY County Precinct 16"
+  "ocd-division/country:us/state:fl/county:broward/precinct:c001": {
+   "name": "BROWARD County Precinct C001"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2084": {
    "name": "PALM BEACH County Precinct 2084"
   },
+  "ocd-division/country:us/state:fl/county:bay/precinct:16": {
+   "name": "BAY County Precinct 16"
+  },
+  "ocd-division/country:us/state:fl/place:marathon": {
+   "name": "Marathon city"
+  },
   "ocd-division/country:us/state:fl/county:bay/precinct:17": {
    "name": "BAY County Precinct 17"
-  },
-  "ocd-division/country:us/state:fl/county:bay/precinct:18": {
-   "name": "BAY County Precinct 18"
-  },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:581": {
-   "name": "MIAMI-DADE County Precinct 581"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2086": {
    "name": "PALM BEACH County Precinct 2086"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:19": {
-   "name": "BAY County Precinct 19"
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:581": {
+   "name": "MIAMI-DADE County Precinct 581"
+  },
+  "ocd-division/country:us/state:fl/county:bay/precinct:18": {
+   "name": "BAY County Precinct 18"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:580": {
    "name": "MIAMI-DADE County Precinct 580"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:c008": {
-   "name": "BROWARD County Precinct C008"
+  "ocd-division/country:us/state:fl/county:bay/precinct:19": {
+   "name": "BAY County Precinct 19"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:583": {
    "name": "MIAMI-DADE County Precinct 583"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:c007": {
-   "name": "BROWARD County Precinct C007"
+  "ocd-division/country:us/state:fl/county:broward/precinct:c008": {
+   "name": "BROWARD County Precinct C008"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:582": {
    "name": "MIAMI-DADE County Precinct 582"
   },
+  "ocd-division/country:us/state:fl/county:broward/precinct:c007": {
+   "name": "BROWARD County Precinct C007"
+  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:585": {
    "name": "MIAMI-DADE County Precinct 585"
-  },
-  "ocd-division/country:us/state:fl/county:broward/precinct:c009": {
-   "name": "BROWARD County Precinct C009"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:584": {
    "name": "MIAMI-DADE County Precinct 584"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:c004": {
-   "name": "BROWARD County Precinct C004"
+  "ocd-division/country:us/state:fl/county:broward/precinct:c009": {
+   "name": "BROWARD County Precinct C009"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:587": {
    "name": "MIAMI-DADE County Precinct 587"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:c003": {
-   "name": "BROWARD County Precinct C003"
+  "ocd-division/country:us/state:fl/county:broward/precinct:c004": {
+   "name": "BROWARD County Precinct C004"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:586": {
    "name": "MIAMI-DADE County Precinct 586"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:c006": {
-   "name": "BROWARD County Precinct C006"
-  },
-  "ocd-division/country:us/state:fl/county:bay/precinct:10": {
-   "name": "BAY County Precinct 10"
+  "ocd-division/country:us/state:fl/county:broward/precinct:c003": {
+   "name": "BROWARD County Precinct C003"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:589": {
    "name": "MIAMI-DADE County Precinct 589"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:c005": {
-   "name": "BROWARD County Precinct C005"
+  "ocd-division/country:us/state:fl/county:bay/precinct:10": {
+   "name": "BAY County Precinct 10"
+  },
+  "ocd-division/country:us/state:fl/county:broward/precinct:c006": {
+   "name": "BROWARD County Precinct C006"
+  },
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:588": {
+   "name": "MIAMI-DADE County Precinct 588"
   },
   "ocd-division/country:us/state:fl/county:bay/precinct:11": {
    "name": "BAY County Precinct 11"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:588": {
-   "name": "MIAMI-DADE County Precinct 588"
+  "ocd-division/country:us/state:fl/county:broward/precinct:c005": {
+   "name": "BROWARD County Precinct C005"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2088": {
    "name": "PALM BEACH County Precinct 2088"
@@ -4575,11 +4575,11 @@
   "ocd-division/country:us/state:fl/county:bay/precinct:25": {
    "name": "BAY County Precinct 25"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:26": {
-   "name": "BAY County Precinct 26"
-  },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2092": {
    "name": "PALM BEACH County Precinct 2092"
+  },
+  "ocd-division/country:us/state:fl/county:bay/precinct:26": {
+   "name": "BAY County Precinct 26"
   },
   "ocd-division/country:us/state:fl/county:bay/precinct:23": {
    "name": "BAY County Precinct 23"
@@ -4587,83 +4587,83 @@
   "ocd-division/country:us/state:fl/county:bay/precinct:24": {
    "name": "BAY County Precinct 24"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:29": {
-   "name": "BAY County Precinct 29"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:592": {
    "name": "MIAMI-DADE County Precinct 592"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:591": {
-   "name": "MIAMI-DADE County Precinct 591"
+  "ocd-division/country:us/state:fl/county:bay/precinct:29": {
+   "name": "BAY County Precinct 29"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2096": {
    "name": "PALM BEACH County Precinct 2096"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:27": {
-   "name": "BAY County Precinct 27"
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:591": {
+   "name": "MIAMI-DADE County Precinct 591"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:590": {
    "name": "MIAMI-DADE County Precinct 590"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:28": {
-   "name": "BAY County Precinct 28"
+  "ocd-division/country:us/state:fl/county:bay/precinct:27": {
+   "name": "BAY County Precinct 27"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2094": {
    "name": "PALM BEACH County Precinct 2094"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:596": {
-   "name": "MIAMI-DADE County Precinct 596"
+  "ocd-division/country:us/state:fl/county:bay/precinct:28": {
+   "name": "BAY County Precinct 28"
   },
   "ocd-division/country:us/state:fl/county:st_johns/precinct:507": {
    "name": "ST JOHNS County Precinct 507"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:595": {
-   "name": "MIAMI-DADE County Precinct 595"
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:596": {
+   "name": "MIAMI-DADE County Precinct 596"
   },
   "ocd-division/country:us/state:fl/county:st_johns/precinct:506": {
    "name": "ST JOHNS County Precinct 506"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:594": {
-   "name": "MIAMI-DADE County Precinct 594"
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:595": {
+   "name": "MIAMI-DADE County Precinct 595"
   },
   "ocd-division/country:us/state:fl/county:st_johns/precinct:509": {
    "name": "ST JOHNS County Precinct 509"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:593": {
-   "name": "MIAMI-DADE County Precinct 593"
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:594": {
+   "name": "MIAMI-DADE County Precinct 594"
   },
   "ocd-division/country:us/state:fl/county:st_johns/precinct:508": {
    "name": "ST JOHNS County Precinct 508"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:21": {
-   "name": "BAY County Precinct 21"
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:593": {
+   "name": "MIAMI-DADE County Precinct 593"
   },
   "ocd-division/country:us/state:fl/county:st_johns/precinct:503": {
    "name": "ST JOHNS County Precinct 503"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:22": {
-   "name": "BAY County Precinct 22"
-  },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:599": {
-   "name": "MIAMI-DADE County Precinct 599"
+  "ocd-division/country:us/state:fl/county:bay/precinct:21": {
+   "name": "BAY County Precinct 21"
   },
   "ocd-division/country:us/state:fl/county:st_johns/precinct:502": {
    "name": "ST JOHNS County Precinct 502"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:598": {
-   "name": "MIAMI-DADE County Precinct 598"
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:599": {
+   "name": "MIAMI-DADE County Precinct 599"
+  },
+  "ocd-division/country:us/state:fl/county:bay/precinct:22": {
+   "name": "BAY County Precinct 22"
   },
   "ocd-division/country:us/state:fl/county:st_johns/precinct:505": {
    "name": "ST JOHNS County Precinct 505"
   },
-  "ocd-division/country:us/state:fl/county:bay/precinct:20": {
-   "name": "BAY County Precinct 20"
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:598": {
+   "name": "MIAMI-DADE County Precinct 598"
+  },
+  "ocd-division/country:us/state:fl/county:st_johns/precinct:504": {
+   "name": "ST JOHNS County Precinct 504"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:597": {
    "name": "MIAMI-DADE County Precinct 597"
   },
-  "ocd-division/country:us/state:fl/county:st_johns/precinct:504": {
-   "name": "ST JOHNS County Precinct 504"
+  "ocd-division/country:us/state:fl/county:bay/precinct:20": {
+   "name": "BAY County Precinct 20"
   },
   "ocd-division/country:us/state:fl/county:marion/precinct:1550": {
    "name": "MARION County Precinct 1550"
@@ -4743,11 +4743,11 @@
   "ocd-division/country:us/state:fl/county:marion/precinct:1530": {
    "name": "MARION County Precinct 1530"
   },
-  "ocd-division/country:us/state:fl/place:port_richey": {
-   "name": "Port Richey city"
-  },
   "ocd-division/country:us/state:fl/place:cocoa_beach": {
    "name": "Cocoa Beach city"
+  },
+  "ocd-division/country:us/state:fl/place:port_richey": {
+   "name": "Port Richey city"
   },
   "ocd-division/country:us/state:fl/place:carrabelle": {
    "name": "Carrabelle city"
@@ -4800,11 +4800,11 @@
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:512": {
    "name": "MIAMI-DADE County Precinct 512"
   },
-  "ocd-division/country:us/state:fl/county:manatee/precinct:409": {
-   "name": "MANATEE County Precinct 409"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:511": {
    "name": "MIAMI-DADE County Precinct 511"
+  },
+  "ocd-division/country:us/state:fl/county:manatee/precinct:409": {
+   "name": "MANATEE County Precinct 409"
   },
   "ocd-division/country:us/state:fl/place:green_cove_springs": {
    "name": "Green Cove Springs city"
@@ -4824,35 +4824,35 @@
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:507": {
    "name": "MIAMI-DADE County Precinct 507"
   },
-  "ocd-division/country:us/state:fl/county:manatee/precinct:401": {
-   "name": "MANATEE County Precinct 401"
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:508": {
+   "name": "MIAMI-DADE County Precinct 508"
   },
   "ocd-division/country:us/state:fl/county:collier/precinct:322": {
    "name": "COLLIER County Precinct 322"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:508": {
-   "name": "MIAMI-DADE County Precinct 508"
-  },
-  "ocd-division/country:us/state:fl/county:collier/precinct:323": {
-   "name": "COLLIER County Precinct 323"
+  "ocd-division/country:us/state:fl/county:manatee/precinct:401": {
+   "name": "MANATEE County Precinct 401"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:509": {
    "name": "MIAMI-DADE County Precinct 509"
   },
-  "ocd-division/country:us/state:fl/county:manatee/precinct:403": {
-   "name": "MANATEE County Precinct 403"
+  "ocd-division/country:us/state:fl/county:collier/precinct:323": {
+   "name": "COLLIER County Precinct 323"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:502": {
    "name": "MIAMI-DADE County Precinct 502"
   },
+  "ocd-division/country:us/state:fl/county:manatee/precinct:403": {
+   "name": "MANATEE County Precinct 403"
+  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:503": {
    "name": "MIAMI-DADE County Precinct 503"
   },
-  "ocd-division/country:us/state:fl/county:manatee/precinct:405": {
-   "name": "MANATEE County Precinct 405"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:504": {
    "name": "MIAMI-DADE County Precinct 504"
+  },
+  "ocd-division/country:us/state:fl/county:manatee/precinct:405": {
+   "name": "MANATEE County Precinct 405"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:505": {
    "name": "MIAMI-DADE County Precinct 505"
@@ -4872,11 +4872,11 @@
   "ocd-division/country:us/state:fl/place:anna_maria": {
    "name": "Anna Maria city"
   },
-  "ocd-division/country:us/state:fl/place:belle_glade": {
-   "name": "Belle Glade city"
-  },
   "ocd-division/country:us/state:fl/county:volusia/precinct:511": {
    "name": "VOLUSIA County Precinct 511"
+  },
+  "ocd-division/country:us/state:fl/place:belle_glade": {
+   "name": "Belle Glade city"
   },
   "ocd-division/country:us/state:fl/county:volusia/precinct:510": {
    "name": "VOLUSIA County Precinct 510"
@@ -4887,11 +4887,11 @@
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2021": {
    "name": "PALM BEACH County Precinct 2021"
   },
-  "ocd-division/country:us/state:fl/place:doral": {
-   "name": "Doral city"
-  },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2022": {
    "name": "PALM BEACH County Precinct 2022"
+  },
+  "ocd-division/country:us/state:fl/place:doral": {
+   "name": "Doral city"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2024": {
    "name": "PALM BEACH County Precinct 2024"
@@ -4911,11 +4911,11 @@
   "ocd-division/country:us/state:fl/county:manatee/precinct:421": {
    "name": "MANATEE County Precinct 421"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:519": {
-   "name": "VOLUSIA County Precinct 519"
-  },
   "ocd-division/country:us/state:fl/county:collier/precinct:303": {
    "name": "COLLIER County Precinct 303"
+  },
+  "ocd-division/country:us/state:fl/county:volusia/precinct:519": {
+   "name": "VOLUSIA County Precinct 519"
   },
   "ocd-division/country:us/state:fl/county:volusia/precinct:516": {
    "name": "VOLUSIA County Precinct 516"
@@ -4938,11 +4938,11 @@
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2020": {
    "name": "PALM BEACH County Precinct 2020"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:509": {
-   "name": "VOLUSIA County Precinct 509"
-  },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2012": {
    "name": "PALM BEACH County Precinct 2012"
+  },
+  "ocd-division/country:us/state:fl/county:volusia/precinct:509": {
+   "name": "VOLUSIA County Precinct 509"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2010": {
    "name": "PALM BEACH County Precinct 2010"
@@ -4956,35 +4956,35 @@
   "ocd-division/country:us/state:fl/county:volusia/precinct:501": {
    "name": "VOLUSIA County Precinct 501"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:502": {
-   "name": "VOLUSIA County Precinct 502"
-  },
   "ocd-division/country:us/state:fl/county:manatee/precinct:415": {
    "name": "MANATEE County Precinct 415"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:503": {
-   "name": "VOLUSIA County Precinct 503"
+  "ocd-division/country:us/state:fl/county:volusia/precinct:502": {
+   "name": "VOLUSIA County Precinct 502"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:2018": {
    "name": "PALM BEACH County Precinct 2018"
   },
-  "ocd-division/country:us/state:fl/place:venice": {
-   "name": "Venice city"
-  },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:504": {
-   "name": "VOLUSIA County Precinct 504"
-  },
-  "ocd-division/country:us/state:fl/county:manatee/precinct:413": {
-   "name": "MANATEE County Precinct 413"
+  "ocd-division/country:us/state:fl/county:volusia/precinct:503": {
+   "name": "VOLUSIA County Precinct 503"
   },
   "ocd-division/country:us/state:fl/county:collier/precinct:310": {
    "name": "COLLIER County Precinct 310"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:506": {
-   "name": "VOLUSIA County Precinct 506"
+  "ocd-division/country:us/state:fl/county:manatee/precinct:413": {
+   "name": "MANATEE County Precinct 413"
+  },
+  "ocd-division/country:us/state:fl/county:volusia/precinct:504": {
+   "name": "VOLUSIA County Precinct 504"
+  },
+  "ocd-division/country:us/state:fl/place:venice": {
+   "name": "Venice city"
   },
   "ocd-division/country:us/state:fl/county:manatee/precinct:411": {
    "name": "MANATEE County Precinct 411"
+  },
+  "ocd-division/country:us/state:fl/county:volusia/precinct:506": {
+   "name": "VOLUSIA County Precinct 506"
   },
   "ocd-division/country:us/state:fl/county:collier/precinct:313": {
    "name": "COLLIER County Precinct 313"
@@ -5052,20 +5052,20 @@
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:545": {
    "name": "MIAMI-DADE County Precinct 545"
   },
-  "ocd-division/country:us/state:fl/place:keystone_heights": {
-   "name": "Keystone Heights city"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:542": {
    "name": "MIAMI-DADE County Precinct 542"
+  },
+  "ocd-division/country:us/state:fl/place:keystone_heights": {
+   "name": "Keystone Heights city"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:543": {
    "name": "MIAMI-DADE County Precinct 543"
   },
-  "ocd-division/country:us/state:fl/place:indian_creek": {
-   "name": "Indian Creek village"
-  },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:540": {
    "name": "MIAMI-DADE County Precinct 540"
+  },
+  "ocd-division/country:us/state:fl/place:indian_creek": {
+   "name": "Indian Creek village"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:541": {
    "name": "MIAMI-DADE County Precinct 541"
@@ -5479,20 +5479,20 @@
     412
    ]
   },
-  "ocd-division/country:us/state:fl/county:taylor/council_district:3": {
-   "name": "Commission District 3",
-   "officeIndices": [
-    411
-   ]
-  },
   "ocd-division/country:us/state:fl/county:marion": {
    "name": "Marion County",
    "officeIndices": [
-    406,
     407,
     408,
     409,
-    410
+    410,
+    411
+   ]
+  },
+  "ocd-division/country:us/state:fl/county:taylor/council_district:3": {
+   "name": "Commission District 3",
+   "officeIndices": [
+    406
    ]
   },
   "ocd-division/country:us/state:fl/place:miami/council_district:3": {
@@ -6399,14 +6399,14 @@
   "ocd-division/country:us/state:fl/place:lake_park": {
    "name": "Lake Park town"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:k001": {
-   "name": "BROWARD County Precinct K001"
-  },
   "ocd-division/country:us/state:fl/county:escambia/council_district:1": {
    "name": "Escambia County FL Board of County Commissioners District 1",
    "officeIndices": [
     430
    ]
+  },
+  "ocd-division/country:us/state:fl/county:broward/precinct:k001": {
+   "name": "BROWARD County Precinct K001"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:1278": {
    "name": "PALM BEACH County Precinct 1278"
@@ -7311,9 +7311,6 @@
   "ocd-division/country:us/state:fl/county:walton/precinct:220": {
    "name": "WALTON County Precinct 220"
   },
-  "ocd-division/country:us/state:fl/county:leon/precinct:3509": {
-   "name": "LEON County Precinct 3509"
-  },
   "ocd-division/country:us/state:fl/county:leon": {
    "name": "Leon County",
    "officeIndices": [
@@ -7325,6 +7322,9 @@
     473,
     474
    ]
+  },
+  "ocd-division/country:us/state:fl/county:leon/precinct:3509": {
+   "name": "LEON County Precinct 3509"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:7182": {
    "name": "PALM BEACH County Precinct 7182"
@@ -8267,9 +8267,6 @@
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:1100": {
    "name": "PALM BEACH County Precinct 1100"
   },
-  "ocd-division/country:us/state:fl/county:miami-dade/precinct:739": {
-   "name": "MIAMI-DADE County Precinct 739"
-  },
   "ocd-division/country:us/state:fl/county:st_lucie": {
    "name": "St. Lucie County",
    "officeIndices": [
@@ -8279,6 +8276,9 @@
     504,
     505
    ]
+  },
+  "ocd-division/country:us/state:fl/county:miami-dade/precinct:739": {
+   "name": "MIAMI-DADE County Precinct 739"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:738": {
    "name": "MIAMI-DADE County Precinct 738"
@@ -8755,14 +8755,14 @@
   "ocd-division/country:us/state:fl/county:charlotte/school_district:charlotte": {
    "name": "charlotte"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:f003": {
-   "name": "BROWARD County Precinct F003"
-  },
   "ocd-division/country:us/state:fl/county:putnam/council_district:1": {
    "name": "Commission District 1",
    "officeIndices": [
     511
    ]
+  },
+  "ocd-division/country:us/state:fl/county:broward/precinct:f003": {
+   "name": "BROWARD County Precinct F003"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:f002": {
    "name": "BROWARD County Precinct F002"
@@ -8809,14 +8809,14 @@
     513
    ]
   },
-  "ocd-division/country:us/state:fl/county:walton/precinct:330": {
-   "name": "WALTON County Precinct 330"
-  },
   "ocd-division/country:us/state:fl/county:putnam/council_district:2": {
    "name": "Commission District 2",
    "officeIndices": [
     514
    ]
+  },
+  "ocd-division/country:us/state:fl/county:walton/precinct:330": {
+   "name": "WALTON County Precinct 330"
   },
   "ocd-division/country:us/state:fl/county:putnam/council_district:3": {
    "name": "Commission District 3",
@@ -8836,14 +8836,17 @@
     38
    ]
   },
+  "ocd-division/country:us/state:fl/county:broward/precinct:f014": {
+   "name": "BROWARD County Precinct F014"
+  },
   "ocd-division/country:us/state:fl/sldl:6": {
    "name": "Florida State House district 6",
    "officeIndices": [
     39
    ]
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:f014": {
-   "name": "BROWARD County Precinct F014"
+  "ocd-division/country:us/state:fl/county:broward/precinct:f013": {
+   "name": "BROWARD County Precinct F013"
   },
   "ocd-division/country:us/state:fl/sldl:5": {
    "name": "Florida State House district 5",
@@ -8851,8 +8854,11 @@
     40
    ]
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:f013": {
-   "name": "BROWARD County Precinct F013"
+  "ocd-division/country:us/state:fl/county:broward/precinct:f012": {
+   "name": "BROWARD County Precinct F012"
+  },
+  "ocd-division/country:us/state:fl/county:gilchrist/precinct:3a": {
+   "name": "GILCHRIST County Precinct 3A"
   },
   "ocd-division/country:us/state:fl/sldl:4": {
    "name": "Florida State House district 4",
@@ -8860,11 +8866,8 @@
     41
    ]
   },
-  "ocd-division/country:us/state:fl/county:gilchrist/precinct:3a": {
-   "name": "GILCHRIST County Precinct 3A"
-  },
-  "ocd-division/country:us/state:fl/county:broward/precinct:f012": {
-   "name": "BROWARD County Precinct F012"
+  "ocd-division/country:us/state:fl/county:broward/precinct:f011": {
+   "name": "BROWARD County Precinct F011"
   },
   "ocd-division/country:us/state:fl/sldl:3": {
    "name": "Florida State House district 3",
@@ -8872,17 +8875,14 @@
     42
    ]
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:f011": {
-   "name": "BROWARD County Precinct F011"
+  "ocd-division/country:us/state:fl/county:broward/precinct:f010": {
+   "name": "BROWARD County Precinct F010"
   },
   "ocd-division/country:us/state:fl/sldl:2": {
    "name": "Florida State House district 2",
    "officeIndices": [
     43
    ]
-  },
-  "ocd-division/country:us/state:fl/county:broward/precinct:f010": {
-   "name": "BROWARD County Precinct F010"
   },
   "ocd-division/country:us/state:fl/sldl:1": {
    "name": "Florida State House district 1",
@@ -8996,23 +8996,23 @@
     55
    ]
   },
+  "ocd-division/country:us/state:fl/place:st_lucie_village": {
+   "name": "St. Lucie Village town"
+  },
   "ocd-division/country:us/state:fl/sldl:63": {
    "name": "Florida State House district 63",
    "officeIndices": [
     56
    ]
   },
-  "ocd-division/country:us/state:fl/place:st_lucie_village": {
-   "name": "St. Lucie Village town"
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7088": {
+   "name": "PALM BEACH County Precinct 7088"
   },
   "ocd-division/country:us/state:fl/sldl:62": {
    "name": "Florida State House district 62",
    "officeIndices": [
     57
    ]
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7088": {
-   "name": "PALM BEACH County Precinct 7088"
   },
   "ocd-division/country:us/state:fl/sldl:61": {
    "name": "Florida State House district 61",
@@ -9029,23 +9029,23 @@
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:7080": {
    "name": "PALM BEACH County Precinct 7080"
   },
+  "ocd-division/country:us/state:fl/county:highlands/precinct:1": {
+   "name": "HIGHLANDS County Precinct 1"
+  },
   "ocd-division/country:us/state:fl/sldl:65": {
    "name": "Florida State House district 65",
    "officeIndices": [
     59
    ]
   },
-  "ocd-division/country:us/state:fl/county:highlands/precinct:1": {
-   "name": "HIGHLANDS County Precinct 1"
+  "ocd-division/country:us/state:fl/county:highlands/precinct:2": {
+   "name": "HIGHLANDS County Precinct 2"
   },
   "ocd-division/country:us/state:fl/sldl:66": {
    "name": "Florida State House district 66",
    "officeIndices": [
     60
    ]
-  },
-  "ocd-division/country:us/state:fl/county:highlands/precinct:2": {
-   "name": "HIGHLANDS County Precinct 2"
   },
   "ocd-division/country:us/state:fl/sldl:67": {
    "name": "Florida State House district 67",
@@ -9068,11 +9068,14 @@
     63
    ]
   },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7074": {
+   "name": "PALM BEACH County Precinct 7074"
+  },
   "ocd-division/country:us/state:fl/county:highlands/precinct:9": {
    "name": "HIGHLANDS County Precinct 9"
   },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7074": {
-   "name": "PALM BEACH County Precinct 7074"
+  "ocd-division/country:us/state:fl/county:highlands/precinct:8": {
+   "name": "HIGHLANDS County Precinct 8"
   },
   "ocd-division/country:us/state:fl/sldl:71": {
    "name": "Florida State House district 71",
@@ -9080,8 +9083,11 @@
     64
    ]
   },
-  "ocd-division/country:us/state:fl/county:highlands/precinct:8": {
-   "name": "HIGHLANDS County Precinct 8"
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7076": {
+   "name": "PALM BEACH County Precinct 7076"
+  },
+  "ocd-division/country:us/state:fl/county:highlands/precinct:7": {
+   "name": "HIGHLANDS County Precinct 7"
   },
   "ocd-division/country:us/state:fl/sldl:70": {
    "name": "Florida State House district 70",
@@ -9089,11 +9095,8 @@
     65
    ]
   },
-  "ocd-division/country:us/state:fl/county:highlands/precinct:7": {
-   "name": "HIGHLANDS County Precinct 7"
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7076": {
-   "name": "PALM BEACH County Precinct 7076"
+  "ocd-division/country:us/state:fl/county:highlands/precinct:6": {
+   "name": "HIGHLANDS County Precinct 6"
   },
   "ocd-division/country:us/state:fl/sldl:73": {
    "name": "Florida State House district 73",
@@ -9101,8 +9104,11 @@
     66
    ]
   },
-  "ocd-division/country:us/state:fl/county:highlands/precinct:6": {
-   "name": "HIGHLANDS County Precinct 6"
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7078": {
+   "name": "PALM BEACH County Precinct 7078"
+  },
+  "ocd-division/country:us/state:fl/county:highlands/precinct:5": {
+   "name": "HIGHLANDS County Precinct 5"
   },
   "ocd-division/country:us/state:fl/sldl:72": {
    "name": "Florida State House district 72",
@@ -9110,11 +9116,8 @@
     67
    ]
   },
-  "ocd-division/country:us/state:fl/county:highlands/precinct:5": {
-   "name": "HIGHLANDS County Precinct 5"
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7078": {
-   "name": "PALM BEACH County Precinct 7078"
+  "ocd-division/country:us/state:fl/county:highlands/precinct:4": {
+   "name": "HIGHLANDS County Precinct 4"
   },
   "ocd-division/country:us/state:fl/sldl:75": {
    "name": "Florida State House district 75",
@@ -9122,17 +9125,14 @@
     68
    ]
   },
-  "ocd-division/country:us/state:fl/county:highlands/precinct:4": {
-   "name": "HIGHLANDS County Precinct 4"
+  "ocd-division/country:us/state:fl/county:highlands/precinct:3": {
+   "name": "HIGHLANDS County Precinct 3"
   },
   "ocd-division/country:us/state:fl/sldl:74": {
    "name": "Florida State House district 74",
    "officeIndices": [
     69
    ]
-  },
-  "ocd-division/country:us/state:fl/county:highlands/precinct:3": {
-   "name": "HIGHLANDS County Precinct 3"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:7070": {
    "name": "PALM BEACH County Precinct 7070"
@@ -9146,14 +9146,17 @@
     70
    ]
   },
+  "ocd-division/country:us/state:fl/county:jackson/precinct:10": {
+   "name": "JACKSON County Precinct 10"
+  },
   "ocd-division/country:us/state:fl/sldl:79": {
    "name": "Florida State House district 79",
    "officeIndices": [
     71
    ]
   },
-  "ocd-division/country:us/state:fl/county:jackson/precinct:10": {
-   "name": "JACKSON County Precinct 10"
+  "ocd-division/country:us/state:fl/place:miami_springs": {
+   "name": "Miami Springs city"
   },
   "ocd-division/country:us/state:fl/sldl:76": {
    "name": "Florida State House district 76",
@@ -9161,14 +9164,17 @@
     72
    ]
   },
-  "ocd-division/country:us/state:fl/place:miami_springs": {
-   "name": "Miami Springs city"
-  },
   "ocd-division/country:us/state:fl/sldl:77": {
    "name": "Florida State House district 77",
    "officeIndices": [
     73
    ]
+  },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7068": {
+   "name": "PALM BEACH County Precinct 7068"
+  },
+  "ocd-division/country:us/state:fl/county:jackson/precinct:14": {
+   "name": "JACKSON County Precinct 14"
   },
   "ocd-division/country:us/state:fl/sldl:86": {
    "name": "Florida State House district 86",
@@ -9176,11 +9182,8 @@
     74
    ]
   },
-  "ocd-division/country:us/state:fl/county:jackson/precinct:14": {
-   "name": "JACKSON County Precinct 14"
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7068": {
-   "name": "PALM BEACH County Precinct 7068"
+  "ocd-division/country:us/state:fl/county:jackson/precinct:13": {
+   "name": "JACKSON County Precinct 13"
   },
   "ocd-division/country:us/state:fl/sldl:85": {
    "name": "Florida State House district 85",
@@ -9188,8 +9191,11 @@
     75
    ]
   },
-  "ocd-division/country:us/state:fl/county:jackson/precinct:13": {
-   "name": "JACKSON County Precinct 13"
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7066": {
+   "name": "PALM BEACH County Precinct 7066"
+  },
+  "ocd-division/country:us/state:fl/county:jackson/precinct:12": {
+   "name": "JACKSON County Precinct 12"
   },
   "ocd-division/country:us/state:fl/sldl:84": {
    "name": "Florida State House district 84",
@@ -9197,11 +9203,8 @@
     76
    ]
   },
-  "ocd-division/country:us/state:fl/county:jackson/precinct:12": {
-   "name": "JACKSON County Precinct 12"
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7066": {
-   "name": "PALM BEACH County Precinct 7066"
+  "ocd-division/country:us/state:fl/county:jackson/precinct:11": {
+   "name": "JACKSON County Precinct 11"
   },
   "ocd-division/country:us/state:fl/sldl:83": {
    "name": "Florida State House district 83",
@@ -9209,8 +9212,8 @@
     77
    ]
   },
-  "ocd-division/country:us/state:fl/county:jackson/precinct:11": {
-   "name": "JACKSON County Precinct 11"
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7064": {
+   "name": "PALM BEACH County Precinct 7064"
   },
   "ocd-division/country:us/state:fl/sldl:82": {
    "name": "Florida State House district 82",
@@ -9218,23 +9221,20 @@
     78
    ]
   },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7064": {
-   "name": "PALM BEACH County Precinct 7064"
-  },
   "ocd-division/country:us/state:fl/sldl:81": {
    "name": "Florida State House district 81",
    "officeIndices": [
     79
    ]
   },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7062": {
+   "name": "PALM BEACH County Precinct 7062"
+  },
   "ocd-division/country:us/state:fl/sldl:80": {
    "name": "Florida State House district 80",
    "officeIndices": [
     80
    ]
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7062": {
-   "name": "PALM BEACH County Precinct 7062"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:7060": {
    "name": "PALM BEACH County Precinct 7060"
@@ -9254,14 +9254,14 @@
     81
    ]
   },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7048": {
+   "name": "PALM BEACH County Precinct 7048"
+  },
   "ocd-division/country:us/state:fl/sldl:88": {
    "name": "Florida State House district 88",
    "officeIndices": [
     82
    ]
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7048": {
-   "name": "PALM BEACH County Precinct 7048"
   },
   "ocd-division/country:us/state:fl/sldl:89": {
    "name": "Florida State House district 89",
@@ -9287,14 +9287,14 @@
     86
    ]
   },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7058": {
+   "name": "PALM BEACH County Precinct 7058"
+  },
   "ocd-division/country:us/state:fl/sldl:96": {
    "name": "Florida State House district 96",
    "officeIndices": [
     87
    ]
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7058": {
-   "name": "PALM BEACH County Precinct 7058"
   },
   "ocd-division/country:us/state:fl/sldl:91": {
    "name": "Florida State House district 91",
@@ -9314,14 +9314,14 @@
     90
    ]
   },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7054": {
+   "name": "PALM BEACH County Precinct 7054"
+  },
   "ocd-division/country:us/state:fl/sldl:92": {
    "name": "Florida State House district 92",
    "officeIndices": [
     91
    ]
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7054": {
-   "name": "PALM BEACH County Precinct 7054"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:7050": {
    "name": "PALM BEACH County Precinct 7050"
@@ -9332,14 +9332,14 @@
     92
    ]
   },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7038": {
+   "name": "PALM BEACH County Precinct 7038"
+  },
   "ocd-division/country:us/state:fl/sldl:98": {
    "name": "Florida State House district 98",
    "officeIndices": [
     93
    ]
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7038": {
-   "name": "PALM BEACH County Precinct 7038"
   },
   "ocd-division/country:us/state:fl/place:oviedo": {
    "name": "Oviedo city"
@@ -9368,11 +9368,11 @@
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:7041": {
    "name": "PALM BEACH County Precinct 7041"
   },
-  "ocd-division/country:us/state:fl/place:north_redington_beach": {
-   "name": "North Redington Beach town"
-  },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:7040": {
    "name": "PALM BEACH County Precinct 7040"
+  },
+  "ocd-division/country:us/state:fl/place:north_redington_beach": {
+   "name": "North Redington Beach town"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:7046": {
    "name": "PALM BEACH County Precinct 7046"
@@ -9383,29 +9383,29 @@
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:7044": {
    "name": "PALM BEACH County Precinct 7044"
   },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7026": {
-   "name": "PALM BEACH County Precinct 7026"
-  },
   "ocd-division/country:us/state:fl/county:pinellas/precinct:407": {
    "name": "PINELLAS County Precinct 407"
+  },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7026": {
+   "name": "PALM BEACH County Precinct 7026"
   },
   "ocd-division/country:us/state:fl/county:pinellas/precinct:408": {
    "name": "PINELLAS County Precinct 408"
   },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7028": {
-   "name": "PALM BEACH County Precinct 7028"
-  },
   "ocd-division/country:us/state:fl/county:pinellas/precinct:409": {
    "name": "PINELLAS County Precinct 409"
+  },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:7028": {
+   "name": "PALM BEACH County Precinct 7028"
   },
   "ocd-division/country:us/state:fl/county:pinellas/precinct:403": {
    "name": "PINELLAS County Precinct 403"
   },
-  "ocd-division/country:us/state:fl/place:indialantic": {
-   "name": "Indialantic town"
-  },
   "ocd-division/country:us/state:fl/county:pinellas/precinct:404": {
    "name": "PINELLAS County Precinct 404"
+  },
+  "ocd-division/country:us/state:fl/place:indialantic": {
+   "name": "Indialantic town"
   },
   "ocd-division/country:us/state:fl/county:pinellas/precinct:405": {
    "name": "PINELLAS County Precinct 405"
@@ -9479,14 +9479,14 @@
   "ocd-division/country:us/state:fl/place:interlachen": {
    "name": "Interlachen town"
   },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1088": {
+   "name": "PALM BEACH County Precinct 1088"
+  },
   "ocd-division/country:us/state:fl/sldl:46": {
    "name": "Florida State House district 46",
    "officeIndices": [
     94
    ]
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1088": {
-   "name": "PALM BEACH County Precinct 1088"
   },
   "ocd-division/country:us/state:fl/sldl:45": {
    "name": "Florida State House district 45",
@@ -9527,14 +9527,14 @@
   "ocd-division/country:us/state:fl/county:osceola/precinct:550": {
    "name": "OSCEOLA County Precinct 550"
   },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1096": {
+   "name": "PALM BEACH County Precinct 1096"
+  },
   "ocd-division/country:us/state:fl/sldl:52": {
    "name": "Florida State House district 52",
    "officeIndices": [
     101
    ]
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1096": {
-   "name": "PALM BEACH County Precinct 1096"
   },
   "ocd-division/country:us/state:fl/sldl:53": {
    "name": "Florida State House district 53",
@@ -9542,14 +9542,14 @@
     102
    ]
   },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1094": {
+   "name": "PALM BEACH County Precinct 1094"
+  },
   "ocd-division/country:us/state:fl/sldl:50": {
    "name": "Florida State House district 50",
    "officeIndices": [
     103
    ]
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1094": {
-   "name": "PALM BEACH County Precinct 1094"
   },
   "ocd-division/country:us/state:fl/sldl:51": {
    "name": "Florida State House district 51",
@@ -9563,11 +9563,8 @@
     105
    ]
   },
-  "ocd-division/country:us/state:fl/sldl:32": {
-   "name": "Florida State House district 32",
-   "officeIndices": [
-    106
-   ]
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1098": {
+   "name": "PALM BEACH County Precinct 1098"
   },
   "ocd-division/country:us/state:fl/county:marion/council_district:5": {
    "name": "Marion County FL Board of County Commissioners District 5",
@@ -9575,8 +9572,11 @@
     529
    ]
   },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1098": {
-   "name": "PALM BEACH County Precinct 1098"
+  "ocd-division/country:us/state:fl/sldl:32": {
+   "name": "Florida State House district 32",
+   "officeIndices": [
+    106
+   ]
   },
   "ocd-division/country:us/state:fl/sldl:35": {
    "name": "Florida State House district 35",
@@ -9590,22 +9590,16 @@
     108
    ]
   },
-  "ocd-division/country:us/state:fl/sldl:37": {
-   "name": "Florida State House district 37",
-   "officeIndices": [
-    109
-   ]
-  },
   "ocd-division/country:us/state:fl/county:marion/council_district:2": {
    "name": "Marion County FL Board of County Commissioners District 2",
    "officeIndices": [
     530
    ]
   },
-  "ocd-division/country:us/state:fl/sldl:36": {
-   "name": "Florida State House district 36",
+  "ocd-division/country:us/state:fl/sldl:37": {
+   "name": "Florida State House district 37",
    "officeIndices": [
-    110
+    109
    ]
   },
   "ocd-division/country:us/state:fl/county:marion/council_district:1": {
@@ -9614,10 +9608,10 @@
     531
    ]
   },
-  "ocd-division/country:us/state:fl/sldl:39": {
-   "name": "Florida State House district 39",
+  "ocd-division/country:us/state:fl/sldl:36": {
+   "name": "Florida State House district 36",
    "officeIndices": [
-    111
+    110
    ]
   },
   "ocd-division/country:us/state:fl/county:marion/council_district:4": {
@@ -9626,16 +9620,22 @@
     532
    ]
   },
-  "ocd-division/country:us/state:fl/sldl:38": {
-   "name": "Florida State House district 38",
+  "ocd-division/country:us/state:fl/sldl:39": {
+   "name": "Florida State House district 39",
    "officeIndices": [
-    112
+    111
    ]
   },
   "ocd-division/country:us/state:fl/county:marion/council_district:3": {
    "name": "Marion County FL Board of County Commissioners District 3",
    "officeIndices": [
     533
+   ]
+  },
+  "ocd-division/country:us/state:fl/sldl:38": {
+   "name": "Florida State House district 38",
+   "officeIndices": [
+    112
    ]
   },
   "ocd-division/country:us/state:fl/sldl:40": {
@@ -9687,14 +9687,14 @@
     118
    ]
   },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1068": {
+   "name": "PALM BEACH County Precinct 1068"
+  },
   "ocd-division/country:us/state:fl/sldl:26": {
    "name": "Florida State House district 26",
    "officeIndices": [
     119
    ]
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1068": {
-   "name": "PALM BEACH County Precinct 1068"
   },
   "ocd-division/country:us/state:fl/sldl:25": {
    "name": "Florida State House district 25",
@@ -9702,14 +9702,14 @@
     120
    ]
   },
+  "ocd-division/country:us/state:fl/county:wakulla/precinct:10": {
+   "name": "WAKULLA County Precinct 10"
+  },
   "ocd-division/country:us/state:fl/sldl:24": {
    "name": "Florida State House district 24",
    "officeIndices": [
     121
    ]
-  },
-  "ocd-division/country:us/state:fl/county:wakulla/precinct:10": {
-   "name": "WAKULLA County Precinct 10"
   },
   "ocd-division/country:us/state:fl/sldl:23": {
    "name": "Florida State House district 23",
@@ -9717,17 +9717,20 @@
     122
    ]
   },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1064": {
+   "name": "PALM BEACH County Precinct 1064"
+  },
+  "ocd-division/country:us/state:fl/county:wakulla/precinct:12": {
+   "name": "WAKULLA County Precinct 12"
+  },
   "ocd-division/country:us/state:fl/sldl:22": {
    "name": "Florida State House district 22",
    "officeIndices": [
     123
    ]
   },
-  "ocd-division/country:us/state:fl/county:wakulla/precinct:12": {
-   "name": "WAKULLA County Precinct 12"
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1064": {
-   "name": "PALM BEACH County Precinct 1064"
+  "ocd-division/country:us/state:fl/county:wakulla/precinct:11": {
+   "name": "WAKULLA County Precinct 11"
   },
   "ocd-division/country:us/state:fl/sldl:21": {
    "name": "Florida State House district 21",
@@ -9735,17 +9738,14 @@
     124
    ]
   },
-  "ocd-division/country:us/state:fl/county:wakulla/precinct:11": {
-   "name": "WAKULLA County Precinct 11"
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1074": {
+   "name": "PALM BEACH County Precinct 1074"
   },
   "ocd-division/country:us/state:fl/sldl:30": {
    "name": "Florida State House district 30",
    "officeIndices": [
     125
    ]
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1074": {
-   "name": "PALM BEACH County Precinct 1074"
   },
   "ocd-division/country:us/state:fl/sldl:31": {
    "name": "Florida State House district 31",
@@ -9801,14 +9801,14 @@
     133
    ]
   },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1076": {
+   "name": "PALM BEACH County Precinct 1076"
+  },
   "ocd-division/country:us/state:fl/sldl:10": {
    "name": "Florida State House district 10",
    "officeIndices": [
     134
    ]
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1076": {
-   "name": "PALM BEACH County Precinct 1076"
   },
   "ocd-division/country:us/state:fl/sldl:13": {
    "name": "Florida State House district 13",
@@ -9816,26 +9816,26 @@
     135
    ]
   },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1078": {
+   "name": "PALM BEACH County Precinct 1078"
+  },
   "ocd-division/country:us/state:fl/sldl:12": {
    "name": "Florida State House district 12",
    "officeIndices": [
     136
    ]
   },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1078": {
-   "name": "PALM BEACH County Precinct 1078"
-  },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:1082": {
    "name": "PALM BEACH County Precinct 1082"
+  },
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1084": {
+   "name": "PALM BEACH County Precinct 1084"
   },
   "ocd-division/country:us/state:fl/sldl:20": {
    "name": "Florida State House district 20",
    "officeIndices": [
     137
    ]
-  },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:1084": {
-   "name": "PALM BEACH County Precinct 1084"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:1080": {
    "name": "PALM BEACH County Precinct 1080"
@@ -9858,17 +9858,20 @@
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:3188": {
    "name": "PALM BEACH County Precinct 3188"
   },
-  "ocd-division/country:us/state:fl/place:mount_dora": {
-   "name": "Mount Dora city"
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:3187": {
+   "name": "PALM BEACH County Precinct 3187"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:1048": {
    "name": "PALM BEACH County Precinct 1048"
   },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:3187": {
-   "name": "PALM BEACH County Precinct 3187"
+  "ocd-division/country:us/state:fl/place:mount_dora": {
+   "name": "Mount Dora city"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:1046": {
    "name": "PALM BEACH County Precinct 1046"
+  },
+  "ocd-division/country:us/state:fl/county:osceola/precinct:506": {
+   "name": "OSCEOLA County Precinct 506"
   },
   "ocd-division/country:us/state:fl/county:indian_river": {
    "name": "Indian River County",
@@ -9879,9 +9882,6 @@
     542,
     543
    ]
-  },
-  "ocd-division/country:us/state:fl/county:osceola/precinct:506": {
-   "name": "OSCEOLA County Precinct 506"
   },
   "ocd-division/country:us/state:fl/county:osceola/precinct:507": {
    "name": "OSCEOLA County Precinct 507"
@@ -10009,17 +10009,17 @@
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:3172": {
    "name": "PALM BEACH County Precinct 3172"
   },
-  "ocd-division/country:us/state:fl/county:clay/precinct:210": {
-   "name": "CLAY County Precinct 210"
-  },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:3174": {
    "name": "PALM BEACH County Precinct 3174"
   },
-  "ocd-division/country:us/state:fl/place:loxahatchee_groves": {
-   "name": "Loxahatchee Groves town"
+  "ocd-division/country:us/state:fl/county:clay/precinct:210": {
+   "name": "CLAY County Precinct 210"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:1038": {
    "name": "PALM BEACH County Precinct 1038"
+  },
+  "ocd-division/country:us/state:fl/place:loxahatchee_groves": {
+   "name": "Loxahatchee Groves town"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:3176": {
    "name": "PALM BEACH County Precinct 3176"
@@ -10042,14 +10042,14 @@
   "ocd-division/country:us/state:fl/county:clay/precinct:204": {
    "name": "CLAY County Precinct 204"
   },
-  "ocd-division/country:us/state:fl/place:fernandina_beach": {
-   "name": "Fernandina Beach city"
+  "ocd-division/country:us/state:fl/county:palm_beach/precinct:3182": {
+   "name": "PALM BEACH County Precinct 3182"
   },
   "ocd-division/country:us/state:fl/county:clay/precinct:202": {
    "name": "CLAY County Precinct 202"
   },
-  "ocd-division/country:us/state:fl/county:palm_beach/precinct:3182": {
-   "name": "PALM BEACH County Precinct 3182"
+  "ocd-division/country:us/state:fl/place:fernandina_beach": {
+   "name": "Fernandina Beach city"
   },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:1040": {
    "name": "PALM BEACH County Precinct 1040"
@@ -10128,11 +10128,11 @@
   "ocd-division/country:us/state:fl/county:brevard/precinct:111": {
    "name": "BREVARD County Precinct 111"
   },
-  "ocd-division/country:us/state:fl/county:brevard/precinct:112": {
-   "name": "BREVARD County Precinct 112"
-  },
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:1018": {
    "name": "PALM BEACH County Precinct 1018"
+  },
+  "ocd-division/country:us/state:fl/county:brevard/precinct:112": {
+   "name": "BREVARD County Precinct 112"
   },
   "ocd-division/country:us/state:fl/county:brevard/precinct:113": {
    "name": "BREVARD County Precinct 113"
@@ -10260,17 +10260,17 @@
   "ocd-division/country:us/state:fl/county:volusia/precinct:807": {
    "name": "VOLUSIA County Precinct 807"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:808": {
-   "name": "VOLUSIA County Precinct 808"
-  },
   "ocd-division/country:us/state:fl/county:brevard/precinct:129": {
    "name": "BREVARD County Precinct 129"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:809": {
-   "name": "VOLUSIA County Precinct 809"
+  "ocd-division/country:us/state:fl/county:volusia/precinct:808": {
+   "name": "VOLUSIA County Precinct 808"
   },
   "ocd-division/country:us/state:fl/county:brevard/precinct:128": {
    "name": "BREVARD County Precinct 128"
+  },
+  "ocd-division/country:us/state:fl/county:volusia/precinct:809": {
+   "name": "VOLUSIA County Precinct 809"
   },
   "ocd-division/country:us/state:fl/county:brevard/precinct:127": {
    "name": "BREVARD County Precinct 127"
@@ -10281,29 +10281,29 @@
     555
    ]
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:803": {
-   "name": "VOLUSIA County Precinct 803"
-  },
   "ocd-division/country:us/state:fl/county:seminole/council_district:1": {
    "name": "Seminole County FL Board of County Commissioners District 1",
    "officeIndices": [
     556
    ]
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:804": {
-   "name": "VOLUSIA County Precinct 804"
+  "ocd-division/country:us/state:fl/county:volusia/precinct:803": {
+   "name": "VOLUSIA County Precinct 803"
   },
   "ocd-division/country:us/state:fl/county:brevard/precinct:125": {
    "name": "BREVARD County Precinct 125"
   },
-  "ocd-division/country:us/state:fl/county:volusia/precinct:805": {
-   "name": "VOLUSIA County Precinct 805"
+  "ocd-division/country:us/state:fl/county:volusia/precinct:804": {
+   "name": "VOLUSIA County Precinct 804"
+  },
+  "ocd-division/country:us/state:fl/county:brevard/precinct:124": {
+   "name": "BREVARD County Precinct 124"
   },
   "ocd-division/country:us/state:fl/county:lake/school_district:lake": {
    "name": "lake"
   },
-  "ocd-division/country:us/state:fl/county:brevard/precinct:124": {
-   "name": "BREVARD County Precinct 124"
+  "ocd-division/country:us/state:fl/county:volusia/precinct:805": {
+   "name": "VOLUSIA County Precinct 805"
   },
   "ocd-division/country:us/state:fl/county:brevard/precinct:123": {
    "name": "BREVARD County Precinct 123"
@@ -10317,14 +10317,14 @@
     557
    ]
   },
-  "ocd-division/country:us/state:fl/county:brevard/precinct:121": {
-   "name": "BREVARD County Precinct 121"
-  },
   "ocd-division/country:us/state:fl/county:seminole/council_district:4": {
    "name": "Seminole County FL Board of County Commissioners District 4",
    "officeIndices": [
     558
    ]
+  },
+  "ocd-division/country:us/state:fl/county:brevard/precinct:121": {
+   "name": "BREVARD County Precinct 121"
   },
   "ocd-division/country:us/state:fl/county:brevard/precinct:120": {
    "name": "BREVARD County Precinct 120"
@@ -12602,9 +12602,6 @@
   "ocd-division/country:us/state:fl/county:lee/precinct:34": {
    "name": "LEE County Precinct 34"
   },
-  "ocd-division/country:us/state:fl/county:lee/precinct:33": {
-   "name": "LEE County Precinct 33"
-  },
   "ocd-division/country:us/state:fl/county:okaloosa": {
    "name": "Okaloosa County",
    "officeIndices": [
@@ -12619,6 +12616,9 @@
     647,
     648
    ]
+  },
+  "ocd-division/country:us/state:fl/county:lee/precinct:33": {
+   "name": "LEE County Precinct 33"
   },
   "ocd-division/country:us/state:fl/county:lee/precinct:32": {
    "name": "LEE County Precinct 32"
@@ -13057,9 +13057,6 @@
   "ocd-division/country:us/state:fl/county:broward/precinct:z005": {
    "name": "BROWARD County Precinct Z005"
   },
-  "ocd-division/country:us/state:fl/county:marion/precinct:4620": {
-   "name": "MARION County Precinct 4620"
-  },
   "ocd-division/country:us/state:fl/county:lee": {
    "name": "Lee County",
    "officeIndices": [
@@ -13069,6 +13066,9 @@
     662,
     663
    ]
+  },
+  "ocd-division/country:us/state:fl/county:marion/precinct:4620": {
+   "name": "MARION County Precinct 4620"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:z001": {
    "name": "BROWARD County Precinct Z001"
@@ -13107,9 +13107,6 @@
   "ocd-division/country:us/state:fl/county:hillsborough/precinct:891": {
    "name": "HILLSBOROUGH County Precinct 891"
   },
-  "ocd-division/country:us/state:fl/county:marion/precinct:4654": {
-   "name": "MARION County Precinct 4654"
-  },
   "ocd-division/country:us/state:fl/county:hernando": {
    "name": "Hernando County",
    "officeIndices": [
@@ -13119,6 +13116,9 @@
     672,
     673
    ]
+  },
+  "ocd-division/country:us/state:fl/county:marion/precinct:4654": {
+   "name": "MARION County Precinct 4654"
   },
   "ocd-division/country:us/state:fl/county:orange/precinct:211": {
    "name": "ORANGE County Precinct 211"
@@ -13255,14 +13255,14 @@
     677
    ]
   },
-  "ocd-division/country:us/state:fl/county:marion/precinct:4630": {
-   "name": "MARION County Precinct 4630"
-  },
   "ocd-division/country:us/state:fl/county:orange/council_district:5": {
    "name": "Orange County FL Board of County Commissioners District 5",
    "officeIndices": [
     678
    ]
+  },
+  "ocd-division/country:us/state:fl/county:marion/precinct:4630": {
+   "name": "MARION County Precinct 4630"
   },
   "ocd-division/country:us/state:fl/county:orange/council_district:6": {
    "name": "Orange County FL Board of County Commissioners District 6",
@@ -14773,17 +14773,14 @@
   "ocd-division/country:us/state:fl/county:orange/precinct:337": {
    "name": "ORANGE County Precinct 337"
   },
-  "ocd-division/country:us/state:fl/county:orange/precinct:332": {
-   "name": "ORANGE County Precinct 332"
-  },
   "ocd-division/country:us/state:fl/county:pasco/council_district:2": {
    "name": "Pasco County FL Board of County Commissioners District 2",
    "officeIndices": [
     690
    ]
   },
-  "ocd-division/country:us/state:fl/county:orange/precinct:331": {
-   "name": "ORANGE County Precinct 331"
+  "ocd-division/country:us/state:fl/county:orange/precinct:332": {
+   "name": "ORANGE County Precinct 332"
   },
   "ocd-division/country:us/state:fl/county:pasco/council_district:1": {
    "name": "Pasco County FL Board of County Commissioners District 1",
@@ -14791,14 +14788,17 @@
     691
    ]
   },
-  "ocd-division/country:us/state:fl/county:orange/precinct:330": {
-   "name": "ORANGE County Precinct 330"
+  "ocd-division/country:us/state:fl/county:orange/precinct:331": {
+   "name": "ORANGE County Precinct 331"
   },
   "ocd-division/country:us/state:fl/county:pasco/council_district:4": {
    "name": "Pasco County FL Board of County Commissioners District 4",
    "officeIndices": [
     692
    ]
+  },
+  "ocd-division/country:us/state:fl/county:orange/precinct:330": {
+   "name": "ORANGE County Precinct 330"
   },
   "ocd-division/country:us/state:fl/county:pasco/council_district:3": {
    "name": "Pasco County FL Board of County Commissioners District 3",
@@ -15066,14 +15066,14 @@
   "ocd-division/country:us/state:fl/county:pinellas/precinct:632": {
    "name": "PINELLAS County Precinct 632"
   },
-  "ocd-division/country:us/state:fl/place:alford": {
-   "name": "Alford town"
-  },
   "ocd-division/country:us/state:fl/county:suwannee/council_district:1": {
    "name": "Commission District 1",
    "officeIndices": [
     702
    ]
+  },
+  "ocd-division/country:us/state:fl/place:alford": {
+   "name": "Alford town"
   },
   "ocd-division/country:us/state:fl/county:suwannee/council_district:2": {
    "name": "Commission District 2",
@@ -15781,14 +15781,14 @@
   "ocd-division/country:us/state:fl/county:leon/precinct:2251": {
    "name": "LEON County Precinct 2251"
   },
-  "ocd-division/country:us/state:fl/county:leon/precinct:2252": {
-   "name": "LEON County Precinct 2252"
-  },
   "ocd-division/country:us/state:fl/county:flagler/council_district:5": {
    "name": "Commission District 5",
    "officeIndices": [
     742
    ]
+  },
+  "ocd-division/country:us/state:fl/county:leon/precinct:2252": {
+   "name": "LEON County Precinct 2252"
   },
   "ocd-division/country:us/state:fl/county:flagler/council_district:4": {
    "name": "Commission District 4",
@@ -16827,11 +16827,11 @@
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:1370": {
    "name": "PALM BEACH County Precinct 1370"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:v004": {
-   "name": "BROWARD County Precinct V004"
-  },
   "ocd-division/country:us/state:fl/county:okaloosa/council_district:5": {
    "name": "Okaloosa County FL Board of County Commissioners District 5"
+  },
+  "ocd-division/country:us/state:fl/county:broward/precinct:v004": {
+   "name": "BROWARD County Precinct V004"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:v003": {
    "name": "BROWARD County Precinct V003"
@@ -17220,26 +17220,26 @@
   "ocd-division/country:us/state:fl/county:broward/precinct:v029": {
    "name": "BROWARD County Precinct V029"
   },
-  "ocd-division/country:us/state:fl/place:jacksonville/council_district:6": {
-   "name": "Jacksonville FL city council district 6",
+  "ocd-division/country:us/state:fl/county:leon/council_district:4": {
+   "name": "Leon County FL Board of County Commissioners District 4",
    "officeIndices": [
     800
    ]
   },
-  "ocd-division/country:us/state:fl/county:leon/council_district:4": {
-   "name": "Leon County FL Board of County Commissioners District 4",
+  "ocd-division/country:us/state:fl/place:jacksonville/council_district:6": {
+   "name": "Jacksonville FL city council district 6",
    "officeIndices": [
     801
    ]
   },
-  "ocd-division/country:us/state:fl/place:jacksonville/council_district:5": {
-   "name": "Jacksonville FL city council district 5",
+  "ocd-division/country:us/state:fl/county:leon/council_district:3": {
+   "name": "Leon County FL Board of County Commissioners District 3",
    "officeIndices": [
     802
    ]
   },
-  "ocd-division/country:us/state:fl/county:leon/council_district:3": {
-   "name": "Leon County FL Board of County Commissioners District 3",
+  "ocd-division/country:us/state:fl/place:jacksonville/council_district:5": {
+   "name": "Jacksonville FL city council district 5",
    "officeIndices": [
     803
    ]
@@ -17253,14 +17253,14 @@
     804
    ]
   },
-  "ocd-division/country:us/state:fl/place:jacksonville/council_district:7": {
-   "name": "Jacksonville FL city council district 7",
+  "ocd-division/country:us/state:fl/county:leon/council_district:5": {
+   "name": "Leon County FL Board of County Commissioners District 5",
    "officeIndices": [
     805
    ]
   },
-  "ocd-division/country:us/state:fl/county:leon/council_district:5": {
-   "name": "Leon County FL Board of County Commissioners District 5",
+  "ocd-division/country:us/state:fl/place:jacksonville/council_district:7": {
+   "name": "Jacksonville FL city council district 7",
    "officeIndices": [
     806
    ]
@@ -17289,26 +17289,26 @@
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:1306": {
    "name": "PALM BEACH County Precinct 1306"
   },
-  "ocd-division/country:us/state:fl/place:jacksonville/council_district:4": {
-   "name": "Jacksonville FL city council district 4",
+  "ocd-division/country:us/state:fl/county:leon/council_district:2": {
+   "name": "Leon County FL Board of County Commissioners District 2",
    "officeIndices": [
     809
    ]
   },
-  "ocd-division/country:us/state:fl/county:leon/council_district:2": {
-   "name": "Leon County FL Board of County Commissioners District 2",
+  "ocd-division/country:us/state:fl/place:jacksonville/council_district:4": {
+   "name": "Jacksonville FL city council district 4",
    "officeIndices": [
     810
    ]
   },
-  "ocd-division/country:us/state:fl/place:jacksonville/council_district:3": {
-   "name": "Jacksonville FL city council district 3",
+  "ocd-division/country:us/state:fl/county:leon/council_district:1": {
+   "name": "Leon County FL Board of County Commissioners District 1",
    "officeIndices": [
     811
    ]
   },
-  "ocd-division/country:us/state:fl/county:leon/council_district:1": {
-   "name": "Leon County FL Board of County Commissioners District 1",
+  "ocd-division/country:us/state:fl/place:jacksonville/council_district:3": {
+   "name": "Jacksonville FL city council district 3",
    "officeIndices": [
     812
    ]
@@ -18079,14 +18079,14 @@
   "ocd-division/country:us/state:fl/county:broward/precinct:h002": {
    "name": "BROWARD County Precinct H002"
   },
-  "ocd-division/country:us/state:fl/county:broward/precinct:h003": {
-   "name": "BROWARD County Precinct H003"
-  },
   "ocd-division/country:us/state:fl/county:charlotte/council_district:5": {
    "name": "Commission District 5",
    "officeIndices": [
     827
    ]
+  },
+  "ocd-division/country:us/state:fl/county:broward/precinct:h003": {
+   "name": "BROWARD County Precinct H003"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:h008": {
    "name": "BROWARD County Precinct H008"
@@ -18181,14 +18181,14 @@
   "ocd-division/country:us/state:fl/county:broward/precinct:a007": {
    "name": "BROWARD County Precinct A007"
   },
+  "ocd-division/country:us/state:fl/place:gainesville": {
+   "name": "Gainesville city"
+  },
   "ocd-division/country:us/state:fl/sldl:112": {
    "name": "Florida State House district 112",
    "officeIndices": [
     184
    ]
-  },
-  "ocd-division/country:us/state:fl/place:gainesville": {
-   "name": "Gainesville city"
   },
   "ocd-division/country:us/state:fl/county:broward/precinct:a002": {
    "name": "BROWARD County Precinct A002"
@@ -18572,14 +18572,14 @@
     834
    ]
   },
-  "ocd-division/country:us/state:fl/county:osceola/school_district:osceola": {
-   "name": "osceola"
-  },
   "ocd-division/country:us/state:fl/county:polk/council_district:1": {
    "name": "Polk County FL Commissioner District 1",
    "officeIndices": [
     835
    ]
+  },
+  "ocd-division/country:us/state:fl/county:osceola/school_district:osceola": {
+   "name": "osceola"
   },
   "ocd-division/country:us/state:fl/county:polk/precinct:330": {
    "name": "POLK County Precinct 330"
@@ -18692,9 +18692,6 @@
   "ocd-division/country:us/state:fl/county:gadsden/precinct:17": {
    "name": "GADSDEN County Precinct 17"
   },
-  "ocd-division/country:us/state:fl/county:indian_river/precinct:17": {
-   "name": "INDIAN RIVER County Precinct 17"
-  },
   "ocd-division/country:us/state:fl/county:gulf": {
    "name": "Gulf County",
    "officeIndices": [
@@ -18704,6 +18701,9 @@
     841,
     842
    ]
+  },
+  "ocd-division/country:us/state:fl/county:indian_river/precinct:17": {
+   "name": "INDIAN RIVER County Precinct 17"
   },
   "ocd-division/country:us/state:fl/county:gadsden/precinct:16": {
    "name": "GADSDEN County Precinct 16"
@@ -18951,14 +18951,14 @@
   "ocd-division/country:us/state:fl/county:polk/precinct:412": {
    "name": "POLK County Precinct 412"
   },
-  "ocd-division/country:us/state:fl/county:hillsborough/precinct:451": {
-   "name": "HILLSBOROUGH County Precinct 451"
-  },
   "ocd-division/country:us/state:fl/county:gulf/council_district:3": {
    "name": "Commission District 3",
    "officeIndices": [
     846
    ]
+  },
+  "ocd-division/country:us/state:fl/county:hillsborough/precinct:451": {
+   "name": "HILLSBOROUGH County Precinct 451"
   },
   "ocd-division/country:us/state:fl/county:polk/precinct:411": {
    "name": "POLK County Precinct 411"
@@ -19723,9 +19723,6 @@
   "ocd-division/country:us/state:fl/county:charlotte/precinct:67": {
    "name": "CHARLOTTE County Precinct 67"
   },
-  "ocd-division/country:us/state:fl/county:highlands/school_district:highlands": {
-   "name": "highlands"
-  },
   "ocd-division/country:us/state:fl/county:brevard": {
    "name": "Brevard County",
    "officeIndices": [
@@ -19735,6 +19732,9 @@
     866,
     867
    ]
+  },
+  "ocd-division/country:us/state:fl/county:highlands/school_district:highlands": {
+   "name": "highlands"
   },
   "ocd-division/country:us/state:fl/county:charlotte/precinct:69": {
    "name": "CHARLOTTE County Precinct 69"
@@ -20369,11 +20369,11 @@
   "ocd-division/country:us/state:fl/county:hillsborough/precinct:501": {
    "name": "HILLSBOROUGH County Precinct 501"
   },
-  "ocd-division/country:us/state:fl/county:leon/precinct:4125": {
-   "name": "LEON County Precinct 4125"
-  },
   "ocd-division/country:us/state:fl/county:hillsborough/precinct:500": {
    "name": "HILLSBOROUGH County Precinct 500"
+  },
+  "ocd-division/country:us/state:fl/county:leon/precinct:4125": {
+   "name": "LEON County Precinct 4125"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/school_district:dade": {
    "name": "dade"
@@ -20408,14 +20408,14 @@
   "ocd-division/country:us/state:fl/county:hillsborough/precinct:511": {
    "name": "HILLSBOROUGH County Precinct 511"
   },
-  "ocd-division/country:us/state:fl/county:leon/precinct:4119": {
-   "name": "LEON County Precinct 4119"
-  },
   "ocd-division/country:us/state:fl/county:dixie/council_district:2": {
    "name": "Commission District 2",
    "officeIndices": [
     873
    ]
+  },
+  "ocd-division/country:us/state:fl/county:leon/precinct:4119": {
+   "name": "LEON County Precinct 4119"
   },
   "ocd-division/country:us/state:fl/county:dixie/council_district:3": {
    "name": "Commission District 3",
@@ -20468,20 +20468,20 @@
   "ocd-division/country:us/state:fl/county:leon/precinct:4103": {
    "name": "LEON County Precinct 4103"
   },
-  "ocd-division/country:us/state:fl/county:leon/precinct:4105": {
-   "name": "LEON County Precinct 4105"
-  },
   "ocd-division/country:us/state:fl/county:baker/school_district:baker": {
    "name": "baker"
+  },
+  "ocd-division/country:us/state:fl/county:leon/precinct:4105": {
+   "name": "LEON County Precinct 4105"
   },
   "ocd-division/country:us/state:fl/county:leon/precinct:4101": {
    "name": "LEON County Precinct 4101"
   },
-  "ocd-division/country:us/state:fl/county:levy/precinct:9": {
-   "name": "LEVY County Precinct 9"
-  },
   "ocd-division/country:us/state:fl/county:leon/precinct:4107": {
    "name": "LEON County Precinct 4107"
+  },
+  "ocd-division/country:us/state:fl/county:levy/precinct:9": {
+   "name": "LEVY County Precinct 9"
   },
   "ocd-division/country:us/state:fl/place:belle_isle": {
    "name": "Belle Isle city"
@@ -20505,26 +20505,26 @@
   "ocd-division/country:us/state:fl/county:leon/precinct:4173": {
    "name": "LEON County Precinct 4173"
   },
-  "ocd-division/country:us/state:fl/county:escambia/precinct:29": {
-   "name": "ESCAMBIA County Precinct 29"
-  },
   "ocd-division/country:us/state:fl/county:bay/precinct:8": {
    "name": "BAY County Precinct 8"
   },
-  "ocd-division/country:us/state:fl/county:escambia/precinct:28": {
-   "name": "ESCAMBIA County Precinct 28"
+  "ocd-division/country:us/state:fl/county:escambia/precinct:29": {
+   "name": "ESCAMBIA County Precinct 29"
   },
   "ocd-division/country:us/state:fl/county:bay/precinct:7": {
    "name": "BAY County Precinct 7"
   },
+  "ocd-division/country:us/state:fl/county:escambia/precinct:28": {
+   "name": "ESCAMBIA County Precinct 28"
+  },
   "ocd-division/country:us/state:fl/place:cape_coral/council_district:2": {
    "name": "Cape Coral FL city council district 2"
   },
-  "ocd-division/country:us/state:fl/place:cape_coral/council_district:1": {
-   "name": "Cape Coral FL city council district 1"
-  },
   "ocd-division/country:us/state:fl/county:bay/precinct:9": {
    "name": "BAY County Precinct 9"
+  },
+  "ocd-division/country:us/state:fl/place:cape_coral/council_district:1": {
+   "name": "Cape Coral FL city council district 1"
   },
   "ocd-division/country:us/state:fl/place:cape_coral/council_district:4": {
    "name": "Cape Coral FL city council district 4"
@@ -21445,14 +21445,14 @@
   "ocd-division/country:us/state:fl/county:marion/precinct:17": {
    "name": "MARION County Precinct 17"
   },
-  "ocd-division/country:us/state:fl/county:marion/precinct:3820": {
-   "name": "MARION County Precinct 3820"
-  },
   "ocd-division/country:us/state:fl/county:broward/council_district:1": {
    "name": "Broward County FL County Commission District 1",
    "officeIndices": [
     911
    ]
+  },
+  "ocd-division/country:us/state:fl/county:marion/precinct:3820": {
+   "name": "MARION County Precinct 3820"
   },
   "ocd-division/country:us/state:fl/place:auburndale": {
    "name": "Auburndale city"
@@ -22758,9 +22758,6 @@
   "ocd-division/country:us/state:fl/county:polk/precinct:247": {
    "name": "POLK County Precinct 247"
   },
-  "ocd-division/country:us/state:fl/county:polk/precinct:245": {
-   "name": "POLK County Precinct 245"
-  },
   "ocd-division/country:us/state:fl/county:st_johns": {
    "name": "St. Johns County",
    "officeIndices": [
@@ -22770,6 +22767,9 @@
     946,
     947
    ]
+  },
+  "ocd-division/country:us/state:fl/county:polk/precinct:245": {
+   "name": "POLK County Precinct 245"
   },
   "ocd-division/country:us/state:fl/county:miami-dade/precinct:160": {
    "name": "MIAMI-DADE County Precinct 160"
@@ -22894,11 +22894,11 @@
   "ocd-division/country:us/state:fl/county:palm_beach/precinct:6126": {
    "name": "PALM BEACH County Precinct 6126"
   },
-  "ocd-division/country:us/state:fl/place:sopchoppy": {
-   "name": "Sopchoppy city"
-  },
   "ocd-division/country:us/state:fl/place:cape_coral": {
    "name": "Cape Coral city"
+  },
+  "ocd-division/country:us/state:fl/place:sopchoppy": {
+   "name": "Sopchoppy city"
   },
   "ocd-division/country:us/state:fl/county:hillsborough/precinct:319": {
    "name": "HILLSBOROUGH County Precinct 319"
@@ -23173,14 +23173,14 @@
     948
    ]
   },
-  "ocd-division/country:us/state:fl/place:port_st_lucie/council_district:1": {
-   "name": "Port St Lucie FL city council district 1"
-  },
   "ocd-division/country:us/state:fl/county:indian_river/council_district:3": {
    "name": "Commission District 3",
    "officeIndices": [
     949
    ]
+  },
+  "ocd-division/country:us/state:fl/place:port_st_lucie/council_district:1": {
+   "name": "Port St Lucie FL city council district 1"
   },
   "ocd-division/country:us/state:fl/county:indian_river/council_district:4": {
    "name": "Commission District 4",
@@ -23197,14 +23197,14 @@
     951
    ]
   },
-  "ocd-division/country:us/state:fl/place:port_st_lucie/council_district:2": {
-   "name": "Port St Lucie FL city council district 2"
-  },
   "ocd-division/country:us/state:fl/county:indian_river/council_district:2": {
    "name": "Commission District 2",
    "officeIndices": [
     952
    ]
+  },
+  "ocd-division/country:us/state:fl/place:port_st_lucie/council_district:2": {
+   "name": "Port St Lucie FL city council district 2"
   },
   "ocd-division/country:us/state:fl/place:port_st_lucie/council_district:4": {
    "name": "Port St Lucie FL city council district 4"
@@ -26381,15 +26381,15 @@
    ]
   },
   {
-   "name": "County Commission, District 1",
-   "divisionId": "ocd-division/country:us/state:fl/county:wakulla/council_district:1",
+   "name": "County Commission, District 5",
+   "divisionId": "ocd-division/country:us/state:fl/county:lafayette/council_district:5",
    "officialIndices": [
     232
    ]
   },
   {
-   "name": "County Commission, District 5",
-   "divisionId": "ocd-division/country:us/state:fl/county:lafayette/council_district:5",
+   "name": "County Commission, District 1",
+   "divisionId": "ocd-division/country:us/state:fl/county:wakulla/council_district:1",
    "officialIndices": [
     233
    ]
@@ -27606,43 +27606,43 @@
    ]
   },
   {
-   "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:fl/county:marion",
+   "name": "County Commission, District 3",
+   "divisionId": "ocd-division/country:us/state:fl/county:taylor/council_district:3",
    "officialIndices": [
     407
    ]
   },
   {
-   "name": "Tax Collector",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:fl/county:marion",
    "officialIndices": [
     408
    ]
   },
   {
-   "name": "Clerk of Courts",
+   "name": "Tax Collector",
    "divisionId": "ocd-division/country:us/state:fl/county:marion",
    "officialIndices": [
     409
    ]
   },
   {
-   "name": "Property Appraiser",
+   "name": "Clerk of Courts",
    "divisionId": "ocd-division/country:us/state:fl/county:marion",
    "officialIndices": [
     410
    ]
   },
   {
-   "name": "Supervisor of Elections",
+   "name": "Property Appraiser",
    "divisionId": "ocd-division/country:us/state:fl/county:marion",
    "officialIndices": [
     411
    ]
   },
   {
-   "name": "County Commission, District 3",
-   "divisionId": "ocd-division/country:us/state:fl/county:taylor/council_district:3",
+   "name": "Supervisor of Elections",
+   "divisionId": "ocd-division/country:us/state:fl/county:marion",
    "officialIndices": [
     412
    ]
@@ -30368,29 +30368,29 @@
    ]
   },
   {
-   "name": "Council, District 6",
-   "divisionId": "ocd-division/country:us/state:fl/place:jacksonville/council_district:6",
+   "name": "County Commission, District 4",
+   "divisionId": "ocd-division/country:us/state:fl/county:leon/council_district:4",
    "officialIndices": [
     805
    ]
   },
   {
-   "name": "County Commission, District 4",
-   "divisionId": "ocd-division/country:us/state:fl/county:leon/council_district:4",
+   "name": "Council, District 6",
+   "divisionId": "ocd-division/country:us/state:fl/place:jacksonville/council_district:6",
    "officialIndices": [
     806
    ]
   },
   {
-   "name": "Council, District 5",
-   "divisionId": "ocd-division/country:us/state:fl/place:jacksonville/council_district:5",
+   "name": "County Commission, District 3",
+   "divisionId": "ocd-division/country:us/state:fl/county:leon/council_district:3",
    "officialIndices": [
     807
    ]
   },
   {
-   "name": "County Commission, District 3",
-   "divisionId": "ocd-division/country:us/state:fl/county:leon/council_district:3",
+   "name": "Council, District 5",
+   "divisionId": "ocd-division/country:us/state:fl/place:jacksonville/council_district:5",
    "officialIndices": [
     808
    ]
@@ -30403,15 +30403,15 @@
    ]
   },
   {
-   "name": "Council, District 7",
-   "divisionId": "ocd-division/country:us/state:fl/place:jacksonville/council_district:7",
+   "name": "County Commission, District 5",
+   "divisionId": "ocd-division/country:us/state:fl/county:leon/council_district:5",
    "officialIndices": [
     810
    ]
   },
   {
-   "name": "County Commission, District 5",
-   "divisionId": "ocd-division/country:us/state:fl/county:leon/council_district:5",
+   "name": "Council, District 7",
+   "divisionId": "ocd-division/country:us/state:fl/place:jacksonville/council_district:7",
    "officialIndices": [
     811
    ]
@@ -30431,29 +30431,29 @@
    ]
   },
   {
-   "name": "Council, District 4",
-   "divisionId": "ocd-division/country:us/state:fl/place:jacksonville/council_district:4",
+   "name": "County Commission, District 2",
+   "divisionId": "ocd-division/country:us/state:fl/county:leon/council_district:2",
    "officialIndices": [
     814
    ]
   },
   {
-   "name": "County Commission, District 2",
-   "divisionId": "ocd-division/country:us/state:fl/county:leon/council_district:2",
+   "name": "Council, District 4",
+   "divisionId": "ocd-division/country:us/state:fl/place:jacksonville/council_district:4",
    "officialIndices": [
     815
    ]
   },
   {
-   "name": "Council, District 3",
-   "divisionId": "ocd-division/country:us/state:fl/place:jacksonville/council_district:3",
+   "name": "County Commission, District 1",
+   "divisionId": "ocd-division/country:us/state:fl/county:leon/council_district:1",
    "officialIndices": [
     816
    ]
   },
   {
-   "name": "County Commission, District 1",
-   "divisionId": "ocd-division/country:us/state:fl/county:leon/council_district:1",
+   "name": "Council, District 3",
+   "divisionId": "ocd-division/country:us/state:fl/place:jacksonville/council_district:3",
    "officialIndices": [
     817
    ]
@@ -31472,14 +31472,6 @@
    "photoUrl": "https://graham.house.gov/sites/graham.house.gov/files/styles/congress_image_medium/public/wysiwyg_uploaded/gwen-graham_official_photo.jpg?itok=rcDJeMnR",
    "channels": [
     {
-     "type": "Twitter",
-     "id": "GwenForCongress"
-    },
-    {
-     "type": "Facebook",
-     "id": "GwenForCongress"
-    },
-    {
      "type": "Facebook",
      "id": "RepGwenGraham"
     },
@@ -31490,6 +31482,14 @@
     {
      "type": "Twitter",
      "id": "RepGwenGraham"
+    },
+    {
+     "type": "Twitter",
+     "id": "GwenForCongress"
+    },
+    {
+     "type": "Facebook",
+     "id": "GwenForCongress"
     }
    ]
   },
@@ -31901,16 +31901,16 @@
    "photoUrl": "http://clawson.house.gov/images/img1.png",
    "channels": [
     {
+     "type": "YouTube",
+     "id": "UCITQY2TCSy0mkNxElWtdmCA"
+    },
+    {
      "type": "Facebook",
      "id": "ClawsonTheOutsider"
     },
     {
      "type": "Twitter",
      "id": "repcurtclawson"
-    },
-    {
-     "type": "YouTube",
-     "id": "UCITQY2TCSy0mkNxElWtdmCA"
     }
    ]
   },
@@ -32386,16 +32386,16 @@
    ],
    "channels": [
     {
-     "type": "YouTube",
-     "id": "CurbeloTV"
+     "type": "Twitter",
+     "id": "carloslcurbelo"
     },
     {
      "type": "Facebook",
      "id": "carloslcurbelo"
     },
     {
-     "type": "Twitter",
-     "id": "carloslcurbelo"
+     "type": "YouTube",
+     "id": "CurbeloTV"
     },
     {
      "type": "Facebook",
@@ -32469,11 +32469,11 @@
      "id": "FLGovScott"
     },
     {
-     "type": "YouTube",
+     "type": "Facebook",
      "id": "scottforflorida"
     },
     {
-     "type": "Facebook",
+     "type": "YouTube",
      "id": "scottforflorida"
     }
    ]
@@ -32527,12 +32527,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "electgregevers"
-    },
-    {
      "type": "Twitter",
      "id": "gregevers"
+    },
+    {
+     "type": "Facebook",
+     "id": "electgregevers"
     }
    ]
   },
@@ -32660,12 +32660,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "Rob_Bradley"
-    },
-    {
      "type": "Facebook",
      "id": "Rob.BradleyUF"
+    },
+    {
+     "type": "Twitter",
+     "id": "Rob_Bradley"
     }
    ]
   },
@@ -32703,12 +32703,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "57183058315"
-    },
-    {
      "type": "Twitter",
      "id": "aaronpbean"
+    },
+    {
+     "type": "Facebook",
+     "id": "57183058315"
     }
    ]
   },
@@ -32936,16 +32936,16 @@
    ],
    "channels": [
     {
+     "type": "Twitter",
+     "id": "mattgaetz"
+    },
+    {
      "type": "YouTube",
      "id": "matthewgaetz"
     },
     {
      "type": "Facebook",
      "id": "RepresentativeMattGaetz"
-    },
-    {
-     "type": "Twitter",
-     "id": "mattgaetz"
     }
    ]
   },
@@ -33065,12 +33065,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "repclayingram"
-    },
-    {
      "type": "Facebook",
      "id": "ClayIngramFL"
+    },
+    {
+     "type": "Twitter",
+     "id": "repclayingram"
     }
    ]
   },
@@ -33429,20 +33429,20 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "RossSpano"
-    },
-    {
-     "type": "YouTube",
-     "id": "VoteRossSpano"
-    },
-    {
      "type": "Facebook",
      "id": "RossSpano"
     },
     {
      "type": "Facebook",
      "id": "ross.spano.9"
+    },
+    {
+     "type": "Twitter",
+     "id": "RossSpano"
+    },
+    {
+     "type": "YouTube",
+     "id": "VoteRossSpano"
     }
    ]
   },
@@ -33480,16 +33480,16 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "repdanayoung"
-    },
-    {
      "type": "YouTube",
      "id": "votedanayoung"
     },
     {
      "type": "Facebook",
      "id": "146526288733493"
+    },
+    {
+     "type": "Twitter",
+     "id": "repdanayoung"
     }
    ]
   },
@@ -33571,12 +33571,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "RepJanetCruz"
-    },
-    {
      "type": "Facebook",
      "id": "janetcruzrifkin"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepJanetCruz"
     }
    ]
   },
@@ -33648,12 +33648,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "larry.ahern1"
-    },
-    {
      "type": "Twitter",
      "id": "ahernlarry"
+    },
+    {
+     "type": "Facebook",
+     "id": "larry.ahern1"
     }
    ]
   },
@@ -33685,6 +33685,7 @@
    "urls": [
     "http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4610&LegislativeTermId=86"
    ],
+   "photoUrl": "http://www.myfloridahouse.gov/FileStores/Web/Imaging/Member/4610.jpg",
    "channels": [
     {
      "type": "Twitter",
@@ -33731,12 +33732,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "DwightDudleyFL"
-    },
-    {
      "type": "YouTube",
      "id": "ElectDwightDudley"
+    },
+    {
+     "type": "Twitter",
+     "id": "DwightDudleyFL"
     }
    ]
   },
@@ -33768,14 +33769,11 @@
    "urls": [
     "http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4571&SessionId=75"
    ],
+   "photoUrl": "http://www.myfloridahouse.gov/FileStores/Web/Imaging/Member/4571.jpg",
    "emails": [
     "Kathleen.Peters@myfloridahouse.gov"
    ],
    "channels": [
-    {
-     "type": "Twitter",
-     "id": "KathleenMPeters"
-    },
     {
      "type": "Facebook",
      "id": "VoteKathleenPeters"
@@ -33783,6 +33781,10 @@
     {
      "type": "Facebook",
      "id": "kathleen.m.peters.3"
+    },
+    {
+     "type": "Twitter",
+     "id": "KathleenMPeters"
     }
    ]
   },
@@ -33864,12 +33866,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "darrylrouson"
-    },
-    {
      "type": "Facebook",
      "id": "darryl.rouson"
+    },
+    {
+     "type": "Twitter",
+     "id": "darrylrouson"
     }
    ]
   },
@@ -33946,7 +33948,7 @@
     "(941) 955-8077"
    ],
    "urls": [
-    "http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4512&SessionId=73"
+    "http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4512&SessionId=75"
    ],
    "photoUrl": "http://www.myfloridahouse.gov/FileStores/Web/Imaging/Member/4512.jpg",
    "emails": [
@@ -34191,12 +34193,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "DaneEagle"
-    },
-    {
      "type": "Facebook",
      "id": "155443277896065"
+    },
+    {
+     "type": "Twitter",
+     "id": "DaneEagle"
     }
    ]
   },
@@ -34234,16 +34236,16 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "206851166027074"
+     "type": "Twitter",
+     "id": "MarkPafford"
     },
     {
      "type": "YouTube",
      "id": "markpafford"
     },
     {
-     "type": "Twitter",
-     "id": "MarkPafford"
+     "type": "Facebook",
+     "id": "206851166027074"
     }
    ]
   },
@@ -34281,12 +34283,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "324167011004401"
-    },
-    {
      "type": "Twitter",
      "id": "PatRooneyJr"
+    },
+    {
+     "type": "Facebook",
+     "id": "324167011004401"
     }
    ]
   },
@@ -35549,12 +35551,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "JimmieTSmith"
-    },
-    {
      "type": "Facebook",
      "id": "Rep.Jimmie.T.Smith"
+    },
+    {
+     "type": "Twitter",
+     "id": "JimmieTSmith"
     }
    ]
   },
@@ -35592,16 +35594,16 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "richard.corcoran.311"
+     "type": "YouTube",
+     "id": "CorcoranCampaign"
     },
     {
      "type": "Twitter",
      "id": "richardcorcoran"
     },
     {
-     "type": "YouTube",
-     "id": "CorcoranCampaign"
+     "type": "Facebook",
+     "id": "richard.corcoran.311"
     }
    ]
   },
@@ -35678,12 +35680,12 @@
    ],
    "channels": [
     {
-     "type": "YouTube",
-     "id": "UC0RDl8LUEyBEta46p4kKW0w"
-    },
-    {
      "type": "Twitter",
      "id": "NeilCombee"
+    },
+    {
+     "type": "YouTube",
+     "id": "UC0RDl8LUEyBEta46p4kKW0w"
     }
    ]
   },
@@ -36059,12 +36061,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "dennisbaxley"
-    },
-    {
      "type": "Facebook",
      "id": "DennisBaxleyPage"
+    },
+    {
+     "type": "Twitter",
+     "id": "dennisbaxley"
     }
    ]
   },
@@ -36142,16 +36144,16 @@
    ],
    "channels": [
     {
+     "type": "Facebook",
+     "id": "KeithPerryFL"
+    },
+    {
      "type": "Twitter",
      "id": "keithperry21"
     },
     {
      "type": "YouTube",
      "id": "UCIbDro5cunSH4vO8KDDhqtQ"
-    },
-    {
-     "type": "Facebook",
-     "id": "KeithPerryFL"
     }
    ]
   },
@@ -36296,7 +36298,7 @@
     "(904) 278-5761"
    ],
    "urls": [
-    "http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4540&SessionId=73"
+    "http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4540&SessionId=75"
    ],
    "photoUrl": "http://www.myfloridahouse.gov/FileStores/Web/Imaging/Member/4540.jpg",
    "emails": [
@@ -36304,12 +36306,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "Travis_Cummings"
-    },
-    {
      "type": "Facebook",
      "id": "RepresentativeTravisCummingsDistrict18"
+    },
+    {
+     "type": "Twitter",
+     "id": "Travis_Cummings"
     }
    ]
   },
@@ -36634,12 +36636,12 @@
      "id": "SenThadAltman"
     },
     {
-     "type": "GooglePlus",
-     "id": "103320774629173512051"
-    },
-    {
      "type": "YouTube",
      "id": "senatorthadaltman"
+    },
+    {
+     "type": "GooglePlus",
+     "id": "103320774629173512051"
     },
     {
      "type": "Twitter",
@@ -37380,12 +37382,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "senatorjacklatvala"
-    },
-    {
      "type": "Twitter",
      "id": "jacklatvala"
+    },
+    {
+     "type": "Facebook",
+     "id": "senatorjacklatvala"
     }
    ]
   },
@@ -37423,12 +37425,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "SenChrisSmith"
-    },
-    {
      "type": "YouTube",
      "id": "chrissmithforsenate"
+    },
+    {
+     "type": "Twitter",
+     "id": "SenChrisSmith"
     },
     {
      "type": "Facebook",
@@ -37514,12 +37516,12 @@
      "id": "LBenacquisto"
     },
     {
-     "type": "YouTube",
-     "id": "lbenacquisto"
-    },
-    {
      "type": "Twitter",
      "id": "lizbethkb"
+    },
+    {
+     "type": "YouTube",
+     "id": "lbenacquisto"
     }
    ]
   },
@@ -37682,16 +37684,16 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "Maria.Lorts.Sachs"
+     "type": "Twitter",
+     "id": "mariasachs"
     },
     {
      "type": "YouTube",
      "id": "SenatorMariaSachs"
     },
     {
-     "type": "Twitter",
-     "id": "mariasachs"
+     "type": "Facebook",
+     "id": "Maria.Lorts.Sachs"
     }
    ]
   },
@@ -37895,12 +37897,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "RepMannyDiazJr"
-    },
-    {
      "type": "Facebook",
      "id": "MannyDiazJr2014"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepMannyDiazJr"
     }
    ]
   },
@@ -38080,12 +38082,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "Kathleen4SWFL"
-    },
-    {
      "type": "Facebook",
      "id": "RepPassidomo"
+    },
+    {
+     "type": "Twitter",
+     "id": "Kathleen4SWFL"
     }
    ]
   },
@@ -38281,15 +38283,15 @@
    ],
    "channels": [
     {
+     "type": "Twitter",
+     "id": "HollyRaschein"
+    },
+    {
      "type": "YouTube",
      "id": "hollyraschein"
     },
     {
      "type": "Facebook",
-     "id": "HollyRaschein"
-    },
-    {
-     "type": "Twitter",
      "id": "HollyRaschein"
     }
    ]
@@ -38419,12 +38421,12 @@
      "id": "RepFrankArtiles"
     },
     {
-     "type": "YouTube",
-     "id": "frankartiles1"
-    },
-    {
      "type": "Twitter",
      "id": "Artiles118"
+    },
+    {
+     "type": "YouTube",
+     "id": "frankartiles1"
     }
    ]
   },
@@ -38584,16 +38586,16 @@
    ],
    "channels": [
     {
+     "type": "Facebook",
+     "id": "ErikFresen2014"
+    },
+    {
      "type": "Twitter",
      "id": "ErikFresenFL"
     },
     {
      "type": "YouTube",
      "id": "erikfresen1"
-    },
-    {
-     "type": "Facebook",
-     "id": "ErikFresen2014"
     }
    ]
   },
@@ -38631,12 +38633,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "david4florida"
-    },
-    {
      "type": "Facebook",
      "id": "DavidRichardsonFL"
+    },
+    {
+     "type": "Twitter",
+     "id": "david4florida"
     }
    ]
   },
@@ -38674,12 +38676,12 @@
    ],
    "channels": [
     {
-     "type": "YouTube",
-     "id": "UCIZyzHw8NAfCN5IebL4nqGw"
-    },
-    {
      "type": "Facebook",
      "id": "JeanetteNunezCampaign"
+    },
+    {
+     "type": "YouTube",
+     "id": "UCIZyzHw8NAfCN5IebL4nqGw"
     },
     {
      "type": "Twitter",
@@ -39113,8 +39115,11 @@
     }
    ],
    "phones": [
-    "(954) 828-5923",
+    "(954) 828-5003",
     "(954) 828-5004"
+   ],
+   "urls": [
+    "http://www.fortlauderdale.gov/government/city-commission/commissioner-dean-trantalis"
    ],
    "photoUrl": "http://www.fortlauderdale.gov/Home/ShowImage?id=1462&t=635469719674900000",
    "emails": [
@@ -39137,7 +39142,10 @@
     "(954) 828-5003",
     "(954) 828-5004"
    ],
-   "photoUrl": "http://www.fortlauderdale.gov/Home/ShowImage?id=7905&t=635512160157230000",
+   "urls": [
+    "http://www.fortlauderdale.gov/government/city-commission/commissioner-robert-l-mckinzie"
+   ],
+   "photoUrl": "http://www.fortlauderdale.gov/Home/ShowImage?id=7901&t=635512155879400000",
    "emails": [
     "RMckinzie@fortlauderdale.gov"
    ]
@@ -39156,6 +39164,9 @@
    ],
    "phones": [
     "(954) 828-5004"
+   ],
+   "urls": [
+    "http://www.fortlauderdale.gov/government/city-commission/vice-mayor-romney-rogers"
    ],
    "photoUrl": "http://www.fortlauderdale.gov/Home/ShowImage?id=1458&t=635385174005570000",
    "emails": [
@@ -39201,15 +39212,19 @@
    "address": [
     {
      "line1": "City Hall",
-     "line2": "100 North Andrews Avenue",
-     "line3": "",
+     "line2": "8th Floor",
+     "line3": "100 North Andrews Avenue",
      "city": "Fort Lauderdale",
      "state": "FL",
      "zip": "33301"
     }
    ],
    "phones": [
-    "(954) 828-5003"
+    "(954) 828-5003",
+    "(954) 828-5004"
+   ],
+   "urls": [
+    "http://www.fortlauderdale.gov/government/city-commission/mayor-john-p-jack-seiler"
    ],
    "photoUrl": "http://www.fortlauderdale.gov/Home/ShowImage?id=1460&t=635385174009630000",
    "emails": [
@@ -39565,21 +39580,6 @@
    ]
   },
   {
-   "name": "Ralph C. Thomas, Jr.",
-   "address": [
-    {
-     "line1": "637 hunters trace",
-     "city": "crawfordville",
-     "state": "FL",
-     "zip": "32327"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(850) 926-0919"
-   ]
-  },
-  {
    "name": "Earnest Jones",
    "address": [
     {
@@ -39592,6 +39592,21 @@
    "party": "Unknown",
    "phones": [
     "(386) 294-1600"
+   ]
+  },
+  {
+   "name": "Ralph C. Thomas, Jr.",
+   "address": [
+    {
+     "line1": "637 hunters trace",
+     "city": "crawfordville",
+     "state": "FL",
+     "zip": "32327"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(850) 926-0919"
    ]
   },
   {
@@ -41007,11 +41022,11 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "BobBuckhorn"
     },
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "BobBuckhorn"
     }
    ]
@@ -41037,11 +41052,11 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "mikefortampa"
     },
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "mikefortampa"
     }
    ]
@@ -41586,12 +41601,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "commissioneraudreymedmonson"
-    },
-    {
      "type": "Twitter",
      "id": "audreymedmonson"
+    },
+    {
+     "type": "Facebook",
+     "id": "commissioneraudreymedmonson"
     }
    ]
   },
@@ -42283,9 +42298,6 @@
    "phones": [
     "(800) 854-2862"
    ],
-   "urls": [
-    "http://www.pascosheriff.com/webapps/index.pgm"
-   ],
    "channels": [
     {
      "type": "Facebook",
@@ -42553,6 +42565,9 @@
    "party": "Democratic",
    "phones": [
     "(407) 836-2709"
+   ],
+   "urls": [
+    "http://www.octaxcol.com/"
    ],
    "channels": [
     {
@@ -42989,12 +43004,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "Tomas_Regalado"
-    },
-    {
      "type": "Facebook",
      "id": "130347573667136"
+    },
+    {
+     "type": "Twitter",
+     "id": "Tomas_Regalado"
     }
    ]
   },
@@ -43050,6 +43065,7 @@
    "urls": [
     "http://www.miamigov.com/District2"
    ],
+   "photoUrl": "http://www.miamigov.com/District2/images/Sarnoff150x175.jpg",
    "emails": [
     "msarnoff@miamigov.com"
    ],
@@ -43100,6 +43116,24 @@
    ],
    "emails": [
     "wgort@miamigov.com"
+   ]
+  },
+  {
+   "name": "Jody Devane",
+   "address": [
+    {
+     "line1": "201 east green street",
+     "city": "perry",
+     "state": "FL",
+     "zip": "32347"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(850) 838-3500"
+   ],
+   "emails": [
+    "tcbcc@taylorcountygov.com"
    ]
   },
   {
@@ -43216,24 +43250,6 @@
    ]
   },
   {
-   "name": "Jody Devane",
-   "address": [
-    {
-     "line1": "201 east green street",
-     "city": "perry",
-     "state": "FL",
-     "zip": "32347"
-    }
-   ],
-   "party": "Democratic",
-   "phones": [
-    "(850) 838-3500"
-   ],
-   "emails": [
-    "tcbcc@taylorcountygov.com"
-   ]
-  },
-  {
    "name": "Francis Suarez",
    "address": [
     {
@@ -43255,12 +43271,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "francis.suarez.73"
-    },
-    {
      "type": "Twitter",
      "id": "FrancisSuarez"
+    },
+    {
+     "type": "Facebook",
+     "id": "francis.suarez.73"
     }
    ]
   },
@@ -43324,6 +43340,9 @@
    "party": "Unknown",
    "phones": [
     "(772) 221-2358"
+   ],
+   "urls": [
+    "http://ap3server.martin.fl.us:7778/portal/page?_pageid=344,264050&_dad=portal&_schema=PORTAL"
    ]
   },
   {
@@ -43816,9 +43835,6 @@
    "party": "Democratic",
    "phones": [
     "(850) 926-7171"
-   ],
-   "urls": [
-    "http://www.wcso.org/"
    ],
    "channels": [
     {
@@ -46230,6 +46246,9 @@
    "phones": [
     "(407) 665-7205"
    ],
+   "urls": [
+    "http://www.seminolecountyfl.gov/bcc/district2.aspx"
+   ],
    "emails": [
     "jspry02@seminolecountyfl.gov"
    ]
@@ -46247,6 +46266,9 @@
    "party": "Unknown",
    "phones": [
     "(407) 665-7215"
+   ],
+   "urls": [
+    "http://www.seminolecountyfl.gov/bcc/district1.aspx"
    ],
    "emails": [
     "fmacdonald@seminolecountyfl.gov"
@@ -46266,6 +46288,9 @@
    "phones": [
     "(407) 665-7209"
    ],
+   "urls": [
+    "http://www.seminolecountyfl.gov/bcc/district5.aspx"
+   ],
    "emails": [
     "stucker@seminolecountyfl.gov"
    ]
@@ -46284,6 +46309,9 @@
    "phones": [
     "(407) 665-7201"
    ],
+   "urls": [
+    "http://www.seminolecountyfl.gov/bcc/district4.aspx"
+   ],
    "emails": [
     "gvenn@seminolecountyfl.gov"
    ]
@@ -46301,6 +46329,9 @@
    "party": "Unknown",
    "phones": [
     "(407) 665-7207"
+   ],
+   "urls": [
+    "http://www.seminolecountyfl.gov/bcc/district3.aspx"
    ],
    "emails": [
     "lconstantine@seminolecountyfl.gov"
@@ -47504,9 +47535,6 @@
    "party": "Unknown",
    "phones": [
     "(850) 653-9520"
-   ],
-   "urls": [
-    "http://votefranklin.com/"
    ],
    "emails": [
     "icelliott@votefranklin.com"
@@ -50845,6 +50873,9 @@
    "party": "Unknown",
    "phones": [
     "(407) 665-4313"
+   ],
+   "urls": [
+    "http://www.seminoleclerk.org/"
    ]
   },
   {
@@ -51451,6 +51482,19 @@
    ]
   },
   {
+   "name": "Bryan Desloge",
+   "party": "Nonpartisan",
+   "phones": [
+    "(850) 606-5364"
+   ],
+   "urls": [
+    "http://cms.leoncountyfl.gov/Home/CountyCommission/BryanDesloge"
+   ],
+   "emails": [
+    "DeslogeB@leoncountyfl.gov"
+   ]
+  },
+  {
    "name": "Matt Schellenberg",
    "address": [
     {
@@ -51473,16 +51517,16 @@
    ]
   },
   {
-   "name": "Bryan Desloge",
+   "name": "John Dailey",
    "party": "Nonpartisan",
    "phones": [
-    "(850) 606-5364"
+    "(850) 606-5363"
    ],
    "urls": [
-    "http://cms.leoncountyfl.gov/Home/CountyCommission/BryanDesloge"
+    "http://cms.leoncountyfl.gov/Home/CountyCommission/JohnDailey"
    ],
    "emails": [
-    "DeslogeB@leoncountyfl.gov"
+    "DaileyJ@leoncountyfl.gov"
    ]
   },
   {
@@ -51508,19 +51552,6 @@
    ]
   },
   {
-   "name": "John Dailey",
-   "party": "Nonpartisan",
-   "phones": [
-    "(850) 606-5363"
-   ],
-   "urls": [
-    "http://cms.leoncountyfl.gov/Home/CountyCommission/JohnDailey"
-   ],
-   "emails": [
-    "DaileyJ@leoncountyfl.gov"
-   ]
-  },
-  {
    "name": "E. Denise Lee",
    "address": [
     {
@@ -51543,6 +51574,19 @@
    ]
   },
   {
+   "name": "Kristin Dozier",
+   "party": "Nonpartisan",
+   "phones": [
+    "(850) 606-5365"
+   ],
+   "urls": [
+    "http://cms.leoncountyfl.gov/Home/CountyCommission/KristinDozier"
+   ],
+   "emails": [
+    "DozierK@LeonCountyFl.gov"
+   ]
+  },
+  {
    "name": "Dr. Johnny Gaffney",
    "address": [
     {
@@ -51561,19 +51605,6 @@
    ],
    "emails": [
     "Gaffney@coj.net"
-   ]
-  },
-  {
-   "name": "Kristin Dozier",
-   "party": "Nonpartisan",
-   "phones": [
-    "(850) 606-5365"
-   ],
-   "urls": [
-    "http://cms.leoncountyfl.gov/Home/CountyCommission/KristinDozier"
-   ],
-   "emails": [
-    "DozierK@LeonCountyFl.gov"
    ]
   },
   {
@@ -51621,6 +51652,19 @@
    ]
   },
   {
+   "name": "Jane Sauls",
+   "party": "Nonpartisan",
+   "phones": [
+    "(850) 606-5362"
+   ],
+   "urls": [
+    "http://cms.leoncountyfl.gov/Home/CountyCommission/JaneSauls"
+   ],
+   "emails": [
+    "SaulsJ@LeonCountyFl.gov"
+   ]
+  },
+  {
    "name": "Don Redman",
    "address": [
     {
@@ -51643,16 +51687,16 @@
    ]
   },
   {
-   "name": "Jane Sauls",
+   "name": "William Proctor",
    "party": "Nonpartisan",
    "phones": [
-    "(850) 606-5362"
+    "(850) 606-5361"
    ],
    "urls": [
-    "http://cms.leoncountyfl.gov/Home/CountyCommission/JaneSauls"
+    "http://cms.leoncountyfl.gov/Home/CountyCommission/BillProctor"
    ],
    "emails": [
-    "SaulsJ@LeonCountyFl.gov"
+    "ProctorB@LeonCountyFl.gov"
    ]
   },
   {
@@ -51675,19 +51719,6 @@
    "photoUrl": "http://www.coj.net/getmedia/4a8cf25e-95f2-492f-8f4d-0a1aef03ca4a/2005-Clark-Portrait.aspx?width=200&height=250",
    "emails": [
     "RClark@coj.net"
-   ]
-  },
-  {
-   "name": "William Proctor",
-   "party": "Nonpartisan",
-   "phones": [
-    "(850) 606-5361"
-   ],
-   "urls": [
-    "http://cms.leoncountyfl.gov/Home/CountyCommission/BillProctor"
-   ],
-   "emails": [
-    "ProctorB@LeonCountyFl.gov"
    ]
   },
   {
@@ -53408,6 +53439,9 @@
    "party": "Unknown",
    "phones": [
     "(863) 534-5888"
+   ],
+   "urls": [
+    "http://www.polkelections.com/content.asp?c=1"
    ],
    "emails": [
     "loriedwards@polkelections.com"

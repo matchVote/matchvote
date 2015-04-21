@@ -27,11 +27,11 @@
   "ocd-division/country:us/state:ut/place:marriott-slaterville": {
    "name": "Marriott-Slaterville city"
   },
-  "ocd-division/country:us/state:ut/county:davis/precinct:bo10": {
-   "name": "Davis County Precinct Bo10"
-  },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv018": {
    "name": "Salt Lake County Precinct Riv018"
+  },
+  "ocd-division/country:us/state:ut/county:davis/precinct:bo10": {
+   "name": "Davis County Precinct Bo10"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv019": {
    "name": "Salt Lake County Precinct Riv019"
@@ -203,17 +203,17 @@
   "ocd-division/country:us/state:ut/county:weber/precinct:plv001": {
    "name": "Weber County Precinct Plv001"
   },
-  "ocd-division/country:us/state:ut/county:weber/precinct:plv004": {
-   "name": "Weber County Precinct Plv004"
-  },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv002": {
    "name": "Salt Lake County Precinct Riv002"
   },
-  "ocd-division/country:us/state:ut/county:weber/precinct:plv003": {
-   "name": "Weber County Precinct Plv003"
+  "ocd-division/country:us/state:ut/county:weber/precinct:plv004": {
+   "name": "Weber County Precinct Plv004"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv001": {
    "name": "Salt Lake County Precinct Riv001"
+  },
+  "ocd-division/country:us/state:ut/county:weber/precinct:plv003": {
+   "name": "Weber County Precinct Plv003"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv003": {
    "name": "Salt Lake County Precinct Riv003"
@@ -221,11 +221,11 @@
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv004": {
    "name": "Salt Lake County Precinct Riv004"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv005": {
-   "name": "Salt Lake County Precinct Riv005"
-  },
   "ocd-division/country:us/state:ut/county:salt_lake/school_district:east_hollywood_high": {
    "name": "east hollywood high"
+  },
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv005": {
+   "name": "Salt Lake County Precinct Riv005"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:riv006": {
    "name": "Salt Lake County Precinct Riv006"
@@ -251,20 +251,20 @@
   "ocd-division/country:us/state:ut/county:garfield/precinct:pa8": {
    "name": "Garfield County Precinct Pa8"
   },
-  "ocd-division/country:us/state:ut/place:lewiston": {
-   "name": "Lewiston city"
-  },
   "ocd-division/country:us/state:ut/county:garfield/precinct:pa7": {
    "name": "Garfield County Precinct Pa7"
+  },
+  "ocd-division/country:us/state:ut/place:lewiston": {
+   "name": "Lewiston city"
   },
   "ocd-division/country:us/state:ut/county:juab/school_district:tintic_district": {
    "name": "tintic district"
   },
-  "ocd-division/country:us/state:ut/county:juab/precinct:le06": {
-   "name": "Juab County Precinct Le06"
-  },
   "ocd-division/country:us/state:ut/county:summit/precinct:peoa15": {
    "name": "Summit County Precinct Peoa15"
+  },
+  "ocd-division/country:us/state:ut/county:juab/precinct:le06": {
+   "name": "Juab County Precinct Le06"
   },
   "ocd-division/country:us/state:ut/county:weber/precinct:wcu002": {
    "name": "Weber County Precinct Wcu002"
@@ -404,14 +404,14 @@
   "ocd-division/country:us/state:ut/county:davis/precinct:ce10": {
    "name": "Davis County Precinct Ce10"
   },
+  "ocd-division/country:us/state:ut/county:weber/school_district:ogden_preparatory_academy": {
+   "name": "ogden preparatory academy"
+  },
   "ocd-division/country:us/state:ut/sldu:9": {
    "name": "Utah State Senate district 9",
    "officeIndices": [
     7
    ]
-  },
-  "ocd-division/country:us/state:ut/county:weber/school_district:ogden_preparatory_academy": {
-   "name": "ogden preparatory academy"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/school_district:summit_academy_high_school": {
    "name": "summit academy high school"
@@ -437,14 +437,14 @@
     10
    ]
   },
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:slc160": {
+   "name": "Salt Lake County Precinct Slc160"
+  },
   "ocd-division/country:us/state:ut/sldu:4": {
    "name": "Utah State Senate district 4",
    "officeIndices": [
     11
    ]
-  },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:slc160": {
-   "name": "Salt Lake County Precinct Slc160"
   },
   "ocd-division/country:us/state:ut/sldu:5": {
    "name": "Utah State Senate district 5",
@@ -482,11 +482,11 @@
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:slc142": {
    "name": "Salt Lake County Precinct Slc142"
   },
-  "ocd-division/country:us/state:ut/place:kanab": {
-   "name": "Kanab city"
-  },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:slc141": {
    "name": "Salt Lake County Precinct Slc141"
+  },
+  "ocd-division/country:us/state:ut/place:kanab": {
+   "name": "Kanab city"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:slc144": {
    "name": "Salt Lake County Precinct Slc144"
@@ -503,17 +503,20 @@
   "ocd-division/country:us/state:ut/county:davis/precinct:ce04": {
    "name": "Davis County Precinct Ce04"
   },
-  "ocd-division/country:us/state:ut/county:davis/precinct:ce03": {
-   "name": "Davis County Precinct Ce03"
-  },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:slc149": {
    "name": "Salt Lake County Precinct Slc149"
+  },
+  "ocd-division/country:us/state:ut/county:davis/precinct:ce03": {
+   "name": "Davis County Precinct Ce03"
   },
   "ocd-division/country:us/state:ut/county:davis/precinct:ce06": {
    "name": "Davis County Precinct Ce06"
   },
   "ocd-division/country:us/state:ut/county:davis/precinct:ce05": {
    "name": "Davis County Precinct Ce05"
+  },
+  "ocd-division/country:us/state:ut/county:davis/precinct:ce07": {
+   "name": "Davis County Precinct Ce07"
   },
   "ocd-division/country:us/state:ut/county:beaver": {
    "name": "Beaver County",
@@ -526,9 +529,6 @@
     121,
     122
    ]
-  },
-  "ocd-division/country:us/state:ut/county:davis/precinct:ce07": {
-   "name": "Davis County Precinct Ce07"
   },
   "ocd-division/country:us/state:ut/county:davis/precinct:ce08": {
    "name": "Davis County Precinct Ce08"
@@ -572,11 +572,11 @@
   "ocd-division/country:us/state:ut/county:utah/precinct:ucbe1": {
    "name": "Utah County Precinct Ucbe1"
   },
-  "ocd-division/country:us/state:ut/county:utah/precinct:ucbe2": {
-   "name": "Utah County Precinct Ucbe2"
-  },
   "ocd-division/country:us/state:ut/county:kane/precinct:ka4": {
    "name": "Kane County Precinct Ka4"
+  },
+  "ocd-division/country:us/state:ut/county:utah/precinct:ucbe2": {
+   "name": "Utah County Precinct Ucbe2"
   },
   "ocd-division/country:us/state:ut/county:kane/school_district:kane_district": {
    "name": "kane district"
@@ -584,11 +584,11 @@
   "ocd-division/country:us/state:ut/county:salt_lake/school_district:navigator_pointe_academy": {
    "name": "navigator pointe academy"
   },
-  "ocd-division/country:us/state:ut/county:cache/precinct:smi07": {
-   "name": "Cache County Precinct Smi07"
-  },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:slc164": {
    "name": "Salt Lake County Precinct Slc164"
+  },
+  "ocd-division/country:us/state:ut/county:cache/precinct:smi07": {
+   "name": "Cache County Precinct Smi07"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:slc163": {
    "name": "Salt Lake County Precinct Slc163"
@@ -599,20 +599,20 @@
   "ocd-division/country:us/state:ut/place:cedar_city": {
    "name": "Cedar City city"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:slc167": {
-   "name": "Salt Lake County Precinct Slc167"
-  },
   "ocd-division/country:us/state:ut/county:salt_lake/school_district:canyon_rim_academy": {
    "name": "canyon rim academy"
+  },
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:slc167": {
+   "name": "Salt Lake County Precinct Slc167"
   },
   "ocd-division/country:us/state:ut/county:millard/precinct:del17": {
    "name": "Millard County Precinct Del17"
   },
-  "ocd-division/country:us/state:ut/county:millard/precinct:del18": {
-   "name": "Millard County Precinct Del18"
-  },
   "ocd-division/country:us/state:ut/county:iron/precinct:parago": {
    "name": "Iron County Precinct Parago"
+  },
+  "ocd-division/country:us/state:ut/county:millard/precinct:del18": {
+   "name": "Millard County Precinct Del18"
   },
   "ocd-division/country:us/state:ut/county:uintah/precinct:np04": {
    "name": "Uintah County Precinct Np04"
@@ -1153,50 +1153,47 @@
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:tay045": {
    "name": "Salt Lake County Precinct Tay045"
   },
-  "ocd-division/country:us/state:ut/county:weber/precinct:ogd010": {
-   "name": "Weber County Precinct Ogd010"
-  },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:tay044": {
    "name": "Salt Lake County Precinct Tay044"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol008": {
-   "name": "Salt Lake County Precinct Hol008"
+  "ocd-division/country:us/state:ut/county:weber/precinct:ogd010": {
+   "name": "Weber County Precinct Ogd010"
   },
   "ocd-division/country:us/state:ut/county:iron/precinct:cc_6": {
    "name": "Iron County Precinct Cc 6"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol007": {
-   "name": "Salt Lake County Precinct Hol007"
-  },
-  "ocd-division/country:us/state:ut/county:iron/precinct:cc_5": {
-   "name": "Iron County Precinct Cc 5"
-  },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:mil007": {
-   "name": "Salt Lake County Precinct Mil007"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol008": {
+   "name": "Salt Lake County Precinct Hol008"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd049": {
    "name": "Salt Lake County Precinct Sjd049"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol006": {
-   "name": "Salt Lake County Precinct Hol006"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:mil007": {
+   "name": "Salt Lake County Precinct Mil007"
   },
-  "ocd-division/country:us/state:ut/county:iron/precinct:cc_8": {
-   "name": "Iron County Precinct Cc 8"
+  "ocd-division/country:us/state:ut/county:iron/precinct:cc_5": {
+   "name": "Iron County Precinct Cc 5"
+  },
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol007": {
+   "name": "Salt Lake County Precinct Hol007"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:mil004": {
    "name": "Salt Lake County Precinct Mil004"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol005": {
-   "name": "Salt Lake County Precinct Hol005"
+  "ocd-division/country:us/state:ut/county:iron/precinct:cc_8": {
+   "name": "Iron County Precinct Cc 8"
+  },
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol006": {
+   "name": "Salt Lake County Precinct Hol006"
   },
   "ocd-division/country:us/state:ut/county:iron/precinct:cc_7": {
    "name": "Iron County Precinct Cc 7"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol004": {
-   "name": "Salt Lake County Precinct Hol004"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol005": {
+   "name": "Salt Lake County Precinct Hol005"
   },
-  "ocd-division/country:us/state:ut/county:iron/precinct:cc_2": {
-   "name": "Iron County Precinct Cc 2"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd046": {
+   "name": "Salt Lake County Precinct Sjd046"
   },
   "ocd-division/country:us/state:ut/county:grand/council_district:1": {
    "name": "Grand County Commission District 1",
@@ -1204,50 +1201,53 @@
     143
    ]
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd046": {
-   "name": "Salt Lake County Precinct Sjd046"
+  "ocd-division/country:us/state:ut/county:iron/precinct:cc_2": {
+   "name": "Iron County Precinct Cc 2"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol003": {
-   "name": "Salt Lake County Precinct Hol003"
-  },
-  "ocd-division/country:us/state:ut/county:iron/precinct:cc_1": {
-   "name": "Iron County Precinct Cc 1"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol004": {
+   "name": "Salt Lake County Precinct Hol004"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd045": {
    "name": "Salt Lake County Precinct Sjd045"
   },
-  "ocd-division/country:us/state:ut/county:iron/precinct:cc_4": {
-   "name": "Iron County Precinct Cc 4"
+  "ocd-division/country:us/state:ut/county:iron/precinct:cc_1": {
+   "name": "Iron County Precinct Cc 1"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:mil008": {
-   "name": "Salt Lake County Precinct Mil008"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol003": {
+   "name": "Salt Lake County Precinct Hol003"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd048": {
    "name": "Salt Lake County Precinct Sjd048"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol001": {
-   "name": "Salt Lake County Precinct Hol001"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:mil008": {
+   "name": "Salt Lake County Precinct Mil008"
   },
-  "ocd-division/country:us/state:ut/county:iron/precinct:cc_3": {
-   "name": "Iron County Precinct Cc 3"
+  "ocd-division/country:us/state:ut/county:iron/precinct:cc_4": {
+   "name": "Iron County Precinct Cc 4"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd047": {
    "name": "Salt Lake County Precinct Sjd047"
   },
-  "ocd-division/country:us/state:ut/county:washington/school_district:tuacahn_high_school_for_the_performing_arts": {
-   "name": "tuacahn high school for the performing arts"
+  "ocd-division/country:us/state:ut/county:iron/precinct:cc_3": {
+   "name": "Iron County Precinct Cc 3"
+  },
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol001": {
+   "name": "Salt Lake County Precinct Hol001"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd041": {
    "name": "Salt Lake County Precinct Sjd041"
   },
+  "ocd-division/country:us/state:ut/county:washington/school_district:tuacahn_high_school_for_the_performing_arts": {
+   "name": "tuacahn high school for the performing arts"
+  },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd042": {
    "name": "Salt Lake County Precinct Sjd042"
   },
-  "ocd-division/country:us/state:ut/county:box_elder/precinct:cc": {
-   "name": "Box Elder County Precinct Cc"
-  },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:mil001": {
    "name": "Salt Lake County Precinct Mil001"
+  },
+  "ocd-division/country:us/state:ut/county:box_elder/precinct:cc": {
+   "name": "Box Elder County Precinct Cc"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd040": {
    "name": "Salt Lake County Precinct Sjd040"
@@ -1255,17 +1255,17 @@
   "ocd-division/country:us/state:ut/county:kane/precinct:ka3~b": {
    "name": "Kane County Precinct Ka3:B"
   },
-  "ocd-division/country:us/state:ut/place:fillmore": {
-   "name": "Fillmore city"
-  },
   "ocd-division/country:us/state:ut/county:kane/precinct:ka3~a": {
    "name": "Kane County Precinct Ka3:A"
   },
-  "ocd-division/country:us/state:ut/county:weber/precinct:ogd007": {
-   "name": "Weber County Precinct Ogd007"
+  "ocd-division/country:us/state:ut/place:fillmore": {
+   "name": "Fillmore city"
   },
   "ocd-division/country:us/state:ut/county:millard/precinct:abr14": {
    "name": "Millard County Precinct Abr14"
+  },
+  "ocd-division/country:us/state:ut/county:weber/precinct:ogd007": {
+   "name": "Weber County Precinct Ogd007"
   },
   "ocd-division/country:us/state:ut/county:weber/precinct:ogd008": {
    "name": "Weber County Precinct Ogd008"
@@ -1279,17 +1279,17 @@
   "ocd-division/country:us/state:ut/county:weber/precinct:ogd003": {
    "name": "Weber County Precinct Ogd003"
   },
-  "ocd-division/country:us/state:ut/county:weber/precinct:ogd006": {
-   "name": "Weber County Precinct Ogd006"
-  },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol011": {
    "name": "Salt Lake County Precinct Hol011"
   },
-  "ocd-division/country:us/state:ut/county:weber/precinct:ogd005": {
-   "name": "Weber County Precinct Ogd005"
+  "ocd-division/country:us/state:ut/county:weber/precinct:ogd006": {
+   "name": "Weber County Precinct Ogd006"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol010": {
    "name": "Salt Lake County Precinct Hol010"
+  },
+  "ocd-division/country:us/state:ut/county:weber/precinct:ogd005": {
+   "name": "Weber County Precinct Ogd005"
   },
   "ocd-division/country:us/state:ut/county:weber/precinct:ogd002": {
    "name": "Weber County Precinct Ogd002"
@@ -1297,14 +1297,11 @@
   "ocd-division/country:us/state:ut/county:weber/precinct:ogd001": {
    "name": "Weber County Precinct Ogd001"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol017": {
-   "name": "Salt Lake County Precinct Hol017"
-  },
   "ocd-division/country:us/state:ut/county:iron/precinct:midv": {
    "name": "Iron County Precinct Midv"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol016": {
-   "name": "Salt Lake County Precinct Hol016"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol017": {
+   "name": "Salt Lake County Precinct Hol017"
   },
   "ocd-division/country:us/state:ut/county:millard": {
    "name": "Millard County",
@@ -1321,20 +1318,23 @@
     153
    ]
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol019": {
-   "name": "Salt Lake County Precinct Hol019"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol016": {
+   "name": "Salt Lake County Precinct Hol016"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd039": {
    "name": "Salt Lake County Precinct Sjd039"
   },
-  "ocd-division/country:us/state:ut/place:ferron": {
-   "name": "Ferron city"
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol019": {
+   "name": "Salt Lake County Precinct Hol019"
+  },
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd038": {
+   "name": "Salt Lake County Precinct Sjd038"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol018": {
    "name": "Salt Lake County Precinct Hol018"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd038": {
-   "name": "Salt Lake County Precinct Sjd038"
+  "ocd-division/country:us/state:ut/place:ferron": {
+   "name": "Ferron city"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:hol013": {
    "name": "Salt Lake County Precinct Hol013"
@@ -2410,20 +2410,20 @@
   "ocd-division/country:us/state:ut/county:davis/precinct:wx06": {
    "name": "Davis County Precinct Wx06"
   },
-  "ocd-division/country:us/state:ut/county:carbon/precinct:31": {
-   "name": "Carbon County Precinct 31"
-  },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:wvc009": {
    "name": "Salt Lake County Precinct Wvc009"
   },
-  "ocd-division/country:us/state:ut/place:manila": {
-   "name": "Manila town"
+  "ocd-division/country:us/state:ut/county:carbon/precinct:31": {
+   "name": "Carbon County Precinct 31"
+  },
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:wvc008": {
+   "name": "Salt Lake County Precinct Wvc008"
   },
   "ocd-division/country:us/state:ut/county:carbon/precinct:30": {
    "name": "Carbon County Precinct 30"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:wvc008": {
-   "name": "Salt Lake County Precinct Wvc008"
+  "ocd-division/country:us/state:ut/place:manila": {
+   "name": "Manila town"
   },
   "ocd-division/country:us/state:ut/county:carbon/precinct:33": {
    "name": "Carbon County Precinct 33"
@@ -2434,11 +2434,11 @@
   "ocd-division/country:us/state:ut/county:carbon/precinct:34": {
    "name": "Carbon County Precinct 34"
   },
-  "ocd-division/country:us/state:ut/place:trenton": {
-   "name": "Trenton town"
-  },
   "ocd-division/country:us/state:ut/county:carbon/precinct:37": {
    "name": "Carbon County Precinct 37"
+  },
+  "ocd-division/country:us/state:ut/place:trenton": {
+   "name": "Trenton town"
   },
   "ocd-division/country:us/state:ut/county:carbon/precinct:36": {
    "name": "Carbon County Precinct 36"
@@ -2452,11 +2452,11 @@
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:wvc003": {
    "name": "Salt Lake County Precinct Wvc003"
   },
-  "ocd-division/country:us/state:ut/county:cache/school_district:logan_district": {
-   "name": "logan district"
-  },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:wvc004": {
    "name": "Salt Lake County Precinct Wvc004"
+  },
+  "ocd-division/country:us/state:ut/county:cache/school_district:logan_district": {
+   "name": "logan district"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:wvc005": {
    "name": "Salt Lake County Precinct Wvc005"
@@ -2476,11 +2476,11 @@
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:sil002": {
    "name": "Salt Lake County Precinct Sil002"
   },
-  "ocd-division/country:us/state:ut/county:wasatch/precinct:14": {
-   "name": "Wasatch County Precinct 14"
-  },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:sil003": {
    "name": "Salt Lake County Precinct Sil003"
+  },
+  "ocd-division/country:us/state:ut/county:wasatch/precinct:14": {
+   "name": "Wasatch County Precinct 14"
   },
   "ocd-division/country:us/state:ut/county:davis/precinct:wp07": {
    "name": "Davis County Precinct Wp07"
@@ -2494,26 +2494,26 @@
   "ocd-division/country:us/state:ut/county:davis/precinct:wp04": {
    "name": "Davis County Precinct Wp04"
   },
-  "ocd-division/country:us/state:ut/county:wasatch/precinct:13": {
-   "name": "Wasatch County Precinct 13"
-  },
   "ocd-division/country:us/state:ut/county:davis/precinct:wp03": {
    "name": "Davis County Precinct Wp03"
   },
-  "ocd-division/country:us/state:ut/county:wasatch/precinct:12": {
-   "name": "Wasatch County Precinct 12"
-  },
-  "ocd-division/country:us/state:ut/county:davis/precinct:wp02": {
-   "name": "Davis County Precinct Wp02"
+  "ocd-division/country:us/state:ut/county:wasatch/precinct:13": {
+   "name": "Wasatch County Precinct 13"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:sil001": {
    "name": "Salt Lake County Precinct Sil001"
   },
-  "ocd-division/country:us/state:ut/county:wasatch/precinct:11": {
-   "name": "Wasatch County Precinct 11"
+  "ocd-division/country:us/state:ut/county:davis/precinct:wp02": {
+   "name": "Davis County Precinct Wp02"
+  },
+  "ocd-division/country:us/state:ut/county:wasatch/precinct:12": {
+   "name": "Wasatch County Precinct 12"
   },
   "ocd-division/country:us/state:ut/county:davis/precinct:wp01": {
    "name": "Davis County Precinct Wp01"
+  },
+  "ocd-division/country:us/state:ut/county:wasatch/precinct:11": {
+   "name": "Wasatch County Precinct 11"
   },
   "ocd-division/country:us/state:ut/county:wasatch/precinct:10": {
    "name": "Wasatch County Precinct 10"
@@ -2521,11 +2521,11 @@
   "ocd-division/country:us/state:ut/county:box_elder/precinct:bear": {
    "name": "Box Elder County Precinct Bear"
   },
-  "ocd-division/country:us/state:ut/place:laketown": {
-   "name": "Laketown town"
-  },
   "ocd-division/country:us/state:ut/county:millard/school_district:millard_district": {
    "name": "millard district"
+  },
+  "ocd-division/country:us/state:ut/place:laketown": {
+   "name": "Laketown town"
   },
   "ocd-division/country:us/state:ut/place:cedar_hills": {
    "name": "Cedar Hills city"
@@ -3537,14 +3537,14 @@
   "ocd-division/country:us/state:ut/county:utah/precinct:sf17": {
    "name": "Utah County Precinct Sf17"
   },
+  "ocd-division/country:us/state:ut/place:cottonwood_heights": {
+   "name": "Cottonwood Heights city"
+  },
   "ocd-division/country:us/state:ut/sldl:45": {
    "name": "Utah State House district 45",
    "officeIndices": [
     78
    ]
-  },
-  "ocd-division/country:us/state:ut/place:cottonwood_heights": {
-   "name": "Cottonwood Heights city"
   },
   "ocd-division/country:us/state:ut/sldl:44": {
    "name": "Utah State House district 44",
@@ -5131,11 +5131,11 @@
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:wjd056": {
    "name": "Salt Lake County Precinct Wjd056"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:wjd057": {
-   "name": "Salt Lake County Precinct Wjd057"
-  },
   "ocd-division/country:us/state:ut/county:sanpete/precinct:spr~u": {
    "name": "Sanpete County Precinct Spr:U"
+  },
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:wjd057": {
+   "name": "Salt Lake County Precinct Wjd057"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:wjd059": {
    "name": "Salt Lake County Precinct Wjd059"
@@ -5164,11 +5164,11 @@
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:cot023": {
    "name": "Salt Lake County Precinct Cot023"
   },
-  "ocd-division/country:us/state:ut/county:salt_lake/precinct:cot028": {
-   "name": "Salt Lake County Precinct Cot028"
-  },
   "ocd-division/country:us/state:ut/county:davis/precinct:cl03": {
    "name": "Davis County Precinct Cl03"
+  },
+  "ocd-division/country:us/state:ut/county:salt_lake/precinct:cot028": {
+   "name": "Salt Lake County Precinct Cot028"
   },
   "ocd-division/country:us/state:ut/county:salt_lake/precinct:drp027": {
    "name": "Salt Lake County Precinct Drp027"
@@ -8108,9 +8108,6 @@
   "ocd-division/country:us/state:ut/county:utah/precinct:le19": {
    "name": "Utah County Precinct Le19"
   },
-  "ocd-division/country:us/state:ut/county:uintah/precinct:dw03": {
-   "name": "Uintah County Precinct Dw03"
-  },
   "ocd-division/country:us/state:ut/county:box_elder": {
    "name": "Box Elder County",
    "officeIndices": [
@@ -8125,6 +8122,9 @@
     381,
     382
    ]
+  },
+  "ocd-division/country:us/state:ut/county:uintah/precinct:dw03": {
+   "name": "Uintah County Precinct Dw03"
   },
   "ocd-division/country:us/state:ut/county:utah/precinct:le12": {
    "name": "Utah County Precinct Le12"
@@ -12412,12 +12412,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "JimDabakis"
-    },
-    {
      "type": "Facebook",
      "id": "JimDabakisForSenate2"
+    },
+    {
+     "type": "Twitter",
+     "id": "JimDabakis"
     }
    ]
   },
@@ -12530,12 +12530,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "deidremh"
-    },
-    {
      "type": "Twitter",
      "id": "DeidreHenderson"
+    },
+    {
+     "type": "Facebook",
+     "id": "deidremh"
     }
    ]
   },
@@ -12636,12 +12636,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "ajacksonalvin"
-    },
-    {
      "type": "Facebook",
      "id": "AlJackson4Senate"
+    },
+    {
+     "type": "Twitter",
+     "id": "ajacksonalvin"
     }
    ]
   },
@@ -12670,12 +12670,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "peterknudson"
-    },
-    {
      "type": "Twitter",
      "id": "SenatorKnudson"
+    },
+    {
+     "type": "Facebook",
+     "id": "peterknudson"
     }
    ]
   },
@@ -12702,16 +12702,16 @@
    ],
    "channels": [
     {
-     "type": "YouTube",
-     "id": "curtbrambleutah"
+     "type": "Facebook",
+     "id": "262561993766026"
     },
     {
      "type": "Twitter",
      "id": "curtbramble"
     },
     {
-     "type": "Facebook",
-     "id": "262561993766026"
+     "type": "YouTube",
+     "id": "curtbrambleutah"
     }
    ]
   },
@@ -12833,12 +12833,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "312241228956"
-    },
-    {
      "type": "Twitter",
      "id": "senthatcher"
+    },
+    {
+     "type": "Facebook",
+     "id": "312241228956"
     }
    ]
   },
@@ -12932,12 +12932,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "ralphokerlund"
-    },
-    {
      "type": "Facebook",
      "id": "619763601372947"
+    },
+    {
+     "type": "Twitter",
+     "id": "ralphokerlund"
     }
    ]
   },
@@ -12995,12 +12995,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "stuart.adams.547"
-    },
-    {
      "type": "Twitter",
      "id": "jstuartadams"
+    },
+    {
+     "type": "Facebook",
+     "id": "stuart.adams.547"
     }
    ]
   },
@@ -13572,12 +13572,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "JohnKnotwellUT"
-    },
-    {
      "type": "Facebook",
      "id": "JohnKnotwellUtah"
+    },
+    {
+     "type": "Twitter",
+     "id": "JohnKnotwellUT"
     }
    ]
   },
@@ -13605,12 +13605,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "RepGregHughes"
-    },
-    {
      "type": "Facebook",
      "id": "electhughes"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepGregHughes"
     }
    ]
   },
@@ -14201,16 +14201,16 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "fredcox4utah"
-    },
-    {
      "type": "Twitter",
      "id": "fredcox4utah"
     },
     {
      "type": "YouTube",
      "id": "FredCox"
+    },
+    {
+     "type": "Facebook",
+     "id": "fredcox4utah"
     }
    ]
   },
@@ -14353,12 +14353,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "votecraighall"
-    },
-    {
      "type": "Twitter",
      "id": "hcraighall"
+    },
+    {
+     "type": "Facebook",
+     "id": "votecraighall"
     }
    ]
   },
@@ -14470,12 +14470,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "carol.s.moss.7"
-    },
-    {
      "type": "Twitter",
      "id": "RepCarolMoss"
+    },
+    {
+     "type": "Facebook",
+     "id": "carol.s.moss.7"
     }
    ]
   },
@@ -14546,12 +14546,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "LeePerryUT"
-    },
-    {
      "type": "Facebook",
      "id": "RepLeePerry"
+    },
+    {
+     "type": "Twitter",
+     "id": "LeePerryUT"
     }
    ]
   },
@@ -14590,12 +14590,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "246962185400149"
-    },
-    {
      "type": "Twitter",
      "id": "danmccay"
+    },
+    {
+     "type": "Facebook",
+     "id": "246962185400149"
     }
    ]
   },
@@ -14698,12 +14698,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "bruce.cutler.1950"
-    },
-    {
      "type": "Twitter",
      "id": "cutler4leg44"
+    },
+    {
+     "type": "Facebook",
+     "id": "bruce.cutler.1950"
     }
    ]
   },
@@ -14775,12 +14775,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "kimcoleman4utah42"
-    },
-    {
      "type": "Twitter",
      "id": "KimColeman4Ut42"
+    },
+    {
+     "type": "Facebook",
+     "id": "kimcoleman4utah42"
     }
    ]
   },
@@ -14996,12 +14996,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "stephen.handy.7"
-    },
-    {
      "type": "Twitter",
      "id": "StephenHandyUT"
+    },
+    {
+     "type": "Facebook",
+     "id": "stephen.handy.7"
     }
    ]
   },
@@ -15124,12 +15124,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "AngelaRomeroH26"
-    },
-    {
      "type": "Facebook",
      "id": "AngelaRomeroForHouse26"
+    },
+    {
+     "type": "Twitter",
+     "id": "AngelaRomeroH26"
     }
    ]
   },
@@ -16820,6 +16820,9 @@
    "phones": [
     "(385) 468-7458"
    ],
+   "urls": [
+    "http://www.slco.org/council/html/sDebry.html"
+   ],
    "emails": [
     "sldebry@slco.org"
    ]
@@ -16858,6 +16861,9 @@
    "party": "Unknown",
    "phones": [
     "(385) 468-7459"
+   ],
+   "urls": [
+    "http://www.slco.org/council/html/mBurdick.html"
    ],
    "emails": [
     "mburdick@slco.org"
@@ -19380,9 +19386,6 @@
    "phones": [
     "(385) 468-7451"
    ],
-   "urls": [
-    "http://www.slco.org/council/html/rHoriuchi.html"
-   ],
    "emails": [
     "rhoriuchi@slco.org"
    ]
@@ -19400,6 +19403,9 @@
    "party": "Unknown",
    "phones": [
     "(385) 468-7452"
+   ],
+   "urls": [
+    "http://www.slco.org/council/html/rSnelgrove.html"
    ],
    "emails": [
     "rsnelgrove@slco.org"
@@ -19419,9 +19425,6 @@
    "party": "Unknown",
    "phones": [
     "(385) 468-7453"
-   ],
-   "urls": [
-    "http://www.slco.org/council/html/jBradley.html"
    ],
    "emails": [
     "jbradley@slco.org"

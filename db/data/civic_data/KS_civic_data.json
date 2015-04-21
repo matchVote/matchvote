@@ -57,17 +57,17 @@
   "ocd-division/country:us/state:ks/place:salina/precinct:1": {
    "name": "Saline County KS - Salina Precinct 01"
   },
-  "ocd-division/country:us/state:ks/place:salina/precinct:3": {
-   "name": "Saline County KS - Salina Precinct 03"
-  },
-  "ocd-division/country:us/state:ks/place:hutchinson": {
-   "name": "Hutchinson city"
-  },
   "ocd-division/country:us/state:ks/county:meade/council_district:fowler": {
    "name": "Meade County Commissioner District Fowler",
    "officeIndices": [
     172
    ]
+  },
+  "ocd-division/country:us/state:ks/place:salina/precinct:3": {
+   "name": "Saline County KS - Salina Precinct 03"
+  },
+  "ocd-division/country:us/state:ks/place:hutchinson": {
+   "name": "Hutchinson city"
   },
   "ocd-division/country:us/state:ks/place:salina/precinct:2": {
    "name": "Saline County KS - Salina Precinct 02"
@@ -119,20 +119,20 @@
   "ocd-division/country:us/state:ks/place:atwood/precinct:1_east": {
    "name": "Rawlins County KS - Atwood City Precinct 1 East"
   },
-  "ocd-division/country:us/state:ks/county:jewell/place:athens": {
-   "name": "Athens township"
-  },
   "ocd-division/country:us/state:ks/county:reno/place:arlington": {
    "name": "Arlington township"
+  },
+  "ocd-division/country:us/state:ks/county:jewell/place:athens": {
+   "name": "Athens township"
   },
   "ocd-division/country:us/state:ks/place:topeka/ward:11/precinct:10": {
    "name": "Shawnee County KS - TOPEKA WARD 11 PRECINCT 10"
   },
-  "ocd-division/country:us/state:ks/county:jefferson/school_district:jefferson_county_north": {
-   "name": "jefferson county north"
-  },
   "ocd-division/country:us/state:ks/county:wilson/place:clifton": {
    "name": "Clifton township"
+  },
+  "ocd-division/country:us/state:ks/county:jefferson/school_district:jefferson_county_north": {
+   "name": "jefferson county north"
   },
   "ocd-division/country:us/state:ks/place:holcomb": {
    "name": "Holcomb city"
@@ -314,11 +314,11 @@
   "ocd-division/country:us/state:ks/place:south_hutchinson": {
    "name": "South Hutchinson city"
   },
-  "ocd-division/country:us/state:ks/county:jefferson/school_district:valley_falls": {
-   "name": "valley falls"
-  },
   "ocd-division/country:us/state:ks/place:chase": {
    "name": "Chase city"
+  },
+  "ocd-division/country:us/state:ks/county:jefferson/school_district:valley_falls": {
+   "name": "valley falls"
   },
   "ocd-division/country:us/state:ks/county:mcpherson/school_district:smoky_valley": {
    "name": "smoky valley"
@@ -341,11 +341,11 @@
   "ocd-division/country:us/state:ks/place:circleville": {
    "name": "Circleville city"
   },
-  "ocd-division/country:us/state:ks/place:mission/ward:4/precinct:3": {
-   "name": "Johnson County KS - Mission Ward 4 Precinct 3"
-  },
   "ocd-division/country:us/state:ks/county:jackson/place:straight_creek": {
    "name": "Straight Creek township"
+  },
+  "ocd-division/country:us/state:ks/place:mission/ward:4/precinct:3": {
+   "name": "Johnson County KS - Mission Ward 4 Precinct 3"
   },
   "ocd-division/country:us/state:ks/place:schoenchen": {
    "name": "Schoenchen city"
@@ -353,11 +353,11 @@
   "ocd-division/country:us/state:ks/place:mission/ward:4/precinct:1": {
    "name": "Johnson County KS - Mission Ward 4 Precinct 1"
   },
-  "ocd-division/country:us/state:ks/place:mission/ward:4/precinct:2": {
-   "name": "Johnson County KS - Mission Ward 4 Precinct 2"
-  },
   "ocd-division/country:us/state:ks/county:butler/precinct:douglass_city-douglass_township": {
    "name": "Butler County KS - Douglass Township/City"
+  },
+  "ocd-division/country:us/state:ks/place:mission/ward:4/precinct:2": {
+   "name": "Johnson County KS - Mission Ward 4 Precinct 2"
   },
   "ocd-division/country:us/state:ks/place:ingalls": {
    "name": "Ingalls city"
@@ -395,23 +395,23 @@
   "ocd-division/country:us/state:ks/place:pittsburg/ward:2/precinct:3": {
    "name": "Crawford County KS - Pittsburg Ward 2 Precinct 3"
   },
-  "ocd-division/country:us/state:ks/place:pittsburg/ward:2/precinct:4": {
-   "name": "Crawford County KS - Pittsburg Ward 2 Precinct 4"
-  },
-  "ocd-division/country:us/state:ks/place:newton/ward:2/precinct:2": {
-   "name": "Harvey County KS - Newton City Ward 2 Precinct 2"
+  "ocd-division/country:us/state:ks/county:cherokee/school_district:baxter_springs": {
+   "name": "baxter springs"
   },
   "ocd-division/country:us/state:ks/county:jewell/place:calvin": {
    "name": "Calvin township"
   },
-  "ocd-division/country:us/state:ks/county:cherokee/school_district:baxter_springs": {
-   "name": "baxter springs"
+  "ocd-division/country:us/state:ks/place:newton/ward:2/precinct:2": {
+   "name": "Harvey County KS - Newton City Ward 2 Precinct 2"
   },
-  "ocd-division/country:us/state:ks/place:pittsburg/ward:2/precinct:5": {
-   "name": "Crawford County KS - Pittsburg Ward 2 Precinct 5"
+  "ocd-division/country:us/state:ks/place:pittsburg/ward:2/precinct:4": {
+   "name": "Crawford County KS - Pittsburg Ward 2 Precinct 4"
   },
   "ocd-division/country:us/state:ks/place:newton/ward:2/precinct:1": {
    "name": "Harvey County KS - Newton City Ward 2 Precinct 1"
+  },
+  "ocd-division/country:us/state:ks/place:pittsburg/ward:2/precinct:5": {
+   "name": "Crawford County KS - Pittsburg Ward 2 Precinct 5"
   },
   "ocd-division/country:us/state:ks/county:ness/place:bazine": {
    "name": "Bazine township"
@@ -433,20 +433,20 @@
     195
    ]
   },
-  "ocd-division/country:us/state:ks/county:harvey/place:sedgwick": {
-   "name": "Sedgwick township"
-  },
   "ocd-division/country:us/state:ks/county:pratt/school_district:skyline_schools": {
    "name": "skyline schools"
+  },
+  "ocd-division/country:us/state:ks/county:harvey/place:sedgwick": {
+   "name": "Sedgwick township"
   },
   "ocd-division/country:us/state:ks/county:sheridan/place:bloomfield": {
    "name": "Bloomfield township"
   },
-  "ocd-division/country:us/state:ks/place:greeley": {
-   "name": "Greeley city"
-  },
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:ba02": {
    "name": "Sedgwick County KS - BA02"
+  },
+  "ocd-division/country:us/state:ks/place:greeley": {
+   "name": "Greeley city"
   },
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:ba01": {
    "name": "Sedgwick County KS - BA01"
@@ -463,17 +463,20 @@
   "ocd-division/country:us/state:ks/place:shawnee/ward:3/precinct:8": {
    "name": "Johnson County KS - Shawnee Ward 3 Precinct 8"
   },
-  "ocd-division/country:us/state:ks/place:shawnee/ward:3/precinct:7": {
-   "name": "Johnson County KS - Shawnee Ward 3 Precinct 7"
-  },
   "ocd-division/country:us/state:ks/county:wilson/place:chetopa": {
    "name": "Chetopa township"
   },
-  "ocd-division/country:us/state:ks/place:shawnee/ward:3/precinct:6": {
-   "name": "Johnson County KS - Shawnee Ward 3 Precinct 6"
+  "ocd-division/country:us/state:ks/place:shawnee/ward:3/precinct:7": {
+   "name": "Johnson County KS - Shawnee Ward 3 Precinct 7"
+  },
+  "ocd-division/country:us/state:ks/county:wabaunsee/place:maple_hill": {
+   "name": "Maple Hill township"
   },
   "ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:13": {
    "name": "Johnson County KS - Overland Park Ward 4 Precinct 13"
+  },
+  "ocd-division/country:us/state:ks/place:shawnee/ward:3/precinct:6": {
+   "name": "Johnson County KS - Shawnee Ward 3 Precinct 6"
   },
   "ocd-division/country:us/state:ks/county:sedgwick/council_district:4": {
    "name": "Sedgwick County KS Board of County Commissioners District 4",
@@ -481,17 +484,14 @@
     196
    ]
   },
-  "ocd-division/country:us/state:ks/county:wabaunsee/place:maple_hill": {
-   "name": "Maple Hill township"
-  },
-  "ocd-division/country:us/state:ks/place:shawnee/ward:3/precinct:5": {
-   "name": "Johnson County KS - Shawnee Ward 3 Precinct 5"
+  "ocd-division/country:us/state:ks/county:marion/place:east_branch": {
+   "name": "East Branch township"
   },
   "ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:12": {
    "name": "Johnson County KS - Overland Park Ward 4 Precinct 12"
   },
-  "ocd-division/country:us/state:ks/county:marion/place:east_branch": {
-   "name": "East Branch township"
+  "ocd-division/country:us/state:ks/place:shawnee/ward:3/precinct:5": {
+   "name": "Johnson County KS - Shawnee Ward 3 Precinct 5"
   },
   "ocd-division/country:us/state:ks/county:sedgwick/council_district:5": {
    "name": "Sedgwick County KS Board of County Commissioners District 5",
@@ -499,32 +499,32 @@
     197
    ]
   },
-  "ocd-division/country:us/state:ks/place:shawnee/ward:3/precinct:4": {
-   "name": "Johnson County KS - Shawnee Ward 3 Precinct 4"
-  },
   "ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:11": {
    "name": "Johnson County KS - Overland Park Ward 4 Precinct 11"
   },
-  "ocd-division/country:us/state:ks/place:shawnee/ward:3/precinct:3": {
-   "name": "Johnson County KS - Shawnee Ward 3 Precinct 3"
-  },
-  "ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:10": {
-   "name": "Johnson County KS - Overland Park Ward 4 Precinct 10"
+  "ocd-division/country:us/state:ks/place:shawnee/ward:3/precinct:4": {
+   "name": "Johnson County KS - Shawnee Ward 3 Precinct 4"
   },
   "ocd-division/country:us/state:ks/county:douglas/place:wakarusa/precinct:65-east": {
    "name": "Douglas County KS - East Wakarusa H10 Precinct 65"
   },
-  "ocd-division/country:us/state:ks/place:shawnee/ward:3/precinct:2": {
-   "name": "Johnson County KS - Shawnee Ward 3 Precinct 2"
+  "ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:10": {
+   "name": "Johnson County KS - Overland Park Ward 4 Precinct 10"
+  },
+  "ocd-division/country:us/state:ks/place:shawnee/ward:3/precinct:3": {
+   "name": "Johnson County KS - Shawnee Ward 3 Precinct 3"
   },
   "ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:17": {
    "name": "Johnson County KS - Overland Park Ward 4 Precinct 17"
   },
-  "ocd-division/country:us/state:ks/place:shawnee/ward:3/precinct:1": {
-   "name": "Johnson County KS - Shawnee Ward 3 Precinct 1"
+  "ocd-division/country:us/state:ks/place:shawnee/ward:3/precinct:2": {
+   "name": "Johnson County KS - Shawnee Ward 3 Precinct 2"
   },
   "ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:16": {
    "name": "Johnson County KS - Overland Park Ward 4 Precinct 16"
+  },
+  "ocd-division/country:us/state:ks/place:shawnee/ward:3/precinct:1": {
+   "name": "Johnson County KS - Shawnee Ward 3 Precinct 1"
   },
   "ocd-division/country:us/state:ks/county:sedgwick/council_district:1": {
    "name": "Sedgwick County KS Board of County Commissioners District 1",
@@ -532,26 +532,26 @@
     198
    ]
   },
-  "ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:15": {
-   "name": "Johnson County KS - Overland Park Ward 4 Precinct 15"
-  },
-  "ocd-division/country:us/state:ks/county:norton/place:solomon-district_3/precinct:2": {
-   "name": "Norton County KS - Solomon Precinct 2"
-  },
   "ocd-division/country:us/state:ks/county:sedgwick/council_district:2": {
    "name": "Sedgwick County KS Board of County Commissioners District 2",
    "officeIndices": [
     199
    ]
   },
-  "ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:14": {
-   "name": "Johnson County KS - Overland Park Ward 4 Precinct 14"
+  "ocd-division/country:us/state:ks/county:norton/place:solomon-district_3/precinct:2": {
+   "name": "Norton County KS - Solomon Precinct 2"
+  },
+  "ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:15": {
+   "name": "Johnson County KS - Overland Park Ward 4 Precinct 15"
+  },
+  "ocd-division/country:us/state:ks/county:norton/place:solomon-district_3/precinct:1": {
+   "name": "Norton County KS - Solomon Precinct 1"
   },
   "ocd-division/country:us/state:ks/county:ford/school_district:spearville": {
    "name": "spearville"
   },
-  "ocd-division/country:us/state:ks/county:norton/place:solomon-district_3/precinct:1": {
-   "name": "Norton County KS - Solomon Precinct 1"
+  "ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:14": {
+   "name": "Johnson County KS - Overland Park Ward 4 Precinct 14"
   },
   "ocd-division/country:us/state:ks/county:sedgwick/council_district:3": {
    "name": "Sedgwick County KS Board of County Commissioners District 3",
@@ -577,26 +577,29 @@
   "ocd-division/country:us/state:ks/county:wabaunsee/place:wabaunsee": {
    "name": "Wabaunsee township"
   },
-  "ocd-division/country:us/state:ks/place:stafford": {
-   "name": "Stafford city"
-  },
   "ocd-division/country:us/state:ks/place:lindsborg/ward:4": {
    "name": "Mcpherson County KS - Lindsborg Ward 4"
   },
-  "ocd-division/country:us/state:ks/place:lindsborg/ward:2": {
-   "name": "Mcpherson County KS - Lindsborg Ward 2"
+  "ocd-division/country:us/state:ks/place:stafford": {
+   "name": "Stafford city"
+  },
+  "ocd-division/country:us/state:ks/county:kingman/place:vinita": {
+   "name": "Vinita township"
   },
   "ocd-division/country:us/state:ks/place:garnett": {
    "name": "Garnett city"
   },
-  "ocd-division/country:us/state:ks/county:kingman/place:vinita": {
-   "name": "Vinita township"
+  "ocd-division/country:us/state:ks/place:lindsborg/ward:2": {
+   "name": "Mcpherson County KS - Lindsborg Ward 2"
   },
   "ocd-division/country:us/state:ks/place:lindsborg/ward:3": {
    "name": "Mcpherson County KS - Lindsborg Ward 3"
   },
   "ocd-division/country:us/state:ks/place:lindsborg/ward:1": {
    "name": "Mcpherson County KS - Lindsborg Ward 1"
+  },
+  "ocd-division/country:us/state:ks/county:rawlins/school_district:rawlins_county": {
+   "name": "rawlins county"
   },
   "ocd-division/country:us/state:ks/county:miami": {
    "name": "Miami County",
@@ -609,14 +612,11 @@
     206
    ]
   },
-  "ocd-division/country:us/state:ks/county:rawlins/school_district:rawlins_county": {
-   "name": "rawlins county"
+  "ocd-division/country:us/state:ks/county:riley/school_district:manhattan-ogden": {
+   "name": "manhattan-ogden"
   },
   "ocd-division/country:us/state:ks/county:crawford/precinct:south_arma": {
    "name": "Crawford County KS - South Arma"
-  },
-  "ocd-division/country:us/state:ks/county:riley/school_district:manhattan-ogden": {
-   "name": "manhattan-ogden"
   },
   "ocd-division/country:us/state:ks/county:cloud/place:aurora": {
    "name": "Aurora township"
@@ -795,11 +795,11 @@
     212
    ]
   },
-  "ocd-division/country:us/state:ks/place:dorrance": {
-   "name": "Dorrance city"
-  },
   "ocd-division/country:us/state:ks/county:douglas/precinct:63-vinland": {
    "name": "Douglas County KS - Vinland Precinct 63"
+  },
+  "ocd-division/country:us/state:ks/place:dorrance": {
+   "name": "Dorrance city"
   },
   "ocd-division/country:us/state:ks/county:meade/place:west_plains": {
    "name": "West Plains township"
@@ -817,11 +817,11 @@
     217
    ]
   },
-  "ocd-division/country:us/state:ks/place:mission_hills/precinct:4": {
-   "name": "Johnson County KS - Mission Hills City Precinct 4"
-  },
   "ocd-division/country:us/state:ks/county:lincoln/school_district:lincoln": {
    "name": "lincoln"
+  },
+  "ocd-division/country:us/state:ks/place:mission_hills/precinct:4": {
+   "name": "Johnson County KS - Mission Hills City Precinct 4"
   },
   "ocd-division/country:us/state:ks/place:mission_hills/precinct:3": {
    "name": "Johnson County KS - Mission Hills City Precinct 3"
@@ -829,11 +829,11 @@
   "ocd-division/country:us/state:ks/place:morrowville": {
    "name": "Morrowville city"
   },
-  "ocd-division/country:us/state:ks/county:decatur/place:liberty": {
-   "name": "Liberty township"
-  },
   "ocd-division/country:us/state:ks/county:phillips/place:freedom": {
    "name": "Freedom township"
+  },
+  "ocd-division/country:us/state:ks/county:decatur/place:liberty": {
+   "name": "Liberty township"
   },
   "ocd-division/country:us/state:ks/place:mission_hills/precinct:2": {
    "name": "Johnson County KS - Mission Hills City Precinct 2"
@@ -853,23 +853,20 @@
     218
    ]
   },
-  "ocd-division/country:us/state:ks/place:wakeeney/precinct:central": {
-   "name": "Trego County KS - WaKeeney City Central Precinct"
-  },
   "ocd-division/country:us/state:ks/county:ness/council_district:3": {
    "name": "Ness County Commissioner District 3",
    "officeIndices": [
     219
    ]
   },
+  "ocd-division/country:us/state:ks/place:wakeeney/precinct:central": {
+   "name": "Trego County KS - WaKeeney City Central Precinct"
+  },
   "ocd-division/country:us/state:ks/county:ness/council_district:2": {
    "name": "Ness County Commissioner District 2",
    "officeIndices": [
     220
    ]
-  },
-  "ocd-division/country:us/state:ks/place:effingham": {
-   "name": "Effingham city"
   },
   "ocd-division/country:us/state:ks/county:haskell": {
    "name": "Haskell County",
@@ -882,11 +879,14 @@
     226
    ]
   },
-  "ocd-division/country:us/state:ks/place:ellsworth": {
-   "name": "Ellsworth city"
+  "ocd-division/country:us/state:ks/place:effingham": {
+   "name": "Effingham city"
   },
   "ocd-division/country:us/state:ks/county:gove/place:larrabee": {
    "name": "Larrabee township"
+  },
+  "ocd-division/country:us/state:ks/place:ellsworth": {
+   "name": "Ellsworth city"
   },
   "ocd-division/country:us/state:ks/county:greenwood/place:lane": {
    "name": "Lane township"
@@ -894,11 +894,11 @@
   "ocd-division/country:us/state:ks/place:leavenworth/ward:2/precinct:1": {
    "name": "Leavenworth County KS - Leavenworth Ward 2 Precinct 1"
   },
-  "ocd-division/country:us/state:ks/place:spring_hill": {
-   "name": "Spring Hill city"
-  },
   "ocd-division/country:us/state:ks/county:cloud/place:lincoln/precinct:east": {
    "name": "Cloud County KS - East Lincoln"
+  },
+  "ocd-division/country:us/state:ks/place:spring_hill": {
+   "name": "Spring Hill city"
   },
   "ocd-division/country:us/state:ks/county:brown/place:morrill": {
    "name": "Morrill township"
@@ -918,11 +918,11 @@
   "ocd-division/country:us/state:ks/county:rooks/place:township_3/precinct:1": {
    "name": "Rooks County KS - Township 03 Precinct 1"
   },
-  "ocd-division/country:us/state:ks/county:reno/place:reno": {
-   "name": "Reno township"
-  },
   "ocd-division/country:us/state:ks/county:rooks/place:township_3/precinct:2": {
    "name": "Rooks County KS - Township 03 Precinct 2"
+  },
+  "ocd-division/country:us/state:ks/county:reno/place:reno": {
+   "name": "Reno township"
   },
   "ocd-division/country:us/state:ks/place:leavenworth/ward:2/precinct:2": {
    "name": "Leavenworth County KS - Leavenworth Ward 2 Precinct 2"
@@ -998,14 +998,14 @@
     232
    ]
   },
-  "ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:32": {
-   "name": "Johnson County KS - Olathe Township Precinct 32"
+  "ocd-division/country:us/state:ks/county:doniphan/school_district:troy_public_schools": {
+   "name": "troy public schools"
   },
   "ocd-division/country:us/state:ks/county:clay/place:goshen": {
    "name": "Goshen township"
   },
-  "ocd-division/country:us/state:ks/county:doniphan/school_district:troy_public_schools": {
-   "name": "troy public schools"
+  "ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:32": {
+   "name": "Johnson County KS - Olathe Township Precinct 32"
   },
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:ke08": {
    "name": "Sedgwick County KS - KE08"
@@ -1028,11 +1028,11 @@
   "ocd-division/country:us/state:ks/county:cheyenne/place:wano": {
    "name": "Wano township"
   },
-  "ocd-division/country:us/state:ks/place:westwood": {
-   "name": "Westwood city"
-  },
   "ocd-division/country:us/state:ks/place:chetopa": {
    "name": "Chetopa city"
+  },
+  "ocd-division/country:us/state:ks/place:westwood": {
+   "name": "Westwood city"
   },
   "ocd-division/country:us/state:ks/county:shawnee/place:silver_lake": {
    "name": "Silver Lake township"
@@ -1043,17 +1043,17 @@
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:ke04": {
    "name": "Sedgwick County KS - KE04"
   },
-  "ocd-division/country:us/state:ks/county:jefferson/place:rock_creek": {
-   "name": "Rock Creek township"
-  },
-  "ocd-division/country:us/state:ks/county:edwards/school_district:lewis": {
-   "name": "lewis"
+  "ocd-division/country:us/state:ks/county:washington/place:lowe": {
+   "name": "Lowe township"
   },
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:ke07": {
    "name": "Sedgwick County KS - KE07"
   },
-  "ocd-division/country:us/state:ks/county:washington/place:lowe": {
-   "name": "Lowe township"
+  "ocd-division/country:us/state:ks/county:edwards/school_district:lewis": {
+   "name": "lewis"
+  },
+  "ocd-division/country:us/state:ks/county:jefferson/place:rock_creek": {
+   "name": "Rock Creek township"
   },
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:ke01": {
    "name": "Sedgwick County KS - KE01"
@@ -1074,11 +1074,11 @@
     237
    ]
   },
-  "ocd-division/country:us/state:ks/place:independence/ward:4": {
-   "name": "Montgomery County KS - Independence City Ward 4"
-  },
   "ocd-division/country:us/state:ks/place:hartford": {
    "name": "Hartford city"
+  },
+  "ocd-division/country:us/state:ks/place:independence/ward:4": {
+   "name": "Montgomery County KS - Independence City Ward 4"
   },
   "ocd-division/country:us/state:ks/place:independence/ward:5": {
    "name": "Montgomery County KS - Independence City Ward 5"
@@ -1098,17 +1098,17 @@
   "ocd-division/country:us/state:ks/place:topeka/ward:14": {
    "name": "Shawnee County KS - TOPEKA WARD 14"
   },
-  "ocd-division/country:us/state:ks/place:topeka/ward:13": {
-   "name": "Shawnee County KS - TOPEKA WARD 13"
-  },
   "ocd-division/country:us/state:ks/county:coffey/place:star": {
    "name": "Star township"
   },
-  "ocd-division/country:us/state:ks/place:topeka/ward:15": {
-   "name": "Shawnee County KS - TOPEKA WARD 15"
+  "ocd-division/country:us/state:ks/place:topeka/ward:13": {
+   "name": "Shawnee County KS - TOPEKA WARD 13"
   },
   "ocd-division/country:us/state:ks/county:finney/place:garden_city": {
    "name": "Garden City township"
+  },
+  "ocd-division/country:us/state:ks/place:topeka/ward:15": {
+   "name": "Shawnee County KS - TOPEKA WARD 15"
   },
   "ocd-division/country:us/state:ks/county:edwards/place:trenton": {
    "name": "Trenton township"
@@ -1128,14 +1128,14 @@
     238
    ]
   },
+  "ocd-division/country:us/state:ks/county:washington/place:washington": {
+   "name": "Washington township"
+  },
   "ocd-division/country:us/state:ks/county:gray/council_district:2": {
    "name": "Gray County Commissioner District 2",
    "officeIndices": [
     239
    ]
-  },
-  "ocd-division/country:us/state:ks/county:washington/place:washington": {
-   "name": "Washington township"
   },
   "ocd-division/country:us/state:ks/county:gray/council_district:1": {
    "name": "Gray County Commissioner District 1",
@@ -1149,26 +1149,26 @@
   "ocd-division/country:us/state:ks/place:topeka/ward:12": {
    "name": "Shawnee County KS - TOPEKA WARD 12"
   },
-  "ocd-division/country:us/state:ks/place:topeka/ward:10": {
-   "name": "Shawnee County KS - TOPEKA WARD 10"
-  },
   "ocd-division/country:us/state:ks/place:andover/precinct:south": {
    "name": "Butler County KS - Andover City South"
   },
-  "ocd-division/country:us/state:ks/county:sedgwick/precinct:ke6": {
-   "name": "Sedgwick County KS - KE6"
+  "ocd-division/country:us/state:ks/place:topeka/ward:10": {
+   "name": "Shawnee County KS - TOPEKA WARD 10"
   },
   "ocd-division/country:us/state:ks/county:sedgwick/school_district:derby": {
    "name": "derby"
   },
+  "ocd-division/country:us/state:ks/county:sedgwick/precinct:ke6": {
+   "name": "Sedgwick County KS - KE6"
+  },
   "ocd-division/country:us/state:ks/place:minneapolis/precinct:3": {
    "name": "Ottawa County KS - Minneapolis City Precinct 3"
   },
-  "ocd-division/country:us/state:ks/county:crawford/ward:2": {
-   "name": "Crawford County KS - Mulberry Ward 2"
-  },
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:ke2": {
    "name": "Sedgwick County KS - KE2"
+  },
+  "ocd-division/country:us/state:ks/county:crawford/ward:2": {
+   "name": "Crawford County KS - Mulberry Ward 2"
   },
   "ocd-division/country:us/state:ks/county:crawford/ward:1": {
    "name": "Crawford County KS - Mulberry Ward 1"
@@ -1176,14 +1176,14 @@
   "ocd-division/country:us/state:ks/place:independence/ward:3": {
    "name": "Montgomery County KS - Independence City Ward 3"
   },
-  "ocd-division/country:us/state:ks/place:independence/ward:2": {
-   "name": "Montgomery County KS - Independence City Ward 2"
-  },
   "ocd-division/country:us/state:ks/county:coffey/council_district:5": {
    "name": "Coffey County Commissioner District 5",
    "officeIndices": [
     241
    ]
+  },
+  "ocd-division/country:us/state:ks/place:independence/ward:2": {
+   "name": "Montgomery County KS - Independence City Ward 2"
   },
   "ocd-division/country:us/state:ks/place:independence/ward:1": {
    "name": "Montgomery County KS - Independence City Ward 1"
@@ -1191,17 +1191,14 @@
   "ocd-division/country:us/state:ks/county:cowley/school_district:winfield": {
    "name": "winfield"
   },
-  "ocd-division/country:us/state:ks/place:minneapolis/precinct:2": {
-   "name": "Ottawa County KS - Minneapolis City Precinct 2"
-  },
   "ocd-division/country:us/state:ks/county:coffey/council_district:2": {
    "name": "Coffey County Commissioner District 2",
    "officeIndices": [
     242
    ]
   },
-  "ocd-division/country:us/state:ks/place:minneapolis/precinct:1": {
-   "name": "Ottawa County KS - Minneapolis City Precinct 1"
+  "ocd-division/country:us/state:ks/place:minneapolis/precinct:2": {
+   "name": "Ottawa County KS - Minneapolis City Precinct 2"
   },
   "ocd-division/country:us/state:ks/county:coffey/council_district:1": {
    "name": "Coffey County Commissioner District 1",
@@ -1209,8 +1206,8 @@
     243
    ]
   },
-  "ocd-division/country:us/state:ks/county:harvey/place:darlington": {
-   "name": "Darlington township"
+  "ocd-division/country:us/state:ks/place:minneapolis/precinct:1": {
+   "name": "Ottawa County KS - Minneapolis City Precinct 1"
   },
   "ocd-division/country:us/state:ks/county:coffey/council_district:4": {
    "name": "Coffey County Commissioner District 4",
@@ -1218,14 +1215,17 @@
     244
    ]
   },
+  "ocd-division/country:us/state:ks/county:harvey/place:darlington": {
+   "name": "Darlington township"
+  },
+  "ocd-division/country:us/state:ks/place:coats": {
+   "name": "Coats city"
+  },
   "ocd-division/country:us/state:ks/county:coffey/council_district:3": {
    "name": "Coffey County Commissioner District 3",
    "officeIndices": [
     245
    ]
-  },
-  "ocd-division/country:us/state:ks/place:coats": {
-   "name": "Coats city"
   },
   "ocd-division/country:us/state:ks/county:jackson/place:lincoln": {
    "name": "Lincoln township"
@@ -1233,44 +1233,44 @@
   "ocd-division/country:us/state:ks/place:wellington/ward:4/precinct:1": {
    "name": "Sumner County KS - Wellington City Ward 4 Precinct 1"
   },
-  "ocd-division/country:us/state:ks/place:garfield": {
-   "name": "Garfield city"
+  "ocd-division/country:us/state:ks/county:reno/place:huntsville": {
+   "name": "Huntsville township"
   },
   "ocd-division/country:us/state:ks/county:decatur/place:lyon": {
    "name": "Lyon township"
   },
-  "ocd-division/country:us/state:ks/county:reno/place:huntsville": {
-   "name": "Huntsville township"
-  },
-  "ocd-division/country:us/state:ks/place:paola/ward:4": {
-   "name": "Miami County KS - Paola Ward 4"
+  "ocd-division/country:us/state:ks/place:garfield": {
+   "name": "Garfield city"
   },
   "ocd-division/country:us/state:ks/county:neosho/place:ladore": {
    "name": "Ladore township"
   },
+  "ocd-division/country:us/state:ks/place:paola/ward:4": {
+   "name": "Miami County KS - Paola Ward 4"
+  },
   "ocd-division/country:us/state:ks/place:paola/ward:3": {
    "name": "Miami County KS - Paola Ward 3"
-  },
-  "ocd-division/country:us/state:ks/place:paola/ward:2": {
-   "name": "Miami County KS - Paola Ward 2"
   },
   "ocd-division/country:us/state:ks/county:franklin/place:franklin": {
    "name": "Franklin township"
   },
-  "ocd-division/country:us/state:ks/place:paola/ward:1": {
-   "name": "Miami County KS - Paola Ward 1"
+  "ocd-division/country:us/state:ks/place:paola/ward:2": {
+   "name": "Miami County KS - Paola Ward 2"
   },
   "ocd-division/country:us/state:ks/county:cowley/place:omnia": {
    "name": "Omnia township"
   },
+  "ocd-division/country:us/state:ks/place:paola/ward:1": {
+   "name": "Miami County KS - Paola Ward 1"
+  },
   "ocd-division/country:us/state:ks/place:olmitz": {
    "name": "Olmitz city"
   },
-  "ocd-division/country:us/state:ks/place:hoxie": {
-   "name": "Hoxie city"
-  },
   "ocd-division/country:us/state:ks/county:finney/precinct:huffman": {
    "name": "Finney County KS - Huffman Township"
+  },
+  "ocd-division/country:us/state:ks/place:hoxie": {
+   "name": "Hoxie city"
   },
   "ocd-division/country:us/state:ks/county:allen/place:elsmore": {
    "name": "Elsmore township"
@@ -2101,11 +2101,11 @@
   "ocd-division/country:us/state:ks/county:pawnee/place:larned/ward:4": {
    "name": "Pawnee County KS - Larned Ward 4"
   },
-  "ocd-division/country:us/state:ks/county:finney/precinct:mack": {
-   "name": "Finney County KS - Mack Township"
-  },
   "ocd-division/country:us/state:ks/county:reno/school_district:nickerson": {
    "name": "nickerson"
+  },
+  "ocd-division/country:us/state:ks/county:finney/precinct:mack": {
+   "name": "Finney County KS - Mack Township"
   },
   "ocd-division/country:us/state:ks/place:white_cloud": {
    "name": "White Cloud city"
@@ -2124,11 +2124,11 @@
   "ocd-division/country:us/state:ks/county:lyon/place:pike": {
    "name": "Pike township"
   },
-  "ocd-division/country:us/state:ks/place:phillipsburg": {
-   "name": "Phillipsburg city"
-  },
   "ocd-division/country:us/state:ks/county:shawnee/place:rossville": {
    "name": "Rossville township"
+  },
+  "ocd-division/country:us/state:ks/place:phillipsburg": {
+   "name": "Phillipsburg city"
   },
   "ocd-division/country:us/state:ks/county:crawford/precinct:walnut-helper": {
    "name": "Crawford County KS - Walnut - Helper"
@@ -2151,29 +2151,29 @@
   "ocd-division/country:us/state:ks/place:reserve": {
    "name": "Reserve city"
   },
-  "ocd-division/country:us/state:ks/place:newton/ward:4": {
-   "name": "Harvey County KS - Newton City Ward 4"
-  },
   "ocd-division/country:us/state:ks/county:barber/place:turkey_creek": {
    "name": "Turkey Creek township"
   },
-  "ocd-division/country:us/state:ks/place:newton/ward:3": {
-   "name": "Harvey County KS - Newton City Ward 3"
+  "ocd-division/country:us/state:ks/place:newton/ward:4": {
+   "name": "Harvey County KS - Newton City Ward 4"
   },
   "ocd-division/country:us/state:ks/county:ellis/place:herzog": {
    "name": "Herzog township"
   },
+  "ocd-division/country:us/state:ks/place:newton/ward:3": {
+   "name": "Harvey County KS - Newton City Ward 3"
+  },
   "ocd-division/country:us/state:ks/place:newton/ward:2": {
    "name": "Harvey County KS - Newton City Ward 2"
   },
-  "ocd-division/country:us/state:ks/place:newton/ward:1": {
-   "name": "Harvey County KS - Newton City Ward 1"
+  "ocd-division/country:us/state:ks/county:shawnee/place:williamsport": {
+   "name": "Williamsport township"
   },
   "ocd-division/country:us/state:ks/place:fairview": {
    "name": "Fairview city"
   },
-  "ocd-division/country:us/state:ks/county:shawnee/place:williamsport": {
-   "name": "Williamsport township"
+  "ocd-division/country:us/state:ks/place:newton/ward:1": {
+   "name": "Harvey County KS - Newton City Ward 1"
   },
   "ocd-division/country:us/state:ks/county:elk/place:oak_valley": {
    "name": "Oak Valley township"
@@ -2187,11 +2187,11 @@
   "ocd-division/country:us/state:ks/county:mitchell/place:round_springs": {
    "name": "Round Springs township"
   },
-  "ocd-division/country:us/state:ks/place:speed": {
-   "name": "Speed city"
-  },
   "ocd-division/country:us/state:ks/county:shawnee/precinct:sunflower": {
    "name": "Shawnee County KS - SUNFLOWER"
+  },
+  "ocd-division/country:us/state:ks/place:speed": {
+   "name": "Speed city"
   },
   "ocd-division/country:us/state:ks/county:cloud/school_district:concordia": {
    "name": "concordia"
@@ -2202,29 +2202,29 @@
   "ocd-division/country:us/state:ks/place:leon": {
    "name": "Leon city"
   },
-  "ocd-division/country:us/state:ks/place:manhattan/ward:11/precinct:1": {
-   "name": "Riley County KS - Manhattan City Ward 11 Precinct 01"
-  },
   "ocd-division/country:us/state:ks/place:bluff_city": {
    "name": "Bluff City city"
   },
-  "ocd-division/country:us/state:ks/county:linn/place:potosi": {
-   "name": "Potosi township"
+  "ocd-division/country:us/state:ks/place:manhattan/ward:11/precinct:1": {
+   "name": "Riley County KS - Manhattan City Ward 11 Precinct 01"
   },
   "ocd-division/country:us/state:ks/place:delia": {
    "name": "Delia city"
   },
-  "ocd-division/country:us/state:ks/place:shawnee/ward:2": {
-   "name": "Johnson County KS - Shawnee Ward 2"
+  "ocd-division/country:us/state:ks/county:linn/place:potosi": {
+   "name": "Potosi township"
   },
   "ocd-division/country:us/state:ks/place:phillipsburg/ward:1": {
    "name": "Phillips County KS - Phillipsburg City Ward 1"
   },
-  "ocd-division/country:us/state:ks/place:shawnee/ward:1": {
-   "name": "Johnson County KS - Shawnee Ward 1"
+  "ocd-division/country:us/state:ks/place:shawnee/ward:2": {
+   "name": "Johnson County KS - Shawnee Ward 2"
   },
   "ocd-division/country:us/state:ks/place:phillipsburg/ward:2": {
    "name": "Phillips County KS - Phillipsburg City Ward 2"
+  },
+  "ocd-division/country:us/state:ks/place:shawnee/ward:1": {
+   "name": "Johnson County KS - Shawnee Ward 1"
   },
   "ocd-division/country:us/state:ks/place:shawnee/ward:4": {
    "name": "Johnson County KS - Shawnee Ward 4"
@@ -2232,17 +2232,17 @@
   "ocd-division/country:us/state:ks/place:shawnee/ward:3": {
    "name": "Johnson County KS - Shawnee Ward 3"
   },
-  "ocd-division/country:us/state:ks/place:redfield": {
-   "name": "Redfield city"
-  },
   "ocd-division/country:us/state:ks/place:phillipsburg/ward:3": {
    "name": "Phillips County KS - Phillipsburg City Ward 3"
   },
-  "ocd-division/country:us/state:ks/place:mcfarland": {
-   "name": "McFarland city"
+  "ocd-division/country:us/state:ks/place:redfield": {
+   "name": "Redfield city"
   },
   "ocd-division/country:us/state:ks/place:manhattan/ward:11/precinct:3": {
    "name": "Riley County KS - Manhattan City Ward 11 Precinct 03"
+  },
+  "ocd-division/country:us/state:ks/place:mcfarland": {
+   "name": "McFarland city"
   },
   "ocd-division/country:us/state:ks/county:greeley": {
    "name": "Greeley County",
@@ -2260,11 +2260,11 @@
   "ocd-division/country:us/state:ks/place:columbus/ward:1": {
    "name": "Cherokee County KS - Columbus Ward 1"
   },
-  "ocd-division/country:us/state:ks/place:park_city": {
-   "name": "Park City city"
-  },
   "ocd-division/country:us/state:ks/place:columbus/ward:2": {
    "name": "Cherokee County KS - Columbus Ward 2"
+  },
+  "ocd-division/country:us/state:ks/place:park_city": {
+   "name": "Park City city"
   },
   "ocd-division/country:us/state:ks/place:columbus/ward:3": {
    "name": "Cherokee County KS - Columbus Ward 3"
@@ -2272,20 +2272,20 @@
   "ocd-division/country:us/state:ks/place:columbus/ward:4": {
    "name": "Cherokee County KS - Columbus Ward 4"
   },
-  "ocd-division/country:us/state:ks/place:jewell": {
-   "name": "Jewell city"
-  },
   "ocd-division/country:us/state:ks/place:columbus/ward:5": {
    "name": "Cherokee County KS - Columbus Ward 5"
+  },
+  "ocd-division/country:us/state:ks/place:jewell": {
+   "name": "Jewell city"
   },
   "ocd-division/country:us/state:ks/county:reno/place:bell": {
    "name": "Bell township"
   },
-  "ocd-division/country:us/state:ks/county:jewell/place:sinclair": {
-   "name": "Sinclair township"
-  },
   "ocd-division/country:us/state:ks/county:shawnee/precinct:washburn": {
    "name": "Shawnee County KS - WASHBURN"
+  },
+  "ocd-division/country:us/state:ks/county:jewell/place:sinclair": {
+   "name": "Sinclair township"
   },
   "ocd-division/country:us/state:ks/place:kansas_city/ward:12/precinct:2": {
    "name": "Wyandotte County KS - Kansas City Ward 12 Precinct 02"
@@ -2299,23 +2299,23 @@
   "ocd-division/country:us/state:ks/place:kansas_city/ward:12/precinct:3": {
    "name": "Wyandotte County KS - Kansas City Ward 12 Precinct 03"
   },
-  "ocd-division/country:us/state:ks/place:kansas_city/ward:12/precinct:6": {
-   "name": "Wyandotte County KS - Kansas City Ward 12 Precinct 06"
+  "ocd-division/country:us/state:ks/county:hodgeman/place:benton": {
+   "name": "Benton township"
   },
   "ocd-division/country:us/state:ks/place:hutchinson/precinct:34": {
    "name": "Reno County KS - Hutchinson Precinct 34"
   },
-  "ocd-division/country:us/state:ks/county:hodgeman/place:benton": {
-   "name": "Benton township"
+  "ocd-division/country:us/state:ks/place:kansas_city/ward:12/precinct:6": {
+   "name": "Wyandotte County KS - Kansas City Ward 12 Precinct 06"
   },
-  "ocd-division/country:us/state:ks/place:kansas_city/ward:12/precinct:5": {
-   "name": "Wyandotte County KS - Kansas City Ward 12 Precinct 05"
+  "ocd-division/country:us/state:ks/county:wabaunsee/place:garfield": {
+   "name": "Garfield township"
   },
   "ocd-division/country:us/state:ks/place:hutchinson/precinct:35": {
    "name": "Reno County KS - Hutchinson Precinct 35"
   },
-  "ocd-division/country:us/state:ks/county:wabaunsee/place:garfield": {
-   "name": "Garfield township"
+  "ocd-division/country:us/state:ks/place:kansas_city/ward:12/precinct:5": {
+   "name": "Wyandotte County KS - Kansas City Ward 12 Precinct 05"
   },
   "ocd-division/country:us/state:ks/place:kansas_city/ward:12/precinct:8": {
    "name": "Wyandotte County KS - Kansas City Ward 12 Precinct 08"
@@ -2332,6 +2332,9 @@
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:vc43": {
    "name": "Sedgwick County KS - VC43"
   },
+  "ocd-division/country:us/state:ks/county:sedgwick/place:union": {
+   "name": "Union township"
+  },
   "ocd-division/country:us/state:ks/county:bourbon": {
    "name": "Bourbon County",
    "officeIndices": [
@@ -2341,9 +2344,6 @@
     318,
     319
    ]
-  },
-  "ocd-division/country:us/state:ks/county:sedgwick/place:union": {
-   "name": "Union township"
   },
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:vc41": {
    "name": "Sedgwick County KS - VC41"
@@ -2369,26 +2369,26 @@
   "ocd-division/country:us/state:ks/place:buffalo": {
    "name": "Buffalo city"
   },
-  "ocd-division/country:us/state:ks/place:kansas_city/ward:12/precinct:9": {
-   "name": "Wyandotte County KS - Kansas City Ward 12 Precinct 09"
+  "ocd-division/country:us/state:ks/place:colony": {
+   "name": "Colony city"
   },
   "ocd-division/country:us/state:ks/county:sherman/place:voltaire": {
    "name": "Voltaire township"
   },
-  "ocd-division/country:us/state:ks/place:colony": {
-   "name": "Colony city"
-  },
-  "ocd-division/country:us/state:ks/place:woodbine": {
-   "name": "Woodbine city"
+  "ocd-division/country:us/state:ks/place:kansas_city/ward:12/precinct:9": {
+   "name": "Wyandotte County KS - Kansas City Ward 12 Precinct 09"
   },
   "ocd-division/country:us/state:ks/county:rawlins/place:ludell": {
    "name": "Ludell township"
   },
-  "ocd-division/country:us/state:ks/county:cheyenne/place:benkelman": {
-   "name": "Benkelman township"
+  "ocd-division/country:us/state:ks/place:woodbine": {
+   "name": "Woodbine city"
   },
   "ocd-division/country:us/state:ks/county:barber/place:mcadoo": {
    "name": "McAdoo township"
+  },
+  "ocd-division/country:us/state:ks/county:cheyenne/place:benkelman": {
+   "name": "Benkelman township"
   },
   "ocd-division/country:us/state:ks/county:sumner/place:morris": {
    "name": "Morris township"
@@ -2396,11 +2396,11 @@
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:vc31": {
    "name": "Sedgwick County KS - VC31"
   },
-  "ocd-division/country:us/state:ks/place:hillsboro": {
-   "name": "Hillsboro city"
-  },
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:vc32": {
    "name": "Sedgwick County KS - VC32"
+  },
+  "ocd-division/country:us/state:ks/place:hillsboro": {
+   "name": "Hillsboro city"
   },
   "ocd-division/country:us/state:ks/place:lenexa/ward:4/precinct:8": {
    "name": "Johnson County KS - Lenexa Ward 4 Precinct 8"
@@ -2408,20 +2408,20 @@
   "ocd-division/country:us/state:ks/place:lenexa/ward:4/precinct:9": {
    "name": "Johnson County KS - Lenexa Ward 4 Precinct 9"
   },
-  "ocd-division/country:us/state:ks/county:douglas/school_district:eudora": {
-   "name": "eudora"
-  },
   "ocd-division/country:us/state:ks/county:ellis/place:catherine": {
    "name": "Catherine township"
+  },
+  "ocd-division/country:us/state:ks/county:douglas/school_district:eudora": {
+   "name": "eudora"
   },
   "ocd-division/country:us/state:ks/county:shawnee/precinct:montara": {
    "name": "Shawnee County KS - MONTARA"
   },
-  "ocd-division/country:us/state:ks/county:sedgwick/precinct:605": {
-   "name": "Sedgwick County KS - 605"
-  },
   "ocd-division/country:us/state:ks/county:washington/school_district:washington_co._schools": {
    "name": "washington co. schools"
+  },
+  "ocd-division/country:us/state:ks/county:sedgwick/precinct:605": {
+   "name": "Sedgwick County KS - 605"
   },
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:604": {
    "name": "Sedgwick County KS - 604"
@@ -2438,11 +2438,11 @@
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:603": {
    "name": "Sedgwick County KS - 603"
   },
-  "ocd-division/country:us/state:ks/county:jewell/place:harrison": {
-   "name": "Harrison township"
-  },
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:602": {
    "name": "Sedgwick County KS - 602"
+  },
+  "ocd-division/country:us/state:ks/county:jewell/place:harrison": {
+   "name": "Harrison township"
   },
   "ocd-division/country:us/state:ks/county:johnson": {
    "name": "Johnson County",
@@ -2459,26 +2459,26 @@
   "ocd-division/country:us/state:ks/county:chautauqua/place:harrison": {
    "name": "Harrison township"
   },
-  "ocd-division/country:us/state:ks/county:ford/place:bucklin": {
-   "name": "Bucklin township"
-  },
   "ocd-division/country:us/state:ks/county:wallace/school_district:weskan": {
    "name": "weskan"
+  },
+  "ocd-division/country:us/state:ks/county:ford/place:bucklin": {
+   "name": "Bucklin township"
   },
   "ocd-division/country:us/state:ks/place:winfield": {
    "name": "Winfield city"
   },
-  "ocd-division/country:us/state:ks/place:kinsley/ward:2": {
-   "name": "Edwards County KS - Kinsley Ward 2"
-  },
   "ocd-division/country:us/state:ks/county:crawford/precinct:cherokee-sheridan": {
    "name": "Crawford County KS - Cherokee - Sheridan"
   },
-  "ocd-division/country:us/state:ks/place:kinsley/ward:1": {
-   "name": "Edwards County KS - Kinsley Ward 1"
+  "ocd-division/country:us/state:ks/place:kinsley/ward:2": {
+   "name": "Edwards County KS - Kinsley Ward 2"
   },
   "ocd-division/country:us/state:ks/county:dickinson/place:willowdale": {
    "name": "Willowdale township"
+  },
+  "ocd-division/country:us/state:ks/place:kinsley/ward:1": {
+   "name": "Edwards County KS - Kinsley Ward 1"
   },
   "ocd-division/country:us/state:ks/place:meade": {
    "name": "Meade city"
@@ -2501,11 +2501,11 @@
   "ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:8": {
    "name": "Shawnee County KS - TOPEKA WARD 08 PRECINCT 08"
   },
-  "ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:7": {
-   "name": "Shawnee County KS - TOPEKA WARD 08 PRECINCT 07"
-  },
   "ocd-division/country:us/state:ks/county:hodgeman/place:north_roscoe": {
    "name": "North Roscoe township"
+  },
+  "ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:7": {
+   "name": "Shawnee County KS - TOPEKA WARD 08 PRECINCT 07"
   },
   "ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:9": {
    "name": "Shawnee County KS - TOPEKA WARD 08 PRECINCT 09"
@@ -2513,41 +2513,41 @@
   "ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:4": {
    "name": "Shawnee County KS - TOPEKA WARD 08 PRECINCT 04"
   },
-  "ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:3": {
-   "name": "Shawnee County KS - TOPEKA WARD 08 PRECINCT 03"
-  },
   "ocd-division/country:us/state:ks/county:johnson/place:oxford/precinct:10": {
    "name": "Johnson County KS - Oxford Township Precinct 10"
   },
-  "ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:6": {
-   "name": "Shawnee County KS - TOPEKA WARD 08 PRECINCT 06"
+  "ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:3": {
+   "name": "Shawnee County KS - TOPEKA WARD 08 PRECINCT 03"
   },
   "ocd-division/country:us/state:ks/county:johnson/place:oxford/precinct:11": {
    "name": "Johnson County KS - Oxford Township Precinct 11"
   },
+  "ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:6": {
+   "name": "Shawnee County KS - TOPEKA WARD 08 PRECINCT 06"
+  },
   "ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:5": {
    "name": "Shawnee County KS - TOPEKA WARD 08 PRECINCT 05"
-  },
-  "ocd-division/country:us/state:ks/place:shawnee/ward:1/precinct:12": {
-   "name": "Johnson County KS - Shawnee Ward 1 Precinct 12"
   },
   "ocd-division/country:us/state:ks/county:kearny/place:kendall": {
    "name": "Kendall township"
   },
-  "ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:2": {
-   "name": "Shawnee County KS - TOPEKA WARD 08 PRECINCT 02"
-  },
-  "ocd-division/country:us/state:ks/place:shawnee/ward:1/precinct:10": {
-   "name": "Johnson County KS - Shawnee Ward 1 Precinct 10"
+  "ocd-division/country:us/state:ks/place:shawnee/ward:1/precinct:12": {
+   "name": "Johnson County KS - Shawnee Ward 1 Precinct 12"
   },
   "ocd-division/country:us/state:ks/place:norton": {
    "name": "Norton city"
   },
-  "ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:1": {
-   "name": "Shawnee County KS - TOPEKA WARD 08 PRECINCT 01"
+  "ocd-division/country:us/state:ks/place:shawnee/ward:1/precinct:10": {
+   "name": "Johnson County KS - Shawnee Ward 1 Precinct 10"
+  },
+  "ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:2": {
+   "name": "Shawnee County KS - TOPEKA WARD 08 PRECINCT 02"
   },
   "ocd-division/country:us/state:ks/place:shawnee/ward:1/precinct:11": {
    "name": "Johnson County KS - Shawnee Ward 1 Precinct 11"
+  },
+  "ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:1": {
+   "name": "Shawnee County KS - TOPEKA WARD 08 PRECINCT 01"
   },
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:621": {
    "name": "Sedgwick County KS - 621"
@@ -3345,11 +3345,11 @@
   "ocd-division/country:us/state:ks/county:osborne/place:valley": {
    "name": "Valley township"
   },
-  "ocd-division/country:us/state:ks/place:rush_center": {
-   "name": "Rush Center city"
-  },
   "ocd-division/country:us/state:ks/place:paola": {
    "name": "Paola city"
+  },
+  "ocd-division/country:us/state:ks/place:rush_center": {
+   "name": "Rush Center city"
   },
   "ocd-division/country:us/state:ks/county:marion/place:centre": {
    "name": "Centre township"
@@ -3713,11 +3713,11 @@
   "ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:7": {
    "name": "Johnson County KS - Olathe Township Precinct 7"
   },
-  "ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:8": {
-   "name": "Johnson County KS - Olathe Township Precinct 8"
-  },
   "ocd-division/country:us/state:ks/county:shawnee/place:tecumseh": {
    "name": "Tecumseh township"
+  },
+  "ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:8": {
+   "name": "Johnson County KS - Olathe Township Precinct 8"
   },
   "ocd-division/country:us/state:ks/place:arkansas_city/ward:4a": {
    "name": "Cowley County KS - Arkansas City Ward 4 A"
@@ -4624,14 +4624,17 @@
   "ocd-division/country:us/state:ks/county:butler/school_district:rose_hill_public_schools": {
    "name": "rose hill public schools"
   },
-  "ocd-division/country:us/state:ks/place:sedgwick": {
-   "name": "Sedgwick city"
-  },
   "ocd-division/country:us/state:ks/county:decatur/place:oberlin": {
    "name": "Oberlin township"
   },
+  "ocd-division/country:us/state:ks/place:sedgwick": {
+   "name": "Sedgwick city"
+  },
   "ocd-division/country:us/state:ks/county:brown/place:washington": {
    "name": "Washington township"
+  },
+  "ocd-division/country:us/state:ks/place:belle_plaine": {
+   "name": "Belle Plaine city"
   },
   "ocd-division/country:us/state:ks/county:gray": {
    "name": "Gray County",
@@ -4643,23 +4646,20 @@
     412
    ]
   },
-  "ocd-division/country:us/state:ks/place:belle_plaine": {
-   "name": "Belle Plaine city"
-  },
   "ocd-division/country:us/state:ks/place:council_grove": {
    "name": "Council Grove city"
   },
   "ocd-division/country:us/state:ks/place:garden_city/ward:2": {
    "name": "Finney County KS - Garden City Ward 2"
   },
-  "ocd-division/country:us/state:ks/place:garden_city/ward:1": {
-   "name": "Finney County KS - Garden City Ward 1"
+  "ocd-division/country:us/state:ks/county:osage/place:olivet": {
+   "name": "Olivet township"
   },
   "ocd-division/country:us/state:ks/county:miami/place:middle_creek/precinct:east": {
    "name": "Miami County KS - East Middle Creek Township C2"
   },
-  "ocd-division/country:us/state:ks/county:osage/place:olivet": {
-   "name": "Olivet township"
+  "ocd-division/country:us/state:ks/place:garden_city/ward:1": {
+   "name": "Finney County KS - Garden City Ward 1"
   },
   "ocd-division/country:us/state:ks/place:rose_hill": {
    "name": "Rose Hill city"
@@ -4667,35 +4667,35 @@
   "ocd-division/country:us/state:ks/county:neosho/place:tioga/precinct:north": {
    "name": "Neosho County KS - North Tioga Township"
   },
-  "ocd-division/country:us/state:ks/place:garden_city/ward:8": {
-   "name": "Finney County KS - Garden City Ward 8"
+  "ocd-division/country:us/state:ks/county:cherokee/place:lola": {
+   "name": "Lola township"
   },
   "ocd-division/country:us/state:ks/county:kiowa/school_district:kiowa_county": {
    "name": "kiowa county"
   },
-  "ocd-division/country:us/state:ks/county:cherokee/place:lola": {
-   "name": "Lola township"
-  },
-  "ocd-division/country:us/state:ks/place:garden_city/ward:7": {
-   "name": "Finney County KS - Garden City Ward 7"
+  "ocd-division/country:us/state:ks/place:garden_city/ward:8": {
+   "name": "Finney County KS - Garden City Ward 8"
   },
   "ocd-division/country:us/state:ks/county:greeley/place:tribune": {
    "name": "Tribune township"
   },
+  "ocd-division/country:us/state:ks/place:garden_city/ward:7": {
+   "name": "Finney County KS - Garden City Ward 7"
+  },
   "ocd-division/country:us/state:ks/place:garden_city/ward:9": {
    "name": "Finney County KS - Garden City Ward 9"
-  },
-  "ocd-division/country:us/state:ks/place:garden_city/ward:4": {
-   "name": "Finney County KS - Garden City Ward 4"
   },
   "ocd-division/country:us/state:ks/county:crawford/precinct:smelter": {
    "name": "Crawford County KS - Smelter"
   },
-  "ocd-division/country:us/state:ks/place:garden_city/ward:3": {
-   "name": "Finney County KS - Garden City Ward 3"
+  "ocd-division/country:us/state:ks/place:garden_city/ward:4": {
+   "name": "Finney County KS - Garden City Ward 4"
   },
   "ocd-division/country:us/state:ks/county:greenwood/place:fall_river": {
    "name": "Fall River township"
+  },
+  "ocd-division/country:us/state:ks/place:garden_city/ward:3": {
+   "name": "Finney County KS - Garden City Ward 3"
   },
   "ocd-division/country:us/state:ks/place:garden_city/ward:6": {
    "name": "Finney County KS - Garden City Ward 6"
@@ -4703,11 +4703,11 @@
   "ocd-division/country:us/state:ks/place:garden_city/ward:5": {
    "name": "Finney County KS - Garden City Ward 5"
   },
-  "ocd-division/country:us/state:ks/county:marion/place:peabody": {
-   "name": "Peabody township"
-  },
   "ocd-division/country:us/state:ks/county:shawnee/place:dover": {
    "name": "Dover township"
+  },
+  "ocd-division/country:us/state:ks/county:marion/place:peabody": {
+   "name": "Peabody township"
   },
   "ocd-division/country:us/state:ks/county:rice/place:center": {
    "name": "Center township"
@@ -4717,6 +4717,9 @@
   },
   "ocd-division/country:us/state:ks/county:butler/school_district:bluestem": {
    "name": "bluestem"
+  },
+  "ocd-division/country:us/state:ks/county:washington/place:lincoln": {
+   "name": "Lincoln township"
   },
   "ocd-division/country:us/state:ks/county:atchison": {
    "name": "Atchison County",
@@ -4728,17 +4731,14 @@
     417
    ]
   },
-  "ocd-division/country:us/state:ks/county:washington/place:lincoln": {
-   "name": "Lincoln township"
-  },
   "ocd-division/country:us/state:ks/place:hamlin": {
    "name": "Hamlin city"
   },
-  "ocd-division/country:us/state:ks/county:marion/place:blaine": {
-   "name": "Blaine township"
-  },
   "ocd-division/country:us/state:ks/county:butler/place:milton": {
    "name": "Milton township"
+  },
+  "ocd-division/country:us/state:ks/county:marion/place:blaine": {
+   "name": "Blaine township"
   },
   "ocd-division/country:us/state:ks/county:marion/place:summit": {
    "name": "Summit township"
@@ -4749,20 +4749,20 @@
   "ocd-division/country:us/state:ks/place:hays/ward:3/precinct:3": {
    "name": "Ellis County KS - Hays Ward 3 Precinct 3"
   },
-  "ocd-division/country:us/state:ks/place:hays/ward:3/precinct:4": {
-   "name": "Ellis County KS - Hays Ward 3 Precinct 4"
-  },
   "ocd-division/country:us/state:ks/county:saline/school_district:ell-saline": {
    "name": "ell-saline"
+  },
+  "ocd-division/country:us/state:ks/place:hays/ward:3/precinct:4": {
+   "name": "Ellis County KS - Hays Ward 3 Precinct 4"
   },
   "ocd-division/country:us/state:ks/place:hays/ward:3/precinct:1": {
    "name": "Ellis County KS - Hays Ward 3 Precinct 1"
   },
-  "ocd-division/country:us/state:ks/place:hays/ward:3/precinct:2": {
-   "name": "Ellis County KS - Hays Ward 3 Precinct 2"
-  },
   "ocd-division/country:us/state:ks/county:cowley/school_district:dexter": {
    "name": "dexter"
+  },
+  "ocd-division/country:us/state:ks/place:hays/ward:3/precinct:2": {
+   "name": "Ellis County KS - Hays Ward 3 Precinct 2"
   },
   "ocd-division/country:us/state:ks/county:sheridan/place:east_saline": {
    "name": "East Saline township"
@@ -4787,6 +4787,12 @@
     423
    ]
   },
+  "ocd-division/country:us/state:ks/county:pratt/place:township_10": {
+   "name": "Township 10"
+  },
+  "ocd-division/country:us/state:ks/county:ottawa/place:henry": {
+   "name": "Henry township"
+  },
   "ocd-division/country:us/state:ks/county:chase": {
    "name": "Chase County",
    "officeIndices": [
@@ -4798,20 +4804,14 @@
     429
    ]
   },
-  "ocd-division/country:us/state:ks/county:ottawa/place:henry": {
-   "name": "Henry township"
-  },
-  "ocd-division/country:us/state:ks/county:pratt/place:township_10": {
-   "name": "Township 10"
-  },
   "ocd-division/country:us/state:ks/county:stevens/school_district:hugoton_public_schools": {
    "name": "hugoton public schools"
   },
-  "ocd-division/country:us/state:ks/county:crawford/precinct:lincoln": {
-   "name": "Crawford County KS - Lincoln"
-  },
   "ocd-division/country:us/state:ks/county:shawnee/school_district:seaman": {
    "name": "seaman"
+  },
+  "ocd-division/country:us/state:ks/county:crawford/precinct:lincoln": {
+   "name": "Crawford County KS - Lincoln"
   },
   "ocd-division/country:us/state:ks/county:pottawatomie/place:clear_creek": {
    "name": "Clear Creek township"
@@ -4825,11 +4825,11 @@
   "ocd-division/country:us/state:ks/place:coffeyville/precinct:12": {
    "name": "Montgomery County KS - Coffeyville Ward 1 Precinct 12"
   },
-  "ocd-division/country:us/state:ks/county:anderson/place:rich": {
-   "name": "Rich township"
-  },
   "ocd-division/country:us/state:ks/place:coffeyville/precinct:11": {
    "name": "Montgomery County KS - Coffeyville Ward 1 Precinct 11"
+  },
+  "ocd-division/country:us/state:ks/county:anderson/place:rich": {
+   "name": "Rich township"
   },
   "ocd-division/country:us/state:ks/county:finney/precinct:riverside": {
    "name": "Finney County KS - Riverside Precinct"
@@ -4843,17 +4843,17 @@
   "ocd-division/country:us/state:ks/place:independence/ward:2/precinct:2": {
    "name": "Montgomery County KS - Independence City Ward 2 Precinct 2"
   },
-  "ocd-division/country:us/state:ks/place:wilmore": {
-   "name": "Wilmore city"
-  },
-  "ocd-division/country:us/state:ks/place:independence/ward:2/precinct:1": {
-   "name": "Montgomery County KS - Independence City Ward 2 Precinct 1"
+  "ocd-division/country:us/state:ks/county:crawford/place:baker": {
+   "name": "Baker township"
   },
   "ocd-division/country:us/state:ks/place:dunlap": {
    "name": "Dunlap city"
   },
-  "ocd-division/country:us/state:ks/county:crawford/place:baker": {
-   "name": "Baker township"
+  "ocd-division/country:us/state:ks/place:independence/ward:2/precinct:1": {
+   "name": "Montgomery County KS - Independence City Ward 2 Precinct 1"
+  },
+  "ocd-division/country:us/state:ks/place:wilmore": {
+   "name": "Wilmore city"
   },
   "ocd-division/country:us/state:ks/place:latimer": {
    "name": "Latimer city"
@@ -4870,11 +4870,11 @@
   "ocd-division/country:us/state:ks/place:leawood/ward:3/precinct:1": {
    "name": "Johnson County KS - Leawood Ward 3 Precinct 1"
   },
-  "ocd-division/country:us/state:ks/place:leawood/ward:3/precinct:4": {
-   "name": "Johnson County KS - Leawood Ward 3 Precinct 4"
-  },
   "ocd-division/country:us/state:ks/county:osborne/place:ross/precinct:1": {
    "name": "Osborne County KS - Ross 1"
+  },
+  "ocd-division/country:us/state:ks/place:leawood/ward:3/precinct:4": {
+   "name": "Johnson County KS - Leawood Ward 3 Precinct 4"
   },
   "ocd-division/country:us/state:ks/place:leawood/ward:3/precinct:3": {
    "name": "Johnson County KS - Leawood Ward 3 Precinct 3"
@@ -4890,38 +4890,38 @@
     435
    ]
   },
-  "ocd-division/country:us/state:ks/county:osborne/place:ross/precinct:2": {
-   "name": "Osborne County KS - Ross 2"
-  },
   "ocd-division/country:us/state:ks/county:stafford/place:york": {
    "name": "York township"
+  },
+  "ocd-division/country:us/state:ks/county:osborne/place:ross/precinct:2": {
+   "name": "Osborne County KS - Ross 2"
   },
   "ocd-division/country:us/state:ks/county:johnson/place:olathe": {
    "name": "Olathe township"
   },
-  "ocd-division/country:us/state:ks/place:leawood/ward:3/precinct:6": {
-   "name": "Johnson County KS - Leawood Ward 3 Precinct 6"
-  },
   "ocd-division/country:us/state:ks/place:agra": {
    "name": "Agra city"
   },
-  "ocd-division/country:us/state:ks/place:leawood/ward:3/precinct:5": {
-   "name": "Johnson County KS - Leawood Ward 3 Precinct 5"
-  },
-  "ocd-division/country:us/state:ks/place:elk_city": {
-   "name": "Elk City city"
+  "ocd-division/country:us/state:ks/place:leawood/ward:3/precinct:6": {
+   "name": "Johnson County KS - Leawood Ward 3 Precinct 6"
   },
   "ocd-division/country:us/state:ks/county:meade/place:meade_center": {
    "name": "Meade Center township"
   },
-  "ocd-division/country:us/state:ks/county:neosho/place:canville": {
-   "name": "Canville township"
+  "ocd-division/country:us/state:ks/place:elk_city": {
+   "name": "Elk City city"
+  },
+  "ocd-division/country:us/state:ks/place:leawood/ward:3/precinct:5": {
+   "name": "Johnson County KS - Leawood Ward 3 Precinct 5"
+  },
+  "ocd-division/country:us/state:ks/county:stafford/place:west_cooper": {
+   "name": "West Cooper township"
   },
   "ocd-division/country:us/state:ks/county:pawnee/place:pawnee": {
    "name": "Pawnee township"
   },
-  "ocd-division/country:us/state:ks/county:stafford/place:west_cooper": {
-   "name": "West Cooper township"
+  "ocd-division/country:us/state:ks/county:neosho/place:canville": {
+   "name": "Canville township"
   },
   "ocd-division/country:us/state:ks/place:leawood/ward:3/precinct:7": {
    "name": "Johnson County KS - Leawood Ward 3 Precinct 7"
@@ -4929,11 +4929,11 @@
   "ocd-division/country:us/state:ks/place:lyons": {
    "name": "Lyons city"
   },
-  "ocd-division/country:us/state:ks/county:osborne/school_district:paradise": {
-   "name": "paradise"
-  },
   "ocd-division/country:us/state:ks/county:ottawa/place:buckeye": {
    "name": "Buckeye township"
+  },
+  "ocd-division/country:us/state:ks/county:osborne/school_district:paradise": {
+   "name": "paradise"
   },
   "ocd-division/country:us/state:ks/place:halstead": {
    "name": "Halstead city"
@@ -4941,11 +4941,11 @@
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:mi01": {
    "name": "Sedgwick County KS - MI01"
   },
-  "ocd-division/country:us/state:ks/county:russell/place:fairview": {
-   "name": "Fairview township"
-  },
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:mi02": {
    "name": "Sedgwick County KS - MI02"
+  },
+  "ocd-division/country:us/state:ks/county:russell/place:fairview": {
+   "name": "Fairview township"
   },
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:mi03": {
    "name": "Sedgwick County KS - MI03"
@@ -4962,17 +4962,20 @@
     5
    ]
   },
+  "ocd-division/country:us/state:ks/county:allen/school_district:iola": {
+   "name": "iola"
+  },
+  "ocd-division/country:us/state:ks/place:washington": {
+   "name": "Washington city"
+  },
   "ocd-division/country:us/state:ks/sldl:23": {
    "name": "Kansas State House district 23",
    "officeIndices": [
     6
    ]
   },
-  "ocd-division/country:us/state:ks/place:washington": {
-   "name": "Washington city"
-  },
-  "ocd-division/country:us/state:ks/county:allen/school_district:iola": {
-   "name": "iola"
+  "ocd-division/country:us/state:ks/county:johnson/place:mccamish": {
+   "name": "McCamish township"
   },
   "ocd-division/country:us/state:ks/sldl:26": {
    "name": "Kansas State House district 26",
@@ -4980,23 +4983,20 @@
     7
    ]
   },
-  "ocd-division/country:us/state:ks/county:johnson/place:mccamish": {
-   "name": "McCamish township"
-  },
   "ocd-division/country:us/state:ks/sldl:25": {
    "name": "Kansas State House district 25",
    "officeIndices": [
     8
    ]
   },
+  "ocd-division/country:us/state:ks/county:stevens/place:center": {
+   "name": "Center township"
+  },
   "ocd-division/country:us/state:ks/sldl:20": {
    "name": "Kansas State House district 20",
    "officeIndices": [
     9
    ]
-  },
-  "ocd-division/country:us/state:ks/county:stevens/place:center": {
-   "name": "Center township"
   },
   "ocd-division/country:us/state:ks/sldl:22": {
    "name": "Kansas State House district 22",
@@ -5016,14 +5016,14 @@
     12
    ]
   },
+  "ocd-division/country:us/state:ks/county:kingman/place:richland": {
+   "name": "Richland township"
+  },
   "ocd-division/country:us/state:ks/sldl:27": {
    "name": "Kansas State House district 27",
    "officeIndices": [
     13
    ]
-  },
-  "ocd-division/country:us/state:ks/county:kingman/place:richland": {
-   "name": "Richland township"
   },
   "ocd-division/country:us/state:ks/sldl:29": {
    "name": "Kansas State House district 29",
@@ -5046,26 +5046,23 @@
   "ocd-division/country:us/state:ks/county:sedgwick/precinct:mi11": {
    "name": "Sedgwick County KS - MI11"
   },
+  "ocd-division/country:us/state:ks/county:sedgwick/precinct:mi12": {
+   "name": "Sedgwick County KS - MI12"
+  },
   "ocd-division/country:us/state:ks/sldl:40": {
    "name": "Kansas State House district 40",
    "officeIndices": [
     15
    ]
   },
-  "ocd-division/country:us/state:ks/county:sedgwick/precinct:mi12": {
-   "name": "Sedgwick County KS - MI12"
-  },
   "ocd-division/country:us/state:ks/place:waldron": {
    "name": "Waldron city"
   },
-  "ocd-division/country:us/state:ks/sldl:37": {
-   "name": "Kansas State House district 37",
-   "officeIndices": [
-    16
-   ]
+  "ocd-division/country:us/state:ks/county:sedgwick/precinct:mi09": {
+   "name": "Sedgwick County KS - MI09"
   },
-  "ocd-division/country:us/state:ks/county:decatur/place:bassettville": {
-   "name": "Bassettville township"
+  "ocd-division/country:us/state:ks/county:phillips/place:dayton": {
+   "name": "Dayton township"
   },
   "ocd-division/country:us/state:ks/county:grant": {
    "name": "Grant County",
@@ -5077,11 +5074,17 @@
     440
    ]
   },
-  "ocd-division/country:us/state:ks/county:phillips/place:dayton": {
-   "name": "Dayton township"
+  "ocd-division/country:us/state:ks/county:decatur/place:bassettville": {
+   "name": "Bassettville township"
   },
-  "ocd-division/country:us/state:ks/county:sedgwick/precinct:mi09": {
-   "name": "Sedgwick County KS - MI09"
+  "ocd-division/country:us/state:ks/sldl:37": {
+   "name": "Kansas State House district 37",
+   "officeIndices": [
+    16
+   ]
+  },
+  "ocd-division/country:us/state:ks/county:sedgwick/precinct:mi08": {
+   "name": "Sedgwick County KS - MI08"
   },
   "ocd-division/country:us/state:ks/sldl:36": {
    "name": "Kansas State House district 36",
@@ -5089,8 +5092,8 @@
     17
    ]
   },
-  "ocd-division/country:us/state:ks/county:sedgwick/precinct:mi08": {
-   "name": "Sedgwick County KS - MI08"
+  "ocd-division/country:us/state:ks/county:sedgwick/precinct:mi07": {
+   "name": "Sedgwick County KS - MI07"
   },
   "ocd-division/country:us/state:ks/sldl:35": {
    "name": "Kansas State House district 35",
@@ -5098,13 +5101,19 @@
     18
    ]
   },
-  "ocd-division/country:us/state:ks/county:sedgwick/precinct:mi07": {
-   "name": "Sedgwick County KS - MI07"
-  },
   "ocd-division/country:us/state:ks/sldl:34": {
    "name": "Kansas State House district 34",
    "officeIndices": [
     19
+   ]
+  },
+  "ocd-division/country:us/state:ks/county:osborne/place:corinth": {
+   "name": "Corinth township"
+  },
+  "ocd-division/country:us/state:ks/county:johnson/council_district:2": {
+   "name": "Johnson County KS Commissioner District 2",
+   "officeIndices": [
+    441
    ]
   },
   "ocd-division/country:us/state:ks/sldl:33": {
@@ -5113,31 +5122,16 @@
     20
    ]
   },
-  "ocd-division/country:us/state:ks/county:johnson/council_district:2": {
-   "name": "Johnson County KS Commissioner District 2",
-   "officeIndices": [
-    441
-   ]
-  },
-  "ocd-division/country:us/state:ks/county:osborne/place:corinth": {
-   "name": "Corinth township"
-  },
-  "ocd-division/country:us/state:ks/sldl:32": {
-   "name": "Kansas State House district 32",
-   "officeIndices": [
-    21
-   ]
-  },
   "ocd-division/country:us/state:ks/county:johnson/council_district:3": {
    "name": "Johnson County KS Commissioner District 3",
    "officeIndices": [
     442
    ]
   },
-  "ocd-division/country:us/state:ks/sldl:31": {
-   "name": "Kansas State House district 31",
+  "ocd-division/country:us/state:ks/sldl:32": {
+   "name": "Kansas State House district 32",
    "officeIndices": [
-    22
+    21
    ]
   },
   "ocd-division/country:us/state:ks/county:woodson": {
@@ -5150,6 +5144,18 @@
     447
    ]
   },
+  "ocd-division/country:us/state:ks/sldl:31": {
+   "name": "Kansas State House district 31",
+   "officeIndices": [
+    22
+   ]
+  },
+  "ocd-division/country:us/state:ks/county:johnson/council_district:1": {
+   "name": "Johnson County KS Commissioner District 1",
+   "officeIndices": [
+    448
+   ]
+  },
   "ocd-division/country:us/state:ks/sldl:30": {
    "name": "Kansas State House district 30",
    "officeIndices": [
@@ -5158,12 +5164,6 @@
   },
   "ocd-division/country:us/state:ks/place:toronto": {
    "name": "Toronto city"
-  },
-  "ocd-division/country:us/state:ks/county:johnson/council_district:1": {
-   "name": "Johnson County KS Commissioner District 1",
-   "officeIndices": [
-    448
-   ]
   },
   "ocd-division/country:us/state:ks/county:johnson/council_district:6": {
    "name": "Johnson County KS Commissioner District 6",
@@ -5283,14 +5283,14 @@
     28
    ]
   },
+  "ocd-division/country:us/state:ks/place:seneca": {
+   "name": "Seneca city"
+  },
   "ocd-division/country:us/state:ks/sldl:14": {
    "name": "Kansas State House district 14",
    "officeIndices": [
     29
    ]
-  },
-  "ocd-division/country:us/state:ks/place:seneca": {
-   "name": "Seneca city"
   },
   "ocd-division/country:us/state:ks/place:maize": {
    "name": "Maize city"
@@ -8219,9 +8219,6 @@
   "ocd-division/country:us/state:ks/county:miami/place:richland": {
    "name": "Richland township"
   },
-  "ocd-division/country:us/state:ks/county:kearny/place:east_hibbard": {
-   "name": "East Hibbard township"
-  },
   "ocd-division/country:us/state:ks/county:brown": {
    "name": "Brown County",
    "officeIndices": [
@@ -8231,6 +8228,9 @@
     561,
     562
    ]
+  },
+  "ocd-division/country:us/state:ks/county:kearny/place:east_hibbard": {
+   "name": "East Hibbard township"
   },
   "ocd-division/country:us/state:ks/county:douglas/council_district:2": {
    "name": "Douglas County District 2",
@@ -8621,9 +8621,6 @@
   "ocd-division/country:us/state:ks/place:kansas_city/ward:13/precinct:9": {
    "name": "Wyandotte County KS - Kansas City Ward 13 Precinct 09"
   },
-  "ocd-division/country:us/state:ks/place:kansas_city/ward:13/precinct:6": {
-   "name": "Wyandotte County KS - Kansas City Ward 13 Precinct 06"
-  },
   "ocd-division/country:us/state:ks/county:seward": {
    "name": "Seward County",
    "officeIndices": [
@@ -8633,6 +8630,9 @@
     575,
     576
    ]
+  },
+  "ocd-division/country:us/state:ks/place:kansas_city/ward:13/precinct:6": {
+   "name": "Wyandotte County KS - Kansas City Ward 13 Precinct 06"
   },
   "ocd-division/country:us/state:ks/place:kansas_city/ward:13/precinct:7": {
    "name": "Wyandotte County KS - Kansas City Ward 13 Precinct 07"
@@ -10378,14 +10378,14 @@
     135
    ]
   },
+  "ocd-division/country:us/state:ks/county:crawford/precinct:arcadia": {
+   "name": "Crawford County KS - Arcadia"
+  },
   "ocd-division/country:us/state:ks/sldl:110": {
    "name": "Kansas State House district 110",
    "officeIndices": [
     136
    ]
-  },
-  "ocd-division/country:us/state:ks/county:crawford/precinct:arcadia": {
-   "name": "Crawford County KS - Arcadia"
   },
   "ocd-division/country:us/state:ks/county:shawnee/precinct:s_monmouth": {
    "name": "Shawnee County KS - S MONMOUTH"
@@ -10414,14 +10414,17 @@
     139
    ]
   },
+  "ocd-division/country:us/state:ks/place:hill_city/precinct:2": {
+   "name": "Graham County KS - Hill City Precinct 2"
+  },
   "ocd-division/country:us/state:ks/sldl:115": {
    "name": "Kansas State House district 115",
    "officeIndices": [
     140
    ]
   },
-  "ocd-division/country:us/state:ks/place:hill_city/precinct:2": {
-   "name": "Graham County KS - Hill City Precinct 2"
+  "ocd-division/country:us/state:ks/place:hill_city/precinct:1": {
+   "name": "Graham County KS - Hill City Precinct 1"
   },
   "ocd-division/country:us/state:ks/sldl:116": {
    "name": "Kansas State House district 116",
@@ -10429,23 +10432,20 @@
     141
    ]
   },
-  "ocd-division/country:us/state:ks/place:hill_city/precinct:1": {
-   "name": "Graham County KS - Hill City Precinct 1"
-  },
   "ocd-division/country:us/state:ks/sldl:113": {
    "name": "Kansas State House district 113",
    "officeIndices": [
     142
    ]
   },
+  "ocd-division/country:us/state:ks/place:hill_city/precinct:3": {
+   "name": "Graham County KS - Hill City Precinct 3"
+  },
   "ocd-division/country:us/state:ks/sldl:114": {
    "name": "Kansas State House district 114",
    "officeIndices": [
     143
    ]
-  },
-  "ocd-division/country:us/state:ks/place:hill_city/precinct:3": {
-   "name": "Graham County KS - Hill City Precinct 3"
   },
   "ocd-division/country:us/state:ks/county:harvey/place:newton": {
    "name": "Newton township"
@@ -10471,14 +10471,17 @@
   "ocd-division/country:us/state:ks/place:overland_park/ward:6": {
    "name": "Overland Park KS ward 6"
   },
+  "ocd-division/country:us/state:ks/place:overland_park/ward:5": {
+   "name": "Overland Park KS ward 5"
+  },
   "ocd-division/country:us/state:ks/sldl:101": {
    "name": "Kansas State House district 101",
    "officeIndices": [
     144
    ]
   },
-  "ocd-division/country:us/state:ks/place:overland_park/ward:5": {
-   "name": "Overland Park KS ward 5"
+  "ocd-division/country:us/state:ks/place:overland_park/ward:4": {
+   "name": "Overland Park KS ward 4"
   },
   "ocd-division/country:us/state:ks/sldl:100": {
    "name": "Kansas State House district 100",
@@ -10486,14 +10489,11 @@
     145
    ]
   },
-  "ocd-division/country:us/state:ks/place:overland_park/ward:4": {
-   "name": "Overland Park KS ward 4"
+  "ocd-division/country:us/state:ks/place:leonardville": {
+   "name": "Leonardville city"
   },
   "ocd-division/country:us/state:ks/place:overland_park/ward:3": {
    "name": "Overland Park KS ward 3"
-  },
-  "ocd-division/country:us/state:ks/place:leonardville": {
-   "name": "Leonardville city"
   },
   "ocd-division/country:us/state:ks/place:overland_park/ward:2": {
    "name": "Overland Park KS ward 2"
@@ -10513,17 +10513,17 @@
     147
    ]
   },
+  "ocd-division/country:us/state:ks/county:phillips/place:crystal": {
+   "name": "Crystal township"
+  },
+  "ocd-division/country:us/state:ks/county:osage/place:burlingame/precinct:north": {
+   "name": "Osage County KS - North Burlingame"
+  },
   "ocd-division/country:us/state:ks/sldl:108": {
    "name": "Kansas State House district 108",
    "officeIndices": [
     148
    ]
-  },
-  "ocd-division/country:us/state:ks/county:osage/place:burlingame/precinct:north": {
-   "name": "Osage County KS - North Burlingame"
-  },
-  "ocd-division/country:us/state:ks/county:phillips/place:crystal": {
-   "name": "Crystal township"
   },
   "ocd-division/country:us/state:ks/sldl:109": {
    "name": "Kansas State House district 109",
@@ -10531,14 +10531,14 @@
     149
    ]
   },
+  "ocd-division/country:us/state:ks/county:coffey/school_district:leroy-gridley": {
+   "name": "leroy-gridley"
+  },
   "ocd-division/country:us/state:ks/sldl:102": {
    "name": "Kansas State House district 102",
    "officeIndices": [
     150
    ]
-  },
-  "ocd-division/country:us/state:ks/county:coffey/school_district:leroy-gridley": {
-   "name": "leroy-gridley"
   },
   "ocd-division/country:us/state:ks/sldl:103": {
    "name": "Kansas State House district 103",
@@ -10546,26 +10546,26 @@
     151
    ]
   },
+  "ocd-division/country:us/state:ks/county:washington/school_district:barnes": {
+   "name": "barnes"
+  },
+  "ocd-division/country:us/state:ks/place:eskridge": {
+   "name": "Eskridge city"
+  },
   "ocd-division/country:us/state:ks/sldl:104": {
    "name": "Kansas State House district 104",
    "officeIndices": [
     152
    ]
   },
-  "ocd-division/country:us/state:ks/place:eskridge": {
-   "name": "Eskridge city"
-  },
-  "ocd-division/country:us/state:ks/county:washington/school_district:barnes": {
-   "name": "barnes"
+  "ocd-division/country:us/state:ks/place:morganville": {
+   "name": "Morganville city"
   },
   "ocd-division/country:us/state:ks/sldl:105": {
    "name": "Kansas State House district 105",
    "officeIndices": [
     153
    ]
-  },
-  "ocd-division/country:us/state:ks/place:morganville": {
-   "name": "Morganville city"
   },
   "ocd-division/country:us/state:ks/county:butler/school_district:circle": {
    "name": "circle"
@@ -10966,14 +10966,14 @@
   "ocd-division/country:us/state:ks/county:phillips/place:greenwood": {
    "name": "Greenwood township"
   },
-  "ocd-division/country:us/state:ks/place:moran": {
-   "name": "Moran city"
-  },
   "ocd-division/country:us/state:ks/county:reno/council_district:2": {
    "name": "Reno County Commissioner District 2",
    "officeIndices": [
     706
    ]
+  },
+  "ocd-division/country:us/state:ks/place:moran": {
+   "name": "Moran city"
   },
   "ocd-division/country:us/state:ks/county:reno/council_district:1": {
    "name": "Reno County Commissioner District 1",
@@ -11560,14 +11560,14 @@
   "ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:14": {
    "name": "Johnson County KS - Overland Park Ward 2 Precinct 14"
   },
-  "ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:17": {
-   "name": "Johnson County KS - Overland Park Ward 2 Precinct 17"
-  },
   "ocd-division/country:us/state:ks/county:atchison/council_district:2": {
    "name": "Atchison County Commissioner District 2",
    "officeIndices": [
     732
    ]
+  },
+  "ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:17": {
+   "name": "Johnson County KS - Overland Park Ward 2 Precinct 17"
   },
   "ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:16": {
    "name": "Johnson County KS - Overland Park Ward 2 Precinct 16"
@@ -12054,11 +12054,11 @@
   "ocd-division/country:us/state:ks/county:wyandotte/council_district:5": {
    "name": "Wyandotte County Commissioner District 5"
   },
-  "ocd-division/country:us/state:ks/place:parkerville": {
-   "name": "Parkerville city"
-  },
   "ocd-division/country:us/state:ks/county:wyandotte/council_district:2": {
    "name": "Wyandotte County Commissioner District 2"
+  },
+  "ocd-division/country:us/state:ks/place:parkerville": {
+   "name": "Parkerville city"
   },
   "ocd-division/country:us/state:ks/county:wyandotte/council_district:3": {
    "name": "Wyandotte County Commissioner District 3"
@@ -14157,20 +14157,20 @@
   "ocd-division/country:us/state:ks/county:shawnee/precinct:east_peck": {
    "name": "Shawnee County KS - EAST PECK"
   },
-  "ocd-division/country:us/state:ks/county:mcpherson/council_district:1": {
-   "name": "McPherson County Commissioner District 1",
-   "officeIndices": [
-    828
-   ]
-  },
   "ocd-division/country:us/state:ks/county:jefferson": {
    "name": "Jefferson County",
    "officeIndices": [
-    823,
     824,
     825,
     826,
-    827
+    827,
+    828
+   ]
+  },
+  "ocd-division/country:us/state:ks/county:mcpherson/council_district:1": {
+   "name": "McPherson County Commissioner District 1",
+   "officeIndices": [
+    823
    ]
   },
   "ocd-division/country:us/state:ks/county:ellis/place:big_creek/precinct:east": {
@@ -14374,26 +14374,26 @@
   "ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:4": {
    "name": "Johnson County KS - Overland Park Ward 2 Precinct 4"
   },
-  "ocd-division/country:us/state:ks/place:westwood/precinct:1": {
-   "name": "Johnson County KS - Westwood City Precinct 1"
-  },
-  "ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:5": {
-   "name": "Johnson County KS - Overland Park Ward 2 Precinct 5"
-  },
   "ocd-division/country:us/state:ks/cd:2": {
    "name": "Kansas's 2nd congressional district",
    "officeIndices": [
     1
    ]
   },
-  "ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:6": {
-   "name": "Johnson County KS - Overland Park Ward 2 Precinct 6"
+  "ocd-division/country:us/state:ks/place:westwood/precinct:1": {
+   "name": "Johnson County KS - Westwood City Precinct 1"
+  },
+  "ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:5": {
+   "name": "Johnson County KS - Overland Park Ward 2 Precinct 5"
   },
   "ocd-division/country:us/state:ks/cd:1": {
    "name": "Kansas's 1st congressional district",
    "officeIndices": [
     2
    ]
+  },
+  "ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:6": {
+   "name": "Johnson County KS - Overland Park Ward 2 Precinct 6"
   },
   "ocd-division/country:us/state:ks/place:glade": {
    "name": "Glade city"
@@ -14422,17 +14422,17 @@
   "ocd-division/country:us/state:ks/county:pottawatomie/place:belvue": {
    "name": "Belvue township"
   },
-  "ocd-division/country:us/state:ks/place:howard": {
-   "name": "Howard city"
-  },
-  "ocd-division/country:us/state:ks/county:cloud/place:lawrence/precinct:north": {
-   "name": "Cloud County KS - North Lawrence"
-  },
   "ocd-division/country:us/state:ks/cd:3": {
    "name": "Kansas's 3rd congressional district",
    "officeIndices": [
     3
    ]
+  },
+  "ocd-division/country:us/state:ks/place:howard": {
+   "name": "Howard city"
+  },
+  "ocd-division/country:us/state:ks/county:cloud/place:lawrence/precinct:north": {
+   "name": "Cloud County KS - North Lawrence"
   },
   "ocd-division/country:us/state:ks/cd:4": {
    "name": "Kansas's 4th congressional district",
@@ -15154,23 +15154,23 @@
   "ocd-division/country:us/state:ks/place:fort_scott/ward:3": {
    "name": "Bourbon County KS - Fort Scott Ward 3"
   },
+  "ocd-division/country:us/state:ks/county:jefferson/council_district:1": {
+   "name": "Jefferson County Commissioner District 1",
+   "officeIndices": [
+    858
+   ]
+  },
   "ocd-division/country:us/state:ks/place:el_dorado/ward:1/precinct:1": {
    "name": "Butler County KS - El Dorado Ward 1 Precinct 1"
   },
   "ocd-division/country:us/state:ks/county:marion": {
    "name": "Marion County",
    "officeIndices": [
+    853,
     854,
     855,
     856,
-    857,
-    858
-   ]
-  },
-  "ocd-division/country:us/state:ks/county:jefferson/council_district:1": {
-   "name": "Jefferson County Commissioner District 1",
-   "officeIndices": [
-    853
+    857
    ]
   },
   "ocd-division/country:us/state:ks/place:fort_scott/ward:7": {
@@ -15367,9 +15367,6 @@
   "ocd-division/country:us/state:ks/place:junction_city/ward:1/precinct:4": {
    "name": "Geary County KS - Junction City Ward 1 Precinct 4"
   },
-  "ocd-division/country:us/state:ks/place:junction_city/ward:1/precinct:3": {
-   "name": "Geary County KS - Junction City Ward 1 Precinct 3"
-  },
   "ocd-division/country:us/state:ks/county:riley": {
    "name": "Riley County",
    "officeIndices": [
@@ -15379,6 +15376,9 @@
     869,
     870
    ]
+  },
+  "ocd-division/country:us/state:ks/place:junction_city/ward:1/precinct:3": {
+   "name": "Geary County KS - Junction City Ward 1 Precinct 3"
   },
   "ocd-division/country:us/state:ks/place:concordia/ward:1": {
    "name": "Cloud County KS - Concordia Ward 1"
@@ -16420,17 +16420,17 @@
   "ocd-division/country:us/state:ks/place:edwardsville/ward:1/precinct:1": {
    "name": "Wyandotte County KS - Edwardsville Ward 01 Precinct 01"
   },
-  "ocd-division/country:us/state:ks/place:wellington/ward:1": {
-   "name": "Sumner County KS - Wellington City Ward 1"
-  },
   "ocd-division/country:us/state:ks/county:shawnee/council_district:2": {
    "name": "Shawnee County KS Board of County Commissioners District 2"
   },
-  "ocd-division/country:us/state:ks/place:wellington/ward:2": {
-   "name": "Sumner County KS - Wellington City Ward 2"
+  "ocd-division/country:us/state:ks/place:wellington/ward:1": {
+   "name": "Sumner County KS - Wellington City Ward 1"
   },
   "ocd-division/country:us/state:ks/county:shawnee/council_district:3": {
    "name": "Shawnee County KS Board of County Commissioners District 3"
+  },
+  "ocd-division/country:us/state:ks/place:wellington/ward:2": {
+   "name": "Sumner County KS - Wellington City Ward 2"
   },
   "ocd-division/country:us/state:ks/county:shawnee/council_district:1": {
    "name": "Shawnee County KS Board of County Commissioners District 1"
@@ -16438,11 +16438,11 @@
   "ocd-division/country:us/state:ks/county:johnson/school_district:blue_valley": {
    "name": "blue valley"
   },
-  "ocd-division/country:us/state:ks/place:wellington/ward:3": {
-   "name": "Sumner County KS - Wellington City Ward 3"
-  },
   "ocd-division/country:us/state:ks/place:lawrence": {
    "name": "Lawrence city"
+  },
+  "ocd-division/country:us/state:ks/place:wellington/ward:3": {
+   "name": "Sumner County KS - Wellington City Ward 3"
   },
   "ocd-division/country:us/state:ks/place:wellington/ward:4": {
    "name": "Sumner County KS - Wellington City Ward 4"
@@ -16654,11 +16654,11 @@
     941
    ]
   },
-  "ocd-division/country:us/state:ks/place:leawood/ward:1/precinct:5": {
-   "name": "Johnson County KS - Leawood Ward 1 Precinct 5"
-  },
   "ocd-division/country:us/state:ks/place:fort_scott": {
    "name": "Fort Scott city"
+  },
+  "ocd-division/country:us/state:ks/place:leawood/ward:1/precinct:5": {
+   "name": "Johnson County KS - Leawood Ward 1 Precinct 5"
   },
   "ocd-division/country:us/state:ks/county:nemaha/school_district:prairie_hills": {
    "name": "prairie hills"
@@ -16714,17 +16714,17 @@
   "ocd-division/country:us/state:ks/place:lansing/ward:4": {
    "name": "Leavenworth County KS - Lansing Ward 4"
   },
-  "ocd-division/country:us/state:ks/place:lansing/ward:3": {
-   "name": "Leavenworth County KS - Lansing Ward 3"
-  },
-  "ocd-division/country:us/state:ks/county:barber/place:moore": {
-   "name": "Moore township"
-  },
   "ocd-division/country:us/state:ks/county:riley/council_district:3": {
    "name": "Riley County Commissioner District 3",
    "officeIndices": [
     944
    ]
+  },
+  "ocd-division/country:us/state:ks/place:lansing/ward:3": {
+   "name": "Leavenworth County KS - Lansing Ward 3"
+  },
+  "ocd-division/country:us/state:ks/county:barber/place:moore": {
+   "name": "Moore township"
   },
   "ocd-division/country:us/state:ks/place:lansing/ward:2": {
    "name": "Leavenworth County KS - Lansing Ward 2 Precinct 1"
@@ -16738,14 +16738,14 @@
     945
    ]
   },
-  "ocd-division/country:us/state:ks/place:lansing/ward:1": {
-   "name": "Leavenworth County KS - Lansing Ward 1"
-  },
   "ocd-division/country:us/state:ks/county:riley/council_district:1": {
    "name": "Riley County Commissioner District 1",
    "officeIndices": [
     946
    ]
+  },
+  "ocd-division/country:us/state:ks/place:lansing/ward:1": {
+   "name": "Leavenworth County KS - Lansing Ward 1"
   },
   "ocd-division/country:us/state:ks/county:clay/place:bloom": {
    "name": "Bloom township"
@@ -24152,43 +24152,43 @@
    ]
   },
   {
-   "name": "Sheriff",
-   "divisionId": "ocd-division/country:us/state:ks/county:jefferson",
+   "name": "County Commission, District 1",
+   "divisionId": "ocd-division/country:us/state:ks/county:mcpherson/council_district:1",
    "officialIndices": [
     895
    ]
   },
   {
-   "name": "Treasurer",
+   "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ks/county:jefferson",
    "officialIndices": [
     896
    ]
   },
   {
-   "name": "County Clerk",
+   "name": "Treasurer",
    "divisionId": "ocd-division/country:us/state:ks/county:jefferson",
    "officialIndices": [
     897
    ]
   },
   {
-   "name": "County Attorney",
+   "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:ks/county:jefferson",
    "officialIndices": [
     898
    ]
   },
   {
-   "name": "Register of Deeds",
+   "name": "County Attorney",
    "divisionId": "ocd-division/country:us/state:ks/county:jefferson",
    "officialIndices": [
     899
    ]
   },
   {
-   "name": "County Commission, District 1",
-   "divisionId": "ocd-division/country:us/state:ks/county:mcpherson/council_district:1",
+   "name": "Register of Deeds",
+   "divisionId": "ocd-division/country:us/state:ks/county:jefferson",
    "officialIndices": [
     900
    ]
@@ -24364,43 +24364,43 @@
    ]
   },
   {
-   "name": "County Commission, District 1",
-   "divisionId": "ocd-division/country:us/state:ks/county:jefferson/council_district:1",
-   "officialIndices": [
-    927
-   ]
-  },
-  {
    "name": "Sheriff",
    "divisionId": "ocd-division/country:us/state:ks/county:marion",
    "officialIndices": [
-    928
+    927
    ]
   },
   {
    "name": "Treasurer",
    "divisionId": "ocd-division/country:us/state:ks/county:marion",
    "officialIndices": [
-    929
+    928
    ]
   },
   {
    "name": "County Clerk",
    "divisionId": "ocd-division/country:us/state:ks/county:marion",
    "officialIndices": [
-    930
+    929
    ]
   },
   {
    "name": "County Attorney",
    "divisionId": "ocd-division/country:us/state:ks/county:marion",
    "officialIndices": [
-    931
+    930
    ]
   },
   {
    "name": "Register of Deeds",
    "divisionId": "ocd-division/country:us/state:ks/county:marion",
+   "officialIndices": [
+    931
+   ]
+  },
+  {
+   "name": "County Commission, District 1",
+   "divisionId": "ocd-division/country:us/state:ks/county:jefferson/council_district:1",
    "officialIndices": [
     932
    ]
@@ -25395,10 +25395,6 @@
     "(785) 296-7548",
     "(913) 703-3423"
    ],
-   "urls": [
-    "http://www.kslegislature.org/li/b2015_16/members/rep_gallagher_linda_1/"
-   ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_gallagher_linda_1.jpg",
    "emails": [
     "linda.gallagher@house.ks.gov",
     "LJGallagher@kc.rr.com"
@@ -25421,7 +25417,6 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/rep_campbell_larry_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_campbell_larry_1.jpg",
    "emails": [
     "larry.campbell@house.ks.gov"
    ],
@@ -25445,9 +25440,6 @@
    "party": "Republican",
    "phones": [
     "(785) 296-7686"
-   ],
-   "urls": [
-    "http://www.kslegislature.org/li/b2015_16/members/rep_rooker_melissa_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_rooker_melissa_1.jpg",
    "emails": [
@@ -25475,7 +25467,7 @@
     "(785) 296-7644"
    ],
    "urls": [
-    "http://www.robbruchman.com/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_bruchman_rob_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_bruchman_rob_1.jpg",
    "emails": [
@@ -25483,12 +25475,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "robbruchman"
-    },
-    {
      "type": "Facebook",
      "id": "robbruchmanforstaterepresentative"
+    },
+    {
+     "type": "Twitter",
+     "id": "robbruchman"
     }
    ]
   },
@@ -25507,7 +25499,7 @@
     "(785) 296-7651"
    ],
    "urls": [
-    "http://www.nancylusk.com/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_lusk_nancy_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_lusk_nancy_1.jpg",
    "emails": [
@@ -25529,7 +25521,7 @@
     "(785) 296-7686"
    ],
    "urls": [
-    "http://www.barbarabollier.org/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_bollier_barbara_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_bollier_barbara_1.jpg",
    "emails": [
@@ -25537,12 +25529,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "barbarabollier"
-    },
-    {
      "type": "Facebook",
      "id": "RepresentativeBarbaraBollier"
+    },
+    {
+     "type": "Twitter",
+     "id": "barbarabollier"
     }
    ]
   },
@@ -25561,9 +25553,8 @@
     "(785) 296-7675"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_lunn_jerry_1/"
+    "http://lunnforkansas.com/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_lunn_jerry_1.jpg",
    "emails": [
     "jerry.lunn@house.ks.gov"
    ],
@@ -25589,8 +25580,7 @@
     "(785) 296-2302"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2015_16/members/rep_merrick_ray_1/",
-    "http://www.raymerrick.org/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_merrick_ray_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_merrick_ray_1.jpg",
    "emails": [
@@ -25610,9 +25600,6 @@
    "party": "Republican",
    "phones": [
     "(785) 296-7695"
-   ],
-   "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_todd_james_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_todd_james_1.jpg",
    "emails": [
@@ -25634,9 +25621,9 @@
     "(785) 296-7653"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2015_16/members/rep_bradford_john_1/",
-    "http://www.johnbradfordks.com/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_bradford_john_1/"
    ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_bradford_john_1.jpg",
    "emails": [
     "john.bradford@house.ks.gov"
    ],
@@ -25662,7 +25649,7 @@
     "(785) 296-7648"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_frownfelter_stan_1/"
+    "http://stanfrownfelter.com/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_frownfelter_stan_1.jpg",
    "emails": [
@@ -25690,8 +25677,9 @@
     "(785) 296-7688"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_wolfe_moore_kathy_1/"
+    "http://kathywolfemoore.com/"
    ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_wolfe_moore_kathy_1.jpg",
    "emails": [
     "kathy.wolfemoore@house.ks.gov"
    ],
@@ -25741,6 +25729,7 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/rep_winn_valdenia_1/"
    ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_winn_valdenia_1.jpg",
    "emails": [
     "valdenia.winn@house.ks.gov"
    ]
@@ -25784,6 +25773,7 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/rep_curtis_pam_1/"
    ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_curtis_pam_1.jpg",
    "emails": [
     "pam.curtis@house.ks.gov"
    ]
@@ -25801,9 +25791,6 @@
    "party": "Democratic",
    "phones": [
     "(785) 296-7122"
-   ],
-   "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_ruiz_louis_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_ruiz_louis_1.jpg",
    "emails": [
@@ -25860,7 +25847,7 @@
     "(785) 296-7675"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_macheers_charles_1/"
+    "http://www.macheers.com/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_macheers_charles_1.jpg",
    "emails": [
@@ -25888,10 +25875,8 @@
     "(785) 296-7670"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2015_16/members/rep_dove_willie_1/",
-    "http://williedove.com/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_dove_willie_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_dove_willie_1.jpg",
    "emails": [
     "willie.dove@house.ks.gov"
    ],
@@ -25916,7 +25901,6 @@
    "phones": [
     "(785) 296-6014"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_kelly_jim_1.jpg",
    "emails": [
     "jim.kelly@house.ks.gov"
    ]
@@ -25987,8 +25971,9 @@
     "(785) 296-7631"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_esau_keith_1/"
+    "http://www.keithesau.com/"
    ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_esau_keith_1.jpg",
    "emails": [
     "keith.esau@house.ks.gov"
    ],
@@ -26036,7 +26021,6 @@
     "(785) 296-7641"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2015_16/members/rep_peck_virgil_1/",
     "http://www.virgilpeck.com/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_peck_virgil_1.jpg",
@@ -26141,7 +26125,7 @@
     "(785) 296-7659"
    ],
    "urls": [
-    "http://www.amandagrosserode.com/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_grosserode_amanda_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_grosserode_amanda_1.jpg",
    "emails": [
@@ -26149,12 +26133,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "180139008678516"
-    },
-    {
      "type": "Twitter",
      "id": "amanda4kansas"
+    },
+    {
+     "type": "Facebook",
+     "id": "180139008678516"
     }
    ]
   },
@@ -26171,6 +26155,9 @@
    "party": "Republican",
    "phones": [
     "(785) 296-7642"
+   ],
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/rep_dierks_diana_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_dierks_diana_1.jpg",
    "emails": [
@@ -26218,6 +26205,10 @@
    "phones": [
     "(785) 296-7684"
    ],
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/rep_mason_les_1/"
+   ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_mason_les_1.jpg",
    "emails": [
     "les.mason@house.ks.gov"
    ]
@@ -26259,7 +26250,7 @@
     "(785) 296-6014"
    ],
    "urls": [
-    "http://tomphillips.org/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_phillips_thomas_1/"
    ],
    "emails": [
     "tom.phillips@house.ks.gov"
@@ -26286,7 +26277,6 @@
     "(785) 296-7689"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2015_16/members/rep_moxley_tom_1/",
     "http://www.moxleyforkansas.org/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_moxley_tom_1.jpg",
@@ -26309,7 +26299,7 @@
     "(785) 296-7670"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_claeys_j_r_1/"
+    "http://www.claeys.com/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_claeys_j_r_1.jpg",
    "emails": [
@@ -26372,7 +26362,6 @@
     "(785) 296-7642",
     "(785) 587-7483"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_swanson_susie_1.jpg",
    "emails": [
     "susie.swanson@house.ks.gov",
     "svswan@twinvalley.net"
@@ -26459,17 +26448,16 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/rep_finney_gail_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_finney_gail_1.jpg",
    "emails": [
     "gail.finney@house.ks.gov"
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "RepFinney"
     },
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "RepFinney"
     }
    ]
@@ -26487,6 +26475,9 @@
    "party": "Democratic",
    "phones": [
     "(785) 296-7646"
+   ],
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/rep_bridges_carolyn_1/"
    ],
    "emails": [
     "carolyn.bridges@house.ks.gov"
@@ -26568,6 +26559,7 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/rep_kelley_kasha_1/"
    ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_kelley_kasha_1.jpg",
    "emails": [
     "kasha.kelley@house.ks.gov"
    ],
@@ -26593,6 +26585,7 @@
     "(785) 296-6287"
    ],
    "urls": [
+    "http://www.kslegislature.org/li/b2015_16/members/rep_ryckman_jr_ron_1/",
     "http://www.ronryckman.com/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_ryckman_jr_ron_1.jpg",
@@ -26621,9 +26614,8 @@
     "(785) 296-7122"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_trimmer_ed_1/"
+    "http://www.edtrimmer.com/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_trimmer_ed_1.jpg",
    "emails": [
     "ed.trimmer@house.ks.gov"
    ]
@@ -26643,7 +26635,7 @@
     "(785) 291-3500"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_mast_peggy_1/"
+    "http://www.peggymast.com/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_mast_peggy_1.jpg",
    "emails": [
@@ -26717,9 +26709,8 @@
     "(785) 296-7673"
    ],
    "urls": [
-    "http://www.willforkansas.com/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_carpenter_will_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_carpenter_will_1.jpg",
    "emails": [
     "will.carpenter@house.ks.gov"
    ]
@@ -26739,9 +26730,8 @@
     "(785) 296-7310"
    ],
    "urls": [
-    "http://ronhighland.com/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_highland_ron_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_highland_ron_1.jpg",
    "emails": [
     "ron.highland@house.ks.gov"
    ],
@@ -26788,7 +26778,7 @@
     "(785) 296-7501"
    ],
    "urls": [
-    "http://www.scottschwab.com/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_schwab_scott_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_schwab_scott_1.jpg",
    "emails": [
@@ -26820,6 +26810,7 @@
     "(785) 296-7522",
     "(913) 680-5997"
    ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_barton_tony_1.jpg",
    "emails": [
     "tony.barton@house.ks.gov",
     "machman@sbcglobal.net"
@@ -26862,17 +26853,12 @@
     "(785) 296-7676"
    ],
    "urls": [
-    "http://www.billsutton.us/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_sutton_william_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_sutton_william_1.jpg",
    "emails": [
     "bill.sutton@house.ks.gov"
    ],
    "channels": [
-    {
-     "type": "Twitter",
-     "id": "SuttonforKansas"
-    },
     {
      "type": "Facebook",
      "id": "BillSuttonforStateRepresentative"
@@ -26880,6 +26866,10 @@
     {
      "type": "YouTube",
      "id": "billsuttonforkansas"
+    },
+    {
+     "type": "Twitter",
+     "id": "SuttonforKansas"
     }
    ]
   },
@@ -26918,7 +26908,9 @@
    "phones": [
     "(785) 296-7654"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_sloan_tom_1.jpg",
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/rep_sloan_tom_1/"
+   ],
    "emails": [
     "tom.sloan@house.ks.gov"
    ]
@@ -26952,7 +26944,6 @@
    "urls": [
     "http://www.boog46.com/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_highberger_dennis_1.jpg",
    "emails": [
     "dennis.boog.highberger@house.ks.gov",
     "boog@boog46.com"
@@ -26973,7 +26964,7 @@
     "(785) 296-7500"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_gonzalez_ramon_1/"
+    "http://ramongonzalezkansas.com/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_gonzalez_ramon_1.jpg",
    "emails": [
@@ -27088,7 +27079,6 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/rep_hill_don_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_hill_don_1.jpg",
    "emails": [
     "don.hill@house.ks.gov"
    ]
@@ -27108,9 +27098,8 @@
     "(785) 296-7679"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_corbet_ken_1/"
+    "http://www.corbet4kansas.com/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_corbet_ken_1.jpg",
    "emails": [
     "ken.corbet@house.ks.gov"
    ],
@@ -27142,7 +27131,6 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/rep_kuether_annie_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_kuether_annie_1.jpg",
    "emails": [
     "annie.kuether@house.ks.gov"
    ]
@@ -27172,7 +27160,6 @@
     "(785) 296-7483",
     "(785) 608-8227"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_jones_dick_1.jpg",
    "emails": [
     "dick.jones@house.ks.gov",
     "seabeevet@hotmail.com"
@@ -27191,9 +27178,6 @@
    "party": "Democratic",
    "phones": [
     "(785) 296-7668"
-   ],
-   "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_tietze_annie_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_tietze_annie_1.jpg",
    "emails": [
@@ -27338,7 +27322,8 @@
     "(785) 296-7678"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/sen_knox_forrest_1/"
+    "http://www.kslegislature.org/li/b2015_16/members/sen_knox_forrest_1/",
+    "http://www.forrestknox.net/"
    ],
    "emails": [
     "Forrest.Knox@senate.ks.gov"
@@ -27368,6 +27353,9 @@
    "phones": [
     "(785) 296-7370"
    ],
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/sen_laturner_jacob_1/"
+   ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_laturner_jacob_1.jpg",
    "emails": [
     "Jacob.LaTurner@senate.ks.gov"
@@ -27390,7 +27378,6 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/sen_masterson_ty_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_masterson_ty_1.jpg",
    "emails": [
     "Ty.Masterson@senate.ks.gov"
    ],
@@ -27446,11 +27433,11 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "imwithmary"
     },
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "imwithmary"
     }
    ]
@@ -27480,7 +27467,7 @@
     "(785) 296-6838"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/sen_tyson_caryn_1/"
+    "http://www.votetyson.org/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_tyson_caryn_1.jpg",
    "emails": [
@@ -27520,18 +27507,17 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/sen_melcher_jeff_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_melcher_jeff_1.jpg",
    "emails": [
     "Jeff.Melcher@senate.ks.gov"
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "jeff.melcher"
-    },
-    {
      "type": "Twitter",
      "id": "jeffmelcher"
+    },
+    {
+     "type": "Facebook",
+     "id": "jeff.melcher"
     }
    ]
   },
@@ -27560,6 +27546,7 @@
     "(785) 296-7682",
     "(316) 619-0935"
    ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_scapa_joseph_1.jpg",
    "emails": [
     "joseph.scapa@house.ks.gov",
     "jbscapa@penfedrealty.com"
@@ -27580,7 +27567,8 @@
     "(785) 296-5593"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_kahrs_mark_1/"
+    "http://www.kslegislature.org/li/b2015_16/members/rep_kahrs_mark_1/",
+    "http://www.kahrsforkansas.com/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_kahrs_mark_1.jpg",
    "emails": [
@@ -27602,9 +27590,8 @@
     "(785) 296-7698"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_ward_jim_1/"
+    "http://jimwardforkansas.org/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_ward_jim_1.jpg",
    "emails": [
     "jim.ward@house.ks.gov"
    ],
@@ -27634,7 +27621,7 @@
     "(785) 296-7645"
    ],
    "urls": [
-    "http://stevebrunk.org/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_brunk_steve_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_brunk_steve_1.jpg",
    "emails": [
@@ -27655,11 +27642,6 @@
    "phones": [
     "(785) 296-7652"
    ],
-   "urls": [
-    "http://www.kslegislature.org/li/b2015_16/members/rep_houston_roderick_1/",
-    "http://www.roderickhouston.com/"
-   ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_houston_roderick_1.jpg",
    "emails": [
     "roderick.houston@house.ks.gov"
    ]
@@ -27723,9 +27705,8 @@
     "(785) 296-7663"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_goico_mario_1/"
+    "http://www.mariogoico.com/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_goico_mario_1.jpg",
    "emails": [
     "mario.goico@house.ks.gov"
    ],
@@ -27824,9 +27805,6 @@
     "(785) 296-7567",
     "(316) 260-8162"
    ],
-   "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_whitmer_john_1/"
-   ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_whitmer_john_1.jpg",
    "emails": [
     "john.whitmer@house.ks.gov"
@@ -27849,7 +27827,7 @@
     "(785) 296-7689"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2015_16/members/rep_osterman_les_1/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_osterman_les_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_osterman_les_1.jpg",
    "emails": [
@@ -27944,9 +27922,6 @@
    "phones": [
     "(785) 296-3971"
    ],
-   "urls": [
-    "http://www.kslegislature.org/li/b2015_16/members/rep_anthimides_steven_1/"
-   ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_anthimides_steven_1.jpg",
    "emails": [
     "steven.anthimides@house.ks.gov"
@@ -28007,7 +27982,6 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/sen_ostmeyer_ralph_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_ostmeyer_ralph_1.jpg",
    "emails": [
     "Ralph.Ostmeyer@senate.ks.gov"
    ],
@@ -28040,12 +28014,12 @@
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "SenatorHensley"
-    },
-    {
      "type": "Facebook",
      "id": "SenatorAnthonyHensley"
+    },
+    {
+     "type": "Twitter",
+     "id": "SenatorHensley"
     }
    ]
   },
@@ -28064,7 +28038,7 @@
     "(785) 296-7365"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/sen_kelly_laura_1/"
+    "http://www.kssenatedems.org/our-team/senators/kelly/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_kelly_laura_1.jpg",
    "emails": [
@@ -28072,12 +28046,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "LauraKellyForKansas"
-    },
-    {
      "type": "Twitter",
      "id": "SenatorKelly"
+    },
+    {
+     "type": "Facebook",
+     "id": "LauraKellyForKansas"
     }
    ]
   },
@@ -28098,18 +28072,17 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/sen_longbine_jeff_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_longbine_jeff_1.jpg",
    "emails": [
     "Jeff.Longbine@senate.ks.gov"
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "senjefflongbine"
-    },
-    {
      "type": "Facebook",
      "id": "jeff.longbine"
+    },
+    {
+     "type": "Twitter",
+     "id": "senjefflongbine"
     }
    ]
   },
@@ -28159,6 +28132,9 @@
    "phones": [
     "(785) 296-7358"
    ],
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/sen_olson_robert_1/"
+   ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_olson_robert_1.jpg",
    "emails": [
     "Robert.Olson@senate.ks.gov"
@@ -28179,8 +28155,9 @@
     "(785) 296-7374"
    ],
    "urls": [
-    "http://www.vickischmidt.com/"
+    "http://www.kslegislature.org/li/b2013_14/members/sen_schmidt_vicki_1/"
    ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_schmidt_vicki_1.jpg",
    "emails": [
     "Vicki.Schmidt@senate.ks.gov"
    ],
@@ -28216,7 +28193,7 @@
     "(785) 296-7367"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/sen_smith_greg_1/"
+    "http://www.gregsmith4kansas.com/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_smith_greg_1.jpg",
    "emails": [
@@ -28224,12 +28201,12 @@
    ],
    "channels": [
     {
-     "type": "YouTube",
-     "id": "greg4ks"
-    },
-    {
      "type": "Facebook",
      "id": "Greg4Kansas"
+    },
+    {
+     "type": "YouTube",
+     "id": "greg4ks"
     },
     {
      "type": "Twitter",
@@ -28261,6 +28238,9 @@
    "phones": [
     "(785) 296-7353"
    ],
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/sen_kerschen_dan_1/"
+   ],
    "emails": [
     "Dan.Kerschen@senate.ks.gov"
    ]
@@ -28282,6 +28262,7 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/sen_donovan_les_1/"
    ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_donovan_les_1.jpg",
    "emails": [
     "Les.Donovan@senate.ks.gov"
    ]
@@ -28313,7 +28294,6 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/sen_arpke_tom_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_arpke_tom_1.jpg",
    "emails": [
     "Tom.Arpke@senate.ks.gov"
    ]
@@ -28334,7 +28314,7 @@
     "(785) 296-7391"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/sen_o_donnell_michael_1/"
+    "http://www.michaelforkansas.com/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_o_donnell_michael_1.jpg",
    "emails": [
@@ -28342,12 +28322,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "MichaelODonnellForSenate"
-    },
-    {
      "type": "Twitter",
      "id": "michaelkansas"
+    },
+    {
+     "type": "Facebook",
+     "id": "MichaelODonnellForSenate"
     }
    ]
   },
@@ -28366,20 +28346,19 @@
     "(785) 296-7387"
    ],
    "urls": [
-    "http://oletha.org/"
+    "http://www.kslegislature.org/li/b2013_14/members/sen_faust_goudeau_oletha_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_faust_goudeau_oletha_1.jpg",
    "emails": [
     "Oletha.Faust-Goudeau@senate.ks.gov"
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "oletha.faustgoudeau.7"
-    },
-    {
      "type": "Twitter",
      "id": "oletha29"
+    },
+    {
+     "type": "Facebook",
+     "id": "oletha.faustgoudeau.7"
     }
    ]
   },
@@ -28397,6 +28376,10 @@
    "phones": [
     "(785) 296-7355"
    ],
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/sen_petersen_mike_1/"
+   ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_petersen_mike_1.jpg",
    "emails": [
     "Mike.Petersen@senate.ks.gov"
    ],
@@ -28421,7 +28404,6 @@
    "phones": [
     "(785) 296-2419"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_wagle_susan_1.jpg",
    "emails": [
     "Susan.Wagle@senate.ks.gov"
    ],
@@ -28447,7 +28429,7 @@
     "(785) 296-7377"
    ],
    "urls": [
-    "http://www.workingforkansas.com/"
+    "http://www.kslegislature.org/li/b2013_14/members/sen_mcginn_carolyn_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_mcginn_carolyn_1.jpg",
    "emails": [
@@ -28474,7 +28456,6 @@
    "phones": [
     "(785) 296-7381"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_abrams_steve_1.jpg",
    "emails": [
     "Steve.Abrams@senate.ks.gov"
    ]
@@ -28506,6 +28487,7 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/sen_holmes_mitch_1/"
    ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_holmes_mitch_1.jpg",
    "emails": [
     "Mitch.Holmes@senate.ks.gov"
    ]
@@ -28525,19 +28507,19 @@
     "(785) 296-2497"
    ],
    "urls": [
-    "http://www.senatorbruce.com/"
+    "http://www.kslegislature.org/li/b2013_14/members/sen_bruce_terry_1/"
    ],
    "emails": [
     "Terry.Bruce@senate.ks.gov"
    ],
    "channels": [
     {
-     "type": "Twitter",
-     "id": "Sen_Bruce"
-    },
-    {
      "type": "Facebook",
      "id": "SenatorTerryBruce"
+    },
+    {
+     "type": "Twitter",
+     "id": "Sen_Bruce"
     }
    ]
   },
@@ -28566,7 +28548,6 @@
     "(785) 296-7354",
     "(620) 242-4355"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_wilborn_rick_1.jpg",
    "emails": [
     "richard.wilborn@senate.ks.gov",
     "wilbornforsenate@gmail.com"
@@ -28597,8 +28578,7 @@
     "(785) 296-7389"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2015_16/members/sen_bowers_elaine_1/",
-    "http://www.elainebowers.com/"
+    "http://www.kslegislature.org/li/b2013_14/members/sen_bowers_elaine_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_bowers_elaine_1.jpg",
    "emails": [
@@ -28776,9 +28756,7 @@
     "(785) 296-7636",
     "(913) 764-3291"
    ],
-   "urls": [
-    "http://kslegislature.org/li/b2013_14/members/rep_kiegerl_mike_1/"
-   ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_kiegerl_mike_1.jpg",
    "emails": [
     "mike.kiegerl@house.ks.gov"
    ],
@@ -28803,6 +28781,9 @@
    "phones": [
     "(785) 296-7196"
    ],
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/rep_jennings_russell_1/"
+   ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_jennings_russell_1.jpg",
    "emails": [
     "russ.jennings@house.ks.gov"
@@ -28822,7 +28803,9 @@
    "phones": [
     "(785) 296-7380"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_doll_john_1.jpg",
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/rep_doll_john_1/"
+   ],
    "emails": [
     "john.doll@house.ks.gov"
    ],
@@ -28858,7 +28841,6 @@
     "(785) 296-7655",
     "(620) 655-5735"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_francis_shannon_1.jpg",
    "emails": [
     "shannon.francis@house.ks.gov",
     "sfran83384@aol.com"
@@ -28877,6 +28859,9 @@
    "party": "Republican",
    "phones": [
     "(785) 296-7656"
+   ],
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/rep_alford_steve_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_alford_steve_1.jpg",
    "emails": [
@@ -28897,9 +28882,6 @@
    "phones": [
     "(785) 296-5593"
    ],
-   "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_edmonds_john_1/"
-   ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_edmonds_john_1.jpg",
    "emails": [
     "john.edmonds@house.ks.gov"
@@ -28918,9 +28900,6 @@
    "party": "Republican",
    "phones": [
     "(785) 296-4683"
-   ],
-   "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_boldra_sue_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_boldra_sue_1.jpg",
    "emails": [
@@ -28942,7 +28921,7 @@
     "(785) 296-4683"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_couture_lovelady_travis_1/"
+    "http://www.travisforkansas.com/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_couture_lovelady_travis_1.jpg",
    "emails": [
@@ -28970,9 +28949,7 @@
     "(785) 296-6287",
     "(620) 371-6262"
    ],
-   "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_estes_bud_1/"
-   ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_estes_bud_1.jpg",
    "emails": [
     "bud.estes@house.ks.gov"
    ],
@@ -28998,9 +28975,8 @@
     "(785) 296-7105"
    ],
    "urls": [
-    "http://www.johnewykansas.com/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_ewy_john_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_ewy_john_1.jpg",
    "emails": [
     "john.ewy@house.ks.gov"
    ]
@@ -29022,6 +28998,7 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/rep_hineman_don_1/"
    ],
+   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_hineman_don_1.jpg",
    "emails": [
     "don.hineman@house.ks.gov"
    ]
@@ -29039,6 +29016,9 @@
    "party": "Republican",
    "phones": [
     "(785) 296-7658"
+   ],
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/rep_ryckman_ronald_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_ryckman_ronald_1.jpg",
    "emails": [
@@ -29058,6 +29038,9 @@
    "party": "Republican",
    "phones": [
     "(785) 296-7643"
+   ],
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/rep_hoffman_kyle_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_hoffman_kyle_1.jpg",
    "emails": [
@@ -29109,6 +29092,9 @@
    "phones": [
     "(785) 296-7105"
    ],
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/rep_thimesch_jack_1/"
+   ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_thimesch_jack_1.jpg",
    "emails": [
     "jack.thimesch@house.ks.gov"
@@ -29127,6 +29113,9 @@
    "party": "Republican",
    "phones": [
     "(785) 296-7647"
+   ],
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/rep_seiwert_joe_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_seiwert_joe_1.jpg",
    "emails": [
@@ -29148,7 +29137,7 @@
     "(785) 296-7631"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_hawkins_daniel_1/"
+    "http://www.danhawkinskansas.com/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_hawkins_daniel_1.jpg",
    "emails": [
@@ -29170,9 +29159,8 @@
     "(785) 296-7637"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_schwartz_sharon_1/"
+    "http://www.sharonschwartz.org/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_schwartz_sharon_1.jpg",
    "emails": [
     "sharon.schwartz@house.ks.gov"
    ],
@@ -29196,9 +29184,6 @@
    "party": "Republican",
    "phones": [
     "(785) 296-7677"
-   ],
-   "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_concannon_susan_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_concannon_susan_1.jpg",
    "emails": [
@@ -29310,9 +29295,6 @@
    "phones": [
     "(785) 296-7196"
    ],
-   "urls": [
-    "http://www.kslegislature.org/li/b2013_14/members/rep_becker_steven_1/"
-   ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_becker_steven_1.jpg",
    "emails": [
     "steven.becker@house.ks.gov"
@@ -29401,7 +29383,6 @@
    "urls": [
     "http://www.kslegislature.org/li/b2013_14/members/rep_proehl_richard_1/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_proehl_richard_1.jpg",
    "emails": [
     "richard.proehl@house.ks.gov"
    ]
@@ -29430,7 +29411,6 @@
    "phones": [
     "(785) 296-7673"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_thompson_kent_1.jpg",
    "emails": [
     "kent.thompson@house.ks.gov"
    ]
@@ -29450,7 +29430,7 @@
     "(785) 296-7310"
    ],
    "urls": [
-    "http://votemartyread.org/"
+    "http://www.kslegislature.org/li/b2013_14/members/rep_read_marty_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_read_marty_1.jpg",
    "emails": [
@@ -29482,7 +29462,9 @@
     "(785) 296-7522",
     "(620) 719-0157"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_smith_charles_1.jpg",
+   "urls": [
+    "http://www.kslegislature.org/li/b2015_16/members/rep_smith_charles_1/"
+   ],
    "emails": [
     "chuck.smith@house.ks.gov"
    ]
@@ -29524,10 +29506,8 @@
     "(785) 296-6287"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2015_16/members/rep_jones_kevin_1/",
     "http://www.kevinjonesforkansas.com/"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_jones_kevin_1.jpg",
    "emails": [
     "kevin.jones@house.ks.gov"
    ],
@@ -29584,7 +29564,6 @@
    "phones": [
     "(785) 296-7698"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/rep_lusker_adam_1.jpg",
    "emails": [
     "adam.lusker@house.ks.gov"
    ]
@@ -29696,8 +29675,7 @@
     "(785) 296-7372"
    ],
    "urls": [
-    "http://www.kslegislature.org/li/b2015_16/members/sen_holland_tom_1/",
-    "http://www.kssenatedems.org/our-team/senators/holland/"
+    "http://www.kslegislature.org/li/b2013_14/members/sen_holland_tom_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_holland_tom_1.jpg",
    "emails": [
@@ -29705,11 +29683,11 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
+     "type": "Twitter",
      "id": "TomHollandKS"
     },
     {
-     "type": "Twitter",
+     "type": "Facebook",
      "id": "TomHollandKS"
     }
    ]
@@ -29765,16 +29743,16 @@
    ],
    "channels": [
     {
-     "type": "YouTube",
-     "id": "SenatorJuliaLynn"
+     "type": "Twitter",
+     "id": "senatorlynn"
     },
     {
      "type": "Facebook",
      "id": "SenatorJuliaLynn"
     },
     {
-     "type": "Twitter",
-     "id": "senatorlynn"
+     "type": "YouTube",
+     "id": "SenatorJuliaLynn"
     }
    ]
   },
@@ -29811,12 +29789,12 @@
    ],
    "channels": [
     {
-     "type": "YouTube",
-     "id": "denning4kansas"
-    },
-    {
      "type": "Twitter",
      "id": "JimDenning4KS"
+    },
+    {
+     "type": "YouTube",
+     "id": "denning4kansas"
     },
     {
      "type": "Facebook",
@@ -29848,7 +29826,9 @@
    "phones": [
     "(785) 296-7390"
    ],
-   "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_wolf_kay_1.jpg",
+   "urls": [
+    "http://www.kslegislature.org/li/b2013_14/members/sen_wolf_kay_1/"
+   ],
    "emails": [
     "Kay.Wolf@senate.ks.gov"
    ]
@@ -29878,7 +29858,7 @@
     "(785) 296-7375"
    ],
    "urls": [
-    "http://www.kssenatedems.org/district-6/"
+    "http://www.kslegislature.org/li/b2013_14/members/sen_pettey_pat_1/"
    ],
    "photoUrl": "http://www.kslegislature.org/li/m/images/pics/sen_pettey_pat_1.jpg",
    "emails": [
@@ -29928,9 +29908,6 @@
    "party": "Republican",
    "phones": [
     "(620) 582-2964"
-   ],
-   "urls": [
-    "http://www.comanchecounty.com/Government.html"
    ]
   },
   {
@@ -29938,9 +29915,6 @@
    "party": "Republican",
    "phones": [
     "(620) 582-2361"
-   ],
-   "urls": [
-    "http://www.comanchecounty.com/Government.html"
    ]
   },
   {
@@ -29958,9 +29932,6 @@
    "party": "Republican",
    "phones": [
     "(620) 622-4636"
-   ],
-   "urls": [
-    "http://www.comanchecounty.com/Government.html"
    ]
   },
   {
@@ -29968,9 +29939,6 @@
    "party": "Republican",
    "phones": [
     "(620) 582-2656"
-   ],
-   "urls": [
-    "http://www.comanchecounty.com/Government.html"
    ]
   },
   {
@@ -29978,9 +29946,6 @@
    "party": "Democratic",
    "phones": [
     "(620) 582-2539"
-   ],
-   "urls": [
-    "http://www.comanchecounty.com/Government.html"
    ]
   },
   {
@@ -29988,9 +29953,6 @@
    "party": "Republican",
    "phones": [
     "(620) 582-2152"
-   ],
-   "urls": [
-    "http://www.comanchecounty.com/Government.html"
    ]
   },
   {
@@ -32691,9 +32653,6 @@
    "phones": [
     "(785) 877-3548"
    ],
-   "urls": [
-    "http://www.nortoncounty.net/commissioners.htm"
-   ],
    "emails": [
     "nt_county_clerk@wan.kdor.state.ks.us"
    ]
@@ -32753,9 +32712,6 @@
    "party": "Republican",
    "phones": [
     "(785) 877-5765"
-   ],
-   "urls": [
-    "http://www.nortoncounty.net/deeds.htm"
    ],
    "emails": [
     "ntrod@nortoncounty.net"
@@ -36719,9 +36675,6 @@
    "party": "Republican",
    "phones": [
     "(785) 222-3260"
-   ],
-   "urls": [
-    "http://www.rushcountykansas.org/ElectedOffices/Commissioners/tabid/8692/Default.aspx"
    ]
   },
   {
@@ -37860,12 +37813,12 @@
    ],
    "channels": [
     {
-     "type": "Facebook",
-     "id": "jeff.longwell.9"
-    },
-    {
      "type": "Twitter",
      "id": "WichitaJL"
+    },
+    {
+     "type": "Facebook",
+     "id": "jeff.longwell.9"
     }
    ]
   },
@@ -39070,9 +39023,6 @@
    "party": "Republican",
    "phones": [
     "(785) 296-3171"
-   ],
-   "urls": [
-    "http://www.kansasstatetreasurer.com/prodweb/main/index.php"
    ],
    "emails": [
     "ron@treasurer.ks.gov"
@@ -40417,9 +40367,6 @@
    "party": "Republican",
    "phones": [
     "(620) 767-5617"
-   ],
-   "urls": [
-    "http://www.morriscountyks.org/ElectedOfficials/Treasurer/tabid/8506/Default.aspx"
    ],
    "emails": [
     "mtreas@tctelco.net"
@@ -43621,9 +43568,6 @@
    "phones": [
     "(620) 795-2138"
    ],
-   "urls": [
-    "http://www.labettecounty.com/clerk/"
-   ],
    "emails": [
     "lschreppel@labettecounty.com"
    ]
@@ -43872,6 +43816,24 @@
    ]
   },
   {
+   "name": "Duane Patrick",
+   "address": [
+    {
+     "line1": "117 N Maple - Courthouse",
+     "city": "mcpherson",
+     "state": "KS",
+     "zip": "67460"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(785) 227-2500"
+   ],
+   "urls": [
+    "http://www.mcphersoncountyks.us/index.aspx?NID=5"
+   ]
+  },
+  {
    "name": "Jeffrey L. Herrig",
    "address": [
     {
@@ -43977,24 +43939,6 @@
    ]
   },
   {
-   "name": "Duane Patrick",
-   "address": [
-    {
-     "line1": "117 N Maple - Courthouse",
-     "city": "mcpherson",
-     "state": "KS",
-     "zip": "67460"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(785) 227-2500"
-   ],
-   "urls": [
-    "http://www.mcphersoncountyks.us/index.aspx?NID=5"
-   ]
-  },
-  {
    "name": "Larry Townsend",
    "party": "Republican",
    "phones": [
@@ -44014,9 +43958,6 @@
    "party": "Republican",
    "phones": [
     "(785) 852-4281"
-   ],
-   "urls": [
-    "http://www.kansastreasurers.org/countyservices/wallace.htm"
    ],
    "emails": [
     "wa_county_treasurer@wan.kdor.state.ks.us"
@@ -44393,24 +44334,6 @@
    ]
   },
   {
-   "name": "Lynn Luck",
-   "address": [
-    {
-     "line1": "300 Jefferson St. P.O. Box 321",
-     "city": "oskaloosa",
-     "state": "KS",
-     "zip": "66066"
-    }
-   ],
-   "party": "Republican",
-   "phones": [
-    "(785) 863-2637"
-   ],
-   "urls": [
-    "http://www.jfcountyks.com/index.aspx?NID=8"
-   ]
-  },
-  {
    "name": "Robert P. Craft",
    "address": [
     {
@@ -44511,6 +44434,24 @@
    ],
    "emails": [
     "rod@marioncoks.net"
+   ]
+  },
+  {
+   "name": "Lynn Luck",
+   "address": [
+    {
+     "line1": "300 Jefferson St. P.O. Box 321",
+     "city": "oskaloosa",
+     "state": "KS",
+     "zip": "66066"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(785) 863-2637"
+   ],
+   "urls": [
+    "http://www.jfcountyks.com/index.aspx?NID=8"
    ]
   },
   {
@@ -45981,9 +45922,6 @@
    "party": "Republican",
    "phones": [
     "(785) 695-2322"
-   ],
-   "urls": [
-    "http://ks-smith.manatron.com/Commissioners/tabid/4242/Default.aspx"
    ]
   },
   {
