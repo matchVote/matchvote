@@ -1,3 +1,5 @@
+require "#{Rails.root}/lib/governor_data_compiler"
+
 namespace :reps do
   task import_default_data: :environment do
     Rake::Task["reps:load_profile_data"].invoke
@@ -8,8 +10,8 @@ namespace :reps do
 
   task load_profile_data: :environment do
     Rake::Task["reps:load_legislators_files"].invoke
+    Rake::Task["reps:load_governors_file"].invoke
     Rake::Task["reps:import_google_civic_data"].invoke
-    # Rake::Task["reps:load_governors_file"].invoke
   end
 
   task load_legislators_files: :environment do
@@ -27,6 +29,12 @@ namespace :reps do
   end
 
   task load_governors_file: :environment do
+    governors = YAML.load_file("#{Rails.root}/db/data/2015_Governors.yml")
+    governors.each do |guvna|
+      compiler = GovernorDataCompiler.new(guvna)
+      rep = Representative.find_or_create_by(slug: compiler.generate_slug)
+      rep.update_attributes(compiler.compile_attributes)
+    end
   end
 
   task load_image_urls: :environment do
