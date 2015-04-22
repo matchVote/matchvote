@@ -1,8 +1,8 @@
 class RepSorter
   attr_reader :reps
 
-  def initialize(reps = nil)
-    @reps = reps || Representative.all
+  def initialize(reps)
+    @reps = reps
   end
 
   def alphabetically
