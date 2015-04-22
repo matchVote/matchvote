@@ -8,8 +8,8 @@ namespace :reps do
 
   task load_profile_data: :environment do
     Rake::Task["reps:load_legislators_files"].invoke
+    Rake::Task["reps:import_google_civic_data"].invoke
     # Rake::Task["reps:load_governors_file"].invoke
-    # Rake::Task["reps:import_google_civic_data"].invoke
   end
 
   task load_legislators_files: :environment do
@@ -36,7 +36,7 @@ namespace :reps do
     urls = file1.concat(file2.concat(file3))
     parser = ImageURLParser.new(urls.map(&:chomp))
 
-    Representative.all.each do |rep|
+    Representative.find_each do |rep|
       rep.update_attribute(:profile_image_url, parser.find_url(rep))
     end
 
@@ -44,9 +44,14 @@ namespace :reps do
   end
 
   task load_bios: :environment do
-    Representative.all.each do |rep|
-      wiki = WikipediaService.new(rep.external_credentials["wikipedia_id"])
-      bio = BiographySanitizer.new(wiki.first_paragraph).sanitize
+    Representative.find_each do |rep|
+      bio = if (wiki_id = rep.external_credentials["wikipedia_id"])
+        wiki = WikipediaService.new(rep.external_credentials["wikipedia_id"])
+        BiographySanitizer.new(wiki.first_paragraph).sanitize
+      else
+        "To be added."
+      end
+
       rep.update_attribute(:biography, bio)
     end
   end
@@ -73,7 +78,7 @@ namespace :reps do
   end
 
   task set_name_recognition: :environment do
-    Representative.all.each do |rep|
+    Representative.find_each do |rep|
       if (slug = rep.external_credentials["facebook_username"])
         results = Virility::Facebook.new("http://facebook.com/#{slug}").poll
         rep.update_attribute(:name_recognition, results["like_count"])
