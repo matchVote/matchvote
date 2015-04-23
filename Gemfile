@@ -18,6 +18,7 @@ gem "sass-rails", "~> 5.0.1"
 gem "sdoc", "~> 0.4.0", group: :doc
 gem "uglifier", "~> 2.7.1"
 gem "virility", "~> 0.1.4"
+gem "will_paginate"
 
 group :development, :test do
   gem "byebug", "~> 4.0.2"

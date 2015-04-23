@@ -1,6 +1,9 @@
+require "will_paginate/array"
+
 class DirectoryController < ApplicationController
   def index
-    @reps = DirectoryPresenter.new(reps: Representative.limit(10)).reps
+    @reps = DirectoryPresenter.new(reps: Representative.all).reps.
+      paginate(page: params[:page])
     @sort_list = DirectoryPresenter.sort_list
     @filter_count = Representative.count
   end
