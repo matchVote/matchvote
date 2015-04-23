@@ -10,7 +10,7 @@ namespace :reps do
 
   task load_profile_data: :environment do
     Rake::Task["reps:load_legislators_files"].invoke
-    Rake::Task["reps:load_governors_file"].invoke
+    Rake::Task["reps:load_matchvote_files"].invoke
     Rake::Task["reps:import_google_civic_data"].invoke
   end
 
@@ -28,12 +28,16 @@ namespace :reps do
     end
   end
 
-  task load_governors_file: :environment do
-    governors = YAML.load_file("#{Rails.root}/db/data/2015_Governors.yml")
-    governors.each do |guvna|
-      compiler = GovernorDataCompiler.new(guvna)
-      rep = Representative.find_or_create_by(slug: compiler.generate_slug)
-      rep.update_attributes(compiler.compile_attributes)
+  task load_matchvote_files: :environment do
+    matchvote_files = ["2015_Governors.yml", "2015_HighProfile.yml"]
+
+    matchvote_files.each do |file|
+      reps = YAML.load_file("#{Rails.root}/db/data/#{file}")
+      reps.each do |rep|
+        compiler = MatchvoteDataCompiler.new(rep)
+        rep = Representative.find_or_create_by(slug: compiler.generate_slug)
+        rep.update_attributes(compiler.compile_attributes)
+      end
     end
   end
 
