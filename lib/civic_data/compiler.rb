@@ -1,5 +1,4 @@
 require "#{Rails.root}/lib/slug"
-require "#{Rails.root}/lib/null_object"
 
 module CivicData
   class Compiler < SimpleDelegator

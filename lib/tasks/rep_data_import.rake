@@ -1,4 +1,4 @@
-require "#{Rails.root}/lib/governor_data_compiler"
+require "#{Rails.root}/lib/matchvote_data_compiler"
 
 namespace :reps do
   task import_default_data: :environment do
@@ -22,7 +22,7 @@ namespace :reps do
       bioguide_id = rep_data["id"]["bioguide"]
       rep_social_ids = social_ids.select { |id| id["id"]["bioguide"] == bioguide_id }
 
-      compiler = CongressLegislatorsDataCompiler.new(rep_data, rep_social_ids)
+      compiler = LegislatorsDataCompiler.new(rep_data, rep_social_ids)
       rep = Representative.find_or_create_by(slug: compiler.generate_slug)
       rep.update_attributes(compiler.compile_attributes)
     end
@@ -52,7 +52,7 @@ namespace :reps do
       rep.update_attribute(:profile_image_url, parser.find_url(rep))
     end
 
-    Rake::Task["reps:manully_load_image_urls"].invoke
+    Rake::Task["reps:manually_load_image_urls"].invoke
   end
 
   task load_bios: :environment do
@@ -68,7 +68,7 @@ namespace :reps do
     end
   end
 
-  task manully_load_image_urls: :environment do
+  task manually_load_image_urls: :environment do
     base_uri = "http://data.matchvote.com/images/2015/"
     data = [
       { slug: "jeff-sessions", url: "senators/Jeffery_Sessions.png" },
@@ -94,8 +94,6 @@ namespace :reps do
       if (slug = rep.external_credentials["facebook_username"])
         results = Virility::Facebook.new("http://facebook.com/#{slug}").poll
         rep.update_attribute(:name_recognition, results["like_count"])
-      else
-        rep.update_attribute(:name_recognition, 0)
       end
     end
   end

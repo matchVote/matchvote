@@ -1,4 +1,4 @@
-require "#{Rails.root}/lib/congress_legislators_data_compiler"
+require "#{Rails.root}/lib/legislators_data_compiler"
 require "#{Rails.root}/lib/image_url_parser"
 require "#{Rails.root}/lib/biography_sanitizer"
 

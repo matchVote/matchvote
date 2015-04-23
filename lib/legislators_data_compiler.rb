@@ -2,7 +2,7 @@ require_relative "address_parser"
 require_relative "wikipedia_service"
 require_relative "slug"
 
-class CongressLegislatorsDataCompiler
+class LegislatorsDataCompiler
   def initialize(rep_data, social_ids)
     @rep_data = rep_data
     @external_ids = extract_ids(social_ids)

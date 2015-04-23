@@ -1,5 +1,4 @@
 require "#{Rails.root}/lib/civic_data/compiler"
-require "#{Rails.root}/lib/null_object"
 
 module CivicData
   class Importer

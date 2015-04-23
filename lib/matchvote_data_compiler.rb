@@ -1,5 +1,3 @@
-require "#{Rails.root}/lib/null_object"
-
 class MatchvoteDataCompiler
   attr_reader :rep
 
@@ -46,7 +44,7 @@ class MatchvoteDataCompiler
     end
 
     def parse_address(address)
-      parts = NullObject.nullify(address).split(",")
+      parts = NullObject.nullify(address, []).split(",").map(&:strip)
       PostalAddress.create(
         line1: parts[0],
         line2: parts[1],
