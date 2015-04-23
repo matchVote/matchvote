@@ -16,7 +16,7 @@ namespace :app do
 
   task import_issues: :environment do
     File.readlines("db/data/issues.csv").each do |issue|
-      Issue.create(name: issue.chomp)
+      IssueCategory.create(name: issue.chomp)
     end
   end
 end

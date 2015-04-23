@@ -36,24 +36,6 @@ Profile
     * Rate rep
     * Comments
     * Recent News
-> * IssueCategories
->   * List of Issues
->   * Related Keywords
-> * Statements
->   * Declarative text (limit character count?): Limited to 256
-> * Stances
->   * Statement Agreeance (-3, -2, -1, 0, 1, 2, 3)
->   * Supporting Quote
-  
->   -Rep User Type also has
->   * Supporting Quote URL
->   * Inferred/Verified State
->   * Researcher name who made inferrence
-  
->   -Citizen User Type also has
->   * Alignment Importance with Rep (0, 1, 2, 3, 4, 5)
->   * Agreement with Researcher Inferrence
-  
 * News Feed
   * Articles
     * Author
@@ -69,6 +51,7 @@ Profile
     * Setup email for forgotten password
     * Sign in with facebook/twitter (omniauth)
     * Data:
+        * Matchdata Files: term_end, took_office for seniority
         * Bio Errors: Evan Jenkins, French Hill, Luis Gutierrez
         * Donor data
 * Misc frontend
@@ -79,5 +62,19 @@ Profile
     * Refine Stances/Quiz views
     * Build GUI for admins to edit Representative profiles
 * Test
-    * CongressLegislatorsDataCompiler
+    * LegislatorsDataCompiler
 
+#### NOTES
+Rep Terms?  
+
+> * Statements
+>   * Declarative text (limit character count?): Limited to 256
+  
+>   -Rep User Type also has
+>   * Supporting Quote URL
+>   * Inferred/Verified State
+>   * Researcher name who made inferrence
+  
+>   -Citizen User Type also has
+>   * Alignment Importance with Rep (0, 1, 2, 3, 4, 5)
+>   * Agreement with Researcher Inferrence

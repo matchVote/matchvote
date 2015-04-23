@@ -11,7 +11,7 @@ namespace :reps do
   task load_profile_data: :environment do
     Rake::Task["reps:load_legislators_files"].invoke
     Rake::Task["reps:load_matchvote_files"].invoke
-    Rake::Task["reps:import_google_civic_data"].invoke
+    # Rake::Task["reps:import_google_civic_data"].invoke
   end
 
   task load_legislators_files: :environment do
