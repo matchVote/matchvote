@@ -76,7 +76,7 @@
         %br
         = address.city_state_zip
       %br
-      - emails_or_contact_form_url(@rep.contact).each do |url|
+      - @rep.contact.emails_or_contact_form_url.each do |url|
         = url
       %br
       - @rep.contact.phone_numbers.each do |number|

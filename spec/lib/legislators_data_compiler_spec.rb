@@ -1,7 +1,7 @@
 require "rails_helper"
-require "#{Rails.root}/lib/congress_legislators_data_compiler"
+require "#{Rails.root}/lib/legislators_data_compiler"
 
-describe CongressLegislatorsDataCompiler do
+describe LegislatorsDataCompiler do
   subject { described_class }
 
   describe "#first_name_sanitized" do

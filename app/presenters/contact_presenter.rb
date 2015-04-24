@@ -6,6 +6,8 @@ class ContactPresenter < SimpleDelegator
       emails.map { |email| mail_to(email, email, target: "_blank") }
     elsif contact_form_url.present?
       [link_to(contact_form_url, contact_form_url, target: "_blank")]
+    else 
+      []
     end
   end
 end
