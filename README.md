@@ -59,6 +59,7 @@ Profile
         * Donor data
 * Misc frontend
     * Remove social media links if reps don't have an account
+    * New styling of Rep Profile Contact Info
     * Style create account page
     * Style forgot password form
     * Style sign up form

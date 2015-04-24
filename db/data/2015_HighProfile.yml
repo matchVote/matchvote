@@ -7,7 +7,7 @@
   address: The White House, 1600 Pennsylvania Avenue NW, Washington, DC 20500
   fax:
   tel: 202-456-1111
-  email: https://www.whitehouse.gov/contact/submit-questions-and-comments
+  contact_form_url: https://www.whitehouse.gov/contact/submit-questions-and-comments
   web: https://www.barackobama.com/
   took_office: 2009-01-20
   term_ends: 2016
@@ -29,7 +29,7 @@
   address: The White House, 1600 Pennsylvania Avenue NW, Washington, DC 20500
   fax:
   tel: 202-456-1111
-  email: https://www.whitehouse.gov/contact/submit-questions-and-comments
+  contact_form_url: https://www.whitehouse.gov/contact/submit-questions-and-comments
   web:
   took_office: 2009-01-20
   term_ends: 2016
@@ -51,7 +51,7 @@
   address:
   fax:
   tel:
-  email: https://register.state.gov/contactus/contactusform
+  contact_form_url: https://register.state.gov/contactus/contactusform
   web: http://www.state.gov/secretary/
   took_office: 2013-02-01
   term_ends:
@@ -183,7 +183,8 @@
   address:
   fax:
   tel:
-  email: http://www.schwarzenegger.com/contact
+  email:
+  contact_form_url: http://www.schwarzenegger.com/contact
   web: http://www.schwarzenegger.com/
   took_office:
   term_ends:
@@ -227,7 +228,7 @@
   address:
   fax:
   tel:
-  email: http://www.sarahpac.com/contact/
+  contact_form_url: http://www.sarahpac.com/contact/
   web: http://www.sarahpac.com/
   took_office:
   term_ends:
@@ -249,7 +250,7 @@
   address: Campaign for Liberty, 5211 Port Royal Road, Suite 310, Springfield, VA 22151
   fax: (703) 865-7549
   tel: (703) 865-7162
-  email: http://www.campaignforliberty.org/contact-us
+  contact_form_url: http://www.campaignforliberty.org/contact-us
   web: http://www.campaignforliberty.org/
   took_office:
   term_ends:

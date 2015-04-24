@@ -76,10 +76,8 @@
         %br
         = address.city_state_zip
       %br
-      - @rep.contact.emails.each do |email|
-        = mail_to email, target: "_blank" do
-          %span= email
-        %br
+      - emails_or_contact_form_url(@rep.contact).each do |url|
+        = url
       %br
       - @rep.contact.phone_numbers.each do |number|
         %span.glyphicon.glyphicon-phone-alt
