@@ -15,7 +15,8 @@ the politicians that agree and disagree with what's important to you.
 #### Rep Hierarchy
 All ->  
 Levels: Federal, State, Municipal ->  
-Branches: Executive, Judicial, Legislative ->  
+Federal Branches: Executive, Judicial, Legislative ->  
+Government Role ->
 Profile
 
 #### Rep Data Sources:  
@@ -29,13 +30,15 @@ Profile
         * Most Similar/Least similar
         * Approval Rating
         * State
-    * Filter
+    * Filter  
+      * Finalize hierarchy
 * Rep profile/admin
     * Follow
     * Read full bio
     * Rate rep
     * Comments
     * Recent News
+    * Presentation of absent contact info
 * News Feed
   * Articles
     * Author

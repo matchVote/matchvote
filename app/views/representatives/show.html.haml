@@ -69,7 +69,7 @@
     .well.widget
       %h3
         Connect with #{@rep.nickname_or_first_name}
-      %strong #{@rep.government_role} #{@rep.first_name} #{@rep.last_name}
+      %strong #{@rep.title} #{@rep.first_name} #{@rep.last_name}
       %br
       - @rep.contact.postal_addresses.each do |address|
         = address.line1

@@ -49,7 +49,9 @@ namespace :reps do
     parser = ImageURLParser.new(urls.map(&:chomp))
 
     Representative.find_each do |rep|
-      rep.update_attribute(:profile_image_url, parser.find_url(rep))
+      if rep.profile_image_url.nil?
+        rep.update_attribute(:profile_image_url, parser.find_url(rep))
+      end
     end
 
     Rake::Task["reps:manually_load_image_urls"].invoke
