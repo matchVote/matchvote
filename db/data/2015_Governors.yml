@@ -13,7 +13,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: February 3, 1943
+  birthday: 1943-02-03
   religion: Southern Baptist
   orientation: Straight
   facebook:
@@ -34,7 +34,7 @@
   term_ends: 2018
   party: I
   gender: Male
-  birthday: April 16, 1951
+  birthday: 1951-04-16
   religion: Christian
   orientation: Straight
   facebook:
@@ -55,7 +55,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: April 9, 1964
+  birthday: 1964-09-04
   religion: Catholic
   orientation: Straight
   facebook:

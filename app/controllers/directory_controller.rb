@@ -10,10 +10,15 @@ class DirectoryController < ApplicationController
 
   def filter
     reps = DirectoryPresenter.new(
-      reps: Representative.search_by_name(params[:search]),
+      reps: find_reps(params[:search]),
       sort_by: params[:sort]
-    ).reps
+    ).reps.paginate(page: params[:page])
     render partial: "reps_list", locals: { reps: reps }
   end
+
+  private
+    def find_reps(search)
+      search.present? ? Representative.search_by_name(search) : Representative.all
+    end
 end
 

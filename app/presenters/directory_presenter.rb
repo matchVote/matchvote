@@ -10,7 +10,7 @@ class DirectoryPresenter
      ["Sort by State", "state"]]
   end
 
-  def initialize(reps: nil, sort_by: :popularity, search_name: nil)
+  def initialize(reps: nil, sort_by: :popularity)
     @sort_by = sort_by
     @reps = reps
   end
