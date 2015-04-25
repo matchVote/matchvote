@@ -9,13 +9,6 @@ describe RepSorter do
     10.times { create(:representative) }
   end
 
-  describe "initializing with no reps" do
-    it "defaults to all reps" do
-      sorter = described_class.new
-      expect(sorter.alphabetically.size).to eq all_reps.size
-    end
-  end
-
   describe "#alphabetically" do
     it "returns given reps sorted by last name, then first name" do
       expect(subject.alphabetically).to eq some_reps.order(:last_name, :first_name)

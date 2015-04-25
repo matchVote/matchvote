@@ -10,6 +10,7 @@ FactoryGirl.define do
     birthday "1967-3-8"
     branch "Executive"
     user_id nil
+    name_recognition 0
     external_credentials do 
       { twitter_username:  "tweet", 
         facebook_username: "facebook", 
