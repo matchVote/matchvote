@@ -450,26 +450,26 @@ youtube: https://www.youtube.com/user/ricksantorum
 wiki: http://en.wikipedia.org/wiki/Rick_Santorum
 profile_pic: http://data.matchvote.com/images/2015/highprofile/Rick_Santorum
 
-rep_status:
-title:
-first_name:
-middle_name:
-last_name:
-nick_name:
+rep_status: Running for Office
+title: Governor
+first_name: John
+middle_name: Ellis
+last_name: Bush
+nick_name: Jeb Bush
 address:
 fax:
 tel:
 email:
-web:
-took_office:
-term_ends:
-party:
-gender:
-birthday:
-religion:
-orientation:
-facebook:
-twitter:
+web: https://righttorisepac.org/
+took_office: January 5, 1999
+term_ends: January 2, 2007
+party: R
+gender: M
+birthday: February 11, 1953
+religion: Catholic
+orientation: Straight
+facebook: https://www.facebook.com/jebbush
+twitter: https://twitter.com/JebBush
 youtube:
-wiki:
+wiki: http://en.wikipedia.org/wiki/Jeb_bush
 profile_pic:
