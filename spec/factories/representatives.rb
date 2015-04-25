@@ -1,6 +1,6 @@
 FactoryGirl.define do
   factory :representative do
-    first_name { Faker::Name.first_name }
+    first_name { "#{Faker::Name.first_name}#{SecureRandom.hex(5)}" }
     last_name { Faker::Name.last_name }
     nickname { Faker::Name.first_name }
     slug { "#{first_name}-#{last_name}" }

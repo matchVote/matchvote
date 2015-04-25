@@ -13,7 +13,7 @@
   term_ends: 2016
   party: D
   gender: Male
-  birthday: August 4, 1961
+  birthday: 1961-08-04
   religion: Christian
   orientation: Straight
   facebook: https://www.facebook.com/barackobama
@@ -35,7 +35,7 @@
   term_ends: 2016
   party: D
   gender: Male
-  birthday: November 20, 1942
+  birthday: 1942-11-20
   religion: Catholic
   orientation: Straight
   facebook: https://www.facebook.com/joebiden
@@ -57,7 +57,7 @@
   term_ends:
   party: D
   gender: Male
-  birthday: December 11, 1943
+  birthday: 1943-12-11
   religion: Catholic
   orientation: Straight
   facebook: https://www.facebook.com/johnkerry
@@ -79,7 +79,7 @@
   term_ends:
   party: D
   gender: Female
-  birthday: October 26, 1947
+  birthday: 1947-10-26
   religion: Methodist
   orientation: Straight
   facebook: https://www.facebook.com/Hillary2016
@@ -101,7 +101,7 @@
   term_ends:
   party: R
   gender: Male
-  birthday: March 12, 1947
+  birthday: 1947-03-12
   religion: Mormon
   orientation: Straight
   facebook: https://www.facebook.com/mittromney
@@ -123,7 +123,7 @@
   term_ends:
   party: D
   gender: Male
-  birthday: March 31, 1948
+  birthday: 1948-03-31
   religion: Baptist
   orientation: Straight
   facebook: https://www.facebook.com/algore
@@ -145,7 +145,7 @@
   term_ends:
   party: R
   gender: Male
-  birthday: July 6, 1946
+  birthday: 1946-07-06
   religion: Methodist
   orientation: Straight
   facebook: https://www.facebook.com/georgewbush
@@ -167,7 +167,7 @@
   term_ends:
   party: D
   gender: Male
-  birthday: August 19, 1946
+  birthday: 1946-08-19
   religion: Baptist
   orientation: Straight
   facebook: https://www.facebook.com/billclinton
@@ -190,7 +190,7 @@
   term_ends:
   party: D
   gender: Male
-  birthday: July 30, 1947
+  birthday: 1947-07-30
   religion: Catholic
   orientation: Straight
   facebook: https://www.facebook.com/arnold
@@ -212,7 +212,7 @@
   term_ends:
   party: R
   gender: Male
-  birthday: January 30, 1941
+  birthday: 1941-01-30
   religion: Methodist
   orientation: Straight
   facebook:
@@ -234,7 +234,7 @@
   term_ends:
   party: R
   gender: Female
-  birthday: February 11, 1964
+  birthday: 1964-02-11
   religion: Christian
   orientation: Straight
   facebook: https://www.facebook.com/sarahpalin
@@ -256,7 +256,7 @@
   term_ends:
   party: R
   gender: Male
-  birthday: August 20, 1935
+  birthday: 1935-08-20
   religion: Southern Baptist
   orientation: Straight
   facebook: https://www.facebook.com/ronpaul

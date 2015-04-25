@@ -76,7 +76,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: December 3, 1950
+  birthday: 1950-12-03
   religion: Southern Baptist
   orientation: Straight
   facebook:
@@ -97,7 +97,7 @@
   term_ends: 2019
   party: D
   gender: Male
-  birthday: April 7, 1938
+  birthday: 1938-04-07
   religion: Catholic
   orientation: Straight
   facebook:
@@ -118,7 +118,7 @@
   term_ends: 2019
   party: D
   gender: Male
-  birthday: February 7, 1952
+  birthday: 1952-02-07
   religion:
   orientation: Straight
   facebook:
@@ -139,7 +139,7 @@
   term_ends: 2019
   party: D
   gender: Male
-  birthday: July 21, 1955
+  birthday: 1955-07-21
   religion: Catholic
   orientation: Straight
   facebook:
@@ -160,7 +160,7 @@
   term_ends: 2017
   party: D
   gender: Male
-  birthday: November 26, 1960
+  birthday: 1960-11-26
   religion: Judaism
   orientation: Straight
   facebook:
@@ -181,7 +181,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: December 1, 1952
+  birthday: 1952-12-01
   religion: Evangelical
   orientation: Straight
   facebook:
@@ -202,7 +202,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: August 25, 1942
+  birthday: 1942-08-25
   religion: Baptist
   orientation: Straight
   facebook:
@@ -224,7 +224,7 @@
   term_ends: 2018
   party: D
   gender: Male
-  birthday: January 15, 1957
+  birthday: 1957-01-15
   religion: Buddhism
   orientation: Straight
   facebook:
@@ -244,7 +244,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: May 3, 1942
+  birthday: 1942-05-03
   religion: Catholic
   orientation: Straight
   facebook:
@@ -265,7 +265,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: February 18, 1957
+  birthday: 1957-02-18
   religion: Judaism
   orientation: Straight
   facebook:
@@ -286,7 +286,7 @@
   term_ends: 2017
   party: R
   gender: Male
-  birthday: June 7, 1959
+  birthday: 1959-06-07
   religion: Evangelical
   orientation: Straight
   facebook:
@@ -306,7 +306,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: November 17, 1946
+  birthday: 1946-11-17
   religion: Catholic
   orientation: Straight
   facebook:
@@ -327,7 +327,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: September 12, 1956
+  birthday: 1956-09-12
   religion: Catholic
   orientation: Straight
   facebook:
@@ -348,7 +348,7 @@
   term_ends: 2015
   party: D
   gender: Male
-  birthday: September 21, 1944
+  birthday: 1944-09-21
   religion: Baptist
   orientation: Straight
   facebook:
@@ -369,7 +369,7 @@
   term_ends: 2016
   party: R
   gender: Male
-  birthday: June 10, 1971
+  birthday: 1971-06-10
   religion: Catholic
   orientation: Straight
   facebook:
@@ -390,7 +390,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: October 9, 1948
+  birthday: 1948-10-09
   religion: Catholic
   orientation: Straight
   facebook:
@@ -411,7 +411,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: May 25, 1956
+  birthday: 1956-05-25
   religion: Catholic
   orientation: Straight
   facebook:
@@ -432,7 +432,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: November 13, 1956
+  birthday: 1956-11-13
   religion: Christian
   orientation: Straight
   facebook:
@@ -453,7 +453,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: August 19, 1958
+  birthday: 1958-08-19
   religion: Presbyterian
   orientation: Straight
   facebook:
@@ -473,7 +473,7 @@
   term_ends: 2019
   party: D
   gender: Male
-  birthday: January 26, 1947
+  birthday: 1947-01-26
   religion: Presbyterian
   orientation: Straight
   facebook:
@@ -493,7 +493,7 @@
   term_ends: 2016
   party: R
   gender: Male
-  birthday: December 9, 1954
+  birthday: 1954-12-09
   religion: Methodist
   orientation: Straight
   facebook:
@@ -514,7 +514,7 @@
   term_ends: 2017
   party: D
   gender: Male
-  birthday: February 13, 1956
+  birthday: 1956-02-13
   religion: Methodist
   orientation: Straight
   facebook:
@@ -534,7 +534,7 @@
   term_ends: 2017
   party: D
   gender: Male
-  birthday: April 11, 1966
+  birthday: 1966-04-11
   religion: Catholic
   orientation: Straight
   facebook:
@@ -555,7 +555,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: August 19, 1964
+  birthday: 1964-08-19
   religion: Catholic
   orientation: Straight
   facebook:
@@ -576,7 +576,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: August 5, 1963
+  birthday: 1963-08-05
   religion: Catholic
   orientation: Straight
   facebook:
@@ -596,7 +596,7 @@
   term_ends: 2017
   party: D
   gender: Female
-  birthday: February 27, 1958
+  birthday: 1958-02-27
   religion: Christian
   orientation: Straight
   facebook:
@@ -616,7 +616,7 @@
   term_ends: 2018
   party: R
   gender: Male
-  birthday: September 6, 1962
+  birthday: 1962-09-06
   religion: Catholic
   orientation: Straight
   facebook:
@@ -636,7 +636,7 @@
   term_ends: 2019
   party: R
   gender: Female
-  birthday: July 14, 1959
+  birthday: 1959-07-14
   religion: Catholic
   orientation: Straight
   facebook:
@@ -657,7 +657,7 @@
   term_ends: 2019
   party: D
   gender: Male
-  birthday: December 6, 1957
+  birthday: 1957-12-06
   religion: Catholic
   orientation: Straight
   facebook:
@@ -678,7 +678,7 @@
   term_ends: 2017
   party: R
   gender: Male
-  birthday: October 17, 1956
+  birthday: 1956-10-17
   religion: Presbyterian
   orientation: Straight
   facebook:
@@ -699,7 +699,7 @@
   term_ends: 2016
   party: R
   gender: Male
-  birthday: October 16, 1948
+  birthday: 1948-10-16
   religion: Presbyterian
   orientation: Straight
   facebook:
@@ -719,7 +719,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: May 13, 1952
+  birthday: 1952-05-13
   religion: Anglican
   orientation: Straight
   facebook:
@@ -740,7 +740,7 @@
   term_ends: 2019
   party: R
   gender: Female
-  birthday: December 9, 1954
+  birthday: 1954-12-09
   religion: Christian
   orientation: Straight
   facebook:
@@ -760,7 +760,7 @@
   term_ends: 2016
   party: D
   gender: Female
-  birthday: June 21, 1960
+  birthday: 1960-06-21
   religion: Unknown
   orientation: Bisexual
   facebook:
@@ -781,7 +781,7 @@
   term_ends: 2019
   party: D
   gender: Male
-  birthday: November 17, 1948
+  birthday: 1948-12-17
   religion: Episcopalian
   orientation: Straight
   facebook:
@@ -802,7 +802,7 @@
   term_ends: 2019
   party: D
   gender: Female
-  birthday: May 17, 1971
+  birthday: 1971-05-17
   religion: Unknown
   orientation: Straight
   facebook:
@@ -823,7 +823,7 @@
   term_ends: 2019
   party: R
   gender: Female
-  birthday: January 20, 1972
+  birthday: 1972-01-20
   religion: Methodist
   orientation: Straight
   facebook:
@@ -844,7 +844,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: June 11, 1953
+  birthday: 1953-06-11
   religion: Lutheran
   orientation: Straight
   facebook:
@@ -865,7 +865,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: August 23, 1958
+  birthday: 1958-08-23
   religion: Presbyterian
   orientation: Straight
   facebook:
@@ -886,7 +886,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: November 13, 1957
+  birthday: 1957-11-13
   religion: Catholic
   orientation: Straight
   facebook:
@@ -907,7 +907,7 @@
   term_ends: 2017
   party: R
   gender: Male
-  birthday: May 7, 1947
+  birthday: 1947-05-07
   religion: Mormon
   orientation: Straight
   facebook:
@@ -928,7 +928,7 @@
   term_ends: 2017
   party: D
   gender: Male
-  birthday: March 24, 1956
+  birthday: 1956-03-24
   religion: Unknown
   orientation: Straight
   facebook:
@@ -948,7 +948,7 @@
   term_ends: 2018
   party: D
   gender: Male
-  birthday: February 9, 1957
+  birthday: 1957-02-09
   religion: Catholic
   orientation: Straight
   facebook:
@@ -969,7 +969,7 @@
   term_ends: 2017
   party: D
   gender: Male
-  birthday: February 9, 1951
+  birthday: 1951-02-09
   religion: Christian
   orientation: Straight
   facebook:
@@ -990,7 +990,7 @@
   term_ends: 2017
   party: D
   gender: Male
-  birthday: March 15, 1952
+  birthday: 1952-03-15
   religion: Presbyterian
   orientation: Straight
   facebook:
@@ -1010,7 +1010,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: November 2, 1967
+  birthday: 1967-11-02
   religion: Evangelical
   orientation: Straight
   facebook:
@@ -1031,7 +1031,7 @@
   term_ends: 2019
   party: R
   gender: Male
-  birthday: March 11, 1962
+  birthday: 1962-03-11
   religion: Episcopalian
   orientation: Straight
   facebook:
