@@ -10,8 +10,8 @@ class DirectoryPresenter
      ["Sort by State", "state"]]
   end
 
-  def initialize(reps: nil, sort_by: :popularity)
-    @sort_by = sort_by
+  def initialize(reps: nil, sort_by: default_sort)
+    @sort_by = sort_by.present? ? sort_by : default_sort
     @reps = reps
   end
 
@@ -26,5 +26,10 @@ class DirectoryPresenter
   def present(reps)
     reps.map { |rep| RepresentativePresenter.new(rep) }
   end
+
+  private
+    def default_sort
+      :popularity
+    end
 end
 
