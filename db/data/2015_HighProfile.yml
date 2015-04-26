@@ -1,6 +1,7 @@
 # took_office date format: YYYY-MM-DD
 
 - rep_status: In Office
+  state: DC
   title: President
   first_name: Barack
   middle_name: Hussein
@@ -26,6 +27,7 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Barack_Obama.png
 
 - rep_status: In Office
+  state: DC
   title: Vice President
   first_name: Joseph
   middle_name: Robinette
@@ -51,6 +53,7 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Joe_Biden.png
 
 - rep_status: In Office
+  state: DC
   title: Secretary
   first_name: John
   middle_name: Forbes
@@ -75,6 +78,7 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/John_Kerry.png
 
 - rep_status: Running
+  state: DC
   title: Secretary
   first_name: Hillary
   middle_name: Rodham
@@ -99,6 +103,7 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Hillary_Clinton.png
 
 - rep_status: Out of Office
+  state: MA
   title: Governor
   first_name: Willard
   middle_name: Mitt
@@ -123,6 +128,7 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Mitt_Romney.png
 
 - rep_status: Out of Office
+  state: DC
   title: Vice President
   first_name: Albert
   middle_name: Arnold
@@ -147,6 +153,7 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Al_Gore.png
 
 - rep_status: Out of Office
+  state: DC
   title: President
   first_name: George
   middle_name: Walker
@@ -171,6 +178,7 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/George_W_Bush.png
 
 - rep_status: Out of Office
+  state: DC
   title: President
   first_name: William
   middle_name: Jefferson
@@ -195,6 +203,7 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Bill_Clinton.png
 
 - rep_status: Out of Office
+  state: CA
   title: Governor
   first_name: Arnold
   middle_name: Alois
@@ -219,6 +228,7 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Arnold_Schwarzenegger.png
 
 - rep_status: Out of Office
+  state: DC
   title: Vice President
   first_name: Richard
   middle_name: Bruce
@@ -243,6 +253,7 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Dick_Cheney.png
 
 - rep_status: Out of Office
+  state: AK
   title: Governor
   first_name: Sarah
   middle_name: Louise
@@ -266,6 +277,7 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Sarah_Palin.png
 
 - rep_status: Out of Office
+  state: TX
   title: Senator
   first_name: Ronald
   middle_name: Ernest
@@ -290,6 +302,10 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Ron_Paul.png
 
 - rep_status: Running
+<<<<<<< HEAD
+  state:  AR
+=======
+>>>>>>> origin/master
   title: Governor
   first_name: Michael
   middle_name: Dale
@@ -300,11 +316,19 @@
   tel:
   email:
   web: http://www.mikehuckabee.com/
+<<<<<<< HEAD
+  took_office: July 15, 1996
+  term_ends: January 8, 2007
+  party: R
+  gender: Male
+  birthday: August 24, 1955
+=======
   took_office: 1996-07-15
   term_ends: January 8, 2007
   party: R
   gender: Male
   birthday: 1955-08-24
+>>>>>>> origin/master
   religion: Southern Baptist
   orientation: Straight
   facebook: https://www.facebook.com/mikehuckabee
@@ -314,6 +338,10 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Mike_Huckabee.png
 
 - rep_status: Running
+<<<<<<< HEAD
+  state: RI
+=======
+>>>>>>> origin/master
   title: Governor
   first_name: Lincoln
   middle_name: Davenport
@@ -324,11 +352,19 @@
   tel:
   email:
   web: http://www.chafee2016.com/
+<<<<<<< HEAD
+  took_office: January 4, 2011
+  term_ends: January 6, 2015
+  party: D
+  gender: Male
+  birthday: March 26, 1953
+=======
   took_office: 2011-01-04
   term_ends: January 6, 2015
   party: D
   gender: Male
   birthday: 1953-03-26
+>>>>>>> origin/master
   religion: Episcopalian
   orientation: Straight
   facebook: https://www.facebook.com/GovernorChafee
@@ -338,6 +374,10 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Lincoln_Chafee.png
 
 - rep_status: Running
+<<<<<<< HEAD
+  state: VA
+=======
+>>>>>>> origin/master
   title: Senator
   first_name: James
   middle_name: Henry
@@ -348,11 +388,19 @@
   tel:
   email:
   web: http://www.webb2016.com/
+<<<<<<< HEAD
+  took_office: January 3, 2007
+  term_ends: January 3, 2013
+  party: D
+  gender: Male
+  birthday: February 9, 1946
+=======
   took_office: 2007-01-03
   term_ends: January 3, 2013
   party: D
   gender: Male
   birthday: 1946-02-09
+>>>>>>> origin/master
   religion: Christian
   orientation: Straight
   facebook: https://www.facebook.com/IHeardMyCountryCalling
@@ -362,6 +410,10 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Jim_Webb.png
 
 - rep_status: Running
+<<<<<<< HEAD
+  state: DC
+=======
+>>>>>>> origin/master
   title:
   first_name: Benjamin
   middle_name: Solomon
@@ -376,7 +428,11 @@
   term_ends:
   party: R
   gender: Male
+<<<<<<< HEAD
+  birthday: September 18, 1951
+=======
   birthday: 1951-09-18
+>>>>>>> origin/master
   religion: Evangelical
   orientation: Straight
   facebook: https://www.facebook.com/DrBenjaminCarson
@@ -386,6 +442,10 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Ben_Carson.png
 
 - rep_status: Running
+<<<<<<< HEAD
+  state: DC
+=======
+>>>>>>> origin/master
   title: Commissioner
   first_name: Mark
   middle_name: Whitty
@@ -396,11 +456,19 @@
   tel:
   email:
   web: https://www.markforamerica.com/
+<<<<<<< HEAD
+  took_office: August 1, 2002
+  term_ends: May 1, 2003
+  party: R
+  gender: Male
+  birthday: September 10, 1954
+=======
   took_office: 2002-08-01
   term_ends: May 1, 2003
   party: R
   gender: Male
   birthday: 1954-09-10
+>>>>>>> origin/master
   religion:
   orientation: Straight
   facebook: https://www.facebook.com/MarkForAmerica
@@ -410,21 +478,37 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Mark_Everson.png
 
 - rep_status: Out of Office
+<<<<<<< HEAD
+  state: MD
+  title: Governor
+  first_name: Martin
+  middle_name: Joseph
+  last_name: O'Malley
+=======
   title: Governor
   first_name: Martin
   middle_name: Joseph
   last_name: "O'Malley"
+>>>>>>> origin/master
   nick_name:
   address:
   fax: 410-849-4048
   tel: (443) 595-7666
   email: info@martinomalley.com
   web: http://martinomalley.com/
+<<<<<<< HEAD
+  took_office: January 17, 2007
+  term_ends: January 21, 2015
+  party: D
+  gender: Male
+  birthday: January 18, 1963
+=======
   took_office: 2007-01-17
   term_ends: January 21, 2015
   party: D
   gender: Male
   birthday: 1963-01-18
+>>>>>>> origin/master
   religion: Catholic
   orientation: Straight
   facebook: https://www.facebook.com/MartinOMalley
@@ -434,6 +518,10 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Martin_OMalley.png
 
 - rep_status: Out of Office
+<<<<<<< HEAD
+  state: PA
+=======
+>>>>>>> origin/master
   title: Senator
   first_name: Richard
   middle_name: John
@@ -444,20 +532,35 @@
   tel: (603) 836-5941
   email:
   web: http://www.ricksantorum.com/
+<<<<<<< HEAD
+  took_office: January 3, 1995
+  term_ends: January 3, 2007
+  party: R
+  gender: Male
+  birthday: May 10, 1958
+=======
   took_office: 1995-01-03
   term_ends: January 3, 2007
   party: R
   gender: Male
   birthday: 1958-05-10
+>>>>>>> origin/master
   religion: Catholic
   orientation: Straight
   facebook: https://www.facebook.com/RickSantorum
   twitter: https://twitter.com/ricksantorum
   youtube: https://www.youtube.com/user/ricksantorum
   wiki: http://en.wikipedia.org/wiki/Rick_Santorum
+<<<<<<< HEAD
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Rick_Santorum.png
+
+- rep_status: Running for Office
+  state: FL
+=======
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Rick_Santorum
 
 - rep_status: Running for Office
+>>>>>>> origin/master
   title: Governor
   first_name: John
   middle_name: Ellis
@@ -468,15 +571,27 @@
   tel:
   email:
   web: https://righttorisepac.org/
+<<<<<<< HEAD
+  took_office: January 5, 1999
+  term_ends: January 2, 2007
+  party: R
+  gender: M
+  birthday: February 11, 1953
+=======
   took_office: 1999-01-05
   term_ends: January 2, 2007
   party: R
   gender: M
   birthday: 1953-02-11
+>>>>>>> origin/master
   religion: Catholic
   orientation: Straight
   facebook: https://www.facebook.com/jebbush
   twitter: https://twitter.com/JebBush
   youtube:
   wiki: http://en.wikipedia.org/wiki/Jeb_bush
+<<<<<<< HEAD
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Jeb_Bush.png
+=======
 
+>>>>>>> origin/master
