@@ -3,7 +3,9 @@
 - rep_status: In Office
   title: President
   first_name: Barack
+  middle_name: Hussein
   last_name: Obama
+  nick_name: Barack
   address: The White House, 1600 Pennsylvania Avenue NW, Washington, DC 20500
   fax:
   tel: 202-456-1111
@@ -12,6 +14,7 @@
   took_office: 2009-01-20
   term_ends: 2016
   party: D
+  branch: executive
   gender: Male
   birthday: 1961-08-04
   religion: Christian
@@ -24,8 +27,10 @@
 
 - rep_status: In Office
   title: Vice President
-  first_name: Joe
+  first_name: Joseph
+  middle_name: Robinette
   last_name: Biden
+  nick_name: Joe
   address: The White House, 1600 Pennsylvania Avenue NW, Washington, DC 20500
   fax:
   tel: 202-456-1111
@@ -34,6 +39,7 @@
   took_office: 2009-01-20
   term_ends: 2016
   party: D
+  branch: executive
   gender: Male
   birthday: 1942-11-20
   religion: Catholic
@@ -47,6 +53,7 @@
 - rep_status: In Office
   title: Secretary
   first_name: John
+  middle_name: Forbes
   last_name: Kerry
   address:
   fax:
@@ -56,6 +63,7 @@
   took_office: 2013-02-01
   term_ends:
   party: D
+  branch: executive
   gender: Male
   birthday: 1943-12-11
   religion: Catholic
@@ -69,6 +77,7 @@
 - rep_status: Running
   title: Secretary
   first_name: Hillary
+  middle_name: Rodham
   last_name: Clinton
   address:
   fax:
@@ -78,6 +87,7 @@
   took_office:
   term_ends:
   party: D
+  branch: executive
   gender: Female
   birthday: 1947-10-26
   religion: Methodist
@@ -90,8 +100,10 @@
 
 - rep_status: Out of Office
   title: Governor
-  first_name: Mitt
+  first_name: Willard
+  middle_name: Mitt
   last_name: Romney
+  nick_name: Mitt
   address:
   fax:
   tel:
@@ -112,8 +124,10 @@
 
 - rep_status: Out of Office
   title: Vice President
-  first_name: Al
+  first_name: Albert
+  middle_name: Arnold
   last_name: Gore
+  nick_name: Al
   address:
   fax:
   tel:
@@ -134,8 +148,10 @@
 
 - rep_status: Out of Office
   title: President
-  first_name: George W.
+  first_name: George
+  middle_name: Walker
   last_name: Bush
+  nick_name: George W.
   address:
   fax:
   tel:
@@ -156,8 +172,10 @@
 
 - rep_status: Out of Office
   title: President
-  first_name: Bill
+  first_name: William
+  middle_name: Jefferson
   last_name: Clinton
+  nick_name: Bill
   address:
   fax:
   tel:
@@ -179,6 +197,7 @@
 - rep_status: Out of Office
   title: Governor
   first_name: Arnold
+  middle_name: Alois
   last_name: Schwarzenegger
   address:
   fax:
@@ -201,8 +220,10 @@
 
 - rep_status: Out of Office
   title: Vice President
-  first_name: Dick
+  first_name: Richard
+  middle_name: Bruce
   last_name: Cheney
+  nick_name: Dick
   address:
   fax:
   tel:
@@ -224,6 +245,7 @@
 - rep_status: Out of Office
   title: Governor
   first_name: Sarah
+  middle_name: Louise
   last_name: Palin
   address:
   fax:
@@ -245,8 +267,10 @@
 
 - rep_status: Out of Office
   title: Senator
-  first_name: Ron
+  first_name: Ronald
+  middle_name: Ernest
   last_name: Paul
+  nick_name: Ron
   address: Campaign for Liberty, 5211 Port Royal Road, Suite 310, Springfield, VA 22151
   fax: (703) 865-7549
   tel: (703) 865-7162
@@ -264,3 +288,195 @@
   youtube: https://www.youtube.com/user/ronpaul
   wiki: http://en.wikipedia.org/wiki/Ron_Paul
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Ron_Paul.png
+
+- rep_status: Running
+  title: Governor
+  first_name: Michael
+  middle_name: Dale
+  last_name: Huckabee
+  nick_name: Mike
+  address:
+  fax:
+  tel:
+  email:
+  web: http://www.mikehuckabee.com/
+  took_office: 1996-07-15
+  term_ends: January 8, 2007
+  party: R
+  gender: Male
+  birthday: 1955-08-24
+  religion: Southern Baptist
+  orientation: Straight
+  facebook: https://www.facebook.com/mikehuckabee
+  twitter: https://twitter.com/GovMikeHuckabee
+  youtube:
+  wiki: http://en.wikipedia.org/wiki/Mike_Huckabee
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Mike_Huckabee.png
+
+- rep_status: Running
+  title: Governor
+  first_name: Lincoln
+  middle_name: Davenport
+  last_name: Chafee
+  nick_name:
+  address:
+  fax:
+  tel:
+  email:
+  web: http://www.chafee2016.com/
+  took_office: 2011-01-04
+  term_ends: January 6, 2015
+  party: D
+  gender: Male
+  birthday: 1953-03-26
+  religion: Episcopalian
+  orientation: Straight
+  facebook: https://www.facebook.com/GovernorChafee
+  twitter: https://twitter.com/lincolnchafee
+  youtube:
+  wiki: http://en.wikipedia.org/wiki/Lincoln_Chafee
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Lincoln_Chafee.png
+
+- rep_status: Running
+  title: Senator
+  first_name: James
+  middle_name: Henry
+  last_name: Webb
+  nick_name: Jim
+  address:
+  fax:
+  tel:
+  email:
+  web: http://www.webb2016.com/
+  took_office: 2007-01-03
+  term_ends: January 3, 2013
+  party: D
+  gender: Male
+  birthday: 1946-02-09
+  religion: Christian
+  orientation: Straight
+  facebook: https://www.facebook.com/IHeardMyCountryCalling
+  twitter: https://twitter.com/JimWebbUSA
+  youtube:
+  wiki: http://en.wikipedia.org/wiki/Jim_Webb
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Jim_Webb.png
+
+- rep_status: Running
+  title:
+  first_name: Benjamin
+  middle_name: Solomon
+  last_name: Carson
+  nick_name: Ben
+  address:
+  fax:
+  tel:
+  email:
+  web: https://www.bencarson.com/
+  took_office:
+  term_ends:
+  party: R
+  gender: Male
+  birthday: 1951-09-18
+  religion: Evangelical
+  orientation: Straight
+  facebook: https://www.facebook.com/DrBenjaminCarson
+  twitter: https://twitter.com/RealBenCarson
+  youtube: https://www.youtube.com/user/realbencarson/
+  wiki: http://en.wikipedia.org/wiki/Ben_Carson
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Ben_Carson.png
+
+- rep_status: Running
+  title: Commissioner
+  first_name: Mark
+  middle_name: Whitty
+  last_name: Everson
+  nick_name:
+  address:
+  fax:
+  tel:
+  email:
+  web: https://www.markforamerica.com/
+  took_office: 2002-08-01
+  term_ends: May 1, 2003
+  party: R
+  gender: Male
+  birthday: 1954-09-10
+  religion:
+  orientation: Straight
+  facebook: https://www.facebook.com/MarkForAmerica
+  twitter: https://twitter.com/MarkForAmerica
+  youtube:
+  wiki: http://en.wikipedia.org/wiki/Mark_Everson
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Mark_Everson.png
+
+- rep_status: Out of Office
+  title: Governor
+  first_name: Martin
+  middle_name: Joseph
+  last_name: "O'Malley"
+  nick_name:
+  address:
+  fax: 410-849-4048
+  tel: (443) 595-7666
+  email: info@martinomalley.com
+  web: http://martinomalley.com/
+  took_office: 2007-01-17
+  term_ends: January 21, 2015
+  party: D
+  gender: Male
+  birthday: 1963-01-18
+  religion: Catholic
+  orientation: Straight
+  facebook: https://www.facebook.com/MartinOMalley
+  twitter: https://twitter.com/governoromalley
+  youtube: https://www.youtube.com/channel/UCb7eu74-_tCNLw9FfavvKnw
+  wiki: http://en.wikipedia.org/wiki/Martin_O%27Malley
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Martin_OMalley.png
+
+- rep_status: Out of Office
+  title: Senator
+  first_name: Richard
+  middle_name: John
+  last_name: Santorum
+  nick_name: Rick
+  address:
+  fax:
+  tel: (603) 836-5941
+  email:
+  web: http://www.ricksantorum.com/
+  took_office: 1995-01-03
+  term_ends: January 3, 2007
+  party: R
+  gender: Male
+  birthday: 1958-05-10
+  religion: Catholic
+  orientation: Straight
+  facebook: https://www.facebook.com/RickSantorum
+  twitter: https://twitter.com/ricksantorum
+  youtube: https://www.youtube.com/user/ricksantorum
+  wiki: http://en.wikipedia.org/wiki/Rick_Santorum
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Rick_Santorum
+
+- rep_status: Running for Office
+  title: Governor
+  first_name: John
+  middle_name: Ellis
+  last_name: Bush
+  nick_name: Jeb Bush
+  address:
+  fax:
+  tel:
+  email:
+  web: https://righttorisepac.org/
+  took_office: 1999-01-05
+  term_ends: January 2, 2007
+  party: R
+  gender: M
+  birthday: 1953-02-11
+  religion: Catholic
+  orientation: Straight
+  facebook: https://www.facebook.com/jebbush
+  twitter: https://twitter.com/JebBush
+  youtube:
+  wiki: http://en.wikipedia.org/wiki/Jeb_bush
+
