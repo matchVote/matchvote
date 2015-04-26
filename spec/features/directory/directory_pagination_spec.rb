@@ -16,33 +16,28 @@ feature "Paginating reps" do
     visit root_path
   end
 
-  it { is_expected.to have_css(".pagination") }
+  it { is_expected.not_to have_css(".pagination") }
 
   scenario "visiting the directory has all reps paginated" do
-    within(".pagination") do
-      expect(subject).to have_content(1)
-      expect(subject).to have_content(2)
-      expect(subject).to have_content(3)
-      expect(subject).not_to have_content(4)
-    end
+    expect(subject.all(".directory_block").size).to eq per_page
   end
 
-  scenario "clicking 'Next' shows the next page of reps", js: true do
-    rep_name = subject.all(".full_name").first.text
-    subject.find(".pagination .next_page").click
-    expect(subject).not_to have_content(rep_name)
+  scenario "scrolling to the bottom appends the next page of reps", js: true do
+    scroll_to_bottom_of_page
+    expect(subject.all(".directory_block").size).to eq(per_page * 2)
   end
 
-  scenario "sorting reps and switching pages keeps them sorted", js: true do
+  scenario "sorting reps and scrolling to the bottom keeps them sorted", js: true do
     select("Alphabetically", from: "Sort")
+    scroll_to_bottom_of_page
     expect(subject).to have_content("Balki")
-    subject.find(".pagination .next_page").click
-    expect(subject).not_to have_content("Balki")
     expect(subject).to have_content("Keyser")
+    expect(subject).not_to have_content("Söze")
   end
 
   scenario "fewer reps than the per page limit provides no pagination", js: true do
     search_for "Keyser"
+    scroll_to_bottom_of_page
     expect(subject).to have_no_selector(".pagination")
   end
 end

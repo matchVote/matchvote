@@ -8,6 +8,7 @@ class DirectoryController
     @$searchButton = $("#directory_search_button")
     @$sortField = $("#rep_sorter")
     @$repsContainer = $("#reps_container")
+    @pageCount = 2
     @bindEvents()
 
   bindEvents: ->
@@ -16,16 +17,14 @@ class DirectoryController
     @selectSort()
     @pagination()
 
-  clickToSearch: ->
-    @$searchButton.click => @filterReps()
+  clickToSearch: -> @$searchButton.click => @filterReps()
 
   pressEnterToSearch: ->
     $(document).on "keypress", (event) =>
       if @$searchField.is(":focus") and event.which == 13
         @filterReps()
 
-  selectSort: ->
-    @$sortField.change => @filterReps()
+  selectSort: -> @$sortField.change => @filterReps()
 
   filterReps: ->
     $.get "/directory/filter",
@@ -33,21 +32,22 @@ class DirectoryController
       sort: @$sortField.val(),
       @showReps
 
-  showReps: (html) =>
-    @$repsContainer.html(html)
+  showReps: (html) => @$repsContainer.html(html)
+  appendReps: (html) => @$repsContainer.append(html)
 
   pagination: ->
     self = @
-    @$repsContainer.on "click", ".pagination a", (event) ->
-      event.preventDefault()
-      self.paginateFilter(self.extractParams(@href))
+    $(window).scroll ->
+      if $(window).scrollTop() is $(document).height() - $(window).height()
+        href = $(".pagination .next_page").attr("href")
+        self.paginateFilter(self.extractParams(href)) if href
 
   paginateFilter: (params) ->
     $.get "/directory/filter",
       search: params.search,
       sort: params.sort,
       page: params.page,
-      @showReps
+      @appendReps
 
   extractParams: (url) ->
     params = url.split("?")[1].split("&")

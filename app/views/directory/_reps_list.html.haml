@@ -20,5 +20,6 @@
       - if rep.verified == true
         = image_tag "http://data.matchvote.com/images/bluecheck.png",
           class: "verified", title: "Verified Account"
-= will_paginate reps
+
+%div#pagination_links{style: "display:none;"}= will_paginate reps
 

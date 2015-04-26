@@ -3,3 +3,7 @@ def search_for(text)
   find("#directory_search_button").click
 end
 
+def scroll_to_bottom_of_page
+  subject.execute_script "window.scrollBy(0, 10000)"
+end
+
