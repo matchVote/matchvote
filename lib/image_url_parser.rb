@@ -1,5 +1,3 @@
-require_relative "null_object"
-
 class ImageURLParser
   def initialize(urls)
     @urls = urls

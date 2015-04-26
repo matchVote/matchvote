@@ -10,21 +10,17 @@ class DirectoryPresenter
      ["Sort by State", "state"]]
   end
 
-  def initialize(sort_by: :popularity, search_name: nil)
-    @sort_by = sort_by
-    @name = search_name
+  def initialize(reps: nil, sort_by: default_sort)
+    @sort_by = sort_by.present? ? sort_by : default_sort
+    @reps = reps
   end
 
-  def search_reps
-    Representative.search_by_name(@name) if @name.present?
+  def reps
+    present(sort_reps(@reps))
   end
 
   def sort_reps(reps)
     RepSorter.new(reps).send(@sort_by)
-  end
-
-  def reps
-    present(sort_reps(search_reps))
   end
 
   def present(reps)
@@ -32,8 +28,7 @@ class DirectoryPresenter
   end
 
   private
-    def query_string
-      "first_name @@ :name or last_name @@ :name or nickname @@ :name "+
-        "or official_full_name @@ :name"
+    def default_sort
+      :popularity
     end
 end

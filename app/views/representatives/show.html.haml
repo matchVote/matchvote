@@ -69,17 +69,15 @@
     .well.widget
       %h3
         Connect with #{@rep.nickname_or_first_name}
-      %strong #{@rep.government_role} #{@rep.first_name} #{@rep.last_name}
+      %strong #{@rep.title} #{@rep.nickname_or_first_name} #{@rep.last_name}
       %br
       - @rep.contact.postal_addresses.each do |address|
-        = address.full_street
+        = address.line1
         %br
         = address.city_state_zip
       %br
-      - @rep.contact.emails.each do |email|
-        = mail_to email, target: "_blank" do
-          %span= email
-        %br
+      - @rep.contact.emails_or_contact_form_url.each do |url|
+        = url
       %br
       - @rep.contact.phone_numbers.each do |number|
         %span.glyphicon.glyphicon-phone-alt

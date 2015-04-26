@@ -5,11 +5,8 @@ class PostalAddress < ActiveRecord::Base
     AddressParser.parse(address_string)
   end
 
-  def full_street
-    "#{street_number} #{street_name}"
-  end
-
   def city_state_zip
     "#{city}, #{state} #{zip}"
   end
 end
+

@@ -7,12 +7,14 @@ class DirectoryController
     @$searchField = $("#directory_search_field")
     @$searchButton = $("#directory_search_button")
     @$sortField = $("#rep_sorter")
+    @$repsContainer = $("#reps_container")
     @bindEvents()
 
   bindEvents: ->
     @clickToSearch()
     @pressEnterToSearch()
     @selectSort()
+    @pagination()
 
   clickToSearch: ->
     @$searchButton.click => @filterReps()
@@ -31,6 +33,28 @@ class DirectoryController
       sort: @$sortField.val(),
       @showReps
 
-  showReps: (html) ->
-    $("#reps_container").html(html)
+  showReps: (html) =>
+    @$repsContainer.html(html)
+
+  pagination: ->
+    self = @
+    @$repsContainer.on "click", ".pagination a", (event) ->
+      event.preventDefault()
+      self.paginateFilter(self.extractParams(@href))
+
+  paginateFilter: (params) ->
+    $.get "/directory/filter",
+      search: params.search,
+      sort: params.sort,
+      page: params.page,
+      @showReps
+
+  extractParams: (url) ->
+    params = url.split("?")[1].split("&")
+    params.reduce ((acc, param) ->
+      keyValue = param.split("=")
+      acc[keyValue[0]] = keyValue[1]
+      acc
+    ), {}
+
 

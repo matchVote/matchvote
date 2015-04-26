@@ -1,0 +1,266 @@
+# took_office date format: YYYY-MM-DD
+
+- rep_status: In Office
+  title: President
+  first_name: Barack
+  last_name: Obama
+  address: The White House, 1600 Pennsylvania Avenue NW, Washington, DC 20500
+  fax:
+  tel: 202-456-1111
+  contact_form_url: https://www.whitehouse.gov/contact/submit-questions-and-comments
+  web: https://www.barackobama.com/
+  took_office: 2009-01-20
+  term_ends: 2016
+  party: D
+  gender: Male
+  birthday: 1961-08-04
+  religion: Christian
+  orientation: Straight
+  facebook: https://www.facebook.com/barackobama
+  twitter: https://twitter.com/barackobama
+  youtube: https://www.youtube.com/user/BarackObamadotcom
+  wiki: http://en.wikipedia.org/wiki/Barack_Obama
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Barack_Obama.png
+
+- rep_status: In Office
+  title: Vice President
+  first_name: Joe
+  last_name: Biden
+  address: The White House, 1600 Pennsylvania Avenue NW, Washington, DC 20500
+  fax:
+  tel: 202-456-1111
+  contact_form_url: https://www.whitehouse.gov/contact/submit-questions-and-comments
+  web:
+  took_office: 2009-01-20
+  term_ends: 2016
+  party: D
+  gender: Male
+  birthday: 1942-11-20
+  religion: Catholic
+  orientation: Straight
+  facebook: https://www.facebook.com/joebiden
+  twitter: https://twitter.com/joebiden
+  youtube:
+  wiki: http://en.wikipedia.org/wiki/Joe_Biden
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Joe_Biden.png
+
+- rep_status: In Office
+  title: Secretary
+  first_name: John
+  last_name: Kerry
+  address:
+  fax:
+  tel:
+  contact_form_url: https://register.state.gov/contactus/contactusform
+  web: http://www.state.gov/secretary/
+  took_office: 2013-02-01
+  term_ends:
+  party: D
+  gender: Male
+  birthday: 1943-12-11
+  religion: Catholic
+  orientation: Straight
+  facebook: https://www.facebook.com/johnkerry
+  twitter: https://twitter.com/johnkerry
+  youtube:
+  wiki: http://en.wikipedia.org/wiki/John_Kerry
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/John_Kerry.png
+
+- rep_status: Running
+  title: Secretary
+  first_name: Hillary
+  last_name: Clinton
+  address:
+  fax:
+  tel:
+  email:
+  web: http://www.hillaryclinton.com/
+  took_office:
+  term_ends:
+  party: D
+  gender: Female
+  birthday: 1947-10-26
+  religion: Methodist
+  orientation: Straight
+  facebook: https://www.facebook.com/Hillary2016
+  twitter: https://twitter.com/hillaryclinton
+  youtube:
+  wiki: http://en.wikipedia.org/wiki/Hillary_Rodham_Clinton
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Hillary_Clinton.png
+
+- rep_status: Out of Office
+  title: Governor
+  first_name: Mitt
+  last_name: Romney
+  address:
+  fax:
+  tel:
+  email:
+  web: http://www.mittromney.com/
+  took_office:
+  term_ends:
+  party: R
+  gender: Male
+  birthday: 1947-03-12
+  religion: Mormon
+  orientation: Straight
+  facebook: https://www.facebook.com/mittromney
+  twitter: https://twitter.com/mittromney
+  youtube:
+  wiki: http://en.wikipedia.org/wiki/Mitt_Romney
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Mitt_Romney.png
+
+- rep_status: Out of Office
+  title: Vice President
+  first_name: Al
+  last_name: Gore
+  address:
+  fax:
+  tel:
+  email:
+  web: http://www.algore.com/
+  took_office:
+  term_ends:
+  party: D
+  gender: Male
+  birthday: 1948-03-31
+  religion: Baptist
+  orientation: Straight
+  facebook: https://www.facebook.com/algore
+  twitter: https://twitter.com/algore
+  youtube:
+  wiki: http://en.wikipedia.org/wiki/Al_Gore
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Al_Gore.png
+
+- rep_status: Out of Office
+  title: President
+  first_name: George W.
+  last_name: Bush
+  address:
+  fax:
+  tel:
+  email:
+  web: http://www.georgewbush.com/
+  took_office:
+  term_ends:
+  party: R
+  gender: Male
+  birthday: 1946-07-06
+  religion: Methodist
+  orientation: Straight
+  facebook: https://www.facebook.com/georgewbush
+  twitter: https://twitter.com/georgewbush
+  youtube:
+  wiki: http://en.wikipedia.org/wiki/George_W._Bush
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/George_W_Bush.png
+
+- rep_status: Out of Office
+  title: President
+  first_name: Bill
+  last_name: Clinton
+  address:
+  fax:
+  tel:
+  email:
+  web: http://www.billclinton.com/
+  took_office:
+  term_ends:
+  party: D
+  gender: Male
+  birthday: 1946-08-19
+  religion: Baptist
+  orientation: Straight
+  facebook: https://www.facebook.com/billclinton
+  twitter: https://twitter.com/billclinton
+  youtube:
+  wiki: http://en.wikipedia.org/wiki/Bill_Clinton
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Bill_Clinton.png
+
+- rep_status: Out of Office
+  title: Governor
+  first_name: Arnold
+  last_name: Schwarzenegger
+  address:
+  fax:
+  tel:
+  email:
+  contact_form_url: http://www.schwarzenegger.com/contact
+  web: http://www.schwarzenegger.com/
+  took_office:
+  term_ends:
+  party: D
+  gender: Male
+  birthday: 1947-07-30
+  religion: Catholic
+  orientation: Straight
+  facebook: https://www.facebook.com/arnold
+  twitter: https://twitter.com/schwarzenegger
+  youtube: https://www.youtube.com/user/GovSchwarzenegger
+  wiki: http://en.wikipedia.org/wiki/Arnold_Schwarzenegger
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Arnold_Schwarzenegger.png
+
+- rep_status: Out of Office
+  title: Vice President
+  first_name: Dick
+  last_name: Cheney
+  address:
+  fax:
+  tel:
+  email:
+  web:
+  took_office:
+  term_ends:
+  party: R
+  gender: Male
+  birthday: 1941-01-30
+  religion: Methodist
+  orientation: Straight
+  facebook:
+  twitter:
+  youtube:
+  wiki: http://en.wikipedia.org/wiki/Dick_Cheney
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Dick_Cheney.png
+
+- rep_status: Out of Office
+  title: Governor
+  first_name: Sarah
+  last_name: Palin
+  address:
+  fax:
+  tel:
+  contact_form_url: http://www.sarahpac.com/contact/
+  web: http://www.sarahpac.com/
+  took_office:
+  term_ends:
+  party: R
+  gender: Female
+  birthday: 1964-02-11
+  religion: Christian
+  orientation: Straight
+  facebook: https://www.facebook.com/sarahpalin
+  twitter: https://twitter.com/sarahpalinusa
+  youtube:
+  wiki: http://en.wikipedia.org/wiki/Sarah_Palin
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Sarah_Palin.png
+
+- rep_status: Out of Office
+  title: Senator
+  first_name: Ron
+  last_name: Paul
+  address: Campaign for Liberty, 5211 Port Royal Road, Suite 310, Springfield, VA 22151
+  fax: (703) 865-7549
+  tel: (703) 865-7162
+  contact_form_url: http://www.campaignforliberty.org/contact-us
+  web: http://www.campaignforliberty.org/
+  took_office:
+  term_ends:
+  party: R
+  gender: Male
+  birthday: 1935-08-20
+  religion: Southern Baptist
+  orientation: Straight
+  facebook: https://www.facebook.com/ronpaul
+  twitter: https://twitter.com/ronpaul
+  youtube: https://www.youtube.com/user/ronpaul
+  wiki: http://en.wikipedia.org/wiki/Ron_Paul
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Ron_Paul.png

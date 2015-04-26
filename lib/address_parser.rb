@@ -1,14 +1,17 @@
 class AddressParser
-  ADDRESS_REGEX = /\A(\w+)\s(.+)\s(\w+)\s(\w{2})\s(\d{5}(-\d{4})?)\z/
+  ADDRESS_REGEX = /\A(.+)\s(\w+)\s(\w{2})\s(\d{5}(-\d{4})?)\z/
 
   def self.parse_attributes(address_string)
     match = address_string.downcase.match(ADDRESS_REGEX)
 
-    { street_number: match[1].upcase,
-      street_name: match[2].split.map(&:capitalize).join(" "),
-      city: match[3].capitalize,
-      state: match[4].upcase,
-      zip: match[5] }
+    { line1: capitalize_words(match[1]),
+      city: capitalize_words(match[2]),
+      state: match[3].upcase,
+      zip: match[4] }
+  end
+
+  def self.capitalize_words(string)
+    string.split.map(&:capitalize).join(" ")
   end
 end
 

@@ -1,6 +1,6 @@
 require "rails_helper"
 require "webmock/rspec"
-require_relative "../../lib/wikipedia_service"
+require "#{Rails.root}/lib/wikipedia_service"
 
 describe WikipediaService do
   let(:default_params) do

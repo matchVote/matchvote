@@ -15,7 +15,8 @@ the politicians that agree and disagree with what's important to you.
 #### Rep Hierarchy
 All ->  
 Levels: Federal, State, Municipal ->  
-Branches: Executive, Judicial, Legislative ->  
+Federal Branches: Executive, Judicial, Legislative ->  
+Government Role ->
 Profile
 
 #### Rep Data Sources:  
@@ -29,31 +30,15 @@ Profile
         * Most Similar/Least similar
         * Approval Rating
         * State
-    * Filter
+    * Filter  
+      * Finalize hierarchy
 * Rep profile/admin
     * Follow
     * Read full bio
     * Rate rep
     * Comments
     * Recent News
-> * IssueCategories
->   * List of Issues
->   * Related Keywords
-> * Statements
->   * Declarative text (limit character count?): Limited to 256
-> * Stances
->   * Statement Agreeance (-3, -2, -1, 0, 1, 2, 3)
->   * Supporting Quote
-  
->   -Rep User Type also has
->   * Supporting Quote URL
->   * Inferred/Verified State
->   * Researcher name who made inferrence
-  
->   -Citizen User Type also has
->   * Alignment Importance with Rep (0, 1, 2, 3, 4, 5)
->   * Agreement with Researcher Inferrence
-  
+    * Presentation of absent contact info
 * News Feed
   * Articles
     * Author
@@ -69,15 +54,31 @@ Profile
     * Setup email for forgotten password
     * Sign in with facebook/twitter (omniauth)
     * Data:
+        * Matchdata Files: term_end, took_office for seniority
         * Bio Errors: Evan Jenkins, French Hill, Luis Gutierrez
         * Donor data
 * Misc frontend
     * Remove social media links if reps don't have an account
+    * New styling of Rep Profile Contact Info
     * Style create account page
     * Style forgot password form
     * Style sign up form
     * Refine Stances/Quiz views
     * Build GUI for admins to edit Representative profiles
 * Test
-    * CongressLegislatorsDataCompiler
+    * LegislatorsDataCompiler
 
+#### NOTES
+Rep Terms?  
+
+> * Statements
+>   * Declarative text (limit character count?): Limited to 256
+  
+>   -Rep User Type also has
+>   * Supporting Quote URL
+>   * Inferred/Verified State
+>   * Researcher name who made inferrence
+  
+>   -Citizen User Type also has
+>   * Alignment Importance with Rep (0, 1, 2, 3, 4, 5)
+>   * Agreement with Researcher Inferrence

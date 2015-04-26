@@ -5,6 +5,10 @@ class RepresentativePresenter < SimpleDelegator
     @rep ||= __getobj__
   end
 
+  def contact
+    @contact ||= ContactPresenter.new(rep.contact)
+  end
+
   def full_name
     "#{nickname_or_first_name} #{last_name}"
   end

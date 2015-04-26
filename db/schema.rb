@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150410111122) do
+ActiveRecord::Schema.define(version: 20150422101754) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -51,14 +51,14 @@ ActiveRecord::Schema.define(version: 20150410111122) do
   add_index "issue_categories", ["name"], name: "index_issue_categories_on_name", unique: true, using: :btree
 
   create_table "postal_addresses", force: :cascade do |t|
-    t.text     "street_number"
-    t.text     "street_name"
     t.text     "city"
     t.text     "state"
     t.text     "zip"
     t.integer  "contact_id"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.text     "line1"
+    t.text     "line2"
   end
 
   add_index "postal_addresses", ["contact_id"], name: "index_postal_addresses_on_contact_id", using: :btree
@@ -66,8 +66,8 @@ ActiveRecord::Schema.define(version: 20150410111122) do
   create_table "representatives", id: :uuid, default: "uuid_generate_v4()", force: :cascade do |t|
     t.text    "bioguide_id"
     t.text    "title"
-    t.text    "first_name",                     null: false
-    t.text    "last_name",                      null: false
+    t.text    "first_name",                                 null: false
+    t.text    "last_name",                                  null: false
     t.text    "middle_name"
     t.text    "suffix"
     t.text    "official_full_name"
@@ -85,12 +85,13 @@ ActiveRecord::Schema.define(version: 20150410111122) do
     t.text    "status"
     t.boolean "verified"
     t.text    "profile_image_url"
-    t.text    "slug",                           null: false
+    t.text    "slug",                                       null: false
     t.text    "biography"
     t.hstore  "external_credentials"
     t.integer "user_id"
-    t.integer "name_recognition",     limit: 8
+    t.integer "name_recognition",     limit: 8, default: 0
     t.text    "seniority_date"
+    t.text    "office"
   end
 
   add_index "representatives", ["first_name", "last_name"], name: "index_representatives_on_first_name_and_last_name", using: :btree

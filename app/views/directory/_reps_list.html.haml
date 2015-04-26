@@ -5,7 +5,7 @@
         = image_tag rep.profile_image_url,
           class: "directory_pic"
     %div
-      %h4= rep.full_name
+      %h4.full_name= rep.full_name
     %div
       =rep.government_role
       |
@@ -20,3 +20,5 @@
       - if rep.verified == true
         = image_tag "http://data.matchvote.com/images/bluecheck.png",
           class: "verified", title: "Verified Account"
+= will_paginate reps
+

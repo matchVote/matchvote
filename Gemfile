@@ -11,13 +11,14 @@ gem "httparty", "~> 0.13.3"
 gem "jquery-rails", "~> 4.0.3"
 gem "pg", "~> 0.18.1"
 gem "pg_search", "~> 0.7.9"
-gem "pundit", "~> 0.3.0"
+gem "pundit", "~> 1.0.0"
 gem "rails", "4.2.0"
 gem "rails-html-sanitizer", "~> 1.0.1"
 gem "sass-rails", "~> 5.0.1"
 gem "sdoc", "~> 0.4.0", group: :doc
 gem "uglifier", "~> 2.7.1"
 gem "virility", "~> 0.1.4"
+gem "will_paginate"
 
 group :development, :test do
   gem "byebug", "~> 4.0.2"

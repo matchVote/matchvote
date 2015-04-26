@@ -97,13 +97,13 @@
   * verified : boolean
   * skipped : boolean
 
-* InferenceOpinions
-  belongs to Stance
-  belongs to User
+* InferenceOpinions  
+  belongs to Stance  
+  belongs to User  
   * agrees : boolean
 
 * StanceQuotes  
-  belongs to Stance
+  belongs to Stance  
     * quote
     * quote_url
     * quote_timestamp
