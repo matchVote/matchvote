@@ -1,6 +1,7 @@
 require "rails_helper"
 
 describe DirectoryPresenter do
+  let(:points) { [100, 88, 10] }
   let(:representatives) do
     (1..10).map { build(:representative) }
   end
@@ -8,11 +9,9 @@ describe DirectoryPresenter do
   describe "#reps" do
     context "when no sort_by is given" do
       it "sorts reps by popularity" do
-        reps = [build(:representatives, name_recognition: 100),
-                build(:representatives, name_recognition: 10),
-                build(:representatives, name_recognition: 88)]
-        presenter = described_class.new(reps)
-        expect(presenter.reps.map(&:name_recognition)).to eq [100, 88, 10]
+        points.each { |num| create(:representative, name_recognition: num) }
+        presenter = described_class.new(reps: Representative.all)
+        expect(presenter.reps.map(&:name_recognition)).to eq points
       end
     end
   end
