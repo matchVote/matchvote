@@ -11,9 +11,13 @@ class MatchvoteDataCompiler
 
   def compile_attributes
     { first_name: rep["first_name"],
+      middle_name: rep["middle_name"],
       last_name: rep["last_name"],
+      nickname: rep["nick_name"],
       state: rep["state"],
       title: rep["title"],
+      government_role: rep["title"],
+      branch: rep["branch"],
       party: find_party(rep["party"]),
       gender: rep["gender"],
       birthday: rep["birthday"],
