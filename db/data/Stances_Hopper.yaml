@@ -1,11 +1,15 @@
-- category: Energy & Environment
-   statement: I believe that global warming is a real phenomenon and caused, in part, by human activity.
-     lean: liberal
-
+- category: Energy
    statement: The United States should move towards renewable energy sources as rapidly as economically feasible.
      lean: liberal
 
-   statement: Businesses generally take environmental externalities into account, so regulations are not necessary.
+   statement: Fossil fuels are a necessary part of the United States' energy mix.
+     lean: conservative
+
+- category: Environment
+   statement: I believe that global warming is a real phenomenon and caused, in part, by human activity.
+     lean: liberal
+
+   statement: Businesses generally take the environment into account, so regulations are not necessary.
      lean: conservative
 
 - category: Government
@@ -20,12 +24,11 @@
      lean: liberal
 
 - category: Trade
-   statement: The United States should remove as many taxes and tariffs as possible that slow international trade.
+   statement: The United States should remove as many taxes and tariffs as possible because they slow international business.
      lean: conservative
 
    statement: Easing international trade policies leads to greater unemployment within the United States.
      lean: liberal
-
 
 - category: Voting
    statement: Public officials should make their political positions and campaign contributions openly available to the public.
@@ -34,10 +37,10 @@
    statement: Voters should be required to show an ID to vote.
      lean: conservative
 
-   statement: Businesses should be able to provide unlimited funding to elections and advertisements.
+   statement: Businesses should be able to provide unlimited funding to elections and campaign advertisements.
      lean: conservative
 
-   statement: The United States should move towards more publicly funded election campaigns.
+   statement: The United States should move towards more publicly funded campaigns.
      lean: liberal
 
 - category: Society
@@ -47,9 +50,6 @@
    statement: Using tax dollars to subsidize the poor encourages laziness.
      lean: conservative
 
-   statement: In criminal justice, punishment is more important than rehabilitation.
-     lean: conservative
-
    statement: Police should be required to wear always-on body cameras when on duty.
      lean: liberal
 
@@ -57,8 +57,8 @@
      lean: conservative
 
 - category: Defense
-   statement: Government doesn't spend enough on national defense.
-     lean: liberal
+   statement: The United States doesn't spend enough on national defense.
+     lean: conservative
 
    statement: Service in the military should be completely voluntary. There is never justification for a draft.
      lean: liberal
@@ -85,8 +85,8 @@
      lean: conservative
 
 - category: Gun Laws
-   statement: Government should not require background checks or mandatory registration for gun ownership.
-     lean: conservative
+   statement: Government should require background checks or mandatory registration for gun ownership.
+     lean: liberal
 
    statement: Current gun laws create too many limitations on the 2nd amendment.
      lean: conservative
@@ -95,15 +95,15 @@
    statement: Marijuana should be completely illegal for all uses.
      lean: conservative
 
-   statement: Current drug laws are unfavorable targetted towards minorities.
+   statement: The War on Drugs has produced more harm than good.
      lean: liberal
 
 - category: Economy
    statement: I believe that the free market alone should set the minimum wage.
      lean: conservative
 
-   statement: Labor unions do not play an important role in the economy.
-     lean: conservative
+   statement: Labor unions play an important role in the economy and protecting worker rights.
+     lean: liberal
 
    statement: Generally speaking, men and women are compensated equally.
      lean: conservative
@@ -119,7 +119,7 @@
    statement: The United States needs more patrolling at the Mexico border.
      lean: conservative
 
-   statement: It should be easier for immigrants to gain legal citizenship in the United States
+   statement: It should be easier for immigrants to gain legal citizenship in the United States.
      lean: liberal
 
 - category: Education
@@ -136,4 +136,11 @@
      lean: liberal
 
    statement: Teacher led prayer should be allowed in public schools.
+     lean: conservative
+
+- category: Philosophy
+   statement: Evolution is scientific fact.
+     lean: liberal
+
+   statement: I believe in life after death.
      lean: conservative
