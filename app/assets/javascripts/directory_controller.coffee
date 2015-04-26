@@ -33,13 +33,17 @@ class DirectoryController
       @showReps
 
   showReps: (html) => @$repsContainer.html(html)
-  appendReps: (html) => @$repsContainer.append(html)
+
+  appendReps: (html) =>
+    $(".pagination").remove()
+    @$repsContainer.append(html)
 
   pagination: ->
     self = @
     $(window).scroll ->
       if $(window).scrollTop() is $(document).height() - $(window).height()
         href = $(".pagination .next_page").attr("href")
+        console.log href
         self.paginateFilter(self.extractParams(href)) if href
 
   paginateFilter: (params) ->
@@ -56,5 +60,4 @@ class DirectoryController
       acc[keyValue[0]] = keyValue[1]
       acc
     ), {}
-
 

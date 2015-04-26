@@ -29,10 +29,14 @@ feature "Paginating reps" do
 
   scenario "sorting reps and scrolling to the bottom keeps them sorted", js: true do
     select("Alphabetically", from: "Sort")
+    expect(subject).to have_content("Balki")
+    expect(subject).not_to have_content("Keyser")
     scroll_to_bottom_of_page
     expect(subject).to have_content("Balki")
     expect(subject).to have_content("Keyser")
     expect(subject).not_to have_content("Söze")
+    scroll_to_bottom_of_page
+    expect(subject).to have_content("Söze")
   end
 
   scenario "fewer reps than the per page limit provides no pagination", js: true do
