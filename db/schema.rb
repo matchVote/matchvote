@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150422101754) do
+ActiveRecord::Schema.define(version: 20150427105431) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -42,10 +42,10 @@ ActiveRecord::Schema.define(version: 20150422101754) do
   add_index "inference_opinions", ["user_id"], name: "index_inference_opinions_on_user_id", using: :btree
 
   create_table "issue_categories", force: :cascade do |t|
-    t.text     "name"
+    t.text     "name",                    null: false
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.string   "keywords",   default: [], array: true
+    t.string   "keywords",   default: [],              array: true
   end
 
   add_index "issue_categories", ["name"], name: "index_issue_categories_on_name", unique: true, using: :btree
@@ -121,18 +121,23 @@ ActiveRecord::Schema.define(version: 20150422101754) do
     t.string   "opinionable_type"
     t.text     "inferred_by"
     t.boolean  "verified"
+    t.integer  "statement_id"
   end
 
   add_index "stances", ["opinionable_type", "opinionable_id"], name: "index_stances_on_opinionable_type_and_opinionable_id", using: :btree
+  add_index "stances", ["statement_id"], name: "index_stances_on_statement_id", using: :btree
 
   create_table "statements", force: :cascade do |t|
-    t.string   "text"
+    t.string   "text",              null: false
     t.integer  "issue_category_id"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.text     "lean"
+    t.integer  "lean_weight"
   end
 
   add_index "statements", ["issue_category_id"], name: "index_statements_on_issue_category_id", using: :btree
+  add_index "statements", ["text"], name: "statements_text_key", unique: true, using: :btree
 
   create_table "users", force: :cascade do |t|
     t.string   "email",                  default: "", null: false

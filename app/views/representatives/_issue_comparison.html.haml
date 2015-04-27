@@ -4,7 +4,7 @@
   - issues.each do |issue|
     %tr
       %td.col-md-6
-        %strong= issue.name
+        %strong= issue.name.humanize.titleize
       %td.col-md-5= "#{Random.rand(100)}% match"
       %td
         %button.btn.btn-xs.btn-default View Stances

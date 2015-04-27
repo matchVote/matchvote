@@ -1,4 +1,7 @@
 require "#{Rails.root}/lib/matchvote_data_compiler"
+require "#{Rails.root}/lib/legislators_data_compiler"
+require "#{Rails.root}/lib/image_url_parser"
+require "#{Rails.root}/lib/biography_sanitizer"
 
 namespace :reps do
   task import_default_data: :environment do

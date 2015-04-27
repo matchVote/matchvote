@@ -4,6 +4,6 @@ class User < ActiveRecord::Base
   devise :database_authenticatable, :registerable, :lockable,
          :recoverable, :rememberable, :trackable, :validatable
 
-  has_many :inference_opinions
+  has_many :inference_opinions, dependent: :destroy
   validates :username, presence: true
 end

@@ -29,6 +29,9 @@
   * profile_image_url
   * slug
   * biography --notdone:data_import
+  * name_recognition
+  * senority_date
+  * office
   * external_credentials  
     * bioguide_id
     * thomas_id 
@@ -84,13 +87,16 @@
 * Statements  
   has many Stances  
   belongs to IssueCategory  
-  * description
+  * text
+  * lean
+  * lean_weight
 
 * Stances  
   has many StanceQuotes  
   has many InferenceOpinions
   belongs to Representative as opinionable  
   belongs to Citizen as opinionable  
+  belongs to Statement
   * agreeance_value (-3..3)
   * importance_value (0..5)
   * inferred_by
