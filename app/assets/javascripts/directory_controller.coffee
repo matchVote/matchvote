@@ -39,12 +39,10 @@ class DirectoryController
     @$repsContainer.append(html)
 
   pagination: ->
-    self = @
-    $(window).scroll ->
+    $(window).scroll =>
       if $(window).scrollTop() is $(document).height() - $(window).height()
         href = $(".pagination .next_page").attr("href")
-        console.log href
-        self.paginateFilter(self.extractParams(href)) if href
+        @paginateFilter(@extractParams(href)) if href
 
   paginateFilter: (params) ->
     $.get "/directory/filter",
