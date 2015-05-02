@@ -1,5 +1,5 @@
 class RepresentativePolicy < ApplicationPolicy
-  def update?
+  def edit?
     user.admin? || user.profile_id == record.id
   end
 end

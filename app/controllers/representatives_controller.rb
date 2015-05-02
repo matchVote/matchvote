@@ -1,13 +1,13 @@
 class RepresentativesController < ApplicationController
-  include Pundit
-
   def show
     @rep = RepresentativePresenter.new(find_rep_by_slug)
     @issues = IssueCategory.all
   end
 
   def edit
-    @rep = RepresentativePresenter.new(find_rep_by_id)
+    rep = find_rep_by_id
+    authorize rep
+    @rep = RepresentativePresenter.new(rep)
     @issues = IssueCategory.all
   end
 
