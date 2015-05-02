@@ -15,7 +15,8 @@ feature "Signing up for a new account" do
   it { is_expected.to have_field("Username") }
   it { is_expected.to have_field("Password") }
   it { is_expected.to have_field("Confirm password") }
-  it { is_expected.to have
+  it { is_expected.to have_field("Representative Name") }
+  it { is_expected.to have_xpath("j") }
 
   context "with valid input" do
     scenario "creates a new account if email and password are valid" do
