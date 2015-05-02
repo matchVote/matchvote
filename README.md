@@ -50,6 +50,7 @@ Profile
     * Comments
 * Citizen profile/editing
 * Misc backend
+    * Send email to admin if user signs up as rep/admin
     * Add TravisCI
     * Setup email for forgotten password
     * Sign in with facebook/twitter (omniauth)

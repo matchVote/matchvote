@@ -10,11 +10,12 @@ feature "Signing up for a new account" do
     click_link "Sign Up"
   end
 
-  it { should have_content("Create Account") }
-  it { should have_field("Email") }
-  it { should have_field("Username") }
-  it { should have_field("Password") }
-  it { should have_field("Confirm password") }
+  it { is_expected.to have_content("Create Account") }
+  it { is_expected.to have_field("Email") }
+  it { is_expected.to have_field("Username") }
+  it { is_expected.to have_field("Password") }
+  it { is_expected.to have_field("Confirm password") }
+  it { is_expected.to have
 
   context "with valid input" do
     scenario "creates a new account if email and password are valid" do

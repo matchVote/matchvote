@@ -13,6 +13,10 @@
   %div
     = f.password_field :password_confirmation, autocomplete: "off", 
       placeholder: "Confirm password"
+  %div
+    = f.check_box :rep_admin
+    = f.label "I am a Rep/Admin"
+  %div= f.text_field :rep_name, placeholder: "Representative Name"
   %div= f.submit "Sign Up"
 
 = render "devise/shared/links"
