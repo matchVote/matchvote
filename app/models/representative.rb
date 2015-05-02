@@ -2,7 +2,7 @@ class Representative < ActiveRecord::Base
   include PgSearch
   has_one :contact, dependent: :destroy, inverse_of: :representative
   has_many :stances, as: :opinionable
-  belongs_to :user
+  belongs_to :profile, polymorphic: true
 
   validates :first_name, :last_name, :slug, presence: true
 
