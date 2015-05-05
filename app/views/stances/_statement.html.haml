@@ -1,0 +1,17 @@
+.col-md-10
+  .stance_card
+    .row
+      .col-md-6
+        %h4= statement.text
+      .col-md-3
+        %strong Your Stance
+        = select_tag "Agreeance", options_for_select(agreeance_values, 3), 
+          multiple: false, class: "form-control"
+      .col-md-3
+        %strong Alignment Importance
+        = select_tag "Importance", options_for_select(importance_values, 2), 
+          multiple: false, class: "form-control"
+
+.col-md-2
+  %a.btn.btn-primary.btn-block.save_btn Save Stance
+

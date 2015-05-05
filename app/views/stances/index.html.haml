@@ -11,20 +11,13 @@
     =link_to "#" do
       %span.skip Skip to Directory
 
+- @categories.each do |issue|
+  .row
+    %h2= issue.name.humanize
+    - issue.statements.each do |statement|
+      = render "statement", 
+        statement: statement, 
+        agreeance_values: @agreeance_values,
+        importance_values: @importance_values
 
-.row
-  %h2 Environment
-  .col-md-10
-    .stance_card
-      .row
-        .col-md-6
-          %h4 I believe that climate change is a real phenomenon and is caused, at least in part, by human activity and fossil fuel use.
-        .col-md-3
-          %strong Your Stance
-          = select_tag "Agreeance", "<option>Very Strongly Agree</option><option>Strongly Agree</option><option>Agree</option><option selected=&#34;selected&#34;>Neutral</option><option>Disagree</option><option>Strongly Disagree</option><option>Very Strongly Disagree</option>".html_safe, multiple: false, class: "form-control"
-        .col-md-3
-          %strong Alignment Importance
-          = select_tag "Importance", "<option>Extremely Important</option><option>Very Important</option><option selected=&#34;selected&#34;>Important</option><option>Somewhat Important</option><option>Not Very Important</option>".html_safe, multiple: false, class: "form-control"
 
-  .col-md-2
-    %a.btn.btn-primary.btn-block.save_btn Save Stance

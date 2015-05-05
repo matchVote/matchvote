@@ -5,6 +5,7 @@ class User < ActiveRecord::Base
          :recoverable, :rememberable, :trackable, :validatable
 
   has_many :inference_opinions, dependent: :destroy
+  has_many :stances, as: :opinionable
   validates :username, presence: true
 
   def profile
