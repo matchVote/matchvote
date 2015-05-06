@@ -1,4 +1,5 @@
 require "rails_helper"
+require "#{Rails.root}/lib/hopper_loader"
 
 feature "Responding to issue category statements" do
   given(:user) { create(:user) }
@@ -13,6 +14,9 @@ feature "Responding to issue category statements" do
   it { is_expected.to have_content("Neutral") }
   it { is_expected.to have_content("Very Strongly Disagree") }
   it { is_expected.to have_content("Very Important") }
+  it { is_expected.to have_content("Energy") }
+  it { is_expected.to have_content("Foreign Policy") }
+  it { is_expected.to have_content("Abortion") }
 
   context "when a stance does not exist" do
     scenario "clicking Save Stance creates a stance" do

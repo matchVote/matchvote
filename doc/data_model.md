@@ -98,7 +98,7 @@
   belongs to Citizen as opinionable  
   belongs to Statement
   * agreeance_value (-3..3)
-  * importance_value (0..5)
+  * importance_value (0..4)
   * inferred_by
   * verified : boolean
   * skipped : boolean

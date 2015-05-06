@@ -13,7 +13,7 @@
 
 - @categories.each do |issue|
   .row
-    %h2= issue.name.humanize
+    %h2= issue.name.titleize
     - issue.statements.each do |statement|
       = render "statement", 
         statement: statement, 
