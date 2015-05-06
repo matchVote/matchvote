@@ -11,13 +11,14 @@
     =link_to "#" do
       %span.skip Skip to Directory
 
-- @categories.each do |issue|
-  .row
-    %h2= issue.name.titleize
-    - issue.statements.each do |statement|
-      = render "statement", 
-        statement: statement, 
-        agreeance_values: @agreeance_values,
-        importance_values: @importance_values
+#stances_index
+  - @categories.each do |issue|
+    .row
+      %h2= issue.name.titleize
+      - issue.statements.each do |statement|
+        = render "statement", 
+          statement: statement, 
+          agreeance_values: @agreeance_values,
+          importance_values: @importance_values
 
 

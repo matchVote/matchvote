@@ -3,7 +3,7 @@ jQuery ->
   new DirectoryController()
 
 class DirectoryController
-  constructor: () ->
+  constructor: ->
     @$searchField = $("#directory_search_field")
     @$searchButton = $("#directory_search_button")
     @$sortField = $("#rep_sorter")
