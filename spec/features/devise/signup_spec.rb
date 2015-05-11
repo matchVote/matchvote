@@ -16,12 +16,18 @@ feature "Signing up for a new account" do
   it { is_expected.to have_field("Password") }
   it { is_expected.to have_field("Confirm password") }
   it { is_expected.to have_field("Representative Name") }
-  it { is_expected.to have_xpath("j") }
 
   context "with valid input" do
     scenario "creates a new account if email and password are valid" do
       signup_with email: "heybob@foobar.com", password: "@123abc!", username: "bob"
       expect(subject).to have_content("Welcome! You have signed up successfully.")
+    end
+
+    scenario "defaults user to a citizen account" do
+      signup_with email: "heybob@foobar.com", password: "@123abc!", username: "bob"
+      user = User.first
+      expect(user.profile_id).to eq user.id
+      expect(user.profile_type).to eq "User"
     end
   end
 
