@@ -1,4 +1,4 @@
-.statement{id: "statement_#{statement.id}"}
+.statement{data: { statement_id: "statement_#{statement.id}"}}
   .col-md-10
     .stance_card
       .row
@@ -13,7 +13,5 @@
           = select_tag "Importance", options_for_select(importance_values, 2), 
             class: "form-control", id: "importance_#{statement.id}"
 
-  .col-md-2
-    .btn.btn-primary.btn-block.save_btn{data: { statement_id: statement.id}} 
-      Save Stance
+  .col-md-2= button_tag "Save Stance", class: "btn btn-primary btn-block save_btn"
 

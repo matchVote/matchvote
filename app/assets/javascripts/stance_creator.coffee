@@ -11,7 +11,7 @@ class StanceCreator
 
   saveStance: ->
     $(".save_btn").click ->
-      id = $(@).data("statement_id")
+      id = $(@).data("statement-id")
       $.post "/stances",
       stance:
         agreeance_value: $("#agreeance_#{id}").val(),

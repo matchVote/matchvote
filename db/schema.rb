@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150511114105) do
+ActiveRecord::Schema.define(version: 20150512111726) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -129,7 +129,7 @@ ActiveRecord::Schema.define(version: 20150511114105) do
   add_index "stances", ["statement_id"], name: "index_stances_on_statement_id", using: :btree
 
   create_table "statements", force: :cascade do |t|
-    t.string   "text",              null: false
+    t.text     "text",              null: false
     t.integer  "issue_category_id"
     t.datetime "created_at"
     t.datetime "updated_at"

@@ -14,6 +14,9 @@ class StancesController < ApplicationController
     render text: :success
   end
 
+  def update
+  end
+
   private
     def stance_params
       params.require(:stance).permit(
