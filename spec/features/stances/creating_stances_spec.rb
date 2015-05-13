@@ -29,36 +29,39 @@ feature "Responding to issue category statements" do
       expect(find(importance).value).to eq "2"
     end
 
-    scenario "clicking Save Stance creates a stance" do
-      pending "Capybara refuses to click button"
-      fail
-      # statement_id = Statement.first.id
-      # find("button[data-statement-id='#{statement_id}']").click
-      # expect(user.stances.count).to eq 1
-      # expect(Stance.count).to be > 0
+    scenario "clicking Save Stance creates a stance", js: true do
+      statement_context = "[data-statement_id='#{statement.id}']"
+      within statement_context do
+        click_button "Save Stance"
+        expect(user.stances.count).to eq 1
+        expect(Stance.count).to be > 0
+      end
     end
   end
 
   context "when a stance does exist" do
     background do
-      @stance = create(:stance, opinionable_id: user.id, opinionable_type: "User")
+      @stance = create(:stance, opinionable: user)
+      @statement = @stance.statement
       visit stances_path
     end
 
     it { is_expected.to have_selector(".update_btn") }
 
     scenario "it shows the saved select box values for the stance" do
-      agreeance = "#agreeance_#{statement.id}"
-      importance = "#importance_#{statement.id}"
+      agreeance = "#agreeance_#{@statement.id}"
+      importance = "#importance_#{@statement.id}"
       expect(find(agreeance).value).to eq "1"
       expect(find(importance).value).to eq "3"
     end
 
     scenario "clicking Update Stance updates the stance" do
-      statement_id = @stance.statement.id
-      select "Agree", from: "agreeance_#{statement_id}"
-      find("button[data-statement-id='#{statement_id}']").click
-      expect(@stance.reload.agreeance_value).to eq "Agree"
+      statement_context = "[data-statement_id='#{@statement.id}']"
+      within statement_context do
+        select "Strongly Disagree", from: "Agreeance"
+        click_button "Update Stance"
+        expect(@stance.reload.agreeance_value).to eq "Strongly Disagree"
+      end
     end
   end
 end

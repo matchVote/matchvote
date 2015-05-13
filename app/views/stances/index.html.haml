@@ -18,6 +18,7 @@
       - issue.statements.each do |statement|
         = render "statement", 
           statement: statement, 
+          stance: statement.find_stance_for_user(current_user) || Stance.new,
           agreeance_values: @agreeance_values,
           importance_values: @importance_values
 

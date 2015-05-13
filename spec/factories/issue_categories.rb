@@ -1,6 +1,6 @@
 FactoryGirl.define do
   factory :issue_category do
-    name "Some Issue"
+    sequence(:name) { |n| "Issue#{n}" }
   end
 end
 

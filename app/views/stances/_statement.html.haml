@@ -1,4 +1,4 @@
-.statement{data: { statement_id: "statement_#{statement.id}"}}
+.statement{data: { statement_id: statement.id }}
   .col-md-10
     .stance_card
       .row
@@ -6,12 +6,18 @@
           %h4= statement.text
         .col-md-3
           %strong Your Stance
-          = select_tag "Agreeance", options_for_select(agreeance_values, 0), 
+          = select_tag "Agreeance", 
+            options_for_select(agreeance_values, stance.agreeance_integer_value), 
             class: "form-control", id: "agreeance_#{statement.id}"
         .col-md-3
           %strong Alignment Importance
-          = select_tag "Importance", options_for_select(importance_values, 2), 
+          = select_tag "Importance", 
+            options_for_select(importance_values, stance.importance_integer_value), 
             class: "form-control", id: "importance_#{statement.id}"
 
-  .col-md-2= button_tag "Save Stance", class: "btn btn-primary btn-block save_btn"
+  .col-md-2
+    - if stance.new_record? 
+      = render "save_stance_button" 
+    - else  
+      = render "update_stance_button"
 
