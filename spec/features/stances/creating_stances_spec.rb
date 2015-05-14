@@ -30,7 +30,7 @@ feature "Responding to issue category statements" do
     end
 
     scenario "clicking Save Stance creates a stance", js: true do
-      statement_context = "[data-statement_id='#{statement.id}']"
+      statement_context = "[data-statement-id='#{statement.id}']"
       within statement_context do
         click_button "Save Stance"
         expect(user.stances.count).to eq 1
@@ -43,6 +43,7 @@ feature "Responding to issue category statements" do
     background do
       @stance = create(:stance, opinionable: user)
       @statement = @stance.statement
+      @statement_context = "[data-statement-id='#{@statement.id}']"
       visit stances_path
     end
 
@@ -55,9 +56,8 @@ feature "Responding to issue category statements" do
       expect(find(importance).value).to eq "3"
     end
 
-    scenario "clicking Update Stance updates the stance" do
-      statement_context = "[data-statement_id='#{@statement.id}']"
-      within statement_context do
+    scenario "clicking Update Stance updates the stance", js: true do
+      within @statement_context do
         select "Strongly Disagree", from: "Agreeance"
         click_button "Update Stance"
         expect(@stance.reload.agreeance_value).to eq "Strongly Disagree"
