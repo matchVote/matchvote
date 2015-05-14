@@ -15,7 +15,7 @@
             options_for_select(importance_values, stance.importance_integer_value), 
             class: "form-control", id: "importance_#{statement.id}"
 
-  .col-md-2
+  .col-md-2.stance_button
     - if stance.new_record? 
       = render "save_stance_button" 
     - else  

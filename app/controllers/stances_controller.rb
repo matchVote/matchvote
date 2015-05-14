@@ -11,7 +11,7 @@ class StancesController < ApplicationController
       importance_value: stance_params[:importance_value].to_i,
       opinionable_id: current_user.profile_id,
       opinionable_type: current_user.profile_type))
-    render text: :success
+    render partial: "update_stance_button"
   end
 
   def update

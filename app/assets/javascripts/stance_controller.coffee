@@ -4,20 +4,26 @@ jQuery ->
 
 class StanceController
   constructor: ->
+    @$saveButton = null
     @bindEvents()
 
   bindEvents: ->
     @saveStance()
-    @updateStance()
+    # @updateStance()
 
   saveStance: ->
-    $(".save_btn").on "click", (event) ->
-      $button = $(event.target)
-      id = $button.parents(".statement").data("statement_id")
+    $(".stance_button").on "click", ".save_btn", (event) =>
+      @$saveButton = $(event.target)
+      id = @$saveButton.parents(".statement").data("statement_id")
       $.post "/stances",
         stance:
           agreeance_value: $("#agreeance_#{id}").val(),
           importance_value: $("#importance_#{id}").val(),
           statement_id: id,
-        -> $button.text("Stance Saved!")
+        @displayButton
+
+  displayButton: (html) =>
+    @$saveButton.text("Stance saved!")
+    $stanceButton = @$saveButton.parent()
+    setTimeout (=> $stanceButton.html(html)), 2000
 
