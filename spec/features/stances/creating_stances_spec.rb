@@ -33,6 +33,7 @@ feature "Responding to issue category statements" do
       statement_context = "[data-statement-id='#{statement.id}']"
       within statement_context do
         click_button "Save Stance"
+        wait_for_ajax
         expect(user.stances.count).to eq 1
         expect(Stance.count).to be > 0
       end
@@ -60,6 +61,7 @@ feature "Responding to issue category statements" do
       within @statement_context do
         select "Strongly Disagree", from: "Agreeance"
         click_button "Update Stance"
+        wait_for_ajax
         expect(@stance.reload.agreeance_value).to eq "Strongly Disagree"
       end
     end

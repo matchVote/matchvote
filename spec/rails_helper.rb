@@ -2,6 +2,7 @@ ENV["RAILS_ENV"] ||= 'test'
 require 'spec_helper'
 require File.expand_path("../../config/environment", __FILE__)
 require 'rspec/rails'
+require "support/wait_for_ajax"
 
 # The following line is provided for convenience purposes. It has the downside
 # of increasing the boot-up time by auto-requiring all files in the support
@@ -39,6 +40,7 @@ RSpec.configure do |config|
   config.infer_spec_type_from_file_location!
   config.include FactoryGirl::Syntax::Methods
   config.include Warden::Test::Helpers
+  config.include WaitForAjax, type: :feature
 
   config.before(:suite) do
     Warden.test_mode!
