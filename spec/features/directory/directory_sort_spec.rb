@@ -2,6 +2,7 @@ require "rails_helper"
 require "support/rep_creation"
 require "support/matchers/appear_before"
 require "support/directory"
+require "support/wait_for_ajax"
 
 feature "Sorting reps" do
   given(:user) { create(:user) }
@@ -23,6 +24,7 @@ feature "Sorting reps" do
 
   scenario "alphabetically", js: true do
     select("Alphabetically", from: "Sort")
+    wait_for_ajax
     expect("Alice Carpenter").to appear_before("Bob Carpenter")
     expect("Bob Carpenter").to appear_before("Gene Krupa")
     expect("Gene Krupa").to appear_before("David Krusty")
