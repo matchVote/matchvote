@@ -4,8 +4,10 @@ matchVote keeps you up-to-date with what's happening in politics by finding
 the politicians that agree and disagree with what's important to you.
 
 #### Development Setup  
+    brew install phantomjs                     # needed for tests
     bin/setup
     bundle exec rake import:all_default_data
+    rspec                                      # to make sure all is well
 
 #### Deployment Process
     bundle exec rake deploy:heroku
