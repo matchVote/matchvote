@@ -203,31 +203,6 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Bill_Clinton.png
 
 - rep_status: Out of Office
-  state: CA
-  title: Governor
-  first_name: Arnold
-  middle_name: Alois
-  last_name: Schwarzenegger
-  address:
-  fax:
-  tel:
-  email:
-  contact_form_url: http://www.schwarzenegger.com/contact
-  web: http://www.schwarzenegger.com/
-  took_office:
-  term_ends:
-  party: D
-  gender: Male
-  birthday: 1947-07-30
-  religion: Catholic
-  orientation: Straight
-  facebook: https://www.facebook.com/arnold
-  twitter: https://twitter.com/schwarzenegger
-  youtube: https://www.youtube.com/user/GovSchwarzenegger
-  wiki: http://en.wikipedia.org/wiki/Arnold_Schwarzenegger
-  profile_pic: http://data.matchvote.com/images/2015/highprofile/Arnold_Schwarzenegger.png
-
-- rep_status: Out of Office
   state: DC
   title: Vice President
   first_name: Richard
@@ -499,4 +474,3 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Jeb_bush
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Jeb_Bush.png
-
