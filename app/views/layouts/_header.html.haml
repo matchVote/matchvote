@@ -6,6 +6,19 @@
           = link_to root_path do
             = image_tag "http://matchvote.com/wp-content/uploads/2015/01/mv.png",
               class: "mvlogo"
+        %ul.nav.navbar-nav.navdrop
+          %li
+            %a{:href => ""}
+              %span.glyphicon.glyphicon-chevron-down
+            %ul
+              %li
+                = link_to "Directory", root_path
+              %li
+                = link_to "Newsfeed", root_path
+              %li
+                = link_to "Elections", root_path
+              %li.last
+                = link_to "Stances", stances_path
         %ul.nav.navbar-nav.navbar-right
           %span.pull-left
             = link_to edit_user_registration_path(current_user) do

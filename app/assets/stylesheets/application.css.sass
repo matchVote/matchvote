@@ -23,6 +23,50 @@
   -webkit-box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.1)
   -moz-box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.1)
   box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.1)
+.navdrop
+  margin-left: 20px
+.navdrop li
+  background: #f3f3f3
+.navdrop ul
+  font-family: Arial, Verdana
+  font-size: 18px
+  margin: 0
+  padding: 0
+  list-style: none
+  a
+    text-decoration: none
+.navdrop li
+  display: block
+  position: relative
+  float: left
+
+.navdrop li ul
+  display: none
+
+.navdrop ul li a
+  display: block
+  text-decoration: none
+  color: #333
+  padding: 5px 15px 5px 15px
+  background: #fff
+  white-space: nowrap
+  -webkit-box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.3)
+  -moz-box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.3)
+  box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.3)
+  &:hover
+    background: #f3f3f3
+
+.navdrop li:hover
+  ul
+    display: block
+    position: absolute
+  li
+    float: none
+    font-size: 16px
+  a
+    background: #fff
+  li a:hover
+    background: #f3f3f3
 
 .mvlogo
   padding-top: 7px

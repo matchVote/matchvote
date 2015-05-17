@@ -15,9 +15,9 @@ class Stance < ActiveRecord::Base
                           "Strongly Disagree"      => -2,
                           "Very Strongly Disagree" => -3 }
 
-  enum importance_value: { "Very Important" => 4,
-                           "Important"      => 3,
-                           "Neutral"           => 2,
+  enum importance_value: { "Extremely Important" => 4,
+                           "Very Important"      => 3,
+                           "Important"           => 2,
                            "Somewhat Important"  => 1,
                            "Not Very Important"  => 0 }
 
