@@ -9,6 +9,7 @@
         %ul.nav.navbar-nav.navdrop
           %li
             %a{:href => ""}
+              %span.navdrop-text Directory
               %span.glyphicon.glyphicon-chevron-down
             %ul
               %li
@@ -18,7 +19,7 @@
               %li
                 = link_to "Elections", root_path
               %li.last
-                = link_to "Stances", stances_path
+                = link_to "My Stances", stances_path
         %ul.nav.navbar-nav.navbar-right
           %span.pull-left
             = link_to edit_user_registration_path(current_user) do
