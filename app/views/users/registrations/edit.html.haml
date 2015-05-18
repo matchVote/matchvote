@@ -8,6 +8,10 @@
 
   .whitecard
     %h2 Edit Stances
+    - if @stances_presenter.has_stances?
+      = render "stances", presenter: @stances_presenter
+    - else
+      You have no stances to edit.
 
 .col-md-4
   .whitecard

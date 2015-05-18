@@ -1,5 +1,6 @@
 require "rails_helper"
 require "support/directory"
+require "support/wait_for_ajax"
 
 feature "Paginating reps" do
   given(:user) { create(:user) }
@@ -24,6 +25,7 @@ feature "Paginating reps" do
 
   scenario "scrolling to the bottom appends the next page of reps", js: true do
     scroll_to_bottom_of_page
+    wait_for_ajax
     expect(subject.all(".directory_block").size).to eq(per_page * 2)
   end
 

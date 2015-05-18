@@ -67,7 +67,7 @@ feature "Editing account settings" do
 
     scenario "redirects back to home page" do
       click_button "Cancel my account"
-      expect(subject).to have_content("Sign Up")
+      expect(subject).to have_content("Create Account")
     end
   end
 end

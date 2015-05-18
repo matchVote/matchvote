@@ -33,8 +33,8 @@ group :test do
   gem "capybara", "~> 2.4.4"
   gem "database_cleaner", "~> 1.4.1"
   gem "factory_girl_rails", "~> 4.5.0"
+  gem "poltergeist", "~> 1.6.0"
   gem "rspec-rails", "~> 3.2.1"
-  gem "selenium-webdriver"
   gem "webmock", "~> 1.21.0"
 end
 

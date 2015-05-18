@@ -7,10 +7,10 @@ feature "Signing up for a new account" do
 
   background do
     visit root_path
-    click_link "Sign Up"
+    click_link "Create Account"
   end
 
-  it { is_expected.to have_content("Create Account") }
+  it { is_expected.to have_content("Join matchVote") }
   it { is_expected.to have_field("Email") }
   it { is_expected.to have_field("Username") }
   it { is_expected.to have_field("Password") }
