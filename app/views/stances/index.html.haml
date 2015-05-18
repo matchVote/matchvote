@@ -1,20 +1,60 @@
 .row
   .stances_menu
-    .col-md-8
+    .col-md-6
       %h3 Where do you stand on the following issues?
-      %h5 For each of the statements below, please answer in two parts:
-      %ul
-        %li Whether or not you agree with the statement.
-        %li How important it is for elected officials to align with your stance.
-    .col-md-4
+      %h5 Save at least 20 stances to be matched with elected officials in the Directory. The more stances you save, the more accurately you will be matched.
+    .col-md-6
+      %center
+        %h3 You've saved 5 of 42 possible stances.
+        %span.glyphicon.glyphicon-star
+        %span.glyphicon.glyphicon-star
+        %span.glyphicon.glyphicon-star
+        %span.glyphicon.glyphicon-star
+        %span.glyphicon.glyphicon-star
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %br
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
+        %span.glyphicon.glyphicon-star-empty
 
-#stances_index
-  - @categories.each do |issue|
-    .row
-      %h2= issue.name.titleize
-      - issue.statements.each do |statement|
-        = render "statement",
-          statement: statement,
-          stance: statement.find_stance_for_user(current_user) || Stance.new,
-          agreeance_values: @agreeance_values,
-          importance_values: @importance_values
+  #stances_index
+    - @categories.each do |issue|
+      .row
+        %h2= issue.name.titleize
+        - issue.statements.each do |statement|
+          = render "statement",
+            statement: statement,
+            stance: statement.find_stance_for_user(current_user) || Stance.new,
+            agreeance_values: @agreeance_values,
+            importance_values: @importance_values

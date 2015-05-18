@@ -85,8 +85,8 @@
   last_name: Clinton
   address:
   fax:
-  tel:
-  email:
+  tel:  646-854-1432
+  email: info@hillaryclinton.com
   web: http://www.hillaryclinton.com/
   took_office:
   term_ends:
@@ -96,7 +96,7 @@
   birthday: 1947-10-26
   religion: Methodist
   orientation: Straight
-  facebook: https://www.facebook.com/Hillary2016
+  facebook: https://www.facebook.com/hillaryclinton
   twitter: https://twitter.com/hillaryclinton
   youtube:
   wiki: http://en.wikipedia.org/wiki/Hillary_Rodham_Clinton
@@ -353,7 +353,7 @@
 
 - rep_status: Running
   state: DC
-  title:
+  title: Candidate
   first_name: Benjamin
   middle_name: Solomon
   last_name: Carson
