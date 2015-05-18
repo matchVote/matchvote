@@ -27,7 +27,6 @@
   margin-left: 15px
   a span
     color: #ccc
-    margin-top: 1px
 .navdrop-text
   font-size: 14px
   font-weight: 600
@@ -37,17 +36,19 @@
   position: relative
   top: 2px
 .navdrop li
-  background: #f3f3f3
+  background: -webkit-linear-gradient(#fff, #efefef)
+  background: -o-linear-gradient(#fff, #efefef)
+  background: -moz-linear-gradient(#fff, #efefef)
+  background: linear-gradient(#fff, #efefef)
+  display: block
+  position: relative
+  float: left
 .navdrop ul
   margin: 0
   padding: 0
   list-style: none
   a
     text-decoration: none
-.navdrop li
-  display: block
-  position: relative
-  float: left
 
 .navdrop li ul
   display: none
@@ -56,14 +57,14 @@
   display: block
   text-decoration: none
   color: #333
-  padding: 4px 30px 7px 20px
+  padding: 6px 30px 7px 20px
   background: #fff
   white-space: nowrap
   -webkit-box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.3)
   -moz-box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.3)
   box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.3)
   &:hover
-    background: #f3f3f3
+    background: #efefef
 
 .navdrop li:hover
   ul
@@ -75,7 +76,7 @@
   a
     background: #fff
   li a:hover
-    background: #f3f3f3
+    background: #efefef
 
 .mvlogo
   padding-top: 7px

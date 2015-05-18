@@ -998,7 +998,8 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Earl_Ray_Tomblin
 
-- state: Governor
+- state: Wisconsin
+  title: Governor
   first_name: Scott
   last_name: Walker
   address: State Capitol, P.O. Box 7863, Madison, WI 53707-7863

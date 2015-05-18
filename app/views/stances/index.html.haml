@@ -7,19 +7,14 @@
         %li Whether or not you agree with the statement.
         %li How important it is for elected officials to align with your stance.
     .col-md-4
-  %span.pull-right
-    =link_to "#" do
-      %span.skip Skip to Directory
 
 #stances_index
   - @categories.each do |issue|
     .row
       %h2= issue.name.titleize
       - issue.statements.each do |statement|
-        = render "statement", 
-          statement: statement, 
+        = render "statement",
+          statement: statement,
           stance: statement.find_stance_for_user(current_user) || Stance.new,
           agreeance_values: @agreeance_values,
           importance_values: @importance_values
-
-
