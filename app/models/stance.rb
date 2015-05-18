@@ -28,4 +28,9 @@ class Stance < ActiveRecord::Base
   def importance_integer_value
     self[:importance_value] || DEFAULT_IMPORTANCE
   end
+
+  def issue_category
+    statement.issue_category
+  end
 end
+

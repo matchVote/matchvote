@@ -43,5 +43,3 @@ class StanceController
           @$updateButton.text("Stance updated!")
           setTimeout (=> @$updateButton.text("Update Stance")), 2000)
       
-
-
