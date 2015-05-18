@@ -1,20 +1,28 @@
+= render "layouts/preloginheader"
+%body.landing-background
 .row
   .col-md-8
+    %br
     .jumbotron
-      %h2 Automatically follow the political positions and news for 1,337 elected officials in the US
-      %p.introtext
+      %center
+        = render "landingpics"
+        %h2 Automatically follow the political positions and news for 608 elected officials in the US
+      %p.landing_text
         matchVote keeps you up-to-date with what's happening in politics by finding the politicians that agree and disagree with what's important to you. Get notifications when elected officials change their positions:
+      %center
         %strong
-          %ul
-            %li 9 US Presidential Candidates
-            %li 435 US Senators & Representatives
-            %li 666 State Senators & Representatives
-            %li 227 Mayors & City Councilors
-      %div
-        = link_to "#" do
-          %a.btn.btn-lg.btn-danger Get Started
-
-  .col-md-1
+          %span 24 US Presidential Candidates  -
+          %span 535 US Senators & Representatives  -
+          %span 50 State Governors
+        %br
+        %br
+        %a= link_to "Get Started", "/users/sign_up", class: "btn btn-lg btn-danger"
+        %br
+        .landing_links
+          %a= link_to "About matchVote", "/about"
+          %a= link_to "How it Works", "/about"
+          %a= link_to "Our Team", "/about"
+          %a= link_to "Investors", "/about"
 
   .col-md-3
     %br
@@ -28,8 +36,9 @@
         %div
           = f.check_box :remember_me
           = f.label :remember_me
+          %a= link_to "Forgot Password?", "/users/password/new", class: "pull-right"
       %br
-      %div= f.submit "Sign In", class: ["btn","btn-primary"]
-    %br
-    %br
-    = render "devise/shared/links"
+      .col-md-5
+        %div= f.submit "Sign In", class: ["btn","btn-primary"]
+      .col-md-7
+        %a= link_to "Create Account", "/users/sign_up", class: "btn btn-default"

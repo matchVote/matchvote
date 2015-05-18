@@ -8,7 +8,7 @@ feature "Reseting password" do
 
   background do
     visit root_path
-    click_link "Forgot your password?"
+    click_link "Forgot Password?"
   end
 
   context "with valid email address" do
