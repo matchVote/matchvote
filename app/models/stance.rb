@@ -1,32 +1,49 @@
 class Stance < ActiveRecord::Base
-  DEFAULT_AGREEANCE = 0
-  DEFAULT_IMPORTANCE = 2
-
   has_many :stance_quotes, dependent: :destroy
   has_many :inference_opinions
   belongs_to :statement
   belongs_to :opinionable, polymorphic: true
 
-  enum agreeance_value: { "Very Strongly Agree"    =>  3,
-                          "Strongly Agree"         =>  2,
-                          "Agree"                  =>  1,
-                          "Neutral"                =>  0,
-                          "Disagree"               => -1,
-                          "Strongly Disagree"      => -2,
-                          "Very Strongly Disagree" => -3 }
+  AGREEANCE_VALUES = {
+     3 => "Very Strongly Agree",
+     2 => "Strongly Agree",
+     1 => "Agree",
+     0 => "Neutral",
+    -1 => "Disagree",
+    -2 => "Strongly Disagree",
+    -3 => "Very Strongly Disagree"
+  }
 
-  enum importance_value: { "Extremely Important" => 4,
-                           "Very Important"      => 3,
-                           "Important"           => 2,
-                           "Somewhat Important"  => 1,
-                           "Not Very Important"  => 0 }
+  IMPORTANCE_VALUES = { 
+    4 => "Very Important",
+    3 => "Important",
+    2 => "Neutral",
+    1 => "Somewhat Important",
+    0 => "Not Very Important"
+  }
 
-  def agreeance_integer_value
-    self[:agreeance_value] || DEFAULT_AGREEANCE
+  def self.importance_values
+    IMPORTANCE_VALUES.invert
   end
 
-  def importance_integer_value
-    self[:importance_value] || DEFAULT_IMPORTANCE
+  def self.agreeance_values
+    AGREEANCE_VALUES.invert
+  end
+
+  def agreeance_value
+    self[:agreeance_value] || 0
+  end
+
+  def importance_value
+    self[:importance_value] || 2
+  end
+
+  def agreeance_value_string
+    AGREEANCE_VALUES[agreeance_value]
+  end
+
+  def importance_value_string
+    IMPORTANCE_VALUES[importance_value]
   end
 
   def issue_category
