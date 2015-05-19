@@ -54,7 +54,7 @@ feature "Responding to issue category statements" do
       agreeance = "#agreeance_#{@statement.id}"
       importance = "#importance_#{@statement.id}"
       expect(find(agreeance).value).to eq "1"
-      expect(find(importance).value).to eq "3"
+      expect(find(importance).value).to eq "4"
     end
 
     scenario "clicking Update Stance updates the stance", js: true do
@@ -63,8 +63,8 @@ feature "Responding to issue category statements" do
         select "Not Very Important", from: "Importance"
         click_button "Update Stance"
         wait_for_ajax
-        expect(@stance.reload.agreeance_value).to eq "Strongly Disagree"
-        expect(@stance.reload.importance_value).to eq "Not Very Important"
+        expect(@stance.reload.agreeance_value_string).to eq "Strongly Disagree"
+        expect(@stance.reload.importance_value_string).to eq "Not Very Important"
       end
     end
   end

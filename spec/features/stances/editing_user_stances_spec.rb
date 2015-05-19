@@ -40,13 +40,13 @@ feature "Editing a user's stances" do
       stance = Stance.first
       within "#stance[data-stance-id='#{stance.id}']" do
         select "Very Strongly Disagree", from: "Agreeance"
-        select "Extremely Important", from: "Importance"
+        select "Very Important", from: "Importance"
         click_button "Update Stance"
       end
 
       wait_for_ajax
-      expect(stance.reload.agreeance_value).to eq "Very Strongly Disagree"
-      expect(stance.reload.importance_value).to eq "Extremely Important"
+      expect(stance.reload.agreeance_value_string).to eq "Very Strongly Disagree"
+      expect(stance.reload.importance_value_string).to eq "Very Important"
     end
   end
 end
