@@ -21,4 +21,4 @@ class UserStanceUpdater
             importance_value: $("#importance_#{stanceId}").val()
         success: =>
           $(@).text("Stance updated!")
-          setTimeout (=> $(@).text("Update Stance")), 2000 }
+          setTimeout (=> $(@).text("Update Stance")), 1500 }

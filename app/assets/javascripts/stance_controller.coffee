@@ -25,14 +25,14 @@ class StanceController
   displayUpdateButton: (html) =>
     @$saveButton.text("Stance saved!")
     $stanceButton = @$saveButton.parent()
-    setTimeout (=> $stanceButton.html(html)), 2000
+    setTimeout (=> $stanceButton.html(html)), 1500
 
   updateStance: ->
     $(".stance_button").on "click", ".update_btn", (event) =>
       @$updateButton = $(event.target)
       statementId = @$updateButton.parents(".statement").data("statementId")
       stanceId = @$updateButton.data("stanceId")
-      $.ajax(
+      $.ajax {
         type: "PATCH",
         url: "/stances/#{stanceId}",
         data:
@@ -41,5 +41,5 @@ class StanceController
             importance_value: $("#importance_#{statementId}").val()
         success: =>
           @$updateButton.text("Stance updated!")
-          setTimeout (=> @$updateButton.text("Update Stance")), 2000)
+          setTimeout (=> @$updateButton.text("Update Stance")), 1500 }
       
