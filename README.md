@@ -51,9 +51,10 @@ Profile
     * Summary
     * Comments
 * Citizen profile/editing
+  * Profile image
 * Misc backend
     * Send email to admin if user signs up as rep/admin
-    * Add TravisCI
+    * Add Snap-CI
     * Setup email for forgotten password
     * Sign in with facebook/twitter (omniauth)
     * Data:
