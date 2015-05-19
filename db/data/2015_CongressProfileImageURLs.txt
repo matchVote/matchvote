@@ -62,7 +62,7 @@ http://data.matchvote.com/images/2015/congress/Carlos_Curbelo.png
 http://data.matchvote.com/images/2015/congress/Carolyn_Maloney.png
 http://data.matchvote.com/images/2015/congress/Cathy_McMorris_Rodgers.png
 http://data.matchvote.com/images/2015/congress/Cedric_Richmond.png
-http://data.matchvote.com/images/2015/congress/Chaka_Farrah.png
+http://data.matchvote.com/images/2015/congress/Chaka_Fattah.png
 http://data.matchvote.com/images/2015/congress/Charles_Boustany.png
 http://data.matchvote.com/images/2015/congress/Charles_Rangel.png
 http://data.matchvote.com/images/2015/congress/Charlie_Dent.png
