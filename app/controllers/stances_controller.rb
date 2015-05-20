@@ -16,6 +16,14 @@ class StancesController < ApplicationController
     render text: :success
   end
 
+  def destroy
+    stance = Stance.find(params[:id])
+    authorize stance
+    stance.destroy
+    render partial: "statement", 
+      locals: { statement: stance.statement, stance: Stance.new }
+  end
+
   private
     def stance_params
       params.require(:stance).permit(

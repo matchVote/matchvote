@@ -53,7 +53,8 @@
       .row
         %h2= issue.name.titleize
         - issue.statements.each do |statement|
-          = render "statement",
-            statement: statement,
-            stance: statement.find_stance_for_user(current_user) || Stance.new
+          .statement{data: { statement_id: statement.id }}
+            = render "statement",
+              statement: statement,
+              stance: statement.find_stance_for_user(current_user) || Stance.new
 

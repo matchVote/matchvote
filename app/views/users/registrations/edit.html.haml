@@ -1,7 +1,6 @@
 .col-md-8
   .whitecard
-    %h2
-      = current_user.username
+    %h2= current_user.username
 
   .whitecard
     %h2 Privacy Settings
@@ -53,3 +52,4 @@
         data: { confirm: "Are you sure?" }, 
         method: :delete, 
         class: ["btn", "btn-danger"]
+

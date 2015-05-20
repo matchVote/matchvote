@@ -1,23 +1,22 @@
-.statement{data: { statement_id: statement.id }}
-  .col-md-10
-    .stance_card
-      .row
-        .col-md-1
-        .col-md-7
-          %h4= statement.text
-          .well
-            %strong Do you agree with this statement?
-            = select_tag "Agreeance",
-              options_for_select(Stance.agreeance_values, stance.agreeance_value),
-              class: "form-control", id: "agreeance_#{statement.id}"
-            %br
-            %strong How important is it that your elected officials agree with you?
-            = select_tag "Importance",
-              options_for_select(Stance.importance_values, stance.importance_value),
-              class: "form-control", id: "importance_#{statement.id}"
-        .col-md-1
-        .col-md-2.stance_button
-          - if stance.new_record?
-            = render "save_stance_button"
-          - else
-            = render "update_stance_button", stance: stance
+.col-md-10
+  .stance_card
+    .row
+      .col-md-1
+      .col-md-7
+        %h4= statement.text
+        .well
+          %strong Do you agree with this statement?
+          = select_tag "Agreeance",
+            options_for_select(Stance.agreeance_values, stance.agreeance_value),
+            class: "form-control", id: "agreeance_#{statement.id}"
+          %br
+          %strong How important is it that your elected officials agree with you?
+          = select_tag "Importance",
+            options_for_select(Stance.importance_values, stance.importance_value),
+            class: "form-control", id: "importance_#{statement.id}"
+      .col-md-1
+      .col-md-2.stance_button
+        - if stance.new_record?
+          = render "save_stance_button"
+        - else
+          = render "update_stance_button", stance: stance

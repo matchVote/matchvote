@@ -19,9 +19,11 @@ feature "Editing a user's stances" do
   end
 
   context "when user has stances" do
-    background do
-      create_stances(user)
-      visit edit_user_registration_path(user)
+    background do |example|
+      unless example.metadata[:skip_before]
+        create_stances(user)
+        visit edit_user_registration_path(user)
+      end
     end
 
     scenario "lists all stance issues" do
@@ -36,7 +38,7 @@ feature "Editing a user's stances" do
       expect(subject).to have_content("Abortion statement 2")
     end
 
-    scenario "clicking Update Stance updates the stance", js: true do
+    scenario "clicking Update Stance updates the stance", :js do
       stance = Stance.first
       within "#stance[data-stance-id='#{stance.id}']" do
         select "Very Strongly Disagree", from: "Agreeance"
@@ -47,6 +49,27 @@ feature "Editing a user's stances" do
       wait_for_ajax
       expect(stance.reload.agreeance_value_string).to eq "Very Strongly Disagree"
       expect(stance.reload.importance_value_string).to eq "Very Important"
+    end
+
+    scenario "clicking Delete Stance deletes the stance", :js do
+      stance = Stance.first
+      within "#stance[data-stance-id='#{stance.id}']" do
+        click_button "Delete Stance"
+        wait_for_ajax
+        expect(user.stances.count).to eq 3
+      end
+      expect(subject).not_to have_content /#{stance.statement.text}/
+    end
+
+    scenario "deleting the last stance for an issue removes the issue", :js, :skip_before do
+      stance = create_one_stance
+      visit edit_user_registration_path(user)
+      within "#stance[data-stance-id='#{stance.id}']" do
+        click_button "Delete Stance"
+      end
+
+      wait_for_ajax
+      expect(subject).not_to have_content("Temp Name")
     end
   end
 end
