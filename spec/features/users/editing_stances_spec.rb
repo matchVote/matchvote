@@ -40,7 +40,7 @@ feature "Editing a user's stances" do
 
     scenario "clicking Update Stance updates the stance", :js do
       stance = Stance.first
-      within "#stance[data-stance-id='#{stance.id}']" do
+      within ".stance[data-stance-id='#{stance.id}']" do
         select "Very Strongly Disagree", from: "Agreeance"
         select "Very Important", from: "Importance"
         click_button "Update Stance"
@@ -53,7 +53,7 @@ feature "Editing a user's stances" do
 
     scenario "clicking Delete Stance deletes the stance", :js do
       stance = Stance.first
-      within "#stance[data-stance-id='#{stance.id}']" do
+      within ".stance[data-stance-id='#{stance.id}']" do
         click_button "Delete Stance"
         wait_for_ajax
         expect(user.stances.count).to eq 3
@@ -61,10 +61,11 @@ feature "Editing a user's stances" do
       expect(subject).not_to have_content /#{stance.statement.text}/
     end
 
-    scenario "deleting the last stance for an issue removes the issue", :js, :skip_before do
+    scenario "deleting the last stance for an issue removes the issue", 
+      :js, :skip_before do
       stance = create_one_stance
       visit edit_user_registration_path(user)
-      within "#stance[data-stance-id='#{stance.id}']" do
+      within ".stance[data-stance-id='#{stance.id}']" do
         click_button "Delete Stance"
       end
 

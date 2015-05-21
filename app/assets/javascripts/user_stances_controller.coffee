@@ -35,6 +35,6 @@ class UserStancesController
 
   removeStance: ($stance) ->
     $issue = $stance.parents(".issue")
-    stanceCount = $issue.children(".stances").length
+    stanceCount = $issue.children(".stance").length
     if stanceCount is 1 then $issue.remove() else $stance.remove()
 
