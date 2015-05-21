@@ -14,7 +14,7 @@
           = select_tag "Importance",
             options_for_select(Stance.importance_values, stance.importance_value),
             class: "form-control", id: "importance_#{statement.id}"
-      .col-md-3.stance_button
+      .col-md-3
         - if stance.new_record?
           = render "save_stance_button"
         - else

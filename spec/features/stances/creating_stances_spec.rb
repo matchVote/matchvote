@@ -38,6 +38,34 @@ feature "Responding to issue category statements" do
         expect(Stance.count).to be > 0
       end
     end
+
+    context "after saving a stance without refreshing", :js do
+      background do
+        @statement_context = "[data-statement-id='#{statement.id}']"
+        within @statement_context do
+          click_button "Save Stance"
+          wait_for_ajax
+        end
+      end
+
+      scenario "clicking Update Stance works" do
+        within @statement_context do
+          select "Strongly Disagree", from: "Agreeance"
+          click_button "Update Stance"
+          wait_for_ajax
+          expect(Stance.first.agreeance_value_string).to eq "Strongly Disagree"
+        end
+      end
+
+      scenario "clicking Clear Stance works" do
+        within @statement_context do
+          select "Strongly Disagree", from: "Agreeance"
+          click_button "Update Stance"
+          wait_for_ajax
+          expect(Stance.first.agreeance_value_string).to eq "Strongly Disagree"
+        end
+      end
+    end
   end
 
   context "when a stance does exist" do
@@ -68,6 +96,31 @@ feature "Responding to issue category statements" do
       end
     end
 
+    context "after updating a stance without refreshing", :js do
+      scenario "clicking Update Stance works" do
+        within @statement_context do
+          click_button "Update Stance"
+          wait_for_ajax
+
+          select "Disagree", from: "Agreeance"
+          click_button "Update Stance"
+          wait_for_ajax
+          expect(@stance.reload.agreeance_value_string).to eq "Disagree"
+        end
+      end
+
+      scenario "clicking Clear Stance works" do
+        within @statement_context do
+          click_button "Update Stance"
+          wait_for_ajax
+
+          click_button "Clear Stance"
+          wait_for_ajax
+          expect(user.stances.count).to eq 0
+        end
+      end
+    end
+
     scenario "clicking Clear Stance deletes the stance", js: true do
       within @statement_context do
         click_button "Clear Stance"
@@ -84,6 +137,20 @@ feature "Responding to issue category statements" do
         expect(subject).not_to have_button "Clear Stance"
         expect(find("#agreeance_#{@statement.id}").value).to eq "0"
         expect(find("#importance_#{@statement.id}").value).to eq "2"
+      end
+    end
+
+    context "after clearing a stance without refreshing", :js do
+      scenario "clicking Save Stance works" do
+        within @statement_context do
+          click_button "Clear Stance"
+          wait_for_ajax
+          expect(user.stances.count).to eq 0
+
+          click_button "Save Stance"
+          wait_for_ajax
+          expect(user.stances.count).to eq 1
+        end
       end
     end
   end
