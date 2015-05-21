@@ -23,13 +23,13 @@ feature "Paginating reps" do
     expect(subject.all(".directory_block").size).to eq per_page
   end
 
-  scenario "scrolling to the bottom appends the next page of reps", js: true do
+  scenario "scrolling to the bottom appends the next page of reps", :js do
     scroll_to_bottom_of_page
     wait_for_ajax
     expect(subject.all(".directory_block").size).to eq(per_page * 2)
   end
 
-  scenario "sorting reps and scrolling to the bottom keeps them sorted", js: true do
+  scenario "sorting reps and scrolling to the bottom keeps them sorted", :js do
     select("Alphabetically", from: "Sort")
     expect(subject).to have_content("Balki")
     expect(subject).not_to have_content("Keyser")
@@ -41,7 +41,7 @@ feature "Paginating reps" do
     expect(subject).to have_content("Söze")
   end
 
-  scenario "fewer reps than the per page limit provides no pagination", js: true do
+  scenario "fewer reps than the per page limit provides no pagination", :js do
     search_for "Keyser"
     scroll_to_bottom_of_page
     expect(subject).to have_no_selector(".pagination")
