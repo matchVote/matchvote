@@ -12,7 +12,7 @@ class StancesController
     @deleteStance()
 
   saveStance: ->
-    $(".stance_button").on "click", ".save_btn", (event) =>
+    $(".statement").on "click", ".save_btn", (event) =>
       @$saveButton = $(event.target)
       id = @$saveButton.parents(".statement").data("statementId")
       $.post "/stances",
@@ -28,7 +28,7 @@ class StancesController
     setTimeout (=> $stanceButton.html(html)), 1500
 
   updateStance: ->
-    $(".stance_button").on "click", ".update_btn", (event) =>
+    $(".statement").on "click", ".update_btn", (event) =>
       @$updateButton = $(event.target)
       statementId = @$updateButton.parents(".statement").data("statementId")
       stanceId = @$updateButton.data("stanceId")
@@ -44,7 +44,7 @@ class StancesController
           setTimeout (=> @$updateButton.text("Update Stance")), 1500 }
       
   deleteStance: ->
-    $(".stance_button").on "click", ".delete_btn", (event) =>
+    $(".statement").on "click", ".delete_btn", (event) =>
       @$deleteButton = $(event.target)
       statementId = @$deleteButton.parents(".statement").data("statementId")
       stanceId = @$deleteButton.data("stanceId")
