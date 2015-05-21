@@ -51,10 +51,10 @@ feature "Editing a user's stances" do
       expect(stance.reload.importance_value_string).to eq "Very Important"
     end
 
-    scenario "clicking Delete Stance deletes the stance", :js do
+    scenario "clicking Clear Stance deletes the stance", :js do
       stance = Stance.first
       within ".stance[data-stance-id='#{stance.id}']" do
-        click_button "Delete Stance"
+        click_button "Clear Stance"
         wait_for_ajax
         expect(user.stances.count).to eq 3
       end
@@ -66,7 +66,7 @@ feature "Editing a user's stances" do
       stance = create_one_stance
       visit edit_user_registration_path(user)
       within ".stance[data-stance-id='#{stance.id}']" do
-        click_button "Delete Stance"
+        click_button "Clear Stance"
       end
 
       wait_for_ajax
