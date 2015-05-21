@@ -29,7 +29,7 @@ describe CivicData::Service do
 
   describe "#save_file" do
     it "saves a string with the given filename" do
-      test_file = "#{Rails.root}/tmp/test.txt"
+      test_file = "#{Rails.root}/log/test.txt"
       subject.save_file("hey there", test_file)
       expect(File.exist?(test_file)).to eq true
       File.delete(test_file)
