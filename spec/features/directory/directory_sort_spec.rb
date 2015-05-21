@@ -14,7 +14,7 @@ feature "Sorting reps" do
     visit root_path
   end
 
-  scenario "remains filtered by search when a new sort is used", js: true do
+  scenario "remains filtered by search when a new sort is used", :js do
     search_for "Carpenter"
     select("Alphabetically", from: "Sort")
     expect(subject).to have_content "Alice Carpenter"
@@ -22,7 +22,7 @@ feature "Sorting reps" do
     expect(subject).not_to have_content "Gene Krupa"
   end
 
-  scenario "alphabetically", js: true do
+  scenario "alphabetically", :js do
     select("Alphabetically", from: "Sort")
     wait_for_ajax
     expect("Alice Carpenter").to appear_before("Bob Carpenter")
@@ -31,37 +31,37 @@ feature "Sorting reps" do
     expect("David Krusty").to appear_before("Buddy Rich")
   end
 
-  scenario "by name recognition", js: true do
+  scenario "by name recognition", :js do
     pending "Test not written"
     fail
   end
 
-  scenario "by age", js: true do
+  scenario "by age", :js do
     pending "Test not written"
     fail
   end
 
-  scenario "by seniority", js: true do
+  scenario "by seniority", :js do
     pending "Test not written"
     fail
   end
 
-  scenario "by most similar views", js: true do
+  scenario "by most similar views", :js do
     pending "Not implemented"
     fail
   end
 
-  scenario "by least similar views", js: true do
+  scenario "by least similar views", :js do
     pending "Not implemented"
     fail
   end
 
-  scenario "by state", js: true do
+  scenario "by state", :js do
     pending "Not implemented"
     fail
   end
 
-  scenario "by approval rating", js: true do
+  scenario "by approval rating", :js do
     pending "Not implemented"
     fail
   end

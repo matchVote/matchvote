@@ -29,7 +29,7 @@ feature "Responding to issue category statements" do
       expect(find(importance).value).to eq "2"
     end
 
-    scenario "clicking Save Stance creates a stance", js: true do
+    scenario "clicking Save Stance creates a stance", :js do
       statement_context = "[data-statement-id='#{statement.id}']"
       within statement_context do
         click_button "Save Stance"
@@ -85,7 +85,7 @@ feature "Responding to issue category statements" do
       expect(find(importance).value).to eq "4"
     end
 
-    scenario "clicking Update Stance updates the stance", js: true do
+    scenario "clicking Update Stance updates the stance", :js do
       within @statement_context do
         select "Strongly Disagree", from: "Agreeance"
         select "Not Very Important", from: "Importance"
@@ -121,7 +121,7 @@ feature "Responding to issue category statements" do
       end
     end
 
-    scenario "clicking Clear Stance deletes the stance", js: true do
+    scenario "clicking Clear Stance deletes the stance", :js do
       within @statement_context do
         click_button "Clear Stance"
         wait_for_ajax
@@ -129,7 +129,7 @@ feature "Responding to issue category statements" do
       end
     end
 
-    scenario "clicking Clear Stance resets the form", js: true do
+    scenario "clicking Clear Stance resets the form", :js do
       within @statement_context do
         click_button "Clear Stance"
         wait_for_ajax

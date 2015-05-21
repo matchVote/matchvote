@@ -15,21 +15,21 @@ feature "Searching for reps by name" do
 
   it { is_expected.to have_content "Find elected officials" }
 
-  scenario "displays reps matching first name", js: true do
+  scenario "displays reps matching first name", :js do
     search_for "Jackson"
     expect(subject).to have_content "Jackson Franklin"
     expect(subject).not_to have_content "Barbara Walters"
     expect(subject).not_to have_content "Mannie Armstrong"
   end
 
-  scenario "displays reps matching last name", js: true do
+  scenario "displays reps matching last name", :js do
     search_for "Walters"
     expect(subject).to have_content "Barbara Walters"
     expect(subject).not_to have_content "Mannie Sanders"
     expect(subject).not_to have_content "Jackson Franklin"
   end
 
-  scenario "displays reps matching nickname", js: true do
+  scenario "displays reps matching nickname", :js do
     search_for "Mannie"
     expect(subject).to have_content "Mannie Sanders"
     expect(subject).to have_content "Mannie Armstrong"
@@ -38,9 +38,10 @@ feature "Searching for reps by name" do
     expect(subject).not_to have_content "Barbara Walters"
   end
 
-  scenario "keeps the reps sorted by previous sort order", js: true do
-    select("Alphabetically", from: "Sort")
+  scenario "keeps the reps sorted by previous sort order", :js do
+    select "Alphabetically", from: "Sort"
     search_for "Mannie"
+    wait_for_ajax
     expect("Mannie Armstrong").to appear_before("Mannie Nunkle")
     expect("Mannie Nunkle").to appear_before("Mannie Sanders")
   end
