@@ -1,15 +1,15 @@
 jQuery ->
   return unless $("#stances_index").length
-  new StanceController()
+  new StancesController()
 
-class StanceController
+class StancesController
   constructor: ->
-    @$saveButton = null
     @bindEvents()
 
   bindEvents: ->
     @saveStance()
     @updateStance()
+    @deleteStance()
 
   saveStance: ->
     $(".stance_button").on "click", ".save_btn", (event) =>
@@ -43,3 +43,14 @@ class StanceController
           @$updateButton.text("Stance updated!")
           setTimeout (=> @$updateButton.text("Update Stance")), 1500 }
       
+  deleteStance: ->
+    $(".stance_button").on "click", ".delete_btn", (event) =>
+      @$deleteButton = $(event.target)
+      statementId = @$deleteButton.parents(".statement").data("statementId")
+      stanceId = @$deleteButton.data("stanceId")
+      $.ajax {
+        type: "DELETE",
+        url: "/stances/#{stanceId}",
+        success: (html) ->
+          $(".statement[data-statement-id='#{statementId}']").html(html) }
+

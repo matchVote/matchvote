@@ -67,6 +67,25 @@ feature "Responding to issue category statements" do
         expect(@stance.reload.importance_value_string).to eq "Not Very Important"
       end
     end
+
+    scenario "clicking Clear Stance deletes the stance", js: true do
+      within @statement_context do
+        click_button "Clear Stance"
+        wait_for_ajax
+        expect(user.stances.count).to eq 0
+      end
+    end
+
+    scenario "clicking Clear Stance resets the form", js: true do
+      within @statement_context do
+        click_button "Clear Stance"
+        wait_for_ajax
+        expect(subject).to have_button "Save Stance"
+        expect(subject).not_to have_button "Clear Stance"
+        expect(find("#agreeance_#{@statement.id}").value).to eq "0"
+        expect(find("#importance_#{@statement.id}").value).to eq "2"
+      end
+    end
   end
 end
 
