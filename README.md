@@ -61,6 +61,7 @@ Profile
         * Bio Errors: Evan Jenkins, French Hill, Luis Gutierrez
         * Donor data
 * Misc frontend
+    * add SweetAlerts
     * Remove social media links if reps don't have an account
     * New styling of Rep Profile Contact Info
     * Style create account page
