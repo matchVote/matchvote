@@ -54,7 +54,6 @@ Profile
   * Profile image
 * Misc backend
     * Send email to admin if user signs up as rep/admin
-    * Add Snap-CI
     * Setup email for forgotten password
     * Sign in with facebook/twitter (omniauth)
     * Data:
