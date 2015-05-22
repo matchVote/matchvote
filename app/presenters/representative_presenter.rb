@@ -14,7 +14,7 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def nickname_or_first_name
-    nickname.blank? ? first_name.capitalize : nickname
+    nickname.blank? ? first_name.split.map(&:capitalize).join(' ') : nickname
   end
 
   def citizen_ratings_total
