@@ -18,16 +18,19 @@ feature "Signing up for a new account" do
   it { is_expected.to have_field("Representative Name") }
 
   context "with valid input" do
-    scenario "creates a new account if email and password are valid" do
+    background do
       signup_with email: "heybob@foobar.com", password: "@123abc!", username: "bob"
-      expect(subject).to have_content("Welcome! You have signed up successfully.")
     end
 
-    scenario "defaults user to a citizen account" do
-      signup_with email: "heybob@foobar.com", password: "@123abc!", username: "bob"
+    scenario "creates new user and defaults it to a citizen account" do
+      expect(User.count).to eq 1
       user = User.first
       expect(user.profile_id).to eq user.id
       expect(user.profile_type).to eq "User"
+    end
+
+    scenario "redirects to stances page" do
+      expect(current_path).to eq stances_path
     end
   end
 
@@ -58,3 +61,4 @@ feature "Signing up for a new account" do
     end
   end
 end
+
