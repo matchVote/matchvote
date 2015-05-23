@@ -1,8 +1,8 @@
 #edit_user_stances
   - presenter.issues.each do |issue|
     .issue{data: { issue_id: issue.id }}
+      .btn.btn-default.pull-right Expand
       %h3= issue.name.titleize
-
       - presenter.stances_for_issue(issue).each do |stance|
         .stance{data: { stance_id: stance.id }}
           .row
@@ -11,13 +11,14 @@
           .row
             .col-md-4
               %strong Your Stance
-              = select_tag "Agreeance", 
+              = select_tag "Agreeance",
                 options_for_select(Stance.agreeance_values, stance.agreeance_value),
                 class: "form-control", id: "agreeance_#{stance.id}"
             .col-md-4
               %strong Alignment Importance
-              = select_tag "Importance", 
+              = select_tag "Importance",
                 options_for_select(Stance.importance_values, stance.importance_value),
                 class: "form-control", id: "importance_#{stance.id}"
             .col-md-3.edit_stance_button
               = render "stances/update_stance_button", stance: stance
+      %hr        

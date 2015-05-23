@@ -1,12 +1,28 @@
+%br
+%center
+  %h1 Everything we have about you and your political views.
+%br
 .col-md-8
   .whitecard
-    %h2= current_user.username
+    %h2 @#{current_user.username}
+    %hr
+    .container
+      .col-md-3
+        %div Name:
+        %div Gender:
+        %div Birthday:
+        %div Party:
+        %div Religion:
+      .col-md-5
+        %div Phone:
+        %div Address:
+        %div City:
+        %div State:
+        %div ZIP:
 
   .whitecard
-    %h2 Privacy Settings
-
-  .whitecard
-    %h2 Edit Stances
+    %h2 Edit Saved Stances
+    %hr
     - if @stances_presenter.has_stances?
       = render "stances", presenter: @stances_presenter
     - else
@@ -14,7 +30,8 @@
 
 .col-md-4
   .whitecard
-    %h4 Edit Email & Password
+    %h2 Email & Password
+    %hr
     = form_for(resource, as: resource_name, url: registration_path(resource_name),
       html: { method: :put }) do |f|
       = devise_error_messages!
@@ -44,12 +61,26 @@
       %br
       %div= f.submit "Update", class: ["btn", "btn-primary"]
 
-  .well
-    %h3 Cancel My Account
+  .whitecard
+    %h2 Privacy Settings
+    %hr
+    %span
+      By default, we don't publicly share any of your personally identifiable information. Some of your data is sent to third parties, but it never contains your name, contact information, or anything else that would indicate who you are. If you want to allow other users on matchVote to see your political views, you can do so by editing your privacy settings.
+      %a More info
+    %br
+    %br
+    .btn.btn-primary Edit Privacy
+
+  .whitecard
+    %h2 Cancel Account
+    %hr
+    %span
+      Canceling your account will permanently remove all of your personal information from matchVote. However, some non-identifiable polling data that is based on your account activity is still retained.
+      %a More info
+    %br
     %br
     %div
-      = button_to "Cancel my account", registration_path(resource_name),
-        data: { confirm: "Are you sure?" }, 
-        method: :delete, 
+      = button_to "Cancel Account", registration_path(resource_name),
+        data: { confirm: "Are you sure?" },
+        method: :delete,
         class: ["btn", "btn-danger"]
-
