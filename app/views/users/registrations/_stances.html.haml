@@ -7,7 +7,7 @@
         .stance{data: { stance_id: stance.id }}
           .row
             .col-md-12
-              %h5= stance.statement.text
+              %h4= stance.statement.text
           .row
             .col-md-4
               %strong Your Stance
@@ -19,6 +19,7 @@
               = select_tag "Importance",
                 options_for_select(Stance.importance_values, stance.importance_value),
                 class: "form-control", id: "importance_#{stance.id}"
+            .col-md-1
             .col-md-3.edit_stance_button
               = render "stances/update_stance_button", stance: stance
-      %hr        
+      %hr

@@ -1,5 +1,6 @@
 %br
 %center
+  %button.btn.btn-sm.btn-default.pull-right View Public Profile
   %h1 Everything we have about you and your political views.
 %br
 .col-md-8
@@ -26,7 +27,8 @@
     - if @stances_presenter.has_stances?
       = render "stances", presenter: @stances_presenter
     - else
-      You have no stances to edit.
+      You haven't saved any stances yet.
+      = link_to "Click here add your political stances.", stances_path
 
 .col-md-4
   .whitecard
@@ -36,8 +38,8 @@
       html: { method: :put }) do |f|
       = devise_error_messages!
 
-      %div= f.label :email
-      = f.email_field :email, class: "form-control", autofocus: true
+      %div= f.label "Update Email"
+      = f.email_field :email, class: "form-control", autofocus: false
       - if devise_mapping.confirmable? && resource.pending_reconfirmation?
         %div "Currently waiting confirmation for: #{resource.unconfirmed_email}"
       %br

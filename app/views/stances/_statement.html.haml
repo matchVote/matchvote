@@ -10,7 +10,7 @@
             options_for_select(Stance.agreeance_values, stance.agreeance_value),
             class: "form-control", id: "agreeance_#{statement.id}"
           %br
-          %strong How important is it that your elected officials agree with you?
+          %strong How important is it that elected officials align with your view?
           = select_tag "Importance",
             options_for_select(Stance.importance_values, stance.importance_value),
             class: "form-control", id: "importance_#{statement.id}"
@@ -19,4 +19,3 @@
           = render "save_stance_button"
         - else
           = render "update_stance_button", stance: stance
-

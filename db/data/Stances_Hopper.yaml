@@ -18,6 +18,8 @@ government:
     lean: conservative
   - statment: The two major political parties should spend more time working together and be willing to compromise.
     lean: liberal
+  - statement: State governments should have equal or more power than the federal government.
+    lean: conservative
 
 # - category: Foreign Policy
 foreign_policy:
@@ -137,4 +139,3 @@ philosophy:
     lean: liberal
   - statement: I believe in life after death.
     lean: conservative
-
