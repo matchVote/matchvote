@@ -1,6 +1,6 @@
 # took_office date format: YYYY-MM-DD
 
-- state: Alabama
+- state: AL
   title: Governor
   first_name: Robert
   last_name: Bentley
@@ -12,7 +12,8 @@
   took_office: 2011-01-17
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1943-02-03
   religion: Southern Baptist
   orientation: Straight
@@ -21,7 +22,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Robert_J._Bentley
 
-- state: Alaska
+- state: AK
   title: Governor
   first_name: Bill
   last_name: Walker
@@ -33,7 +34,8 @@
   took_office: 2014-12-01
   term_ends: 2018
   party: I
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1951-04-16
   religion: Christian
   orientation: Straight
@@ -42,7 +44,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Bill_Walker_(American_politician)
 
-- state: Arizona
+- state: AZ
   title: Governor
   first_name: Doug
   last_name: Ducey
@@ -54,7 +56,8 @@
   took_office: 2015-01-05
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1964-09-04
   religion: Catholic
   orientation: Straight
@@ -63,7 +66,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Doug_Ducey
 
-- state: Arkansas
+- state: AR
   title: Governor
   first_name: Asa
   last_name: Hutchinson
@@ -75,7 +78,8 @@
   took_office: 2015-01-13
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1950-12-03
   religion: Southern Baptist
   orientation: Straight
@@ -84,7 +88,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Asa_Hutchinson
 
-- state: California
+- state: CA
   title: Governor
   first_name: Jerry
   last_name: Brown
@@ -96,7 +100,8 @@
   took_office: 2011-01-03
   term_ends: 2019
   party: D
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1938-04-07
   religion: Catholic
   orientation: Straight
@@ -105,7 +110,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Jerry_Brown
 
-- state: Colorado
+- state: CO
   title: Governor
   first_name: John
   last_name: Hickenlooper
@@ -117,7 +122,8 @@
   took_office: 2011-01-11
   term_ends: 2019
   party: D
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1952-02-07
   religion:
   orientation: Straight
@@ -126,7 +132,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/John_Hickenlooper
 
-- state: Connecticut
+- state: CT
   title: Governor
   first_name: Dannel
   last_name: Malloy
@@ -139,7 +145,8 @@
   took_office: 2011-01-05
   term_ends: 2019
   party: D
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1955-07-21
   religion: Catholic
   orientation: Straight
@@ -148,7 +155,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Dannel_Malloy
 
-- state: Delaware
+- state: DE
   title: Governor
   first_name: Jack
   last_name: Markell
@@ -160,7 +167,8 @@
   took_office: 2009-01-20
   term_ends: 2017
   party: D
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1960-11-26
   religion: Judaism
   orientation: Straight
@@ -169,7 +177,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Jack_Markell
 
-- state: Florida
+- state: FL
   title: Governor
   first_name: Rick
   last_name: Scott
@@ -181,7 +189,8 @@
   took_office: 2011-01-04
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1952-12-01
   religion: Evangelical
   orientation: Straight
@@ -190,7 +199,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Rick_Scott
 
-- state: Georgia
+- state: GA
   title: Governor
   first_name: Nathan
   last_name: Deal
@@ -202,7 +211,8 @@
   took_office: 2011-01-10
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1942-08-25
   religion: Baptist
   orientation: Straight
@@ -212,7 +222,7 @@
   wiki: http://en.wikipedia.org/wiki/Nathan_Deal
 
 
-- state: Hawaii
+- state: HI
   title: Governor
   first_name: David
   last_name: Ige
@@ -224,7 +234,8 @@
   took_office: 2014-12-01
   term_ends: 2018
   party: D
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1957-01-15
   religion: Buddhism
   orientation: Straight
@@ -233,7 +244,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/David_Ige
 
-- state: Idaho
+- state: ID
   title: Governor
   first_name: Butch
   last_name: Otter
@@ -244,7 +255,8 @@
   took_office: 2007-01-01
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1942-05-03
   religion: Catholic
   orientation: Straight
@@ -253,7 +265,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Butch_Otter
 
-- state: Illinois
+- state: IL
   title: Governor
   first_name: Bruce
   last_name: Rauner
@@ -265,7 +277,8 @@
   took_office: 2015-01-12
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1957-02-18
   religion: Judaism
   orientation: Straight
@@ -274,7 +287,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Bruce_Rauner
 
-- state: Indiana
+- state: IN
   title: Governor
   first_name: Mike
   last_name: Pence
@@ -286,7 +299,8 @@
   took_office: 2013-01-14
   term_ends: 2017
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1959-06-07
   religion: Evangelical
   orientation: Straight
@@ -295,7 +309,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Mike_Pence
 
-- state: Iowa
+- state: IA
   title: Governor
   first_name: Terry
   last_name: Branstad
@@ -306,7 +320,8 @@
   took_office: 2011-01-14
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1946-11-17
   religion: Catholic
   orientation: Straight
@@ -315,7 +330,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Terry_Branstad
 
-- state: Kansas
+- state: KS
   title: Governor
   first_name: Sam
   last_name: Brownback
@@ -327,7 +342,8 @@
   took_office: 2011-01-10
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1956-09-12
   religion: Catholic
   orientation: Straight
@@ -336,7 +352,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Sam_Brownback
 
-- state: Kentucky
+- state: KY
   title: Governor
   first_name: Steve
   last_name: Beshear
@@ -348,7 +364,8 @@
   took_office: 2007-12-11
   term_ends: 2015
   party: D
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1944-09-21
   religion: Baptist
   orientation: Straight
@@ -357,7 +374,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Steve_Beshear
 
-- state: Louisiana
+- state: LA
   title: Governor
   first_name: Bobby
   last_name: Jindal
@@ -369,7 +386,8 @@
   took_office: 2008-01-14
   term_ends: 2016
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1971-06-10
   religion: Catholic
   orientation: Straight
@@ -378,7 +396,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Bobby_Jindal
 
-- state: Maine
+- state: ME
   title: Governor
   first_name: Paul
   last_name: LePage
@@ -390,7 +408,8 @@
   took_office: 2011-01-05
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1948-10-09
   religion: Catholic
   orientation: Straight
@@ -399,7 +418,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Paul_LePage
 
-- state: Maryland
+- state: MD
   title: Governor
   first_name: Larry
   last_name: Hogan
@@ -411,7 +430,8 @@
   took_office: 2015-01-21
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1956-05-25
   religion: Catholic
   orientation: Straight
@@ -420,7 +440,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Larry_Hogan
 
-- state: Massachusetts
+- state: MA
   title: Governor
   first_name: Charlie
   last_name: Baker
@@ -432,7 +452,8 @@
   took_office: 2015-01-08
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1956-11-13
   religion: Christian
   orientation: Straight
@@ -441,7 +462,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Charlie_Baker
 
-- state: Michigan
+- state: MI
   title: Governor
   first_name: Rick
   last_name: Snyder
@@ -453,7 +474,8 @@
   took_office: 2011-01-01
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1958-08-19
   religion: Presbyterian
   orientation: Straight
@@ -462,7 +484,8 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Rick_Snyder
 
-- state: Governor
+- state: MN
+  title: Governor
   first_name: Mark
   last_name: Dayton
   address: 130 State Capitol, St. Paul, MN 55155
@@ -473,7 +496,8 @@
   took_office: 2011-01-03
   term_ends: 2019
   party: D
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1947-01-26
   religion: Presbyterian
   orientation: Straight
@@ -482,7 +506,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Mark_Dayton
 
-- state: Mississippi
+- state: MS
   title: Governor
   first_name: Phil
   last_name: Bryant
@@ -493,7 +517,8 @@
   took_office: 2012-01-10
   term_ends: 2016
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1954-12-09
   religion: Methodist
   orientation: Straight
@@ -502,7 +527,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Phil_Bryant
 
-- state: Missouri
+- state: MO
   title: Governor
   first_name: Jay
   last_name: Nixon
@@ -514,7 +539,8 @@
   took_office: 2009-01-12
   term_ends: 2017
   party: D
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1956-02-13
   religion: Methodist
   orientation: Straight
@@ -523,7 +549,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Jay_Nixon
 
-- state: Montana
+- state: MT
   title: Governor
   first_name: Steve
   last_name: Bullock
@@ -534,7 +560,8 @@
   took_office: 2013-01-07
   term_ends: 2017
   party: D
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1966-04-11
   religion: Catholic
   orientation: Straight
@@ -543,7 +570,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Steve_Bullock_(Montana_politician)
 
-- state: Nebraska
+- state: NE
   title: Governor
   first_name: Pete
   last_name: Ricketts
@@ -555,7 +582,8 @@
   took_office: 2015-01-08
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1964-08-19
   religion: Catholic
   orientation: Straight
@@ -564,7 +592,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Pete_Ricketts
 
-- state: Nevada
+- state: NV
   title: Governor
   first_name: Brian
   last_name: Sandoval
@@ -576,7 +604,8 @@
   took_office: 2011-01-03
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1963-08-05
   religion: Catholic
   orientation: Straight
@@ -585,7 +614,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Brian_Sandoval
 
-- state: New Hampshire
+- state: NH
   title: Governor
   first_name: Maggie
   last_name: Hassan
@@ -596,7 +625,8 @@
   took_office: 2013-01-03
   term_ends: 2017
   party: D
-  gender: Female
+  branch: executive
+  gender:  Female
   birthday: 1958-02-27
   religion: Christian
   orientation: Straight
@@ -605,7 +635,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Maggie_Hassan
 
-- state: New Jersey
+- state: NJ
   title: Governor
   first_name: Chris
   last_name: Christie
@@ -616,7 +646,8 @@
   took_office: 2010-01-19
   term_ends: 2018
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1962-09-06
   religion: Catholic
   orientation: Straight
@@ -625,7 +656,8 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Chris_Christie
 
-- state: Governor
+- state: NM
+  title: Governor
   first_name: Susana
   last_name: Martinez
   address: State Capitol Bldg., Santa Fe, NM 87503
@@ -636,7 +668,8 @@
   took_office: 2011-01-01
   term_ends: 2019
   party: R
-  gender: Female
+  branch: executive
+  gender:  Female
   birthday: 1959-07-14
   religion: Catholic
   orientation: Straight
@@ -645,7 +678,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Susana_Martinez
 
-- state: New York
+- state: NY
   title: Governor
   first_name: Andrew
   last_name: Cuomo
@@ -657,7 +690,8 @@
   took_office: 2011-01-01
   term_ends: 2019
   party: D
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1957-12-06
   religion: Catholic
   orientation: Straight
@@ -666,7 +700,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Andrew_Cuomo
 
-- state: North Carolina
+- state: NC
   title: Governor
   first_name: Pat
   last_name: McCrory
@@ -678,7 +712,8 @@
   took_office: 2013-01-05
   term_ends: 2017
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1956-10-17
   religion: Presbyterian
   orientation: Straight
@@ -687,7 +722,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Pat_McCrory
 
-- state: North Dakota
+- state: ND
   title: Governor
   first_name: Jack
   last_name: Dalrymple
@@ -699,7 +734,8 @@
   took_office: 2010-12-07
   term_ends: 2016
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1948-10-16
   religion: Presbyterian
   orientation: Straight
@@ -708,7 +744,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Jack_Dalrymple
 
-- state: Ohio
+- state: OH
   title: Governor
   first_name: John
   last_name: Kasich
@@ -719,7 +755,8 @@
   took_office: 2011-01-10
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1952-05-13
   religion: Anglican
   orientation: Straight
@@ -728,7 +765,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/John_Kasich
 
-- state: Oklahoma
+- state: OK
   title: Governor
   first_name: Mary
   last_name: Fallin
@@ -740,7 +777,8 @@
   took_office: 2011-01-10
   term_ends: 2019
   party: R
-  gender: Female
+  branch: executive
+  gender:  Female
   birthday: 1954-12-09
   religion: Christian
   orientation: Straight
@@ -749,7 +787,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Mary_Fallin
 
-- state: Oregon
+- state: OR
   title: Governor
   first_name: Kate
   last_name: Brown
@@ -760,7 +798,8 @@
   took_office: 2015-02-18
   term_ends: 2016
   party: D
-  gender: Female
+  branch: executive
+  gender:  Female
   birthday: 1960-06-21
   religion: Unknown
   orientation: Bisexual
@@ -769,7 +808,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Kate_Brown
 
-- state: Pennsylvania
+- state: PA
   title: Governor
   first_name: Tom
   last_name: Wolf
@@ -781,7 +820,8 @@
   took_office: 2015-01-20
   term_ends: 2019
   party: D
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1948-12-17
   religion: Episcopalian
   orientation: Straight
@@ -790,7 +830,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Tom_Wolf_(politician)
 
-- state: Rhode Island
+- state: RI
   title: Governor
   first_name: Gina
   last_name: Raimondo
@@ -802,7 +842,8 @@
   took_office: 2015-01-06
   term_ends: 2019
   party: D
-  gender: Female
+  branch: executive
+  gender:  Female
   birthday: 1971-05-17
   religion: Unknown
   orientation: Straight
@@ -811,7 +852,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Gina_Raimondo
 
-- state: South Carolina
+- state: SC
   title: Governor
   first_name: Nikki
   last_name: Haley
@@ -823,7 +864,8 @@
   took_office: 2011-01-12
   term_ends: 2019
   party: R
-  gender: Female
+  branch: executive
+  gender:  Female
   birthday: 1972-01-20
   religion: Methodist
   orientation: Straight
@@ -832,7 +874,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Nikki_Haley
 
-- state: South Dakota
+- state: SD
   title: Governor
   first_name: Dennis
   last_name: Daugaard
@@ -844,7 +886,8 @@
   took_office: 2011-01-08
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1953-06-11
   religion: Lutheran
   orientation: Straight
@@ -853,7 +896,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Dennis_Daugaard
 
-- state: Tennessee
+- state: TN
   title: Governor
   first_name: Bill
   last_name: Haslam
@@ -865,7 +908,8 @@
   took_office: 2011-01-15
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1958-08-23
   religion: Presbyterian
   orientation: Straight
@@ -874,7 +918,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Bill_Haslam
 
-- state: Texas
+- state: TX
   title: Governor
   first_name: Greg
   last_name: Abbott
@@ -886,7 +930,8 @@
   took_office: 2015-01-20
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1957-11-13
   religion: Catholic
   orientation: Straight
@@ -895,7 +940,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Greg_Abbott
 
-- state: Utah
+- state: UT
   title: Governor
   first_name: Gary
   last_name: Herbert
@@ -907,7 +952,8 @@
   took_office: 2009-08-11
   term_ends: 2017
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1947-05-07
   religion: Mormon
   orientation: Straight
@@ -916,7 +962,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Gary_Herbert
 
-- state: Vermont
+- state: VT
   title: Governor
   first_name: Peter
   last_name: Shumlin
@@ -928,7 +974,8 @@
   took_office: 2011-01-06
   term_ends: 2017
   party: D
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1956-03-24
   religion: Unknown
   orientation: Straight
@@ -937,7 +984,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Peter_Shumlin
 
-- state: Virginia
+- state: VA
   title: Governor
   first_name: Terry
   last_name: McAuliffe
@@ -948,7 +995,8 @@
   took_office: 2014-01-11
   term_ends: 2018
   party: D
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1957-02-09
   religion: Catholic
   orientation: Straight
@@ -957,7 +1005,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Terry_McAuliffe
 
-- state: Washington
+- state: WA
   title: Governor
   first_name: Jay
   last_name: Inslee
@@ -969,7 +1017,8 @@
   took_office: 2013-01-16
   term_ends: 2017
   party: D
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1951-02-09
   religion: Christian
   orientation: Straight
@@ -978,7 +1027,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Jay_Inslee
 
-- state: West Virginia
+- state: WV
   title: Governor
   first_name: Earl Ray
   last_name: Tomblin
@@ -990,7 +1039,8 @@
   took_office: 2010-11-15
   term_ends: 2017
   party: D
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1952-03-15
   religion: Presbyterian
   orientation: Straight
@@ -999,7 +1049,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Earl_Ray_Tomblin
 
-- state: Wisconsin
+- state: WI
   title: Governor
   first_name: Scott
   last_name: Walker
@@ -1011,7 +1061,8 @@
   took_office: 2011-01-03
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1967-11-02
   religion: Evangelical
   orientation: Straight
@@ -1020,7 +1071,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Scott_Walker_(politician)
 
-- state: Wyoming
+- state: WY
   title: Governor
   first_name: Matt
   last_name: Mead
@@ -1032,7 +1083,8 @@
   took_office: 2011-01-03
   term_ends: 2019
   party: R
-  gender: Male
+  branch: executive
+  gender:  Male
   birthday: 1962-03-11
   religion: Episcopalian
   orientation: Straight

@@ -7,7 +7,7 @@ energy:
 
 # - category: Environment
 environment:
-  - statement: I believe that global warming is a real phenomenon and caused, in part, by human activity.
+  - statement: I believe that global warming is a real phenomenon and caused by human activity.
     lean: liberal
   - statement: Businesses generally take the environment into account, so regulations are not necessary.
     lean: conservative
@@ -39,7 +39,7 @@ voting:
     lean: liberal
   - statement: Voters should be required to show an ID to vote.
     lean: conservative
-  - statement: Businesses should be able to provide unlimited funding to elections and campaign advertisements.
+  - statement: Businesses & organizations should be able to provide unlimited funding to elections and campaign advertisements.
     lean: conservative
   - statement: The United States should move towards more publicly funded campaigns.
     lean: liberal
@@ -57,7 +57,7 @@ society:
 
 # - category: Defense
 defense:
-  - statement: "The United States doesn't spend enough on national defense."
+  - statement: The United States does not spend enough on national defense.
     lean: conservative
   - statement: Service in the military should be completely voluntary. There is never justification for a draft.
     lean: liberal
@@ -80,7 +80,7 @@ abortion:
 individual_rights:
   - statement: Gay and lesbian people need additional protection under the law.
     lean: liberal
-  - statement: "Racism isn't really a problem in the United States anymore, and minorities are generally treated equally."
+  - statement: Racism is not really a problem in the United States anymore, and minorities are generally treated equally.
     lean: conservative
 
 # - category: Gun Laws
@@ -126,7 +126,7 @@ education:
     lean: conservative
   - statement: Teachers should be paid more.
     lean: liberal
-  - statement: It is appropriate to teach "Intelligent Design" in public schools.
+  - statement: It is appropriate to teach Intelligent Design in public schools.
     lean: conservative
   - statement: Government should provide education, through college, to those able to maintain passing grades.
     lean: liberal

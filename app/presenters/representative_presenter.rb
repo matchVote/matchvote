@@ -26,7 +26,7 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def government_role
-    rep.government_role.blank? ? "N/A" : rep.government_role.capitalize
+    rep.government_role.blank? ? "N/A" : rep.government_role.split.map(&:capitalize).join(' ')
   end
 
   def branch

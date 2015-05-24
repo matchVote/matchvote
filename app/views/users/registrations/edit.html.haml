@@ -33,8 +33,7 @@
           .form-group.form-inline.pull-right
             %label{for: "state"} State
             %select#state.form-control{name: "State"}
-              %option{:placeholder => 'true'} State
-              %option{:value => 'DC'} District of Columbia
+              %option{:placeholder => 'true'} District of Columbia
               %option{:value => 'AL'} Alabama
           .form-group.form-inline.pull-right
             %label{for: "zipcode"} Zip Code
@@ -102,6 +101,16 @@
               %option{:value => 'Muslim'} Muslim
               %option{:value => 'Buddhist'} Buddhist
               %option{:value => 'Hindu'} Hindu
+              %option{:value => 'Other'} Other
+          .form-group
+            %label{for: "relationship"} Relationship
+            %select.form-control.signup-field{name: "Relationship"}
+              %option{:placeholder => 'true'} Relationship
+              %option{:value => 'Single'} Single
+              %option{:value => 'Married'} Married
+              %option{:value => 'Widowed'} Widowed
+              %option{:value => 'Divorced'} Divorced
+              %option{:value => 'Separated'} Separated
               %option{:value => 'Other'} Other
     %hr
     %center

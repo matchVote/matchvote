@@ -121,7 +121,7 @@
             %option{:value => 'Constitution'} Constitution
             %option{:value => 'Other'} Other
         .col-md-6
-          %select.form-control{name: "Education"}
+          %select.form-control.signup-field{name: "Education"}
             %option{:placeholder => 'true'} Education
             %option{:value => 'Middle School'} Middle School
             %option{:value => 'Some High School'} Some High School
@@ -130,6 +130,7 @@
             %option{:value => 'College Degree'} College Degree
             %option{:value => 'Masters Degree'} Masters Degree
             %option{:value => 'Professional Degree'} Professional Degree
+      .row
         .col-md-6
           %select.form-control.signup-field{name: "Religion"}
             %option{:placeholder => 'true'} Religion
@@ -143,6 +144,15 @@
             %option{:value => 'Muslim'} Muslim
             %option{:value => 'Buddhist'} Buddhist
             %option{:value => 'Hindu'} Hindu
+            %option{:value => 'Other'} Other
+        .col-md-6
+          %select.form-control.signup-field{name: "Relationship"}
+            %option{:placeholder => 'true'} Relationship
+            %option{:value => 'Single'} Single
+            %option{:value => 'Married'} Married
+            %option{:value => 'Widowed'} Widowed
+            %option{:value => 'Divorced'} Divorced
+            %option{:value => 'Separated'} Separated
             %option{:value => 'Other'} Other
     %hr
     .row
