@@ -14,6 +14,10 @@ class User < ActiveRecord::Base
     @profile ||= profile_type.constantize.find(profile_id)
   end
 
+  def to_param
+    "#{username}"
+  end
+  
   private
     def default_values
       self.profile_type ||= "User"
