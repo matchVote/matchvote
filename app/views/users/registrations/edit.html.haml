@@ -1,7 +1,7 @@
 %br
 %center
-  %button.btn.btn-sm.btn-default.pull-right View Public Profile
-  %h1 Everything we have about you and your political views.
+  %button.btn.btn-sm.btn-default.pull-right View @#{current_user.username}'s Public Profile
+  %h1 Edit your profile and political stances.
 %br
 .col-md-8
   .whitecard
@@ -61,28 +61,28 @@
         %br
         = f.password_field :current_password, class: "form-control", autocomplete: "off"
       %br
-      %div= f.submit "Update", class: ["btn", "btn-primary"]
+      %center= f.submit "Update", class: ["btn", "btn-primary"]
 
   .whitecard
+    .row
     %h2 Privacy Settings
     %hr
     %span
-      By default, we don't publicly share any of your personally identifiable information. Some of your data is sent to third parties, but it never contains your name, contact information, or anything else that would indicate who you are. If you want to allow other users on matchVote to see your political views, you can do so by editing your privacy settings.
-      %a More info
+      By default, we don't publicly share any of your personally identifiable information. Some data is sent to third parties, but it never contains your name, contact information, or anything that would indicate who you are. To allow other users on matchVote to see more about you and your political views, you'll need to edit your Privacy Settings.
     %br
     %br
-    .btn.btn-primary Edit Privacy
+    %center
+      .btn.btn-primary Edit Privacy
 
   .whitecard
     %h2 Cancel Account
     %hr
     %span
-      Canceling your account will permanently remove all of your personal information from matchVote. However, some non-identifiable polling data that is based on your account activity is still retained.
-      %a More info
+      Canceling your account will permanently remove all of your personal information from matchVote. However, some non-identifiable polling data from your account activity is still retained.
+      %a More About Our Data Policies
     %br
     %br
-    %div
-      = button_to "Cancel Account", registration_path(resource_name),
+    %center= button_to "Cancel Account", registration_path(resource_name),
         data: { confirm: "Are you sure?" },
         method: :delete,
         class: ["btn", "btn-danger"]

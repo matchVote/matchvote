@@ -1,26 +1,117 @@
 = render "layouts/preloginheader"
-.row
-  .col-md-4
-  .col-md-6
-    %br
-    %br
-    %br
-    %h2 Join matchVote
-    .col-md-6.form-group
-      = form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f|
-        = devise_error_messages!
-        %div= f.text_field :username, class: "form-control", autofocus: true, placeholder: "Username"
-        %div= f.email_field :email, class: "form-control", placeholder: "Email"
-        %div
-          = f.password_field :password, class: "form-control", autocomplete: "off", placeholder: "Password"
+.form-group.col-md-4.col-md-offset-4
+  .row
+    %h1 Join matchVote
+  = form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f|
+    = devise_error_messages!
+    .row
+      %h3 Account Info
+      %div= f.text_field :username, class: "form-control signup-field", autofocus: true, placeholder: "Username"
+      %div= f.email_field :email, class: "form-control signup-field", placeholder: "Email"
+      .row
+        .col-md-6
+          = f.password_field :password, class: "form-control signup-field", autocomplete: "off", placeholder: "Password"
           - if @validatable
-            %i Must be at least #{@minimum_password_length} characters.
-        %div
-          = f.password_field :password_confirmation, class: "form-control", autocomplete: "off",
-            placeholder: "Confirm password"
-        %div
-          = f.check_box :rep_admin
-          = f.label "I am an Elected Official"
-        %div= f.text_field :rep_name, class: "form-control", placeholder: "Representative Name"
-        %br
+            %center
+              %i Minimum of #{@minimum_password_length} characters
+        .col-md-6
+          = f.password_field :password_confirmation, class: "form-control signup-field", autocomplete: "off",
+            placeholder: "Confirm Password"
+      -# %div
+        -# = f.check_box :rep_admin
+        -# = f.label "I am an Elected Official"
+      -# %div= f.text_field :rep_name, class: "form-control signup-field", placeholder: "Representative Name"
+    %hr
+    .row
+      %h3 Personal Info
+      %div
+        %input.form-control.signup-field{placeholder: "First Name"}
+      %div
+        %input.form-control.signup-field{placeholder: "Last Name"}
+      .row
+        .col-md-4
+          %select.form-control.signup-field{name: "Birthday"}
+            %option{:placeholder => 'true'} Birth Month
+            %option{:value => 'January'} January
+            %option{:value => 'February'} February
+            %option{:value => 'March'} March
+            %option{:value => 'April'} April
+        .col-md-4
+          %select.form-control.signup-field{name: "Birthday"}
+            %option{:placeholder => 'true'} Birthday
+            %option{:value => '1'} 1
+            %option{:value => '2'} 2
+            %option{:value => '3'} 3
+            %option{:value => '4'} 4
+        .col-md-4
+          %select.form-control.signup-field{name: "Birthday"}
+            %option{:placeholder => 'true'} Year
+            %option{:value => '1999'} 1999
+            %option{:value => '1999'} 1998
+            %option{:value => '1999'} 1997
+            %option{:value => '1999'} 1996
+      .row
+        .col-md-6
+          %select.form-control.signup-field{name: "Gender"}
+            %option{:placeholder => 'true'} Gender
+            %option{:value => 'Female'} Female
+            %option{:value => 'Male'} Male
+            %option{:value => 'Other'} Other
+        .col-md-6
+          %select.form-control.signup-field{name: "Ethnicity"}
+            %option{:placeholder => 'true'} Ethnicity
+            %option{:value => 'White'} White
+            %option{:value => 'Hispanic'} Hispanic
+            %option{:value => 'Black'} Black
+            %option{:value => 'Asian'} Asian
+            %option{:value => 'Native'} Native
+            %option{:value => 'Mixed'} Mixed
+            %option{:value => 'Other'} Other
+      .row
+        .col-md-6
+          %select.form-control.signup-field{name: "Party"}
+            %option{:placeholder => 'true'} Political Party
+            %option{:value => 'No Affiliation'} No Affiliation
+            %option{:value => 'Democrat'} Democrat
+            %option{:value => 'Republican'} Republican
+            %option{:value => 'Independent'} Independent
+            %option{:value => 'Libertarian'} Libertarian
+            %option{:value => 'Green'} Green
+            %option{:value => 'Constitution'} Constitution
+            %option{:value => 'Other'} Other
+        .col-md-6
+          %select.form-control.signup-field{name: "Religion"}
+            %option{:placeholder => 'true'} Religion
+            %option{:value => 'No Affiliation'} No Affiliation
+            %option{:value => 'Protestant'} Protestant
+            %option{:value => 'Catholic'} Catholic
+            %option{:value => 'Christian'} Christian (other)
+            %option{:value => 'Agnostic'} Agnostic
+            %option{:value => 'Atheist'} Atheist
+            %option{:value => 'Jewish'} Jewish
+            %option{:value => 'Muslim'} Muslim
+            %option{:value => 'Buddhist'} Buddhist
+            %option{:value => 'Hindu'} Hindu
+            %option{:value => 'Other'} Other
+    %hr
+    .row
+      %h3 Contact Info
+      %input.form-control.signup-field{placeholder: "Phone"}
+      %input.form-control.signup-field{placeholder: "Twitter"}
+      %input.form-control.signup-field{placeholder: "Address"}
+      %input.form-control.signup-field{placeholder: "City"}
+      .row
+        .col-md-6
+          %select.form-control.signup-field{name: "State"}
+            %option{:placeholder => 'true'} State
+        .col-md-6
+          %input.form-control.signup-field{placeholder: "Zip Code"}
+    %hr
+    .row
+      %h3 Upload Profile Pic
+      %div
+        = f.file_field :profilepic
+    .row
+      %hr
+      %center
         %div= f.submit "Create Account", class: "btn btn-primary"
