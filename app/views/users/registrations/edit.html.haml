@@ -1,25 +1,112 @@
 %br
 %center
-  %button.btn.btn-sm.btn-default.pull-right View @#{current_user.username}'s Public Profile
   %h1 Edit your profile and political stances.
 %br
 .col-md-8
   .whitecard
-    %h2 @#{current_user.username}
-    %hr
-    .container
+    %form.container
       .col-md-3
-        %div Name:
-        %div Gender:
-        %div Birthday:
-        %div Party:
-        %div Religion:
-      .col-md-5
-        %div Phone:
-        %div Address:
-        %div City:
-        %div State:
-        %div ZIP:
+        %h3 Contact Info
+        %hr
+        .form-horizontal
+          .form-group.form-inline.pull-right
+            %label{for: "userName"} Username
+            %input#firstName.form-control{:placeholder => "@#{current_user.username}", :type => "text"}
+          .form-group.form-inline.pull-right
+            %label{for: "firstName"} First Name
+            %input#firstName.form-control{:placeholder => "Brad", :type => "text"}
+          .form-group.form-inline.pull-right
+            %label{for: "lastName"} Last Name
+            %input#lastName.form-control{:placeholder => "Hankins", :type => "text"}
+          .form-group.form-inline.pull-right
+            %label{for: "phone"} Phone
+            %input#phone.form-control{:placeholder => "999-555-1234", :type => "text"}
+          .form-group.form-inline.pull-right
+            %label{for: "twitter"} Twitter
+            %input#twitter.form-control{:placeholder => "@bradhankins", :type => "text"}
+          .form-group.form-inline.pull-right
+            %label{for: "mailingAddress"} Address
+            %input#mailingAddress.form-control{:placeholder => "123 Somestreet Rd.", :type => "text"}
+          .form-group.form-inline.pull-right
+            %label{for: "city"} City
+            %input#city.form-control{:placeholder => "Washington", :type => "text"}
+          .form-group.form-inline.pull-right
+            %label{for: "state"} State
+            %select#state.form-control{name: "State"}
+              %option{:placeholder => 'true'} State
+              %option{:value => 'DC'} District of Columbia
+              %option{:value => 'AL'} Alabama
+          .form-group.form-inline.pull-right
+            %label{for: "zipcode"} Zip Code
+            %input#zipcode.form-control{:placeholder => "98765", :type => "text"}
+      .col-md-2.col-md-offset-1
+        %h3 Personal Info
+        %hr
+        .form-horizontal
+          .form-group
+            %label{for: "birthday"} Birthday
+            %select#birthday.form-control{name: "Birthday"}
+              %option{:placeholder => 'true'} Birthday
+          .form-group
+            %label{for: "gender"} Gender
+            %select#gender.form-control{name: "Gender"}
+              %option{:placeholder => 'true'} Gender
+              %option{:value => 'Female'} Female
+              %option{:value => 'Male'} Male
+              %option{:value => 'Other'} Other
+          .form-group
+            %label{for: "ethnicity"} Ethnicity
+            %select#ethnicity.form-control{name: "Ethnicity"}
+              %option{:placeholder => 'true'} Ethnicity
+              %option{:value => 'White'} White
+              %option{:value => 'Hispanic'} Hispanic
+              %option{:value => 'Black'} Black
+              %option{:value => 'Asian'} Asian
+              %option{:value => 'Native'} Native
+              %option{:value => 'Mixed'} Mixed
+              %option{:value => 'Other'} Other
+          .form-group
+            %label{for: "party"} Political Party
+            %select#party.form-control{name: "Party"}
+              %option{:placeholder => 'true'} Political Party
+              %option{:value => 'No Affiliation'} No Affiliation
+              %option{:value => 'Democrat'} Democrat
+              %option{:value => 'Republican'} Republican
+              %option{:value => 'Independent'} Independent
+              %option{:value => 'Libertarian'} Libertarian
+              %option{:value => 'Green'} Green
+              %option{:value => 'Constitution'} Constitution
+              %option{:value => 'Other'} Other
+          .form-group
+            %label{for: "education"} Education
+            %select#education.form-control{name: "Education"}
+              %option{:placeholder => 'true'} Education
+              %option{:value => 'Middle School'} Middle School
+              %option{:value => 'Some High School'} Some High School
+              %option{:value => 'High School Graduate'} High School Diploma
+              %option{:value => 'Some College'} Some College
+              %option{:value => 'College Degree'} College Degree
+              %option{:value => 'Masters Degree'} Masters Degree
+              %option{:value => 'Professional Degree'} Professional Degree
+          .form-group
+            %label{for: "religion"} Religion
+            %select#religion.form-control{name: "Religion"}
+              %option{:placeholder => 'true'} Religion
+              %option{:value => 'No Affiliation'} No Affiliation
+              %option{:value => 'Protestant'} Protestant
+              %option{:value => 'Catholic'} Catholic
+              %option{:value => 'Christian'} Christian (other)
+              %option{:value => 'Agnostic'} Agnostic
+              %option{:value => 'Atheist'} Atheist
+              %option{:value => 'Jewish'} Jewish
+              %option{:value => 'Muslim'} Muslim
+              %option{:value => 'Buddhist'} Buddhist
+              %option{:value => 'Hindu'} Hindu
+              %option{:value => 'Other'} Other
+    %hr
+    %center
+      %button.btn.btn-primary Update
+
 
   .whitecard
     %h2 Edit Saved Stances
