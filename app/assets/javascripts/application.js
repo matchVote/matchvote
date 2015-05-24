@@ -10,8 +10,9 @@
 // Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require bootstrap
+//= require bootstrap-toggle.min
 //= require jquery
 //= require jquery_ujs
-//= require bootstrap-toggle.min
+//= require sweet-alert
 //= require_tree .
-//= require bootstrap
