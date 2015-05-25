@@ -33,6 +33,14 @@ class RepresentativePresenter < SimpleDelegator
     rep.branch.blank? ? "N/A" : rep.branch.capitalize
   end
 
+  def party
+    rep.party.blank? ? "N/A" : rep.party.capitalize
+  end
+
+  def status
+    rep.status.blank? ? "N/A" : rep.status.capitalize
+  end
+
   def orientation
     rep.orientation.blank? ? "N/A" : rep.orientation.capitalize
   end

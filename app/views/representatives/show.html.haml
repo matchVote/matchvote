@@ -21,9 +21,10 @@
           Follow
         %h2= @rep.full_name
         = @rep.title
+        | #{@rep.status}
         %br
-        = @rep.party.capitalize
-        | #{@rep.state}
+        = @rep.party
+        from #{@rep.state}
       .profile_bio
         %p= truncate(@rep.biography, length: 550)
         %a.btn.btn-sm.btn-default.bio_btn
