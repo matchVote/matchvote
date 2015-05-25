@@ -16,7 +16,8 @@
         class: "profile_pic"
       .profile_name
         = render "edit_button", rep: @rep if policy(@rep).edit?
-        %a.btn.btn-default.btn-sm.pull-right
+        .btn.btn-default.pull-right
+          %span.glyphicon.glyphicon-ok-circle
           Follow
         %h2= @rep.full_name
         = @rep.title

@@ -130,7 +130,7 @@ body
 
 //Bootstrap Modifications
 .btn
-  border-radius: 7px
+  border-radius: 20px
 
 .btn-sm
   padding: 7px 11px 6px 11px
@@ -149,3 +149,21 @@ body
 
 .btn-primary, .btn-danger, .btn-info
   text-shadow: 1px 1px 1px rgba(0,0,0,0.5)
+
+.btn-danger
+  background: -webkit-linear-gradient(#dd4e4c, #b03e3c)
+  background: -o-linear-gradient(#dd4e4c, #b03e3c)
+  background: -moz-linear-gradient(#dd4e4c, #b03e3c)
+  background: linear-gradient(#dd4e4c, #b03e3c)
+  border: 1px solid #b03e3c
+  &:hover
+    background: #dd4e4c
+
+.btn-primary
+  background: -webkit-linear-gradient(#407db0, #386d9a)
+  background: -o-linear-gradient(#407db0, #386d9a)
+  background: -moz-linear-gradient(#407db0, #386d9a)
+  background: linear-gradient(#407db0, #386d9a)
+  border: 1px solid #386d9a
+  &:hover
+    background: #407db0
