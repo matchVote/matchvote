@@ -19,11 +19,6 @@
 @import bootstrap-sprockets
 @import bootstrap
 
-//SignUp
-.signup-field
-  margin: 5px 0 5px 0
-
-
 //Menu
 .navbar-fixed-top
   background-color: #fff !important
@@ -49,6 +44,7 @@
   background: linear-gradient(#fff, #efefef)
   display: block
   position: relative
+  top: 1px
   float: left
 .navdrop ul
   margin: 0
@@ -122,6 +118,22 @@
 .landing-background
   background-image: url('http://matchvote.com/wp-content/uploads/2015/01/bg.jpg')
 
+//SignUp & Edit Profile
+
+.signup-field
+  margin: 5px 0 5px 0
+
+.edit_pic
+  border-radius: 36px
+  height: 72px
+  width: 72px
+  margin-left: 10px
+  transition: transform .2s
+  &:hover
+    transform: scale(.95, .95)
+    -webkit-filter: opacity(.4)
+    cursor: pointer
+
 // Main App
 
 body
@@ -167,3 +179,5 @@ body
   border: 1px solid #386d9a
   &:hover
     background: #407db0
+    position: relative
+    top: -1px

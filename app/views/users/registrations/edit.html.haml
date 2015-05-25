@@ -2,7 +2,7 @@
 %center
   %h1 Edit your profile and political stances.
 %br
-.col-md-8
+.col-md-7
   .whitecard
     %form
       %h3 Personal Info
@@ -138,6 +138,10 @@
             %option{:value => 'Separated'} Separated
             %option{:value => 'Other'} Other
     %hr
+    %center
+      %button.btn.btn-primary Update
+  .whitecard
+    %form
       %h3 Contact Info
       .row
         .col-md-6
@@ -167,9 +171,22 @@
       You haven't saved any stances yet.
       = link_to "Click here add your political stances.", stances_path
 
-.col-md-4
+.col-md-5
   .whitecard
-    %h2 Email & Password
+    %h3 Username & Profile Pic
+    %hr
+    .row
+      .col-md-4
+        = image_tag "http://bradhankins.com/wp-content/uploads/2014/10/brad.jpg",
+            class: "edit_pic"
+        .btn.btn-sm.btn-link Upload New
+      .col-md-8
+        %input.form-control.signup-field{placeholder: "@#{current_user.username}"}
+        %br
+        %center
+          .btn.btn-primary.pull-right Update
+  .whitecard
+    %h3 Email & Password
     %hr
     = form_for(resource, as: resource_name, url: registration_path(resource_name),
       html: { method: :put }) do |f|
