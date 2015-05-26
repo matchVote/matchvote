@@ -41,7 +41,7 @@ class StancesController
             importance_value: $("#importance_#{statementId}").val()
         success: =>
           @$updateButton.text("Stance updated!")
-          setTimeout (=> @$updateButton.text("Update Stance")), 1500 }
+          setTimeout (=> @$updateButton.text("Update")), 1500 }
       
   deleteStance: ->
     $(".statement").on "click", ".delete_btn", (event) =>
