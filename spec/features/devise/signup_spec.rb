@@ -44,6 +44,14 @@ feature "Signing up for a new account" do
       expect(subject).to have_content("Email has already been taken")
     end
 
+    scenario "notifies user if the username has been taken" do
+      signup_with(
+        email:    old_user.email, 
+        password: "@123abc!", 
+        username: old_user.username)
+      expect(subject).to have_content("Username has already been taken")
+    end
+
     scenario "notifies user if the password is absent" do
       signup_with email: "what@hey.com", password: nil
       expect(subject).to have_content("Password can't be blank")
