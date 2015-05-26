@@ -4,7 +4,7 @@ def signup_with(options)
   fill_in "Username", with: options[:username]
   fill_in "Email", with: options[:email]
   fill_in "Password", with: options[:password]
-  fill_in "Confirm password", with: confirm
+  fill_in "Confirm Password", with: confirm
   click_button "Create Account"
 end
 
@@ -22,10 +22,12 @@ end
 def update_user(options)
   confirm = options[:confirm] ? options[:confirm] : options[:new_password]
 
-  fill_in "Email", with: options[:email]
-  fill_in "user_password", with: options[:new_password]
-  fill_in "Password confirmation", with: confirm
-  fill_in "Current password", with: options[:password]
-  click_button "Update"
+  within "#edit_user" do
+    fill_in "user_email", with: options[:email]
+    fill_in "user_password", with: options[:new_password]
+    fill_in "Password confirmation", with: confirm
+    fill_in "Current password", with: options[:password]
+    click_button "Update"
+  end
 end
 

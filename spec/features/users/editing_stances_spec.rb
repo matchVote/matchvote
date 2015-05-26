@@ -12,10 +12,11 @@ feature "Editing a user's stances" do
     visit edit_user_registration_path(user)
   end
 
-  it { is_expected.to have_content("Edit Stances") }
+  it { is_expected.to have_content("Edit Saved Stances") }
 
   context "without any stances" do
-    it { is_expected.to have_content("You have no stances to edit.") }
+    it { is_expected.to have_content("You haven't saved any stances yet.") }
+    it { is_expected.to have_link("Click here add your political stances") }
   end
 
   context "when user has stances" do
@@ -38,12 +39,12 @@ feature "Editing a user's stances" do
       expect(subject).to have_content("Abortion statement 2")
     end
 
-    scenario "clicking Update Stance updates the stance", :js do
+    scenario "clicking Update updates the stance", :js do
       stance = Stance.first
       within ".stance[data-stance-id='#{stance.id}']" do
         select "Very Strongly Disagree", from: "Agreeance"
         select "Very Important", from: "Importance"
-        click_button "Update Stance"
+        click_button "Update"
       end
 
       wait_for_ajax
@@ -51,10 +52,10 @@ feature "Editing a user's stances" do
       expect(stance.reload.importance_value_string).to eq "Very Important"
     end
 
-    scenario "clicking Clear Stance deletes the stance", :js do
+    scenario "clicking Clear deletes the stance", :js do
       stance = Stance.first
       within ".stance[data-stance-id='#{stance.id}']" do
-        click_button "Clear Stance"
+        click_button "Clear"
         wait_for_ajax
         expect(user.stances.count).to eq 3
       end
@@ -66,7 +67,7 @@ feature "Editing a user's stances" do
       stance = create_one_stance
       visit edit_user_registration_path(user)
       within ".stance[data-stance-id='#{stance.id}']" do
-        click_button "Clear Stance"
+        click_button "Clear"
       end
 
       wait_for_ajax

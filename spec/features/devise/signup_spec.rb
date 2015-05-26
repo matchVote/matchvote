@@ -14,8 +14,7 @@ feature "Signing up for a new account" do
   it { is_expected.to have_field("Email") }
   it { is_expected.to have_field("Username") }
   it { is_expected.to have_field("Password") }
-  it { is_expected.to have_field("Confirm password") }
-  it { is_expected.to have_field("Representative Name") }
+  it { is_expected.to have_field("Confirm Password") }
 
   context "with valid input" do
     background do

@@ -6,16 +6,26 @@
     = devise_error_messages!
     .row
       %h3 Account Info
-      %div= f.text_field :username, class: "form-control signup-field", autofocus: true, placeholder: "Username"
-      %div= f.email_field :email, class: "form-control signup-field", placeholder: "Email"
+      %div= f.text_field :username, 
+        class: "form-control signup-field", 
+        autofocus: true, 
+        placeholder: "Username"
+      %div= f.email_field :email, 
+        class: "form-control signup-field", 
+        placeholder: "Email"
       .row
         .col-md-6
-          = f.password_field :password, class: "form-control signup-field", autocomplete: "off", placeholder: "Password"
+          = f.password_field :password, 
+            class: "form-control signup-field", 
+            autocomplete: "off", 
+            placeholder: "Password"
           - if @validatable
             %center
               %i Minimum of #{@minimum_password_length} characters
         .col-md-6
-          = f.password_field :password_confirmation, class: "form-control signup-field", autocomplete: "off",
+          = f.password_field :password_confirmation, 
+            class: "form-control signup-field", 
+            autocomplete: "off",
             placeholder: "Confirm Password"
       -# %div
         -# = f.check_box :rep_admin
@@ -170,8 +180,7 @@
     %hr
     .row
       %h3 Upload Profile Pic
-      %div
-        = f.file_field :profilepic
+      %div= f.file_field :profilepic
     .row
       %hr
       %center

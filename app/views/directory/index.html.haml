@@ -3,7 +3,8 @@
     .col-md-7
       %h2 Find elected officials to follow
       %h5
-        We'll keep you up to date with the news and political positions of the those you choose to follow.
+        We'll keep you up to date with the news and political positions of the 
+        those you choose to follow.
       %h5
         = @filter_count
         elected officials meet your search criteria.
@@ -33,3 +34,4 @@
           id: "rep_sorter"
 
 .row#reps_container= render "reps_list", reps: @reps
+
