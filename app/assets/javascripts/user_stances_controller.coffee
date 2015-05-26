@@ -22,7 +22,7 @@ class UserStancesController
             importance_value: $("#importance_#{stanceId}").val()
         success: =>
           $(@).text("Stance updated!")
-          setTimeout (=> $(@).text("Update Stance")), 1500 }
+          setTimeout (=> $(@).text("Update")), 1500 }
 
   deleteStance: ->
     self = @
