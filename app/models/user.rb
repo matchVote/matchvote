@@ -8,7 +8,7 @@ class User < ActiveRecord::Base
 
   has_many :inference_opinions, dependent: :destroy
   has_many :stances, as: :opinionable
-  validates :username, presence: true
+  validates :username, presence: true, uniqueness: true
 
   def profile
     @profile ||= profile_type.constantize.find(profile_id)

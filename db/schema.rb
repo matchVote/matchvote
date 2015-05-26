@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150512111726) do
+ActiveRecord::Schema.define(version: 20150526115639) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -62,39 +62,6 @@ ActiveRecord::Schema.define(version: 20150512111726) do
   end
 
   add_index "postal_addresses", ["contact_id"], name: "index_postal_addresses_on_contact_id", using: :btree
-
-  create_table "profiles", id: :uuid, default: "uuid_generate_v4()", force: :cascade do |t|
-    t.string   "type"
-    t.text     "title"
-    t.text     "first_name",           null: false
-    t.text     "last_name",            null: false
-    t.text     "middle_names"
-    t.text     "suffix"
-    t.text     "birthday"
-    t.string   "gender"
-    t.text     "government_role"
-    t.string   "state"
-    t.text     "district"
-    t.text     "party"
-    t.text     "biography"
-    t.text     "religion"
-    t.hstore   "external_credentials"
-    t.integer  "user_id"
-    t.text     "profile_image_url"
-    t.text     "status"
-    t.boolean  "verified"
-    t.text     "state_rank"
-    t.string   "branch"
-    t.text     "orientation"
-    t.text     "nickname"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-  end
-
-  add_index "profiles", ["first_name", "last_name"], name: "index_profiles_on_first_name_and_last_name", unique: true, using: :btree
-  add_index "profiles", ["first_name"], name: "index_profiles_on_first_name", using: :btree
-  add_index "profiles", ["last_name"], name: "index_profiles_on_last_name", using: :btree
-  add_index "profiles", ["user_id"], name: "index_profiles_on_user_id", using: :btree
 
   create_table "representatives", id: :uuid, default: "uuid_generate_v4()", force: :cascade do |t|
     t.text    "bioguide_id"
@@ -205,5 +172,6 @@ ActiveRecord::Schema.define(version: 20150512111726) do
   add_index "users", ["email"], name: "index_users_on_email", unique: true, using: :btree
   add_index "users", ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true, using: :btree
   add_index "users", ["unlock_token"], name: "index_users_on_unlock_token", unique: true, using: :btree
+  add_index "users", ["username"], name: "index_users_on_username", unique: true, using: :btree
 
 end
