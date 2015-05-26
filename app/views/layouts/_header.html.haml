@@ -24,11 +24,11 @@
                 = link_to "Stances", stances_path
               %li
                 = link_to "Profile", edit_user_registration_path(current_user)
-        %ul.nav.navbar-nav.navbar-right
-          %span.pull-left
-            .btn.btn-xs.btn-default.glyphicon.glyphicon-flash.menu_notify
+        .nav.navbar-nav.navbar-right
+          .pull-left
+            .glyphicon.glyphicon-flash.menu_notify{title: "2 new notifications"}
             = link_to edit_user_registration_path(current_user) do
               = image_tag "http://bradhankins.com/wp-content/uploads/2014/10/brad.jpg",
-                class: "navbar_pic"
-          %li
-            = link_to "Sign Out", destroy_user_session_path, method: :delete
+                class: "navbar_pic", title: "@#{current_user.username}"
+            = link_to destroy_user_session_path, method: :delete do
+              .glyphicon.glyphicon-log-out.logout-button{title: "Sign Out"}

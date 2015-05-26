@@ -91,11 +91,20 @@
     -webkit-filter: brightness(1.1)
 
 .menu_notify
-  margin-top: 6px
-  padding: 4px 0px 4px 0px
+  position: relative
+  top: 7px
+  width: 20px
+  height: 20px
+  border-radius: 10px
+  padding: 3px 1px 3px 3px
+  background: -webkit-linear-gradient(#ffd700, #DAA520)
+  background: -o-linear-gradient(#ffd700, #DAA520)
+  background: -moz-linear-gradient(#ffd700, #DAA520)
+  background: linear-gradient(#ffd700, #DAA520)
+  color: #333
   &:hover
-    background: #333
-    color: #fff
+    cursor: pointer
+    -webkit-filter: brightness(1.1)
 
 .navbar_pic
   border-radius: 18px
@@ -104,6 +113,12 @@
   margin: 7px 5px 0 0
   &:hover
     -webkit-filter: brightness(1.1)
+
+.logout-button
+  margin: 0 20px 0 10px
+  position: relative
+  top: 7px
+
 
 // Landing
 .landing_pic
@@ -131,10 +146,9 @@
   margin: 5px 0 5px 0
 
 .edit_pic
-  border-radius: 36px
-  height: 72px
-  width: 72px
-  margin-left: 10px
+  border-radius: 50px
+  height: 100px
+  width: 100px
   transition: transform .2s
   &:hover
     transform: scale(.95, .95)
@@ -185,6 +199,7 @@ body
   background: linear-gradient(#407db0, #386d9a)
   border: 1px solid #386d9a
   &:hover
-    background: #407db0
-    position: relative
-    top: -1px
+    background: -webkit-linear-gradient(#669acc, #407db0)
+    background: -o-linear-gradient(#669acc, #407db0)
+    background: -moz-linear-gradient(#669acc, #407db0)
+    background: linear-gradient(#669acc, #407db0)

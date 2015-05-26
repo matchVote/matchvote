@@ -173,13 +173,15 @@
 
 .col-md-5
   .whitecard
-    %h3 Username & Profile Pic
+    %h3 Profile Pic & Username
     %hr
     .row
       .col-md-4
-        = image_tag "http://bradhankins.com/wp-content/uploads/2014/10/brad.jpg",
-            class: "edit_pic"
-        .btn.btn-sm.btn-link Upload New
+        %center
+          = image_tag "http://bradhankins.com/wp-content/uploads/2014/10/brad.jpg",
+              class: "edit_pic", title: "Change Profile Pic"
+        %center
+          .btn.btn-sm.btn-link Upload New
       .col-md-8
         %input.form-control.signup-field{placeholder: "@#{current_user.username}"}
         %br
