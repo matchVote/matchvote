@@ -8,11 +8,11 @@ feature "Editing account settings" do
   background do
     visit root_path
     sign_in_with email: user.email, password: user.password
-    click_link "@#{user.username}"
+    visit edit_user_registration_path(user)
   end
 
-  it { should have_content("Edit Email & Password") }
-  it { should have_field("Email") }
+  it { should have_content("Email & Password") }
+  it { should have_field("user_email") }
   it { should have_field("Current password") }
 
   feature "changing user email" do
@@ -62,11 +62,11 @@ feature "Editing account settings" do
 
   feature "cancelling account" do
     scenario "deletes user record" do
-      expect { click_button "Cancel my account" }.to change(User, :count).by(-1)
+      expect { click_button "Cancel Account" }.to change(User, :count).by(-1)
     end
 
     scenario "redirects back to home page" do
-      click_button "Cancel my account"
+      click_button "Cancel Account"
       expect(subject).to have_content("Create Account")
     end
   end

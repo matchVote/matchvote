@@ -48,19 +48,19 @@ feature "Responding to issue category statements" do
         end
       end
 
-      scenario "clicking Update Stance works" do
+      scenario "clicking Update works" do
         within @statement_context do
           select "Strongly Disagree", from: "Agreeance"
-          click_button "Update Stance"
+          click_button "Update"
           wait_for_ajax
           expect(Stance.first.agreeance_value_string).to eq "Strongly Disagree"
         end
       end
 
-      scenario "clicking Clear Stance works" do
+      scenario "clicking Clear works" do
         within @statement_context do
           select "Strongly Disagree", from: "Agreeance"
-          click_button "Update Stance"
+          click_button "Update"
           wait_for_ajax
           expect(Stance.first.agreeance_value_string).to eq "Strongly Disagree"
         end
@@ -85,11 +85,11 @@ feature "Responding to issue category statements" do
       expect(find(importance).value).to eq "4"
     end
 
-    scenario "clicking Update Stance updates the stance", :js do
+    scenario "clicking Update updates the stance", :js do
       within @statement_context do
         select "Strongly Disagree", from: "Agreeance"
         select "Not Very Important", from: "Importance"
-        click_button "Update Stance"
+        click_button "Update"
         wait_for_ajax
         expect(@stance.reload.agreeance_value_string).to eq "Strongly Disagree"
         expect(@stance.reload.importance_value_string).to eq "Not Very Important"
@@ -97,44 +97,44 @@ feature "Responding to issue category statements" do
     end
 
     context "after updating a stance without refreshing", :js do
-      scenario "clicking Update Stance works" do
+      scenario "clicking Update works" do
         within @statement_context do
-          click_button "Update Stance"
+          click_button "Update"
           wait_for_ajax
 
           select "Disagree", from: "Agreeance"
-          click_button "Update Stance"
+          click_button "Update"
           wait_for_ajax
           expect(@stance.reload.agreeance_value_string).to eq "Disagree"
         end
       end
 
-      scenario "clicking Clear Stance works" do
+      scenario "clicking Clear works" do
         within @statement_context do
-          click_button "Update Stance"
+          click_button "Update"
           wait_for_ajax
 
-          click_button "Clear Stance"
+          click_button "Clear"
           wait_for_ajax
           expect(user.stances.count).to eq 0
         end
       end
     end
 
-    scenario "clicking Clear Stance deletes the stance", :js do
+    scenario "clicking Clear deletes the stance", :js do
       within @statement_context do
-        click_button "Clear Stance"
+        click_button "Clear"
         wait_for_ajax
         expect(user.stances.count).to eq 0
       end
     end
 
-    scenario "clicking Clear Stance resets the form", :js do
+    scenario "clicking Clear resets the form", :js do
       within @statement_context do
-        click_button "Clear Stance"
+        click_button "Clear"
         wait_for_ajax
         expect(subject).to have_button "Save Stance"
-        expect(subject).not_to have_button "Clear Stance"
+        expect(subject).not_to have_button "Clear"
         expect(find("#agreeance_#{@statement.id}").value).to eq "0"
         expect(find("#importance_#{@statement.id}").value).to eq "2"
       end
@@ -143,7 +143,7 @@ feature "Responding to issue category statements" do
     context "after clearing a stance without refreshing", :js do
       scenario "clicking Save Stance works" do
         within @statement_context do
-          click_button "Clear Stance"
+          click_button "Clear"
           wait_for_ajax
           expect(user.stances.count).to eq 0
 
