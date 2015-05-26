@@ -26,9 +26,9 @@
                 = link_to "Profile", edit_user_registration_path(current_user)
         .nav.navbar-nav.navbar-right
           .pull-left
-            .glyphicon.glyphicon-flash.menu_notify{title: "2 new notifications"}
+            .glyphicon.glyphicon-flash.menu-notify-on{title: "2 new notifications"}
             = link_to edit_user_registration_path(current_user) do
-              = image_tag "http://bradhankins.com/wp-content/uploads/2014/10/brad.jpg",
+              = image_tag "http://data.matchvote.com/images/2015/highprofile/Barack_Obama.png",
                 class: "navbar_pic", title: "@#{current_user.username}"
             = link_to destroy_user_session_path, method: :delete do
               .glyphicon.glyphicon-log-out.logout-button{title: "Sign Out"}

@@ -90,7 +90,7 @@
   &:hover
     -webkit-filter: brightness(1.1)
 
-.menu_notify
+.menu-notify-on
   position: relative
   top: 7px
   width: 20px
@@ -106,13 +106,31 @@
     cursor: pointer
     -webkit-filter: brightness(1.1)
 
+.menu-notify-off
+  position: relative
+  top: 7px
+  width: 20px
+  height: 20px
+  border-radius: 10px
+  padding: 3px 1px 3px 3px
+  background: -webkit-linear-gradient(#ccc, #ddd)
+  background: -o-linear-gradient(#ccc, #ddd)
+  background: -moz-linear-gradient(#ccc, #ddd)
+  background: linear-gradient(#ccc, #ddd)
+  -webkit-filter: opacity(0.2)
+  &:hover
+    cursor: pointer
+    -webkit-filter: opacity(0.4)
+
 .navbar_pic
   border-radius: 18px
   height: 36px
   width: 36px
   margin: 7px 5px 0 0
+  -webkit-transition: .5s ease-in
+  -webkit-filter: grayscale(0)
   &:hover
-    -webkit-filter: brightness(1.1)
+    -webkit-filter: grayscale(1)
 
 .logout-button
   margin: 0 20px 0 10px
@@ -149,10 +167,9 @@
   border-radius: 50px
   height: 100px
   width: 100px
-  transition: transform .2s
   &:hover
-    transform: scale(.95, .95)
-    -webkit-filter: opacity(.4)
+    -webkit-transition: .3s ease-out
+    -webkit-filter: opacity(.3)
     cursor: pointer
 
 // Main App
