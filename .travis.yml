@@ -12,5 +12,10 @@ notifications:
   slack:
     secure: hD5PM0gOfbexeGuusHkBy5jEnI/4ZKQ3HgJfEvFFyCjFBFjp83I5c/AjWLN+Q1uOYodwHuijEMpHcxPyx/DIKjWUr+zLB65wwFCD3v4UkxXOV/9Rl49RaoSvulQtSGkLd071uh9SxC6sQNcM9sGerU6Y3eKlZKBVQqvvT4Rvs8A=
 
+before_install:
+  - wget https://s3.amazonaws.com/travis-phantomjs/phantomjs-2.0.0-ubuntu-12.04.tar.bz2
+  - tar -xjf phantomjs-2.0.0-ubuntu-12.04.tar.bz2
+  - sudo rm -rf /usr/local/phantomjs/bin/phantomjs
+  - sudo mv phantomjs /usr/local/phantomjs/bin/phantomjs
 before_script:
   - psql -c "create database matchvote_test;" -U postgres
