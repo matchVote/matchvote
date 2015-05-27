@@ -1,4 +1,5 @@
-# matchVote
+# matchVote    
+[![Build Status](https://travis-ci.org/matchVote/matchvote.svg?branch=master)](https://travis-ci.org/matchVote/matchvote)
 
 matchVote keeps you up-to-date with what's happening in politics by finding 
 the politicians that agree and disagree with what's important to you.
