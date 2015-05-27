@@ -1,6 +1,9 @@
 language: ruby
 rvm:
-- 2.2.1
+  - 2.2.1
+branches:
+  only:
+    - master
 notifications:
   slack:
     secure: hD5PM0gOfbexeGuusHkBy5jEnI/4ZKQ3HgJfEvFFyCjFBFjp83I5c/AjWLN+Q1uOYodwHuijEMpHcxPyx/DIKjWUr+zLB65wwFCD3v4UkxXOV/9Rl49RaoSvulQtSGkLd071uh9SxC6sQNcM9sGerU6Y3eKlZKBVQqvvT4Rvs8A=
