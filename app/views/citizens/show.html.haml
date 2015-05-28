@@ -9,12 +9,12 @@
       .profile_name
         %a.btn.btn-default.btn-sm.pull-right
           %span.glyphicon.glyphicon-edit
-          Edit Your Profile
+          Edit Profile
         %h2 Brad Hankins
         %hr
-        Citizen from NC
+        %strong @#{current_user.username}
         %br
-        Monkey
+        Unaffiliated Voter from NC
       .profile_bio
         Bio
   .col-md-4
