@@ -13,7 +13,7 @@ class UserStancesController
   updateStance: ->
     $(".update_btn").click ->
       stanceId = $(@).data("stanceId")
-      $.ajax {
+      $.ajax
         type: "PATCH",
         url: "/stances/#{stanceId}",
         data:
@@ -22,16 +22,16 @@ class UserStancesController
             importance_value: $("#importance_#{stanceId}").val()
         success: =>
           $(@).text("Stance updated!")
-          setTimeout (=> $(@).text("Update")), 1500 }
+          setTimeout (=> $(@).text("Update")), 1500
 
   deleteStance: ->
     self = @
     $(".delete_btn").click ->
       $stance = $(@).parents(".stance")
-      $.ajax {
+      $.ajax
         type: "DELETE",
         url: "/stances/#{$stance.data("stanceId")}",
-        success: => self.removeStance($stance) }
+        success: => self.removeStance($stance)
 
   removeStance: ($stance) ->
     $issue = $stance.parents(".issue")

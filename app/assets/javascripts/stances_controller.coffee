@@ -32,7 +32,7 @@ class StancesController
       @$updateButton = $(event.target)
       statementId = @$updateButton.parents(".statement").data("statementId")
       stanceId = @$updateButton.data("stanceId")
-      $.ajax {
+      $.ajax
         type: "PATCH",
         url: "/stances/#{stanceId}",
         data:
@@ -41,16 +41,16 @@ class StancesController
             importance_value: $("#importance_#{statementId}").val()
         success: =>
           @$updateButton.text("Stance updated!")
-          setTimeout (=> @$updateButton.text("Update")), 1500 }
+          setTimeout (=> @$updateButton.text("Update")), 1500
       
   deleteStance: ->
     $(".statement").on "click", ".delete_btn", (event) =>
       @$deleteButton = $(event.target)
       statementId = @$deleteButton.parents(".statement").data("statementId")
       stanceId = @$deleteButton.data("stanceId")
-      $.ajax {
+      $.ajax
         type: "DELETE",
         url: "/stances/#{stanceId}",
         success: (html) ->
-          $(".statement[data-statement-id='#{statementId}']").html(html) }
+          $(".statement[data-statement-id='#{statementId}']").html(html)
 
