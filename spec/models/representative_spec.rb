@@ -23,7 +23,7 @@ describe Representative do
     context "when rep has a contact" do
       it "updates the contact" do
         subject.update_or_create_contact(contact_params)
-        expect(subject.reload.contact.phone_numbers.first).to eq "(123) 999-9999"
+        expect(subject.contact.phone_numbers.first).to eq "(123) 999-9999"
         expect(subject.contact.website_url).to eq "http://www.heythere.com"
         expect(subject.contact.postal_addresses.first.zip).to eq "hey"
       end

@@ -1,8 +1,7 @@
 class Representative < ActiveRecord::Base
   include PgSearch
-  has_one :contact, dependent: :destroy, inverse_of: :representative
+  has_one :contact, as: :contactable, dependent: :destroy
   has_many :stances, as: :opinionable
-  belongs_to :profile, polymorphic: true
 
   validates :first_name, :last_name, :slug, presence: true
 
@@ -14,18 +13,17 @@ class Representative < ActiveRecord::Base
     if contact
       contact.update_attributes(contact_params)
     else
-      self.contact = Contact.create(contact_params)
-      save
+      update_attribute(:contact, Contact.create(contact_params))
     end
   end
 
   def update_credentials(hash)
     if external_credentials
       external_credentials.merge!(hash)
+      save
     else
-      self.external_credentials = hash
+      update_attribute(:external_credentials, hash)
     end
-    save
   end
 end
 

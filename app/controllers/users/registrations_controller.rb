@@ -1,6 +1,14 @@
 class Users::RegistrationsController < Devise::RegistrationsController
   before_action :set_stances_presenter
 
+  def new
+    super
+  end
+
+  def create
+    super
+  end
+
   protected
     def after_sign_up_path_for(resource)
       stances_path

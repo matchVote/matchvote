@@ -1,7 +1,7 @@
 require "rails_helper"
 require "support/authentication"
 
-feature "Signing up for a new account" do
+feature "Creating a new account" do
   given(:old_user) { create(:user) }
   subject { page }
 
@@ -50,6 +50,11 @@ feature "Signing up for a new account" do
         password: "@123abc!", 
         username: old_user.username)
       expect(subject).to have_content("Username has already been taken")
+    end
+
+    scenario "notifies user if username has spaces" do
+      signup_with email: "hey@bob.bob", password: "@123abc!", username: "bob hey"
+      expect(subject).to have_content("Username can't have spaces.")
     end
 
     scenario "notifies user if the password is absent" do
