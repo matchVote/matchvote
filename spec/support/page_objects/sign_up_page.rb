@@ -15,6 +15,10 @@ class SignUpPage < Page
 
   def fill_in_contact_info
     fill_in "Phone", with: "1234567890"
+    fill_in "Address", with: "1 Boweevil Lane"
+    fill_in "City", with: "Meat Camp"
+    select "North Carolina", from: "State"
+    fill_in "Zip Code", with: "12345"
   end
 
   def create_account

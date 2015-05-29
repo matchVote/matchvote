@@ -1,12 +1,25 @@
 %h3 Contact Info
-%input.form-control.signup-field{placeholder: "Phone"}
-%input.form-control.signup-field{placeholder: "Twitter"}
-%input.form-control.signup-field{placeholder: "Address"}
-%input.form-control.signup-field{placeholder: "City"}
-.row
-  .col-md-6
-    %select.form-control.signup-field{name: "State"}
-      %option{:placeholder => 'true'} State
-  .col-md-6
-    %input.form-control.signup-field{placeholder: "Zip Code"}
+= f.fields_for :contact do |c|
+  = c.text_field :phone_numbers,
+    class: ["form-control", "signup-field"],
+    placeholder: "Phone",
+    multiple: true
+  %input.form-control.signup-field{placeholder: "Twitter"}
+  = c.fields_for :postal_addresses do |a|
+    = a.text_field :line1,
+      class: ["form-control", "signup-field"],
+      placeholder: "Address"
+    = a.text_field :city,
+      class: ["form-control", "signup-field"],
+      placeholder: "City"
+    .row
+      .col-md-6
+        = a.select :state, options_for_select(form.us_states), 
+          { include_blank: "State" },
+          class: ["form-control", "signup-field"],
+          placeholder: "State"
+      .col-md-6
+        = a.text_field :zip,
+          class: ["form-control", "signup-field"],
+          placeholder: "Zip Code"
 

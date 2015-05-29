@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150529135903) do
+ActiveRecord::Schema.define(version: 20150529205844) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -19,8 +19,8 @@ ActiveRecord::Schema.define(version: 20150529135903) do
   enable_extension "uuid-ossp"
 
   create_table "contacts", force: :cascade do |t|
-    t.text     "emails",           default: [], array: true
-    t.text     "phone_numbers",    default: [], array: true
+    t.text     "emails",           array: true
+    t.text     "phone_numbers",    array: true
     t.text     "contact_form_url"
     t.datetime "created_at"
     t.datetime "updated_at"

@@ -18,8 +18,14 @@ feature "Creating a new account with optional info" do
     signup_page.fill_in_contact_info
     signup_page.create_account
 
-    user = User.first
-    expect(user.contact.phone_numbers).to include "1234567890"
+    contact = User.first.contact
+    expect(contact.phone_numbers).to eq ["1234567890"]
+
+    address = contact.postal_addresses.first
+    expect(address.line1).to eq "1 Boweevil Lane"
+    expect(address.city).to eq "Meat Camp"
+    expect(address.state).to eq "NC"
+    expect(address.zip).to eq "12345"
   end
 end
 

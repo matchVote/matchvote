@@ -17,6 +17,15 @@ class Users::RegistrationsController < Devise::RegistrationsController
       stances_path
     end
 
+    def sign_up_params
+      params.require(resource_name).permit(
+        :username, :email, :password, :password_confirmation, 
+        contact_attributes: [
+          phone_numbers: [], 
+          postal_addresses_attributes: [:line1, :city, :state, :zip]
+        ])
+    end
+
   private
     def set_stances_presenter
       stances = Stance.includes(statement: :issue_category).
