@@ -1,0 +1,12 @@
+%h3 Contact Info
+%input.form-control.signup-field{placeholder: "Phone"}
+%input.form-control.signup-field{placeholder: "Twitter"}
+%input.form-control.signup-field{placeholder: "Address"}
+%input.form-control.signup-field{placeholder: "City"}
+.row
+  .col-md-6
+    %select.form-control.signup-field{name: "State"}
+      %option{:placeholder => 'true'} State
+  .col-md-6
+    %input.form-control.signup-field{placeholder: "Zip Code"}
+

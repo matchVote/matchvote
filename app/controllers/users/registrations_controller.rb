@@ -2,10 +2,13 @@ class Users::RegistrationsController < Devise::RegistrationsController
   before_action :set_stances_presenter
 
   def new
+    @signup_form = SignUpForm.new
     super
   end
 
   def create
+    new_params = sign_up_params.except(:password, :password_confirmation)
+    @signup_form = SignUpForm.new(new_params)
     super
   end
 
