@@ -9,6 +9,7 @@ class User < ActiveRecord::Base
   has_many :inference_opinions, dependent: :destroy
   has_many :stances, as: :opinionable
   validates :username, presence: true, uniqueness: true
+  validate :username_has_no_whitespace
 
   def profile
     @profile ||= profile_type.constantize.find(profile_id)
@@ -22,5 +23,11 @@ class User < ActiveRecord::Base
     def default_values
       self.profile_type ||= "User"
       self.profile_id ||= id
+    end
+
+    def username_has_no_whitespace
+      if username.match(/\s/)
+        errors.add(:username, "can't have spaces.")
+      end
     end
 end
