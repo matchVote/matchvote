@@ -7,7 +7,7 @@
       = image_tag "http://bradhankins.com/wp-content/uploads/2014/10/brad.jpg",
           class: "profile_pic", title: "@#{current_user.username}"
       .profile_name
-        %a.btn.btn-default.btn-sm.pull-right
+        %a.btn.btn-default.btn-xs.pull-right
           %span.glyphicon.glyphicon-edit
           Edit Profile
         %h2 Brad Hankins
@@ -17,9 +17,23 @@
         Unaffiliated Voter from NC
       .profile_bio
         Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat.
+    .whitecard
+      %a.btn.btn-default.btn-xs.pull-right
+        %span.glyphicon.glyphicon-eye-open
+        Edit Privacy
+      %h3 Political Stances
   .col-md-4
     .well.first_widget
       %center
         %h3 Following
         %hr
         = render "devise/sessions/landingpics"
+    .well.widget
+      %center
+        %h4 Invite a friend to join matchVote
+      %input.form-control.signup-field{placeholder: "Name"}
+      %input.form-control.signup-field{placeholder: "Email"}
+      %center
+        %a.btn.btn-primary
+          %span.glyphicon.glyphicon-share-alt
+          Invite
