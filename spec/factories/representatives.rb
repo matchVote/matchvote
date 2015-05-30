@@ -11,11 +11,6 @@ FactoryGirl.define do
     branch "Executive"
     user_id nil
     name_recognition 0
-    external_credentials do 
-      { twitter_username:  "tweet", 
-        facebook_username: "facebook", 
-        youtube_username:  "youtubes" }
-    end
 
     contact
   end
