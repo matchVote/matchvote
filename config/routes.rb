@@ -8,6 +8,7 @@ Rails.application.routes.draw do
   resources :representatives, only: [:edit, :update]
   resources :citizens, only: [:show]
   resources :stances, only: [:index, :create, :update, :destroy]
+  resources :news, only: [:index]
   get "/directory/filter", to: "directory#filter"
 end
 
