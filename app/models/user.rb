@@ -6,6 +6,8 @@ class User < ActiveRecord::Base
   devise :database_authenticatable, :registerable, :lockable,
          :recoverable, :rememberable, :trackable, :validatable
 
+  has_one :contact, as: :contactable, dependent: :destroy
+  accepts_nested_attributes_for :contact
   has_many :inference_opinions, dependent: :destroy
   has_many :stances, as: :opinionable
   validates :username, presence: true, uniqueness: true
@@ -26,8 +28,6 @@ class User < ActiveRecord::Base
     end
 
     def username_has_no_whitespace
-      if username.match(/\s/)
-        errors.add(:username, "can't have spaces.")
-      end
+      errors.add(:username, "can't have spaces.") if username.match(/\s/)
     end
 end

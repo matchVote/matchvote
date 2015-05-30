@@ -16,14 +16,15 @@ gem "rails", "4.2.0"
 gem "rails-html-sanitizer", "~> 1.0.1"
 gem "sass-rails", "~> 5.0.1"
 gem "sdoc", "~> 0.4.0", group: :doc
-gem 'sweetalert-rails'
+gem "sweetalert-rails", "~> 0.5.0"
 gem "uglifier", "~> 2.7.1"
 gem "virility", "~> 0.1.4"
-gem "will_paginate"
+gem "will_paginate", "~> 3.0.7"
 
 group :development, :test do
   gem "byebug", "~> 4.0.2"
   gem "faker", "~> 1.4.3"
+  gem "rails_db_info", "~> 0.2"
   gem "spring", "~> 1.3.3"
   gem "spring-commands-rspec", "~> 1.0.4"
   gem "thin", "~> 1.6.3"

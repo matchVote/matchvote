@@ -1,0 +1,49 @@
+%h3 Personal Info
+= f.fields_for :personal_info, OpenStruct.new(f.object.personal_info) do |pi|
+  %div
+    = pi.text_field :first_name,
+      class: ["form-control", "signup-field"],
+      placeholder: "First Name"
+  %div
+    = pi.text_field :last_name,
+      class: ["form-control", "signup-field"],
+      placeholder: "Last Name"
+  %div
+    = pi.text_field :birthday, 
+      class: ["form-control", "signup-field"],
+      id: "date_picker",
+      placeholder: "Birthday (mm/dd/yyyy)"
+  .row
+    .col-md-6
+      = pi.select :gender, options_for_select(f.object.genders),
+        { include_blank: "Gender" },
+        class: ["form-control", "signup-field"],
+        placeholder: "Gender"
+    .col-md-6
+      = pi.select :ethnicity, options_for_select(f.object.ethnicities),
+        { include_blank: "Ethnicity" },
+        class: ["form-control", "signup-field"],
+        placeholder: "Ethnicity"
+  .row
+    .col-md-6
+      = pi.select :party, options_for_select(f.object.parties),
+        { include_blank: "Political Party" },
+        class: ["form-control", "signup-field"],
+        placeholder: "Party"
+    .col-md-6
+      = pi.select :education, options_for_select(f.object.education_levels),
+        { include_blank: "Education" },
+        class: ["form-control", "signup-field"],
+        placeholder: "Education"
+  .row
+    .col-md-6
+      = pi.select :religion, options_for_select(f.object.religions),
+        { include_blank: "Religion" },
+        class: ["form-control", "signup-field"],
+        placeholder: "Religion"
+    .col-md-6
+      = pi.select :relationship, options_for_select(f.object.relationships),
+        { include_blank: "Relationship" },
+        class: ["form-control", "signup-field"],
+        placeholder: "Relationship"
+
