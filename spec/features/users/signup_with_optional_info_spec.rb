@@ -26,10 +26,7 @@ feature "Creating a new account with optional info" do
     expect(personal_info["education"]).to eq "some_college"
   end
 
-  scenario "user's birthday is saved" do
-    signup_page.select_birthday
-    signup_page.create_account
-  end
+  scenario "user's birthday is saved"
 
   scenario "Contact info gets saved for user" do
     signup_page.fill_in_contact_info
