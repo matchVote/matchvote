@@ -14,6 +14,7 @@ class SignUpPage < Page
   end
 
   def fill_in_contact_info
+    fill_in "Twitter", with: "my_twitter_name"
     fill_in "Phone", with: "1234567890"
     fill_in "Address", with: "1 Boweevil Lane"
     fill_in "City", with: "Meat Camp"

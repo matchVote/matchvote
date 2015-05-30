@@ -20,6 +20,7 @@ feature "Creating a new account with optional info" do
 
     contact = User.first.contact
     expect(contact.phone_numbers).to eq ["1234567890"]
+    expect(contact.external_ids).to include "twitter" => "my_twitter_name"
 
     address = contact.postal_addresses.first
     expect(address.line1).to eq "1 Boweevil Lane"

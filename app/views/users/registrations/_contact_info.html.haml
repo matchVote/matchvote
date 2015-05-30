@@ -4,7 +4,10 @@
     class: ["form-control", "signup-field"],
     placeholder: "Phone",
     multiple: true
-  %input.form-control.signup-field{placeholder: "Twitter"}
+  = c.fields_for :external_ids, OpenStruct.new(c.object.external_ids) do |id|
+    = id.text_field :twitter,
+      class: ["form-control", "signup-field"],
+      placeholder: "Twitter"
   = c.fields_for :postal_addresses do |a|
     = a.text_field :line1,
       class: ["form-control", "signup-field"],

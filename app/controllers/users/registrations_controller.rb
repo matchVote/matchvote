@@ -21,6 +21,7 @@ class Users::RegistrationsController < Devise::RegistrationsController
       params.require(resource_name).permit(
         :username, :email, :password, :password_confirmation, 
         contact_attributes: [
+          external_ids: [:twitter],
           phone_numbers: [], 
           postal_addresses_attributes: [:line1, :city, :state, :zip]
         ])

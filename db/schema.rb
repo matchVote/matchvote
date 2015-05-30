@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150529205844) do
+ActiveRecord::Schema.define(version: 20150530010603) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -27,6 +27,7 @@ ActiveRecord::Schema.define(version: 20150529205844) do
     t.text     "website_url"
     t.uuid     "contactable_id"
     t.string   "contactable_type"
+    t.hstore   "external_ids"
   end
 
   add_index "contacts", ["contactable_type", "contactable_id"], name: "index_contacts_on_contactable_type_and_contactable_id", using: :btree
@@ -167,6 +168,7 @@ ActiveRecord::Schema.define(version: 20150529205844) do
     t.uuid     "profile_id"
     t.boolean  "rep_admin",              default: false
     t.text     "rep_slug"
+    t.hstore   "personal_info"
   end
 
   add_index "users", ["confirmation_token"], name: "index_users_on_confirmation_token", unique: true, using: :btree
