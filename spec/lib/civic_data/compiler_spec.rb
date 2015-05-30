@@ -25,10 +25,10 @@ describe CivicData::Compiler do
     end
   end
 
-  describe "#external_credentials" do
+  describe "#external_ids" do
     it "returns a hash of social media usernames" do
-      expect(subject.external_credentials["facebook_username"]).to eq "terrisewell"
-      expect(subject.external_credentials["twitter_username"]).to be_nil
+      expect(subject.external_ids["facebook_username"]).to eq "terrisewell"
+      expect(subject.external_ids["twitter_username"]).to be_nil
     end
   end
 end

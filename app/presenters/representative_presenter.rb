@@ -9,6 +9,10 @@ class RepresentativePresenter < SimpleDelegator
     @contact ||= ContactPresenter.new(rep.contact)
   end
 
+  def external_ids
+    contact.external_ids || {}
+  end
+
   def full_name
     "#{nickname_or_first_name} #{last_name}"
   end
@@ -54,14 +58,14 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def facebook_url
-    "https://facebook.com/#{rep.external_credentials["facebook_username"]}"
+    "https://facebook.com/#{external_ids["facebook_username"]}"
   end
 
   def twitter_url
-    "https://twitter.com/#{rep.external_credentials["twitter_username"]}"
+    "https://twitter.com/#{external_ids["twitter_username"]}"
   end
 
   def youtube_url
-    "https://youtube.com/#{rep.external_credentials["youtube_username"]}"
+    "https://youtube.com/#{external_ids["youtube_username"]}"
   end
 end

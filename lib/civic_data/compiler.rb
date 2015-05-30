@@ -31,7 +31,7 @@ module CivicData
         website_url: self["urls"] }
     end
 
-    def external_credentials
+    def external_ids
       { "facebook_username" => find_username("facebook"),
         "twitter_username" => find_username("twitter"),
         "youtube_username" => find_username("youtube") }

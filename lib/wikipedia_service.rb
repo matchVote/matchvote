@@ -7,8 +7,12 @@ class WikipediaService
   end
 
   def first_paragraph
-    r = get("#{base_url}&prop=extracts&exintro=&explaintext=&titles=#{subject}")
+    r = get("#{base_url}#{query_options}&titles=#{subject}")
     r["query"]["pages"].first.last["extract"] if r
+  end
+
+  def query_options
+    "&redirects=true&prop=extracts&exintro=&explaintext="
   end
 
   private
@@ -20,3 +24,4 @@ class WikipediaService
       I18n.transliterate(string || "").gsub(" ", "%20")
     end
 end
+

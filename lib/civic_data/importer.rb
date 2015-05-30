@@ -16,7 +16,7 @@ module CivicData
         rep.update_attribute(:office, office["name"])
 
         update_contact(rep, compiler.contact_hash)
-        rep.update_credentials(compiler.external_credentials)
+        rep.update_external_ids(compiler.external_ids)
         rep.save
       end
     end

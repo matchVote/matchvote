@@ -10,10 +10,7 @@ class LegislatorsDataCompiler
   end
 
   def compile_attributes
-    name.merge!(bio).
-      merge!(terms).
-      merge!(contact).
-      merge!(external_credentials)
+    name.merge!(bio).merge!(terms).merge!(contact)
   end
 
   def generate_slug
@@ -55,38 +52,35 @@ class LegislatorsDataCompiler
   end
 
   def contact
-    { contact: Contact.create(
+    { contact_attributes: { 
         contact_form_url: latest_term["contact_form"],
         phone_numbers: Array(latest_term["phone"]),
         emails: [],
         website_url: latest_term["url"],
-        postal_addresses: Array(create_postal_address(latest_term["address"]))) }
-  end
-
-  def external_credentials
-    { bioguide_id: rep_data["id"]["bioguide"],
-      external_credentials: { 
-        thomas_id: rep_data["id"]["thomas"],
-        lis_id: rep_data["id"]["lis"],
-        govtrack_id: rep_data["id"]["govtrack"],
-        opensecrets_id: rep_data["id"]["opensecrets"],
-        votesmart_id: rep_data["id"]["votesmart"],
-        fec_ids: rep_data["id"]["fec"].join(","),
-        cspan_id: rep_data["id"]["cspan"],
-        wikipedia_id: find_wikipedia_search_string,
-        house_history_id: rep_data["id"]["house_history"],
-        ballotpedia_id: rep_data["id"]["ballotpedia"],
-        maplight_id: rep_data["id"]["maplight"],
-        washington_post_id: rep_data["id"]["washington_post"],
-        icpsr_id: rep_data["id"]["icpsr"],
-        twitter_username: external_ids["twitter"],
-        youtube_username: external_ids["youtube"],
-        youtube_id: external_ids["youtube_id"],
-        facebook_username: external_ids["facebook"],
-        facebook_id: external_ids["facebook_id"],
-        instagram_username: external_ids["instagram"],
-        instagram_id: external_ids["instagram_id"],
-        rss_url: external_ids["rss_url"] } }
+        postal_addresses_attributes: [parse_address(latest_term["address"])],
+        external_ids: { 
+          thomas_id: rep_data["id"]["thomas"],
+          lis_id: rep_data["id"]["lis"],
+          govtrack_id: rep_data["id"]["govtrack"],
+          opensecrets_id: rep_data["id"]["opensecrets"],
+          votesmart_id: rep_data["id"]["votesmart"],
+          fec_ids: rep_data["id"]["fec"].join(","),
+          cspan_id: rep_data["id"]["cspan"],
+          wikipedia_id: find_wikipedia_search_string,
+          house_history_id: rep_data["id"]["house_history"],
+          ballotpedia_id: rep_data["id"]["ballotpedia"],
+          maplight_id: rep_data["id"]["maplight"],
+          washington_post_id: rep_data["id"]["washington_post"],
+          icpsr_id: rep_data["id"]["icpsr"],
+          twitter_username: external_ids["twitter"],
+          youtube_username: external_ids["youtube"],
+          youtube_id: external_ids["youtube_id"],
+          facebook_username: external_ids["facebook"],
+          facebook_id: external_ids["facebook_id"],
+          instagram_username: external_ids["instagram"],
+          instagram_id: external_ids["instagram_id"],
+          bioguide_id: rep_data["id"]["bioguide"],
+          rss_url: external_ids["rss_url"] }}}
   end
 
   private
@@ -132,8 +126,8 @@ class LegislatorsDataCompiler
       end
     end
 
-    def create_postal_address(address_string)
-      PostalAddress.create(AddressParser.parse_attributes(address_string))
+    def parse_address(address_string)
+      AddressParser.parse_attributes(address_string)
     end
 end
 

@@ -6,6 +6,7 @@ describe WikipediaService do
   let(:default_params) do
     { format: "json", 
       action: "query", 
+      redirects: "true",
       prop: "extracts", 
       exintro: "", 
       explaintext: "" }

@@ -1,6 +1,7 @@
 class Representative < ActiveRecord::Base
   include PgSearch
   has_one :contact, as: :contactable, dependent: :destroy
+  accepts_nested_attributes_for :contact
   has_many :stances, as: :opinionable
 
   validates :first_name, :last_name, :slug, presence: true
@@ -10,19 +11,13 @@ class Representative < ActiveRecord::Base
     using: { tsearch: { prefix: true } }
 
   def update_or_create_contact(contact_params)
-    if contact
-      contact.update_attributes(contact_params)
-    else
-      update_attribute(:contact, Contact.create(contact_params))
-    end
+    contact ? contact.update!(contact_params) : create_contact!(contact_params)
   end
 
-  def update_credentials(hash)
-    if external_credentials
-      external_credentials.merge!(hash)
-      save
-    else
-      update_attribute(:external_credentials, hash)
+  def update_external_ids(hash)
+    if contact
+      ids = contact.external_ids || {}
+      contact.update!(external_ids: ids.merge(hash))
     end
   end
 end

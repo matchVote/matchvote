@@ -27,7 +27,7 @@ namespace :reps do
 
       compiler = LegislatorsDataCompiler.new(rep_data, rep_social_ids)
       rep = Representative.find_or_create_by(slug: compiler.generate_slug)
-      rep.update_attributes(compiler.compile_attributes)
+      rep.update!(compiler.compile_attributes)
     end
   end
 
@@ -39,7 +39,7 @@ namespace :reps do
       reps.each do |rep|
         compiler = MatchvoteDataCompiler.new(rep)
         rep = Representative.find_or_create_by(slug: compiler.generate_slug)
-        rep.update_attributes(compiler.compile_attributes)
+        rep.update!(compiler.compile_attributes)
       end
     end
   end
@@ -53,7 +53,7 @@ namespace :reps do
 
     Representative.find_each do |rep|
       if rep.profile_image_url.nil?
-        rep.update_attribute(:profile_image_url, parser.find_url(rep))
+        rep.update!(profile_image_url: parser.find_url(rep))
       end
     end
 
@@ -62,14 +62,14 @@ namespace :reps do
 
   task load_bios: :environment do
     Representative.find_each do |rep|
-      bio = if (wiki_id = rep.external_credentials["wikipedia_id"])
-        wiki = WikipediaService.new(rep.external_credentials["wikipedia_id"])
+      bio = if (wiki_id = rep.contact.external_ids["wikipedia_id"])
+        wiki = WikipediaService.new(rep.contact.external_ids["wikipedia_id"])
         BiographySanitizer.new(wiki.first_paragraph).sanitize
       else
         "To be added."
       end
 
-      rep.update_attribute(:biography, bio)
+      rep.update!(biography: bio)
     end
   end
 
@@ -90,15 +90,15 @@ namespace :reps do
 
     data.each do |rep_data|
       rep = Representative.find_by(slug: rep_data[:slug])
-      rep.update_attribute(:profile_image_url, "#{base_uri}#{rep_data[:url]}")
+      rep.update!(profile_image_url: "#{base_uri}#{rep_data[:url]}")
     end
   end
 
   task set_name_recognition: :environment do
     Representative.find_each do |rep|
-      if (slug = rep.external_credentials["facebook_username"])
+      if (slug = rep.contact.external_ids["facebook_username"])
         results = Virility::Facebook.new("http://facebook.com/#{slug}").poll
-        rep.update_attribute(:name_recognition, results["like_count"])
+        rep.update!(name_recognition: results["like_count"])
       end
     end
   end

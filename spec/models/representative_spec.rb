@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe Representative do
-  subject { build(:representative) }
+  subject { create(:representative) }
   let(:contact_params) do
     { emails: ["one@email.com", "two@emails.com"], 
       phone_numbers: ["(123) 999-9999", "535-353-5353"],
@@ -12,7 +12,7 @@ describe Representative do
   describe "#update_or_create_contact" do
     context "when rep does not have a contact" do
       it "creates one" do
-        rep = build(:representative, contact: nil)
+        rep = create(:representative, contact: nil)
         rep.update_or_create_contact(contact_params)
         expect(rep.reload.contact.postal_addresses.size).to eq 2
         expect(rep.contact.phone_numbers.size).to eq 2
@@ -30,23 +30,24 @@ describe Representative do
     end
   end
 
-  describe "#update_credentials" do
-    context "when rep has no external credentials" do
+  describe "#update_external_ids" do
+    context "when rep has no external ids" do
       it "creates them" do
-        subject.external_credentials = nil
-        subject.update_credentials(test_cred: "what you say?")
-        expect(subject.reload.external_credentials).
+        subject.contact.external_ids = nil
+        subject.update_external_ids(test_cred: "what you say?")
+        expect(subject.reload.contact.external_ids).
           to eq({ "test_cred" => "what you say?" })
       end
     end
 
-    context "when rep has external credentials" do
+    context "when rep has external ids" do
       it "updates the present keys" do
-        new_creds = { "twitter_username"  => "a new one", 
-                      "facebook_username" => "facebook", 
-                      "youtube_username"  => "youtubes" }
-        subject.update_credentials("twitter_username" => "a new one")
-        expect(subject.reload.external_credentials).to eq new_creds
+        ids = { "twitter_username"  => "a new one", 
+                "facebook_username" => "facebook", 
+                "youtube_username"  => "youtubes" }
+        subject.contact.update(external_ids: ids)
+        subject.update_external_ids("twitter_username" => "a new one")
+        expect(subject.reload.contact.external_ids).to eq ids
       end
     end
   end
