@@ -11,7 +11,24 @@ feature "Creating a new account with optional info" do
     signup_page.use_default_account_info
   end
 
-  feature "Filling in personal info" do
+  scenario "Personal info gets saved for user" do
+    signup_page.fill_in_personal_info
+    signup_page.create_account
+
+    personal_info = User.first.personal_info
+    expect(personal_info["first_name"]).to eq "Hey"
+    expect(personal_info["last_name"]).to eq "Bob"
+    expect(personal_info["gender"]).to eq "male"
+    expect(personal_info["ethnicity"]).to eq "mixed"
+    expect(personal_info["party"]).to eq "green"
+    expect(personal_info["religion"]).to eq "hindu"
+    expect(personal_info["relationship"]).to eq "married"
+    expect(personal_info["education"]).to eq "some_college"
+  end
+
+  scenario "user's birthday is saved" do
+    signup_page.select_birthday
+    signup_page.create_account
   end
 
   scenario "Contact info gets saved for user" do

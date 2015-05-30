@@ -20,6 +20,9 @@ class Users::RegistrationsController < Devise::RegistrationsController
     def sign_up_params
       params.require(resource_name).permit(
         :username, :email, :password, :password_confirmation, 
+        personal_info: [
+          :first_name, :last_name, :gender, :religion,
+          :ethnicity, :party, :education, :relationship],
         contact_attributes: [
           external_ids: [:twitter],
           phone_numbers: [], 

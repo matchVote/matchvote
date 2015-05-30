@@ -13,6 +13,17 @@ class SignUpPage < Page
     fill_in "Confirm Password", with: "!123abcd"
   end
 
+  def fill_in_personal_info
+    fill_in "First Name", with: "Hey"
+    fill_in "Last Name", with: "Bob"
+    select "Male", from: "Gender"
+    select "Mixed", from: "Ethnicity"
+    select "Green", from: "Party"
+    select "Some College", from: "Education"
+    select "Hindu", from: "Religion"
+    select "Married", from: "Relationship"
+  end
+
   def fill_in_contact_info
     fill_in "Twitter", with: "my_twitter_name"
     fill_in "Phone", with: "1234567890"
