@@ -1,5 +1,44 @@
 .container
   .col-md-9
+    %br
+    .newscard
+      .btn-group-vertical.vote-btns.pull-left
+        .btn.btn-lg.glyphicon.glyphicon-circle-arrow-up
+        .news-vote-count 1582
+        .btn.btn-lg.glyphicon.glyphicon-circle-arrow-down
+      .news-title
+        %h2 More U.S. adults describe themselves as "pro-choice" than "pro-life" for the first time in seven years, according to a new Gallup poll.
+        %hr
+        .news-summary
+          %ul
+            %li Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
+            %li Cin sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis.
+            %li Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec vulputate eget.
+      .news-meta
+        .row
+          .col-md-8
+            = render "devise/sessions/landingpics"
+          .col-md-4
+            .btn.btn-primary.btn-sm
+              Read Full Article
+            .btn.btn-danger.btn-sm
+              237 Comments
+
+    .whitecard
+    .whitecard
+    .whitecard
     .whitecard
   .col-md-3
     .news-sidebar
+      .news-widget
+        .glyphicon.glyphicon-signal
+        %strong &nbsp Trending Forum Discussions
+      .news-widget
+        .glyphicon.glyphicon-user
+        %strong &nbsp Representatives to Follow
+      .news-widget
+        .glyphicon.glyphicon-bullhorn
+        %strong &nbsp Upcoming Townhalls
+      .news-widget
+        .glyphicon.glyphicon-bookmark
+        %strong &nbsp Saved News Articles
