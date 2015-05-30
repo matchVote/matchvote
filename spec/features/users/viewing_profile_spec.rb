@@ -3,7 +3,7 @@ require "support/authentication"
 
 feature "Viewing a user's profile" do
   given(:user) { create(:user) }
-  given(:rep)  { create(:representative) }
+  given(:rep)  { create(:representative, slug: "hey-bob") }
 
   background do
     sign_in(user)
