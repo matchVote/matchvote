@@ -8,9 +8,7 @@
           class: "profile_pic", title: "@#{current_user.username}"
       .profile_name
         .btn-group.pull-right
-          .btn.btn-default.btn-xs
-            %span.glyphicon
-            Edit Profile
+          = link_to "Edit Profile", "edit.#{current_user.username}", class: "btn btn-xs btn-default"
           .btn.btn-default.btn-xs
             Edit Privacy
             %span.glyphicon

@@ -2,27 +2,35 @@
   .col-md-9
     %br
     .newscard
-      .btn-group-vertical.vote-btns.pull-left
-        .btn.btn-lg.glyphicon.glyphicon-circle-arrow-up
-        .news-vote-count 1582
-        .btn.btn-lg.glyphicon.glyphicon-circle-arrow-down
-      .news-title
-        %h2 More U.S. adults describe themselves as "pro-choice" than "pro-life" for the first time in seven years, according to a new Gallup poll.
-        %hr
-        .news-summary
-          %ul
-            %li Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
-            %li Cin sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis.
-            %li Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec vulputate eget.
-      .news-meta
-        .row
-          .col-md-8
-            = render "devise/sessions/landingpics"
-          .col-md-4
-            .btn.btn-primary.btn-sm
-              Read Full Article
-            .btn.btn-danger.btn-sm
-              237 Comments
+      .row
+        .btn.btn-default.btn-xs.glyphicon.glyphicon-bookmark.pull-right{title:"Bookmark Article"}
+        .btn-group-vertical.vote-btns.pull-left
+          .btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title:"Upvote"}
+          .news-vote-count 1582
+          .btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title:"Downvote"}
+        .news-title
+          %h2 More U.S. adults describe themselves as "pro-choice" than "pro-life" for the first time in seven years, according to a new Gallup poll.
+          .news-author
+            By Peter Sullivan at The Hill
+            %span.pull-right 5/29/2015 @ 9:27am
+          %hr
+          .news-summary
+            .col-md-8
+              %h5 OVERVIEW
+              %ul
+                %li The poll finds that 50 percent support abortion rights and 44 percent oppose them.
+                %li House Republicans were forced to pull a 20-week abortion ban earlier this year over concerns from some women Republican lawmakers about a requirement that rape be reported to the police to qualify for the ban’s exemption.
+                %li Twenty-nine percent of adults say abortion should be legal in all circumstances, and 19 percent in no circumstances.
+            .col-md-4
+              %center
+                .row
+                  .btn.btn-primary.btn-xs
+                    Read Article
+                  .btn.btn-danger.btn-xs
+                    237 Comments
+                .news-mentions
+                  %h5 MENTIONS
+                  = render "devise/sessions/landingpics"
 
     .whitecard
     .whitecard
@@ -30,6 +38,17 @@
     .whitecard
   .col-md-3
     .news-sidebar
+      .news-filter
+        %center
+          %h4
+            Top News for
+            = Date.today.strftime("%B")
+            = Time.now.day.ordinalize
+            = Time.now.year
+        %select.form-control
+          %option Sort News by Highest Rank
+          %option Sort News by Recently Published
+          %option Sort News by Comment Count
       .news-widget
         .glyphicon.glyphicon-signal
         %strong &nbsp Trending Forum Discussions
@@ -40,5 +59,8 @@
         .glyphicon.glyphicon-bullhorn
         %strong &nbsp Upcoming Townhalls
       .news-widget
+        .glyphicon.glyphicon-calendar
+        %strong &nbsp Archived News
+      .news-widget
         .glyphicon.glyphicon-bookmark
-        %strong &nbsp Saved News Articles
+        %strong &nbsp Bookmarked Articles
