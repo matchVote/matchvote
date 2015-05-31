@@ -14,10 +14,12 @@ def create_stances(user)
   end
 end
 
-def create_one_stance
+def create_one_stance(values = {})
   issue = create(:issue_category, name: "temp_name")
   statement = create(:statement, issue_category: issue, text: "blah blah")
-  create(:stance, statement: statement, opinionable: user)
+  create(:stance, statement: statement, opinionable: user, 
+    agreeance_value: values[:agreeance], 
+    importance_value: values[:importance])
 end
 
 def build_issues

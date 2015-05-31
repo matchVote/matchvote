@@ -30,6 +30,11 @@ class Stance < ActiveRecord::Base
     AGREEANCE_VALUES.invert
   end
 
+  def self.stances_for_entity(entity)
+    includes(statement: :issue_category).where(opinionable: entity).
+      order("issue_categories.name")
+  end
+
   def agreeance_value
     self[:agreeance_value] || 0
   end
