@@ -45,10 +45,16 @@
             = Date.today.strftime("%B")
             = Time.now.day.ordinalize
             = Time.now.year
-        %select.form-control
+        %select.form-control.signup-field
+          %option Show News for Followed Reps
+          %option Show All News
+        %select.form-control.signup-field
           %option Sort News by Highest Rank
           %option Sort News by Recently Published
           %option Sort News by Comment Count
+      .news-widget
+        .glyphicon.glyphicon-calendar
+        %strong &nbsp Browse Older News
       .news-widget
         .glyphicon.glyphicon-signal
         %strong &nbsp Trending Forum Discussions
@@ -58,9 +64,6 @@
       .news-widget
         .glyphicon.glyphicon-bullhorn
         %strong &nbsp Upcoming Townhalls
-      .news-widget
-        .glyphicon.glyphicon-calendar
-        %strong &nbsp Archived News
       .news-widget
         .glyphicon.glyphicon-bookmark
         %strong &nbsp Bookmarked Articles
