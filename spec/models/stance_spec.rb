@@ -1,7 +1,17 @@
 require "rails_helper"
+require "support/stances"
 
 describe Stance do
   let(:stance) { build(:stance) }
+
+  describe ".stances_for_entity" do
+    it "returns all stances for a user or rep" do
+      create_statements
+      user = create(:user)
+      create_stances(user)
+      expect(described_class.stances_for_entity(user).count).to eq 4
+    end
+  end
 
   describe "#agreeance_value" do
     it "defaults to 0 when stance has no value" do

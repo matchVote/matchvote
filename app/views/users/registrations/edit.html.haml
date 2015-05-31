@@ -167,10 +167,11 @@
 
 
   .whitecard
+    %a{name: "stances"}
     %h2 Edit Saved Stances
     %hr
-    - if @stances_presenter.has_stances?
-      = render "stances", presenter: @stances_presenter
+    - if @stances.has_stances?
+      = render "stances", presenter: @stances
     - else
       You haven't saved any stances yet.
       = link_to "Click here add your political stances", stances_path

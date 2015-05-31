@@ -1,0 +1,19 @@
+= render "edit_stances_button" if policy.edit?
+%h3 Political Stances
+- stances.issues.each do |issue|
+  .issue{data: { issue_id: issue.id }}
+    .btn.btn-default.pull-right Expand
+    %h3= issue.name.titleize
+    - stances.stances_for_issue(issue).each do |stance|
+      .stance{data: { stance_id: stance.id }}
+        .row
+          .col-md-12
+            %h4= stance.statement.text
+        .row
+          .col-md-6
+            %strong Stance
+            = stance.agreeance_value_string
+          .col-md-6
+            %strong Importance
+            = stance.importance_value_string
+

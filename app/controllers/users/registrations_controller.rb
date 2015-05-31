@@ -32,9 +32,10 @@ class Users::RegistrationsController < Devise::RegistrationsController
 
   private
     def set_stances_presenter
-      stances = Stance.includes(statement: :issue_category).
-        where(opinionable: resource).order("issue_categories.name")
-      @stances_presenter = StancesPresenter.new(stances)
+      # stances = Stance.includes(statement: :issue_category).
+      #   where(opinionable: resource).order("issue_categories.name")
+      # @stances = StancesPresenter.new(stances)
+      @stances = StancesPresenter.new(Stance.stances_for_entity(resource))
     end
 end
 
