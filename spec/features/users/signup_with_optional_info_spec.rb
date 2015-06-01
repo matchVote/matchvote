@@ -24,9 +24,8 @@ feature "Creating a new account with optional info" do
     expect(personal_info["religion"]).to eq "hindu"
     expect(personal_info["relationship"]).to eq "married"
     expect(personal_info["education"]).to eq "some_college"
+    expect(personal_info["birthday"]).to eq "11/12/1492"
   end
-
-  scenario "user's birthday is saved"
 
   scenario "Contact info gets saved for user" do
     signup_page.fill_in_contact_info
@@ -41,6 +40,14 @@ feature "Creating a new account with optional info" do
     expect(address.city).to eq "Meat Camp"
     expect(address.state).to eq "NC"
     expect(address.zip).to eq "12345"
+  end
+
+  scenario "profile pic is saved to AWS" do
+    signup_page.choose_file_to_upload
+    signup_page.create_account
+    user = User.first
+    aws_file_regex = /uploads\/user\/profile_pic\/#{user.id}\/test.jpg/
+    expect(user.profile_pic_url).to match aws_file_regex
   end
 end
 

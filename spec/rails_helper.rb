@@ -62,4 +62,10 @@ RSpec.configure do |config|
     Warden.test_reset!
     DatabaseCleaner.clean
   end
+
+  # Mock Fog for carrierwave uploads to S3
+  Fog.mock!
+  Fog.credentials_path = "#{Rails.root}/config/fog_credentials.yml"
+  connection = Fog::Storage.new(provider: "AWS")
+  connection.directories.create(key: "mv-profile-pics")
 end

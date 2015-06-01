@@ -50,5 +50,13 @@ class ProfilePage < Page
   def editing?
     has_content? "Edit your profile and political stances."
   end
+  
+  def profile_pic_url
+    find(".profile_pic")[:src]
+  end
+
+  def has_aws_url_for_profile_pic?
+    profile_pic_url.match(/s3\.amazonaws\.com\/uploads\/user\/profile_pic/)
+  end
 end
 

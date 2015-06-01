@@ -25,6 +25,17 @@ feature "Viewing Citizen profile" do
     expect(page).to have_content "Neutral"
   end
 
+  scenario "shows uploaded profile pic if user has one" do
+    file = File.open("#{Rails.root}/spec/support/images/test.jpg")
+    user.update(profile_pic: file)
+    profile.refresh
+    expect(profile).to have_aws_url_for_profile_pic
+  end
+
+  scenario "shows default profile pic if user doesn't have one" do
+    expect(profile.profile_pic_url).to eq "/assets/default.png"
+  end
+
   context "when profile belongs to user" do
     background do
       user.save

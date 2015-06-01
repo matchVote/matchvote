@@ -2,7 +2,7 @@ require "#{Rails.root}/lib/us_states"
 
 class SignUpForm
   include ActiveModel::Model
-  attr_accessor :username, :email, :contact_attributes, :personal_info
+  attr_accessor :username, :email, :contact_attributes, :personal_info, :profile_pic
 
   def contact
     @contact ||= ContactForm.new
