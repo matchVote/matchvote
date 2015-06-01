@@ -11,8 +11,11 @@ feature "Signing in with an existing account" do
 
   context "with valid input" do
     scenario "successfully signs in user if email and password are valid" do
+      user = create(:user_with_pic)
       sign_in_with email: user.email, password: user.password
       expect(page).not_to have_content("Invalid email or password")
+      pic_url = find(".navbar_pic")[:src]
+      expect(pic_url).to match /s3\.amazonaws\.com\/uploads\/user\/profile_pic/
     end
   end
 

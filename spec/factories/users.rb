@@ -13,7 +13,14 @@ FactoryGirl.define do
         party: "green",
         bio: "hey there" }
     end
-
     contact
+
+    trait :with_profile_pic do
+      username "jebediah"
+      profile_pic File.open(Rails.root.join("spec/support/images/test.jpg"))
+    end
+
+    factory :user_with_pic, traits: [:with_profile_pic]
   end
 end
+
