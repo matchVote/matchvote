@@ -31,11 +31,67 @@
                 .news-mentions
                   %h5 MENTIONS
                   = render "devise/sessions/landingpics"
+    .newscard
+      .row
+        .btn.btn-default.btn-xs.glyphicon.glyphicon-bookmark.pull-right{title:"Bookmark Article"}
+        .btn-group-vertical.vote-btns.pull-left
+          .btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title:"Upvote"}
+          .news-vote-count 1343
+          .btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title:"Downvote"}
+        .news-title
+          %h2 Bernie Sanders Calls For Early Presidential Debates With Democrats, Republicans
+          .news-author
+            By Igor Bobic at Huffington Post
+            %span.pull-right 5/31/2015 @ 12:12pm
+          %hr
+          .news-summary
+            .col-md-8
+              %h5 OVERVIEW
+              %ul
+                %li Sen. Bernie Sanders (I-Vt.) on Sunday called for early presidential debates between both Democrats and Republicans to discuss critical issues ahead of the 2016 primary season.
+                %li A spokesman for the senator's campaign added in a statement that including Republicans "could revive interest among ordinary voters in the democratic process."
+                %li Republicans are scheduled to hold their first primary debate, hosted by Fox News, in August.
+            .col-md-4
+              %center
+                .row
+                  .btn.btn-primary.btn-xs
+                    Read Article
+                  .btn.btn-danger.btn-xs
+                    43 Comments
+                .news-mentions
+                  %h5 MENTIONS
+                  = render "devise/sessions/landingpics"
 
-    .whitecard
-    .whitecard
-    .whitecard
-    .whitecard
+    .newscard
+      .row
+        .btn.btn-default.btn-xs.glyphicon.glyphicon-bookmark.pull-right{title:"Bookmark Article"}
+        .btn-group-vertical.vote-btns.pull-left
+          .btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title:"Upvote"}
+          .news-vote-count 1267
+          .btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title:"Downvote"}
+        .news-title
+          %h2 One big reason America was far more equal in the 1950s and 1960s than now is unions were stronger then.
+          .news-author
+            By Robert Reich at robertreich.org
+            %span.pull-right 5/28/2015
+          %hr
+          .news-summary
+            .col-md-8
+              %h5 OVERVIEW
+              %ul
+                %li In fact, wages in right-to-work states are lower on average than wages in non-right-to-work states, by an average of about $1500 a year.
+                %li When unions are weakened by right-to-work laws, all of a state’s workers are hurt.
+                %li If we want average Americans to get a fair share of the gains from economic growth, they need to be able to unionize.
+            .col-md-4
+              %center
+                .row
+                  .btn.btn-primary.btn-xs
+                    Read Article
+                  .btn.btn-danger.btn-xs
+                    143 Comments
+                .news-mentions
+                  %h5 MENTIONS
+                  = render "devise/sessions/landingpics"
   .col-md-3
     .news-sidebar
       .news-filter
