@@ -178,18 +178,20 @@
 
 .col-md-5
   .whitecard
-    %h3 Profile Pic & Username
+    %h3 Profile Pic &amp; Username
     %hr
     .row
-      .col-md-5= render "profile_pic_upload", user: @user
-      .col-md-7
-        %input.form-control.signup-field{placeholder: "@#{current_user.username}"}
-        %br
-        %center= button_tag "Update", 
-          class: ["btn", "btn-primary", "pull-right"], id: "pic_and_username"
+      = form_for resource, url: registration_path(resource_name), 
+        html: { method: :patch } do |f|
+        .col-md-5= render "profile_pic_upload", user: resource, f: f
+        .col-md-7
+          %input.form-control.signup-field{placeholder: "@#{current_user.username}"}
+          %br
+          %center= f.submit "Update", 
+            class: ["btn", "btn-primary", "pull-right"], id: "pic_and_username"
 
   .whitecard
-    %h3 Email & Password
+    %h3 Email &amp; Password
     %hr
     = form_for(resource, as: resource_name, url: registration_path(resource_name),
       html: { method: :put }) do |f|

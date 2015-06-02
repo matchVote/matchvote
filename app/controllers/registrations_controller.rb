@@ -1,4 +1,4 @@
-class Users::RegistrationsController < Devise::RegistrationsController
+class RegistrationsController < Devise::RegistrationsController
   before_action :set_stances_presenter
 
   def new
@@ -12,13 +12,21 @@ class Users::RegistrationsController < Devise::RegistrationsController
     super
   end
 
-  def edit
-    @user = current_user
-  end
+  # def update
+  #   super
+  # end
 
   protected
-    def after_sign_up_path_for(resource)
+    def update_resource(resource, params)
+      resource.update_without_password(params)
+    end
+
+    def after_sign_up_path_for(_)
       stances_path
+    end
+
+    def after_update_path_for(_)
+      edit_user_registration_path
     end
 
     def sign_up_params
@@ -32,6 +40,10 @@ class Users::RegistrationsController < Devise::RegistrationsController
           phone_numbers: [], 
           postal_addresses_attributes: [:line1, :city, :state, :zip]
         ])
+    end
+
+    def account_update_params
+      params.require(resource_name).permit(:profile_pic)
     end
 
   private

@@ -35,7 +35,7 @@ class SignUpPage < Page
   end
 
   def choose_file_to_upload(file = "test.jpg")
-    attach_file "profile_pic_upload", "#{Rails.root}/spec/support/images/#{file}"
+    attach_file "user_profile_pic", "#{Rails.root}/spec/support/images/#{file}"
   end
 
   def create_account

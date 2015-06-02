@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
   devise_for :users, 
     path: :citizens,
-    controllers: { registrations: "users/registrations" }
+    controllers: { registrations: "registrations" }
   root to: "directory#index"
 
   get "/representative/:slug", to: "representatives#show", as: "rep"
