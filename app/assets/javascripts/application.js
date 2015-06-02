@@ -15,5 +15,6 @@
 //= require bootstrap
 //= require bootstrap-toggle.min
 //= require bootstrap-datepicker.min
+//= require jasny-bootstrap.min
 //= require sweet-alert
 //= require_tree .

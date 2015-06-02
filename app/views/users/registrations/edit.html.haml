@@ -2,7 +2,7 @@
 %center
   %h1 Edit your profile and political stances.
 %br
-.col-md-7
+.col-md-7#edit_profile_page
   .whitecard
     %form
       %h3 Personal Info
@@ -181,17 +181,13 @@
     %h3 Profile Pic & Username
     %hr
     .row
-      .col-md-4
-        %center
-          = image_tag "http://bradhankins.com/wp-content/uploads/2014/10/brad.jpg",
-              class: "edit_pic", title: "Change Profile Pic"
-        %center
-          .btn.btn-sm.btn-link Upload New
-      .col-md-8
+      .col-md-5= render "profile_pic_upload", user: @user
+      .col-md-7
         %input.form-control.signup-field{placeholder: "@#{current_user.username}"}
         %br
-        %center
-          .btn.btn-primary.pull-right Update
+        %center= button_tag "Update", 
+          class: ["btn", "btn-primary", "pull-right"], id: "pic_and_username"
+
   .whitecard
     %h3 Email & Password
     %hr
@@ -214,13 +210,15 @@
       %div
         = f.label :password_confirmation
         %br
-        = f.password_field :password_confirmation, class: "form-control", autocomplete: "off"
+        = f.password_field :password_confirmation, 
+          class: "form-control", autocomplete: "off"
         %br
 
       %div
         = f.label :current_password
         %br
-        = f.password_field :current_password, class: "form-control", autocomplete: "off"
+        = f.password_field :current_password, 
+          class: "form-control", autocomplete: "off"
       %br
       %center= f.submit "Update", class: ["btn", "btn-primary"]
 
@@ -253,3 +251,4 @@
         data: { confirm: "Are you sure?" },
         method: :delete,
         class: ["btn", "btn-danger"]
+
