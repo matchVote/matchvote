@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'elections/index'
+
   devise_for :users, 
     path: :citizens,
     controllers: { registrations: "users/registrations" }
@@ -9,6 +11,7 @@ Rails.application.routes.draw do
   resources :citizens, only: [:show]
   resources :stances, only: [:index, :create, :update, :destroy]
   resources :news, only: [:index]
+  resources :elections, only: [:index]
   get "/directory/filter", to: "directory#filter"
 end
 
