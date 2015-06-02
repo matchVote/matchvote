@@ -22,6 +22,10 @@ class ProfilePage < Page
   def refresh
     click_link "view_profile_link"
   end
+  
+  def edit_path
+    edit_citizen_path(user)
+  end
 
   def has_edit_profile_link?
     has_link? "Edit Profile"

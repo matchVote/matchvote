@@ -1,9 +1,9 @@
 require "rails_helper"
-require "support/page_objects/edit_profile_page"
+require "support/page_objects/edit_account_page"
 
 feature "Editing account settings" do
   given(:user) { create(:user) }
-  given(:profile) { EditProfilePage.new(user) }
+  given(:profile) { EditAccountPage.new(user) }
   subject { page }
 
   background do
@@ -49,25 +49,6 @@ feature "Editing account settings" do
         profile.update_account_info(options)
         expect(subject).to have_content("confirmation doesn't match")
       end
-    end
-  end
-
-  feature "uploading profile pic" do
-    scenario "shows default picture if user has none" do
-      expect(profile).to have_default_pic
-    end
-
-    scenario "shows profile pic if user has one" do
-      file = File.open("#{Rails.root}/spec/support/images/test.jpg")
-      user.update(profile_pic: file)
-      profile.refresh
-      expect(profile).to have_aws_url_for_profile_pic
-    end
-
-    scenario "selecting pic and clicking Update saves pic to AWS", js: true do
-      profile.choose_pic_to_upload
-      profile.click_update_button("pic_and_username")
-      expect(profile).to have_aws_url_for_profile_pic
     end
   end
 

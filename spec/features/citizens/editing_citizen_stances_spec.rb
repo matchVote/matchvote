@@ -1,15 +1,17 @@
 require "rails_helper"
 require "support/stances"
+require "support/page_objects/edit_profile_page"
 require "support/wait_for_ajax"
 
-feature "Editing a user's stances" do
+feature "Editing Citizen stances" do
   given(:user) { create(:user) }
+  given(:profile) { EditProfilePage.new(user) }
   subject { page }
 
   background do
     create_statements
-    login_as(user, scope: :user)
-    visit edit_user_registration_path(user)
+    # login_as(user, scope: :user)
+    profile.visit
   end
 
   it { is_expected.to have_content("Edit Saved Stances") }
@@ -23,7 +25,7 @@ feature "Editing a user's stances" do
     background do |example|
       unless example.metadata[:skip_before]
         create_stances(user)
-        visit edit_user_registration_path(user)
+        profile.refresh
       end
     end
 
@@ -65,7 +67,7 @@ feature "Editing a user's stances" do
     scenario "deleting the last stance for an issue removes the issue", 
       :js, :skip_before do
       stance = create_one_stance
-      visit edit_user_registration_path(user)
+      profile.refresh
       within ".stance[data-stance-id='#{stance.id}']" do
         click_button "Clear"
       end

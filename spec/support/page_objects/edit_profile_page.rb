@@ -9,11 +9,11 @@ class EditProfilePage < Page
 
   def visit
     sign_in
-    page.visit edit_user_registration_path
+    page.visit edit_citizen_path(user)
   end
 
   def refresh
-    page.visit edit_user_registration_path
+    page.visit edit_citizen_path(user)
   end
 
   def sign_in
@@ -23,24 +23,18 @@ class EditProfilePage < Page
     click_button "Sign In"
   end
 
-  def update_account_info(options)
-    confirm = options[:confirm] ? options[:confirm] : options[:new_password]
-
-    within "#edit_user" do
-      fill_in "user_email", with: options[:email]
-      fill_in "user_password", with: options[:new_password]
-      fill_in "Password confirmation", with: confirm
-      fill_in "Current password", with: options[:password]
-      click_button "Update"
-    end
+  def edit_other_profile(user)
+    page.visit edit_citizen_path(user)
   end
 
   def choose_pic_to_upload(file = "test.jpg")
-    attach_file "profile_pic", "#{Rails.root}/spec/support/images/#{file}"
+    attach_file "user_profile_pic", "#{Rails.root}/spec/support/images/#{file}"
   end
 
-  def click_update_button(id)
-    click_button id
+  def click_update_profile_pic_button
+    within "#profile_pic_upload" do
+      click_button "Update"
+    end
   end
   
   def profile_pic_url

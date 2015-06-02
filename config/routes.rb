@@ -6,7 +6,7 @@ Rails.application.routes.draw do
 
   get "/representative/:slug", to: "representatives#show", as: "rep"
   resources :representatives, only: [:edit, :update]
-  resources :citizens, only: [:show]
+  resources :citizens, only: [:show, :edit, :update]
   resources :stances, only: [:index, :create, :update, :destroy]
   resources :news, only: [:index]
   get "/directory/filter", to: "directory#filter"
