@@ -1,0 +1,54 @@
+%br
+%center
+  %h1 Edit your account information
+%br
+.col-md-6.col-md-offset-3#edit_profile_page
+  .whitecard
+    %h3 Email &amp; Password
+    %hr
+    = form_for(resource, as: resource_name, url: registration_path(resource_name),
+      html: { method: :put }) do |f|
+      = devise_error_messages!
+
+      %div= f.label "Update Email"
+      = f.email_field :email, class: "form-control", autofocus: false
+      - if devise_mapping.confirmable? && resource.pending_reconfirmation?
+        %div "Currently waiting confirmation for: #{resource.unconfirmed_email}"
+      %br
+
+      %div
+        = f.label :new_password
+        %br
+        = f.password_field :password, class: "form-control", autocomplete: "off"
+        %br
+
+      %div
+        = f.label :password_confirmation
+        %br
+        = f.password_field :password_confirmation, 
+          class: "form-control", autocomplete: "off"
+        %br
+
+      %div
+        = f.label :current_password
+        %br
+        = f.password_field :current_password, 
+          class: "form-control", autocomplete: "off"
+      %br
+      %center= f.submit "Update", class: ["btn", "btn-primary"]
+
+  .whitecard
+    %h2 Cancel Account
+    %hr
+    %span
+      Canceling your account will permanently remove all of your personal
+      information from matchVote. However, some non-identifiable polling data
+      from your account activity is still retained.
+      %a More About Our Data Policies
+    %br
+    %br
+    %center= button_to "Cancel Account", registration_path(resource_name),
+        data: { confirm: "Are you sure?" },
+        method: :delete,
+        class: ["btn", "btn-danger"]
+

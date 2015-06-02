@@ -4,8 +4,8 @@
       &nbsp I laugh at your breadcrumbs
 
     .whitecard
-      = image_tag "http://bradhankins.com/wp-content/uploads/2014/10/brad.jpg",
-          class: "profile_pic", title: "@#{current_user.username}"
+      = image_tag @citizen.profile_pic_url, 
+        class: "profile_pic", title: "@#{current_user.username}"
       .profile_name
         = render "edit_buttons", citizen: @citizen if @policy.edit?
         %h2= @citizen.name

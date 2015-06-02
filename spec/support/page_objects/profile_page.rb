@@ -22,6 +22,10 @@ class ProfilePage < Page
   def refresh
     click_link "view_profile_link"
   end
+  
+  def edit_path
+    edit_citizen_path(user)
+  end
 
   def has_edit_profile_link?
     has_link? "Edit Profile"
@@ -49,6 +53,14 @@ class ProfilePage < Page
 
   def editing?
     has_content? "Edit your profile and political stances."
+  end
+  
+  def profile_pic_url
+    find(".profile_pic")[:src]
+  end
+
+  def has_aws_url_for_profile_pic?
+    profile_pic_url.match(/s3\.amazonaws\.com\/uploads\/user\/profile_pic/)
   end
 end
 

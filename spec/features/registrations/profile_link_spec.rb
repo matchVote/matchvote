@@ -1,7 +1,7 @@
 require "rails_helper"
 require "support/authentication"
 
-feature "View Profile image link" do
+feature "Profile image link" do
   given(:user) { create(:user) }
   given(:rep)  { create(:representative, slug: "hey-bob") }
 

@@ -25,6 +25,17 @@ feature "Viewing Citizen profile" do
     expect(page).to have_content "Neutral"
   end
 
+  scenario "shows uploaded profile pic if user has one" do
+    file = File.open("#{Rails.root}/spec/support/images/test.jpg")
+    user.update(profile_pic: file)
+    profile.refresh
+    expect(profile).to have_aws_url_for_profile_pic
+  end
+
+  scenario "shows default profile pic if user doesn't have one" do
+    expect(profile.profile_pic_url).to eq "/assets/default.png"
+  end
+
   context "when profile belongs to user" do
     background do
       user.save
@@ -33,7 +44,7 @@ feature "Viewing Citizen profile" do
     scenario "the edit profile link is visible and works" do
       expect(profile).to have_edit_profile_link
       profile.click_edit_profile_link
-      expect(current_path).to eq edit_user_registration_path
+      expect(current_path).to eq profile.edit_path
       expect(profile.editing?).to eq true
     end
 

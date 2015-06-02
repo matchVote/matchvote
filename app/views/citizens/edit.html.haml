@@ -2,7 +2,7 @@
 %center
   %h1 Edit your profile and political stances.
 %br
-.col-md-7
+.col-md-7#edit_profile_page
   .whitecard
     %form
       %h3 Personal Info
@@ -140,7 +140,7 @@
       .row
         .col-md-12
           %center
-            %textarea.form-control{:placeholder => '100 words about yourself', :rows => '5'}
+            %textarea.form-control{placeholder: '100 words about yourself', rows: '5'}
     %hr
     %center
       %button.btn.btn-primary Update
@@ -158,7 +158,7 @@
           %input.form-control.signup-field{placeholder: "City"}
         .col-md-2
           %select.form-control.signup-field{name: "State"}
-            %option{:placeholder => 'true'} State
+            %option{placeholder: 'true'} State
         .col-md-4
           %input.form-control.signup-field{placeholder: "Zip Code"}
       %hr
@@ -178,54 +178,17 @@
 
 .col-md-5
   .whitecard
-    %h3 Profile Pic & Username
+    %h3 Profile Pic &amp; Username
     %hr
-    .row
-      .col-md-4
-        %center
-          = image_tag "http://bradhankins.com/wp-content/uploads/2014/10/brad.jpg",
-              class: "edit_pic", title: "Change Profile Pic"
-        %center
-          .btn.btn-sm.btn-link Upload New
-      .col-md-8
-        %input.form-control.signup-field{placeholder: "@#{current_user.username}"}
-        %br
-        %center
-          .btn.btn-primary.pull-right Update
-  .whitecard
-    %h3 Email & Password
-    %hr
-    = form_for(resource, as: resource_name, url: registration_path(resource_name),
-      html: { method: :put }) do |f|
-      = devise_error_messages!
-
-      %div= f.label "Update Email"
-      = f.email_field :email, class: "form-control", autofocus: false
-      - if devise_mapping.confirmable? && resource.pending_reconfirmation?
-        %div "Currently waiting confirmation for: #{resource.unconfirmed_email}"
-      %br
-
-      %div
-        = f.label :new_password
-        %br
-        = f.password_field :password, class: "form-control", autocomplete: "off"
-        %br
-
-      %div
-        = f.label :password_confirmation
-        %br
-        = f.password_field :password_confirmation, class: "form-control", autocomplete: "off"
-        %br
-
-      %div
-        = f.label :current_password
-        %br
-        = f.password_field :current_password, class: "form-control", autocomplete: "off"
-      %br
-      %center= f.submit "Update", class: ["btn", "btn-primary"]
+    .row#profile_pic_upload
+      = form_for @citizen, url: citizen_path(@citizen) do |f|
+        .col-md-5= render "profile_pic_upload", citizen: @citizen, f: f
+        .col-md-7
+          %input.form-control.signup-field{placeholder: "@#{current_user.username}"}
+          %br
+          %center= f.submit "Update", class: ["btn", "btn-primary", "pull-right"]
 
   .whitecard
-    .row
     %h2 Privacy Settings
     %hr
     %span
@@ -240,16 +203,11 @@
       .btn.btn-primary Edit Privacy
 
   .whitecard
-    %h2 Cancel Account
+    %h2 Edit Account Settings
     %hr
-    %span
-      Canceling your account will permanently remove all of your personal
-      information from matchVote. However, some non-identifiable polling data
-      from your account activity is still retained.
-      %a More About Our Data Policies
+    %span Change email address and password
     %br
     %br
-    %center= button_to "Cancel Account", registration_path(resource_name),
-        data: { confirm: "Are you sure?" },
-        method: :delete,
-        class: ["btn", "btn-danger"]
+    %center= link_to "Edit Account", edit_user_registration_path,
+      class: "btn btn-primary"
+

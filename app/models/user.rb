@@ -1,5 +1,6 @@
 class User < ActiveRecord::Base
   before_save :default_values
+  mount_uploader :profile_pic, ProfilePicUploader
 
   # Include default devise modules. Others available are:
   # :confirmable, :lockable, :timeoutable and :omniauthable
