@@ -1,10 +1,11 @@
 require "support/page_objects/page"
 
 class ProfilePage < Page
-  attr_reader :user
+  attr_reader :user, :aws_image_regex
 
   def initialize(user)
     @user = user
+    @aws_image_regex = /s3\.amazonaws\.com\/uploads\/user\/profile_pic/
   end
 
   def visit
@@ -54,13 +55,21 @@ class ProfilePage < Page
   def editing?
     has_content? "Edit your profile and political stances."
   end
+
+  def navbar_pic_url
+    find(".navbar_pic")[:src]
+  end
+
+  def has_aws_url_for_navbar_pic?
+    navbar_pic_url.match(aws_image_regex)
+  end
   
   def profile_pic_url
     find(".profile_pic")[:src]
   end
 
   def has_aws_url_for_profile_pic?
-    profile_pic_url.match(/s3\.amazonaws\.com\/uploads\/user\/profile_pic/)
+    profile_pic_url.match(aws_image_regex)
   end
 end
 

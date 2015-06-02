@@ -34,7 +34,12 @@ feature "Editing account settings" do
 
     scenario "successfully updates password with valid input" do
       profile.update_account_info(options)
-      expect(subject).to have_content("Your account has been updated successfully")
+      expect(user.errors.messages).to be_empty
+    end
+
+    scenario "redirects to root path" do
+      profile.update_account_info(options)
+      expect(current_path).to eq root_path
     end
 
     context "with invalid input" do

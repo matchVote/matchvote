@@ -32,7 +32,6 @@ feature "Editing Citizen profile" do
   scenario "if current user does not own profile, it can't be updated" do
     profile.edit_other_profile(create(:user, username: "lloyd"))
     expect(current_url).to eq root_url
-    expect(subject).to have_content("You are not authorized")
   end
 end
 
