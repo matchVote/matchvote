@@ -15,20 +15,15 @@ feature "Editing account settings" do
   it { is_expected.to have_field("Current password") }
 
   feature "changing user email" do
-    context "with valid input" do
-      given(:new_email) { "new_email@foo.com"}
-
-      scenario "successfully updates email" do
-        profile.update_account_info email: new_email, password: user.password
-        expect(user.reload.email).to eq new_email
-      end
+    scenario "successfully updates email with valid input" do
+      new_email = "new_email@foo.com"
+      profile.update_account_info email: new_email, password: user.password
+      expect(user.reload.email).to eq new_email
     end
 
-    context "with invalid input" do
-      scenario "does not update email" do
-        profile.update_account_info email: nil, password: user.password
-        expect(subject).to have_content("Email can't be blank")
-      end
+    scenario "does not update email with invalid input" do
+      profile.update_account_info email: nil, password: user.password
+      expect(subject).to have_content("Email can't be blank")
     end
   end
 
@@ -37,11 +32,9 @@ feature "Editing account settings" do
       { email: user.email, password: user.password, new_password: "@123!123" }
     end
 
-    context "with valid input" do
-      scenario "successfully updates password" do
-        profile.update_account_info(options)
-        expect(subject).to have_content("Your account has been updated successfully")
-      end
+    scenario "successfully updates password with valid input" do
+      profile.update_account_info(options)
+      expect(subject).to have_content("Your account has been updated successfully")
     end
 
     context "with invalid input" do
@@ -71,7 +64,7 @@ feature "Editing account settings" do
       expect(profile).to have_aws_url_for_profile_pic
     end
 
-    scenario "selecting pic and clicking Update saves pic to AWS" do
+    scenario "selecting pic and clicking Update saves pic to AWS", js: true do
       profile.choose_pic_to_upload
       profile.click_update_button("pic_and_username")
       expect(profile).to have_aws_url_for_profile_pic
@@ -89,5 +82,4 @@ feature "Editing account settings" do
     end
   end
 end
-
 
