@@ -1,9 +1,8 @@
 Rails.application.routes.draw do
-  get 'elections/index'
-
   devise_for :users, 
     path: :citizens,
     controllers: { registrations: "registrations" }
+
   root to: "directory#index"
 
   get "/representative/:slug", to: "representatives#show", as: "rep"

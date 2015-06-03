@@ -14,7 +14,7 @@
       - flash.each do |key, value|
         - alert_type = flash_type(key)
         :coffee
-          if "#{value}".length or "#{key}" == "timedout"
+          if "#{value}".length or "#{key}" != "timedout"
             sweetAlert "", "#{value}", "#{alert_type}"
       = yield
     = render "layouts/footer"
