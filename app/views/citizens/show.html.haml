@@ -1,10 +1,10 @@
 .row
   .col-md-8
     .profile_breadcrumbs
-      &nbsp I laugh at your breadcrumbs
+      &nbsp
 
     .whitecard
-      = image_tag @citizen.profile_pic_url, 
+      = image_tag @citizen.profile_pic_url,
         class: "profile_pic", title: "@#{current_user.username}"
       .profile_name
         = render "edit_buttons", citizen: @citizen if @policy.edit?
@@ -14,7 +14,7 @@
         %br
         = @citizen.subtitle
       .profile_bio= @citizen.bio
-    .whitecard= render "user_stances", 
+    .whitecard= render "user_stances",
       stances: @stances, citizen: @citizen, policy: @policy
 
   .col-md-4
