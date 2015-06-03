@@ -10,7 +10,6 @@ feature "Editing Citizen stances" do
 
   background do
     create_statements
-    # login_as(user, scope: :user)
     profile.visit
   end
 
