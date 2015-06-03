@@ -168,7 +168,7 @@
 
   .whitecard
     %a{name: "stances"}
-    %h2 Edit Saved Stances
+    %h3 Edit Saved Stances
     %hr
     - if @stances.has_stances?
       = render "stances", presenter: @stances
@@ -178,18 +178,22 @@
 
 .col-md-5
   .whitecard
-    %h3 Profile Pic &amp; Username
-    %hr
     .row#profile_pic_upload
       = form_for @citizen, url: citizen_path(@citizen) do |f|
-        .col-md-5= render "profile_pic_upload", citizen: @citizen, f: f
+        .col-md-5
+          %h3 Profile Pic
+          %hr
+          = render "profile_pic_upload", citizen: @citizen, f: f
         .col-md-7
-          %input.form-control.signup-field{placeholder: "@#{current_user.username}"}
-          %br
-          %center= f.submit "Update", class: ["btn", "btn-primary", "pull-right"]
+          %center
+            %h3 Username
+            %hr
+            %input.form-control.signup-field{placeholder: "@#{current_user.username}"}
+            %br
+            %center= f.submit "Update", class: ["btn", "btn-primary", "pull-right"]
 
   .whitecard
-    %h2 Privacy Settings
+    %h3 Privacy Settings
     %hr
     %span
       By default, we don't publicly share any of your personally identifiable
@@ -203,11 +207,10 @@
       .btn.btn-primary Edit Privacy
 
   .whitecard
-    %h2 Edit Account Settings
+    %h3 Edit Account Settings
     %hr
-    %span Change email address and password
+    %span Change email and password, or delete your account.
     %br
     %br
     %center= link_to "Edit Account", edit_user_registration_path,
       class: "btn btn-primary"
-
