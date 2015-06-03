@@ -17,7 +17,7 @@ class CitizensController < ApplicationController
     user = User.find_by!(username: params[:id])
     authorize user
     user.update!(citizen_params)
-    flash[:notice] = "Profile updated successfully"
+    flash[:notice] = "Profile updated successfully."
     redirect_to edit_citizen_path(user)
   end
 
@@ -31,4 +31,3 @@ class CitizensController < ApplicationController
       fail Pundit::NotAuthorizedError unless policy.edit?
     end
 end
-
