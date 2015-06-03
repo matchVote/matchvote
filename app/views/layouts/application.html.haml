@@ -7,7 +7,7 @@
     = csrf_meta_tags
     = favicon_link_tag "http://matchvote.com/wp-content/uploads/2015/01/favicon.gif"
 
-  %body.landing-background
+  %body
     - if user_signed_in?
       = render "layouts/header"
     .container
