@@ -49,6 +49,14 @@ RSpec.configure do |config|
     Warden.test_mode!
     WebMock.disable_net_connect!(allow_localhost: true)
     DatabaseCleaner.clean_with(:truncation)
+
+    # Mock Fog for carrierwave uploads to S3
+    Fog.mock!
+    y = YAML.load(ERB.new(IO.read("#{Rails.root}/spec/support/fog_creds.yml")).result)
+    File.open("#{Rails.root}/tmp/fog_creds.yml", "w") { |f| f.write YAML.dump(y) }
+    Fog.credentials_path = "#{Rails.root}/tmp/fog_creds.yml"
+    connection = Fog::Storage.new(provider: "AWS")
+    connection.directories.create(key: "mv-profile-pics")
   end
 
   config.before(:each) do
@@ -63,9 +71,8 @@ RSpec.configure do |config|
     DatabaseCleaner.clean
   end
 
-  # Mock Fog for carrierwave uploads to S3
-  Fog.mock!
-  Fog.credentials_path = "#{Rails.root}/config/fog_credentials.yml"
-  connection = Fog::Storage.new(provider: "AWS")
-  connection.directories.create(key: "mv-profile-pics")
+  config.after(:suite) do
+    File.delete("#{Rails.root}/tmp/fog_creds.yml")
+  end
 end
+

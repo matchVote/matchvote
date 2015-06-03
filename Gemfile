@@ -25,6 +25,7 @@ gem "will_paginate", "~> 3.0.7"
 
 group :development, :test do
   gem "byebug", "~> 4.0.2"
+  gem "dotenv-rails", "~> 2.0.1"
   gem "faker", "~> 1.4.3"
   gem "rails_db_info", "~> 0.2"
   gem "spring", "~> 1.3.3"
