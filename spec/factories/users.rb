@@ -11,6 +11,7 @@ FactoryGirl.define do
       { first_name: "Bob", 
         last_name: "Jenkins",
         party: "green",
+        birthday: "11/12/1987",
         bio: "hey there" }
     end
     contact

@@ -10,7 +10,12 @@ feature "Editing Citizen profile" do
     profile.visit
   end
 
-  feature "uploading profile pic" do
+  scenario "if current user does not own profile, it can't be updated" do
+    profile.edit_other_profile(create(:user, username: "lloyd"))
+    expect(current_url).to eq root_url
+  end
+
+  feature "Uploading profile pic" do
     scenario "shows default picture if user has none" do
       expect(profile).to have_default_pic
     end
@@ -29,9 +34,26 @@ feature "Editing Citizen profile" do
     end
   end
 
-  scenario "if current user does not own profile, it can't be updated" do
-    profile.edit_other_profile(create(:user, username: "lloyd"))
-    expect(current_url).to eq root_url
+  feature "Updating personal info" do
+    scenario "displays existing citizen data" do
+      expect(profile).to have_personal_info
+    end
+
+    scenario "persists changes for citizen" do
+      profile.update_personal_info
+
+      personal_info = User.first.personal_info
+      expect(personal_info["first_name"]).to eq "Hey"
+      expect(personal_info["last_name"]).to eq "BobbyJoe"
+      expect(personal_info["gender"]).to eq "male"
+      expect(personal_info["ethnicity"]).to eq "mixed"
+      expect(personal_info["party"]).to eq "democrat"
+      expect(personal_info["religion"]).to eq "hindu"
+      expect(personal_info["relationship"]).to eq "married"
+      expect(personal_info["education"]).to eq "some_college"
+      expect(personal_info["birthday"]).to eq "11/12/1492"
+      expect(personal_info["bio"]).to eq "Nice bio"
+    end
   end
 end
 

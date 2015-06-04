@@ -3,147 +3,75 @@
   %h1 Edit your profile and political stances.
 %br
 .col-md-7#edit_profile_page
-  .whitecard
+  .whitecard#personal_info
     %form
       %h3 Personal Info
       .row
         .col-md-6
-          %input.form-control.signup-field{placeholder: "First Name"}
+          = text_field_tag :first_name, @citizen.first_name, 
+            class: "form-control signup-field", placeholder: "First Name"
         .col-md-6
-          %input.form-control.signup-field{placeholder: "Last Name"}
+          = text_field_tag :last_name, @citizen.last_name, 
+            class: "form-control signup-field", placeholder: "Last Name"
       .row
         .col-md-4
-          %select.form-control.signup-field{name: "Birthday"}
-            %option{:placeholder => 'true'} Birth Month
-            %option{:value => 'January'} January
-            %option{:value => 'February'} February
-            %option{:value => 'March'} March
-            %option{:value => 'April'} April
-            %option{:value => 'May'} May
-            %option{:value => 'June'} June
-            %option{:value => 'July'} July
-            %option{:value => 'August'} August
-            %option{:value => 'September'} September
-            %option{:value => 'October'} October
-            %option{:value => 'November'} November
-            %option{:value => 'December'} December
-        .col-md-4
-          %select.form-control.signup-field{name: "Birthday"}
-            %option{:placeholder => 'true'} Birthday
-            %option{:value => '1'} 1
-            %option{:value => '2'} 2
-            %option{:value => '3'} 3
-            %option{:value => '4'} 4
-            %option{:value => '5'} 5
-            %option{:value => '6'} 6
-            %option{:value => '7'} 7
-            %option{:value => '8'} 8
-            %option{:value => '9'} 9
-            %option{:value => '10'} 10
-            %option{:value => '11'} 11
-            %option{:value => '12'} 12
-            %option{:value => '13'} 13
-            %option{:value => '14'} 14
-            %option{:value => '15'} 15
-            %option{:value => '16'} 16
-            %option{:value => '17'} 17
-            %option{:value => '18'} 18
-            %option{:value => '19'} 19
-            %option{:value => '20'} 20
-            %option{:value => '21'} 21
-            %option{:value => '22'} 22
-            %option{:value => '23'} 23
-            %option{:value => '24'} 24
-            %option{:value => '25'} 25
-            %option{:value => '26'} 26
-            %option{:value => '27'} 27
-            %option{:value => '28'} 28
-            %option{:value => '29'} 29
-            %option{:value => '30'} 30
-            %option{:value => '31'} 31
-        .col-md-4
-          %select.form-control.signup-field{name: "Birthday"}
-            %option{:placeholder => 'true'} Birth Year
-            %option{:value => '2005'} 2005
-            %option{:value => '2004'} 2004
-            %option{:value => '2003'} 2003
-            %option{:value => '2002'} 2002
-            %option{:value => '2001'} 2001
-            %option{:value => '2000'} 2000
-            %option{:value => '1999'} 1999
-            %option{:value => '1998'} 1998
-            %option{:value => '1997'} 1997
-            %option{:value => '1996'} 1996
+          = text_field_tag :birthday, @citizen.birthday,
+            class: "form-control signup-field", id: "date_picker", 
+            placeholder: "Birthday (mm/dd/yyyy)"
       .row
         .col-md-6
-          %select.form-control.signup-field{name: "Gender"}
-            %option{:placeholder => 'true'} Gender
-            %option{:value => 'Female'} Female
-            %option{:value => 'Male'} Male
-            %option{:value => 'Other'} Other
+          = select_tag :gender, 
+            options_for_select(@citizen.personal_info_form.genders, @citizen.gender),
+            include_blank: "Gender",
+            class: ["form-control", "signup-field"],
+            placeholder: "Gender"
         .col-md-6
-          %select.form-control.signup-field{name: "Ethnicity"}
-            %option{:placeholder => 'true'} Ethnicity
-            %option{:value => 'White'} White
-            %option{:value => 'Hispanic'} Hispanic
-            %option{:value => 'Black'} Black
-            %option{:value => 'Asian'} Asian
-            %option{:value => 'Native'} Native
-            %option{:value => 'Mixed'} Mixed
-            %option{:value => 'Other'} Other
+          = select_tag :ethnicities, 
+            options_for_select(@citizen.personal_info_form.ethnicities, 
+              @citizen.ethnicity),
+            include_blank: "Ethnicity",
+            class: ["form-control", "signup-field"],
+            placeholder: "Ethnicity"
       .row
         .col-md-6
-          %select.form-control.signup-field{name: "Party"}
-            %option{:placeholder => 'true'} Political Party
-            %option{:value => 'No Affiliation'} No Affiliation
-            %option{:value => 'Democrat'} Democrat
-            %option{:value => 'Republican'} Republican
-            %option{:value => 'Independent'} Independent
-            %option{:value => 'Libertarian'} Libertarian
-            %option{:value => 'Green'} Green
-            %option{:value => 'Constitution'} Constitution
-            %option{:value => 'Other'} Other
+          = select_tag :party,
+            options_for_select(@citizen.personal_info_form.parties, @citizen.party),
+            include_blank: "Political Party",
+            class: ["form-control", "signup-field"],
+            placeholder: "Party"
         .col-md-6
-          %select.form-control.signup-field{name: "Education"}
-            %option{:placeholder => 'true'} Education
-            %option{:value => 'Middle School'} Middle School
-            %option{:value => 'Some High School'} Some High School
-            %option{:value => 'High School Graduate'} High School Diploma
-            %option{:value => 'Some College'} Some College
-            %option{:value => 'College Degree'} College Degree
-            %option{:value => 'Masters Degree'} Masters Degree
-            %option{:value => 'Professional Degree'} Professional Degree
+          = select_tag :education,
+            options_for_select(@citizen.personal_info_form.education_levels, 
+              @citizen.education),
+            include_blank: "Education",
+            class: ["form-control", "signup-field"],
+            placeholder: "Education"
       .row
         .col-md-6
-          %select.form-control.signup-field{name: "Religion"}
-            %option{:placeholder => 'true'} Religion
-            %option{:value => 'No Affiliation'} No Affiliation
-            %option{:value => 'Protestant'} Protestant
-            %option{:value => 'Catholic'} Catholic
-            %option{:value => 'Christian'} Christian (other)
-            %option{:value => 'Agnostic'} Agnostic
-            %option{:value => 'Atheist'} Atheist
-            %option{:value => 'Jewish'} Jewish
-            %option{:value => 'Muslim'} Muslim
-            %option{:value => 'Buddhist'} Buddhist
-            %option{:value => 'Hindu'} Hindu
-            %option{:value => 'Other'} Other
+          = select_tag :religion,
+            options_for_select(@citizen.personal_info_form.religions, 
+              @citizen.religion),
+            include_blank: "Religion",
+            class: ["form-control", "signup-field"],
+            placeholder: "Religion"
         .col-md-6
-          %select.form-control.signup-field{name: "Relationship"}
-            %option{:placeholder => 'true'} Relationship
-            %option{:value => 'Single'} Single
-            %option{:value => 'Married'} Married
-            %option{:value => 'Widowed'} Widowed
-            %option{:value => 'Divorced'} Divorced
-            %option{:value => 'Separated'} Separated
-            %option{:value => 'Other'} Other
+          = select_tag :relationship,
+            options_for_select(@citizen.personal_info_form.relationships, 
+            @citizen.relationship),
+            include_blank: "Relationship",
+            class: ["form-control", "signup-field"],
+            placeholder: "Relationship"
       .row
         .col-md-12
           %center
-            %textarea.form-control{placeholder: '100 words about yourself', rows: '5'}
+            = text_area_tag :biography, @citizen.bio,
+              rows: 5,
+              class: "form-control", 
+              placeholder: "100 words about yourself"
     %hr
     %center
-      %button.btn.btn-primary Update
+      = button_tag "Update", class: "btn btn-primary", id: "update_personal_info",
+        data: { id: @citizen.id }
   .whitecard
     %form
       %h3 Contact Info

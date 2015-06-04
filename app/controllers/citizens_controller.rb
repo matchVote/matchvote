@@ -1,7 +1,7 @@
 class CitizensController < ApplicationController
   def show
     user = User.find_by!(username: params[:id])
-    @citizen = CitizenPresenter.new(user)
+    @citizen = CitizenPresenter.new(CitizenDecorator.new(user))
     @stances = StancesPresenter.new(Stance.stances_for_entity(user))
     @policy  = CitizenPolicy.new(current_user, user)
   end
@@ -9,7 +9,7 @@ class CitizensController < ApplicationController
   def edit
     user = User.find_by!(username: params[:id])
     authorize user
-    @citizen = CitizenPresenter.new(user)
+    @citizen = CitizenPresenter.new(CitizenDecorator.new(user))
     @stances = StancesPresenter.new(Stance.stances_for_entity(user))
   end
 
@@ -19,6 +19,10 @@ class CitizensController < ApplicationController
     user.update!(citizen_params)
     flash[:notice] = "Profile updated successfully."
     redirect_to edit_citizen_path(user)
+  end
+
+  def update_personal_info
+    render text: :success
   end
 
   private
