@@ -10,7 +10,7 @@ class CitizenPresenter < SimpleDelegator
   def subtitle
     return "" unless address.state.present?
     "Voter from #{address.state}".tap do |s| 
-      s.prepend("#{party} ") if party.present?
+      s.prepend("#{party_formatted} ") if party_formatted.present?
     end
   end
 

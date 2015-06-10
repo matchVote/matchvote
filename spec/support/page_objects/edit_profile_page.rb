@@ -42,17 +42,17 @@ class EditProfilePage < Page
   end
 
   def update_personal_info
-    within "#personal_info" do
+    within "#citizen_personal_info" do
       fill_in "First Name", with: "Hey"
       fill_in "Last Name", with: "BobbyJoe"
       select "Male", from: "Gender"
       select "Mixed", from: "Ethnicity"
-      select "Green", from: "Party"
+      select "Democrat", from: "Party"
       select "Some College", from: "Education"
       select "Hindu", from: "Religion"
       select "Married", from: "Relationship"
       fill_in "date_picker", with: "11/12/1492"
-      fill_in "biography", with: "Nice Bio"
+      fill_in "biography", with: "Nice bio"
       click_button "Update"
     end
   end
@@ -66,7 +66,7 @@ class EditProfilePage < Page
   end
 
   def has_personal_info?
-    within "#personal_info" do
+    within "#citizen_personal_info" do
       find_field(:first_name).value == "Bob"
       find_field(:last_name).value == "Jenkins"
       find_field(:last_name).value == "hey there"

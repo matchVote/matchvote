@@ -3,7 +3,7 @@
   %h1 Edit your profile and political stances.
 %br
 .col-md-7#edit_profile_page
-  .whitecard#personal_info
+  .whitecard#citizen_personal_info
     %form
       %h3 Personal Info
       .row
@@ -26,7 +26,7 @@
             class: ["form-control", "signup-field"],
             placeholder: "Gender"
         .col-md-6
-          = select_tag :ethnicities, 
+          = select_tag :ethnicity, 
             options_for_select(@citizen.personal_info_form.ethnicities, 
               @citizen.ethnicity),
             include_blank: "Ethnicity",
