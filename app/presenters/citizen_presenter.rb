@@ -1,4 +1,8 @@
 class CitizenPresenter < SimpleDelegator
+  def initialize(user)
+    super(CitizenDecorator.new(user))
+  end
+
   def citizen
     @citizen ||= __getobj__
   end
