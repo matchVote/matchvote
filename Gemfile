@@ -32,6 +32,7 @@ group :development, :test do
   gem "rack-mini-profiler", "~> 0.9.3"
   gem "spring", "~> 1.3.3"
   gem "spring-commands-rspec", "~> 1.0.4"
+  gem "stackprof", "~> 0.2.7"
   gem "thin", "~> 1.6.3"
   gem "web-console", "~> 2.1.2"
 end

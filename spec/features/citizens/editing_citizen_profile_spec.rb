@@ -10,7 +10,12 @@ feature "Editing Citizen profile" do
     profile.visit
   end
 
-  feature "uploading profile pic" do
+  scenario "if current user does not own profile, it can't be updated" do
+    profile.edit_other_profile(create(:user, username: "lloyd"))
+    expect(current_url).to eq root_url
+  end
+
+  feature "Uploading profile pic" do
     scenario "shows default picture if user has none" do
       expect(profile).to have_default_pic
     end
@@ -27,11 +32,6 @@ feature "Editing Citizen profile" do
       profile.click_update_profile_pic_button
       expect(profile).to have_aws_url_for_profile_pic
     end
-  end
-
-  scenario "if current user does not own profile, it can't be updated" do
-    profile.edit_other_profile(create(:user, username: "lloyd"))
-    expect(current_url).to eq root_url
   end
 end
 
