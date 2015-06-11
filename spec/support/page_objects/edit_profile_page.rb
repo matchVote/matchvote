@@ -57,6 +57,12 @@ class EditProfilePage < Page
     end
   end
 
+  def update_contact_info
+    within "#citizen_contact_info" do
+      fill_in "Phone", with: "1231231231"
+    end
+  end
+
   def has_aws_url_for_profile_pic?
     profile_pic_url.match(/s3\.amazonaws\.com\/uploads\/user\/profile_pic/)
   end
@@ -72,6 +78,13 @@ class EditProfilePage < Page
       find_field(:last_name).value == "hey there"
       find_field(:birthday).value == "11/12/1987"
       has_select? "party", selected: "Green"
+    end
+  end
+
+  def has_contact_info?
+    within "#citizen_contact_info" do
+      find_field(:phone_number).value == "123-123-1234"
+      find_field(:line1).value == "123 Herbib Drive"
     end
   end
 end

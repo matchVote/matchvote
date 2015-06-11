@@ -1,3 +1,5 @@
+require "#{Rails.root}/lib/us_states"
+
 class CitizensController < ApplicationController
   def show
     user = User.find_by!(username: params[:id])
@@ -11,6 +13,7 @@ class CitizensController < ApplicationController
     authorize user
     @citizen = CitizenPresenter.new(user)
     @stances = StancesPresenter.new(Stance.stances_for_entity(user))
+    @all_states = USStates.all
   end
 
   def update

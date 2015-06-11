@@ -72,27 +72,37 @@
     %center
       = button_tag "Update", class: "btn btn-primary", id: "update_personal_info",
         data: { id: @citizen.id }
-  .whitecard
+  .whitecard#citizen_contact_info
     %form
       %h3 Contact Info
       .row
         .col-md-6
-          %input.form-control.signup-field{placeholder: "Phone"}
+          = text_field_tag :phone_number, @citizen.contact.phone_number,
+            class: "form-control signup-field", placeholder: "Phone"
         .col-md-6
-          %input.form-control.signup-field{placeholder: "Twitter"}
-      %input.form-control.signup-field{placeholder: "Address"}
+          = text_field_tag :twitter, "",
+            class: "form-control signup-field", placeholder: "Twitter"
+      .row
+        .col-md-12
+          = text_field_tag :line1, "",
+            class: "form-control signup-field", placeholder: "Address"
       .row
         .col-md-6
-          %input.form-control.signup-field{placeholder: "City"}
+          = text_field_tag :city, "",
+            class: "form-control signup-field", placeholder: "City"
         .col-md-2
-          %select.form-control.signup-field{name: "State"}
-            %option{placeholder: 'true'} State
+          = select_tag :state,
+            options_for_select(@all_states),
+            include_blank: "State",
+            class: "form-control signup-field",
+            placeholder: "State"
         .col-md-4
-          %input.form-control.signup-field{placeholder: "Zip Code"}
+          = text_field_tag :zip, "",
+            class: "form-control signup-field", placeholder: "Zip Code"
       %hr
     %center
-      %button.btn.btn-primary Update
-
+      = button_tag "Update", class: "btn btn-primary", id: "update_contact_info",
+        data: { id: @citizen.id }
 
   .whitecard
     %a{name: "stances"}
