@@ -61,6 +61,10 @@ class EditProfilePage < Page
     within "#citizen_contact_info" do
       fill_in "Phone", with: "1231231231"
       fill_in "Twitter", with: "flippy"
+      fill_in "Address", with: "5 Blueberry Circle"
+      fill_in "City", with: "Panang"
+      select "Wyoming", from: "State"
+      fill_in "Zip", with: "21212"
       click_button "Update"
     end
   end

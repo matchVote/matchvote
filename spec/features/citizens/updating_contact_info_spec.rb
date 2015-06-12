@@ -22,6 +22,12 @@ feature "Editing Citizen profile" do
       contact = User.first.contact
       expect(contact.phone_numbers).to include "1231231231"
       expect(contact.external_ids).to include "twitter_username" => "flippy"
+
+      address = contact.postal_addresses.first
+      expect(address.line1).to eq "5 Blueberry Circle"
+      expect(address.city).to eq "Panang"
+      expect(address.state).to eq "WY"
+      expect(address.zip).to eq "21212"
     end
   end
 end
