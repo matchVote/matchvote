@@ -18,10 +18,6 @@ class CitizenPresenter < SimpleDelegator
     end
   end
 
-  def address
-    contact.postal_addresses.first || NullObject.new
-  end
-
   # Personal Info
 
   def name
@@ -34,6 +30,20 @@ class CitizenPresenter < SimpleDelegator
 
   def party_formatted
     (citizen.party || "").capitalize
+  end
+
+  # Contact Info
+
+  def address
+    contact.postal_addresses.first || NullObject.new
+  end
+
+  def phone_number
+    contact.phone_number
+  end
+
+  def twitter_username
+    contact.twitter_username
   end
 
   # Forms

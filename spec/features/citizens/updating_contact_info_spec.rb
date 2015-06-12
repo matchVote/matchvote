@@ -20,6 +20,8 @@ feature "Editing Citizen profile" do
       wait_for_ajax
 
       contact = User.first.contact
+      expect(contact.phone_numbers).to include "1231231231"
+      expect(contact.external_ids).to include "twitter_username" => "flippy"
     end
   end
 end

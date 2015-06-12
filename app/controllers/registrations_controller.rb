@@ -22,7 +22,7 @@ class RegistrationsController < Devise::RegistrationsController
           :first_name, :last_name, :gender, :religion, :birthday,
           :ethnicity, :party, :education, :relationship],
         contact_attributes: [
-          external_ids: [:twitter],
+          external_ids: [:twitter_username],
           phone_numbers: [], 
           postal_addresses_attributes: [:line1, :city, :state, :zip]
         ])

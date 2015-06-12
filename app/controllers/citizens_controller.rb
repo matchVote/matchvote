@@ -24,7 +24,7 @@ class CitizensController < ApplicationController
     redirect_to edit_citizen_path(user)
   end
 
-  def update_personal_info
+  def update_citizen_info
     user = User.find(params[:id])
     authorize user
     user.update!(citizen_params)
@@ -37,7 +37,10 @@ class CitizensController < ApplicationController
         :profile_pic,
         personal_info: [
           :first_name, :last_name, :gender, :religion, :birthday,
-          :ethnicity, :party, :education, :relationship, :bio])
+          :ethnicity, :party, :education, :relationship, :bio],
+        contact_attributes: [
+          phone_numbers: [] 
+        ])
     end
 
     def authorize(user)

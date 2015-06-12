@@ -60,6 +60,8 @@ class EditProfilePage < Page
   def update_contact_info
     within "#citizen_contact_info" do
       fill_in "Phone", with: "1231231231"
+      fill_in "Twitter", with: "flippy"
+      click_button "Update"
     end
   end
 
@@ -85,6 +87,10 @@ class EditProfilePage < Page
     within "#citizen_contact_info" do
       find_field(:phone_number).value == "123-123-1234"
       find_field(:line1).value == "123 Herbib Drive"
+      find_field(:city).value == "Metropolis"
+      find_field(:state).value == "ND"
+      find_field(:zip).value == "12345"
+      find_field(:twitter_username).value == "tweet"
     end
   end
 end

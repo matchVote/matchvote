@@ -5,7 +5,7 @@
     placeholder: "Phone",
     multiple: true
   = c.fields_for :external_ids, OpenStruct.new(c.object.external_ids) do |id|
-    = id.text_field :twitter,
+    = id.text_field :twitter_username,
       class: ["form-control", "signup-field"],
       placeholder: "Twitter"
   = c.fields_for :postal_addresses do |a|
