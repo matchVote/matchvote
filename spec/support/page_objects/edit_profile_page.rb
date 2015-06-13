@@ -64,7 +64,7 @@ class EditProfilePage < Page
       fill_in "Address", with: "5 Blueberry Circle"
       fill_in "City", with: "Panang"
       select "Wyoming", from: "State"
-      fill_in "Zip", with: "21212"
+      fill_in "Zip Code", with: "21212"
       click_button "Update"
     end
   end

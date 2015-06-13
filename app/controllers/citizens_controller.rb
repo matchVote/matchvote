@@ -24,10 +24,17 @@ class CitizensController < ApplicationController
     redirect_to edit_citizen_path(user)
   end
 
-  def update_citizen_info
+  def update_personal_info
     user = User.find(params[:id])
     authorize user
     user.update!(citizen_params)
+    render text: :success
+  end
+
+  def update_contact_info
+    user = User.find(params[:id])
+    authorize user
+    CitizenUpdater.new(user).update_contact(citizen_params[:contact_attributes])
     render text: :success
   end
 
@@ -39,7 +46,10 @@ class CitizensController < ApplicationController
           :first_name, :last_name, :gender, :religion, :birthday,
           :ethnicity, :party, :education, :relationship, :bio],
         contact_attributes: [
-          phone_numbers: [] 
+          :id,
+          external_ids: [:twitter_username],
+          phone_numbers: [],
+          postal_addresses_attributes: [:id, :line1, :city, :state, :zip]
         ])
     end
 

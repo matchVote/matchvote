@@ -73,7 +73,7 @@
       = button_tag "Update", class: "btn btn-primary", id: "update_personal_info",
         data: { id: @citizen.id }
 
-  .whitecard#citizen_contact_info
+  .whitecard#citizen_contact_info{data: { id: @citizen.contact.id }}
     %form
       %h3 Contact Info
       .row
@@ -83,23 +83,24 @@
         .col-md-6
           = text_field_tag :twitter_username, @citizen.twitter_username,
             class: "form-control signup-field", placeholder: "Twitter"
-      .row
-        .col-md-12
-          = text_field_tag :line1, @citizen.address.line1,
-            class: "form-control signup-field", placeholder: "Address"
-      .row
-        .col-md-6
-          = text_field_tag :city, @citizen.address.city,
-            class: "form-control signup-field", placeholder: "City"
-        .col-md-2
-          = select_tag :state,
-            options_for_select(@all_states, @citizen.address.state),
-            include_blank: "State",
-            class: "form-control signup-field",
-            placeholder: "State"
-        .col-md-4
-          = text_field_tag :zip, @citizen.address.zip,
-            class: "form-control signup-field", placeholder: "Zip Code"
+      #citizen_postal_address{data: { id: @citizen.address.id }}
+        .row
+          .col-md-12
+            = text_field_tag :line1, @citizen.address.line1,
+              class: "form-control signup-field", placeholder: "Address"
+        .row
+          .col-md-6
+            = text_field_tag :city, @citizen.address.city,
+              class: "form-control signup-field", placeholder: "City"
+          .col-md-2
+            = select_tag :state,
+              options_for_select(@all_states, @citizen.address.state),
+              include_blank: "State",
+              class: "form-control signup-field",
+              placeholder: "State"
+          .col-md-4
+            = text_field_tag :zip, @citizen.address.zip,
+              class: "form-control signup-field", placeholder: "Zip Code"
       %hr
     %center
       = button_tag "Update", class: "btn btn-primary", id: "update_contact_info",

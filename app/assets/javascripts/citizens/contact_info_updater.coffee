@@ -10,12 +10,21 @@ class ContactInfoUpdater
     self = @
     $("#update_contact_info").click ->
       id = $(@).data("id")
-      $.post "/citizens/#{id}/update_citizen_info",
+      $.post "/citizens/#{id}/update_contact",
         self.collectInput(),
         -> swal "", "Contact Info Updated"
 
   collectInput: ->
     user:
       contact_attributes:
-        phone_numbers: [$("#phone_number").val()]
+        id: $("#citizen_contact_info").data("id"),
+        phone_numbers: [$("#phone_number").val()],
+        external_ids:
+          twitter_username: $("#twitter_username").val()
+        postal_addresses_attributes:
+          id: $("#citizen_postal_address").data("id"),
+          line1: $("#line1").val()
+          city: $("#city").val()
+          state: $("#state").val()
+          zip: $("#zip").val()
 

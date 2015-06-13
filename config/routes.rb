@@ -9,7 +9,8 @@ Rails.application.routes.draw do
   resources :representatives, only: [:edit, :update]
 
   resources :citizens, only: [:show, :edit, :update]
-  post "/citizens/:id/update_citizen_info", to: "citizens#update_citizen_info"
+  post "/citizens/:id/update_personal", to: "citizens#update_personal_info"
+  post "/citizens/:id/update_contact", to: "citizens#update_contact_info"
 
   resources :stances, only: [:index, :create, :update, :destroy]
   resources :news, only: [:index]

@@ -34,6 +34,10 @@ feature "Creating a new account" do
     scenario "redirects to stances page" do
       expect(current_path).to eq stances_path
     end
+
+    scenario "creates a contact for user regardless of Contact Info input" do
+      expect(User.first.contact).not_to be_blank
+    end
   end
 
   context "with invalid input" do

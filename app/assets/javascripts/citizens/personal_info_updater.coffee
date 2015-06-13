@@ -10,7 +10,7 @@ class PersonalInfoUpdater
     self = @
     $("#update_personal_info").click ->
       id = $(@).data("id")
-      $.post "/citizens/#{id}/update_citizen_info",
+      $.post "/citizens/#{id}/update_personal",
         self.collectInput(),
         -> swal "", "Personal Info Updated"
 
