@@ -1,6 +1,7 @@
 %h3 Contact Info
 = f.fields_for :contact do |c|
   = c.text_field :phone_numbers,
+    data: { mask: "999-999-9999" },
     class: ["form-control", "signup-field"],
     placeholder: "Phone",
     multiple: true

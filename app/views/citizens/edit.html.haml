@@ -79,6 +79,7 @@
       .row
         .col-md-6
           = text_field_tag :phone_number, @citizen.phone_number,
+            data: { mask: "999-999-9999" },
             class: "form-control signup-field", placeholder: "Phone"
         .col-md-6
           = text_field_tag :twitter_username, @citizen.twitter_username,
