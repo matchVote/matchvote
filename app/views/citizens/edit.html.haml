@@ -121,17 +121,11 @@
   .whitecard
     .row#profile_pic_upload
       = form_for @citizen, url: citizen_path(@citizen) do |f|
-        .col-md-5
-          %h3 Profile Pic
-          %hr
+        %h3 Profile Pic
+        %hr
+        .col-md-10.pull-left
           = render "profile_pic_upload", citizen: @citizen, f: f
-        .col-md-7
-          %center
-            %h3 Username
-            %hr
-            %input.form-control.signup-field{placeholder: "@#{current_user.username}"}
-            %br
-            %center= f.submit "Update", class: ["btn", "btn-primary", "pull-right"]
+        .col-md-2= f.submit "Update", class: "btn btn-primary pull-right"
 
   .whitecard
     %h3 Privacy Settings
