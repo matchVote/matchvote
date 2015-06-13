@@ -27,7 +27,7 @@ class CitizensController < ApplicationController
   def update_personal_info
     user = User.find(params[:id])
     authorize user
-    user.update!(citizen_params)
+    CitizenUpdater.new(user).update_personal_info(citizen_params[:personal_info])
     render text: :success
   end
 

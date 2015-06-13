@@ -12,7 +12,8 @@ FactoryGirl.define do
         last_name: "Jenkins",
         party: "green",
         birthday: "11/12/1987",
-        bio: "hey there" }
+        bio: "hey there",
+        crap_data: :yes }
     end
     contact
 

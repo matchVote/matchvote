@@ -30,6 +30,9 @@ feature "Editing Citizen profile" do
       expect(personal_info["education"]).to eq "some_college"
       expect(personal_info["birthday"]).to eq "11/12/1492"
       expect(personal_info["bio"]).to eq "Nice bio"
+
+      # Does not blow away existing values in personal_info
+      expect(personal_info["crap_data"]).to eq "yes"
     end
   end
 end
