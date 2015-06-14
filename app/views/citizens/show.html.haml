@@ -14,7 +14,7 @@
         %br
         = @citizen.subtitle
       .profile_bio= @citizen.bio
-    .whitecard= render "user_stances",
+    .whitecard= render "citizen_stances",
       stances: @stances, citizen: @citizen, policy: @policy
 
   .col-md-4
@@ -33,3 +33,4 @@
         .btn.btn-primary
           %span.glyphicon.glyphicon-share-alt
           Invite
+

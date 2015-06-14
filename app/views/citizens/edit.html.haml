@@ -1,3 +1,18 @@
+.modal.fade#edit_privacy{tabindex: "-1", role: "dialog", 
+  aria: { labelledby: "edit_privacy_label", hidden: true }}
+  .modal-dialog
+    .modal-content
+      .modal-header
+        = button_tag class: "close", data: { dismiss: "modal" }, 
+          aria: { label: "Close" } do
+          %span{aria: { hidden: true }} &times;
+        %h4.modal-title#edit_privacy_label Edit Privacy Settings
+      .modal-body
+        Privacy Stuff
+      .modal-footer
+        = button_tag "Close", class: "btn btn-default", data: { dismiss: "modal" }
+        = button_tag "Save Changes", class: "btn btn-primary"
+
 %br
 %center
   %h1 Edit your profile and political stances.
@@ -112,7 +127,7 @@
     %h3 Edit Saved Stances
     %hr
     - if @stances.has_stances?
-      = render "stances", presenter: @stances
+      = render "edit_stances", presenter: @stances
     - else
       You haven't saved any stances yet.
       = link_to "Click here add your political stances", stances_path
@@ -139,7 +154,8 @@
     %br
     %br
     %center
-      .btn.btn-primary Edit Privacy
+      = button_tag "Edit Privacy", class: "btn btn-primary", 
+        data: { toggle: "modal", target: "#edit_privacy" }
 
   .whitecard
     %h3 Edit Account Settings
@@ -149,3 +165,4 @@
     %br
     %center= link_to "Edit Account", edit_user_registration_path,
       class: "btn btn-primary"
+

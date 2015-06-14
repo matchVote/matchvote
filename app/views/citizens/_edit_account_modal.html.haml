@@ -1,0 +1,60 @@
+.modal.fade#edit_account{tabindex: "-1", role: "dialog", 
+  aria: { labelledby: "edit_account_label", hidden: true }}
+  .modal-dialog
+    .modal-content
+      .modal-header
+        = button_tag class: "close", data: { dismiss: "modal" }, 
+          aria: { label: "Close" } do
+          %span{aria: { hidden: true }} &times;
+        %h4.modal-title#edit_account_label Edit your account information
+      .modal-body
+        .col-md-6.col-md-offset-3
+          .whitecard
+            %h3 Email &amp; Password
+            %hr
+            = form_for user, as: :user, url: registration_path(:user),
+              html: { method: :put } do |f|
+
+              %div= f.label "Update Email"
+              = f.email_field :email, class: "form-control", autofocus: false
+              %br
+              %div
+                = f.label :new_password
+                %br
+                = f.password_field :password, 
+                  class: "form-control", 
+                  autocomplete: "off"
+                %br
+              %div
+                = f.label :password_confirmation
+                %br
+                = f.password_field :password_confirmation, 
+                  class: "form-control", autocomplete: "off"
+                %br
+              %div
+                = f.label :current_password
+                %br
+                = f.password_field :current_password, 
+                  class: "form-control", autocomplete: "off"
+              %br
+              %center= f.submit "Update", class: "btn btn-primary"
+
+          .whitecard
+            %h2 Cancel Account
+            %hr
+            %span
+              Canceling your account will permanently remove all of your personal
+              information from matchVote. However, some non-identifiable polling data
+              from your account activity is still retained.
+              %a More About Our Data Policies
+            %br
+            %br
+            %center= button_to "Cancel Account", registration_path(:user),
+              data: { confirm: "Are you sure?" },
+              method: :delete,
+              class: ["btn", "btn-danger"]
+
+      .modal-footer
+        -# = button_tag "Close", class: "btn btn-default", data: { dismiss: "modal" }
+        -# = button_tag "Save Changes", class: "btn btn-primary"
+
