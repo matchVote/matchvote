@@ -7,15 +7,8 @@ class CitizenStancesController
     @bindEvents()
 
   bindEvents: ->
-    @toggleStances()
     @updateStance()
     @deleteStance()
-
-  toggleStances: ->
-    $("#edit_citizen_stances section").on "show.bs.collapse", (event) ->
-      $(event.target).parent().children(".toggle_stances_link").text "Collapse"
-    $("#edit_citizen_stances section").on "hide.bs.collapse", (event) ->
-      $(event.target).parent().children(".toggle_stances_link").text "Expand"
 
   updateStance: ->
     $(".update_btn").click ->
