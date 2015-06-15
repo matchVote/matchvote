@@ -69,6 +69,13 @@ class EditProfilePage < Page
     end
   end
 
+  def toggle_stances(action, issue:)
+    within ".issue[data-issue-id='#{issue.id}']" do
+      click_link action
+    end
+    sleep 0.5
+  end
+
   def has_aws_url_for_profile_pic?
     profile_pic_url.match(/s3\.amazonaws\.com\/uploads\/user\/profile_pic/)
   end
@@ -95,6 +102,12 @@ class EditProfilePage < Page
       find_field(:state).value == "ND"
       find_field(:zip).value == "12345"
       find_field(:twitter_username).value == "tweet"
+    end
+  end
+
+  def has_collapse_button?(issue:)
+    within ".issue[data-issue-id='#{issue.id}']" do
+      find(".toggle_stances_link").text == "Collapse"
     end
   end
 end

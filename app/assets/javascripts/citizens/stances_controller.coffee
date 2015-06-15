@@ -1,14 +1,21 @@
 jQuery ->
-  return unless $("#edit_user_stances").length
-  new UserStancesController()
+  return unless $("#edit_citizen_stances").length
+  new CitizenStancesController()
 
-class UserStancesController
+class CitizenStancesController
   constructor: ->
     @bindEvents()
 
   bindEvents: ->
+    @toggleStances()
     @updateStance()
     @deleteStance()
+
+  toggleStances: ->
+    $("#edit_citizen_stances section").on "show.bs.collapse", (event) ->
+      $(event.target).parent().children(".toggle_stances_link").text "Collapse"
+    $("#edit_citizen_stances section").on "hide.bs.collapse", (event) ->
+      $(event.target).parent().children(".toggle_stances_link").text "Expand"
 
   updateStance: ->
     $(".update_btn").click ->
@@ -35,6 +42,6 @@ class UserStancesController
 
   removeStance: ($stance) ->
     $issue = $stance.parents(".issue")
-    stanceCount = $issue.children(".stance").length
+    stanceCount = $issue.children("section").children(".stance").length
     if stanceCount is 1 then $issue.remove() else $stance.remove()
 
