@@ -14,7 +14,7 @@
         %br
         = @citizen.subtitle
       .profile_bio= @citizen.bio
-    .whitecard= render "citizen_stances",
+    .whitecard#display_citizen_stances= render "citizen_stances",
       stances: @stances, citizen: @citizen, policy: @policy
 
   .col-md-4

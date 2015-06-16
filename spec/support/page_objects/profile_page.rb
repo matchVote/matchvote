@@ -71,5 +71,10 @@ class ProfilePage < Page
   def has_aws_url_for_profile_pic?
     profile_pic_url.match(aws_image_regex)
   end
+
+  def has_stances_displayed?
+    page.has_selector?("#display_citizen_stances")
+    page.has_content?("Political Stances")
+  end
 end
 
