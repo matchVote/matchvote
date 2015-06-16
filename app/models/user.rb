@@ -8,7 +8,7 @@ class User < ActiveRecord::Base
          :recoverable, :rememberable, :trackable, :validatable
 
   has_one :contact, as: :contactable, dependent: :destroy
-  accepts_nested_attributes_for :contact
+  accepts_nested_attributes_for :contact, reject_if: :all_blank
   has_many :inference_opinions, dependent: :destroy
   has_many :stances, as: :opinionable
   validates :username, presence: true, uniqueness: true
