@@ -17,13 +17,15 @@ feature "Viewing Citizen profile" do
   it { is_expected.to have_content "hey there" }
   it { is_expected.to have_content "Green Voter from ND" }
 
-  scenario "shows user's stances" do
+  scenario "shows citizen's stances when the settings allow" do
     create_one_stance(agreeance: 3, importance: 2)
     profile.refresh
     expect(page).to have_content "blah blah"
     expect(page).to have_content "Very Strongly Agree"
     expect(page).to have_content "Neutral"
   end
+
+  scenario "hides citizen's stances when the settings allow"
 
   scenario "shows uploaded profile pic if user has one" do
     file = File.open("#{Rails.root}/spec/support/images/test.jpg")

@@ -9,10 +9,15 @@
         %h4.modal-title#edit_privacy_label Edit Privacy Settings
       .modal-body
         .row
+          .col-md-6
+            = check_box_tag :display_all_stances, :all, true
+            Display All Stances
+        .row
           .col-md-6.col-md-offset-1
-            = check_box_tag :display_stances, :checked, false, 
-              data: { toggle: "toggle" }
-            Display Stances
+            - @stances.issues.each do |issue|
+              = check_box_tag "display_#{issue.name}", issue.name, true
+              Display #{issue.name.titleize} Stances
+              %br
       .modal-footer
         = button_tag "Close", class: "btn btn-default", data: { dismiss: "modal" }
         = button_tag "Save Changes", class: "btn btn-primary"

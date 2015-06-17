@@ -14,6 +14,10 @@ class User < ActiveRecord::Base
   validates :username, presence: true, uniqueness: true
   validate :username_has_no_whitespace
 
+  has_settings do |s|
+    s.key :privacy, defaults: { display_all_stances: true }
+  end
+
   def profile
     @profile ||= profile_type.constantize.find(profile_id)
   end
