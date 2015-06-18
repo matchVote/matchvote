@@ -76,5 +76,11 @@ class ProfilePage < Page
     page.has_selector?("#display_citizen_stances")
     page.has_content?("Political Stances")
   end
+
+  def has_stance_content?(stance)
+    has_content?(stance.statement.text) && 
+      has_content?(stance.agreeance_value_string)
+      has_content?(stance.importance_value_string)
+  end
 end
 

@@ -2,19 +2,22 @@ require "support/page_objects/page"
 
 class EditProfilePage < Page
   attr_reader :user
-  alias_method :refresh, :visit
 
   def initialize(user)
     @user = user
   end
 
-  def signin_and_visit
-    sign_in
+  def visit
     page.visit edit_citizen_path(user)
   end
 
-  def visit
-    page.visit edit_citizen_path(user)
+  def signin_and_visit
+    sign_in
+    visit
+  end
+
+  def refresh
+    visit
   end
 
   def view_profile

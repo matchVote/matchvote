@@ -5,24 +5,27 @@ class PrivacySettingsModal < Page
     click_button "Edit Privacy"
   end
 
-  def display_all_stances
+  def check_display_all_stances
     check("display_all_stances")
   end
 
-  def hide_all_stances
+  def uncheck_display_all_stances
     uncheck("display_all_stances")
+  end
+
+  def save_changes
+    within "#edit_privacy" do
+      click_button "Save Changes"
+    end
+    wait_for_ajax
   end
 
   def visible?
     page.has_selector?("#edit_privacy", visible: true)
   end
 
-  def has_all_options_checked?
-    false
-  end
-
-  def has_no_options_checked?
-    false
+  def is_checked?(name)
+    find("##{name}").checked?
   end
 end
 

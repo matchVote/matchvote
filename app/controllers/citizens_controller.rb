@@ -34,7 +34,14 @@ class CitizensController < ApplicationController
   def update_contact_info
     user = User.find(params[:id])
     authorize user
-    CitizenUpdater.new(user).update_contact(citizen_params[:contact_attributes])
+    CitizenUpdater.new(user).update_contact_info(citizen_params[:contact_attributes])
+    render text: :success
+  end
+
+  def update_settings
+    user = User.find(params[:id])
+    authorize user
+    CitizenUpdater.new(user).update_settings(citizen_params[:settings])
     render text: :success
   end
 
@@ -42,6 +49,7 @@ class CitizensController < ApplicationController
     def citizen_params
       params.require(:user).permit(
         :profile_pic,
+        settings: [:type, :display_all_stances],
         personal_info: [
           :first_name, :last_name, :gender, :religion, :birthday,
           :ethnicity, :party, :education, :relationship, :bio],

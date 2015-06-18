@@ -5,7 +5,6 @@ require "support/page_objects/privacy_settings_modal"
 
 feature "Changing privacy settings" do
   given(:user) { create(:user) }
-  given(:profile) { ProfilePage.new(user) }
   given(:edit_profile) { EditProfilePage.new(user) }
   given(:privacy_settings) { edit_profile.privacy_settings_modal }
   subject { page }
@@ -19,23 +18,28 @@ feature "Changing privacy settings" do
     expect(privacy_settings).to be_visible
   end
 
-  feature "Toggling Display All Stances" do
-    scenario "displays all citizen stances when active" do
-      user.settings(:privacy).display_all_stances = false
-      privacy_settings.display_modal
-      privacy_settings.hide_all_stances
-      expect(privacy_settings).to have_all_options_checked
-      edit_profile.view_profile
-      expect(profile).not_to have_stances_displayed
-    end
+  scenario "turning off Display All Stances sets user preference to false", :js do
+    user.settings(:privacy).update(display_all_stances: true)
+    edit_profile.refresh
+    privacy_settings.display_modal
+    expect(privacy_settings.is_checked?(:display_all_stances)).to eq true
 
-    scenario "hides citizen stances when active" do
-      user.settings(:privacy).display_all_stances = true
-      privacy_settings.display_modal
-      privacy_settings.display_all_stances
-      expect(privacy_settings).to have_no_options_checked
-      edit_profile.view_profile
-      expect(profile).to have_stances_displayed
-    end
+    privacy_settings.uncheck_display_all_stances
+    privacy_settings.save_changes
+    setting = user.settings(:privacy).display_all_stances
+    expect(setting).to eq false
+  end
+
+  scenario "turning on Display All Stances sets user preference to true", :js do
+    user.settings(:privacy).update(display_all_stances: false)
+    edit_profile.refresh
+    privacy_settings.display_modal
+    expect(privacy_settings.is_checked?(:display_all_stances)).to eq false
+
+    privacy_settings.uncheck_display_all_stances
+    privacy_settings.save_changes
+    setting = user.settings(:privacy).display_all_stances
+    expect(setting).to eq true
   end
 end
+

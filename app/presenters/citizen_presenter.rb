@@ -18,6 +18,10 @@ class CitizenPresenter < SimpleDelegator
     end
   end
 
+  def display_all_stances?
+    settings(:privacy).display_all_stances == "true"
+  end
+
   # Personal Info
 
   def name

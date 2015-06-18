@@ -18,14 +18,20 @@ feature "Viewing Citizen profile" do
   it { is_expected.to have_content "Green Voter from ND" }
 
   scenario "shows citizen's stances when the settings allow" do
-    create_one_stance(agreeance: 3, importance: 2)
+    stance = create_one_stance(agreeance: 3, importance: 2)
+    user.settings(:privacy).update(display_all_stances: true)
     profile.refresh
-    expect(page).to have_content "blah blah"
-    expect(page).to have_content "Very Strongly Agree"
-    expect(page).to have_content "Neutral"
+    expect(profile).to have_stances_displayed
+    expect(profile.has_stance_content?(stance)).to eq true
   end
 
-  scenario "hides citizen's stances when the settings allow"
+  scenario "hides citizen's stances when the settings don't allow" do
+    stance = create_one_stance(agreeance: 3, importance: 2)
+    user.settings(:privacy).update(display_all_stances: false)
+    profile.refresh
+    expect(profile).not_to have_stances_displayed
+    expect(profile.has_stance_content?(stance)).to eq false
+  end
 
   scenario "shows uploaded profile pic if user has one" do
     file = File.open("#{Rails.root}/spec/support/images/test.jpg")
