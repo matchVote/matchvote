@@ -33,7 +33,7 @@ class CitizenPresenter < SimpleDelegator
   end
 
   def party_formatted
-    (citizen.party || "").capitalize
+    (citizen.party || "").titleize
   end
 
   # Contact Info
