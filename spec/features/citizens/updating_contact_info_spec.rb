@@ -7,7 +7,7 @@ feature "Editing Citizen profile" do
   subject { page }
 
   background do |example|
-    profile.visit unless example.metadata[:skip_before]
+    profile.signin_and_visit unless example.metadata[:skip_before]
   end
 
   feature "Updating contact info" do
@@ -35,7 +35,7 @@ feature "Editing Citizen profile" do
 
     scenario "creates postal address if citizen doesn't have one", :js, :skip_before do
       profile = EditProfilePage.new(create(:user_without_address))
-      profile.visit
+      profile.signin_and_visit
       profile.update_contact_info
       wait_for_ajax
       expect(user.contact.postal_addresses).not_to be_blank

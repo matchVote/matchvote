@@ -7,7 +7,7 @@ feature "Editing Citizen profile" do
   subject { page }
 
   background do
-    profile.visit
+    profile.signin_and_visit
   end
 
   scenario "if current user does not own profile, it can't be updated" do

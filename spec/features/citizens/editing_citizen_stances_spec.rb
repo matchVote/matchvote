@@ -10,7 +10,7 @@ feature "Editing Citizen stances" do
 
   background do
     create_statements
-    profile.visit
+    profile.signin_and_visit
   end
 
   it { is_expected.to have_content("Edit Saved Stances") }

@@ -21,11 +21,13 @@ class PrivacySettingsModal < Page
   end
 
   def visible?
-    page.has_selector?("#edit_privacy", visible: true)
+    find("#edit_privacy")["aria-hidden"] == "false"
   end
 
   def is_checked?(name)
-    find("##{name}").checked?
+    within "#edit_privacy" do
+      find("##{name}").checked?
+    end
   end
 end
 

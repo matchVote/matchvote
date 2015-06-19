@@ -15,7 +15,7 @@ class User < ActiveRecord::Base
   validate :username_has_no_whitespace
 
   has_settings do |s|
-    s.key :privacy, defaults: { display_all_stances: true }
+    s.key :privacy, defaults: { display_all_stances: "true" }
   end
 
   def profile

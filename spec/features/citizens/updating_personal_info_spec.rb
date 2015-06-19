@@ -7,7 +7,7 @@ feature "Editing Citizen profile" do
   subject { page }
 
   background do
-    profile.visit
+    profile.signin_and_visit
   end
 
   feature "Updating personal info" do

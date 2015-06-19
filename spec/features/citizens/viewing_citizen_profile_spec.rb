@@ -45,10 +45,6 @@ feature "Viewing Citizen profile" do
   end
 
   context "when profile belongs to user" do
-    background do
-      user.save
-    end
-
     scenario "the edit profile link is visible and works" do
       expect(profile).to have_edit_profile_link
       profile.click_edit_profile_link
@@ -57,9 +53,9 @@ feature "Viewing Citizen profile" do
     end
 
     scenario "the edit privacy link is visible and works" do
-      skip "Privacy settings modal"
       expect(profile).to have_edit_privacy_link
       profile.click_edit_privacy_link
+      expect(profile.editing?).to eq true
     end
 
     scenario "the edit stances link is visible and works" do

@@ -1,5 +1,6 @@
 = render "edit_stances_button", citizen: citizen if policy.edit?
 %h3 Political Stances
+%hr
 #show_stances
   - stances.issues.each do |issue|
     .issue{data: { issue_id: issue.id }}

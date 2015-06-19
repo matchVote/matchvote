@@ -13,17 +13,18 @@ feature "Changing privacy settings" do
     edit_profile.signin_and_visit
   end
 
-  scenario "clicking Edit Privacy displays a modal" do
+  scenario "clicking Edit Privacy displays a modal", :js do
     privacy_settings.display_modal
     expect(privacy_settings).to be_visible
   end
 
-  scenario "turning off Display All Stances sets user preference to false", :js do
-    user.settings(:privacy).update(display_all_stances: "true")
-    edit_profile.refresh
+  scenario "Display All Stances defaults to true", :js do
     privacy_settings.display_modal
     expect(privacy_settings.is_checked?(:display_all_stances)).to eq true
+  end
 
+  scenario "turning off Display All Stances sets user preference to false", :js do
+    privacy_settings.display_modal
     privacy_settings.uncheck_display_all_stances
     privacy_settings.save_changes
     setting = user.reload.settings(:privacy).display_all_stances
