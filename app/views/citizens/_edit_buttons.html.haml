@@ -1,0 +1,9 @@
+.btn-group.pull-right
+  = link_to edit_citizen_path(citizen), class: "btn btn-default btn-xs" do
+    %span.glyphicon
+    Edit Profile
+  = link_to edit_citizen_path(citizen, anchor: "privacy"), 
+    class: "btn btn-default btn-xs" do
+    Edit Privacy
+    %span.glyphicon
+

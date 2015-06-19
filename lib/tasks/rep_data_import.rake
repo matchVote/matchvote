@@ -85,7 +85,7 @@ namespace :reps do
       { slug: "jim-sensenbrenner", url: "congress/James_Sensenbrenner.png" },
       { slug: "beto-o-rourke", url: "congress/Beto_ORourke.png" },
       { slug: "gk-butterfield", url: "congress/G_K_Butterfield.png" },
-      { slug: "earl-ray-tomblin", url: "congress/Earl_Ray_Tomblin.png" }
+      { slug: "earl-ray-tomblin", url: "governors/Earl_Ray_Tomblin.png" }
     ]
 
     data.each do |rep_data|

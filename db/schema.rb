@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150530162205) do
+ActiveRecord::Schema.define(version: 20150616112435) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -101,6 +101,17 @@ ActiveRecord::Schema.define(version: 20150530162205) do
   add_index "representatives", ["slug"], name: "index_representatives_on_slug", unique: true, using: :btree
   add_index "representatives", ["user_id"], name: "index_representatives_on_user_id", using: :btree
 
+  create_table "settings", force: :cascade do |t|
+    t.string   "var",         null: false
+    t.text     "value"
+    t.integer  "target_id",   null: false
+    t.string   "target_type", null: false
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "settings", ["target_type", "target_id", "var"], name: "index_settings_on_target_type_and_target_id_and_var", unique: true, using: :btree
+
   create_table "stance_quotes", force: :cascade do |t|
     t.text     "quote"
     t.text     "quote_url"
@@ -168,6 +179,7 @@ ActiveRecord::Schema.define(version: 20150530162205) do
     t.boolean  "rep_admin",              default: false
     t.text     "rep_slug"
     t.hstore   "personal_info"
+    t.string   "profile_pic"
   end
 
   add_index "users", ["confirmation_token"], name: "index_users_on_confirmation_token", unique: true, using: :btree

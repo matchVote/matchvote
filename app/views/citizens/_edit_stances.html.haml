@@ -1,0 +1,29 @@
+#edit_citizen_stances
+  - presenter.issues.each do |issue|
+    .issue{data: { issue_id: issue.id }}
+      = link_to "Expand", "#issue_#{issue.name}", 
+        class: "btn btn-default pull-right toggle_stances_link",
+        data: { toggle: "collapse" }, 
+        aria: { expanded: false, controls: "issue_#{issue.name}" }
+      %h3= issue.name.titleize
+      %section.collapse{id: "issue_#{issue.name}"}
+        - presenter.stances_for_issue(issue).each do |stance|
+          .stance{data: { stance_id: stance.id }}
+            .row
+              .col-md-12
+                %h4= stance.statement.text
+            .row
+              .col-md-4
+                %strong Your Stance
+                = select_tag "Agreeance",
+                  options_for_select(Stance.agreeance_values, stance.agreeance_value),
+                  class: "form-control", id: "agreeance_#{stance.id}"
+              .col-md-4
+                %strong Alignment Importance
+                = select_tag "Importance",
+                  options_for_select(Stance.importance_values, stance.importance_value),
+                  class: "form-control", id: "importance_#{stance.id}"
+              .col-md-1
+              .col-md-3.edit_stance_button
+                = render "stances/update_stance_button", stance: stance
+      %hr

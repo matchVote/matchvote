@@ -12,6 +12,9 @@
       = render "layouts/header"
     .container
       - flash.each do |key, value|
-        = flash_content(key, value)
+        - alert_type = flash_type(key)
+        :coffee
+          if "#{value}".length or "#{key}" is not "timedout"
+            sweetAlert "", "#{value}", "#{alert_type}"
       = yield
     = render "layouts/footer"

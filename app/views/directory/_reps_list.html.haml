@@ -3,7 +3,7 @@
     %div
       = link_to rep_path(rep.slug) do
         = image_tag rep.profile_image_url,
-          class: "directory_pic"
+          class: "directory_pic", title: "#{rep.full_name}"
     %div
       %h4.full_name= rep.full_name
     %div

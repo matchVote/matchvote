@@ -20,17 +20,16 @@
               %li
                 = link_to "Directory", root_path
               %li
-                = link_to "Elections", root_path,
-                  class: "comingsoon", title: "Coming Soon"
+                = link_to "Elections", elections_path,
+                  class: "comingsoon"
               %li
-                = link_to "Townhall", root_path, class: "comingsoon", title: "Coming Soon"
+                = link_to "Townhall", root_path,
+                  class: "comingsoon", title: "Coming Soon"
               %li
                 = link_to "Stances", stances_path
         .nav.navbar-nav.navbar-right
           .pull-left
             .glyphicon.glyphicon-flash.menu-notify-on{title: "2 new notifications"}
-            = link_to(image_tag("http://data.matchvote.com/images/2015/highprofile/Barack_Obama.png",
-              class: "navbar_pic", title: "@#{current_user.username}"),
-              path_for_user(current_user))
+            = render "layouts/profile_link"
             = link_to destroy_user_session_path, method: :delete do
               .glyphicon.glyphicon-log-out.logout-button{title: "Sign Out"}

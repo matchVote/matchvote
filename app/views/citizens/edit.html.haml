@@ -1,0 +1,180 @@
+.modal.fade#edit_privacy{tabindex: "-1", role: "dialog", 
+  aria: { labelledby: "edit_privacy_label", hidden: true }}
+  .modal-dialog
+    .modal-content
+      .modal-header
+        = button_tag class: "close", data: { dismiss: "modal" }, 
+          aria: { label: "Close" } do
+          %span{aria: { hidden: true }} &times;
+        %h4.modal-title#edit_privacy_label Edit Privacy Settings
+      .modal-body
+        .row
+          .col-md-6
+            = check_box_tag :display_all_stances, :all, @citizen.display_all_stances?
+            Display All Stances
+        -# .row
+          .col-md-6.col-md-offset-1
+            - @stances.issues.each do |issue|
+              = check_box_tag "display_#{issue.name}", issue.name, true
+              Display #{issue.name.titleize} Stances
+              %br
+      .modal-footer
+        = button_tag "Close", class: "btn btn-default", data: { dismiss: "modal" }
+        = button_tag "Save Changes", 
+          class: "btn btn-primary", id: "save_privacy_settings_button",
+          data: { id: @citizen.id }
+
+%br
+%center
+  %h1 Edit your profile and political stances.
+%br
+.col-md-7#edit_profile_page
+  .whitecard#citizen_personal_info
+    %form
+      %h3 Personal Info
+      .row
+        .col-md-6
+          = text_field_tag :first_name, @citizen.first_name, 
+            class: "form-control signup-field", placeholder: "First Name"
+        .col-md-6
+          = text_field_tag :last_name, @citizen.last_name, 
+            class: "form-control signup-field", placeholder: "Last Name"
+      .row
+        .col-md-4
+          = text_field_tag :birthday, @citizen.birthday,
+            class: "form-control signup-field", id: "date_picker", 
+            placeholder: "Birthday (mm/dd/yyyy)"
+      .row
+        .col-md-6
+          = select_tag :gender, 
+            options_for_select(@citizen.personal_info_form.genders, @citizen.gender),
+            include_blank: "Gender",
+            class: ["form-control", "signup-field"],
+            placeholder: "Gender"
+        .col-md-6
+          = select_tag :ethnicity, 
+            options_for_select(@citizen.personal_info_form.ethnicities, 
+              @citizen.ethnicity),
+            include_blank: "Ethnicity",
+            class: ["form-control", "signup-field"],
+            placeholder: "Ethnicity"
+      .row
+        .col-md-6
+          = select_tag :party,
+            options_for_select(@citizen.personal_info_form.parties, @citizen.party),
+            include_blank: "Political Party",
+            class: ["form-control", "signup-field"],
+            placeholder: "Party"
+        .col-md-6
+          = select_tag :education,
+            options_for_select(@citizen.personal_info_form.education_levels, 
+              @citizen.education),
+            include_blank: "Education",
+            class: ["form-control", "signup-field"],
+            placeholder: "Education"
+      .row
+        .col-md-6
+          = select_tag :religion,
+            options_for_select(@citizen.personal_info_form.religions, 
+              @citizen.religion),
+            include_blank: "Religion",
+            class: ["form-control", "signup-field"],
+            placeholder: "Religion"
+        .col-md-6
+          = select_tag :relationship,
+            options_for_select(@citizen.personal_info_form.relationships, 
+            @citizen.relationship),
+            include_blank: "Relationship",
+            class: ["form-control", "signup-field"],
+            placeholder: "Relationship"
+      .row
+        .col-md-12
+          %center
+            = text_area_tag :biography, @citizen.bio,
+              rows: 5,
+              class: "form-control", 
+              placeholder: "100 words about yourself"
+    %hr
+    %center
+      = button_tag "Update", class: "btn btn-primary", id: "update_personal_info",
+        data: { id: @citizen.id }
+
+  .whitecard#citizen_contact_info{data: { id: @citizen.contact.id }}
+    %form
+      %h3 Contact Info
+      .row
+        .col-md-6
+          = text_field_tag :phone_number, @citizen.phone_number,
+            data: { mask: "999-999-9999" },
+            class: "form-control signup-field", placeholder: "Phone"
+        .col-md-6
+          = text_field_tag :twitter_username, @citizen.twitter_username,
+            class: "form-control signup-field", placeholder: "Twitter"
+      #citizen_postal_address{data: { id: @citizen.address.id }}
+        .row
+          .col-md-12
+            = text_field_tag :line1, @citizen.address.line1,
+              class: "form-control signup-field", placeholder: "Address"
+        .row
+          .col-md-6
+            = text_field_tag :city, @citizen.address.city,
+              class: "form-control signup-field", placeholder: "City"
+          .col-md-2
+            = select_tag :state,
+              options_for_select(@all_states, @citizen.address.state),
+              include_blank: "State",
+              class: "form-control signup-field",
+              placeholder: "State"
+          .col-md-4
+            = text_field_tag :zip, @citizen.address.zip,
+              class: "form-control signup-field", placeholder: "Zip Code"
+      %hr
+    %center
+      = button_tag "Update", class: "btn btn-primary", id: "update_contact_info",
+        data: { id: @citizen.id }
+
+  .whitecard
+    %a{name: "stances"}
+    %h3 Edit Saved Stances
+    %hr
+    - if @stances.has_stances?
+      = render "edit_stances", presenter: @stances
+    - else
+      You haven't saved any stances yet.
+      = link_to "Click here add your political stances", stances_path
+
+.col-md-5
+  .whitecard
+    .row#profile_pic_upload
+      = form_for @citizen, url: citizen_path(@citizen) do |f|
+        %h3 Profile Pic
+        %hr
+        .col-md-10.pull-left
+          = render "profile_pic_upload", citizen: @citizen, f: f
+        .col-md-2= f.submit "Update", class: "btn btn-primary pull-right"
+
+  .whitecard
+    %a{name: "privacy"}
+    %h3 Privacy Settings
+    %hr
+    %span
+      By default, we don't publicly share any of your personally identifiable
+      information. Some data is sent to third parties, but it never contains
+      your name, contact information, or anything that would indicate who you are.
+      To allow other users on matchVote to see more about you and your political
+      views, you'll need to edit your Privacy Settings.
+    %br
+    %br
+    %center
+      = button_tag "Edit Privacy", class: "btn btn-primary", 
+        data: { toggle: "modal", target: "#edit_privacy" }
+
+  .whitecard
+    %h3 Edit Account Settings
+    %hr
+    %span Change email and password, or delete your account.
+    %br
+    %br
+    %center= link_to "Edit Account", edit_user_registration_path,
+      class: "btn btn-primary"
+

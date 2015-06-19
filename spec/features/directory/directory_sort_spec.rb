@@ -32,38 +32,31 @@ feature "Sorting reps" do
   end
 
   scenario "by name recognition", :js do
-    pending "Test not written"
-    fail
+    skip "Test not written"
   end
 
   scenario "by age", :js do
-    pending "Test not written"
-    fail
+    skip "Test not written"
   end
 
   scenario "by seniority", :js do
-    pending "Test not written"
-    fail
+    skip "Test not written"
   end
 
   scenario "by most similar views", :js do
-    pending "Not implemented"
-    fail
+    skip "Not implemented"
   end
 
   scenario "by least similar views", :js do
-    pending "Not implemented"
-    fail
+    skip "Not implemented"
   end
 
   scenario "by state", :js do
-    pending "Not implemented"
-    fail
+    skip "Not implemented"
   end
 
   scenario "by approval rating", :js do
-    pending "Not implemented"
-    fail
+    skip "Not implemented"
   end
 end
 

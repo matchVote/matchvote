@@ -13,6 +13,7 @@
  *= require_tree .
  *= require bootstrap-toggle.min
  *= require bootstrap-datepicker3.min
+ *= require jasny-bootstrap.min
  *= require sweet-alert
  *= require_self
  */
@@ -169,6 +170,7 @@
   border-radius: 50px
   height: 100px
   width: 100px
+  margin: 0 0 10px 5px
   &:hover
     -webkit-transition: .3s ease-out
     -webkit-filter: opacity(.3)
@@ -193,10 +195,17 @@ body
 .copyright
   margin-right: 100px
 
+.faded
+  -webkit-filter: opacity(.25)
+
 
 //Bootstrap Modifications
 .btn
   border-radius: 20px
+
+.btn:focus, .btn:active:focus, .btn.active:focus,
+.btn.focus, .btn:active.focus, .btn.active.focus
+  outline: none
 
 .btn-sm
   padding: 7px 11px 6px 11px

@@ -1,0 +1,16 @@
+.fileinput.fileinput-new{data: { provides: "fileinput" }}
+  .fileinput-preview{data: { trigger: "fileinput" }}
+    = image_tag citizen.profile_pic_url, 
+      class: "edit_pic", id: "profile_pic_preview"
+  .row
+    .col-md-5
+      %span.btn.btn-default.btn-file
+        %span.fileinput-new Select image
+        %span.fileinput-exists Change
+        = f.file_field :profile_pic
+    .col-md-6
+      = link_to "Remove", "#", 
+        class: "btn btn-default fileinput-exists",
+        id: "reset_profile_pic",
+        data: { dismiss: "fileinput" }
+

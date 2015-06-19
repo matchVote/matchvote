@@ -9,7 +9,7 @@ module ApplicationHelper
     case key
     when "alert" then :warning
     when "notice" then :success
-    when "error" then :danger
+    when "error" then :error
     end
   end
 

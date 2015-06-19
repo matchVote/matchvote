@@ -54,7 +54,6 @@ feature "Edit Representative profile" do
     scenario "requesting the edit url directly redirects to the root url" do
       visit edit_representative_path(rep)
       expect(current_url).to eq root_url
-      expect(subject).to have_content("You are not authorized")
     end
   end
 end

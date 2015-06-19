@@ -22,6 +22,7 @@ class SignUpPage < Page
     select "Some College", from: "Education"
     select "Hindu", from: "Religion"
     select "Married", from: "Relationship"
+    fill_in "date_picker", with: "11/12/1492"
   end
 
   def fill_in_contact_info
@@ -31,6 +32,10 @@ class SignUpPage < Page
     fill_in "City", with: "Meat Camp"
     select "North Carolina", from: "State"
     fill_in "Zip Code", with: "12345"
+  end
+
+  def choose_file_to_upload(file = "test.jpg")
+    attach_file "user_profile_pic", "#{Rails.root}/spec/support/images/#{file}"
   end
 
   def create_account

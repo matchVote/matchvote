@@ -1,0 +1,62 @@
+.container
+  %hr
+  .row
+    .col-md-3
+      %h2.pull-right US Presidency
+    .col-md-8
+      .electioncard
+        .row
+          = render "presidency"
+  .row
+    .col-md-3
+      %h2.pull-right US Senate
+    .col-md-8
+      .electioncard
+
+  .row
+    .col-md-3
+      %h2.pull-right US Congress
+    .col-md-8
+      .electioncard
+
+  .row
+    .col-md-3
+      %h2.pull-right Governorships
+    .col-md-8
+      .electioncard
+        .row
+          = render "governorships"
+        %hr
+        = image_tag "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Blank_US_Map.svg/2000px-Blank_US_Map.svg.png", class: "map faded"
+
+  .row.faded
+    .col-md-3
+      %h2.pull-right State Senates
+    .col-md-8
+      .electioncard
+        %hr
+        %h1.faded Coming Soon
+
+  .row.faded
+    .col-md-3
+      %h2.pull-right State Houses
+    .col-md-8
+      .electioncard
+        %hr
+        %h1.faded Coming Soon
+
+  .row.faded
+    .col-md-3
+      %h2.pull-right Mayorships
+    .col-md-8
+      .electioncard
+        %hr
+        %h1.faded Coming Soon
+
+  .row.faded
+    .col-md-3
+      %h2.pull-right City Councils
+    .col-md-8
+      .electioncard
+        %hr
+        %h1.faded Coming Soon

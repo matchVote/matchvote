@@ -1,4 +1,7 @@
 ENV["RAILS_ENV"] ||= 'test'
+require "simplecov"
+SimpleCov.start
+
 require 'spec_helper'
 require File.expand_path("../../config/environment", __FILE__)
 require 'rspec/rails'
@@ -49,6 +52,14 @@ RSpec.configure do |config|
     Warden.test_mode!
     WebMock.disable_net_connect!(allow_localhost: true)
     DatabaseCleaner.clean_with(:truncation)
+
+    # Mock Fog for carrierwave uploads to S3
+    Fog.mock!
+    y = YAML.load(ERB.new(IO.read("#{Rails.root}/spec/support/fog_creds.yml")).result)
+    File.open("#{Rails.root}/tmp/fog_creds.yml", "w") { |f| f.write YAML.dump(y) }
+    Fog.credentials_path = "#{Rails.root}/tmp/fog_creds.yml"
+    connection = Fog::Storage.new(provider: "AWS")
+    connection.directories.create(key: "mv-profile-pics")
   end
 
   config.before(:each) do
@@ -62,4 +73,9 @@ RSpec.configure do |config|
     Warden.test_reset!
     DatabaseCleaner.clean
   end
+
+  config.after(:suite) do
+    File.delete("#{Rails.root}/tmp/fog_creds.yml")
+  end
 end
+

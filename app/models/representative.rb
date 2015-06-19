@@ -1,7 +1,7 @@
 class Representative < ActiveRecord::Base
   include PgSearch
   has_one :contact, as: :contactable, dependent: :destroy
-  accepts_nested_attributes_for :contact
+  accepts_nested_attributes_for :contact, reject_if: :all_blank
   has_many :stances, as: :opinionable
 
   validates :first_name, :last_name, :slug, presence: true

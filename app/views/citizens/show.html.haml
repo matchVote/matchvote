@@ -4,33 +4,21 @@
       &nbsp
 
     .whitecard
-      = image_tag "http://bradhankins.com/wp-content/uploads/2014/10/brad.jpg",
-          class: "profile_pic", title: "@#{current_user.username}"
+      = image_tag @citizen.profile_pic_url,
+        class: "profile_pic", title: "@#{current_user.username}"
       .profile_name
-        .btn-group.pull-right
-          .btn.btn-default.btn-xs
-            %span.glyphicon
-            Edit Profile
-          .btn.btn-default.btn-xs
-            Edit Privacy
-            %span.glyphicon
-        %h2 Brad Hankins
+        = render "edit_buttons", citizen: @citizen if @policy.edit?
+        %h2= @citizen.name
         %hr
-        %strong @#{current_user.username}
+        %strong @#{@citizen.username}
         %br
-        Unaffiliated Voter from NC
-      .profile_bio
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cin sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat.
-    .whitecard
-      .btn.btn-default.btn-xs.pull-right
-        %span.glyphicon
-        Edit Stances
-      %h3 Political Stances
-    .whitecard
-      .btn.btn-default.btn-xs.pull-right
-        %span.glyphicon
-        Edit Monkeys
-      %h3 Monkeys
+        = @citizen.subtitle
+      .profile_bio= @citizen.bio
+
+    - if @citizen.display_all_stances?
+      .whitecard#display_citizen_stances= render "citizen_stances",
+        stances: @stances, citizen: @citizen, policy: @policy
+
   .col-md-4
     .well.first_widget
       %center
@@ -47,3 +35,4 @@
         .btn.btn-primary
           %span.glyphicon.glyphicon-share-alt
           Invite
+

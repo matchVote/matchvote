@@ -1,0 +1,25 @@
+= render "edit_stances_button", citizen: citizen if policy.edit?
+%h3 Political Stances
+%hr
+#show_stances
+  - stances.issues.each do |issue|
+    .issue{data: { issue_id: issue.id }}
+      = link_to "Expand", "#issue_#{issue.name}", 
+        class: "btn btn-default pull-right toggle_stances_link",
+        data: { toggle: "collapse" }, 
+        aria: { expanded: false, controls: "issue_#{issue.name}" }
+      %h3= issue.name.titleize
+      %section.collapse{id: "issue_#{issue.name}"}
+        - stances.stances_for_issue(issue).each do |stance|
+          .stance{data: { stance_id: stance.id }}
+            .row
+              .col-md-12
+                %h4= stance.statement.text
+            .row
+              .col-md-6
+                %strong Stance
+                = stance.agreeance_value_string
+              .col-md-6
+                %strong Importance
+                = stance.importance_value_string
+
