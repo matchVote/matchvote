@@ -19,27 +19,27 @@ feature "Changing privacy settings" do
   end
 
   scenario "turning off Display All Stances sets user preference to false", :js do
-    user.settings(:privacy).update(display_all_stances: true)
+    user.settings(:privacy).update(display_all_stances: "true")
     edit_profile.refresh
     privacy_settings.display_modal
     expect(privacy_settings.is_checked?(:display_all_stances)).to eq true
 
     privacy_settings.uncheck_display_all_stances
     privacy_settings.save_changes
-    setting = user.settings(:privacy).display_all_stances
-    expect(setting).to eq false
+    setting = user.reload.settings(:privacy).display_all_stances
+    expect(setting).to eq "false"
   end
 
   scenario "turning on Display All Stances sets user preference to true", :js do
-    user.settings(:privacy).update(display_all_stances: false)
+    user.settings(:privacy).update(display_all_stances: "false")
     edit_profile.refresh
     privacy_settings.display_modal
     expect(privacy_settings.is_checked?(:display_all_stances)).to eq false
 
-    privacy_settings.uncheck_display_all_stances
+    privacy_settings.check_display_all_stances
     privacy_settings.save_changes
-    setting = user.settings(:privacy).display_all_stances
-    expect(setting).to eq true
+    setting = user.reload.settings(:privacy).display_all_stances
+    expect(setting).to eq "true"
   end
 end
 

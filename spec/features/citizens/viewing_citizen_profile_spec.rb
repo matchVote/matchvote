@@ -19,7 +19,7 @@ feature "Viewing Citizen profile" do
 
   scenario "shows citizen's stances when the settings allow" do
     stance = create_one_stance(agreeance: 3, importance: 2)
-    user.settings(:privacy).update(display_all_stances: true)
+    user.settings(:privacy).update(display_all_stances: "true")
     profile.refresh
     expect(profile).to have_stances_displayed
     expect(profile.has_stance_content?(stance)).to eq true
@@ -27,7 +27,7 @@ feature "Viewing Citizen profile" do
 
   scenario "hides citizen's stances when the settings don't allow" do
     stance = create_one_stance(agreeance: 3, importance: 2)
-    user.settings(:privacy).update(display_all_stances: false)
+    user.settings(:privacy).update(display_all_stances: "false")
     profile.refresh
     expect(profile).not_to have_stances_displayed
     expect(profile.has_stance_content?(stance)).to eq false

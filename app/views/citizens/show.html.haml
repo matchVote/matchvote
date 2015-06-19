@@ -14,8 +14,10 @@
         %br
         = @citizen.subtitle
       .profile_bio= @citizen.bio
-    .whitecard#display_citizen_stances= render "citizen_stances",
-      stances: @stances, citizen: @citizen, policy: @policy
+
+    - if @citizen.display_all_stances?
+      .whitecard#display_citizen_stances= render "citizen_stances",
+        stances: @stances, citizen: @citizen, policy: @policy
 
   .col-md-4
     .well.first_widget
