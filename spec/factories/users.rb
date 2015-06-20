@@ -15,22 +15,27 @@ FactoryGirl.define do
         bio: "hey there",
         crap_data: :yes }
     end
-    contact
 
     trait :with_profile_pic do
       username "jebediah"
       profile_pic File.open(Rails.root.join("spec/support/images/test.jpg"))
     end
 
-    trait :without_address do
-      username { Faker::Name.first_name }
-      after(:create) do |user|
-        user.contact.postal_addresses.destroy_all
+    trait :with_contact do
+      after(:build) do |user|
+        user.build_contact(attributes_for(:contact))
+      end
+    end
+
+    trait :with_address do
+      after(:build) do |user|
+        user.contact.postal_addresses.build(attributes_for(:postal_address))
       end
     end
 
     factory :user_with_pic, traits: [:with_profile_pic]
-    factory :user_without_address, traits: [:without_address]
+    factory :user_with_contact, traits: [:with_contact]
+    factory :user_with_address, traits: [:with_contact, :with_address]
   end
 end
 

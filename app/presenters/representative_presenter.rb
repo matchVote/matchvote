@@ -42,7 +42,7 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def status
-    rep.status.blank? ? "N/A" : rep.status.split.map(&:capitalize).join(' ')
+    rep.status.blank? ? "N/A" : rep.status.titleize
   end
 
   def orientation

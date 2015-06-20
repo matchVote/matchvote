@@ -12,6 +12,10 @@ FactoryGirl.define do
     after(:create) do |contact|
       create_list(:postal_address, 1, contact: contact)
     end
+
+    after(:build) do |contact|
+      build_list(:postal_address, 1, contact: contact)
+    end
   end
 end
 

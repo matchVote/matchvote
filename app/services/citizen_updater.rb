@@ -6,6 +6,7 @@ class CitizenUpdater
   end
 
   def update_contact_info(contact_params)
+    citizen.build_contact unless citizen.contact
     contact_params[:external_ids].reverse_merge!(citizen.contact.external_ids || {})
     citizen.contact.update!(contact_params)
   end
