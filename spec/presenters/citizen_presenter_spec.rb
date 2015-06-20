@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe CitizenPresenter do
-  let(:user) { build(:user) }
+  let(:user) { build(:user_with_address) }
   subject { described_class }
 
   describe "#name" do
@@ -21,13 +21,13 @@ describe CitizenPresenter do
 
   describe "#subtitle" do
     it "returns empty string when user's state is blank" do
-      user = build(:user, contact: nil)
+      user = build(:user)
       expect(subject.new(user).subtitle).to be_blank
     end
 
     context "when user's state is present" do
       it "returns 'Voter from ND' when party is blank" do
-        user = build(:user, personal_info: nil)
+        user.personal_info = nil
         expect(subject.new(user).subtitle).to eq "Voter from ND"
       end
 

@@ -7,6 +7,7 @@ feature "Editing Citizen profile" do
   subject { page }
 
   background do |example|
+    create(:contact, contactable: user)
     profile.signin_and_visit unless example.metadata[:skip_before]
   end
 
@@ -19,7 +20,7 @@ feature "Editing Citizen profile" do
       profile.update_contact_info
       wait_for_ajax
 
-      contact = User.first.contact
+      contact = user.reload.contact
       expect(contact.phone_numbers).to include "123-123-1231"
       expect(contact.external_ids).to eq(
         "twitter_username" => "flippy", 
@@ -33,12 +34,20 @@ feature "Editing Citizen profile" do
       expect(address.zip).to eq "21212"
     end
 
-    scenario "creates postal address if citizen doesn't have one", :js, :skip_before do
-      profile = EditProfilePage.new(create(:user_without_address))
-      profile.signin_and_visit
-      profile.update_contact_info
-      wait_for_ajax
-      expect(user.contact.postal_addresses).not_to be_blank
+    context "when associations don't exist" do
+      background do
+        profile.signin_and_visit
+        profile.update_contact_info
+        wait_for_ajax
+      end
+
+      scenario "creates a contact if citizen doesn't have one", :js, :skip_before do
+        expect(user.reload.contact).not_to be_nil
+      end
+
+      scenario "creates postal address if none exists", :js, :skip_before do
+        expect(user.contact.postal_addresses).not_to be_nil
+      end
     end
   end
 end
