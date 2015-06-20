@@ -1,9 +1,9 @@
-.modal.fade#edit_privacy{tabindex: "-1", role: "dialog", 
+.modal.fade#edit_privacy{tabindex: "-1", role: "dialog",
   aria: { labelledby: "edit_privacy_label", hidden: true }}
   .modal-dialog
     .modal-content
       .modal-header
-        = button_tag class: "close", data: { dismiss: "modal" }, 
+        = button_tag class: "close", data: { dismiss: "modal" },
           aria: { label: "Close" } do
           %span{aria: { hidden: true }} &times;
         %h4.modal-title#edit_privacy_label Edit Privacy Settings
@@ -20,7 +20,7 @@
               %br
       .modal-footer
         = button_tag "Close", class: "btn btn-default", data: { dismiss: "modal" }
-        = button_tag "Save Changes", 
+        = button_tag "Save Changes",
           class: "btn btn-primary", id: "save_privacy_settings_button",
           data: { id: @citizen.id }
 
@@ -34,26 +34,26 @@
       %h3 Personal Info
       .row
         .col-md-6
-          = text_field_tag :first_name, @citizen.first_name, 
+          = text_field_tag :first_name, @citizen.first_name,
             class: "form-control signup-field", placeholder: "First Name"
         .col-md-6
-          = text_field_tag :last_name, @citizen.last_name, 
+          = text_field_tag :last_name, @citizen.last_name,
             class: "form-control signup-field", placeholder: "Last Name"
       .row
         .col-md-4
           = text_field_tag :birthday, @citizen.birthday,
-            class: "form-control signup-field", id: "date_picker", 
+            class: "form-control signup-field", id: "date_picker",
             placeholder: "Birthday (mm/dd/yyyy)"
       .row
         .col-md-6
-          = select_tag :gender, 
+          = select_tag :gender,
             options_for_select(@citizen.personal_info_form.genders, @citizen.gender),
             include_blank: "Gender",
             class: ["form-control", "signup-field"],
             placeholder: "Gender"
         .col-md-6
-          = select_tag :ethnicity, 
-            options_for_select(@citizen.personal_info_form.ethnicities, 
+          = select_tag :ethnicity,
+            options_for_select(@citizen.personal_info_form.ethnicities,
               @citizen.ethnicity),
             include_blank: "Ethnicity",
             class: ["form-control", "signup-field"],
@@ -67,7 +67,7 @@
             placeholder: "Party"
         .col-md-6
           = select_tag :education,
-            options_for_select(@citizen.personal_info_form.education_levels, 
+            options_for_select(@citizen.personal_info_form.education_levels,
               @citizen.education),
             include_blank: "Education",
             class: ["form-control", "signup-field"],
@@ -75,14 +75,14 @@
       .row
         .col-md-6
           = select_tag :religion,
-            options_for_select(@citizen.personal_info_form.religions, 
+            options_for_select(@citizen.personal_info_form.religions,
               @citizen.religion),
             include_blank: "Religion",
             class: ["form-control", "signup-field"],
             placeholder: "Religion"
         .col-md-6
           = select_tag :relationship,
-            options_for_select(@citizen.personal_info_form.relationships, 
+            options_for_select(@citizen.personal_info_form.relationships,
             @citizen.relationship),
             include_blank: "Relationship",
             class: ["form-control", "signup-field"],
@@ -92,7 +92,7 @@
           %center
             = text_area_tag :biography, @citizen.bio,
               rows: 5,
-              class: "form-control", 
+              class: "form-control",
               placeholder: "100 words about yourself"
     %hr
     %center
@@ -145,7 +145,7 @@
 
 .col-md-5
   .whitecard
-    .row#profile_pic_upload
+    %div#profile_pic_upload
       = form_for @citizen, url: citizen_path(@citizen) do |f|
         %h3 Profile Pic
         %hr
@@ -166,7 +166,7 @@
     %br
     %br
     %center
-      = button_tag "Edit Privacy", class: "btn btn-primary", 
+      = button_tag "Edit Privacy", class: "btn btn-primary",
         data: { toggle: "modal", target: "#edit_privacy" }
 
   .whitecard
@@ -177,4 +177,3 @@
     %br
     %center= link_to "Edit Account", edit_user_registration_path,
       class: "btn btn-primary"
-

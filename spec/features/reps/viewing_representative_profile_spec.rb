@@ -10,7 +10,8 @@ feature "Viewing Representative profile" do
     create(:representative, 
       first_name: "Bob", 
       last_name: "Buffet", 
-      nickname: "Borky")
+      nickname: "Borky",
+      status: "in_office")
   end
 
   subject { page }
@@ -25,6 +26,7 @@ feature "Viewing Representative profile" do
   it { is_expected.to have_content "March 8, 1967" }
   it { is_expected.to have_content "#{address.line1}" }
   it { is_expected.to have_content "#{address.city}, #{address.state} #{address.zip}" }
+  it { is_expected.to have_content "In Office" }
 
   scenario "social media buttons are not shown without rep links"
 
