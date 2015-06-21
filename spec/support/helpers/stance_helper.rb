@@ -11,9 +11,9 @@ class StanceHelper
     create(:statement, issue_category: abortion, text: "Abortion statement 2")
   end
 
-  def create_stances(user)
+  def create_stances(entity)
     Statement.all.each do |statement|
-      create(:stance, statement: statement, opinionable: user)
+      create(:stance, statement: statement, opinionable: entity)
     end
   end
 

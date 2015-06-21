@@ -25,6 +25,7 @@ gem "virility", "~> 0.1.4"
 gem "will_paginate", "~> 3.0.7"
 
 group :development, :test do
+  gem "benchmark-ips", "~> 2.1.1"
   gem "byebug", "~> 4.0.2"
   gem "dotenv-rails", "~> 2.0.1"
   gem "faker", "~> 1.4.3"
