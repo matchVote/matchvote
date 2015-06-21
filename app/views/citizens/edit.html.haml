@@ -149,9 +149,10 @@
       = form_for @citizen, url: citizen_path(@citizen) do |f|
         %h3 Profile Pic
         %hr
-        .col-md-10.pull-left
-          = render "profile_pic_upload", citizen: @citizen, f: f
-        .col-md-2= f.submit "Update", class: "btn btn-primary pull-right"
+        .row
+          .col-md-10.pull-left
+            = render "profile_pic_upload", citizen: @citizen, f: f
+          .col-md-2= f.submit "Update", class: "btn btn-primary pull-right"
 
   .whitecard
     %a{name: "privacy"}
