@@ -6,6 +6,7 @@ class StancesController < ApplicationController
   def create
     stance_attrs = normalize(stance_params).merge(opinionable: current_user)
     stance = Stance.create!(stance_attrs)
+    StanceEvent.log(:created, stance, current_user)
     render partial: "update_stance_button", locals: { stance: stance }
   end
 
@@ -13,6 +14,7 @@ class StancesController < ApplicationController
     stance = Stance.find(params[:id])
     authorize stance
     stance.update_attributes(normalize(stance_params))
+    StanceEvent.log(:updated, stance, current_user)
     render text: :success
   end
 
@@ -20,6 +22,7 @@ class StancesController < ApplicationController
     stance = Stance.find(params[:id])
     authorize stance
     stance.destroy
+    StanceEvent.log(:deleted, stance, current_user)
     render partial: "statement", 
       locals: { statement: stance.statement, stance: Stance.new }
   end

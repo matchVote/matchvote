@@ -33,13 +33,12 @@
     %form
       %h3 Personal Info
       .row
-        .col-md-6
+        .col-md-4
           = text_field_tag :first_name, @citizen.first_name,
             class: "form-control signup-field", placeholder: "First Name"
-        .col-md-6
+        .col-md-4
           = text_field_tag :last_name, @citizen.last_name,
             class: "form-control signup-field", placeholder: "Last Name"
-      .row
         .col-md-4
           = text_field_tag :birthday, @citizen.birthday,
             class: "form-control signup-field", id: "date_picker",
@@ -149,9 +148,10 @@
       = form_for @citizen, url: citizen_path(@citizen) do |f|
         %h3 Profile Pic
         %hr
-        .col-md-10.pull-left
-          = render "profile_pic_upload", citizen: @citizen, f: f
-        .col-md-2= f.submit "Update", class: "btn btn-primary pull-right"
+        .row
+          .col-md-10.pull-left
+            = render "profile_pic_upload", citizen: @citizen, f: f
+          .col-md-2= f.submit "Update", class: "btn btn-primary pull-right"
 
   .whitecard
     %a{name: "privacy"}
