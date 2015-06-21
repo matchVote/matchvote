@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150616112435) do
+ActiveRecord::Schema.define(version: 20150621140300) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -111,6 +111,26 @@ ActiveRecord::Schema.define(version: 20150616112435) do
   end
 
   add_index "settings", ["target_type", "target_id", "var"], name: "index_settings_on_target_type_and_target_id_and_var", unique: true, using: :btree
+
+  create_table "stance_events", force: :cascade do |t|
+    t.integer  "action",            default: 0, null: false
+    t.integer  "agreeance_value"
+    t.integer  "importance_value"
+    t.integer  "stance_id"
+    t.integer  "statement_id"
+    t.integer  "issue_category_id"
+    t.uuid     "opinionable_id"
+    t.string   "opinionable_type"
+    t.uuid     "created_by"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "stance_events", ["created_by"], name: "index_stance_events_on_created_by", using: :btree
+  add_index "stance_events", ["issue_category_id"], name: "index_stance_events_on_issue_category_id", using: :btree
+  add_index "stance_events", ["opinionable_type", "opinionable_id"], name: "index_stance_events_on_opinionable_type_and_opinionable_id", using: :btree
+  add_index "stance_events", ["stance_id"], name: "index_stance_events_on_stance_id", using: :btree
+  add_index "stance_events", ["statement_id"], name: "index_stance_events_on_statement_id", using: :btree
 
   create_table "stance_quotes", force: :cascade do |t|
     t.text     "quote"
