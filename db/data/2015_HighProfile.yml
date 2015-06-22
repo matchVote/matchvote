@@ -466,6 +466,32 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Rick_Santorum.png
 
 - rep_status: Running for Office
+  state: DC
+  title: Candidate
+  first_name: Donald
+  middle_name: John
+  last_name: Trump
+  nick_name: Donald
+  address:
+  fax:
+  tel:
+  email: https://www.donaldjtrump.com/contact/
+  web: https://www.donaldjtrump.com/
+  took_office:
+  term_ends:
+  party: R
+  branch: executive
+  gender: M
+  birthday: 1946-06-14
+  religion: Presbyterian
+  orientation: Straight
+  facebook: https://www.facebook.com/DonaldTrump
+  twitter: https://twitter.com/realdonaldtrump
+  youtube: https://www.youtube.com/user/trump
+  wiki: https://en.wikipedia.org/wiki/Donald_Trump
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Donald_Trump.png
+
+- rep_status: Running for Office
   state: FL
   title: Governor
   first_name: John
@@ -476,7 +502,7 @@
   fax:
   tel:
   email:
-  web: https://righttorisepac.org/
+  web: https://jeb2016.com/
   took_office: 1999-01-05
   term_ends: January 2, 2007
   party: R
