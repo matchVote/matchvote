@@ -8,8 +8,8 @@ class MatchCalculator
 
   def overall_percent
     results = calculate_totals_for_shared_stances
-    one_percent_match = results[:one][:score] / results[:one][:importance_total]
-    two_percent_match = results[:two][:score] / results[:two][:importance_total]
+    one_percent_match = results[:one][:score] / results[:one][:importance_total].to_f
+    two_percent_match = results[:two][:score] / results[:two][:importance_total].to_f
     (one_percent_match * two_percent_match) ** (1.0 / results[:stance_count])
   end
 
@@ -27,7 +27,7 @@ class MatchCalculator
           acc[:two][:score] += one_weighted
         end
 
-        acc[:stance_count] += 0
+        acc[:stance_count] += 1
       end
       acc
     end
