@@ -8,27 +8,24 @@ describe MatchCalculator do
   subject { described_class }
 
   before(:each) do
-    statements = helper.build_statements(helper.build_issues)
-
-    create(:stance, statement: statements.first, opinionable: citizen,
-           agreeance_value: 1, importance_value: 3)
-    create(:stance, statement: statements.first, opinionable: rep,
-           agreeance_value: 1, importance_value: 1)
-
-    create(:stance, statement: statements[1], opinionable: citizen,
-           agreeance_value: -1, importance_value: 0)
-    create(:stance, statement: statements[1], opinionable: rep,
-           agreeance_value: -1, importance_value: 4)
-
-    create(:stance, statement: statements.last, opinionable: citizen,
-           agreeance_value: -2, importance_value: 2)
-    create(:stance, statement: statements.last, opinionable: rep,
-           agreeance_value: 3, importance_value: 4)
+    values = {
+      one: [ {agreeance_value:  1, importance_value: 3},
+             {agreeance_value: -1, importance_value: 0},
+             {agreeance_value: -2, importance_value: 2} ],
+      two: [ {agreeance_value:  1, importance_value: 1},
+             {agreeance_value: -1, importance_value: 4},
+             {agreeance_value:  3, importance_value: 4} ]
+    }
+    helper.create_stances_for(citizen, rep, values)
   end
 
   describe "#overall_percent" do
     it "finds overall percent of matching stances" do
       expect(subject.new(citizen, rep).overall_percent.round(2)).to eq 0.75
+    end
+
+    it "returns 0 if NaN" do
+      expect(subject.new(build(:user), rep).overall_percent).to eq 0
     end
   end
 end

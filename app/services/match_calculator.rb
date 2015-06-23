@@ -10,7 +10,8 @@ class MatchCalculator
     results = calculate_totals_for_shared_stances
     one_percent_match = results[:one][:score] / results[:one][:importance_total].to_f
     two_percent_match = results[:two][:score] / results[:two][:importance_total].to_f
-    (one_percent_match * two_percent_match) ** (1.0 / results[:stance_count])
+    match = (one_percent_match * two_percent_match) ** (1.0 / results[:stance_count])
+    match.nan? ? 0 : match
   end
 
   def calculate_totals_for_shared_stances
