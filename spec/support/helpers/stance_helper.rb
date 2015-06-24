@@ -45,28 +45,20 @@ class StanceHelper
   end
 
   def create_stances_for(entity_one, entity_two, values)
-    statements = build_statements(build_issues)
+    opinions = build_statements(build_issues).zip(values[:one], values[:two])
+    opinions.each do |opinion|
+      create(:stance, 
+        statement:        opinion.first,
+        opinionable:      entity_one,
+        agreeance_value:  opinion[1][:agreeance_value], 
+        importance_value: opinion[1][:importance_value])
 
-    create(:stance, statement: statements.first, opinionable: entity_one,
-           agreeance_value:  values[:one].first[:agreeance_value], 
-           importance_value: values[:one].first[:importance_value])
-    create(:stance, statement: statements.first, opinionable: entity_two,
-           agreeance_value:  values[:two].first[:agreeance_value], 
-           importance_value: values[:two].first[:importance_value])
-
-    create(:stance, statement: statements[1], opinionable: entity_one,
-           agreeance_value:  values[:one][1][:agreeance_value], 
-           importance_value: values[:one][1][:importance_value])
-    create(:stance, statement: statements[1], opinionable: entity_two,
-           agreeance_value:  values[:two][1][:agreeance_value], 
-           importance_value: values[:two][1][:importance_value])
-
-    create(:stance, statement: statements.last, opinionable: entity_one,
-           agreeance_value:  values[:one].last[:agreeance_value], 
-           importance_value: values[:one].last[:importance_value])
-    create(:stance, statement: statements.last, opinionable: entity_two,
-           agreeance_value:  values[:two].last[:agreeance_value], 
-           importance_value: values[:two].last[:importance_value])
+      create(:stance, 
+        statement:        opinion.first,
+        opinionable:      entity_two,
+        agreeance_value:  opinion[2][:agreeance_value], 
+        importance_value: opinion[2][:importance_value])
+    end
   end
 end
 

@@ -1,5 +1,5 @@
 - reps.each do |rep|
-  .directory_block
+  .directory_block{id: rep.slug}
     %div
       = link_to rep_path(rep.slug) do
         = image_tag rep.profile_image_url,
