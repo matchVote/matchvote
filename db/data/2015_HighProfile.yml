@@ -516,3 +516,237 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Jeb_bush
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Jeb_Bush.png
+
+- rep_status: In Office
+  state: DC
+  title: Chief Justice
+  first_name: John
+  middle_name: Glover
+  last_name: Roberts
+  nick_name:
+  address: 1 First Street NE, Washington, DC 20543
+  fax:
+  tel: 202-479-3000
+  contact_form_url:
+  web: http://www.supremecourt.gov/
+  took_office: 2005-09-29
+  term_ends:
+  party: R
+  branch: judicial
+  gender: Male
+  birthday: 1955-11-27
+  religion: Catholic
+  orientation: Straight
+  facebook:
+  twitter:
+  youtube:
+  wiki: https://en.wikipedia.org/wiki/John_Roberts
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/John_Roberts.png
+
+- rep_status: In Office
+  state: DC
+  title: Justice
+  first_name: Antonin
+  middle_name:
+  last_name: Scalia
+  nick_name:
+  address: 1 First Street NE, Washington, DC 20543
+  fax:
+  tel: 202-479-3000
+  contact_form_url:
+  web: http://www.supremecourt.gov/
+  took_office: 1986-06-24
+  term_ends:
+  party: R
+  branch: judicial
+  gender: Male
+  birthday: 1936-03-11
+  religion: Catholic
+  orientation: Straight
+  facebook:
+  twitter:
+  youtube:
+  wiki: https://en.wikipedia.org/wiki/Antonin_Scalia
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Antonin_Scalia.png
+
+- rep_status: In Office
+  state: DC
+  title: Justice
+  first_name: Anthony
+  middle_name: McLeod
+  last_name: Kennedy
+  nick_name:
+  address: 1 First Street NE, Washington, DC 20543
+  fax:
+  tel: 202-479-3000
+  contact_form_url:
+  web: http://www.supremecourt.gov/
+  took_office: 1988-02-18
+  term_ends:
+  party: R
+  branch: judicial
+  gender: Male
+  birthday: 1936-07-23
+  religion: Catholic
+  orientation: Straight
+  facebook:
+  twitter:
+  youtube:
+  wiki: https://en.wikipedia.org/wiki/Anthony_Kennedy
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Anthony_Kennedy.png
+
+- rep_status: In Office
+  state: DC
+  title: Justice
+  first_name: Clarence
+  middle_name:
+  last_name: Thomas
+  nick_name:
+  address: 1 First Street NE, Washington, DC 20543
+  fax:
+  tel: 202-479-3000
+  contact_form_url:
+  web: http://www.supremecourt.gov/
+  took_office: 1991-10-23
+  term_ends:
+  party: R
+  branch: judicial
+  gender: Male
+  birthday: 1948-06-23
+  religion: Catholic
+  orientation: Straight
+  facebook:
+  twitter:
+  youtube:
+  wiki: https://en.wikipedia.org/wiki/Clarence_Thomas
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Clarence_Thomas.png
+
+- rep_status: In Office
+  state: DC
+  title: Justice
+  first_name: Ruth
+  middle_name: Bader
+  last_name: Ginsberg
+  nick_name:
+  address: 1 First Street NE, Washington, DC 20543
+  fax:
+  tel: 202-479-3000
+  contact_form_url:
+  web: http://www.supremecourt.gov/
+  took_office: 1993-08-10
+  term_ends:
+  party: D
+  branch: judicial
+  gender: Female
+  birthday: 1933-03-15
+  religion: Judaism
+  orientation: Straight
+  facebook:
+  twitter:
+  youtube:
+  wiki: https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Ruth_Bader_Ginsburg.png
+
+- rep_status: In Office
+  state: DC
+  title: Justice
+  first_name: Stephen
+  middle_name: Gerald
+  last_name: Breyer
+  nick_name:
+  address: 1 First Street NE, Washington, DC 20543
+  fax:
+  tel: 202-479-3000
+  contact_form_url:
+  web: http://www.supremecourt.gov/
+  took_office: 1986-09-26
+  term_ends:
+  party: D
+  branch: judicial
+  gender: Male
+  birthday: 1938-08-15
+  religion: Judaism
+  orientation: Straight
+  facebook:
+  twitter:
+  youtube:
+  wiki: https://en.wikipedia.org/wiki/Stephen_Breyer
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Stephen_Breyer.png
+
+- rep_status: In Office
+  state: DC
+  title: Justice
+  first_name: Samuel
+  middle_name: Anthony
+  last_name: Alito
+  nick_name:
+  address: 1 First Street NE, Washington, DC 20543
+  fax:
+  tel: 202-479-3000
+  contact_form_url:
+  web: http://www.supremecourt.gov/
+  took_office: 2006-01-31
+  term_ends:
+  party: R
+  branch: judicial
+  gender: Male
+  birthday: 1950-04-01
+  religion: Catholic
+  orientation: Straight
+  facebook:
+  twitter:
+  youtube:
+  wiki: https://en.wikipedia.org/wiki/Samuel_Alito
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Samuel_Alito.png
+
+- rep_status: In Office
+  state: DC
+  title: Justice
+  first_name: Sonia
+  middle_name: Maria
+  last_name: Sotomayor
+  nick_name:
+  address: 1 First Street NE, Washington, DC 20543
+  fax: http://www.supremecourt.gov/
+  tel: 202-479-3000
+  contact_form_url:
+  web:
+  took_office: 2009-08-08
+  term_ends:
+  party: D
+  branch: judicial
+  gender: Female
+  birthday: 1954-06-25
+  religion: Catholic
+  orientation: Straight
+  facebook:
+  twitter:
+  youtube:
+  wiki: https://en.wikipedia.org/wiki/Sonia_Sotomayor
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Sonia_Sotomayor.png
+
+- rep_status: In Office
+  state: DC
+  title: Justice
+  first_name: Elena
+  middle_name:
+  last_name: Kagan
+  nick_name:
+  address: 1 First Street NE, Washington, DC 20543
+  fax: http://www.supremecourt.gov/
+  tel: 202-479-3000
+  contact_form_url:
+  web:
+  took_office: 2010-08-07
+  term_ends:
+  party: D
+  branch: judicial
+  gender: Female
+  birthday: 1960-04-28
+  religion: Judaism
+  orientation: Straight
+  facebook:
+  twitter:
+  youtube:
+  wiki: https://en.wikipedia.org/wiki/Elena_Kagan
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Elena_Kagan.png
