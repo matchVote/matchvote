@@ -8,16 +8,9 @@ describe MatchCalculator do
   subject { described_class }
 
   before(:each) do
-    values = {
-      one: [ {agreeance_value:  1, importance_value: 3},
-             {agreeance_value: -1, importance_value: 0},
-             {agreeance_value:  0, importance_value: 1},
-             {agreeance_value: -2, importance_value: 2} ],
-      two: [ {agreeance_value:  1, importance_value: 1},
-             {agreeance_value: -1, importance_value: 4},
-             {agreeance_value:  0, importance_value: 3},
-             {agreeance_value:  3, importance_value: 4} ] }
-
+    # [[agreeance, importance], ...]
+    values = { one: [[1, 3], [-1, 0], [0, 1], [-2, 2]],
+               two: [[1, 1], [-1, 4], [0, 3], [ 3, 4]] }
     helper.create_stances_for(citizen, rep, values)
   end
 

@@ -50,14 +50,14 @@ class StanceHelper
       create(:stance, 
         statement:        opinion.first,
         opinionable:      entity_one,
-        agreeance_value:  opinion[1][:agreeance_value], 
-        importance_value: opinion[1][:importance_value])
+        agreeance_value:  opinion[1].first,
+        importance_value: opinion[1].last)
 
       create(:stance, 
         statement:        opinion.first,
         opinionable:      entity_two,
-        agreeance_value:  opinion[2][:agreeance_value], 
-        importance_value: opinion[2][:importance_value])
+        agreeance_value:  opinion[2].first,
+        importance_value: opinion[2].last)
     end
   end
 end
