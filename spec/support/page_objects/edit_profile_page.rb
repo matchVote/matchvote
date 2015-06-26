@@ -24,13 +24,6 @@ class EditProfilePage < Page
     click_link "view_profile_link"
   end
 
-  def sign_in
-    page.visit root_path
-    fill_in "Email", with: user.email
-    fill_in "Password", with: user.password
-    click_button "Sign In"
-  end
-
   def privacy_settings_modal
     PrivacySettingsModal.new
   end
