@@ -11,9 +11,9 @@ class StanceHelper
     create(:statement, issue_category: abortion, text: "Abortion statement 2")
   end
 
-  def create_stances(user)
+  def create_stances(entity)
     Statement.all.each do |statement|
-      create(:stance, statement: statement, opinionable: user)
+      create(:stance, statement: statement, opinionable: entity)
     end
   end
 
@@ -42,6 +42,23 @@ class StanceHelper
 
   def build_stance(statement, user)
     build(:stance, statement: statement, opinionable: user)
+  end
+
+  def create_stances_for(entity_one, entity_two, values)
+    opinions = build_statements(build_issues).zip(values[:one], values[:two])
+    opinions.each do |opinion|
+      create(:stance, 
+        statement:        opinion.first,
+        opinionable:      entity_one,
+        agreeance_value:  opinion[1].first,
+        importance_value: opinion[1].last)
+
+      create(:stance, 
+        statement:        opinion.first,
+        opinionable:      entity_two,
+        agreeance_value:  opinion[2].first,
+        importance_value: opinion[2].last)
+    end
   end
 end
 
