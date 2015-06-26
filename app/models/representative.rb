@@ -7,7 +7,7 @@ class Representative < ActiveRecord::Base
   validates :first_name, :last_name, :slug, presence: true
 
   pg_search_scope :search_by_name, 
-    against: [:first_name, :last_name, :nickname, :official_full_name],
+    against: [:first_name, :last_name, :middle_name, :nickname, :official_full_name],
     using: { tsearch: { prefix: true } }
 
   def update_or_create_contact(contact_params)
