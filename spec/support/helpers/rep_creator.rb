@@ -29,23 +29,38 @@ module RepCreator
     [{ 
        first_name: "Bob", 
        last_name:  "Carpenter",
-       nickname:   nil 
+       nickname:   nil,
+       name_recognition: 1234,
+       birthday: "1944-12-03",
+       seniority_date: "1967-03-01",
      }, {
        first_name: "Alice", 
        last_name:  "Carpenter",
-       nickname:   nil
+       nickname:   nil,
+       name_recognition: 0,
+       birthday: "1967-03-01",
+       seniority_date: "1944-12-03"
      }, { 
        first_name: "David", 
        last_name:  "Krusty",
-       nickname:   nil
+       nickname:   nil,
+       name_recognition: 44,
+       birthday: "1973-11-11",
+       seniority_date: "1967-03-02"
      }, { 
        first_name: "Buddy", 
        last_name:  "Rich",
-       nickname:   nil 
+       nickname:   nil,
+       name_recognition: 2,
+       birthday: "1967-03-02",
+       seniority_date: "1973-01-09"
      }, { 
        first_name: "Gene", 
        last_name:  "Krupa",
-       nickname:   nil
+       nickname:   nil,
+       name_recognition: 923,
+       birthday: "1973-01-09",
+       seniority_date: "1973-11-11"
      }].each { |rep| create(:representative, rep) }
   end
 end
