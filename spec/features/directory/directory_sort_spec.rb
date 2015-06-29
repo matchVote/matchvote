@@ -58,14 +58,23 @@ feature "Sorting reps" do
 
   scenario "by most similar views", :js do
     skip "Not implemented"
+    select "Most Similar Views", from: "Sort"
+    directory.wait_for_ajax
   end
 
   scenario "by least similar views", :js do
     skip "Not implemented"
+    select "Least Similar Views", from: "Sort"
+    directory.wait_for_ajax
   end
 
   scenario "by state", :js do
-    skip "Not implemented"
+    select "State", from: "Sort"
+    directory.wait_for_ajax
+    expect("David Krusty").to appear_before("Bob Carpenter")
+    expect("Bob Carpenter").to appear_before("Gene Krupa")
+    expect("Gene Krupa").to appear_before("Buddy Rich")
+    expect("Buddy Rich").to appear_before("Alice Carpenter")
   end
 
   scenario "by approval rating", :js do

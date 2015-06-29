@@ -21,6 +21,10 @@ class RepSorter
     reps.reorder(:seniority_date, :slug)
   end
 
+  def state
+    reps.reorder(:state, :last_name)
+  end
+
   def method_missing(*args)
     []
   end
