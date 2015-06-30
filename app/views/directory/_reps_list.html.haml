@@ -10,7 +10,7 @@
       =rep.government_role
       |
       =rep.state
-      %div= MatchPresenter.new(current_user, rep).overall_percent
+      %div= rep.overall_match_percent
     .directory_block_btns
       = link_to "View Profile", rep_path(rep.slug), class: "btn btn-sm btn-default"
       = link_to "Follow", rep_path(rep.slug), class: "btn btn-sm btn-default"

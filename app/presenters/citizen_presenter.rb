@@ -1,10 +1,6 @@
 class CitizenPresenter < SimpleDelegator
-  def initialize(user)
-    super(CitizenDecorator.new(user))
-  end
-
-  def citizen
-    @citizen ||= __getobj__
+  def initialize(citizen)
+    super(CitizenDecorator.new(citizen))
   end
 
   def contact
@@ -33,7 +29,7 @@ class CitizenPresenter < SimpleDelegator
   end
 
   def party_formatted
-    (citizen.party || "").titleize
+    (party || "").titleize
   end
 
   # Contact Info

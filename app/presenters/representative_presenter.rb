@@ -1,6 +1,11 @@
 class RepresentativePresenter < SimpleDelegator
   include ActionView::Helpers
 
+  def initialize(rep, user = nil)
+    @user = user
+    super(rep)
+  end
+
   def rep
     @rep ||= __getobj__
   end
@@ -30,7 +35,11 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def government_role
-    rep.government_role.blank? ? "N/A" : rep.government_role.split.map(&:capitalize).join(' ')
+    if rep.government_role.blank? 
+      "N/A"
+    else
+      rep.government_role.split.map(&:capitalize).join(" ")
+    end
   end
 
   def branch
@@ -68,4 +77,9 @@ class RepresentativePresenter < SimpleDelegator
   def youtube_url
     "https://youtube.com/#{external_ids["youtube_username"]}"
   end
+
+  def overall_match_percent
+    (rep.overall_match_percent(@user) * 100).round.to_s << "%"
+  end
 end
+

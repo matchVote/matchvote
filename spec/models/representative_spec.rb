@@ -1,4 +1,5 @@
 require "rails_helper"
+require "support/helpers/stance_helper"
 
 describe Representative do
   subject { create(:representative) }
@@ -51,4 +52,17 @@ describe Representative do
       end
     end
   end
+
+  describe "#overall_match_percent" do
+    let(:user) { build(:user) }
+    let(:rep) { build(:representative) }
+
+    it "returns the overall match percent of user and rep" do
+      values = { one: [[1, 3], [-1, 0], [0, 2], [-2, 2]],
+                 two: [[1, 1], [-2, 4], [0, 3], [ 3, 4]] }
+      StanceHelper.new.create_stances_for(user, rep, values)
+      expect(rep.overall_match_percent(user)).to eq 0.53
+    end
+  end
 end
+

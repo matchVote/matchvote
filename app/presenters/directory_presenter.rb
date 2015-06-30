@@ -10,9 +10,10 @@ class DirectoryPresenter
      ["Sort by State", "state"]]
   end
 
-  def initialize(reps: nil, sort_by: default_sort)
+  def initialize(reps: nil, sort_by: default_sort, user: nil)
     @sort_by = sort_by.present? ? sort_by : default_sort
     @reps = reps
+    @user = user
   end
 
   def reps
@@ -24,7 +25,7 @@ class DirectoryPresenter
   end
 
   def present(reps)
-    reps.map { |rep| RepresentativePresenter.new(rep) }
+    reps.map { |rep| RepresentativePresenter.new(rep, @user) }
   end
 
   private
