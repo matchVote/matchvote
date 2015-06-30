@@ -1,8 +1,9 @@
 class RepSorter
-  attr_reader :reps
+  attr_reader :reps, :user
 
-  def initialize(reps)
+  def initialize(reps, user)
     @reps = reps
+    @user = user
   end
 
   def alphabetically
@@ -23,6 +24,14 @@ class RepSorter
 
   def state
     reps.reorder(:state, :last_name)
+  end
+
+  def similarity
+    reps
+  end
+
+  def difference
+    reps
   end
 
   def method_missing(*args)

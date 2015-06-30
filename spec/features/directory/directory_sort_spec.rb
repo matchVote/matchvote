@@ -8,7 +8,7 @@ feature "Sorting reps" do
   subject { page }
 
   background do
-    directory.create_sortable_reps
+    @sortable_reps = directory.create_sortable_reps
     directory.signin_and_visit
   end
 
@@ -57,15 +57,25 @@ feature "Sorting reps" do
   end
 
   scenario "by most similar views", :js do
-    skip "Not implemented"
+    directory.create_stances_for_matching(@sortable_reps, user)
+    directory.refresh
     select "Most Similar Views", from: "Sort"
     directory.wait_for_ajax
+    expect("Alice Carpenter").to appear_before("Bob Carpenter")
+    expect("Bob Carpenter").to appear_before("David Krusty")
+    expect("David Krusty").to appear_before("Buddy Rich")
+    expect("Buddy Rich").to appear_before("Gene Krupa")
   end
 
   scenario "by least similar views", :js do
-    skip "Not implemented"
+    directory.create_stances_for_matching(@sortable_reps, user)
+    directory.refresh
     select "Least Similar Views", from: "Sort"
     directory.wait_for_ajax
+    expect("Gene Krupa").to appear_before("Buddy Rich")
+    expect("Buddy Rich").to appear_before("David Krusty")
+    expect("David Krusty").to appear_before("Bob Carpenter")
+    expect("Bob Carpenter").to appear_before("Alice Carpenter")
   end
 
   scenario "by state", :js do

@@ -66,7 +66,7 @@ module RepCreator
        birthday: "1973-01-09",
        seniority_date: "1973-11-11",
        state: "OK"
-     }].each { |rep| create(:representative, rep) }
+     }].map { |rep| create(:representative, rep) }
   end
 end
 
