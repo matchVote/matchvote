@@ -27,11 +27,15 @@ class RepSorter
   end
 
   def similarity
-    reps
+    reps.sort do |a, b|
+      b.overall_match_percent(user) <=> a.overall_match_percent(user)
+    end
   end
 
   def difference
-    reps
+    reps.sort do |a, b|
+      a.overall_match_percent(user) <=> b.overall_match_percent(user)
+    end
   end
 
   def method_missing(*args)

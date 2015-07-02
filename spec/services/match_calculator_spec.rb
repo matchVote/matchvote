@@ -5,13 +5,14 @@ describe MatchCalculator do
   let(:helper) { StanceHelper.new }
   let(:citizen) { build(:user) }
   let(:rep) { build(:representative) }
+  let(:statements) { helper.build_statements }
   subject { described_class }
 
   before(:each) do
-    # [[agreeance, importance], ...]
-    values = { one: [[1, 3], [-1, 0], [0, 1], [-2, 2]],
-               two: [[1, 1], [-1, 4], [0, 3], [ 3, 4]] }
-    helper.create_stances_for(citizen, rep, values)
+    citizen_stances = [[1, 3], [-1, 0], [0, 1], [-2, 2]]
+    rep_stances =     [[1, 1], [-1, 4], [0, 3], [ 3, 4]]
+    helper.create_stances_for(statements, citizen, citizen_stances)
+    helper.create_stances_for(statements, rep, rep_stances)
   end
 
   describe "#overall_percent" do

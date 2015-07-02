@@ -3,7 +3,8 @@ require "rails_helper"
 describe RepSorter do
   let(:all_reps) { Representative.all }
   let(:some_reps) { Representative.where(party: "Democrat") }
-  subject { described_class.new(some_reps) }
+  let(:user) { build(:user) }
+  subject { described_class.new(some_reps, user) }
 
   before(:each) do
     10.times { create(:representative) }

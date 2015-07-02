@@ -46,23 +46,14 @@ class DirectoryPage < Page
 
   def create_stances_for_matching(reps, user)
     helper = StanceHelper.new
-    user_stances = [[1,4], [2,1], [-3,2], [-1,0]]
+    statements = helper.build_statements
+    helper.create_stances_for(statements, user,    [[1,4], [2,3], [-3,2], [-1,2]])
 
-    helper.create_stances_for(reps[0], user, 
-      one: [[1,4], [2,1], [-3,2], [-2,0]], 
-      two: user_stances)
-    helper.create_stances_for(reps[1], user, 
-      one: [[1,4], [2,1], [-3,2], [-1,0]], 
-      two: user_stances)
-    helper.create_stances_for(reps[2], user, 
-      one: [[1,4], [2,1], [1,2], [-3,0]], 
-      two: user_stances)
-    helper.create_stances_for(reps[3], user, 
-      one: [[1,4], [1,1], [3,2], [-2,0]], 
-      two: user_stances)
-    helper.create_stances_for(reps[4], user, 
-      one: [[2,4], [0,1], [2,2], [1,0]], 
-      two: user_stances)
+    helper.create_stances_for(statements, reps[0], [[1,4], [2,1], [-3,2], [-2,0]])
+    helper.create_stances_for(statements, reps[1], [[1,4], [2,1], [-3,2], [-1,4]])
+    helper.create_stances_for(statements, reps[2], [[1,4], [2,1], [ 1,2], [-3,0]])
+    helper.create_stances_for(statements, reps[3], [[1,4], [1,1], [ 3,2], [-2,3]])
+    helper.create_stances_for(statements, reps[4], [[2,4], [2,1], [ 2,2], [ 1,0]])
   end
 end
 
