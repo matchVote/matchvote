@@ -33,9 +33,7 @@ class RepSorter
   end
 
   def difference
-    reps.sort do |a, b|
-      a.overall_match_percent(user) <=> b.overall_match_percent(user)
-    end
+    reps.sort_by { |rep| rep.overall_match_percent(user) }
   end
 
   def method_missing(*args)
