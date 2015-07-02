@@ -24,7 +24,7 @@ feature "Creating stances to issue category statements" do
     agreeance = "#agreeance_#{statement.id}"
     importance = "#importance_#{statement.id}"
     expect(find(agreeance).value).to eq "0"
-    expect(find(importance).value).to eq "2"
+    expect(find(importance).value).to eq "1"
   end
 
   scenario "clicking Save Stance creates a stance and logs the event", :js do

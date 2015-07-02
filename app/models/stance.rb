@@ -15,10 +15,8 @@ class Stance < ActiveRecord::Base
   }
 
   IMPORTANCE_VALUES = { 
-    4 => "Very Important",
-    3 => "Important",
-    2 => "Neutral",
-    1 => "Somewhat Important",
+    2 => "Very Important",
+    1 => "Important",
     0 => "Not Very Important"
   }
 
@@ -40,7 +38,7 @@ class Stance < ActiveRecord::Base
   end
 
   def importance_value
-    self[:importance_value] || 2
+    self[:importance_value] || 1
   end
 
   def agreeance_value_string
