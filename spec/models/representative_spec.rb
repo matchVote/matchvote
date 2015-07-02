@@ -60,11 +60,11 @@ describe Representative do
     it "returns the overall match percent of user and rep" do
       helper = StanceHelper.new
       statements = helper.build_statements
-      user_stances = [[1, 3], [-1, 0], [0, 2], [-2, 2]]
-      rep_stances =  [[1, 1], [-2, 4], [0, 3], [ 3, 4]]
+      user_stances = [[1, 1], [-1, 1], [0, 2], [-2, 1]]
+      rep_stances =  [[1, 2], [-2, 1], [0, 2], [ 3, 2]]
       helper.create_stances_for(statements, user, user_stances)
       helper.create_stances_for(statements, rep, rep_stances)
-      expect(rep.overall_match_percent(user)).to eq 0.53
+      expect(rep.overall_match_percent(user)).to eq 0.78
     end
   end
 end

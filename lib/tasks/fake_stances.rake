@@ -7,8 +7,8 @@ task :fake_stance_matches_for, [:username] => :environment do |task, args|
   (Representative.all << user).each do |rep|
     Statement.all.each do |statement|
       statement.stances.create(opinionable: rep,
-        agreeance_value: (-3..3).to_a.sample, 
-        importance_value: (0..4).to_a.sample)
+        agreeance_value: rand(-3..3), 
+        importance_value: rand(0..2))
     end
   end
 end
