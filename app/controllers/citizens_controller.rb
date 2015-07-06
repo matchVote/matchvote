@@ -1,6 +1,10 @@
 require "#{Rails.root}/lib/us_states"
 
 class CitizensController < ApplicationController
+  def index
+    authorize current_user, :view_index?
+  end
+
   def show
     user = User.find_by!(username: params[:id])
     @citizen = CitizenPresenter.new(user)
@@ -61,8 +65,8 @@ class CitizensController < ApplicationController
         ])
     end
 
-    def authorize(user)
+    def authorize(user, action = :edit?)
       policy = CitizenPolicy.new(current_user, user)
-      fail Pundit::NotAuthorizedError unless policy.edit?
+      fail Pundit::NotAuthorizedError unless policy.send(action)
     end
 end

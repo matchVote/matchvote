@@ -11,5 +11,13 @@ class Page
     fill_in "Password", with: user.password
     click_button "Sign In"
   end
+
+  def signout
+    find(:xpath, "//a[@href='#{destroy_user_session_path}']").click
+  end
+
+  def user
+    fail NotImplementedError
+  end
 end
 

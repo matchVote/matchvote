@@ -8,7 +8,7 @@ Rails.application.routes.draw do
   get "/representative/:slug", to: "representatives#show", as: "rep"
   resources :representatives, only: [:edit, :update]
 
-  resources :citizens, only: [:show, :edit, :update]
+  resources :citizens, only: [:show, :edit, :update, :index]
   post "/citizens/:id/update_personal", to: "citizens#update_personal_info"
   post "/citizens/:id/update_contact",  to: "citizens#update_contact_info"
   post "/citizens/:id/update_settings", to: "citizens#update_settings"
