@@ -1,11 +1,11 @@
 require "support/page_objects/page"
 
 class ProfilePage < Page
-  attr_reader :user, :aws_image_regex
+  attr_reader :aws_image_regex
 
   def initialize(user)
-    @user = user
     @aws_image_regex = /s3\.amazonaws\.com\/uploads\/user\/profile_pic/
+    super
   end
 
   def visit

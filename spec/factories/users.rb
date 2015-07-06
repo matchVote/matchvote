@@ -6,7 +6,6 @@ FactoryGirl.define do
     password_confirmation "@123abc!"
     admin false
     rep_admin false
-    rep_slug ""
     personal_info do
       { first_name: "Bob", 
         last_name: "Jenkins",

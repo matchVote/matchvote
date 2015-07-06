@@ -14,6 +14,6 @@ module ApplicationHelper
   end
 
   def path_for_user(user)
-    user.rep_admin? ? rep_path(user.rep_slug) : citizen_path(user)
+    user.rep_admin? ? rep_path(user.profile.slug) : citizen_path(user)
   end
 end
