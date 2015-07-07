@@ -1,15 +1,6 @@
 .row
   .col-md-8
-    .profile_breadcrumbs
-      = link_to "Directory", root_path
-      >
-      = link_to "Federal", "/?=Federal"
-      >
-      = link_to @rep.branch, "#"
-      >
-      = link_to @rep.government_role, "#"
-      >
-      = link_to @rep.full_name, "#"
+    = render "breadcrumbs", rep: @rep
 
     .whitecard
       = image_tag @rep.profile_image_url,
