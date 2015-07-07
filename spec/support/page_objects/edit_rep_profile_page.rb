@@ -8,25 +8,20 @@ class EditRepProfilePage < Page
     super(user)
   end
 
-  def signin_and_visit_rep_profile
+  def signin_and_visit
     sign_in
     visit_profile
+    click_link "Edit"
   end
 
   def visit
     page.visit edit_representative_path(rep)
   end
 
+  alias_method :refresh, :visit
+
   def visit_profile
     page.visit rep_path(rep.slug)
-  end
-
-  def visit_another_rep_page(rep)
-    page.visit rep_path(rep.slug)
-  end
-
-  def has_edit_button?
-    has_link? "Edit"
   end
 
   def editable?
