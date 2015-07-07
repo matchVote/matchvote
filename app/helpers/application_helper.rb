@@ -16,4 +16,12 @@ module ApplicationHelper
   def path_for_user(user)
     user.rep_admin? ? rep_path(user.profile.slug) : citizen_path(user)
   end
+
+  def set_body_class(controller, action)
+    if controller == "sessions" && action == "new"
+      "landing-background"
+    else
+      "#{controller} #{action}"
+    end
+  end
 end
