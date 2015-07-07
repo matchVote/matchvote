@@ -1,30 +1,36 @@
 require "rails_helper"
 require "support/authentication"
+require "support/page_objects/edit_rep_profile_page"
 
 feature "Edit Representative profile" do
-  given(:user) { create(:user) }
+  given(:profile) { EditRepProfilePage.new(user, rep) }
   given(:rep) { create(:representative) }
   given(:other_rep) { create(:representative) }
-
-  subject { page }
-
-  background do
-    sign_in(user)
-    visit rep_path(rep.slug)
+  given(:user) do
+    create(:user, rep_admin: true, profile_type: "Representative", profile_id: rep.id)
   end
 
-  context "when user is admin" do
+  background do |example|
+    profile.signin_and_visit_rep_profile unless example.metadata[:skip_before]
+  end
+
+  context "when user is admin", :skip_before do
     given(:user) { create(:user, admin: true) }
+    given(:profile) { EditRepProfilePage.new(user, rep) }
+
+    background do
+      profile.signin_and_visit_rep_profile
+    end
 
     scenario "the edit button is visible on all rep profiles" do
-      expect(subject).to have_link("Edit")
-      visit rep_path(other_rep.slug)
-      expect(subject).to have_link("Edit")
+      expect(profile).to have_edit_button
+      profile.visit_another_rep_page(other_rep)
+      expect(profile).to have_edit_button
     end
 
     scenario "the profile is editable by user" do
-      visit edit_representative_path(rep)
-      expect(subject).to have_content("Edit Bio")
+      profile.visit
+      expect(profile).to be_editable
     end
   end
 
