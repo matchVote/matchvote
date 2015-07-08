@@ -7,7 +7,7 @@
       options_for_select(rep.demographics_form.genders, rep.gender)
   %tr
     %td.col-md-3 Age
-    %td= text_field_tag :age, rep.age
+    %td= rep.age
   %tr
     %td Birthday
     %td= text_field_tag :birthday, rep.birthday_formatted
