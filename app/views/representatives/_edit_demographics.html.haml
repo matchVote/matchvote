@@ -1,0 +1,20 @@
+%h2 #{rep.nickname_or_first_name}'s Demographics
+%br
+%table.table.table-hover
+  %tr
+    %td.col-md-3 Gender
+    %td= select_tag :gender, 
+      options_for_select(rep.demographics_form.genders, rep.gender)
+  %tr
+    %td.col-md-3 Age
+    %td= text_field_tag :age, rep.age
+  %tr
+    %td Birthday
+    %td= text_field_tag :birthday, rep.birthday_formatted
+  %tr
+    %td Religion
+    %td= text_field_tag :religion, rep.religion
+  %tr
+    %td Orientation
+    %td= text_field_tag :orientation, rep.orientation
+

@@ -24,8 +24,18 @@ class EditRepProfilePage < Page
     page.visit rep_path(rep.slug)
   end
 
+  def click_edit_demographics_button
+    find("[data-behavior=edit_demographics]").click
+  end
+
   def editable?
     has_css? "body.representatives.edit"
+  end
+
+  def has_demographics_data?
+    within "#demographics" do
+      has_select? "gender", selected: "Male"
+    end
   end
 end
 

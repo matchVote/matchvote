@@ -9,6 +9,7 @@ FactoryGirl.define do
     party { ["Republican", "Democrat"].sample }
     birthday "1967-3-8"
     branch "Executive"
+    gender "male"
     user_id nil
     name_recognition 0
 

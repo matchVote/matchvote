@@ -4,7 +4,6 @@ require "support/page_objects/edit_profile_page"
 feature "Editing Citizen profile" do
   given(:user) { create(:user) }
   given(:profile) { EditProfilePage.new(user) }
-  subject { page }
 
   background do |example|
     create(:contact, contactable: user)

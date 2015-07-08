@@ -81,5 +81,11 @@ class RepresentativePresenter < SimpleDelegator
   def overall_match_percent
     (rep.overall_match_percent(@user) * 100).round.to_s << "%"
   end
+
+  # Forms
+   
+  def demographics_form
+    @demographics_form ||= RepDemographicsForm.new
+  end
 end
 
