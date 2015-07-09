@@ -34,6 +34,10 @@ class RepresentativePresenter < SimpleDelegator
     Date.parse(birthday).strftime("%B %-d, %Y")
   end
 
+  def birthday_datepicker_format
+    birthday.split("-").reverse.join("/") if birthday
+  end
+
   def government_role
     if rep.government_role.blank? 
       "N/A"
@@ -84,8 +88,8 @@ class RepresentativePresenter < SimpleDelegator
 
   # Forms
    
-  def demographics_form
-    @demographics_form ||= RepDemographicsForm.new
+  def demographic_options
+    @demographic_options ||= DemographicOptions.new
   end
 end
 

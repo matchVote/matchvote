@@ -5,8 +5,10 @@ Rails.application.routes.draw do
 
   root to: "directory#index"
 
-  get "/representative/:slug", to: "representatives#show", as: "rep"
   resources :representatives, only: [:edit, :update]
+  get "/representative/:slug", to: "representatives#show", as: "rep"
+  get "/representatives/:id/edit/demographics", 
+    to: "representatives#edit_demographics"
 
   resources :citizens, only: [:show, :edit, :update, :index]
   post "/citizens/:id/update_personal", to: "citizens#update_personal_info"

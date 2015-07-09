@@ -28,11 +28,21 @@ class EditRepProfilePage < Page
     find("[data-behavior=edit_demographics]").click
   end
 
+  def select_gender(gender)
+    within "#demographics" do
+      select gender, from: "gender"
+    end
+  end
+
+  def cancel_demographics_edit
+    find("[data-behavior=cancel_demographics]").click
+  end
+
   def editable?
     has_css? "body.representatives.edit"
   end
 
-  def has_demographics_data?
+  def has_original_demographics_data?
     within "#demographics" do
       has_select? "gender", selected: "Male"
     end

@@ -11,7 +11,9 @@ class RepresentativesController < ApplicationController
     @issues = IssueCategory.all
   end
 
-  def update
+  def edit_demographics
+    rep = RepresentativePresenter.new(find_rep_by_id)
+    render partial: "edit_demographics", locals: { rep: rep }
   end
 
   private

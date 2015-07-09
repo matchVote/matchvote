@@ -17,8 +17,14 @@ feature "Edit Representative profile" do
       profile.click_edit_demographics_button
     end
 
-    scenario "displays existing data" do
-      expect(profile).to have_demographics_data
+    scenario "displays existing data", :js do
+      expect(profile).to have_original_demographics_data
+    end
+
+    scenario "clicking Cancel resets data", :js do
+      profile.select_gender("Female")
+      profile.cancel_demographics_edit
+      expect(profile).to have_original_demographics_data
     end
   end
 end
