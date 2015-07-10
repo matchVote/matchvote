@@ -2,7 +2,7 @@
   .col-md-9
     %h2 #{rep.nickname_or_first_name}'s Demographics
   .col-md-3
-    = button_tag "Save", data: { id: rep.id, behavior: :update_demographics },
+    = button_tag "Save", data: { id: rep.id, behavior: :save_demographics },
       class: "btn btn-primary"
     = button_tag "Cancel", data: { id: rep.id, behavior: :cancel_demographics },
       class: "btn btn-default"

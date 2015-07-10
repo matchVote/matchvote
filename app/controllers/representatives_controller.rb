@@ -16,6 +16,13 @@ class RepresentativesController < ApplicationController
     render partial: "edit_demographics", locals: { rep: rep }
   end
 
+  def update_demographics
+    rep = RepresentativePresenter.new(find_rep_by_id)
+    authorize rep, :edit?
+    rep.update!(demographics_params)
+    render partial: "demographics", locals: { rep: rep }
+  end
+
   private
     def find_rep_by_id
       Representative.find(params[:id])
@@ -23,5 +30,9 @@ class RepresentativesController < ApplicationController
 
     def find_rep_by_slug
       Representative.find_by(slug: params[:slug])
+    end
+
+    def demographics_params
+      params.require(:representative).permit(:gender)
     end
 end

@@ -9,6 +9,8 @@ Rails.application.routes.draw do
   get "/representative/:slug", to: "representatives#show", as: "rep"
   get "/representatives/:id/edit/demographics", 
     to: "representatives#edit_demographics"
+  post "/representatives/:id/edit/demographics",
+    to: "representatives#update_demographics"
 
   resources :citizens, only: [:show, :edit, :update, :index]
   post "/citizens/:id/update_personal", to: "citizens#update_personal_info"
