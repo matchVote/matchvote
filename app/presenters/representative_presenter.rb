@@ -30,12 +30,16 @@ class RepresentativePresenter < SimpleDelegator
     number_with_delimiter(Random.rand(10_000), delimiter: ",")
   end
 
+  def birthday_formatter
+    @birthday_formatter ||= BirthdayFormatter.new(birthday)
+  end
+
   def birthday_formatted
-    Date.parse(birthday).strftime("%B %-d, %Y")
+    birthday_formatter.pretty_format
   end
 
   def birthday_datepicker_format
-    birthday.split("-").reverse.join("/") if birthday
+    birthday_formatter.datepicker_format
   end
 
   def government_role
@@ -63,7 +67,7 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def religion
-    rep.religion.blank? ? "N/A" : rep.religion.split.map(&:capitalize).join(' ')
+    rep.religion.blank? ? "N/A" : rep.religion.titleize
   end
 
   def age

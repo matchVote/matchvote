@@ -33,6 +33,7 @@ class RepresentativesController < ApplicationController
     end
 
     def demographics_params
-      params.require(:representative).permit(:gender)
+      params.require(:representative).permit(
+        :gender, :orientation, :religion, :birthday)
     end
 end

@@ -15,18 +15,17 @@ feature "Editing Representative demographics" do
 
   scenario "clicking Cancel resets data", :js do
     expect(profile).to have_editable_demographics
-    profile.select_gender("Female")
+    profile.update_demographics
     profile.click_cancel_button
     expect(profile).to have_original_data
     expect(profile).not_to have_editable_demographics
   end
 
   scenario "clicking Save updates data", :js do
-    profile.select_gender("Female")
+    profile.update_demographics
     profile.click_save_button
     expect(profile).to have_new_data
     expect(profile).not_to have_editable_demographics
-    expect(rep.reload.gender).to eq "female"
   end
 end
 

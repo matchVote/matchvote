@@ -38,5 +38,8 @@ class Rep.DemographicsUpdater
 
   collectInput: ->
     representative:
-      gender: $("#gender").val()
+      gender: $("#gender").val(),
+      orientation: $("#orientation").val(),
+      religion: $("#religion").val()
+      birthday: $("#date_picker").val()
 

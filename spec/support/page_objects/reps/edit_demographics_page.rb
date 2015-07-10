@@ -14,9 +14,13 @@ module Reps
       find("[data-behavior=save_demographics]").click
     end
 
-    def select_gender(gender)
+
+    def update_demographics
       within "#demographics" do
-        select gender, from: "gender"
+        select "Female", from: "gender"
+        select "Hindu", from: "religion"
+        select "Gay", from: "orientation"
+        fill_in "date_picker", with: "12/02/1934"
       end
     end
 
@@ -35,6 +39,9 @@ module Reps
     def has_new_data?
       within "#demographics" do
         has_content? "Female"
+        has_content? "Hindu"
+        has_content? "Gay"
+        has_content? "December 2, 1934"
       end
     end
   end
