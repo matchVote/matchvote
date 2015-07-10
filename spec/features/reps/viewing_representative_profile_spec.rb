@@ -1,8 +1,8 @@
 require "rails_helper"
-require "support/page_objects/rep_profile_page"
+require "support/page_objects/reps/profile_page"
 
 feature "Viewing Representative profile" do
-  given(:profile) { RepProfilePage.new(user, rep) }
+  given(:profile) { Reps::ProfilePage.new(user, rep) }
   given(:user) { create(:user) }
   given(:address) { rep.contact.postal_addresses.first }
   given(:rep) do
