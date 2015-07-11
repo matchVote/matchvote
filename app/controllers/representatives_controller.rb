@@ -19,7 +19,7 @@ class RepresentativesController < ApplicationController
   def update_demographics
     rep = RepresentativePresenter.new(find_rep_by_id)
     authorize rep, :edit?
-    rep.update!(demographics_params)
+    rep.update!(filtered_params)
     render partial: "demographics", locals: { rep: rep }
   end
 
@@ -35,5 +35,10 @@ class RepresentativesController < ApplicationController
     def demographics_params
       params.require(:representative).permit(
         :gender, :orientation, :religion, :birthday)
+    end
+    
+    def filtered_params
+      formatter = DateFormatter.new(demographics_params[:birthday])
+      demographics_params.merge(birthday: formatter.datepicker_to_standard)
     end
 end

@@ -1,14 +1,16 @@
-class BirthdayFormatter
+class DateFormatter
   def initialize(birthday)
     @birthday = birthday || ""
   end
 
   def datepicker_to_standard
-    @birthday.split("/").reverse.join("-")
+    date = @birthday.split("/")
+    "#{date[2]}-#{date[0]}-#{date[1]}"
   end
 
   def datepicker_format
-    @birthday.split("-").reverse.join("/")
+    date = @birthday.split("-")
+    "#{date[1]}/#{date[2]}/#{date[0]}"
   end
 
   def pretty_format

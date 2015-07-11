@@ -31,7 +31,7 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def birthday_formatter
-    @birthday_formatter ||= BirthdayFormatter.new(birthday)
+    @birthday_formatter ||= DateFormatter.new(birthday)
   end
 
   def birthday_formatted
@@ -68,6 +68,10 @@ class RepresentativePresenter < SimpleDelegator
 
   def religion
     rep.religion.blank? ? "N/A" : rep.religion.titleize
+  end
+
+  def gender
+    rep.gender.blank? ? "N/A" : rep.gender.capitalize
   end
 
   def age
