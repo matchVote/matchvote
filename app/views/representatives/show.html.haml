@@ -12,15 +12,15 @@
           Follow
         %h2= @rep.full_name
         %hr
-        = @rep.government_role
-        | #{@rep.status}
+        #{@rep.government_role} | #{@rep.status}
         %br
-        = @rep.party
-        from #{@rep.state}
+        #{@rep.party} from #{@rep.state}
       .profile_bio
-        %p= truncate(@rep.biography, length: 550)
-        %a.btn.btn-sm.btn-default.bio_btn
-          Read Full Bio
+        %p#short_bio= truncate(@rep.biography, length: 550)
+        %p#full_bio{style: "display:none;"}= @rep.biography
+        = button_tag "Read Full Bio", 
+          class: "btn btn-sm btn-default bio_btn",
+          id: "read_full_bio"
 
     .whitecard= render "issue_comparison", issues: @issues
 

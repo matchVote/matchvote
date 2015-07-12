@@ -26,6 +26,10 @@ module Reps
       page.visit rep_path(rep.slug)
     end
 
+    def expand_bio
+      click_button "Read Full Bio"
+    end
+
     def has_rep_name?
       has_content? "Borky Buffet"
     end
@@ -46,6 +50,14 @@ module Reps
 
     def has_edit_button?
       has_link? "Edit"
+    end
+
+    def has_short_bio?
+      has_selector?("#short_bio", visible: true)
+    end
+
+    def has_full_bio?
+      has_selector?("#full_bio", visible: true)
     end
   end
 end

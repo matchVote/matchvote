@@ -6,14 +6,13 @@
       = image_tag @rep.profile_image_url,
         class: "profile_pic"
       .profile_name
-        %a.btn.btn-default.btn-sm.pull-right
-          Follow
+        = link_to "Done Editing", rep_path(@rep.slug), 
+          class: "btn btn-danger btn-sm pull-right"
         %h2= @rep.full_name
         %hr
-        = @rep.title
+        #{@rep.government_role} | #{@rep.status}
         %br
-        = @rep.party.capitalize
-        | #{@rep.state}
+        #{@rep.party} from #{@rep.state}
       .profile_bio
         %p= truncate(@rep.biography, length: 550)
         %a.btn.btn-sm.btn-default.bio_btn

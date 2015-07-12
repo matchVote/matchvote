@@ -58,7 +58,11 @@ feature "Viewing Representative profile" do
   scenario "social media buttons are not shown without rep links"
 
   feature "Clicking 'Read Full Bio' button" do
-    scenario "expands the biography section to include more paragraphs"
+    scenario "expands the biography section to show full bio", :js do
+      profile.expand_bio
+      expect(profile).to have_full_bio
+      expect(profile).not_to have_short_bio
+    end
   end
 
   feature "Following representative" do
