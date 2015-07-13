@@ -12,6 +12,7 @@ FactoryGirl.define do
     gender "male"
     user_id nil
     name_recognition 0
+    status "in_office"
 
     contact
   end

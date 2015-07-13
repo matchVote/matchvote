@@ -10,6 +10,10 @@ class RepresentativePresenter < SimpleDelegator
     @rep ||= __getobj__
   end
 
+  def non_formatted
+    rep
+  end
+
   def contact
     @contact ||= ContactPresenter.new(rep.contact)
   end
@@ -55,7 +59,7 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def party
-    rep.party.blank? ? "N/A" : rep.party.capitalize
+    rep.party.blank? ? "N/A" : rep.party.titleize
   end
 
   def status
@@ -95,9 +99,16 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   # Forms
+  def rep_options
+    @rep_options ||= RepresentativeOptions.new
+  end
    
   def demographic_options
-    @demographic_options ||= DemographicOptions.new
+    rep_options.demographic_options
+  end
+
+  def status_options
+    rep_options.status_options
   end
 end
 

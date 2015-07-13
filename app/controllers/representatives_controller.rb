@@ -1,3 +1,5 @@
+require "#{Rails.root}/lib/us_states"
+
 class RepresentativesController < ApplicationController
   def show
     @rep = RepresentativePresenter.new(find_rep_by_slug)
@@ -25,7 +27,7 @@ class RepresentativesController < ApplicationController
 
   def edit_biography
     rep = RepresentativePresenter.new(find_rep_by_id)
-    render partial: "edit_bio_section", locals: { rep: rep }
+    render partial: "edit_bio_section", locals: { rep: rep, states: USStates.all }
   end
 
   def update_biography
@@ -50,7 +52,8 @@ class RepresentativesController < ApplicationController
     end
 
     def biography_params
-      params.require(:representative).permit(:biography)
+      params.require(:representative).permit(
+        :biography, :party, :state, :government_role, :status)
     end
     
     def filtered_params

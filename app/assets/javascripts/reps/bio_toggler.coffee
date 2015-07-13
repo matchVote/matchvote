@@ -6,7 +6,7 @@ class Rep.BioToggler
   constructor: (@$bioContainer) ->
     @shortBio = "#short_bio"
     @fullBio = "#full_bio"
-    @$toggleButton = "[data-behavior=toggle_bio]"
+    @toggleButton = "[data-behavior=toggle_bio]"
 
   toggle: ->
     @$bioContainer.on "click", @toggleButton, =>

@@ -1,11 +1,29 @@
 .profile_name
   %h2= rep.full_name
   %hr
-  #{rep.government_role} | #{rep.status}
-  %br
-  #{rep.party} from #{rep.state}
+  .row
+    .col-md-6
+      = text_field_tag :government_role, rep.government_role, 
+        class: "form-control",
+        data: { role: "government_role" }
+    .col-md-6
+      = select_tag :rep_status, 
+        options_for_select(rep.status_options, rep.non_formatted.status), 
+        class: "form-control",
+        data: { role: "status" }
+    %br
+    .col-md-6
+      = select_tag :rep_party, 
+        options_for_select(rep.demographic_options.parties, rep.non_formatted.party),
+        class: "form-control",
+        data: { role: "party" }
+    .col-md-6
+      = select_tag :rep_state, options_for_select(states, rep.non_formatted.state),
+        class: "form-control",
+        data: { role: "state" }
+
 .profile_bio
-  %p= text_area_tag :biography, rep.biography, rows: 18, 
+  %p= text_area_tag :biography, rep.biography, rows: 15, 
     class: "form-control",
     data: { role: "biography_text_area" }
   = button_tag "Save Bio", class: "btn btn-sm btn-primary bio_btn",

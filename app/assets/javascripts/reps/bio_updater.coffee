@@ -5,7 +5,11 @@ jQuery ->
 class Rep.BioUpdater
   constructor: (@$bioContainer) ->
     @bioContainerTemp = ""
-    @$textArea = "[data-role=biography_text_area]"
+    @textArea = "[data-role=biography_text_area]"
+    @party = "[data-role=party]"
+    @status = "[data-role=status]"
+    @governmentRole = "[data-role=government_role]"
+    @state = "[data-role=state]"
     @bindEvents()
 
   bindEvents: ->
@@ -35,5 +39,9 @@ class Rep.BioUpdater
 
   collectInput: ->
     representative:
-      biography: $(@$textArea).val()
+      biography: $(@textArea).val()
+      party: $(@party).val()
+      state: $(@state).val()
+      status: $(@status).val()
+      government_role: $(@governmentRole).val()
 
