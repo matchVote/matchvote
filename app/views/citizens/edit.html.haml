@@ -46,45 +46,45 @@
       .row
         .col-md-6
           = select_tag :gender,
-            options_for_select(@citizen.personal_info_form.genders, @citizen.gender),
+            options_for_select(@citizen.demographic_options.genders, @citizen.gender),
             include_blank: "Gender",
-            class: ["form-control", "signup-field"],
+            class: "form-control signup-field",
             placeholder: "Gender"
         .col-md-6
           = select_tag :ethnicity,
-            options_for_select(@citizen.personal_info_form.ethnicities,
+            options_for_select(@citizen.demographic_options.ethnicities,
               @citizen.ethnicity),
             include_blank: "Ethnicity",
-            class: ["form-control", "signup-field"],
+            class: "form-control signup-field",
             placeholder: "Ethnicity"
       .row
         .col-md-6
           = select_tag :party,
-            options_for_select(@citizen.personal_info_form.parties, @citizen.party),
+            options_for_select(@citizen.demographic_options.parties, @citizen.party),
             include_blank: "Political Party",
-            class: ["form-control", "signup-field"],
+            class: "form-control signup-field",
             placeholder: "Party"
         .col-md-6
           = select_tag :education,
-            options_for_select(@citizen.personal_info_form.education_levels,
+            options_for_select(@citizen.demographic_options.education_levels,
               @citizen.education),
             include_blank: "Education",
-            class: ["form-control", "signup-field"],
+            class: "form-control signup-field",
             placeholder: "Education"
       .row
         .col-md-6
           = select_tag :religion,
-            options_for_select(@citizen.personal_info_form.religions,
+            options_for_select(@citizen.demographic_options.religions,
               @citizen.religion),
             include_blank: "Religion",
-            class: ["form-control", "signup-field"],
+            class: "form-control signup-field",
             placeholder: "Religion"
         .col-md-6
           = select_tag :relationship,
-            options_for_select(@citizen.personal_info_form.relationships,
+            options_for_select(@citizen.demographic_options.relationships,
             @citizen.relationship),
             include_blank: "Relationship",
-            class: ["form-control", "signup-field"],
+            class: "form-control signup-field",
             placeholder: "Relationship"
       .row
         .col-md-12
@@ -177,3 +177,4 @@
     %br
     %center= link_to "Edit Account", edit_user_registration_path,
       class: "btn btn-primary"
+

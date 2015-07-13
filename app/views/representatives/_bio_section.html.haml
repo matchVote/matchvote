@@ -1,0 +1,15 @@
+.profile_name
+  %h2= rep.full_name
+  %hr
+  #{rep.government_role} | #{rep.status}
+  %br
+  #{rep.party} from #{rep.state}
+.profile_bio
+  %p#short_bio= truncate(rep.biography, length: 550)
+  %p#full_bio{style: "display:none;"}= rep.biography
+  = button_tag "Read Full Bio", 
+    class: "btn btn-sm btn-default bio_btn",
+    data: { behavior: "toggle_bio" }
+  = button_tag "Edit Bio", class: "btn btn-sm btn-primary bio_btn pull-right",
+    data: { behavior: "edit_bio", id: rep.id }
+

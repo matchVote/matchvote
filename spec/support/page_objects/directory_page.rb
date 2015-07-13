@@ -6,11 +6,6 @@ require "support/helpers/stance_helper"
 class DirectoryPage < Page
   include WaitForAjax
   include RepCreator
-  attr_reader :user
-
-  def initialize(user)
-    @user = user
-  end
 
   def signin_and_visit
     sign_in

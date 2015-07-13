@@ -10,6 +10,10 @@ class RepresentativePresenter < SimpleDelegator
     @rep ||= __getobj__
   end
 
+  def non_formatted
+    rep
+  end
+
   def contact
     @contact ||= ContactPresenter.new(rep.contact)
   end
@@ -30,8 +34,16 @@ class RepresentativePresenter < SimpleDelegator
     number_with_delimiter(Random.rand(10_000), delimiter: ",")
   end
 
+  def birthday_formatter
+    @birthday_formatter ||= DateFormatter.new(birthday)
+  end
+
   def birthday_formatted
-    Date.parse(birthday).strftime("%B %-d, %Y")
+    birthday_formatter.pretty_format
+  end
+
+  def birthday_datepicker_format
+    birthday_formatter.datepicker_format
   end
 
   def government_role
@@ -47,7 +59,7 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def party
-    rep.party.blank? ? "N/A" : rep.party.capitalize
+    rep.party.blank? ? "N/A" : rep.party.titleize
   end
 
   def status
@@ -59,7 +71,11 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def religion
-    rep.religion.blank? ? "N/A" : rep.religion.split.map(&:capitalize).join(' ')
+    rep.religion.blank? ? "N/A" : rep.religion.titleize
+  end
+
+  def gender
+    rep.gender.blank? ? "N/A" : rep.gender.capitalize
   end
 
   def age
@@ -80,6 +96,19 @@ class RepresentativePresenter < SimpleDelegator
 
   def overall_match_percent
     (rep.overall_match_percent(@user) * 100).round.to_s << "%"
+  end
+
+  # Forms
+  def rep_options
+    @rep_options ||= RepresentativeOptions.new
+  end
+   
+  def demographic_options
+    rep_options.demographic_options
+  end
+
+  def status_options
+    rep_options.status_options
   end
 end
 

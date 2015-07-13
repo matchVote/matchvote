@@ -6,7 +6,6 @@ FactoryGirl.define do
     password_confirmation "@123abc!"
     admin false
     rep_admin false
-    rep_slug ""
     personal_info do
       { first_name: "Bob", 
         last_name: "Jenkins",
@@ -33,9 +32,15 @@ FactoryGirl.define do
       end
     end
 
+    trait :rep_admin do
+      rep_admin true
+      profile_type :Representative
+    end
+
     factory :user_with_pic, traits: [:with_profile_pic]
     factory :user_with_contact, traits: [:with_contact]
     factory :user_with_address, traits: [:with_contact, :with_address]
+    factory :rep_admin, traits: [:rep_admin]
   end
 end
 

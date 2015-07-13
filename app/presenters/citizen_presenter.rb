@@ -48,8 +48,8 @@ class CitizenPresenter < SimpleDelegator
 
   # Forms
 
-  def personal_info_form
-    @personal_info_form ||= PersonalInfoForm.new
+  def demographic_options
+    @demographic_options ||= DemographicOptions.new
   end
 end
 

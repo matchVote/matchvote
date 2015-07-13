@@ -1,0 +1,24 @@
+.row
+  .col-md-10
+    %h2 #{rep.nickname_or_first_name}'s Demographics
+  .col-md-2
+    = button_tag "Edit", data: { id: rep.id, behavior: :edit_demographics },
+      class: "btn btn-primary"
+%br
+%table.table.table-hover
+  %tr
+    %td.col-md-3 Gender
+    %td= rep.gender
+  %tr
+    %td.col-md-3 Age
+    %td= rep.age
+  %tr
+    %td Birthday
+    %td= rep.birthday_formatted
+  %tr
+    %td Religion
+    %td= rep.religion
+  %tr
+    %td Orientation
+    %td= rep.orientation
+

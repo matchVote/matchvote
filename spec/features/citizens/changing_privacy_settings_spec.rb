@@ -39,6 +39,7 @@ feature "Changing privacy settings" do
 
     privacy_settings.check_display_all_stances
     privacy_settings.save_changes
+    privacy_settings.wait_for_ajax
     setting = user.reload.settings(:privacy).display_all_stances
     expect(setting).to eq "true"
   end

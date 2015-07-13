@@ -1,0 +1,33 @@
+.row
+  .col-md-9
+    %h2 #{rep.nickname_or_first_name}'s Demographics
+  .col-md-3
+    = button_tag "Save", data: { id: rep.id, behavior: :save_demographics },
+      class: "btn btn-primary"
+    = button_tag "Cancel", data: { id: rep.id, behavior: :cancel_demographics },
+      class: "btn btn-default"
+%br
+%table.table.table-hover
+  %tr
+    %td.col-md-3 Gender
+    %td= select_tag :gender, 
+      options_for_select(rep.demographic_options.genders, rep.gender),
+      class: "form-control"
+  %tr
+    %td.col-md-3 Age
+    %td= rep.age
+  %tr
+    %td Birthday
+    %td= text_field_tag :birthday, rep.birthday_datepicker_format, 
+      id: "date_picker", class: "form-control"
+  %tr
+    %td Religion
+    %td= select_tag :religion,
+      options_for_select(rep.demographic_options.religions, rep.religion),
+      class: "form-control"
+  %tr
+    %td Orientation
+    %td= select_tag :orientation,
+      options_for_select(rep.demographic_options.orientations, rep.orientation),
+      class: "form-control"
+
