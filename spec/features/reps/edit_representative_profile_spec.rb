@@ -2,11 +2,9 @@ require "rails_helper"
 require "support/page_objects/reps/edit_profile_page"
 
 feature "Edit Representative profile" do
-  given(:profile) { Reps::EditProfilePage.new(user, rep) }
+  given(:profile) { Reps::EditProfilePage.new(rep_admin, rep) }
   given(:rep) { create(:representative) }
-  given(:user) do
-    create(:user, rep_admin: true, profile_type: :Representative, profile_id: rep.id)
-  end
+  given(:rep_admin) { create(:rep_admin, profile_id: rep.id) }
 
   subject { profile }
 

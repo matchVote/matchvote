@@ -3,22 +3,11 @@
     = render "breadcrumbs", rep: @rep
 
     .whitecard
-      = image_tag @rep.profile_image_url,
-        class: "profile_pic"
-      .profile_name
-        = link_to "Done Editing", rep_path(@rep.slug), 
-          class: "btn btn-danger btn-sm pull-right"
-        %h2= @rep.full_name
-        %hr
-        #{@rep.government_role} | #{@rep.status}
-        %br
-        #{@rep.party} from #{@rep.state}
-      .profile_bio
-        %p= truncate(@rep.biography, length: 550)
-        %a.btn.btn-sm.btn-default.bio_btn
-          Read Full Bio
-        %a.btn.btn-sm.btn-primary.bio_btn
-          Edit Bio
+      = image_tag @rep.profile_image_url, class: "profile_pic"
+      = link_to "Leave Edit Mode", rep_path(@rep.slug), 
+        class: "btn btn-danger btn-sm pull-right"
+      %div{data: { role: "biography_container" }}
+        = render "bio_section", rep: @rep
 
     .whitecard= render "issue_comparison", issues: @issues
 

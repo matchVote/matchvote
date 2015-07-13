@@ -1,0 +1,15 @@
+.profile_name
+  %h2= rep.full_name
+  %hr
+  #{rep.government_role} | #{rep.status}
+  %br
+  #{rep.party} from #{rep.state}
+.profile_bio
+  %p= text_area_tag :biography, rep.biography, rows: 18, 
+    class: "form-control",
+    data: { role: "biography_text_area" }
+  = button_tag "Save Bio", class: "btn btn-sm btn-primary bio_btn",
+    data: { behavior: "save_bio", id: rep.id }
+  = button_tag "Cancel", class: "btn btn-sm btn-default bio_btn",
+    data: { behavior: "cancel_bio" }
+

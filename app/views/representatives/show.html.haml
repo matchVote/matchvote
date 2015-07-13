@@ -5,22 +5,23 @@
     .whitecard
       = image_tag @rep.profile_image_url,
         class: "profile_pic"
-      .profile_name
-        = render "edit_button", rep: @rep if policy(@rep).edit?
-        .btn.btn-default.pull-right
-          %span.glyphicon.glyphicon-ok-circle
-          Follow
-        %h2= @rep.full_name
-        %hr
-        #{@rep.government_role} | #{@rep.status}
-        %br
-        #{@rep.party} from #{@rep.state}
-      .profile_bio
-        %p#short_bio= truncate(@rep.biography, length: 550)
-        %p#full_bio{style: "display:none;"}= @rep.biography
-        = button_tag "Read Full Bio", 
-          class: "btn btn-sm btn-default bio_btn",
-          id: "read_full_bio"
+      = render "edit_button", rep: @rep if policy(@rep).edit?
+      %div{data: { role: "biography_container" }}
+        .profile_name
+          .btn.btn-default.pull-right
+            %span.glyphicon.glyphicon-ok-circle
+            Follow
+          %h2= @rep.full_name
+          %hr
+          #{@rep.government_role} | #{@rep.status}
+          %br
+          #{@rep.party} from #{@rep.state}
+        .profile_bio
+          %p#short_bio= truncate(@rep.biography, length: 550)
+          %p#full_bio{style: "display:none;"}= @rep.biography
+          = button_tag "Read Full Bio", 
+            class: "btn btn-sm btn-default bio_btn",
+            data: { behavior: "toggle_bio" }
 
     .whitecard= render "issue_comparison", issues: @issues
 

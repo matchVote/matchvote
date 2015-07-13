@@ -11,6 +11,8 @@ Rails.application.routes.draw do
     to: "representatives#edit_demographics"
   post "/representatives/:id/edit/demographics",
     to: "representatives#update_demographics"
+  get "/representatives/:id/edit/biography", to: "representatives#edit_biography"
+  post "/representatives/:id/edit/biography", to: "representatives#update_biography"
 
   resources :citizens, only: [:show, :edit, :update, :index]
   post "/citizens/:id/update_personal", to: "citizens#update_personal_info"
