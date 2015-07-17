@@ -6,4 +6,5 @@
 //= require jasny-bootstrap.min
 //= require sweet-alert
 //= require init
+//= require turbolinks
 //= require_tree .

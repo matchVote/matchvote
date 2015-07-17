@@ -20,6 +20,7 @@ gem "rails-html-sanitizer", "~> 1.0.1"
 gem "sass-rails", "~> 5.0.1"
 gem "sdoc", "~> 0.4.0", group: :doc
 gem "sweetalert-rails", "~> 0.5.0"
+gem "turbolinks", "~> 2.5.3"
 gem "uglifier", "~> 2.7.1"
 gem "virility", "~> 0.1.4"
 gem "will_paginate", "~> 3.0.7"
