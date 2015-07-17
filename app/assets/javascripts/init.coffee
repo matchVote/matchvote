@@ -10,6 +10,6 @@ App.attachDatepicker = ->
 App.init = ->
   App.attachDatepicker()
 
-jQuery ->
+$(document).on "page:change", ->
   App.init()
 

@@ -1,4 +1,4 @@
-jQuery ->
+$(document).on "page:change", ->
   $container = $("#citizen_personal_info")
   new PersonalInfoUpdater() if $($container).length
 

@@ -1,4 +1,4 @@
-jQuery ->
+$(document).on "page:change", ->
   return unless $("#edit_citizen_stances").length
   new CitizenStancesController()
 

@@ -1,4 +1,4 @@
-jQuery ->
+$(document).on "page:change", ->
   new Rep.DemographicsUpdater() if $(".representatives.edit").length
 
 class Rep.DemographicsUpdater

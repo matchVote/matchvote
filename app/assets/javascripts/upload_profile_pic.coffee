@@ -1,4 +1,4 @@
-jQuery ->
+$(document).on "page:change", ->
   $container = $("#profile_pic_upload")
   new UploadProfilePic($container) if $container.length
 

@@ -1,4 +1,4 @@
-jQuery ->
+$(document).on "page:change", ->
   $bioContainer = $("[data-role=biography_container]")
   new Rep.BioUpdater($bioContainer) if $bioContainer.length
 

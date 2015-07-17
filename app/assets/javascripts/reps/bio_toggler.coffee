@@ -1,4 +1,4 @@
-jQuery ->
+$(document).on "page:change", ->
   $bioContainer = $("[data-role=biography_container]")
   (new Rep.BioToggler($bioContainer)).toggle() if $bioContainer.length
 

@@ -1,4 +1,4 @@
-jQuery ->
+$(document).on "page:change", ->
   $modal = $("#edit_privacy")
   new PrivacySettingsController($modal) if $modal.length
 

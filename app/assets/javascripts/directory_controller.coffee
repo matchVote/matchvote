@@ -1,4 +1,4 @@
-jQuery ->
+$(document).on "page:change", ->
   return unless $("#directory_index").length
   new DirectoryController()
 

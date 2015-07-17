@@ -1,4 +1,5 @@
-jQuery -> StancesToggler.toggleStances() if $(".toggle_stances_link").length
+$(document).on "page:change", ->
+  StancesToggler.toggleStances() if $(".toggle_stances_link").length
 
 class StancesToggler
   @toggleStances: ->

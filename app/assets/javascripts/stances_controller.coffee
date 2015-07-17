@@ -1,4 +1,4 @@
-jQuery ->
+$(document).on "page:change", ->
   return unless $("#stances_index").length
   new StancesController()
 
@@ -42,7 +42,7 @@ class StancesController
         success: =>
           @$updateButton.text("Stance updated!")
           setTimeout (=> @$updateButton.text("Update")), 1500
-      
+
   deleteStance: ->
     $(".statement").on "click", ".delete_btn", (event) =>
       @$deleteButton = $(event.target)
