@@ -15,7 +15,7 @@ gem "ledermann-rails-settings", "~> 2.4.0"
 gem "pg", "~> 0.18.1"
 gem "pg_search", "~> 0.7.9"
 gem "pundit", "~> 1.0.0"
-gem "rails", "4.2.0"
+gem "rails", "4.2.3"
 gem "rails-html-sanitizer", "~> 1.0.1"
 gem "sass-rails", "~> 5.0.1"
 gem "sdoc", "~> 0.4.0", group: :doc
