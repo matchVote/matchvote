@@ -21,9 +21,9 @@ describe Stance do
   end
 
   describe "#importance_value" do
-    it "defaults to 2 when stance has no value" do
+    it "defaults to 1 when stance has no value" do
       stance.importance_value = nil
-      expect(stance.importance_value).to eq 2
+      expect(stance.importance_value).to eq 1
     end
   end
 
@@ -36,7 +36,7 @@ describe Stance do
 
   describe "#importance_value_string" do
     it "returns the integer value of the enum" do
-      stance.importance_value = 4
+      stance.importance_value = 2
       expect(stance.importance_value_string).to eq "Very Important"
     end
   end

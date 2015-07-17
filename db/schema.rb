@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150621140300) do
+ActiveRecord::Schema.define(version: 20150702005348) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -157,6 +157,7 @@ ActiveRecord::Schema.define(version: 20150621140300) do
   end
 
   add_index "stances", ["opinionable_id", "statement_id"], name: "index_stances_on_opinionable_id_and_statement_id", unique: true, using: :btree
+  add_index "stances", ["opinionable_id"], name: "index_stances_on_opinionable_id", using: :btree
   add_index "stances", ["opinionable_type", "opinionable_id"], name: "index_stances_on_opinionable_type_and_opinionable_id", using: :btree
   add_index "stances", ["statement_id"], name: "index_stances_on_statement_id", using: :btree
 

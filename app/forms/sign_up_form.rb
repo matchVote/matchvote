@@ -8,8 +8,8 @@ class SignUpForm
     @contact ||= ContactForm.new
   end
 
-  def personal_info_form
-    @personal_info_form ||= PersonalInfoForm.new
+  def demographic_options
+    @demographic_options ||= DemographicOptions.new
   end
 
   def us_states
@@ -17,27 +17,27 @@ class SignUpForm
   end
 
   def genders
-    personal_info_form.genders
+    demographic_options.genders
   end
 
   def ethnicities
-    personal_info_form.ethnicities
+    demographic_options.ethnicities
   end
 
   def parties
-    personal_info_form.parties
+    demographic_options.parties
   end
 
   def education_levels
-    personal_info_form.education_levels
+    demographic_options.education_levels
   end
 
   def religions
-    personal_info_form.religions
+    demographic_options.religions
   end
 
   def relationships
-    personal_info_form.relationships
+    demographic_options.relationships
   end
 end
 

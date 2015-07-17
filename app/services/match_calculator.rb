@@ -1,5 +1,5 @@
 class MatchCalculator
-  WEIGHTS = { 0 => 0, 1 => 1, 2 => 10, 3 => 50, 4 => 250 }
+  WEIGHTS = { 0 => 1, 1 => 10, 2 => 25 }
 
   def initialize(one, two)
     @one = one

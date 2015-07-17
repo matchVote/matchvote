@@ -20,5 +20,9 @@ class Representative < ActiveRecord::Base
       contact.update!(external_ids: ids.merge(hash))
     end
   end
+
+  def overall_match_percent(user = nil)
+    @overall_percent ||= MatchCalculator.new(user, self).overall_percent.round(2)
+  end
 end
 

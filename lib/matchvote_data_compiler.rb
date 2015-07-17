@@ -19,7 +19,7 @@ class MatchvoteDataCompiler
       government_role: rep["title"],
       branch: rep["branch"],
       party: find_party(rep["party"]),
-      gender: rep["gender"],
+      gender: rep["gender"].downcase,
       birthday: rep["birthday"],
       religion: rep["religion"],
       orientation: rep["orientation"],

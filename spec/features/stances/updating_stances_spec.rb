@@ -21,7 +21,7 @@ feature "Updating and Deleting stances to issue category statements" do
     agreeance = "#agreeance_#{@statement.id}"
     importance = "#importance_#{@statement.id}"
     expect(find(agreeance).value).to eq "1"
-    expect(find(importance).value).to eq "4"
+    expect(find(importance).value).to eq "2"
   end
 
   scenario "clicking Update updates the stance and logs the event", :js do
@@ -77,7 +77,7 @@ feature "Updating and Deleting stances to issue category statements" do
       expect(subject).to have_button "Save Stance"
       expect(subject).not_to have_button "Clear"
       expect(find("#agreeance_#{@statement.id}").value).to eq "0"
-      expect(find("#importance_#{@statement.id}").value).to eq "2"
+      expect(find("#importance_#{@statement.id}").value).to eq "1"
     end
   end
 

@@ -113,9 +113,9 @@ class LegislatorsDataCompiler
 
     def genderize(gender)
       case gender
-      when /M/i then "Male"
-      when /F/i then "Female"
-      else "Unicorn"
+      when /M/i then "male"
+      when /F/i then "female"
+      else "other"
       end
     end
 

@@ -2,8 +2,10 @@ require "will_paginate/array"
 
 class DirectoryController < ApplicationController
   def index
-    @reps = DirectoryPresenter.new(reps: Representative.all).reps.
-      paginate(page: params[:page], per_page: per_page)
+    @reps = DirectoryPresenter.new(
+      reps: Representative.all,
+      user: current_user
+    ).reps.paginate(page: params[:page], per_page: per_page)
     @sort_list = DirectoryPresenter.sort_list
     @filter_count = Representative.count
   end
@@ -11,7 +13,8 @@ class DirectoryController < ApplicationController
   def filter
     reps = DirectoryPresenter.new(
       reps: find_reps(params[:search]),
-      sort_by: params[:sort]
+      sort_by: params[:sort],
+      user: current_user
     ).reps.paginate(page: params[:page], per_page: per_page)
     render partial: "reps_list", locals: { reps: reps }
   end

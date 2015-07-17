@@ -1,12 +1,6 @@
 require "support/page_objects/page"
 
 class EditAccountPage < Page
-  attr_reader :user
-
-  def initialize(user)
-    @user = user
-  end
-
   def visit
     sign_in
     page.visit edit_user_registration_path

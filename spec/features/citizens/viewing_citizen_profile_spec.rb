@@ -1,12 +1,11 @@
 require "rails_helper"
-require "support/authentication"
 require "support/page_objects/profile_page"
 require "support/stances"
 
 feature "Viewing Citizen profile" do
   given(:user) { create(:user_with_address) }
   given(:profile) { ProfilePage.new(user) }
-  subject { page }
+  subject { profile }
 
   background do
     profile.visit
