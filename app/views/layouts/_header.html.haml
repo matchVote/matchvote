@@ -9,7 +9,7 @@
         %ul.nav.navbar-nav.navdrop
           %li
             %a
-              %span.navdrop-text= @resource.capitalize
+              %span.navdrop-text= @navbar.resource_formatted
               %span.glyphicon.glyphicon-chevron-down.dropchevron
             %ul
               %li
@@ -33,3 +33,4 @@
             = render "layouts/profile_link"
             = link_to destroy_user_session_path, method: :delete do
               .glyphicon.glyphicon-log-out.logout-button{title: "Sign Out"}
+
