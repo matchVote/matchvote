@@ -1,6 +1,6 @@
 $(document).on "page:change", ->
   return unless $("#directory_index").length
-  new DirectoryController()
+  # new DirectoryController()
 
 class DirectoryController
   constructor: ->

@@ -35,3 +35,7 @@
 
 .row#reps_container= render "reps_list", reps: @reps
 
+= react_component "Directory", 
+  reps: @reps, 
+  sortList: @sort_list, 
+  filterCount: @filter_count
