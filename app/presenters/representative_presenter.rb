@@ -1,8 +1,9 @@
 class RepresentativePresenter < SimpleDelegator
   include ActionView::Helpers
 
-  def initialize(rep, user = nil)
-    @user = user
+  # def initialize(rep, user = nil)
+  def initialize(rep, match_percent)
+    @match_percent = match_percent
     super(rep)
   end
 
@@ -101,7 +102,8 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def overall_match_percent
-    (rep.overall_match_percent(@user) * 100).round.to_s << "%"
+    # (rep.overall_match_percent(@user) * 100).round.to_s << "%"
+    (@match_percent * 100).round.to_s << "%"
   end
 
   # Forms

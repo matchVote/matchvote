@@ -19,7 +19,8 @@ class DirectoryPresenter
   end
 
   def reps
-    present(sort_reps(@reps))
+    # present(sort_reps(@reps))
+    present(@reps)
   end
 
   def sort_reps(reps)

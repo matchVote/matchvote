@@ -6,7 +6,7 @@ class Representative < ActiveRecord::Base
 
   validates :first_name, :last_name, :slug, presence: true
 
-  pg_search_scope :search_by_name, 
+  pg_search_scope :search_by_name,
     against: [:first_name, :last_name, :middle_name, :nickname, :official_full_name],
     using: { tsearch: { prefix: true } }
 
@@ -21,8 +21,8 @@ class Representative < ActiveRecord::Base
     end
   end
 
-  def overall_match_percent(user = nil)
-    @overall_percent ||= MatchCalculator.new(user, self).overall_percent.round(2)
-  end
+  # def overall_match_percent(user = nil)
+  #   @overall_percent ||= MatchCalculator.new(user, self).overall_percent.round(2)
+  # end
 end
 
