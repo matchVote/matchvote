@@ -3,7 +3,7 @@ require "will_paginate/array"
 class DirectoryController < ApplicationController
   def index
     @reps = DirectoryPresenter.new(
-      reps: Representative.all,
+      reps: Representative.includes(:stances),
       user: current_user
     ).reps.paginate(page: params[:page], per_page: per_page)
     @sort_list = DirectoryPresenter.sort_list

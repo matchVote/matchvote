@@ -27,7 +27,7 @@ class DirectoryPresenter
   end
 
   def present(reps)
-    reps.map { |rep| RepresentativePresenter.new(rep, user) }
+    reps.map { |rep| RepresentativePresenter.new(rep, user).react_hash }
   end
 
   private
