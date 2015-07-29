@@ -5,7 +5,7 @@
         <div className="col-md-7">
           <h2>Find elected officials to follow</h2>
           <h5>
-            We'll keep you up to date with the news and political positions of the 
+            We'll keep you up to date with the news and political positions of the
             those you choose to follow.
           </h5>
           <h5>
@@ -30,6 +30,9 @@
         <div className="col-md-1"></div>
         <FilterSearch filterOptions={@props.sortList}/>
       </div>
-      <Representatives />
+      <div id="reps_container" className="row">
+        { for rep in @props.reps
+            <Representative key={rep.id} rep={rep}/> }
+      </div>
     </div>
 
