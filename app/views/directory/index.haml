@@ -3,7 +3,7 @@
 -#     .col-md-7
 -#       %h2 Find elected officials to follow
 -#       %h5
--#         We'll keep you up to date with the news and political positions of the 
+-#         We'll keep you up to date with the news and political positions of the
 -#         those you choose to follow.
 -#       %h5
 -#         = @filter_count
@@ -35,7 +35,8 @@
 
 -# .row#reps_container= render "reps_list", reps: @reps
 
-= react_component "Directory", 
-  reps: @reps, 
-  sortList: @sort_list, 
+= react_component "Directory",
+  reps: @reps,
+  sortList: @sort_list,
   filterCount: @filter_count
+

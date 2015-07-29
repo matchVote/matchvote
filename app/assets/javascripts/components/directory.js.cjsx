@@ -28,20 +28,8 @@
           </div>
         </div>
         <div className="col-md-1"></div>
-        <div className="col-md-4 filter_search">
-          Search field
-          <a id="directory_search_button" className="pull-right search_btn" title="Search by name">
-            <span className="glyphicon glyphicon-search"></span>
-          </a>
-          <br/>
-          <br/>
-          <strong>
-            Select field
-          </strong>
-        </div>
+        <FilterSearch filterOptions={@props.sortList}/>
       </div>
-      <div id="reps_container" className="row">
-        reps list
-      </div>
+      <Representatives />
     </div>
 
