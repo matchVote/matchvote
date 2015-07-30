@@ -10,21 +10,26 @@
         require: "true"
         onChange: @searchDirectory
       React.DOM.a
-        id: "directory_search_button"
         className: "pull-right search_btn"
         title: "Search by name"
       React.DOM.br null
       React.DOM.br null
       React.DOM.strong null,
         React.DOM.select
-          id: "rep_sorter"
           className: "form-control"
+          onChange: @sortDirectory
           @filterOptions()
 
   filterOptions: ->
     @props.filterOptions.map (array, i) ->
-      return <option value={array[1]} key={i}>{array[0]}</option>
+      React.DOM.option
+        value: array[1]
+        key: i
+        array[0]
 
   searchDirectory: (e) ->
-    @props.searchDirectory(event.target.value)
+    @props.searchDirectory(e.target.value)
+
+  sortDirectory: (e) ->
+    @props.sortDirectory(e.target.value)
 

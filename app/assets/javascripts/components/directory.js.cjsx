@@ -31,7 +31,7 @@
           </div>
         </div>
         <div className="col-md-1"></div>
-        <FilterSearch filterOptions={@props.sortList} searchDirectory={@searchDirectory}/>
+        <FilterSearch filterOptions={@props.sortList} searchDirectory={@searchDirectory} sortDirectory={@sortDirectory}/>
       </div>
       <div id="reps_container" className="row">
         { for rep in @state.reps
@@ -39,10 +39,16 @@
       </div>
     </div>
 
+  # Callbacks
+
   searchDirectory: (query) ->
-    regex = new RegExp(query, "i")
     @setState reps: @props.reps.filter (rep) =>
-      @repNames(rep).match(regex)
+      @repNames(rep).match(new RegExp(query, "i"))
+
+  sortDirectory: (sortType) ->
+    console.log "Make a sorter object"
+
+  # Helpers
 
   repNames: (rep) ->
     rep.first_name + rep.last_name + rep.middle_name +
