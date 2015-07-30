@@ -1,4 +1,7 @@
 @Directory = React.createClass
+  getInitialState: ->
+    reps: @props.reps
+
   render: ->
     <div className="directory_index">
       <div className="filter_menu">
@@ -28,11 +31,20 @@
           </div>
         </div>
         <div className="col-md-1"></div>
-        <FilterSearch filterOptions={@props.sortList}/>
+        <FilterSearch filterOptions={@props.sortList} searchDirectory={@searchDirectory}/>
       </div>
       <div id="reps_container" className="row">
-        { for rep in @props.reps
+        { for rep in @state.reps
             <Representative key={rep.id} rep={rep}/> }
       </div>
     </div>
+
+  searchDirectory: (query) ->
+    regex = new RegExp(query, "i")
+    @setState reps: @props.reps.filter (rep) =>
+      @repNames(rep).match(regex)
+
+  repNames: (rep) ->
+    rep.first_name + rep.last_name + rep.middle_name +
+      rep.nickname + rep.official_full_name
 

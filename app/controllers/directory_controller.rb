@@ -9,8 +9,6 @@ class DirectoryController < ApplicationController
     end
 
     @reps = presented_reps.paginate(page: params[:page], per_page: per_page)
-    # @reps = DirectoryPresenter.new(reps: presented_reps, user: current_user).reps.
-    #   paginate(page: params[:page], per_page: per_page)
     @sort_list = DirectoryPresenter.sort_list
     @filter_count = reps.size
   end
@@ -35,7 +33,7 @@ class DirectoryController < ApplicationController
 
   private
     def per_page
-      100
+      50
     end
 
     def find_reps(search)

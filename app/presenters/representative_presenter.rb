@@ -1,8 +1,7 @@
 class RepresentativePresenter < SimpleDelegator
   include ActionView::Helpers
 
-  # def initialize(rep, user = nil)
-  def initialize(rep, match_percent)
+  def initialize(rep, match_percent = 0)
     @match_percent = match_percent
     super(rep)
   end

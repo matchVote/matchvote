@@ -1,23 +1,23 @@
-- reps.each do |rep|
-  .directory_block{id: rep.slug}
-    %div
-      = link_to rep_path(rep.slug) do
-        = image_tag rep.profile_image_url,
-          class: "directory_pic", title: "#{rep.full_name}"
-    %div
-      %h4.full_name= rep.full_name
-    %div
-      =rep.government_role
-      |
-      =rep.state
-      %div= rep.overall_match_percent
-    .directory_block_btns
-      = link_to "View Profile", rep_path(rep.slug), class: "btn btn-sm btn-default"
-      = link_to "Follow", rep_path(rep.slug), class: "btn btn-sm btn-default"
-    %div
-      - if rep.verified == true
-        = image_tag "http://data.matchvote.com/images/bluecheck.png",
-          class: "verified", title: "Verified Account"
+-# - reps.each do |rep|
+-#   .directory_block{id: rep.slug}
+-#     %div
+-#       = link_to rep_path(rep.slug) do
+-#         = image_tag rep.profile_image_url,
+-#           class: "directory_pic", title: "#{rep.full_name}"
+-#     %div
+-#       %h4.full_name= rep.full_name
+-#     %div
+-#       =rep.government_role
+-#       |
+-#       =rep.state
+-#       %div= rep.overall_match_percent
+-#     .directory_block_btns
+-#       = link_to "View Profile", rep_path(rep.slug), class: "btn btn-sm btn-default"
+-#       = link_to "Follow", rep_path(rep.slug), class: "btn btn-sm btn-default"
+-#     %div
+-#       - if rep.verified == true
+-#         = image_tag "http://data.matchvote.com/images/bluecheck.png",
+-#           class: "verified", title: "Verified Account"
 
-%div#pagination_links{style: "display:none;"}= will_paginate reps
+-# %div#pagination_links{style: "display:none;"}= will_paginate reps
 
