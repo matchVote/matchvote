@@ -1,6 +1,8 @@
 @Directory = React.createClass
+  perPage: 50
+
   getInitialState: ->
-    reps: @props.reps
+    reps: @props.reps.slice(0, 50)
 
   render: ->
     <div className="directory_index">
@@ -46,7 +48,8 @@
       @repNames(rep).match(new RegExp(query, "i"))
 
   sortDirectory: (sortType) ->
-    console.log "Make a sorter object"
+    sorter = new App.RepSorter(@state.reps)
+    @setState reps: sorter[sortType]()
 
   # Helpers
 

@@ -1,8 +1,14 @@
 @FilterSearch = React.createClass
+  # getInitialState: ->
+  #   search: ""
+  #   sort: "name_recognition"
+
   render: ->
     React.DOM.div
       className: "col-md-4 filter_search"
       React.DOM.input
+        ref: "searchField"
+        # value: @state.search
         type: "text"
         name: "directory_search"
         className: "search_field"
@@ -16,7 +22,9 @@
       React.DOM.br null
       React.DOM.strong null,
         React.DOM.select
+          ref: "sortField"
           className: "form-control"
+          # value: @state.sort
           onChange: @sortDirectory
           @filterOptions()
 
@@ -28,8 +36,14 @@
         array[0]
 
   searchDirectory: (e) ->
+    # @setState
+    #   search: React.findDOMNode(@refs.searchField).value
+    #   sort: React.findDOMNode(@refs.sortField).value
     @props.searchDirectory(e.target.value)
 
   sortDirectory: (e) ->
+    # @setState
+    #   search: ""
+    #   sort: React.findDOMNode(@refs.sortField).value
     @props.sortDirectory(e.target.value)
 
