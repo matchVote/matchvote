@@ -8,7 +8,7 @@ class DirectoryController < ApplicationController
       RepresentativePresenter.new(rep, calculator.overall_percent).react_hash
     end
 
-    @reps = presented_reps.paginate(page: params[:page], per_page: per_page)
+    @reps = presented_reps#.paginate(page: params[:page], per_page: per_page)
     @sort_list = DirectoryPresenter.sort_list
     @filter_count = reps.size
   end
