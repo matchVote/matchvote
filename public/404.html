@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>The page you were looking for doesn't exist (404)</title>
+  <title>matchVote - 404</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <style>
   body {
@@ -15,7 +15,7 @@
   div.dialog {
     width: 95%;
     max-width: 33em;
-    margin: 4em auto 0;
+    margin: 2em auto 0;
   }
 
   div.dialog > div {
@@ -23,17 +23,15 @@
     border-right-color: #999;
     border-left-color: #999;
     border-bottom-color: #BBB;
-    border-top: #B00100 solid 4px;
-    border-top-left-radius: 9px;
-    border-top-right-radius: 9px;
+    border-radius: 6px;
     background-color: white;
-    padding: 7px 12% 0;
+    padding: 7px 20px 18px;
     box-shadow: 0 3px 8px rgba(50, 50, 50, 0.17);
   }
 
   h1 {
     font-size: 100%;
-    color: #730E15;
+    color: #666;
     line-height: 1.5em;
   }
 
@@ -45,11 +43,14 @@
     border-right-color: #999;
     border-left-color: #999;
     border-bottom-color: #999;
-    border-bottom-left-radius: 4px;
-    border-bottom-right-radius: 4px;
     border-top-color: #DADADA;
     color: #666;
     box-shadow: 0 3px 8px rgba(50, 50, 50, 0.17);
+  }
+
+  a {
+    font-size: 12px;
+    text-decoration: none;
   }
   </style>
 </head>
@@ -58,10 +59,12 @@
   <!-- This file lives in public/404.html -->
   <div class="dialog">
     <div>
-      <h1>The page you were looking for doesn't exist.</h1>
-      <p>You may have mistyped the address or the page may have moved.</p>
+      <img src="http://matchvote.com/wp-content/uploads/2015/01/mv.png" style="margin-top:20px;">
+      <h1>404 - We can't find that page.</h1>
+      <a href="javascript:history.back()">Go Back</a>
+      <br>&nbsp;<br>
+      <img src="http://www.amusingtime.com/images/029/barack-obama-and-his-wife-funny-graphic.jpg" style="width:100%">
     </div>
-    <p>If you are the application owner check the logs for more information.</p>
   </div>
 </body>
 </html>
