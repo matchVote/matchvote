@@ -180,6 +180,58 @@
   wiki: http://en.wikipedia.org/wiki/George_W._Bush
   profile_pic: http://data.matchvote.com/images/2015/highprofile/George_W_Bush.png
 
+- rep_status: Running
+  state: TX
+  title: Governor
+  first_name: James
+  middle_name: Richard
+  last_name: Perry
+  nick_name: Rick
+  address:
+  fax:
+  tel:
+  email:
+  web: https://rickperry.org/
+  took_office:
+  term_ends:
+  party: R
+  branch: executive
+  gender: Male
+  birthday: 1950-03-04
+  religion: Evangelical
+  orientation: Straight
+  facebook: https://www.facebook.com/GovernorPerry
+  twitter: https://twitter.com/governorperry
+  youtube:
+  wiki: https://en.wikipedia.org/wiki/Rick_Perry
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Rick_Perry.png
+
+- rep_status: Running
+  state: DC
+  title: Candidate
+  first_name: Cara
+  middle_name: Carleton
+  last_name: Fiorina
+  nick_name: Carly
+  address:
+  fax:
+  tel:
+  email:
+  web: http://www.carlyforpresident.com/
+  took_office:
+  term_ends:
+  party: R
+  branch:
+  gender: Female
+  birthday: 1954-09-06
+  religion: Episcopalian
+  orientation: Straight
+  facebook: https://www.facebook.com/CarlyFiorina
+  twitter: https://twitter.com/carlyfiorina
+  youtube:
+  wiki: https://en.wikipedia.org/wiki/Carly_Fiorina
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Carly_Fiorina.png
+
 - rep_status: Out of Office
   state: DC
   title: President

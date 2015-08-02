@@ -21,7 +21,7 @@
     official_full: Sherrod Brown
   bio:
     birthday: '1952-11-09'
-    gender: M
+    gender: Male
     religion: Lutheran
   terms:
   - type: rep
@@ -117,7 +117,7 @@
     official_full: Maria Cantwell
   bio:
     birthday: '1958-10-13'
-    gender: F
+    gender: Female
     religion: Roman Catholic
   terms:
   - type: rep
@@ -184,7 +184,7 @@
     official_full: Benjamin L. Cardin
   bio:
     birthday: '1943-10-05'
-    gender: M
+    gender: Male
     religion: Jewish
   terms:
   - type: rep
@@ -299,7 +299,7 @@
     official_full: Thomas R. Carper
   bio:
     birthday: '1947-01-23'
-    gender: M
+    gender: Male
     religion: Presbyterian
   terms:
   - type: rep
@@ -388,7 +388,7 @@
     suffix: Jr.
     official_full: Robert P. Casey, Jr.
   bio:
-    gender: M
+    gender: Male
     birthday: '1960-04-13'
   terms:
   - type: sen
@@ -439,7 +439,7 @@
     official_full: Bob Corker
   bio:
     birthday: '1952-08-24'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2007-01-04'
@@ -489,7 +489,7 @@
     official_full: Dianne Feinstein
   bio:
     birthday: '1933-06-22'
-    gender: F
+    gender: Female
     religion: Jewish
   terms:
   - type: sen
@@ -560,7 +560,7 @@
     official_full: Orrin G. Hatch
   bio:
     birthday: '1934-03-22'
-    gender: M
+    gender: Male
     religion: Latter Day Saints
   terms:
   - type: sen
@@ -643,7 +643,7 @@
     official_full: Amy Klobuchar
   bio:
     birthday: '1960-05-25'
-    gender: F
+    gender: Female
   terms:
   - type: sen
     start: '2007-01-04'
@@ -693,7 +693,7 @@
     official_full: Claire McCaskill
   bio:
     birthday: '1953-07-24'
-    gender: F
+    gender: Female
   terms:
   - type: sen
     start: '2007-01-04'
@@ -747,7 +747,7 @@
   - last: Menendez
   bio:
     birthday: '1954-01-01'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -849,7 +849,7 @@
     official_full: Bill Nelson
   bio:
     birthday: '1942-09-29'
-    gender: M
+    gender: Male
     religion: Presbyterian
   terms:
   - type: rep
@@ -944,7 +944,7 @@
     official_full: Bernard Sanders
   bio:
     birthday: '1941-09-08'
-    gender: M
+    gender: Male
     religion: Jewish
   terms:
   - type: rep
@@ -1048,7 +1048,7 @@
     official_full: Debbie Stabenow
   bio:
     birthday: '1950-04-29'
-    gender: F
+    gender: Female
     religion: United Methodist
   terms:
   - type: rep
@@ -1117,7 +1117,7 @@
     official_full: Jon Tester
   bio:
     birthday: '1956-08-21'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2007-01-04'
@@ -1165,7 +1165,7 @@
     last: Whitehouse
     official_full: Sheldon Whitehouse
   bio:
-    gender: M
+    gender: Male
     birthday: '1955-10-20'
   terms:
   - type: sen
@@ -1216,7 +1216,7 @@
     official_full: John Barrasso
   bio:
     birthday: '1952-07-21'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2007-06-25'
@@ -1268,7 +1268,7 @@
     official_full: Roger F. Wicker
   bio:
     birthday: '1951-07-05'
-    gender: M
+    gender: Male
     religion: Southern Baptist
   terms:
   - type: rep
@@ -1363,7 +1363,7 @@
     official_full: Lamar Alexander
   bio:
     birthday: '1940-07-03'
-    gender: M
+    gender: Male
     religion: Presbyterian
   terms:
   - type: sen
@@ -1423,7 +1423,7 @@
     official_full: Thad Cochran
   bio:
     birthday: '1937-12-07'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -1526,7 +1526,7 @@
     official_full: Susan M. Collins
   bio:
     birthday: '1952-12-07'
-    gender: F
+    gender: Female
     religion: Catholic
   terms:
   - type: sen
@@ -1591,7 +1591,7 @@
     official_full: John Cornyn
   bio:
     birthday: '1952-02-02'
-    gender: M
+    gender: Male
     religion: Church of Christ
   leadership_roles:
   - title: Minority Whip
@@ -1668,7 +1668,7 @@
     official_full: Richard J. Durbin
   bio:
     birthday: '1944-11-21'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   leadership_roles:
   - title: Minority Whip
@@ -1801,7 +1801,7 @@
     official_full: Michael B. Enzi
   bio:
     birthday: '1944-02-01'
-    gender: M
+    gender: Male
     religion: Presbyterian
   terms:
   - type: sen
@@ -1869,7 +1869,7 @@
     official_full: Lindsey Graham
   bio:
     birthday: '1955-07-09'
-    gender: M
+    gender: Male
     religion: Southern Baptist
   terms:
   - type: rep
@@ -1956,7 +1956,7 @@
     official_full: James M. Inhofe
   bio:
     birthday: '1934-11-17'
-    gender: M
+    gender: Male
     religion: Presbyterian
   terms:
   - type: rep
@@ -2051,7 +2051,7 @@
     official_full: Mitch McConnell
   bio:
     birthday: '1942-02-20'
-    gender: M
+    gender: Male
     religion: Baptist
   leadership_roles:
   - title: Minority Leader
@@ -2148,7 +2148,7 @@
     official_full: Jeff Merkley
   bio:
     birthday: '1956-10-24'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2009-01-06'
@@ -2203,7 +2203,7 @@
     official_full: Jack Reed
   bio:
     birthday: '1949-11-12'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -2287,7 +2287,7 @@
     official_full: James E. Risch
   bio:
     birthday: '1943-05-03'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2009-01-06'
@@ -2338,7 +2338,7 @@
     official_full: Pat Roberts
   bio:
     birthday: '1936-04-20'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -2453,7 +2453,7 @@
     official_full: Jeff Sessions
   bio:
     birthday: '1946-12-24'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: sen
@@ -2518,7 +2518,7 @@
     last: Shaheen
     official_full: Jeanne Shaheen
   bio:
-    gender: F
+    gender: Female
     birthday: '1947-01-28'
   terms:
   - type: sen
@@ -2573,7 +2573,7 @@
     official_full: Tom Udall
   bio:
     birthday: '1948-05-18'
-    gender: M
+    gender: Male
     religion: Latter Day Saints
   terms:
   - type: rep
@@ -2665,7 +2665,7 @@
     last: Warner
     official_full: Mark R. Warner
   bio:
-    gender: M
+    gender: Male
     birthday: '1954-12-15'
   terms:
   - type: sen
@@ -2719,7 +2719,7 @@
     last: Gillibrand
     official_full: Kirsten E. Gillibrand
   bio:
-    gender: F
+    gender: Female
     birthday: '1966-12-09'
   terms:
   - type: rep
@@ -2785,7 +2785,7 @@
     official_full: Al Franken
   bio:
     birthday: '1951-05-21'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2009-07-07'
@@ -2836,7 +2836,7 @@
     official_full: Christopher A. Coons
   bio:
     birthday: '1963-09-09'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2010-11-15'
@@ -2886,7 +2886,7 @@
     official_full: Joe Manchin, III
   bio:
     birthday: '1947-08-24'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2010-11-15'
@@ -2935,7 +2935,7 @@
     middle: B.
   bio:
     birthday: '1965-07-22'
-    gender: M
+    gender: Male
     religion: Protestant
   terms:
   - type: rep
@@ -3043,7 +3043,7 @@
     official_full: Justin Amash
   bio:
     birthday: '1980-04-18'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -3104,7 +3104,7 @@
     official_full: Kelly Ayotte
   bio:
     birthday: '1968-06-27'
-    gender: F
+    gender: Female
   terms:
   - type: sen
     start: '2011-01-05'
@@ -3143,7 +3143,7 @@
     official_full: Tammy Baldwin
   bio:
     birthday: '1962-02-11'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '1999-01-06'
@@ -3232,7 +3232,7 @@
     official_full: Lou Barletta
   bio:
     birthday: '1956-01-28'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -3293,7 +3293,7 @@
     official_full: Joe Barton
   bio:
     birthday: '1949-09-15'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -3436,7 +3436,7 @@
     official_full: Karen Bass
   bio:
     birthday: '1953-10-03'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2011-01-05'
@@ -3496,7 +3496,7 @@
     official_full: Xavier Becerra
   bio:
     birthday: '1958-01-26'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -3616,7 +3616,7 @@
     official_full: Dan Benishek
   bio:
     birthday: '1952-04-20'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -3676,7 +3676,7 @@
     last: Bennet
     official_full: Michael F. Bennet
   bio:
-    gender: M
+    gender: Male
     birthday: '1964-11-28'
   terms:
   - type: sen
@@ -3722,7 +3722,7 @@
     middle: M.
   bio:
     birthday: '1963-02-08'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2007-01-04'
@@ -3800,7 +3800,7 @@
     official_full: Rob Bishop
   bio:
     birthday: '1951-07-13'
-    gender: M
+    gender: Male
     religion: Latter Day Saints
   terms:
   - type: rep
@@ -3891,7 +3891,7 @@
     official_full: Sanford D. Bishop Jr.
   bio:
     birthday: '1947-02-04'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -4010,7 +4010,7 @@
     official_full: Diane Black
   bio:
     birthday: '1951-01-16'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2011-01-05'
@@ -4071,7 +4071,7 @@
     official_full: Marsha Blackburn
   bio:
     birthday: '1952-06-06'
-    gender: F
+    gender: Female
     religion: Presbyterian
   terms:
   - type: rep
@@ -4161,7 +4161,7 @@
     official_full: Earl Blumenauer
   bio:
     birthday: '1948-08-16'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '1996-05-21'
@@ -4274,7 +4274,7 @@
     official_full: Richard Blumenthal
   bio:
     birthday: '1946-02-13'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2011-01-05'
@@ -4313,7 +4313,7 @@
     official_full: Roy Blunt
   bio:
     birthday: '1950-01-10'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -4398,7 +4398,7 @@
     official_full: John A. Boehner
   bio:
     birthday: '1949-11-17'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   leadership_roles:
   - title: Speaker
@@ -4538,7 +4538,7 @@
     official_full: John Boozman
   bio:
     birthday: '1950-12-10'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2001-11-29'
@@ -4607,7 +4607,7 @@
     official_full: Madeleine Z. Bordallo
   bio:
     birthday: '1933-05-31'
-    gender: F
+    gender: Female
     religion: Catholic
   terms:
   - type: rep
@@ -4699,7 +4699,7 @@
     official_full: Charles W. Boustany Jr.
   bio:
     birthday: '1956-02-21'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2005-01-04'
@@ -4783,7 +4783,7 @@
     official_full: Barbara Boxer
   bio:
     birthday: '1940-11-11'
-    gender: F
+    gender: Female
     religion: Jewish
   terms:
   - type: rep
@@ -4870,7 +4870,7 @@
     official_full: Kevin Brady
   bio:
     birthday: '1955-04-11'
-    gender: M
+    gender: Male
     religion: Catholic
   terms:
   - type: rep
@@ -4980,7 +4980,7 @@
     official_full: Robert A. Brady
   bio:
     birthday: '1945-04-07'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '1998-05-19'
@@ -5087,7 +5087,7 @@
     official_full: Mo Brooks
   bio:
     birthday: '1954-04-29'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -5148,7 +5148,7 @@
     official_full: Corrine Brown
   bio:
     birthday: '1946-11-11'
-    gender: F
+    gender: Female
     religion: Baptist
   terms:
   - type: rep
@@ -5267,7 +5267,7 @@
     last: Buchanan
     official_full: Vern Buchanan
   bio:
-    gender: M
+    gender: Male
     birthday: '1951-05-08'
   terms:
   - type: rep
@@ -5343,7 +5343,7 @@
     official_full: Larry Bucshon
   bio:
     birthday: '1962-05-31'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -5403,7 +5403,7 @@
     official_full: Michael C. Burgess
   bio:
     birthday: '1950-12-23'
-    gender: M
+    gender: Male
     religion: Episcopalian
   terms:
   - type: rep
@@ -5496,7 +5496,7 @@
     official_full: Richard Burr
   bio:
     birthday: '1955-11-30'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -5575,7 +5575,7 @@
     official_full: G. K. Butterfield
   bio:
     birthday: '1947-04-27'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -5664,7 +5664,7 @@
     official_full: Ken Calvert
   bio:
     birthday: '1953-06-08'
-    gender: M
+    gender: Male
     religion: Protestant
   terms:
   - type: rep
@@ -5787,7 +5787,7 @@
     official_full: Shelley Moore Capito
   bio:
     birthday: '1953-11-26'
-    gender: F
+    gender: Female
     religion: Presbyterian
   terms:
   - type: rep
@@ -5883,7 +5883,7 @@
     official_full: Lois Capps
   bio:
     birthday: '1938-01-10'
-    gender: F
+    gender: Female
     religion: Lutheran
   terms:
   - type: rep
@@ -5997,7 +5997,7 @@
     official_full: Michael E. Capuano
   bio:
     birthday: '1952-01-09'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -6098,7 +6098,7 @@
     middle: C.
   bio:
     birthday: '1956-05-20'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -6159,7 +6159,7 @@
     official_full: André Carson
   bio:
     birthday: '1974-10-16'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2008-03-13'
@@ -6238,7 +6238,7 @@
     official_full: John R. Carter
   bio:
     birthday: '1941-11-06'
-    gender: M
+    gender: Male
     religion: Christian
   terms:
   - type: rep
@@ -6328,7 +6328,7 @@
     last: Cassidy
     official_full: Bill Cassidy
   bio:
-    gender: M
+    gender: Male
     birthday: '1957-09-28'
   terms:
   - type: rep
@@ -6395,7 +6395,7 @@
     last: Castor
     official_full: Kathy Castor
   bio:
-    gender: F
+    gender: Female
     birthday: '1966-08-20'
   terms:
   - type: rep
@@ -6472,7 +6472,7 @@
     official_full: Steve Chabot
   bio:
     birthday: '1953-01-22'
-    gender: M
+    gender: Male
     religion: Catholic
   terms:
   - type: rep
@@ -6578,7 +6578,7 @@
     official_full: Jason Chaffetz
   bio:
     birthday: '1967-03-26'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-01-06'
@@ -6646,7 +6646,7 @@
     official_full: Judy Chu
   bio:
     birthday: '1953-07-07'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2009-07-16'
@@ -6715,7 +6715,7 @@
     middle: N.
   bio:
     birthday: '1961-07-15'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -6776,7 +6776,7 @@
     official_full: Yvette D. Clarke
   bio:
     birthday: '1964-11-21'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2007-01-04'
@@ -6852,7 +6852,7 @@
     official_full: Wm. Lacy Clay
   bio:
     birthday: '1956-07-27'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -6949,7 +6949,7 @@
     official_full: Emanuel Cleaver
   bio:
     birthday: '1944-10-26'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2005-01-04'
@@ -7032,7 +7032,7 @@
     official_full: James E. Clyburn
   bio:
     birthday: '1940-07-21'
-    gender: M
+    gender: Male
     religion: African Methodist Episcopal
   terms:
   - type: rep
@@ -7158,7 +7158,7 @@
     official_full: Daniel Coats
   bio:
     birthday: '1943-05-16'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '1981-01-05'
@@ -7231,7 +7231,7 @@
     last: Coffman
     official_full: Mike Coffman
   bio:
-    gender: M
+    gender: Male
     birthday: '1955-03-19'
   terms:
   - type: rep
@@ -7299,7 +7299,7 @@
     official_full: Steve Cohen
   bio:
     birthday: '1949-05-24'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2007-01-04'
@@ -7374,7 +7374,7 @@
     official_full: Tom Cole
   bio:
     birthday: '1949-04-28'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -7467,7 +7467,7 @@
     official_full: K. Michael Conaway
   bio:
     birthday: '1948-06-11'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -7548,7 +7548,7 @@
     official_full: Gerald E. Connolly
   bio:
     birthday: '1950-03-30'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-01-06'
@@ -7617,7 +7617,7 @@
     official_full: John Conyers Jr.
   bio:
     birthday: '1929-05-16'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -7823,7 +7823,7 @@
     official_full: Jim Cooper
   bio:
     birthday: '1954-06-19'
-    gender: M
+    gender: Male
     religion: Episcopalian
   terms:
   - type: rep
@@ -7948,7 +7948,7 @@
     official_full: Jim Costa
   bio:
     birthday: '1952-04-13'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2005-01-04'
@@ -8029,7 +8029,7 @@
     official_full: Joe Courtney
   bio:
     birthday: '1953-04-06'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2007-01-04'
@@ -8108,7 +8108,7 @@
     official_full: Mike Crapo
   bio:
     birthday: '1951-05-20'
-    gender: M
+    gender: Male
     religion: Latter Day Saints
   terms:
   - type: rep
@@ -8179,7 +8179,7 @@
     nickname: Rick
   bio:
     birthday: '1966-01-22'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -8239,7 +8239,7 @@
     official_full: Ander Crenshaw
   bio:
     birthday: '1944-09-01'
-    gender: M
+    gender: Male
     religion: Episcopalian
   terms:
   - type: rep
@@ -8334,7 +8334,7 @@
     official_full: Joseph Crowley
   bio:
     birthday: '1962-03-16'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -8435,7 +8435,7 @@
     official_full: Henry Cuellar
   bio:
     birthday: '1955-09-19'
-    gender: M
+    gender: Male
     religion: Catholic
   terms:
   - type: rep
@@ -8518,7 +8518,7 @@
     official_full: John Abney Culberson
   bio:
     birthday: '1956-08-24'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -8615,7 +8615,7 @@
     official_full: Elijah E. Cummings
   bio:
     birthday: '1951-01-18'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -8730,7 +8730,7 @@
     official_full: Danny K. Davis
   bio:
     birthday: '1941-09-06'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -8838,7 +8838,7 @@
     official_full: Susan A. Davis
   bio:
     birthday: '1944-04-13'
-    gender: F
+    gender: Female
     religion: Jewish
   terms:
   - type: rep
@@ -8934,7 +8934,7 @@
     official_full: Peter A. DeFazio
   bio:
     birthday: '1947-05-27'
-    gender: M
+    gender: Male
     religion: Catholic
   terms:
   - type: rep
@@ -9071,7 +9071,7 @@
     official_full: Diana DeGette
   bio:
     birthday: '1957-07-29'
-    gender: F
+    gender: Female
     religion: Presbyterian
   terms:
   - type: rep
@@ -9180,7 +9180,7 @@
     official_full: Rosa L. DeLauro
   bio:
     birthday: '1943-03-02'
-    gender: F
+    gender: Female
     religion: Roman Catholic
   terms:
   - type: rep
@@ -9305,7 +9305,7 @@
     official_full: Jeff Denham
   bio:
     birthday: '1967-07-29'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -9367,7 +9367,7 @@
     official_full: Charles W. Dent
   bio:
     birthday: '1960-05-24'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2005-01-04'
@@ -9447,7 +9447,7 @@
     official_full: Scott DesJarlais
   bio:
     birthday: '1964-02-21'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -9509,7 +9509,7 @@
     official_full: Theodore E. Deutch
   bio:
     birthday: '1966-05-07'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2010-04-15'
@@ -9577,7 +9577,7 @@
     official_full: Mario Diaz-Balart
   bio:
     birthday: '1961-09-25'
-    gender: M
+    gender: Male
     religion: Catholic
   terms:
   - type: rep
@@ -9670,7 +9670,7 @@
     official_full: Lloyd Doggett
   bio:
     birthday: '1946-10-06'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -9785,7 +9785,7 @@
     last: Donnelly
     official_full: Joe Donnelly
   bio:
-    gender: M
+    gender: Male
     birthday: '1955-09-28'
   terms:
   - type: rep
@@ -9852,7 +9852,7 @@
     official_full: Michael F. Doyle
   bio:
     birthday: '1953-08-05'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -9967,7 +9967,7 @@
     middle: P.
   bio:
     birthday: '1971-10-03'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -10026,7 +10026,7 @@
     official_full: Jeff Duncan
   bio:
     birthday: '1966-01-07'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -10088,7 +10088,7 @@
     official_full: John J. Duncan Jr.
   bio:
     birthday: '1947-07-21'
-    gender: M
+    gender: Male
     religion: Presbyterian
   terms:
   - type: rep
@@ -10229,7 +10229,7 @@
     official_full: Donna F. Edwards
   bio:
     birthday: '1958-06-28'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2008-06-19'
@@ -10305,7 +10305,7 @@
     official_full: Keith Ellison
   bio:
     birthday: '1963-08-04'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2007-01-04'
@@ -10381,7 +10381,7 @@
     middle: L.
   bio:
     birthday: '1964-02-09'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2011-01-05'
@@ -10441,7 +10441,7 @@
     official_full: Eliot L. Engel
   bio:
     birthday: '1947-02-18'
-    gender: M
+    gender: Male
     religion: Jewish
   terms:
   - type: rep
@@ -10571,7 +10571,7 @@
     official_full: Anna G. Eshoo
   bio:
     birthday: '1942-12-13'
-    gender: F
+    gender: Female
     religion: Catholic
   terms:
   - type: rep
@@ -10691,7 +10691,7 @@
     official_full: Blake Farenthold
   bio:
     birthday: '1961-12-12'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -10750,7 +10750,7 @@
     official_full: Sam Farr
   bio:
     birthday: '1941-07-04'
-    gender: M
+    gender: Male
     religion: Episcopalian
   terms:
   - type: rep
@@ -10870,7 +10870,7 @@
     official_full: Chaka Fattah
   bio:
     birthday: '1956-11-21'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -10984,7 +10984,7 @@
     middle: Lee
   bio:
     birthday: '1973-02-07'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -11045,7 +11045,7 @@
     official_full: Michael G. Fitzpatrick
   bio:
     birthday: '1963-06-28'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2005-01-04'
@@ -11113,7 +11113,7 @@
     official_full: Jeff Flake
   bio:
     birthday: '1962-12-31'
-    gender: M
+    gender: Male
     religion: Latter Day Saints
   terms:
   - type: rep
@@ -11198,7 +11198,7 @@
     nickname: Chuck
   bio:
     birthday: '1962-10-11'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -11257,7 +11257,7 @@
     last: Fleming
     official_full: John Fleming
   bio:
-    gender: M
+    gender: Male
     birthday: '1951-07-05'
   terms:
   - type: rep
@@ -11330,7 +11330,7 @@
     official_full: Bill Flores
   bio:
     birthday: '1954-02-25'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -11390,7 +11390,7 @@
     official_full: J. Randy Forbes
   bio:
     birthday: '1952-02-17'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -11486,7 +11486,7 @@
     last: Fortenberry
     official_full: Jeff Fortenberry
   bio:
-    gender: M
+    gender: Male
     birthday: '1960-12-27'
   terms:
   - type: rep
@@ -11568,7 +11568,7 @@
     official_full: Virginia Foxx
   bio:
     birthday: '1943-06-29'
-    gender: F
+    gender: Female
     religion: Roman Catholic
   terms:
   - type: rep
@@ -11650,7 +11650,7 @@
     official_full: Trent Franks
   bio:
     birthday: '1957-06-19'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -11740,7 +11740,7 @@
     official_full: Rodney P. Frelinghuysen
   bio:
     birthday: '1946-04-29'
-    gender: M
+    gender: Male
     religion: Episcopalian
   terms:
   - type: rep
@@ -11861,7 +11861,7 @@
     official_full: Marcia L. Fudge
     middle: L.
   bio:
-    gender: F
+    gender: Female
     birthday: '1952-10-29'
   terms:
   - type: rep
@@ -11936,7 +11936,7 @@
     official_full: John Garamendi
   bio:
     birthday: '1945-01-24'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-11-03'
@@ -12005,7 +12005,7 @@
     official_full: Cory Gardner
   bio:
     birthday: '1974-08-22'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -12062,7 +12062,7 @@
     official_full: Scott Garrett
   bio:
     birthday: '1959-07-09'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2003-01-07'
@@ -12151,7 +12151,7 @@
     official_full: Bob Gibbs
   bio:
     birthday: '1954-06-14'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -12212,7 +12212,7 @@
     official_full: Christopher P. Gibson
   bio:
     birthday: '1964-05-13'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -12274,7 +12274,7 @@
     official_full: Louie Gohmert
   bio:
     birthday: '1953-08-18'
-    gender: M
+    gender: Male
     religion: Unknown
   terms:
   - type: rep
@@ -12357,7 +12357,7 @@
     official_full: Bob Goodlatte
   bio:
     birthday: '1952-09-22'
-    gender: M
+    gender: Male
     religion: Christian Scientist
   terms:
   - type: rep
@@ -12478,7 +12478,7 @@
     middle: A.
   bio:
     birthday: '1958-11-22'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -12538,7 +12538,7 @@
     official_full: Trey Gowdy
   bio:
     birthday: '1964-08-22'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -12597,7 +12597,7 @@
     official_full: Kay Granger
   bio:
     birthday: '1943-01-18'
-    gender: F
+    gender: Female
     religion: Methodist
   terms:
   - type: rep
@@ -12708,7 +12708,7 @@
     official_full: Chuck Grassley
   bio:
     birthday: '1933-09-17'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -12796,7 +12796,7 @@
     official_full: Sam Graves
   bio:
     birthday: '1963-11-07'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -12892,7 +12892,7 @@
     official_full: Tom Graves
   bio:
     birthday: '1970-02-03'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2010-06-08'
@@ -12960,7 +12960,7 @@
     official_full: Al Green
   bio:
     birthday: '1947-09-01'
-    gender: M
+    gender: Male
     religion: Unknown
   terms:
   - type: rep
@@ -13042,7 +13042,7 @@
     official_full: Gene Green
   bio:
     birthday: '1947-10-17'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -13162,7 +13162,7 @@
     official_full: H. Morgan Griffith
   bio:
     birthday: '1958-03-15'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -13223,7 +13223,7 @@
     official_full: Raúl M. Grijalva
   bio:
     birthday: '1948-02-19'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -13312,7 +13312,7 @@
     last: Guthrie
     official_full: Brett Guthrie
   bio:
-    gender: M
+    gender: Male
     birthday: '1964-02-18'
   terms:
   - type: rep
@@ -13382,7 +13382,7 @@
     official_full: Luis V. Gutiérrez
   bio:
     birthday: '1953-12-10'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -13502,7 +13502,7 @@
     middle: L.
   bio:
     birthday: '1951-01-25'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -13561,7 +13561,7 @@
     official_full: Gregg Harper
   bio:
     birthday: '1956-06-01'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-01-06'
@@ -13629,7 +13629,7 @@
     official_full: Andy Harris
   bio:
     birthday: '1957-01-25'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -13689,7 +13689,7 @@
     official_full: Vicky Hartzler
   bio:
     birthday: '1960-10-13'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2011-01-05'
@@ -13750,7 +13750,7 @@
     official_full: Alcee L. Hastings
   bio:
     birthday: '1936-09-05'
-    gender: M
+    gender: Male
     religion: African Methodist Episcopal
   terms:
   - type: rep
@@ -13872,7 +13872,7 @@
     middle: J.
   bio:
     birthday: '1961-10-30'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -13933,7 +13933,7 @@
     last: Heinrich
     official_full: Martin Heinrich
   bio:
-    gender: M
+    gender: Male
     birthday: '1971-10-17'
   terms:
   - type: rep
@@ -13989,7 +13989,7 @@
     official_full: Jeb Hensarling
   bio:
     birthday: '1957-05-29'
-    gender: M
+    gender: Male
     religion: Christian
   terms:
   - type: rep
@@ -14078,7 +14078,7 @@
     official_full: Jaime Herrera Beutler
   bio:
     birthday: '1978-11-03'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2011-01-05'
@@ -14139,7 +14139,7 @@
     official_full: Brian Higgins
   bio:
     birthday: '1959-10-06'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2005-01-04'
@@ -14222,7 +14222,7 @@
     official_full: James A. Himes
   bio:
     birthday: '1966-07-05'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-01-06'
@@ -14291,7 +14291,7 @@
     official_full: Rubén Hinojosa
   bio:
     birthday: '1940-08-20'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -14401,7 +14401,7 @@
     last: Hirono
     official_full: Mazie K. Hirono
   bio:
-    gender: F
+    gender: Female
     birthday: '1947-11-03'
   terms:
   - type: rep
@@ -14465,7 +14465,7 @@
     official_full: John Hoeven
   bio:
     birthday: '1957-03-13'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2011-01-05'
@@ -14503,7 +14503,7 @@
     official_full: Michael M. Honda
   bio:
     birthday: '1941-06-27'
-    gender: M
+    gender: Male
     religion: Protestant
   terms:
   - type: rep
@@ -14600,7 +14600,7 @@
     official_full: Steny H. Hoyer
   bio:
     birthday: '1939-06-14'
-    gender: M
+    gender: Male
     religion: Baptist
   leadership_roles:
   - title: Minority Whip
@@ -14776,7 +14776,7 @@
     official_full: Tim Huelskamp
   bio:
     birthday: '1968-11-11'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -14836,7 +14836,7 @@
     official_full: Bill Huizenga
   bio:
     birthday: '1969-01-31'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -14896,7 +14896,7 @@
     official_full: Randy Hultgren
   bio:
     birthday: '1966-03-01'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -14956,7 +14956,7 @@
     official_full: Duncan Hunter
   bio:
     birthday: '1976-12-07'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-01-06'
@@ -15027,7 +15027,7 @@
     official_full: Robert Hurt
   bio:
     birthday: '1969-06-16'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -15091,7 +15091,7 @@
     official_full: Johnny Isakson
   bio:
     birthday: '1944-12-28'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -15156,7 +15156,7 @@
     official_full: Steve Israel
   bio:
     birthday: '1958-05-30'
-    gender: M
+    gender: Male
     religion: Jewish
   terms:
   - type: rep
@@ -15254,7 +15254,7 @@
     middle: E.
   bio:
     birthday: '1953-11-01'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2001-01-03'
@@ -15348,7 +15348,7 @@
     official_full: Sheila Jackson Lee
   bio:
     birthday: '1950-01-12'
-    gender: F
+    gender: Female
     religion: Seventh Day Adventist
   terms:
   - type: rep
@@ -15461,7 +15461,7 @@
     last: Jenkins
     official_full: Lynn Jenkins
   bio:
-    gender: F
+    gender: Female
     birthday: '1963-06-10'
   terms:
   - type: rep
@@ -15530,7 +15530,7 @@
     official_full: Bill Johnson
   bio:
     birthday: '1954-11-10'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -15590,7 +15590,7 @@
     official_full: Eddie Bernice Johnson
   bio:
     birthday: '1935-12-03'
-    gender: F
+    gender: Female
     religion: Baptist
   terms:
   - type: rep
@@ -15712,7 +15712,7 @@
     nickname: Hank
     official_full: Henry C. "Hank" Johnson Jr.
   bio:
-    gender: M
+    gender: Male
     birthday: '1954-10-02'
   terms:
   - type: rep
@@ -15788,7 +15788,7 @@
     official_full: Ron Johnson
   bio:
     birthday: '1955-04-08'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2011-01-05'
@@ -15825,7 +15825,7 @@
     official_full: Sam Johnson
   bio:
     birthday: '1930-10-11'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -15953,7 +15953,7 @@
     official_full: Walter B. Jones
   bio:
     birthday: '1943-02-10'
-    gender: M
+    gender: Male
     religion: Catholic
   terms:
   - type: rep
@@ -16069,7 +16069,7 @@
     last: Jordan
     official_full: Jim Jordan
   bio:
-    gender: M
+    gender: Male
     birthday: '1964-02-17'
   terms:
   - type: rep
@@ -16144,7 +16144,7 @@
     official_full: Marcy Kaptur
   bio:
     birthday: '1946-06-17'
-    gender: F
+    gender: Female
     religion: Roman Catholic
   terms:
   - type: rep
@@ -16295,7 +16295,7 @@
     middle: R.
   bio:
     birthday: '1952-09-06'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -16355,7 +16355,7 @@
     official_full: Mike Kelly
   bio:
     birthday: '1948-05-10'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -16416,7 +16416,7 @@
     official_full: Ron Kind
   bio:
     birthday: '1963-03-16'
-    gender: M
+    gender: Male
     religion: Lutheran
   terms:
   - type: rep
@@ -16526,7 +16526,7 @@
     official_full: Peter T. King
   bio:
     birthday: '1944-04-05'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -16647,7 +16647,7 @@
     official_full: Steve King
   bio:
     birthday: '1949-05-28'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -16737,7 +16737,7 @@
     official_full: Adam Kinzinger
   bio:
     birthday: '1978-02-27'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -16800,7 +16800,7 @@
     official_full: Mark Kirk
   bio:
     birthday: '1959-09-15'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2001-01-03'
@@ -16878,7 +16878,7 @@
     official_full: John Kline
   bio:
     birthday: '1947-09-06'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -16969,7 +16969,7 @@
     middle: R.
   bio:
     birthday: '1967-12-08'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -17029,7 +17029,7 @@
     official_full: Doug Lamborn
   bio:
     birthday: '1954-05-24'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2007-01-04'
@@ -17104,7 +17104,7 @@
     official_full: Leonard Lance
   bio:
     birthday: '1952-06-25'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-01-06'
@@ -17174,7 +17174,7 @@
     official_full: James R. Langevin
   bio:
     birthday: '1964-04-22'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2001-01-03'
@@ -17270,7 +17270,7 @@
     official_full: James Lankford
   bio:
     birthday: '1968-03-04'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -17326,7 +17326,7 @@
     official_full: Rick Larsen
   bio:
     birthday: '1965-06-15'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2001-01-03'
@@ -17422,7 +17422,7 @@
     official_full: John B. Larson
   bio:
     birthday: '1948-07-22'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '1999-01-06'
@@ -17525,7 +17525,7 @@
     official_full: Robert E. Latta
   bio:
     birthday: '1956-04-18'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2007-12-13'
@@ -17604,7 +17604,7 @@
     official_full: Patrick J. Leahy
   bio:
     birthday: '1940-03-31'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: sen
@@ -17679,7 +17679,7 @@
     official_full: Barbara Lee
   bio:
     birthday: '1946-07-16'
-    gender: F
+    gender: Female
     religion: Baptist
   terms:
   - type: rep
@@ -17787,7 +17787,7 @@
     official_full: Mike Lee
   bio:
     birthday: '1971-06-04'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2011-01-05'
@@ -17824,7 +17824,7 @@
     official_full: Sander M. Levin
   bio:
     birthday: '1931-09-06'
-    gender: M
+    gender: Male
     religion: Jewish
   terms:
   - type: rep
@@ -17978,7 +17978,7 @@
     official_full: John Lewis
   bio:
     birthday: '1940-02-21'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -18118,7 +18118,7 @@
     official_full: Daniel Lipinski
   bio:
     birthday: '1966-07-15'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2005-01-04'
@@ -18203,7 +18203,7 @@
     official_full: Frank A. LoBiondo
   bio:
     birthday: '1946-05-12'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -18318,7 +18318,7 @@
     official_full: David Loebsack
   bio:
     birthday: '1952-12-23'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2007-01-04'
@@ -18393,7 +18393,7 @@
     official_full: Zoe Lofgren
   bio:
     birthday: '1947-12-21'
-    gender: F
+    gender: Female
     religion: Lutheran
   terms:
   - type: rep
@@ -18506,7 +18506,7 @@
     official_full: Billy Long
   bio:
     birthday: '1955-08-11'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -18567,7 +18567,7 @@
     official_full: Nita M. Lowey
   bio:
     birthday: '1937-07-05'
-    gender: F
+    gender: Female
     religion: Jewish
   terms:
   - type: rep
@@ -18700,7 +18700,7 @@
     official_full: Frank D. Lucas
   bio:
     birthday: '1960-01-06'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -18818,7 +18818,7 @@
     last: Luetkemeyer
     official_full: Blaine Luetkemeyer
   bio:
-    gender: M
+    gender: Male
     birthday: '1952-05-07'
   terms:
   - type: rep
@@ -18886,7 +18886,7 @@
     last: Luján
     official_full: Ben Ray Luján
   bio:
-    gender: M
+    gender: Male
     birthday: '1972-06-07'
   terms:
   - type: rep
@@ -18955,7 +18955,7 @@
     last: Lummis
     official_full: Cynthia M. Lummis
   bio:
-    gender: F
+    gender: Female
     birthday: '1954-09-10'
   terms:
   - type: rep
@@ -19026,7 +19026,7 @@
     official_full: Stephen F. Lynch
   bio:
     birthday: '1955-03-31'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2001-10-23'
@@ -19122,7 +19122,7 @@
     official_full: Carolyn B. Maloney
   bio:
     birthday: '1946-02-19'
-    gender: F
+    gender: Female
     religion: Presbyterian
   terms:
   - type: rep
@@ -19242,7 +19242,7 @@
     official_full: Kenny Marchant
   bio:
     birthday: '1951-02-23'
-    gender: M
+    gender: Male
     religion: Nazarene
   terms:
   - type: rep
@@ -19324,7 +19324,7 @@
     official_full: Tom Marino
   bio:
     birthday: '1952-08-15'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -19388,7 +19388,7 @@
     official_full: Edward J. Markey
   bio:
     birthday: '1946-07-11'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -19573,7 +19573,7 @@
     official_full: Doris O. Matsui
   bio:
     birthday: '1944-09-25'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2005-03-10'
@@ -19660,7 +19660,7 @@
     official_full: John McCain
   bio:
     birthday: '1936-08-29'
-    gender: M
+    gender: Male
     religion: Episcopalian
   terms:
   - type: rep
@@ -19736,7 +19736,7 @@
     official_full: Kevin McCarthy
   bio:
     birthday: '1965-01-26'
-    gender: M
+    gender: Male
   leadership_roles:
   - title: Majority Whip
     chamber: house
@@ -19828,7 +19828,7 @@
     official_full: Michael T. McCaul
   bio:
     birthday: '1962-01-14'
-    gender: M
+    gender: Male
     religion: Unknown
   terms:
   - type: rep
@@ -19908,7 +19908,7 @@
     official_full: Tom McClintock
   bio:
     birthday: '1956-07-10'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-01-06'
@@ -19977,7 +19977,7 @@
     official_full: Betty McCollum
   bio:
     birthday: '1954-07-12'
-    gender: F
+    gender: Female
     religion: Roman Catholic
   terms:
   - type: rep
@@ -20073,7 +20073,7 @@
     official_full: Jim McDermott
   bio:
     birthday: '1936-12-28'
-    gender: M
+    gender: Male
     religion: Episcopalian
   terms:
   - type: rep
@@ -20206,7 +20206,7 @@
     official_full: James P. McGovern
   bio:
     birthday: '1959-11-20'
-    gender: M
+    gender: Male
     religion: Catholic
   terms:
   - type: rep
@@ -20315,7 +20315,7 @@
     official_full: Patrick T. McHenry
   bio:
     birthday: '1975-10-22'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2005-01-04'
@@ -20397,7 +20397,7 @@
     middle: B.
   bio:
     birthday: '1947-03-28'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -20453,11 +20453,11 @@
     icpsr: 20535
   name:
     first: Cathy
-    last: McMorris Rodgers
+    last: M. Rodgers
     official_full: Cathy McMorris Rodgers
   bio:
     birthday: '1969-05-22'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2005-01-04'
@@ -20536,7 +20536,7 @@
     last: McNerney
     official_full: Jerry McNerney
   bio:
-    gender: M
+    gender: Male
     birthday: '1951-06-18'
   terms:
   - type: rep
@@ -20613,7 +20613,7 @@
     official_full: Patrick Meehan
   bio:
     birthday: '1955-10-20'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -20673,7 +20673,7 @@
     official_full: Gregory W. Meeks
   bio:
     birthday: '1953-09-25'
-    gender: M
+    gender: Male
     religion: African Methodist Episcopal
   terms:
   - type: rep
@@ -20782,7 +20782,7 @@
     official_full: John L. Mica
   bio:
     birthday: '1943-01-27'
-    gender: M
+    gender: Male
     religion: Episcopalian
   terms:
   - type: rep
@@ -20907,7 +20907,7 @@
     official_full: Barbara A. Mikulski
   bio:
     birthday: '1936-07-20'
-    gender: F
+    gender: Female
     religion: Roman Catholic
   terms:
   - type: rep
@@ -21002,7 +21002,7 @@
     middle: S.
   bio:
     birthday: '1954-05-07'
-    gender: F
+    gender: Female
     religion: Presbyterian
   terms:
   - type: rep
@@ -21092,7 +21092,7 @@
     official_full: Jeff Miller
   bio:
     birthday: '1959-06-27'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -21188,7 +21188,7 @@
     official_full: Gwen Moore
   bio:
     birthday: '1951-04-18'
-    gender: F
+    gender: Female
     religion: Unknown
   terms:
   - type: rep
@@ -21272,7 +21272,7 @@
     official_full: Jerry Moran
   bio:
     birthday: '1954-05-29'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -21356,7 +21356,7 @@
     official_full: Mick Mulvaney
   bio:
     birthday: '1967-07-21'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -21418,7 +21418,7 @@
     official_full: Lisa Murkowski
   bio:
     birthday: '1957-05-22'
-    gender: F
+    gender: Female
     religion: Roman Catholic
   terms:
   - type: sen
@@ -21477,7 +21477,7 @@
     official_full: Christopher Murphy
   bio:
     birthday: '1973-08-03'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2007-01-04'
@@ -21540,7 +21540,7 @@
     official_full: Tim Murphy
   bio:
     birthday: '1952-09-11'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -21631,7 +21631,7 @@
     official_full: Patty Murray
   bio:
     birthday: '1950-10-11'
-    gender: F
+    gender: Female
     religion: Roman Catholic
   terms:
   - type: sen
@@ -21689,7 +21689,7 @@
     official_full: Jerrold Nadler
   bio:
     birthday: '1947-06-13'
-    gender: M
+    gender: Male
     religion: Jewish
   terms:
   - type: rep
@@ -21815,7 +21815,7 @@
     official_full: Grace F. Napolitano
   bio:
     birthday: '1936-12-04'
-    gender: F
+    gender: Female
     religion: Roman Catholic
   terms:
   - type: rep
@@ -21917,7 +21917,7 @@
     official_full: Richard E. Neal
   bio:
     birthday: '1949-02-14'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -22049,7 +22049,7 @@
     official_full: Randy Neugebauer
   bio:
     birthday: '1949-12-24'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -22140,7 +22140,7 @@
     middle: L.
   bio:
     birthday: '1971-11-30'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2011-01-05'
@@ -22199,7 +22199,7 @@
     official_full: Eleanor Holmes Norton
   bio:
     birthday: '1937-06-13'
-    gender: F
+    gender: Female
     religion: Episcopalian
   terms:
   - type: rep
@@ -22326,7 +22326,7 @@
     middle: B.
   bio:
     birthday: '1951-05-26'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -22386,7 +22386,7 @@
     official_full: Devin Nunes
   bio:
     birthday: '1973-10-01'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -22475,7 +22475,7 @@
     official_full: Pete Olson
   bio:
     birthday: '1962-12-09'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-01-06'
@@ -22543,7 +22543,7 @@
     middle: M.
   bio:
     birthday: '1970-02-21'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -22605,7 +22605,7 @@
     official_full: Frank Pallone Jr.
   bio:
     birthday: '1951-10-30'
-    gender: M
+    gender: Male
     religion: Catholic
   terms:
   - type: rep
@@ -22744,7 +22744,7 @@
     official_full: Bill Pascrell Jr.
   bio:
     birthday: '1937-01-25'
-    gender: M
+    gender: Male
     religion: Catholic
   terms:
   - type: rep
@@ -22852,7 +22852,7 @@
     official_full: Rand Paul
   bio:
     birthday: '1963-01-07'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2011-01-05'
@@ -22892,7 +22892,7 @@
     official_full: Erik Paulsen
   bio:
     birthday: '1965-05-14'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-01-06'
@@ -22963,7 +22963,7 @@
     official_full: Stevan Pearce
   bio:
     birthday: '1947-08-24'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2003-01-07'
@@ -23041,7 +23041,7 @@
     official_full: Nancy Pelosi
   bio:
     birthday: '1940-03-26'
-    gender: F
+    gender: Female
     religion: Roman Catholic
   leadership_roles:
   - title: Minority Leader
@@ -23194,7 +23194,7 @@
     official_full: Ed Perlmutter
   bio:
     birthday: '1953-05-01'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2007-01-04'
@@ -23270,7 +23270,7 @@
     last: Peters
     official_full: Gary Peters
   bio:
-    gender: M
+    gender: Male
     birthday: '1958-12-01'
   terms:
   - type: rep
@@ -23338,7 +23338,7 @@
     official_full: Collin C. Peterson
   bio:
     birthday: '1944-06-29'
-    gender: M
+    gender: Male
     religion: Lutheran
   terms:
   - type: rep
@@ -23461,7 +23461,7 @@
     last: Pierluisi
     official_full: Pedro R. Pierluisi
   bio:
-    gender: M
+    gender: Male
     birthday: '1959-04-26'
   terms:
   - type: rep
@@ -23511,7 +23511,7 @@
     official_full: Chellie Pingree
   bio:
     birthday: '1955-04-02'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2009-01-06'
@@ -23581,7 +23581,7 @@
     official_full: Joseph R. Pitts
   bio:
     birthday: '1939-10-10'
-    gender: M
+    gender: Male
     religion: Protestant
   terms:
   - type: rep
@@ -23689,7 +23689,7 @@
     official_full: Ted Poe
   bio:
     birthday: '1948-09-10'
-    gender: M
+    gender: Male
     religion: Unknown
   terms:
   - type: rep
@@ -23770,7 +23770,7 @@
     last: Polis
     official_full: Jared Polis
   bio:
-    gender: M
+    gender: Male
     birthday: '1975-05-12'
   terms:
   - type: rep
@@ -23839,7 +23839,7 @@
     official_full: Mike Pompeo
   bio:
     birthday: '1963-12-30'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -23903,7 +23903,7 @@
     official_full: Rob Portman
   bio:
     birthday: '1955-12-19'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -23984,7 +23984,7 @@
     official_full: Bill Posey
   bio:
     birthday: '1947-12-18'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-01-06'
@@ -24053,7 +24053,7 @@
     official_full: David E. Price
   bio:
     birthday: '1940-08-17'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -24185,7 +24185,7 @@
     official_full: Tom Price
   bio:
     birthday: '1954-10-08'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2005-01-04'
@@ -24267,7 +24267,7 @@
     official_full: Mike Quigley
   bio:
     birthday: '1958-10-17'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-04-07'
@@ -24336,7 +24336,7 @@
     official_full: Charles B. Rangel
   bio:
     birthday: '1930-06-11'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -24523,7 +24523,7 @@
     official_full: Tom Reed
   bio:
     birthday: '1971-11-18'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2010-11-18'
@@ -24591,7 +24591,7 @@
     official_full: David G. Reichert
   bio:
     birthday: '1950-08-29'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2005-01-04'
@@ -24674,7 +24674,7 @@
     official_full: Harry Reid
   bio:
     birthday: '1939-12-02'
-    gender: M
+    gender: Male
     religion: Latter Day Saints
   leadership_roles:
   - title: Majority Leader
@@ -24771,7 +24771,7 @@
     middle: B.
   bio:
     birthday: '1958-12-03'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -24832,7 +24832,7 @@
     middle: J.
   bio:
     birthday: '1956-04-05'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -24893,7 +24893,7 @@
     middle: L.
   bio:
     birthday: '1973-09-13'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -24954,7 +24954,7 @@
     official_full: E. Scott Rigell
   bio:
     birthday: '1960-05-28'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -25014,7 +25014,7 @@
     official_full: Martha Roby
   bio:
     birthday: '1976-07-27'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2011-01-05'
@@ -25074,7 +25074,7 @@
     last: Roe
     official_full: David P. Roe
   bio:
-    gender: M
+    gender: Male
     birthday: '1945-07-21'
   terms:
   - type: rep
@@ -25142,7 +25142,7 @@
     official_full: Harold Rogers
   bio:
     birthday: '1937-12-31'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -25298,7 +25298,7 @@
     official_full: Mike Rogers
   bio:
     birthday: '1958-07-16'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2003-01-07'
@@ -25387,7 +25387,7 @@
     official_full: Dana Rohrabacher
   bio:
     birthday: '1947-06-21'
-    gender: M
+    gender: Male
     religion: Christian
   terms:
   - type: rep
@@ -25519,7 +25519,7 @@
     official_full: Todd Rokita
   bio:
     birthday: '1970-02-09'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -25580,7 +25580,7 @@
     official_full: Thomas J. Rooney
   bio:
     birthday: '1970-11-21'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-01-06'
@@ -25648,7 +25648,7 @@
     official_full: Ileana Ros-Lehtinen
   bio:
     birthday: '1952-07-15'
-    gender: F
+    gender: Female
     religion: Roman Catholic
   terms:
   - type: rep
@@ -25782,7 +25782,7 @@
     official_full: Peter J. Roskam
   bio:
     birthday: '1961-09-13'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2007-01-04'
@@ -25858,7 +25858,7 @@
     middle: A.
   bio:
     birthday: '1959-10-18'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -25917,7 +25917,7 @@
     official_full: Lucille Roybal-Allard
   bio:
     birthday: '1941-06-12'
-    gender: F
+    gender: Female
     religion: Roman Catholic
   terms:
   - type: rep
@@ -26041,7 +26041,7 @@
     official_full: Edward R. Royce
   bio:
     birthday: '1951-10-12'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -26161,7 +26161,7 @@
     official_full: Marco Rubio
   bio:
     birthday: '1971-05-28'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2011-01-05'
@@ -26199,7 +26199,7 @@
     official_full: C. A. Dutch Ruppersberger
   bio:
     birthday: '1946-01-31'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -26290,7 +26290,7 @@
     official_full: Bobby L. Rush
   bio:
     birthday: '1946-11-23'
-    gender: M
+    gender: Male
     religion: Protestant
   terms:
   - type: rep
@@ -26411,7 +26411,7 @@
     official_full: Paul Ryan
   bio:
     birthday: '1970-01-29'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -26514,7 +26514,7 @@
     official_full: Tim Ryan
   bio:
     birthday: '1973-07-16'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -26601,7 +26601,7 @@
     official_full: Gregorio Kilili Camacho Sablan
     middle: Kilili Camacho
   bio:
-    gender: M
+    gender: Male
     birthday: '1955-01-19'
   terms:
   - type: rep
@@ -26678,7 +26678,7 @@
     official_full: Loretta Sanchez
   bio:
     birthday: '1960-01-07'
-    gender: F
+    gender: Female
     religion: Roman Catholic
   terms:
   - type: rep
@@ -26789,7 +26789,7 @@
     official_full: John P. Sarbanes
   bio:
     birthday: '1962-05-22'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2007-01-04'
@@ -26868,7 +26868,7 @@
     official_full: Steve Scalise
   bio:
     birthday: '1965-10-06'
-    gender: M
+    gender: Male
   leadership_roles:
   - title: Majority Whip
     chamber: house
@@ -26953,7 +26953,7 @@
     official_full: Janice D. Schakowsky
   bio:
     birthday: '1944-05-26'
-    gender: F
+    gender: Female
     religion: Jewish
   terms:
   - type: rep
@@ -27056,7 +27056,7 @@
     official_full: Adam B. Schiff
   bio:
     birthday: '1960-06-22'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2001-01-03'
@@ -27150,7 +27150,7 @@
     last: Schock
     official_full: Aaron Schock
   bio:
-    gender: M
+    gender: Male
     birthday: '1981-05-28'
   terms:
   - type: rep
@@ -27219,7 +27219,7 @@
     official_full: Kurt Schrader
   bio:
     birthday: '1951-10-19'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-01-06'
@@ -27291,7 +27291,7 @@
     official_full: Charles E. Schumer
   bio:
     birthday: '1950-11-23'
-    gender: M
+    gender: Male
     religion: Jewish
   terms:
   - type: rep
@@ -27397,7 +27397,7 @@
     official_full: David Schweikert
   bio:
     birthday: '1962-03-03'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -27456,7 +27456,7 @@
     official_full: Austin Scott
   bio:
     birthday: '1969-12-10'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -27516,7 +27516,7 @@
     official_full: David Scott
   bio:
     birthday: '1945-06-27'
-    gender: M
+    gender: Male
     religion: Baptist
   terms:
   - type: rep
@@ -27608,7 +27608,7 @@
     official_full: Robert C. "Bobby" Scott
   bio:
     birthday: '1947-04-30'
-    gender: M
+    gender: Male
     religion: Episcopalian
   terms:
   - type: rep
@@ -27730,7 +27730,7 @@
     official_full: Tim Scott
   bio:
     birthday: '1965-09-19'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -27795,7 +27795,7 @@
     official_full: F. James Sensenbrenner Jr.
   bio:
     birthday: '1943-06-14'
-    gender: M
+    gender: Male
     religion: Episcopalian
   terms:
   - type: rep
@@ -27957,7 +27957,7 @@
     official_full: José E. Serrano
   bio:
     birthday: '1943-10-24'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -28090,7 +28090,7 @@
     official_full: Pete Sessions
   bio:
     birthday: '1955-03-22'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -28199,7 +28199,7 @@
     middle: A.
   bio:
     birthday: '1965-01-01'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2011-01-05'
@@ -28261,7 +28261,7 @@
     official_full: Richard C. Shelby
   bio:
     birthday: '1934-05-06'
-    gender: M
+    gender: Male
     religion: Presbyterian
   terms:
   - type: rep
@@ -28356,7 +28356,7 @@
     official_full: Brad Sherman
   bio:
     birthday: '1954-10-24'
-    gender: M
+    gender: Male
     religion: Jewish
   terms:
   - type: rep
@@ -28465,7 +28465,7 @@
     official_full: John Shimkus
   bio:
     birthday: '1958-02-21'
-    gender: M
+    gender: Male
     religion: Lutheran
   terms:
   - type: rep
@@ -28572,7 +28572,7 @@
     official_full: Bill Shuster
   bio:
     birthday: '1961-01-10'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2001-05-17'
@@ -28672,7 +28672,7 @@
     official_full: Michael K. Simpson
   bio:
     birthday: '1950-09-08'
-    gender: M
+    gender: Male
     religion: Latter Day Saints
   terms:
   - type: rep
@@ -28774,7 +28774,7 @@
     official_full: Albio Sires
   bio:
     birthday: '1951-01-26'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2006-11-13'
@@ -28855,7 +28855,7 @@
     official_full: Louise McIntosh Slaughter
   bio:
     birthday: '1929-08-14'
-    gender: F
+    gender: Female
     religion: Episcopalian
   terms:
   - type: rep
@@ -28993,7 +28993,7 @@
     official_full: Adam Smith
   bio:
     birthday: '1965-06-15'
-    gender: M
+    gender: Male
     religion: Christian
   terms:
   - type: rep
@@ -29101,7 +29101,7 @@
     official_full: Adrian Smith
   bio:
     birthday: '1970-12-19'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2007-01-04'
@@ -29177,7 +29177,7 @@
     official_full: Christopher H. Smith
   bio:
     birthday: '1953-03-04'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -29334,7 +29334,7 @@
     official_full: Lamar Smith
   bio:
     birthday: '1947-11-19'
-    gender: M
+    gender: Male
     religion: Christian Scientist
   terms:
   - type: rep
@@ -29471,7 +29471,7 @@
     official_full: Jackie Speier
   bio:
     birthday: '1950-05-14'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2008-04-08'
@@ -29546,7 +29546,7 @@
     official_full: Steve Stivers
   bio:
     birthday: '1965-03-24'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -29608,7 +29608,7 @@
     official_full: Marlin A. Stutzman
   bio:
     birthday: '1976-08-31'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2010-11-16'
@@ -29675,7 +29675,7 @@
     official_full: Linda T. Sánchez
   bio:
     birthday: '1969-01-28'
-    gender: F
+    gender: Female
     religion: Roman Catholic
   terms:
   - type: rep
@@ -29768,7 +29768,7 @@
     official_full: Bennie G. Thompson
   bio:
     birthday: '1948-01-28'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -29888,7 +29888,7 @@
     official_full: Mike Thompson
   bio:
     birthday: '1951-01-24'
-    gender: M
+    gender: Male
     religion: Catholic
   terms:
   - type: rep
@@ -29989,7 +29989,7 @@
     official_full: Glenn Thompson
   bio:
     birthday: '1959-07-27'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-01-06'
@@ -30058,7 +30058,7 @@
     official_full: Mac Thornberry
   bio:
     birthday: '1958-07-15'
-    gender: M
+    gender: Male
     religion: Presbyterian
   terms:
   - type: rep
@@ -30172,7 +30172,7 @@
     official_full: John Thune
   bio:
     birthday: '1961-01-07'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '1997-01-07'
@@ -30236,7 +30236,7 @@
     official_full: Patrick J. Tiberi
   bio:
     birthday: '1962-10-21'
-    gender: M
+    gender: Male
     religion: Catholic
   terms:
   - type: rep
@@ -30333,7 +30333,7 @@
     middle: R.
   bio:
     birthday: '1956-11-09'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -30392,7 +30392,7 @@
     official_full: Paul Tonko
   bio:
     birthday: '1949-06-18'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-01-06'
@@ -30464,7 +30464,7 @@
     official_full: Patrick J. Toomey
   bio:
     birthday: '1961-11-17'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '1999-01-06'
@@ -30521,7 +30521,7 @@
     official_full: Niki Tsongas
   bio:
     birthday: '1946-04-26'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2007-10-16'
@@ -30602,7 +30602,7 @@
     official_full: Michael R. Turner
   bio:
     birthday: '1960-01-11'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2003-01-07'
@@ -30692,7 +30692,7 @@
     official_full: Fred Upton
   bio:
     birthday: '1953-04-23'
-    gender: M
+    gender: Male
     religion: Protestant
   terms:
   - type: rep
@@ -30830,7 +30830,7 @@
     official_full: Chris Van Hollen
   bio:
     birthday: '1959-01-10'
-    gender: M
+    gender: Male
     religion: Episcopalian
   terms:
   - type: rep
@@ -30920,7 +30920,7 @@
     official_full: Nydia M. Velázquez
   bio:
     birthday: '1953-03-28'
-    gender: F
+    gender: Female
     religion: Roman Catholic
   terms:
   - type: rep
@@ -31040,7 +31040,7 @@
     official_full: Peter J. Visclosky
   bio:
     birthday: '1949-08-13'
-    gender: M
+    gender: Male
     religion: Roman Catholic
   terms:
   - type: rep
@@ -31186,7 +31186,7 @@
     official_full: David Vitter
   bio:
     birthday: '1961-05-03'
-    gender: M
+    gender: Male
     religion: Catholic
   terms:
   - type: rep
@@ -31249,7 +31249,7 @@
     last: Walberg
     official_full: Tim Walberg
   bio:
-    gender: M
+    gender: Male
     birthday: '1951-04-12'
   terms:
   - type: rep
@@ -31318,7 +31318,7 @@
     official_full: Greg Walden
   bio:
     birthday: '1957-01-10'
-    gender: M
+    gender: Male
     religion: Episcopalian
   terms:
   - type: rep
@@ -31422,7 +31422,7 @@
     official_full: Timothy J. Walz
   bio:
     birthday: '1964-04-06'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2007-01-04'
@@ -31493,11 +31493,11 @@
     house_history: 24177
   name:
     first: Debbie
-    last: Wasserman Schultz
+    last: W. Schultz
     official_full: Debbie Wasserman Schultz
   bio:
     birthday: '1966-09-27'
-    gender: F
+    gender: Female
     religion: Jewish
   terms:
   - type: rep
@@ -31579,7 +31579,7 @@
     official_full: Maxine Waters
   bio:
     birthday: '1938-08-15'
-    gender: F
+    gender: Female
     religion: Christian
   terms:
   - type: rep
@@ -31706,7 +31706,7 @@
     official_full: Daniel Webster
   bio:
     birthday: '1949-04-27'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -31766,7 +31766,7 @@
     last: Welch
     official_full: Peter Welch
   bio:
-    gender: M
+    gender: Male
     birthday: '1947-05-02'
   terms:
   - type: rep
@@ -31843,7 +31843,7 @@
     official_full: Lynn A. Westmoreland
   bio:
     birthday: '1950-04-02'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2005-01-04'
@@ -31924,7 +31924,7 @@
     official_full: Ed Whitfield
   bio:
     birthday: '1943-05-25'
-    gender: M
+    gender: Male
     religion: Methodist
   terms:
   - type: rep
@@ -32039,7 +32039,7 @@
     official_full: Joe Wilson
   bio:
     birthday: '1947-07-31'
-    gender: M
+    gender: Male
     religion: Presbyterian
   terms:
   - type: rep
@@ -32136,7 +32136,7 @@
     middle: S.
   bio:
     birthday: '1942-11-05'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2011-01-05'
@@ -32198,7 +32198,7 @@
     official_full: Robert J. Wittman
   bio:
     birthday: '1959-02-03'
-    gender: M
+    gender: Male
     religion: Episcopalian
   terms:
   - type: rep
@@ -32274,7 +32274,7 @@
     official_full: Steve Womack
   bio:
     birthday: '1957-02-18'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -32333,7 +32333,7 @@
     official_full: Rob Woodall
   bio:
     birthday: '1970-02-11'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -32395,7 +32395,7 @@
     official_full: Ron Wyden
   bio:
     birthday: '1949-05-03'
-    gender: M
+    gender: Male
     religion: Jewish
   terms:
   - type: rep
@@ -32502,7 +32502,7 @@
     official_full: John A. Yarmuth
   bio:
     birthday: '1947-11-04'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2007-01-04'
@@ -32575,7 +32575,7 @@
     official_full: Kevin Yoder
   bio:
     birthday: '1976-01-08'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -32636,7 +32636,7 @@
     official_full: Don Young
   bio:
     birthday: '1933-06-09'
-    gender: M
+    gender: Male
     religion: Episcopalian
   terms:
   - type: rep
@@ -32817,7 +32817,7 @@
     middle: C.
   bio:
     birthday: '1972-08-24'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -32879,7 +32879,7 @@
     official_full: Dean Heller
   bio:
     birthday: '1960-05-10'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2007-01-04'
@@ -32949,7 +32949,7 @@
     official_full: Janice Hahn
   bio:
     birthday: '1952-03-30'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2011-07-19'
@@ -33013,7 +33013,7 @@
     official_full: Mark E. Amodei
   bio:
     birthday: '1958-06-12'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-09-13'
@@ -33074,7 +33074,7 @@
     official_full: Suzanne Bonamici
   bio:
     birthday: '1954-10-14'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2012-02-07'
@@ -33135,7 +33135,7 @@
     official_full: Suzan K. DelBene
   bio:
     birthday: '1962-02-17'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2012-11-13'
@@ -33193,7 +33193,7 @@
     official_full: Thomas Massie
   bio:
     birthday: '1971-01-13'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2012-11-13'
@@ -33252,7 +33252,7 @@
     official_full: Donald M. Payne Jr.
   bio:
     birthday: '1958-12-17'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2012-11-15'
@@ -33314,7 +33314,7 @@
     official_full: Brian Schatz
   bio:
     birthday: '1972-10-20'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2012-12-27'
@@ -33364,7 +33364,7 @@
     official_full: Matt Salmon
   bio:
     birthday: '1958-01-21'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '1995-01-04'
@@ -33432,7 +33432,7 @@
     official_full: Bill Foster
   bio:
     birthday: '1955-10-07'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2008-03-08'
@@ -33495,7 +33495,7 @@
     official_full: Alan Grayson
   bio:
     birthday: '1958-03-13'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2009-01-06'
@@ -33550,7 +33550,7 @@
     last: Kirkpatrick
     official_full: Ann Kirkpatrick
   bio:
-    gender: F
+    gender: Female
     birthday: '1950-03-24'
   terms:
   - type: rep
@@ -33606,7 +33606,7 @@
     last: Titus
     official_full: Dina Titus
   bio:
-    gender: F
+    gender: Female
     birthday: '1950-05-23'
   terms:
   - type: rep
@@ -33660,7 +33660,7 @@
     last: Cotton
     official_full: Tom Cotton
   bio:
-    gender: M
+    gender: Male
     birthday: '1977-05-13'
   terms:
   - type: rep
@@ -33706,7 +33706,7 @@
     last: Sinema
     official_full: Kyrsten Sinema
   bio:
-    gender: F
+    gender: Female
     birthday: '1976-07-12'
   terms:
   - type: rep
@@ -33755,7 +33755,7 @@
     last: LaMalfa
     official_full: Doug LaMalfa
   bio:
-    gender: M
+    gender: Male
     birthday: '1960-07-02'
   terms:
   - type: rep
@@ -33803,7 +33803,7 @@
     last: Huffman
     official_full: Jared Huffman
   bio:
-    gender: M
+    gender: Male
     birthday: '1964-02-18'
   terms:
   - type: rep
@@ -33851,7 +33851,7 @@
     last: Bera
     official_full: Ami Bera
   bio:
-    gender: M
+    gender: Male
     birthday: '1965-03-02'
   terms:
   - type: rep
@@ -33899,7 +33899,7 @@
     last: Cook
     official_full: Paul Cook
   bio:
-    gender: M
+    gender: Male
     birthday: '1943-03-03'
   terms:
   - type: rep
@@ -33945,7 +33945,7 @@
     last: Swalwell
     official_full: Eric Swalwell
   bio:
-    gender: M
+    gender: Male
     birthday: '1980-11-16'
   terms:
   - type: rep
@@ -33990,7 +33990,7 @@
     middle: G.
     official_full: David G. Valadao
   bio:
-    gender: M
+    gender: Male
     birthday: '1977-04-14'
   terms:
   - type: rep
@@ -34039,7 +34039,7 @@
     last: Brownley
     official_full: Julia Brownley
   bio:
-    gender: F
+    gender: Female
     birthday: '1952-08-28'
   terms:
   - type: rep
@@ -34087,7 +34087,7 @@
     last: Cárdenas
     official_full: Tony Cárdenas
   bio:
-    gender: M
+    gender: Male
     birthday: '1963-03-31'
   terms:
   - type: rep
@@ -34135,7 +34135,7 @@
     last: Ruiz
     official_full: Raul Ruiz
   bio:
-    gender: M
+    gender: Male
     birthday: '1972-08-25'
   terms:
   - type: rep
@@ -34182,7 +34182,7 @@
     last: Takano
     official_full: Mark Takano
   bio:
-    gender: M
+    gender: Male
     birthday: '1960-12-10'
   terms:
   - type: rep
@@ -34230,7 +34230,7 @@
     middle: S.
     official_full: Alan S. Lowenthal
   bio:
-    gender: M
+    gender: Male
     birthday: '1941-03-08'
   terms:
   - type: rep
@@ -34278,7 +34278,7 @@
     last: Vargas
     official_full: Juan Vargas
   bio:
-    gender: M
+    gender: Male
     birthday: '1961-03-07'
   terms:
   - type: rep
@@ -34327,7 +34327,7 @@
     middle: H.
     official_full: Scott H. Peters
   bio:
-    gender: M
+    gender: Male
     birthday: '1958-06-17'
   terms:
   - type: rep
@@ -34377,7 +34377,7 @@
     middle: H.
     official_full: Elizabeth H. Esty
   bio:
-    gender: F
+    gender: Female
     birthday: '1959-08-25'
   terms:
   - type: rep
@@ -34426,7 +34426,7 @@
     middle: S.
     official_full: Ted S. Yoho
   bio:
-    gender: M
+    gender: Male
     birthday: '1955-04-13'
   terms:
   - type: rep
@@ -34472,7 +34472,7 @@
     last: DeSantis
     official_full: Ron DeSantis
   bio:
-    gender: M
+    gender: Male
     birthday: '1978-09-14'
   terms:
   - type: rep
@@ -34520,7 +34520,7 @@
     last: Murphy
     official_full: Patrick Murphy
   bio:
-    gender: M
+    gender: Male
     birthday: '1983-03-30'
   terms:
   - type: rep
@@ -34570,7 +34570,7 @@
     last: Frankel
     official_full: Lois Frankel
   bio:
-    gender: F
+    gender: Female
     birthday: '1948-05-16'
   terms:
   - type: rep
@@ -34618,7 +34618,7 @@
     last: Collins
     official_full: Doug Collins
   bio:
-    gender: M
+    gender: Male
     birthday: '1966-08-16'
   terms:
   - type: rep
@@ -34667,7 +34667,7 @@
     last: Gabbard
     official_full: Tulsi Gabbard
   bio:
-    gender: F
+    gender: Female
     birthday: '1981-04-12'
   terms:
   - type: rep
@@ -34716,7 +34716,7 @@
     last: Duckworth
     official_full: Tammy Duckworth
   bio:
-    gender: F
+    gender: Female
     birthday: '1968-03-12'
   terms:
   - type: rep
@@ -34762,7 +34762,7 @@
     last: Davis
     official_full: Rodney Davis
   bio:
-    gender: M
+    gender: Male
     birthday: '1970-01-05'
   terms:
   - type: rep
@@ -34810,7 +34810,7 @@
     last: Bustos
     official_full: Cheri Bustos
   bio:
-    gender: F
+    gender: Female
     birthday: '1961-10-17'
   terms:
   - type: rep
@@ -34859,7 +34859,7 @@
     last: Walorski
     official_full: Jackie Walorski
   bio:
-    gender: F
+    gender: Female
     birthday: '1963-08-17'
   terms:
   - type: rep
@@ -34909,7 +34909,7 @@
     middle: W.
     official_full: Susan W. Brooks
   bio:
-    gender: F
+    gender: Female
     birthday: '1960-08-25'
   terms:
   - type: rep
@@ -34957,7 +34957,7 @@
     last: Messer
     official_full: Luke Messer
   bio:
-    gender: M
+    gender: Male
     birthday: '1969-02-27'
   terms:
   - type: rep
@@ -35006,7 +35006,7 @@
     nickname: Andy
     official_full: Andy Barr
   bio:
-    gender: M
+    gender: Male
     birthday: '1973-07-24'
   terms:
   - type: rep
@@ -35054,7 +35054,7 @@
     last: Warren
     official_full: Elizabeth Warren
   bio:
-    gender: F
+    gender: Female
     birthday: '1949-06-22'
   terms:
   - type: sen
@@ -35091,7 +35091,7 @@
     middle: P.
     official_full: Joseph P. Kennedy III
   bio:
-    gender: M
+    gender: Male
     birthday: '1980-10-04'
   terms:
   - type: rep
@@ -35151,7 +35151,7 @@
     middle: K.
     official_full: John K. Delaney
   bio:
-    gender: M
+    gender: Male
     birthday: '1963-04-16'
   terms:
   - type: rep
@@ -35199,7 +35199,7 @@
     last: King
     official_full: Angus S. King, Jr.
   bio:
-    gender: M
+    gender: Male
     birthday: '1944-03-31'
   terms:
   - type: sen
@@ -35238,7 +35238,7 @@
     nickname: Dan
     official_full: Daniel T. Kildee
   bio:
-    gender: M
+    gender: Male
     birthday: '1958-08-11'
   terms:
   - type: rep
@@ -35291,7 +35291,7 @@
     official_full: Richard M. Nolan
   bio:
     birthday: '1943-12-17'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '1975-01-14'
@@ -35356,7 +35356,7 @@
     last: Wagner
     official_full: Ann Wagner
   bio:
-    gender: F
+    gender: Female
     birthday: '1962-09-13'
   terms:
   - type: rep
@@ -35404,7 +35404,7 @@
     last: Daines
     official_full: Steve Daines
   bio:
-    gender: M
+    gender: Male
     birthday: '1962-08-20'
   terms:
   - type: rep
@@ -35450,7 +35450,7 @@
     last: Hudson
     official_full: Richard Hudson
   bio:
-    gender: M
+    gender: Male
     birthday: '1971-11-04'
   terms:
   - type: rep
@@ -35498,7 +35498,7 @@
     last: Pittenger
     official_full: Robert Pittenger
   bio:
-    gender: M
+    gender: Male
     birthday: '1948-08-15'
   terms:
   - type: rep
@@ -35546,7 +35546,7 @@
     last: Meadows
     official_full: Mark Meadows
   bio:
-    gender: M
+    gender: Male
     birthday: '1959-07-28'
   terms:
   - type: rep
@@ -35593,7 +35593,7 @@
     last: Holding
     official_full: George Holding
   bio:
-    gender: M
+    gender: Male
     birthday: '1968-04-17'
   terms:
   - type: rep
@@ -35643,7 +35643,7 @@
     last: Heitkamp
     official_full: Heidi Heitkamp
   bio:
-    gender: F
+    gender: Female
     birthday: '1955-10-30'
   terms:
   - type: sen
@@ -35680,7 +35680,7 @@
     last: Cramer
     official_full: Kevin Cramer
   bio:
-    gender: M
+    gender: Male
     birthday: '1961-01-21'
   terms:
   - type: rep
@@ -35730,7 +35730,7 @@
     last: Fischer
     official_full: Deb Fischer
   bio:
-    gender: F
+    gender: Female
     birthday: '1951-03-01'
   terms:
   - type: sen
@@ -35768,7 +35768,7 @@
     middle: M.
     official_full: Ann M. Kuster
   bio:
-    gender: F
+    gender: Female
     birthday: '1956-09-05'
   terms:
   - type: rep
@@ -35817,7 +35817,7 @@
     last: Lujan Grisham
     official_full: Michelle Lujan Grisham
   bio:
-    gender: F
+    gender: Female
     birthday: '1959-10-24'
   terms:
   - type: rep
@@ -35866,7 +35866,7 @@
     last: Meng
     official_full: Grace Meng
   bio:
-    gender: F
+    gender: Female
     birthday: '1975-10-01'
   terms:
   - type: rep
@@ -35914,7 +35914,7 @@
     middle: S.
     official_full: Hakeem S. Jeffries
   bio:
-    gender: M
+    gender: Male
     birthday: '1970-08-04'
   terms:
   - type: rep
@@ -35961,7 +35961,7 @@
     middle: Patrick
     official_full: Sean Patrick Maloney
   bio:
-    gender: M
+    gender: Male
     birthday: '1966-07-30'
   terms:
   - type: rep
@@ -36008,7 +36008,7 @@
     last: Collins
     official_full: Chris Collins
   bio:
-    gender: M
+    gender: Male
     birthday: '1950-05-20'
   terms:
   - type: rep
@@ -36056,7 +36056,7 @@
     middle: R.
     official_full: Brad R. Wenstrup
   bio:
-    gender: M
+    gender: Male
     birthday: '1958-06-17'
   terms:
   - type: rep
@@ -36102,7 +36102,7 @@
     last: Beatty
     official_full: Joyce Beatty
   bio:
-    gender: F
+    gender: Female
     birthday: '1950-03-12'
   terms:
   - type: rep
@@ -36150,7 +36150,7 @@
     middle: P.
     official_full: David P. Joyce
   bio:
-    gender: M
+    gender: Male
     birthday: '1957-03-17'
   terms:
   - type: rep
@@ -36198,7 +36198,7 @@
     last: Bridenstine
     official_full: Jim Bridenstine
   bio:
-    gender: M
+    gender: Male
     birthday: '1975-06-15'
   terms:
   - type: rep
@@ -36246,7 +36246,7 @@
     last: Mullin
     official_full: Markwayne Mullin
   bio:
-    gender: M
+    gender: Male
     birthday: '1977-07-26'
   terms:
   - type: rep
@@ -36294,7 +36294,7 @@
     last: Perry
     official_full: Scott Perry
   bio:
-    gender: M
+    gender: Male
     birthday: '1962-05-27'
   terms:
   - type: rep
@@ -36343,7 +36343,7 @@
     middle: J.
     official_full: Keith J. Rothfus
   bio:
-    gender: M
+    gender: Male
     birthday: '1962-04-25'
   terms:
   - type: rep
@@ -36392,7 +36392,7 @@
     middle: A.
     official_full: Matt Cartwright
   bio:
-    gender: M
+    gender: Male
     birthday: '1961-05-01'
   terms:
   - type: rep
@@ -36440,7 +36440,7 @@
     last: Rice
     official_full: Tom Rice
   bio:
-    gender: M
+    gender: Male
     birthday: '1957-08-04'
   terms:
   - type: rep
@@ -36488,7 +36488,7 @@
     last: Cruz
     official_full: Ted Cruz
   bio:
-    gender: M
+    gender: Male
     birthday: '1970-12-22'
   terms:
   - type: sen
@@ -36524,7 +36524,7 @@
     middle: K.
     official_full: Randy K. Weber Sr.
   bio:
-    gender: M
+    gender: Male
     birthday: '1953-07-02'
   terms:
   - type: rep
@@ -36572,7 +36572,7 @@
     last: O'Rourke
     official_full: Beto O'Rourke
   bio:
-    gender: M
+    gender: Male
     birthday: '1972-09-26'
   terms:
   - type: rep
@@ -36618,7 +36618,7 @@
     last: Castro
     official_full: Joaquin Castro
   bio:
-    gender: M
+    gender: Male
     birthday: '1974-09-16'
   terms:
   - type: rep
@@ -36667,7 +36667,7 @@
     last: Williams
     official_full: Roger Williams
   bio:
-    gender: M
+    gender: Male
     birthday: '1949-09-13'
   terms:
   - type: rep
@@ -36716,7 +36716,7 @@
     middle: A.
     official_full: Marc A. Veasey
   bio:
-    gender: M
+    gender: Male
     birthday: '1971-01-03'
   terms:
   - type: rep
@@ -36763,7 +36763,7 @@
     last: Vela
     official_full: Filemon Vela
   bio:
-    gender: M
+    gender: Male
     birthday: '1963-02-13'
   terms:
   - type: rep
@@ -36811,7 +36811,7 @@
     last: Stewart
     official_full: Chris Stewart
   bio:
-    gender: M
+    gender: Male
     birthday: '1960-07-15'
   terms:
   - type: rep
@@ -36861,7 +36861,7 @@
     nickname: Tim
     official_full: Tim Kaine
   bio:
-    gender: M
+    gender: Male
     birthday: '1958-02-26'
   terms:
   - type: sen
@@ -36897,7 +36897,7 @@
     last: Kilmer
     official_full: Derek Kilmer
   bio:
-    gender: M
+    gender: Male
     birthday: '1974-01-01'
   terms:
   - type: rep
@@ -36944,7 +36944,7 @@
     nickname: Denny
     official_full: Denny Heck
   bio:
-    gender: M
+    gender: Male
     birthday: '1952-07-29'
   terms:
   - type: rep
@@ -36992,7 +36992,7 @@
     last: Pocan
     official_full: Mark Pocan
   bio:
-    gender: M
+    gender: Male
     birthday: '1964-08-14'
   terms:
   - type: rep
@@ -37040,7 +37040,7 @@
     last: Kelly
     official_full: Robin L. Kelly
   bio:
-    gender: F
+    gender: Female
     birthday: '1956-04-30'
   terms:
   - type: rep
@@ -37091,7 +37091,7 @@
     official_full: Mark Sanford
   bio:
     birthday: '1960-05-28'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '1995-01-04'
@@ -37157,7 +37157,7 @@
     official_full: Jason Smith
   bio:
     birthday: '1980-06-16'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2013-06-04'
@@ -37204,7 +37204,7 @@
     official_full: Cory A. Booker
   bio:
     birthday: '1969-04-27'
-    gender: M
+    gender: Male
   terms:
   - type: sen
     start: '2013-10-31'
@@ -37250,7 +37250,7 @@
     official_full: Katherine M. Clark
   bio:
     birthday: '1963-07-17'
-    gender: F
+    gender: Female
   terms:
   - type: rep
     start: '2013-12-12'
@@ -37292,7 +37292,7 @@
     official_full: Bradley Byrne
   bio:
     birthday: '1955-02-16'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2014-01-08'
@@ -37335,7 +37335,7 @@
     official_full: David W. Jolly
   bio:
     birthday: '1972-10-31'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2014-03-11'
@@ -37376,7 +37376,7 @@
     last: Clawson
     official_full: Curt Clawson
   bio:
-    gender: M
+    gender: Male
     birthday: '1959-09-28'
   terms:
   - type: rep
@@ -37416,7 +37416,7 @@
     last: Brat
     official_full: Dave Brat
   bio:
-    gender: M
+    gender: Male
     birthday: '1964-07-27'
   terms:
   - type: rep
@@ -37459,7 +37459,7 @@
     last: Norcross
     official_full: Donald Norcross
   bio:
-    gender: M
+    gender: Male
     birthday: '1958-12-13'
   terms:
   - type: rep
@@ -37501,7 +37501,7 @@
     last: Adams
     official_full: Alma S. Adams
   bio:
-    gender: F
+    gender: Female
     birthday: '1946-05-27'
   terms:
   - type: rep
@@ -37545,7 +37545,7 @@
     official_full: Robert J. Dold
   bio:
     birthday: '1969-06-23'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -37585,7 +37585,7 @@
     official_full: Frank C. Guinta
   bio:
     birthday: '1970-09-26'
-    gender: M
+    gender: Male
   terms:
   - type: rep
     start: '2011-01-05'
@@ -37621,7 +37621,7 @@
     last: Palmer
     official_full: Gary J. Palmer
   bio:
-    gender: M
+    gender: Male
     birthday: '1954-05-14'
   terms:
   - type: rep
@@ -37647,7 +37647,7 @@
     last: Hill
     official_full: J. French Hill
   bio:
-    gender: M
+    gender: Male
     birthday: '1956-12-05'
   terms:
   - type: rep
@@ -37673,7 +37673,7 @@
     last: Westerman
     official_full: Bruce Westerman
   bio:
-    gender: M
+    gender: Male
     birthday: '1967-11-18'
   terms:
   - type: rep
@@ -37700,7 +37700,7 @@
     last: McSally
     official_full: Martha McSally
   bio:
-    gender: F
+    gender: Female
     birthday: '1966-03-22'
   terms:
   - type: rep
@@ -37726,7 +37726,7 @@
     last: Gallego
     official_full: Ruben Gallego
   bio:
-    gender: M
+    gender: Male
     birthday: '1979-11-20'
   terms:
   - type: rep
@@ -37752,7 +37752,7 @@
     last: DeSaulnier
     official_full: Mark DeSaulnier
   bio:
-    gender: M
+    gender: Male
     birthday: '1952-03-31'
   terms:
   - type: rep
@@ -37778,7 +37778,7 @@
     last: Knight
     official_full: Stephen Knight
   bio:
-    gender: M
+    gender: Male
     birthday: '1966-12-17'
   terms:
   - type: rep
@@ -37804,7 +37804,7 @@
     last: Aguilar
     official_full: Pete Aguilar
   bio:
-    gender: M
+    gender: Male
     birthday: '1979-06-19'
   terms:
   - type: rep
@@ -37830,7 +37830,7 @@
     last: Lieu
     official_full: Ted Lieu
   bio:
-    gender: M
+    gender: Male
     birthday: '1969-03-29'
   terms:
   - type: rep
@@ -37857,7 +37857,7 @@
     last: Torres
     official_full: Norma J. Torres
   bio:
-    gender: F
+    gender: Female
     birthday: '1965-04-04'
   terms:
   - type: rep
@@ -37884,7 +37884,7 @@
     last: Walters
     official_full: Mimi Walters
   bio:
-    gender: F
+    gender: Female
     birthday: '1962-05-14'
   terms:
   - type: rep
@@ -37911,7 +37911,7 @@
     last: Buck
     official_full: Ken Buck
   bio:
-    gender: M
+    gender: Male
     birthday: '1959-02-16'
   terms:
   - type: rep
@@ -37938,7 +37938,7 @@
     last: Graham
     official_full: Gwen Graham
   bio:
-    gender: F
+    gender: Female
     birthday: '1963-01-31'
   terms:
   - type: rep
@@ -37964,7 +37964,7 @@
     last: Curbelo
     official_full: Carlos Curbelo
   bio:
-    gender: M
+    gender: Male
     birthday: '1980-03-01'
   terms:
   - type: rep
@@ -37989,7 +37989,7 @@
     last: Carter
     official_full: Earl L. "Buddy" Carter
   bio:
-    gender: M
+    gender: Male
     birthday: '1957-09-06'
   terms:
   - type: rep
@@ -38015,7 +38015,7 @@
     last: Hice
     official_full: Jody B. Hice
   bio:
-    gender: M
+    gender: Male
     birthday: '1960-04-22'
   terms:
   - type: rep
@@ -38041,7 +38041,7 @@
     last: Loudermilk
     official_full: Barry Loudermilk
   bio:
-    gender: M
+    gender: Male
     birthday: '1963-12-22'
   terms:
   - type: rep
@@ -38067,7 +38067,7 @@
     last: Allen
     official_full: Rick W. Allen
   bio:
-    gender: M
+    gender: Male
     birthday: '1951-11-07'
   terms:
   - type: rep
@@ -38093,7 +38093,7 @@
     last: Takai
     official_full: Mark Takai
   bio:
-    gender: M
+    gender: Male
     birthday: '1967-07-01'
   terms:
   - type: rep
@@ -38119,7 +38119,7 @@
     last: Blum
     official_full: Rod Blum
   bio:
-    gender: M
+    gender: Male
     birthday: '1955-04-26'
   terms:
   - type: rep
@@ -38145,7 +38145,7 @@
     last: Young
     official_full: David Young
   bio:
-    gender: M
+    gender: Male
     birthday: '1968-05-11'
   terms:
   - type: rep
@@ -38170,7 +38170,7 @@
     last: Bost
     official_full: Mike Bost
   bio:
-    gender: M
+    gender: Male
     birthday: '1960-12-30'
   terms:
   - type: rep
@@ -38196,7 +38196,7 @@
     last: Abraham
     official_full: Ralph Lee Abraham
   bio:
-    gender: M
+    gender: Male
     birthday: '1954-09-16'
   terms:
   - type: rep
@@ -38222,7 +38222,7 @@
     last: Graves
     official_full: Garret Graves
   bio:
-    gender: M
+    gender: Male
     birthday: '1972-01-31'
   terms:
   - type: rep
@@ -38248,7 +38248,7 @@
     last: Moulton
     official_full: Seth Moulton
   bio:
-    gender: M
+    gender: Male
     birthday: '1978-10-24'
   terms:
   - type: rep
@@ -38275,7 +38275,7 @@
     last: Poliquin
     official_full: Bruce Poliquin
   bio:
-    gender: M
+    gender: Male
     birthday: '1953-11-01'
   terms:
   - type: rep
@@ -38301,7 +38301,7 @@
     last: Moolenaar
     official_full: John R. Moolenaar
   bio:
-    gender: M
+    gender: Male
     birthday: '1961-05-08'
   terms:
   - type: rep
@@ -38327,7 +38327,7 @@
     last: Bishop
     official_full: Mike Bishop
   bio:
-    gender: M
+    gender: Male
     birthday: '1967-03-18'
   terms:
   - type: rep
@@ -38354,7 +38354,7 @@
     nickname: Dave
     official_full: David A. Trott
   bio:
-    gender: M
+    gender: Male
     birthday: '1960-10-16'
   terms:
   - type: rep
@@ -38380,7 +38380,7 @@
     last: Dingell
     official_full: Debbie Dingell
   bio:
-    gender: F
+    gender: Female
     birthday: '1953-11-23'
   terms:
   - type: rep
@@ -38407,7 +38407,7 @@
     last: Lawrence
     official_full: Brenda L. Lawrence
   bio:
-    gender: F
+    gender: Female
     birthday: '1954-10-18'
   terms:
   - type: rep
@@ -38433,7 +38433,7 @@
     last: Emmer
     official_full: Tom Emmer
   bio:
-    gender: M
+    gender: Male
     birthday: '1961-03-03'
   terms:
   - type: rep
@@ -38459,7 +38459,7 @@
     last: Zinke
     official_full: Ryan K. Zinke
   bio:
-    gender: M
+    gender: Male
     birthday: '1961-11-01'
   terms:
   - type: rep
@@ -38485,7 +38485,7 @@
     last: Rouzer
     official_full: David Rouzer
   bio:
-    gender: M
+    gender: Male
     birthday: '1972-02-16'
   terms:
   - type: rep
@@ -38511,7 +38511,7 @@
     last: Ashford
     official_full: Brad Ashford
   bio:
-    gender: M
+    gender: Male
     birthday: '1949-11-10'
   terms:
   - type: rep
@@ -38538,7 +38538,7 @@
     last: MacArthur
     official_full: Thomas MacArthur
   bio:
-    gender: M
+    gender: Male
     birthday: '1960-10-16'
   terms:
   - type: rep
@@ -38563,10 +38563,10 @@
     wikipedia: Bonnie Watson Coleman
   name:
     first: Bonnie
-    last: Watson Coleman
+    last: W. Coleman
     official_full: Bonnie Watson Coleman
   bio:
-    gender: F
+    gender: Female
     birthday: '1945-02-06'
   terms:
   - type: rep
@@ -38592,7 +38592,7 @@
     last: Hardy
     official_full: Cresent Hardy
   bio:
-    gender: M
+    gender: Male
     birthday: '1957-06-23'
   terms:
   - type: rep
@@ -38618,7 +38618,7 @@
     last: Zeldin
     official_full: Lee M. Zeldin
   bio:
-    gender: M
+    gender: Male
     birthday: '1980-01-30'
   terms:
   - type: rep
@@ -38645,7 +38645,7 @@
     last: Rice
     official_full: Kathleen M. Rice
   bio:
-    gender: F
+    gender: Female
     birthday: '1965-02-15'
   terms:
   - type: rep
@@ -38672,7 +38672,7 @@
     last: Stefanik
     official_full: Elise M. Stefanik
   bio:
-    gender: F
+    gender: Female
     birthday: '1984-07-02'
   terms:
   - type: rep
@@ -38698,7 +38698,7 @@
     last: Katko
     official_full: John Katko
   bio:
-    gender: M
+    gender: Male
     birthday: '1962-11-09'
   terms:
   - type: rep
@@ -38724,7 +38724,7 @@
     last: Russell
     official_full: Steve Russell
   bio:
-    gender: M
+    gender: Male
     birthday: '1963-05-25'
   terms:
   - type: rep
@@ -38750,7 +38750,7 @@
     last: Costello
     official_full: Ryan A. Costello
   bio:
-    gender: M
+    gender: Male
     birthday: '1976-09-07'
   terms:
   - type: rep
@@ -38776,7 +38776,7 @@
     last: Boyle
     official_full: Brendan F. Boyle
   bio:
-    gender: M
+    gender: Male
     birthday: '1977-02-06'
   terms:
   - type: rep
@@ -38802,7 +38802,7 @@
     last: Ratcliffe
     official_full: John Ratcliffe
   bio:
-    gender: M
+    gender: Male
     birthday: '1965-10-20'
   terms:
   - type: rep
@@ -38828,7 +38828,7 @@
     last: Hurd
     official_full: Will Hurd
   bio:
-    gender: M
+    gender: Male
     birthday: '1977-08-19'
   terms:
   - type: rep
@@ -38853,7 +38853,7 @@
     last: Babin
     official_full: Brian Babin
   bio:
-    gender: M
+    gender: Male
     birthday: '1948-03-23'
   terms:
   - type: rep
@@ -38880,7 +38880,7 @@
     last: Love
     official_full: Mia B. Love
   bio:
-    gender: F
+    gender: Female
     birthday: '1975-12-06'
   terms:
   - type: rep
@@ -38908,7 +38908,7 @@
     nickname: Don
     official_full: Donald S. Beyer Jr.
   bio:
-    gender: M
+    gender: Male
     birthday: '1950-06-20'
   terms:
   - type: rep
@@ -38935,7 +38935,7 @@
     last: Comstock
     official_full: Barbara Comstock
   bio:
-    gender: F
+    gender: Female
     birthday: '1959-06-30'
   terms:
   - type: rep
@@ -38961,7 +38961,7 @@
     last: Plaskett
     official_full: Stacey E. Plaskett
   bio:
-    gender: F
+    gender: Female
     birthday: '1966-05-13'
   terms:
   - type: rep
@@ -38987,7 +38987,7 @@
     last: Newhouse
     official_full: Dan Newhouse
   bio:
-    gender: M
+    gender: Male
     birthday: '1955-07-10'
   terms:
   - type: rep
@@ -39013,7 +39013,7 @@
     last: Grothman
     official_full: Glenn Grothman
   bio:
-    gender: M
+    gender: Male
     birthday: '1955-07-03'
   terms:
   - type: rep
@@ -39039,7 +39039,7 @@
     last: Mooney
     official_full: Alexander X. Mooney
   bio:
-    gender: M
+    gender: Male
     birthday: '1971-06-05'
   terms:
   - type: rep
@@ -39065,7 +39065,7 @@
     last: Jenkins
     official_full: Evan H. Jenkins
   bio:
-    gender: M
+    gender: Male
     birthday: '1960-09-12'
   terms:
   - type: rep
@@ -39089,10 +39089,10 @@
     wikipedia: Amata Coleman Radewagen
   name:
     first: Amata
-    last: Coleman Radewagen
+    last: C. Radewagen
     official_full: Amata Coleman Radewagen
   bio:
-    gender: F
+    gender: Female
     birthday: '1947-12-29'
   terms:
   - type: rep
@@ -39119,7 +39119,7 @@
     last: Sullivan
     official_full: Daniel Sullivan
   bio:
-    gender: M
+    gender: Male
     birthday: '1964-11-13'
   terms:
   - type: sen
@@ -39146,7 +39146,7 @@
     last: Perdue
     official_full: David Perdue
   bio:
-    gender: M
+    gender: Male
     birthday: '1949-12-10'
   terms:
   - type: sen
@@ -39174,7 +39174,7 @@
     last: Ernst
     official_full: Joni Ernst
   bio:
-    gender: F
+    gender: Female
     birthday: '1970-07-01'
   terms:
   - type: sen
@@ -39201,7 +39201,7 @@
     last: Tillis
     official_full: Thom Tillis
   bio:
-    gender: M
+    gender: Male
     birthday: '1960-08-30'
   terms:
   - type: sen
@@ -39228,7 +39228,7 @@
     last: Rounds
     official_full: Mike Rounds
   bio:
-    gender: M
+    gender: Male
     birthday: '1954-10-24'
   terms:
   - type: sen
@@ -39256,7 +39256,7 @@
     nickname: Mark
     official_full: Mark Walker
   bio:
-    gender: M
+    gender: Male
     birthday: '1969-05-20'
   terms:
   - type: rep
@@ -39286,7 +39286,7 @@
     nickname: Ben
     official_full: Ben Sasse
   bio:
-    gender: M
+    gender: Male
     birthday: '1972-02-22'
   terms:
   - type: sen
