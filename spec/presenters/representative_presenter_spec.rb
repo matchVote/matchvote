@@ -21,7 +21,7 @@ describe RepresentativePresenter do
 
   describe "#react_hash" do
     it "adds more keys to the normal model hash" do
-      presenter = subject.new(rep, user)
+      presenter = subject.new(rep)
       expect(presenter.react_hash.keys).to include(:full_name, :overall_match_percent)
     end
   end

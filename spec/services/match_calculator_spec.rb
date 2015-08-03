@@ -17,11 +17,13 @@ describe MatchCalculator do
 
   describe "#overall_percent" do
     it "finds overall percent of matching stances" do
-      expect(subject.new(citizen, rep).overall_percent.round(2)).to eq 0.79
+      percent = subject.new(citizen.stances, rep.stances).overall_percent.round(2)
+      expect(percent).to eq 0.79
     end
 
     it "returns 0 if NaN" do
-      expect(subject.new(build(:user), rep).overall_percent).to eq 0
+      percent = subject.new(build(:user).stances, rep.stances).overall_percent
+      expect(percent).to eq 0
     end
   end
 end
