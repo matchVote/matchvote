@@ -17,6 +17,7 @@
       React.DOM.br null
       React.DOM.strong null,
         React.DOM.select
+          name: "sort_field"
           ref: "sortField"
           className: "form-control"
           onChange: @filterDirectory

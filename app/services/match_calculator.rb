@@ -36,8 +36,6 @@ class MatchCalculator
 
   def shared_stances
     (@one + @two).group_by(&:statement_id).values
-    # Stance.where(opinionable_id: [@one.id, @two.id]).
-    #   group_by(&:statement_id).values
   end
 
   private

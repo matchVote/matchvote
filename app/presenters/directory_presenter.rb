@@ -10,29 +10,29 @@ class DirectoryPresenter
      ["Sort by State", "state"]]
   end
 
-  attr_reader :user
+#   attr_reader :user
 
-  def initialize(reps: nil, sort_by: default_sort, user: nil)
-    @sort_by = sort_by.present? ? sort_by : default_sort
-    @reps = reps
-    @user = user
-  end
+#   def initialize(reps: nil, sort_by: default_sort, user: nil)
+#     @sort_by = sort_by.present? ? sort_by : default_sort
+#     @reps = reps
+#     @user = user
+#   end
 
-  def reps
-    # present(sort_reps(@reps))
-    present(@reps)
-  end
+#   def reps
+#     # present(sort_reps(@reps))
+#     present(@reps)
+#   end
 
-  def sort_reps(reps)
-    RepSorter.new(reps, user).send(@sort_by)
-  end
+#   def sort_reps(reps)
+#     RepSorter.new(reps, user).send(@sort_by)
+#   end
 
-  def present(reps)
-    reps.map { |rep| RepresentativePresenter.new(rep, user).react_hash }
-  end
+#   def present(reps)
+#     reps.map { |rep| RepresentativePresenter.new(rep, user).react_hash }
+#   end
 
-  private
-    def default_sort
-      :popularity
-    end
+#   private
+#     def default_sort
+#       :popularity
+#     end
 end
