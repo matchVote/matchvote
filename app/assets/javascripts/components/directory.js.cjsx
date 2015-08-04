@@ -2,11 +2,14 @@
   increment: 50
 
   getInitialState: ->
-    reps: @props.reps
     multiplier: 1
+    filter: null
+    sort: "popularity"
 
   componentWillMount: ->
-    @setState reps: @paginate(@state.reps)
+    reps = @filterReps({filter: null, sort: @state.sort})
+    @setState
+      reps: @paginate(reps), @state.multiplier
 
   componentDidMount: ->
     @startScrollingPagination()
@@ -51,14 +54,17 @@
   # Callbacks
 
   filterDirectory: (params) ->
-    filteredReps = @searchDirectory(@props.reps, params.search)
-    sortedReps = @sortDirectory(filteredReps, params.sort)
-    @setState reps: sortedReps
+    @setState
+      filter: params.filter
+      sort: params.sort
+      multiplier: 1
+      reps: @paginate(@filterReps(params), 1)
 
   # Helpers
 
-  paginate: (reps) ->
-    reps.slice(0, @increment * @state.multiplier)
+  filterReps: (params) ->
+    filteredReps = @searchDirectory(@props.reps, params.filter)
+    @sortDirectory(filteredReps, params.sort)
 
   searchDirectory: (reps, query) ->
     reps.filter (rep) => @repNames(rep).match(new RegExp(query, "i"))
@@ -72,5 +78,12 @@
   startScrollingPagination: ->
     $(window).scroll =>
       if $(window).scrollTop() is $(document).height() - $(window).height()
-        @setState multiplier: @state.multiplier + 1
+        multiplier = @state.multiplier + 1
+        reps = @filterReps({filter: @state.filter, sort: @state.sort})
+        @setState
+          multiplier: multiplier
+          reps: @paginate(reps, multiplier)
+
+  paginate: (reps, multiplier) ->
+    reps.slice(0, @increment * multiplier)
 

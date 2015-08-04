@@ -34,6 +34,6 @@
 
   filterDirectory: (e) ->
     @props.filterDirectory
-      search: React.findDOMNode(@refs.searchField).value
+      filter: React.findDOMNode(@refs.searchField).value
       sort: React.findDOMNode(@refs.sortField).value
 
