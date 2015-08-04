@@ -1,8 +1,15 @@
 @Directory = React.createClass
-  perPage: 50
+  increment: 50
 
   getInitialState: ->
-    reps: @props.reps.slice(0, 50)
+    reps: @props.reps
+    multiplier: 1
+
+  componentWillMount: ->
+    @setState reps: @paginate(@state.reps)
+
+  componentDidMount: ->
+    @startScrollingPagination()
 
   render: ->
     <div className="directory_index">
@@ -45,9 +52,13 @@
 
   filterDirectory: (params) ->
     filteredReps = @searchDirectory(@props.reps, params.search)
-    @setState reps: @sortDirectory(filteredReps, params.sort)
+    sortedReps = @sortDirectory(filteredReps, params.sort)
+    @setState reps: sortedReps
 
   # Helpers
+
+  paginate: (reps) ->
+    reps.slice(0, @increment * @state.multiplier)
 
   searchDirectory: (reps, query) ->
     reps.filter (rep) => @repNames(rep).match(new RegExp(query, "i"))
@@ -57,4 +68,9 @@
   repNames: (rep) ->
     rep.first_name + rep.last_name + rep.middle_name +
       rep.nickname + rep.official_full_name
+
+  startScrollingPagination: ->
+    $(window).scroll =>
+      if $(window).scrollTop() is $(document).height() - $(window).height()
+        @setState multiplier: @state.multiplier + 1
 
