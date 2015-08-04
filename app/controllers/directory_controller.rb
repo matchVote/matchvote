@@ -12,24 +12,6 @@ class DirectoryController < ApplicationController
     @filter_count = reps.size
   end
 
-  # def old_index
-  #   @reps = DirectoryPresenter.new(
-  #     reps: Representative.includes(:stances),
-  #     user: current_user
-  #   ).reps.paginate(page: params[:page], per_page: per_page)
-  #   @sort_list = DirectoryPresenter.sort_list
-  #   @filter_count = Representative.count
-  # end
-
-  # def filter
-  #   reps = DirectoryPresenter.new(
-  #     reps: find_reps(params[:search]),
-  #     sort_by: params[:sort],
-  #     user: current_user
-  #   ).reps.paginate(page: params[:page], per_page: per_page)
-  #   render partial: "reps_list", locals: { reps: reps }
-  # end
-
   private
     def per_page
       50

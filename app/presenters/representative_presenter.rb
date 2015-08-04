@@ -101,11 +101,11 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def overall_match_percent
-    # (rep.overall_match_percent(@user) * 100).round.to_s << "%"
     (@match_percent * 100).round.to_s << "%"
   end
 
   # Forms
+
   def rep_options
     @rep_options ||= RepresentativeOptions.new
   end
