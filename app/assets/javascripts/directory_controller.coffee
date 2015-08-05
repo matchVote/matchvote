@@ -1,5 +1,5 @@
 $(document).on "page:change", ->
-  return unless $("#directory_index").length
+  # return unless $("#directory_index").length
   # new DirectoryController()
 
 class DirectoryController

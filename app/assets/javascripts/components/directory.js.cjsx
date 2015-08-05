@@ -2,6 +2,7 @@
   increment: 50
 
   getInitialState: ->
+    reps: []
     multiplier: 1
     filter: null
     sort: "popularity"
@@ -9,7 +10,7 @@
   componentWillMount: ->
     reps = @filterReps({filter: null, sort: @state.sort})
     @setState
-      reps: @paginate(reps), @state.multiplier
+      reps: @paginate(reps, @state.multiplier)
 
   componentDidMount: ->
     @startScrollingPagination()
