@@ -25,13 +25,14 @@ class MatchvoteDataCompiler
       orientation: rep["orientation"],
       profile_image_url: rep["profile_pic"],
       status: rep["rep_status"],
+      name_recognition: rep["name_recognition"],
       contact_attributes: {
         emails: Array(rep["email"]),
         phone_numbers: [rep["fax"], rep["tel"]].compact,
         contact_form_url: rep["contact_form_url"],
         website_url: rep["web"],
         postal_addresses_attributes: parse_address(rep["address"]),
-        external_ids: { 
+        external_ids: {
           facebook_username: parse_id(rep["facebook"]),
           twitter_username: parse_id(rep["twitter"]),
           youtube_username: parse_id(rep["youtube"]),

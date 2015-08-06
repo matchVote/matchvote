@@ -30,7 +30,7 @@ class LegislatorsDataCompiler
     { official_full_name: rep_data["name"]["official_full"],
       first_name: first_name_sanitized,
       last_name: last_name_sanitized,
-      middle_name: rep_data["name"]["middle"], 
+      middle_name: rep_data["name"]["middle"],
       nickname: rep_data["name"]["nickname"],
       suffix: rep_data["name"]["suffix"] }
   end
@@ -42,7 +42,7 @@ class LegislatorsDataCompiler
   end
 
   def terms
-    { party: latest_term["party"], 
+    { party: latest_term["party"],
       state: latest_term["state"],
       status: :in_office,
       state_rank: latest_term["state_rank"],
@@ -52,13 +52,13 @@ class LegislatorsDataCompiler
   end
 
   def contact
-    { contact_attributes: { 
+    { contact_attributes: {
         contact_form_url: latest_term["contact_form"],
         phone_numbers: Array(latest_term["phone"]),
         emails: [],
         website_url: latest_term["url"],
         postal_addresses_attributes: [parse_address(latest_term["address"])],
-        external_ids: { 
+        external_ids: {
           thomas_id: rep_data["id"]["thomas"],
           lis_id: rep_data["id"]["lis"],
           govtrack_id: rep_data["id"]["govtrack"],
