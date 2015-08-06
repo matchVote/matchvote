@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  devise_for :users, 
+  devise_for :users,
     path: :citizens,
     controllers: { registrations: "registrations" }
 
@@ -7,7 +7,7 @@ Rails.application.routes.draw do
 
   resources :representatives, only: [:edit, :update]
   get "/representative/:slug", to: "representatives#show", as: "rep"
-  get "/representatives/:id/edit/demographics", 
+  get "/representatives/:id/edit/demographics",
     to: "representatives#edit_demographics"
   post "/representatives/:id/edit/demographics",
     to: "representatives#update_demographics"
@@ -23,5 +23,7 @@ Rails.application.routes.draw do
   resources :news, only: [:index]
   resources :elections, only: [:index]
   get "/directory/filter", to: "directory#filter"
+
+  resources :rep_stances, only: [:index]
 end
 
