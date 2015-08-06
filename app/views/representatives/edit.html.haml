@@ -4,7 +4,7 @@
 
     .whitecard
       = image_tag @rep.profile_image_url, class: "profile_pic"
-      = link_to "Leave Edit Mode", rep_path(@rep.slug), 
+      = link_to "Leave Edit Mode", rep_path(@rep.slug),
         class: "btn btn-danger btn-sm pull-right"
       %div{data: { role: "biography_container" }}
         = render "bio_section", rep: @rep
@@ -39,15 +39,14 @@
         %br
         = address.city_state_zip
       %br
-      - @rep.contact.emails.each do |email|
-        = mail_to email, target: "_blank" do
-          %span= email
-        %br
-      %br
       - @rep.contact.phone_numbers.each do |number|
         %span.glyphicon.glyphicon-phone-alt
         = number
-        %br
+      %br
+      - if @rep.contact.contact_url
+        = button_tag id: "contact_button", class: "btn btn-default" do
+          = link_to "Contact", @rep.contact.contact_url, target: "_blank"
+      %br
       %br
       = link_to "Facebook", @rep.facebook_url, target: "_blank",
         class: "btn btn-default btn-sm"

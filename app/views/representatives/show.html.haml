@@ -19,7 +19,7 @@
         .profile_bio
           %p#short_bio= truncate(@rep.biography, length: 550)
           %p#full_bio{style: "display:none;"}= @rep.biography
-          = button_tag "Read Full Bio", 
+          = button_tag "Read Full Bio",
             class: "btn btn-sm btn-default bio_btn",
             data: { behavior: "toggle_bio" }
 
@@ -71,13 +71,14 @@
         %br
         = address.city_state_zip
       %br
-      - @rep.contact.emails_or_contact_form_url.each do |url|
-        = url
-      %br
       - @rep.contact.phone_numbers.each do |number|
         %span.glyphicon.glyphicon-phone-alt
         = number
-        %br
+      %br
+      - if @rep.contact.contact_url
+        = button_tag id: "contact_button", class: "btn btn-default" do
+          = link_to "Contact", @rep.contact.contact_url, target: "_blank"
+      %br
       %br
       = link_to "Facebook", @rep.facebook_url, target: "_blank",
         class: "btn btn-default btn-sm"
