@@ -15,7 +15,7 @@ feature "Directory match percentage" do
     directory.signin_and_visit
   end
 
-  scenario "shows match percent per rep", :js do
+  scenario "shows match percent per rep" do
     within "#joe-bob" do
       expect(directory).to have_content "62%"
     end

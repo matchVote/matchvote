@@ -1,19 +1,13 @@
 class RepresentativePresenter < SimpleDelegator
   include ActionView::Helpers
 
-  def initialize(rep, match_percent = 0)
-    @match_percent = match_percent
+  def initialize(rep, user = nil)
+    @user = user
     super(rep)
   end
 
   def rep
     @rep ||= __getobj__
-  end
-
-  def react_hash
-    rep.as_json.merge(
-      full_name: full_name,
-      overall_match_percent: overall_match_percent)
   end
 
   def non_formatted
@@ -53,7 +47,7 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def government_role
-    if rep.government_role.blank?
+    if rep.government_role.blank? 
       "N/A"
     else
       rep.government_role.split.map(&:capitalize).join(" ")
@@ -101,15 +95,14 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def overall_match_percent
-    (@match_percent * 100).round.to_s << "%"
+    (rep.overall_match_percent(@user) * 100).round.to_s << "%"
   end
 
   # Forms
-
   def rep_options
     @rep_options ||= RepresentativeOptions.new
   end
-
+   
   def demographic_options
     rep_options.demographic_options
   end

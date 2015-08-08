@@ -1,9 +1,9 @@
 class MatchCalculator
   WEIGHTS = { 0 => 1, 1 => 10, 2 => 25 }
 
-  def initialize(stances1, stances2)
-    @one = stances1
-    @two = stances2
+  def initialize(one, two)
+    @one = one
+    @two = two
   end
 
   def overall_percent
@@ -35,7 +35,8 @@ class MatchCalculator
   end
 
   def shared_stances
-    (@one + @two).group_by(&:statement_id).values
+    Stance.where(opinionable_id: [@one.id, @two.id]).
+      group_by(&:statement_id).values
   end
 
   private

@@ -1,0 +1,37 @@
+.row#directory_index
+  .filter_menu
+    .col-md-7
+      %h2 Find elected officials to follow
+      %h5
+        We'll keep you up to date with the news and political positions of the 
+        those you choose to follow.
+      %h5
+        = @filter_count
+        elected officials meet your search criteria.
+        Add more filters to refine your search.
+      .well.well-sm.filter_well
+        %a.btn.btn-default.disabled
+          .glyphicon.glyphicon-remove
+          Federal
+        %a.btn.btn-default
+          .glyphicon.glyphicon-remove
+          In Office
+
+        %a.btn.btn-danger.pull-right
+          .glyphicon.glyphicon-plus
+          Add Filter
+    .col-md-1
+    .col-md-4.filter_search
+      = text_field_tag :directory_search, nil, id: "directory_search_field",
+        class: "search_field", placeholder: "Search by name", required: "true"
+      %a#directory_search_button.pull-right.search_btn{title: "Search by name"}
+        %span.glyphicon.glyphicon-search
+      %br
+      %br
+      %strong
+        = select_tag "Sort", options_for_select(@sort_list),
+          class: "form-control",
+          id: "rep_sorter"
+
+.row#reps_container= render "reps_list", reps: @reps
+

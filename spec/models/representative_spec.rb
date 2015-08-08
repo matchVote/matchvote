@@ -4,12 +4,12 @@ require "support/helpers/stance_helper"
 describe Representative do
   subject { create(:representative) }
   let(:contact_params) do
-    { emails: ["one@email.com", "two@emails.com"],
+    { emails: ["one@email.com", "two@emails.com"], 
       phone_numbers: ["(123) 999-9999", "535-353-5353"],
       postal_addresses: [build(:postal_address, zip: "hey"), build(:postal_address)],
       website_url: "http://www.heythere.com" }
   end
-
+  
   describe "#update_or_create_contact" do
     context "when rep does not have a contact" do
       it "creates one" do
@@ -43,13 +43,28 @@ describe Representative do
 
     context "when rep has external ids" do
       it "updates the present keys" do
-        ids = { "twitter_username"  => "a new one",
-                "facebook_username" => "facebook",
+        ids = { "twitter_username"  => "a new one", 
+                "facebook_username" => "facebook", 
                 "youtube_username"  => "youtubes" }
         subject.contact.update(external_ids: ids)
         subject.update_external_ids("twitter_username" => "a new one")
         expect(subject.reload.contact.external_ids).to eq ids
       end
+    end
+  end
+
+  describe "#overall_match_percent" do
+    let(:user) { build(:user) }
+    let(:rep) { build(:representative) }
+
+    it "returns the overall match percent of user and rep" do
+      helper = StanceHelper.new
+      statements = helper.build_statements
+      user_stances = [[1, 1], [-1, 1], [0, 2], [-2, 1]]
+      rep_stances =  [[1, 2], [-2, 1], [0, 2], [ 3, 2]]
+      helper.create_stances_for(statements, user, user_stances)
+      helper.create_stances_for(statements, rep, rep_stances)
+      expect(rep.overall_match_percent(user)).to eq 0.78
     end
   end
 end

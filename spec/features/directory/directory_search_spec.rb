@@ -12,6 +12,8 @@ feature "Searching for reps by name" do
     directory.signin_and_visit
   end
 
+  it { is_expected.to have_content "Find elected officials" }
+
   scenario "displays reps matching first name", :js do
     directory.search_for "Jackson"
     expect(subject).to have_content "Jackson Franklin"
@@ -36,11 +38,11 @@ feature "Searching for reps by name" do
   end
 
   scenario "keeps the reps sorted by previous sort order", :js do
-    skip "React"
-    # select "Alphabetically", from: "sort_field"
-    # directory.search_for "Mannie"
-    # expect("Mannie Armstrong").to appear_before("Mannie Nunkle")
-    # expect("Mannie Nunkle").to appear_before("Mannie Sanders")
+    select "Alphabetically", from: "Sort"
+    directory.search_for "Mannie"
+    directory.wait_for_ajax
+    expect("Mannie Armstrong").to appear_before("Mannie Nunkle")
+    expect("Mannie Nunkle").to appear_before("Mannie Sanders")
   end
 end
 
