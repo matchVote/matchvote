@@ -98,7 +98,7 @@ namespace :reps do
     Representative.find_each do |rep|
       if (slug = rep.contact.external_ids["facebook_username"])
         results = Virility::Facebook.new("http://facebook.com/#{slug}").poll
-        unless rep.name_recognition > results["like_count"].to_i
+        unless rep.name_recognition.to_i > results["like_count"].to_i
           rep.update!(name_recognition: results["like_count"])
         end
       end
