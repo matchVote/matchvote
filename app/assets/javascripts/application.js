@@ -6,5 +6,9 @@
 //= require jasny-bootstrap.min
 //= require sweet-alert
 //= require init
+//= require rep_sorter
 //= require turbolinks
+//= require react
+//= require react_ujs
+//= require components
 //= require_tree .
