@@ -18,7 +18,7 @@
   render: ->
     <div className="directory_index">
       <div className="filter_menu">
-        <div className="col-md-7">
+        <div className="col-md-8">
           <h2>Find elected officials to follow</h2>
           <h5>
             We'll keep you up to date with the news and political positions of the
@@ -30,15 +30,15 @@
           </h5>
           <div className="well well-sm filter_well">
             <a className="btn btn-default disabled">
-              <div className="glyphicon glyphicon-remove"></div>
+              <span className="glyphicon glyphicon-remove"></span>
               Federal
             </a>
             <a className="btn btn-default">
-              <div className="glyphicon glyphicon-remove"></div>
+              <span className="glyphicon glyphicon-remove"></span>
               In Office
             </a>
             <a className="btn btn-danger pull-right">
-              <div className="glyphicon glyphicon-plus"></div>
+              <span className="glyphicon glyphicon-plus"></span>
               Add Filter
             </a>
           </div>
@@ -87,4 +87,3 @@
 
   paginate: (reps, multiplier) ->
     reps.slice(0, @increment * multiplier)
-

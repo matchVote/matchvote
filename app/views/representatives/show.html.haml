@@ -74,12 +74,11 @@
       - @rep.contact.phone_numbers.each do |number|
         %span.glyphicon.glyphicon-phone-alt
         = number
-      %br
       - if @rep.contact.contact_url
-        = button_tag id: "contact_button", class: "btn btn-default" do
-          = link_to "Contact", @rep.contact.contact_url, target: "_blank"
-      %br
-      %br
+        = button_tag id: "contact_button", class: "btn btn-link" do
+          %span.glyphicon.glyphicon-send
+          = link_to "Email", @rep.contact.contact_url, target: "_blank"
+      %hr
       = link_to "Facebook", @rep.facebook_url, target: "_blank",
         class: "btn btn-default btn-sm"
       = link_to "Twitter", @rep.twitter_url, target: "_blank",
