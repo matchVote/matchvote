@@ -569,6 +569,32 @@
   wiki: http://en.wikipedia.org/wiki/Jeb_bush
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Jeb_Bush.png
 
+- rep_status: Running
+  state: DC
+  title: Candidate
+  first_name: Lawrence
+  middle_name:
+  last_name: Lessig
+  nick_name: Larry
+  address: PO Box 75357, Washington, DC 20002
+  fax:
+  tel:
+  email: lessig_from_web@pobox.com
+  web: https://lessig2016.us/
+  took_office:
+  term_ends:
+  party: I
+  branch: executive
+  gender: Male
+  birthday: 1961-06-03
+  religion:
+  orientation: Straight
+  facebook: https://www.facebook.com/Lessig2016
+  twitter: https://twitter.com/lessig2016
+  youtube: https://www.youtube.com/channel/UCort472K4xvh7glSQURyARA
+  wiki: https://en.wikipedia.org/wiki/Lawrence_Lessig
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Larry_Lessig.png
+
 - rep_status: In Office
   state: DC
   title: Chief Justice
@@ -802,4 +828,3 @@
   youtube:
   wiki: https://en.wikipedia.org/wiki/Elena_Kagan
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Elena_Kagan.png
-
