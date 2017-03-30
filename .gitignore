@@ -5,4 +5,7 @@
 /public/uploads/tmp/
 .env
 /coverage
-
+_build
+node_modules
+priv
+deps
