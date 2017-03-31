@@ -1,5 +1,4 @@
 source "https://rubygems.org"
-ruby "2.2.1"
 
 gem "awesome_print", "~> 1.6.1"
 gem "bcrypt", "~> 3.1.10"

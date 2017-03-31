@@ -4,6 +4,11 @@
 matchVote keeps you up-to-date with what's happening in politics by finding 
 the politicians that agree and disagree with what's important to you.
 
+#### Docker Setup
+    bin/build              # creates containers
+    bin/setup              # creates DB, migrates, seeds
+    docker-compose up web  # starts containers
+
 #### Development Setup  
     brew install phantomjs                     # needed for tests
     bin/setup
