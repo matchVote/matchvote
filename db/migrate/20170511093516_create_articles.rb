@@ -10,6 +10,7 @@ class CreateArticles < ActiveRecord::Migration
       t.text :summary
       t.string :mentioned_officials, array: true, default: '{}'
       t.integer :read_time
+      t.integer :newsworthiness_count
       t.timestamps
     end
 

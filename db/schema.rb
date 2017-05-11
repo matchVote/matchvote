@@ -20,13 +20,14 @@ ActiveRecord::Schema.define(version: 20170511093516) do
 
   create_table "articles", primary_key: "url", force: :cascade do |t|
     t.text     "title"
-    t.string   "authors",             default: [],              array: true
-    t.text     "publisher",                        null: false
+    t.string   "authors",              default: [],              array: true
+    t.text     "publisher",                         null: false
     t.datetime "date_published"
-    t.string   "keywords",            default: [],              array: true
+    t.string   "keywords",             default: [],              array: true
     t.text     "summary"
-    t.string   "mentioned_officials", default: [],              array: true
+    t.string   "mentioned_officials",  default: [],              array: true
     t.integer  "read_time"
+    t.integer  "newsworthiness_count"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
