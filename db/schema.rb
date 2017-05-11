@@ -11,12 +11,25 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150702005348) do
+ActiveRecord::Schema.define(version: 20170511093516) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
   enable_extension "hstore"
   enable_extension "uuid-ossp"
+
+  create_table "articles", primary_key: "url", force: :cascade do |t|
+    t.text     "title"
+    t.string   "authors",             default: [],              array: true
+    t.text     "publisher",                        null: false
+    t.datetime "date_published"
+    t.string   "keywords",            default: [],              array: true
+    t.text     "summary"
+    t.string   "mentioned_officials", default: [],              array: true
+    t.integer  "read_time"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "contacts", force: :cascade do |t|
     t.text     "emails",           array: true
