@@ -132,7 +132,13 @@
   -webkit-transition: .5s ease-out
   -webkit-filter: grayscale(0)
   &:hover
-    -webkit-filter: grayscale(1)
+    -webkit-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.3)
+    -moz-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.3)
+    box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.3)
+    position: relative
+    top: -1px
+    -webkit-filter: brightness(1.10)
+    cursor: pointer
 
 .logout-button
   margin: 0 20px 0 10px
@@ -181,6 +187,7 @@
 body
   padding-top: 50px
   background-color: #eee
+  font-size: 14px
 
 .footer-links
   color: #dbdbdb
@@ -193,7 +200,7 @@ body
     color: #dbdbdb
 
 .copyright
-  margin-right: 100px
+  margin-right: 50px
 
 .faded
   -webkit-filter: opacity(.25)
@@ -202,7 +209,6 @@ body
 //Bootstrap Modifications
 .btn
   border-radius: 20px
-  margin-left: 5px
 
 .btn:focus, .btn:active:focus, .btn.active:focus,
 .btn.focus, .btn:active.focus, .btn.active.focus

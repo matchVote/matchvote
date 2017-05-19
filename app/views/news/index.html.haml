@@ -3,123 +3,73 @@
     %br
     .newscard
       .row
-        .btn.btn-default.btn-xs.glyphicon.glyphicon-bookmark.pull-right{title:"Bookmark Article"}
-        .btn-group-vertical.vote-btn.pull-left
-          .btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title:"Upvote"}
+        .btn-group-vertical.news-vote-btn.pull-right
+          .btn.btn-md.glyphicon.glyphicon-circle-arrow-up{title:"Upvote"}
           .news-vote-count 1582
-          .btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title:"Downvote"}
+          .btn.btn-md.glyphicon.glyphicon-circle-arrow-down{title:"Downvote"}
         .news-title
-          %h2 More U.S. adults describe themselves as "pro-choice" than "pro-life" for the first time in seven years, according to a new Gallup poll.
+          %h3 Trump Issues Threat to Conservative House Faction
           .news-author
-            By Peter Sullivan at The Hill
-            %span.pull-right 5/29/2015 @ 9:27am
+            By Glenn Thrush at The New York Times
+            %span.news-date 3/30/2017 @ 9:27am
           %hr
-          .news-summary
-            .col-md-8
-              %h5 OVERVIEW
+        .news-summary
+          .col-md-7
+            .well
               %ul
-                %li The poll finds that 50 percent support abortion rights and 44 percent oppose them.
-                %li House Republicans were forced to pull a 20-week abortion ban earlier this year over concerns from some women Republican lawmakers about a requirement that rape be reported to the police to qualify for the ban’s exemption.
-                %li Twenty-nine percent of adults say abortion should be legal in all circumstances, and 19 percent in no circumstances.
-            .col-md-4
+                %li President Trump took to Twitter to say that the Freedom Caucus, a group of the most conservative Republicans in the House, is hurting the party’s agenda.
+                %li “We must fight them” in 2018, he said, days after the faction helped kill his health care overhaul, imperiling Mr. Trump’s other priorities.
+                %li Over the past few days, Mr. Trump has lurched between battering and buttering up conservatives who killed his health care overhaul in an agenda-scuttling insurrection that imperils his plans for tax reform and a trillion-dollar infrastructure package.
+            %center
+              .btn.btn-xs.btn-danger
+                6 min Read
+              .btn.btn-xs.btn-default
+                1,427 Comments
+              .btn.btn-xs.btn-default
+                .glyphicon.glyphicon-share{title:"Share"}
+              .btn.btn-xs.btn-default
+                .glyphicon.glyphicon-bookmark{title:"Bookmark Article"}
+          .col-md-5
+            .news-mentions
               %center
-                .row
-                  .btn.btn-primary.btn-xs
-                    Read Article
-                  .btn.btn-danger.btn-xs
-                    237 Comments
-                .news-mentions
-                  %h5 MENTIONS
-                  = render "devise/sessions/landingpics"
-    .newscard
-      .row
-        .btn.btn-default.btn-xs.glyphicon.glyphicon-bookmark.pull-right{title:"Bookmark Article"}
-        .btn-group-vertical.vote-btns.pull-left
-          .btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title:"Upvote"}
-          .news-vote-count 1343
-          .btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title:"Downvote"}
-        .news-title
-          %h2 Bernie Sanders Calls For Early Presidential Debates With Democrats, Republicans
-          .news-author
-            By Igor Bobic at Huffington Post
-            %span.pull-right 5/31/2015 @ 12:12pm
-          %hr
-          .news-summary
-            .col-md-8
-              %h5 OVERVIEW
+                %h5 Based on this news, what do you think of Donald Trump?
+                .btn.btn-default.btn-sm
+                  Support
+                = image_tag "http://data.matchvote.com/images/2015/highprofile/Donald_Trump.png",
+                  class: "img", title: "Donald Trump"
+                .btn.btn-default.btn-sm
+                  Oppose
+              %hr
+            .news-topics
               %ul
-                %li Sen. Bernie Sanders (I-Vt.) on Sunday called for early presidential debates between both Democrats and Republicans to discuss critical issues ahead of the 2016 primary season.
-                %li A spokesman for the senator's campaign added in a statement that including Republicans "could revive interest among ordinary voters in the democratic process."
-                %li Republicans are scheduled to hold their first primary debate, hosted by Fox News, in August.
-            .col-md-4
-              %center
-                .row
-                  .btn.btn-primary.btn-xs
-                    Read Article
-                  .btn.btn-danger.btn-xs
-                    43 Comments
-                .news-mentions
-                  %h5 MENTIONS
-                  = render "devise/sessions/landingpics"
-
-    .newscard
-      .row
-        .btn.btn-default.btn-xs.glyphicon.glyphicon-bookmark.pull-right{title:"Bookmark Article"}
-        .btn-group-vertical.vote-btns.pull-left
-          .btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title:"Upvote"}
-          .news-vote-count 1267
-          .btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title:"Downvote"}
-        .news-title
-          %h2 One big reason America was far more equal in the 1950s and 1960s than now is unions were stronger then.
-          .news-author
-            By Robert Reich at robertreich.org
-            %span.pull-right 5/28/2015
-          %hr
-          .news-summary
-            .col-md-8
-              %h5 OVERVIEW
-              %ul
-                %li In fact, wages in right-to-work states are lower on average than wages in non-right-to-work states, by an average of about $1500 a year.
-                %li When unions are weakened by right-to-work laws, all of a state’s workers are hurt.
-                %li If we want average Americans to get a fair share of the gains from economic growth, they need to be able to unionize.
-            .col-md-4
-              %center
-                .row
-                  .btn.btn-primary.btn-xs
-                    Read Article
-                  .btn.btn-danger.btn-xs
-                    143 Comments
-                .news-mentions
-                  %h5 MENTIONS
-                  = render "devise/sessions/landingpics"
-  .col-md-3
+                %li
+                  %a Healthcare
+                %li
+                  %a Budget
+                %li
+                  %a Executive Branch
+  .col-md-3.hidden-sm
     .news-sidebar
       .news-filter
         %center
-          %h5
+          %h4
             Top News for
             = Date.today.strftime("%B")
             = Time.now.day.ordinalize
             = Time.now.year
         %select.form-control.signup-field
-          %option Show News for Followed Reps
           %option Show All News
+          %option Show News for Followed Reps
         %select.form-control.signup-field
           %option Sort News by Highest Rank
-          %option Sort News by Recently Published
+          %option Sort News by Newest
           %option Sort News by Comment Count
       .news-widget
         .glyphicon.glyphicon-calendar
         %strong &nbsp Browse Older News
       .news-widget
-        .glyphicon.glyphicon-signal
-        %strong &nbsp Trending Forum Discussions
-      .news-widget
-        .glyphicon.glyphicon-user
-        %strong &nbsp Representatives to Follow
-      .news-widget
         .glyphicon.glyphicon-bullhorn
-        %strong &nbsp Upcoming Townhalls
+        %strong &nbsp Filter by Publisher
       .news-widget
         .glyphicon.glyphicon-bookmark
         %strong &nbsp Bookmarked Articles
