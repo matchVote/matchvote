@@ -83,11 +83,6 @@ Rep Terms?
 > * Statements
 >   * Declarative text (limit character count?): Limited to 256
   
->   -Rep User Type also has
->   * Supporting Quote URL
->   * Inferred/Verified State
->   * Researcher name who made inferrence
-  
 >   -Citizen User Type also has
 >   * Alignment Importance with Rep (0, 1, 2, 3, 4, 5)
 >   * Agreement with Researcher Inferrence
