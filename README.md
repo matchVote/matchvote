@@ -35,16 +35,14 @@ Profile
 * Directory
     * Sort: 
         * Most Similar/Least similar
-        * Approval Rating
-        * State
+        * Approval Rating - Tied to Census Pulse
     * Filter  
       * Finalize hierarchy
 * Rep profile/admin
     * Follow
-    * Read full bio
-    * Rate rep
+    * Rate Rep / Approval Rating
     * Comments
-    * Recent News
+    * Recent News - Pulled from News Feeder
     * Presentation of absent contact info
 * News Feed
   * Articles
@@ -64,14 +62,12 @@ Profile
     * Data:
         * Matchdata Files: term_end, took_office for seniority
         * Bio Errors: Evan Jenkins, French Hill, Luis Gutierrez
-        * Donor data
 * Misc frontend
     * add SweetAlerts
     * Remove social media links if reps don't have an account
     * New styling of Rep Profile Contact Info
     * Style create account page
     * Style forgot password form
-    * Style sign up form
     * Refine Stances/Quiz views
     * Build GUI for admins to edit Representative profiles
 * Test
