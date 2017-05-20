@@ -209,6 +209,8 @@ body
 //Bootstrap Modifications
 .btn
   border-radius: 20px
+  box-shadow: 0 3px 5px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08)
+  margin: 0 2px 0 2px
 
 .btn:focus, .btn:active:focus, .btn.active:focus,
 .btn.focus, .btn:active.focus, .btn.active.focus
@@ -237,9 +239,15 @@ body
   background: -o-linear-gradient(#dd4e4c, #b03e3c)
   background: -moz-linear-gradient(#dd4e4c, #b03e3c)
   background: linear-gradient(#dd4e4c, #b03e3c)
-  border: 1px solid #b03e3c
+  border: 0px solid #b03e3c
   &:hover
     background: #dd4e4c
+
+.btn-default
+  border: 0px
+  &:hover
+    background: #f9f9f9
+    box-shadow: 0 4px 6px rgba(50,50,93,.22), 0 1px 3px rgba(0,0,0,.08)
 
 .btn-primary
   background: -webkit-linear-gradient(#407db0, #386d9a)

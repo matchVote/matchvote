@@ -4,9 +4,104 @@
     .newscard
       .row
         .btn-group-vertical.news-vote-btn.pull-right
-          .btn.btn-md.glyphicon.glyphicon-circle-arrow-up{title:"Upvote"}
+          .btn.btn-md.glyphicon.glyphicon-circle-arrow-up{title:"Newsworthy"}
+          .news-vote-count 2743
+          .btn.btn-md.glyphicon.glyphicon-circle-arrow-down{title:"Not Newsworthy"}
+        .news-title
+          %h3 Amid Trump Turmoil, Some Begin Eyeing Mike Pence
+          .news-author
+            By Linda Qiu at The New York Times
+            %span.news-date 5/18/2017 @ 10:33am
+          %hr
+        .news-summary
+          .col-md-7
+            .well
+              %ul
+                %li Mr. Trump contradicted Deputy Attorney General Rod J. Rosenstein and his own earlier statement on firing Mr. Comey.
+                %li He misleadingly claimed that ‘everybody, even my enemies, has said there is no collusion.’
+                %li Mr. Comey and Sally Q. Yates, the former acting attorney general, two officials with direct knowledge of the investigation, have declined to state whether there is evidence of collusion.
+            %center
+              .btn.btn-sm.btn-danger
+                4 min Read
+              .btn.btn-sm.btn-default
+                583 Comments
+              .btn.btn-sm.btn-default
+                .glyphicon.glyphicon-share{title:"Share"}
+              .btn.btn-sm.btn-default
+                .glyphicon.glyphicon-bookmark{title:"Bookmark Article"}
+          .col-md-5
+            .news-mentions
+              %center
+                %h5 Do you think Mike Pence would make a good President?
+                .btn.btn-default.btn-sm
+                  Support
+                = image_tag "http://data.matchvote.com/images/2015/governors/Mike_Pence.png",
+                  class: "img", title: "Mike Pence"
+                .btn.btn-default.btn-sm
+                  Oppose
+              %hr
+            .news-topics
+              %ul
+                %li
+                  %a Healthcare
+                %li
+                  %a Budget
+                %li
+                  %a Executive Branch
+    .newscard
+      .row
+        .btn-group-vertical.news-vote-btn.pull-right
+          .btn.btn-md.glyphicon.glyphicon-circle-arrow-up{title:"Newsworthy"}
+          .news-vote-count 1253
+          .btn.btn-md.glyphicon.glyphicon-circle-arrow-down{title:"Not Newsworthy"}
+        .news-title
+          %h3 Montana Democrat closes with health-care message in closely watched congressional race
+          .news-author
+            By David Weigel at The Washington Post
+            %span.news-date 5/19/2017 @ 1:22pm
+          %hr
+        .news-summary
+          .col-md-7
+            .well
+              %ul
+                %li The much-anticipated Congressional Budget Office score on the GOP’s American Health Care Act will be released on Wednesday.
+                %li One day later, the polls will close in Montana’s special election for the state’s sole House seat, which pits Democratic musician Rob Quist against Republican businessman Greg Gianforte.
+                %li Quist, a populist who is campaigning with Sen. Bernie Sanders (I-Vt.) this weekend, has aggressively run against the AHCA, dubbing it a “tax cut for millionaires.”
+            %center
+              .btn.btn-xs.btn-danger
+                8 min Read
+              .btn.btn-xs.btn-default
+                283 Comments
+              .btn.btn-xs.btn-default
+                .glyphicon.glyphicon-share{title:"Share"}
+              .btn.btn-xs.btn-default
+                .glyphicon.glyphicon-bookmark{title:"Bookmark Article"}
+          .col-md-5
+            .news-mentions
+              %center
+                %h5 How do you think the American Health Care Act will affect you?
+                .btn.btn-default.btn-sm
+                  Positively
+                .btn.btn-default.btn-sm
+                  Neutral
+                .btn.btn-default.btn-sm
+                  Negatively
+              %hr
+            .news-topics
+              %ul
+                %li
+                  %a Healthcare
+                %li
+                  %a Budget
+                %li
+                  %a Executive Branch
+
+    .newscard
+      .row
+        .btn-group-vertical.news-vote-btn.pull-right
+          .btn.btn-md.glyphicon.glyphicon-circle-arrow-up{title:"Newsworthy"}
           .news-vote-count 1582
-          .btn.btn-md.glyphicon.glyphicon-circle-arrow-down{title:"Downvote"}
+          .btn.btn-md.glyphicon.glyphicon-circle-arrow-down{title:"Not Newsworthy"}
         .news-title
           %h3 Trump Issues Threat to Conservative House Faction
           .news-author
