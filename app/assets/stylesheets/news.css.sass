@@ -51,7 +51,7 @@
   border: 1px solid #ddd
   max-height: 85%
   max-width: 85%
-  opacity: (0.97)
+  opacity: (0.95)
   position: absolute
   top: 0px
   display: inline-block
@@ -77,6 +77,14 @@
 .btn-group-vertical
   .btn
     box-shadow: none
+    &:active
+      box-shadow: none
+  .glyphicon-circle-arrow-up
+    &:hover
+      color: #999
+  .glyphicon-circle-arrow-down
+    &:hover
+      color: #999
 
 .news-vote-count
   font-size: 16px
@@ -144,12 +152,17 @@
 
 // Sidebar
 
-
 .news-sidebar
   padding-top: 40px
   height: 100%
   width: auto
+  opacity: (0.5)
   position: fixed
+  &:hover
+    opacity: (1)
+    -webkit-transition: .4s ease-out
+    -moz-transition: .4s ease-out
+    transition: .4s ease-out
 
 .news-sort
   background: #eee
