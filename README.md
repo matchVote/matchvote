@@ -49,10 +49,21 @@ Profile
     * Author
     * Date
     * News Organization
-    * Upvote/Downvote Score
+    * Newsworthiness Score
     * Topics Covered (pulled from IssueCategories:Related Keywords)
     * Summary
     * Comments
+  * Filtering & Sorting
+    * Topic/Category
+    * Mentioned Official
+    * Publisher
+    * Author (not current priority)
+    * Date
+    * Newsworthiness
+    * Comment Count
+    * Most Read
+    * Most Shared
+    * Most Bookmarked
 * Citizen profile/editing
   * Profile image
 * Misc backend
