@@ -30,16 +30,16 @@
           </h5>
           <div className="well well-sm filter_well">
             <a className="btn btn-default disabled">
-              <span className="glyphicon glyphicon-remove"></span>
-              Federal
+              <span className="glyphicon glyphicon-minus-sign"></span>
+              &nbsp;Federal
             </a>
             <a className="btn btn-default">
-              <span className="glyphicon glyphicon-remove"></span>
-              In Office
+              <span className="glyphicon glyphicon-minus-sign"></span>
+              &nbsp;In Office
             </a>
             <a className="btn btn-danger pull-right">
-              <span className="glyphicon glyphicon-plus"></span>
-              Add Filter
+              <span className="glyphicon glyphicon-plus-sign"></span>
+              &nbsp;Add Filter
             </a>
           </div>
         </div>

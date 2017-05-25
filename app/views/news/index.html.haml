@@ -6,32 +6,51 @@
           %h4
             Top News for
             = Date.today.strftime("%B")
-            = Time.now.day.ordinalize
+            = Time.now.day.ordinalize + ","
             = Time.now.year
         %select.form-control.signup-field
           %option Show All News
-          %option Show News for Followed Reps
+          %option Show News for Followed Reps Only
         %select.form-control.signup-field
           %option Sort News by Highest Rank
           %option Sort News by Newest
+          %option Sort News by Most Read
           %option Sort News by Comment Count
       %center
         %br
         .btn.btn-default
-          .glyphicon.glyphicon-calendar
+          .glyphicon.glyphicon-calendar{title:"View Historical News"}
           %strong &nbsp Past News
         .btn.btn-default
-          .glyphicon.glyphicon-bookmark
+          .glyphicon.glyphicon-bookmark{title:"View Your Bookmarked Articles"}
           %strong &nbsp Bookmarks
         %br
         %br
         .well
           %h5
             Add Filters to Narrow the News
+          .article_count
+            Viewing 1,734 articles from
+            %a{ href: "https://matchvote.com/publications", title: "Where we retrieve news" }
+              87 sources
+            %br
+            for
+            = Date.today.strftime("%B")
+            = Time.now.day.ordinalize + ","
+            = Time.now.year
+            -# Include below only on current day's news
+            as of
+            = Time.now.strftime("%l:%M%p")
+
           %hr
           .btn.btn-danger
-            %span.glyphicon.glyphicon-plus
+            %span.glyphicon.glyphicon-plus-sign{title:"Narrow the News"}
             Add Filter
+          .btn.btn-default
+            %span.glyphicon.glyphicon-minus-sign{title:"Clear All Filters"}
+            Clear Filters
+
+
   .col-md-9
     %br
     .newscard
@@ -62,8 +81,10 @@
                 583 Comments
               .btn.btn-sm.btn-default
                 .glyphicon.glyphicon-share{title:"Share"}
+                Share
               .btn.btn-sm.btn-default
                 .glyphicon.glyphicon-bookmark{title:"Bookmark Article"}
+                Bookmark
           .col-md-5
             .news-mentions
               %center
