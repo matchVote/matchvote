@@ -8,16 +8,67 @@ matchVote lets you automatically follow the political positions and news for ele
     bin/setup              # creates DB, migrates, seeds
     docker-compose up web  # starts containers
 
-#### Development Setup  
-    brew install phantomjs                     # needed for tests
-    bin/setup
-    bundle exec rake import:all_default_data
-    rspec                                      # to make sure all is well
-
 #### Deployment Process
     bundle exec rake deploy:heroku
     heroku run rake import:all_default_data    # Full data load
     heroku run rake reps:import_default_data   # Just representative data
+
+### TODO
+* News Feed
+  * Articles
+    * Topics Covered (pulled from IssueCategories:Related Keywords)
+    * Comments
+    * Share
+    * Bookmark
+    * Truncated stance questions
+  * Filtering
+    * Topic/Category
+    * Mentioned Official
+    * Publisher
+    * Author (not current priority)
+    * Publish Date
+    * Newsworthiness
+  * Sorting
+    * Newsworthiness
+    * Publish Date
+    * Comment Count
+    * Most Read
+    * Most Shared
+    * Most Bookmarked
+* Directory
+  * Sort: 
+    * Most Similar/Least similar
+    * Approval Rating - Tied to Census Pulse
+    * Name Recognition currently broken due to Virility/Facebook API deprecation:
+      "REST API is deprecated for versions v2.1 and higher (12)"
+      Virility gem has been updated but not pushed to Rubygems so the update is not available
+  * Filter  
+    * Finalize hierarchy
+* Rep profile/admin
+  * Follow
+  * Rate Rep / Approval Rating
+  * Comments
+  * Recent News - Pulled from News Feeder
+  * Presentation of absent contact info
+* Citizen profile/editing
+  * Profile image
+* Misc backend
+  * Send email to admin if user signs up as rep/admin
+  * Setup email for forgotten password
+  * Sign in with facebook/twitter (omniauth)
+  * Data:
+    * Matchdata Files: term_end, took_office for seniority
+    * Bio Errors: Evan Jenkins, French Hill, Luis Gutierrez
+* Misc frontend
+  * add SweetAlerts
+  * Remove social media links if reps don't have an account
+  * New styling of Rep Profile Contact Info
+  * Style create account page
+  * Style forgot password form
+  * Refine Stances/Quiz views
+  * Build GUI for admins to edit Representative profiles
+* Test
+  * LegislatorsDataCompiler
 
 #### Rep Hierarchy
 All ->  
@@ -30,62 +81,6 @@ Profile
   * Congress Legistators - https://github.com/unitedstates/congress-legislators
   * Federal Donor Data - https://www.opensecrets.org/resources/create/apis.php
   * State Donor Data - http://www.followthemoney.org/our-data/apis/
-
-### TODO
-* Directory
-    * Sort: 
-        * Most Similar/Least similar
-        * Approval Rating - Tied to Census Pulse
-        * Name Recognition currently broken due to Virility/Facebook API deprecation:
-          "REST API is deprecated for versions v2.1 and higher (12)"
-          Virility gem has been updated but not pushed to Rubygems so the update is not available
-    * Filter  
-      * Finalize hierarchy
-* Rep profile/admin
-    * Follow
-    * Rate Rep / Approval Rating
-    * Comments
-    * Recent News - Pulled from News Feeder
-    * Presentation of absent contact info
-* News Feed
-  * Articles
-    * Author
-    * Date
-    * News Organization
-    * Newsworthiness Score
-    * Topics Covered (pulled from IssueCategories:Related Keywords)
-    * Summary
-    * Comments
-  * Filtering & Sorting
-    * Topic/Category
-    * Mentioned Official
-    * Publisher
-    * Author (not current priority)
-    * Date
-    * Newsworthiness
-    * Comment Count
-    * Most Read
-    * Most Shared
-    * Most Bookmarked
-* Citizen profile/editing
-  * Profile image
-* Misc backend
-    * Send email to admin if user signs up as rep/admin
-    * Setup email for forgotten password
-    * Sign in with facebook/twitter (omniauth)
-    * Data:
-        * Matchdata Files: term_end, took_office for seniority
-        * Bio Errors: Evan Jenkins, French Hill, Luis Gutierrez
-* Misc frontend
-    * add SweetAlerts
-    * Remove social media links if reps don't have an account
-    * New styling of Rep Profile Contact Info
-    * Style create account page
-    * Style forgot password form
-    * Refine Stances/Quiz views
-    * Build GUI for admins to edit Representative profiles
-* Test
-    * LegislatorsDataCompiler
 
 #### NOTES
 Rep Terms?  

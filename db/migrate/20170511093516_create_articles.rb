@@ -5,7 +5,7 @@ class CreateArticles < ActiveRecord::Migration
       t.text :title
       t.string :authors, array: true, default: '{}'
       t.text :publisher, null: false
-      t.datetime :date_published
+      t.text :date_published
       t.string :keywords, array: true, default: '{}'
       t.text :summary
       t.string :mentioned_officials, array: true, default: '{}'
