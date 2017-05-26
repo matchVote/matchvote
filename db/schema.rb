@@ -18,7 +18,8 @@ ActiveRecord::Schema.define(version: 20170511093516) do
   enable_extension "hstore"
   enable_extension "uuid-ossp"
 
-  create_table "articles", primary_key: "url", force: :cascade do |t|
+  create_table "articles", force: :cascade do |t|
+    t.text     "url",                               null: false
     t.text     "title"
     t.string   "authors",              default: [],              array: true
     t.text     "publisher",                         null: false
@@ -31,6 +32,8 @@ ActiveRecord::Schema.define(version: 20170511093516) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  add_index "articles", ["url"], name: "index_articles_on_url", unique: true, using: :btree
 
   create_table "contacts", force: :cascade do |t|
     t.text     "emails",           array: true

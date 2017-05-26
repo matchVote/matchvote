@@ -1,7 +1,7 @@
 class CreateArticles < ActiveRecord::Migration
   def up
-    create_table :articles, id: false do |t|
-      t.text :url
+    create_table :articles do |t|
+      t.text :url, null: false
       t.text :title
       t.string :authors, array: true, default: '{}'
       t.text :publisher, null: false
@@ -14,7 +14,7 @@ class CreateArticles < ActiveRecord::Migration
       t.timestamps
     end
 
-    execute "ALTER TABLE articles ADD PRIMARY KEY (url)"
+    add_index :articles, :url, unique: true
   end
 
   def down

@@ -53,8 +53,10 @@
 
   .col-md-9
     %br
-    - @articles.each do |article|
-      = render "newscard", article: article
+
+    #article-list
+      - @articles.each do |article|
+        = render "newscard", article: article
 
     .newscard
       .row

@@ -1,11 +1,13 @@
 .newscard
+  = hidden_field_tag "article-id", article.id, id: "article-id"
   .row
     .btn-group-vertical.news-vote-btn.pull-right
-      .btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title:"Newsworthy"}
+      #upvote.btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title:"Newsworthy"}
       .news-vote-count= article.newsworthiness_count
-      .btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title:"Not Newsworthy"}
+      #downvote.btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title:"Not Newsworthy"}
     .news-title
-      %h3= article.title
+      = link_to article.url do
+        %h3= article.title
       .news-author
         = article.authored_by
         %span.news-date= article.published
@@ -19,7 +21,8 @@
             - article.summary_points.each do |sp|
               %li= sp
         %center
-          .btn.btn-sm.btn-danger= article.read_time
+          = link_to article.url, style: "text-decoration: none" do
+            .btn.btn-sm.btn-danger= article.read_time
           .btn.btn-sm.btn-default 583 Comments
           .btn.btn-sm.btn-default
             .glyphicon.glyphicon-share{title:"Share"}

@@ -19,15 +19,17 @@ matchVote lets you automatically follow the political positions and news for ele
     * Topics Covered (pulled from IssueCategories:Related Keywords)
     * Comments
     * Share
-    * Bookmark
     * Truncated stance questions
+    * Newsworthiness rating (how to limit this?)
   * Filtering
+    * Bookmark
     * Topic/Category
     * Mentioned Official
     * Publisher
     * Author (not current priority)
     * Publish Date
     * Newsworthiness
+    * Add filter
   * Sorting
     * Newsworthiness
     * Publish Date
