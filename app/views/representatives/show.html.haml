@@ -8,7 +8,7 @@
       = render "edit_button", rep: @rep if policy(@rep).edit?
       %div{data: { role: "biography_container" }}
         .profile_name
-          .btn.btn-default.pull-right
+          .btn.btn-primary.pull-right
             %span.glyphicon.glyphicon-ok-circle
             Follow
           %h2= @rep.full_name
@@ -61,8 +61,8 @@
       %a.btn.btn-default
         Read Comments
 
-    .profile_tweet
-      =image_tag "http://www.iconsdb.com/icons/preview/white/twitter-xxl.png", :class => "twitterbird"
+    -# .profile_tweet
+      %span Tweet
 
     .well.widget
       %h3

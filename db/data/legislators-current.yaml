@@ -182,6 +182,7 @@
   name:
     first: Benjamin
     middle: L.
+    nickname: Ben
     last: Cardin
     official_full: Benjamin L. Cardin
   bio:
@@ -297,6 +298,7 @@
   name:
     first: Thomas
     middle: Richard
+    nickname: Tom
     last: Carper
     official_full: Thomas R. Carper
   bio:
@@ -1688,6 +1690,7 @@
   name:
     first: Richard
     middle: J.
+    nickname: Dick
     last: Durbin
     official_full: Richard J. Durbin
   bio:
@@ -1825,6 +1828,7 @@
   name:
     first: Michael
     middle: B.
+    nickname: Mike
     last: Enzi
     official_full: Michael B. Enzi
   bio:
@@ -2320,6 +2324,7 @@
     google_entity_id: kg:/m/06y9p0
   name:
     first: James
+    nickname: Jim
     last: Risch
     official_full: James E. Risch
   bio:
@@ -4660,6 +4665,7 @@
   name:
     first: Robert
     middle: Alan
+    nickname: Bob
     last: Brady
     official_full: Robert A. Brady
   bio:
@@ -5554,6 +5560,7 @@
   name:
     first: Michael
     middle: E.
+    nickname: Mike
     last: Capuano
     official_full: Michael E. Capuano
   bio:
@@ -6465,11 +6472,12 @@
     wikidata: Q959455
     google_entity_id: kg:/m/024vjr
   name:
-    first: Wm.
+    first: William
     middle: Lacy
+    nickname: Lacy
     last: Clay
     suffix: Jr.
-    official_full: Wm. Lacy Clay
+    official_full: William Lacy Clay
   bio:
     birthday: '1956-07-27'
     gender: M
@@ -7083,6 +7091,7 @@
   name:
     first: K.
     middle: Michael
+    nickname: Mike
     last: Conaway
     official_full: K. Michael Conaway
   bio:
@@ -7175,6 +7184,7 @@
   name:
     first: Gerald
     middle: E.
+    nickname: Gerry
     last: Connolly
     official_full: Gerald E. Connolly
   bio:
@@ -7799,6 +7809,7 @@
   name:
     first: Michael
     middle: D.
+    nickname: Mike
     last: Crapo
     official_full: Mike Crapo
   bio:
@@ -9118,6 +9129,7 @@
   name:
     first: Charles
     middle: W.
+    nickname: Charlie
     last: Dent
     official_full: Charles W. Dent
   bio:
@@ -9285,6 +9297,7 @@
   name:
     first: Theodore
     middle: E.
+    nickname: Ted
     last: Deutch
     official_full: Theodore E. Deutch
   bio:
@@ -12522,6 +12535,7 @@
     first: H.
     middle: Morgan
     last: Griffith
+    nickname: Morgan
     official_full: H. Morgan Griffith
   bio:
     birthday: '1958-03-15'
@@ -13601,6 +13615,7 @@
   name:
     first: James
     middle: A.
+    nickname: Jim
     last: Himes
     official_full: James A. Himes
   bio:
@@ -15495,6 +15510,7 @@
   name:
     first: William
     last: Keating
+    nickname: Bill
     official_full: William R. Keating
     middle: R.
   bio:
@@ -16724,6 +16740,7 @@
   name:
     first: Robert
     middle: E.
+    nickname: Bob
     last: Latta
     official_full: Robert E. Latta
   bio:
@@ -17397,6 +17414,7 @@
   name:
     first: Daniel
     middle: William
+    nickname: Dan
     last: Lipinski
     official_full: Daniel Lipinski
   bio:
@@ -17622,6 +17640,7 @@
     google_entity_id: kg:/m/0gtmqs
   name:
     first: David
+    nickname: Dave
     last: Loebsack
     official_full: David Loebsack
   bio:
@@ -20006,6 +20025,7 @@
     google_entity_id: kg:/m/03m4jty
   name:
     first: Patrick
+    nickname: Pat
     last: Meehan
     official_full: Patrick Meehan
   bio:
@@ -20471,6 +20491,7 @@
   name:
     first: Christopher
     middle: S.
+    nickname: Chris
     last: Murphy
     official_full: Christopher Murphy
   bio:
@@ -23139,6 +23160,7 @@
   name:
     first: Mike
     last: Quigley
+    nickname: Michael
     official_full: Mike Quigley
   bio:
     birthday: '1958-10-17'
@@ -23300,6 +23322,7 @@
   name:
     first: David
     middle: G.
+    nickname: Dave
     last: Reichert
     official_full: David G. Reichert
   bio:
@@ -23395,6 +23418,7 @@
   name:
     first: James
     last: Renacci
+    nickname: Jim
     official_full: James B. Renacci
     middle: B.
   bio:
@@ -24185,6 +24209,7 @@
     first: Thomas
     middle: J.
     last: Rooney
+    nickname: Tom
     official_full: Thomas J. Rooney
   bio:
     birthday: '1970-11-21'
@@ -24896,6 +24921,7 @@
     first: C.
     middle: A. Dutch
     last: Ruppersberger
+    nickname: Dutch
     official_full: C. A. Dutch Ruppersberger
   bio:
     birthday: '1946-01-31'
@@ -26538,6 +26564,7 @@
   name:
     first: F.
     middle: James
+    nickname: Jim
     last: Sensenbrenner
     suffix: Jr.
     official_full: F. James Sensenbrenner, Jr.
@@ -29645,6 +29672,7 @@
   name:
     first: Michael
     middle: R.
+    nickname: Mike
     last: Turner
     official_full: Michael R. Turner
   bio:
@@ -30136,6 +30164,7 @@
   name:
     first: Peter
     middle: J.
+    nickname: Pete
     last: Visclosky
     official_full: Peter J. Visclosky
   bio:
@@ -30490,6 +30519,7 @@
   name:
     first: Timothy
     middle: James
+    nickname: Tim
     last: Walz
     official_full: Timothy J. Walz
   bio:
@@ -31160,6 +31190,7 @@
   name:
     first: Robert
     middle: J.
+    nickname: Rob
     last: Wittman
     official_full: Robert J. Wittman
   bio:
@@ -34506,6 +34537,7 @@
   name:
     first: Daniel
     last: Kildee
+    nickname: Dan
     middle: T.
     official_full: Daniel T. Kildee
   bio:
@@ -34571,6 +34603,7 @@
   name:
     first: Richard
     middle: M.
+    nickname: Rick
     last: Nolan
     official_full: Richard M. Nolan
   bio:
@@ -35934,6 +35967,7 @@
   name:
     first: Matthew
     last: Cartwright
+    nickname: Matt
     middle: A.
     official_full: Matt Cartwright
   bio:
@@ -36519,6 +36553,7 @@
   name:
     first: Timothy
     last: Kaine
+    nickname: Tim
     official_full: Tim Kaine
   bio:
     gender: M
@@ -38415,7 +38450,8 @@
     cspan: 76679
     icpsr: 21528
   name:
-    first: Dave
+    first: David
+    nickname: Dave
     last: Trott
     official_full: David A. Trott
   bio:
@@ -39208,6 +39244,7 @@
     icpsr: 21554
   name:
     first: Donald
+    nickname: Don
     last: Beyer
     official_full: Donald S. Beyer, Jr.
   bio:
@@ -39734,7 +39771,8 @@
     cspan: 76376
     icpsr: 21543
   name:
-    first: Mark
+    first: Bradley
+    nickname: Mark
     last: Walker
     official_full: Mark Walker
   bio:
@@ -39780,6 +39818,7 @@
     icpsr: 41503
   name:
     first: Benjamin
+    nickname: Ben
     middle: Eric
     last: Sasse
     official_full: Ben Sasse
@@ -40596,6 +40635,7 @@
   name:
     first: J.
     middle: Luis
+    nickname: Lou
     last: Correa
     official_full: J. Luis Correa
   bio:
@@ -40971,6 +41011,7 @@
   name:
     first: A.
     middle: Drew
+    nickname: Drew
     last: Ferguson
     suffix: IV
     official_full: A. Drew Ferguson IV
@@ -41845,6 +41886,7 @@
   name:
     first: A.
     middle: Donald
+    nickname: Donald
     last: McEachin
     official_full: A. Donald McEachin
   bio:
