@@ -1,3 +1,15 @@
+http://data.matchvote.com/images/2015/congress/Charlie_Crist.png
+http://data.matchvote.com/images/2015/congress/Clay_Higgins.png
+http://data.matchvote.com/images/2015/congress/Darin_Lahood.png
+http://data.matchvote.com/images/2015/congress/Jack_Bergman.png
+http://data.matchvote.com/images/2015/congress/Jenniffer_Gonzalez-Colon.png
+http://data.matchvote.com/images/2015/congress/Jodey_Arrington.png
+http://data.matchvote.com/images/2015/congress/Lisa_Blunt_Rochester.png
+http://data.matchvote.com/images/2015/congress/Pramila_Jayapal.png
+http://data.matchvote.com/images/2015/congress/Raja_Krishnamoorthi.png
+http://data.matchvote.com/images/2015/congress/Roger_Marshall.png
+http://data.matchvote.com/images/2015/congress/Ted_Budd.png
+xxx
 http://data.matchvote.com/images/2015/congress/Aaron_Schock.png
 http://data.matchvote.com/images/2015/congress/Adam_Kinzinger.png
 http://data.matchvote.com/images/2015/congress/Adam_Schiff.png
