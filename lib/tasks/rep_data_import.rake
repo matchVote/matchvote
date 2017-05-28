@@ -76,6 +76,7 @@ namespace :reps do
   task manually_load_image_urls: :environment do
     base_uri = "http://data.matchvote.com/images/2015/"
     data = [
+      { slug: "john-bel-edwards", url: "governors/John_Bel_Edwards.png" },
       { slug: "jeff-sessions", url: "senators/Jeffery_Sessions.png" },
       { slug: "kelly-ayotte", url: "senators/Kelley_Ayotte.png" },
       { slug: "yvette-clarke", url: "congress/Yvette_Clark.png" },
@@ -105,4 +106,3 @@ namespace :reps do
     end
   end
 end
-

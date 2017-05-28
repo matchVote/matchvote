@@ -4,7 +4,7 @@
       .container-fluid
         %ul.nav.navbar-nav
           = link_to root_path do
-            = image_tag "http://matchvote.com/wp-content/uploads/2015/01/mv.png",
+            = image_tag "http://data.matchvote.com/images/mv.png",
               class: "mvlogo"
         %ul.nav.navbar-nav.navdrop
           %li
@@ -33,4 +33,3 @@
             = render "layouts/profile_link"
             = link_to destroy_user_session_path, method: :delete do
               .glyphicon.glyphicon-log-out.logout-button{title: "Sign Out"}
-

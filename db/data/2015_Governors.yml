@@ -2,25 +2,25 @@
 
 - state: AL
   title: Governor
-  first_name: Robert
-  last_name: Bentley
+  first_name: Kay
+  last_name: Ivey
   address: State Capitol N-104, 600 Dexter Avenue, Montgomery, AL 36130-2751
   fax: (334) 353-0004
   tel: (334) 242-7100
-  email: governorrobertbentley@governor.state.al.us
+  email: http://governor.alabama.gov/contact
   web: http://www.governor.state.al.us
-  took_office: 2011-01-17
+  took_office: 2017-04-10
   term_ends: 2019
   party: R
   branch: executive
-  gender:  Male
-  birthday: 1943-02-03
-  religion: Southern Baptist
+  gender:  Female
+  birthday: 1944-10-15
+  religion: Baptist
   orientation: Straight
-  facebook: https://www.facebook.com/GovernorRobertBentley
-  twitter: https://twitter.com/GovernorBentley
+  facebook: https://www.facebook.com/KayIveyAL/
+  twitter: https://twitter.com/GovernorKayIvey
   youtube:
-  wiki: http://en.wikipedia.org/wiki/Robert_J._Bentley
+  wiki: https://en.wikipedia.org/wiki/Kay_Ivey
 
 - state: AK
   title: Governor
@@ -157,25 +157,25 @@
 
 - state: DE
   title: Governor
-  first_name: Jack
-  last_name: Markell
+  first_name: John
+  last_name: Carney
   address: Legislative Hall, Dover, DE 19901
   fax: (302) 577-3118
   tel: (302) 577-3210 11/00
-  email: jmarkell@state.de.us
+  email:
   web: http://www.state.de.us/governor/index.htm
-  took_office: 2009-01-20
-  term_ends: 2017
+  took_office: 2017-01-17
+  term_ends: 2021
   party: D
   branch: executive
   gender:  Male
-  birthday: 1960-11-26
-  religion: Judaism
+  birthday: 1956-05-20
+  religion: Catholic
   orientation: Straight
-  facebook: https://www.facebook.com/GovernorMarkell
-  twitter: https://twitter.com/GovernorMarkell
+  facebook: https://www.facebook.com/JohnCarneyDE/
+  twitter: https://twitter.com/JohnCarneyDE
   youtube:
-  wiki: http://en.wikipedia.org/wiki/Jack_Markell
+  wiki: https://en.wikipedia.org/wiki/John_C._Carney_Jr.
 
 - state: FL
   title: Governor
@@ -289,46 +289,46 @@
 
 - state: IN
   title: Governor
-  first_name: Mike
-  last_name: Pence
+  first_name: Eric
+  last_name: Holcomb
   address: 206 State House, Indianapolis, IN 46204
   fax: (317) 232-3443
   tel: (317) 232-4567
-  email: mpence@state.in.us
+  email: http://www.in.gov/gov/2752.htm
   web: http://www.ai.org/gov/index.html
-  took_office: 2013-01-14
-  term_ends: 2017
+  took_office: 2017-01-09
+  term_ends: 2021
   party: R
   branch: executive
   gender:  Male
   birthday: 1959-06-07
   religion: Evangelical
   orientation: Straight
-  facebook: https://www.facebook.com/mikepence
-  twitter: https://twitter.com/GovPenceIN
+  facebook: https://www.facebook.com/HolcombForIndiana/
+  twitter: https://twitter.com/GovHolcomb
   youtube:
-  wiki: http://en.wikipedia.org/wiki/Mike_Pence
+  wiki: https://en.wikipedia.org/wiki/Eric_Holcomb
 
 - state: IA
   title: Governor
-  first_name: Terry
-  last_name: Branstad
+  first_name: Kim
+  last_name: Reynolds
   address: State Capitol Bldg., Des Moines, IA 50319
   fax: (515) 281-6611
   tel: (515) 281-5211
   web: http://www.state.ia.us/government/governor/index.htm
-  took_office: 2011-01-14
+  took_office: 2017-05-24
   term_ends: 2019
   party: R
   branch: executive
-  gender:  Male
-  birthday: 1946-11-17
-  religion: Catholic
+  gender:  Female
+  birthday: 1959-08-04
+  religion: Methodist
   orientation: Straight
-  facebook: https://www.facebook.com/TerryBranstad
-  twitter: https://twitter.com/TerryBranstad
+  facebook: https://www.facebook.com/KimReynoldsIA/
+  twitter: https://twitter.com/KimReynoldsIA
   youtube:
-  wiki: http://en.wikipedia.org/wiki/Terry_Branstad
+  wiki: https://en.wikipedia.org/wiki/Kim_Reynolds
 
 - state: KS
   title: Governor
@@ -354,47 +354,47 @@
 
 - state: KY
   title: Governor
-  first_name: Steve
-  last_name: Beshear
+  first_name: Matt
+  last_name: Bevin
   address: 700 State Capitol, Frankfort, KY 40601
   fax: (502) 564-2517
   tel: (502) 564-2611 Check
   email: governor@mail.state.ky.us
   web: http://www.state.ky.us/agencies/gov/govmenu6.htm
-  took_office: 2007-12-11
-  term_ends: 2015
-  party: D
+  took_office: 2015-12-08
+  term_ends: 2019
+  party: R
   branch: executive
   gender:  Male
-  birthday: 1944-09-21
+  birthday: 1967-01-09
   religion: Baptist
   orientation: Straight
-  facebook: https://www.facebook.com/steve.beshear.1
-  twitter: https://twitter.com/GovSteveBeshear
+  facebook: https://www.facebook.com/mattbevinforkentucky
+  twitter: https://twitter.com/govmattbevin
   youtube:
-  wiki: http://en.wikipedia.org/wiki/Steve_Beshear
+  wiki: https://en.wikipedia.org/wiki/Matt_Bevin
 
 - state: LA
   title: Governor
-  first_name: Bobby
-  last_name: Jindal
+  first_name: John Bel
+  last_name: Edwards
   address: State Capitol, P.O. Box 94004, Baton Rouge, LA 70804-9004
   fax: (504) 342-0002
   tel: (504) 342-7015 Check
   email: lagov@linknet.net
   web: http://www.gov.state.la.us
-  took_office: 2008-01-14
-  term_ends: 2016
-  party: R
+  took_office: 2016-01-14
+  term_ends: 2020
+  party: D
   branch: executive
   gender:  Male
-  birthday: 1971-06-10
-  religion: Catholic
+  birthday: 1966-09-16
+  religion:
   orientation: Straight
-  facebook: https://www.facebook.com/bobbyjindal
-  twitter: https://twitter.com/BobbyJindal
+  facebook: https://www.facebook.com/LouisianaGov/
+  twitter: https://twitter.com/louisianagov
   youtube:
-  wiki: http://en.wikipedia.org/wiki/Bobby_Jindal
+  wiki: https://en.wikipedia.org/wiki/John_Bel_Edwards
 
 - state: ME
   title: Governor
@@ -529,25 +529,25 @@
 
 - state: MO
   title: Governor
-  first_name: Jay
-  last_name: Nixon
+  first_name: Eric
+  last_name: Greitens
   address: 216 State Capitol, P.O. Box 720, Jefferson City, MO 65102
   fax: (573) 751-1495
   tel: (573) 751-3222 11/00
   email: mogov@mail.mo.gov
   web: http://www.gov.state.mo.us
-  took_office: 2009-01-12
-  term_ends: 2017
-  party: D
+  took_office: 2017-01-09
+  term_ends: 2021
+  party: R
   branch: executive
   gender:  Male
-  birthday: 1956-02-13
-  religion: Methodist
+  birthday: 1974-04-10
+  religion: Jewish
   orientation: Straight
-  facebook: https://www.facebook.com/pages/Jay-Nixon
-  twitter: https://twitter.com/GovJayNixon
+  facebook: https://www.facebook.com/EricGreitens/
+  twitter: https://twitter.com/EricGreitens
   youtube:
-  wiki: http://en.wikipedia.org/wiki/Jay_Nixon
+  wiki: https://en.wikipedia.org/wiki/Eric_Greitens
 
 - state: MT
   title: Governor
@@ -616,24 +616,24 @@
 
 - state: NH
   title: Governor
-  first_name: Maggie
-  last_name: Hassan
+  first_name: Chris
+  last_name: Sununu
   address: 208-214 State House, Concord, NH 03301
   fax: (603) 271-2130
   tel: (603) 271-2121
   web: http://www.state.nh.us/governor
-  took_office: 2013-01-03
-  term_ends: 2017
-  party: D
+  took_office: 2017-01-05
+  term_ends: 2019
+  party: R
   branch: executive
-  gender:  Female
-  birthday: 1958-02-27
-  religion: Christian
+  gender:  Male
+  birthday: 1974-11-05
+  religion: Catholic
   orientation: Straight
-  facebook: https://www.facebook.com/GovernorHassan
-  twitter: https://twitter.com/GovernorHassan
+  facebook: https://www.facebook.com/ChrisSununuForGovernor/
+  twitter: https://twitter.com/GovChrisSununu
   youtube:
-  wiki: http://en.wikipedia.org/wiki/Maggie_Hassan
+  wiki: https://en.wikipedia.org/wiki/Chris_Sununu
 
 - state: NJ
   title: Governor
@@ -702,47 +702,47 @@
 
 - state: NC
   title: Governor
-  first_name: Pat
-  last_name: McCrory
+  first_name: Roy
+  last_name: Cooper
   address: 116 W. Jones St., Raleigh, NC 27603-8001
   fax: (919) 733-2120
   tel: (919) 733-4240
   email: governor.office@governor.ncmail.net
   web: http://www.governor.state.nc.us/Gov
-  took_office: 2013-01-05
-  term_ends: 2017
-  party: R
+  took_office: 2017-01-01
+  term_ends: 2021
+  party: D
   branch: executive
   gender:  Male
-  birthday: 1956-10-17
+  birthday: 1957-06-13
   religion: Presbyterian
   orientation: Straight
-  facebook: https://www.facebook.com/GovernorPat
-  twitter: https://twitter.com/PatMcCroryNC
+  facebook: https://www.facebook.com/roycoopernc/
+  twitter: https://twitter.com/roycoopernc
   youtube:
-  wiki: http://en.wikipedia.org/wiki/Pat_McCrory
+  wiki: https://en.wikipedia.org/wiki/Roy_Cooper
 
 - state: ND
   title: Governor
-  first_name: Jack
-  last_name: Dalrymple
+  first_name: Doug
+  last_name: Burgum
   address: State Capitol, 600 E. Boulevard Ave., Bismarck, ND 58505-0001
   fax: (701) 328-2205
   tel: (701) 328-2200
   email: governor@state.nd.us
   web: http://www.governor.state.nd.us
-  took_office: 2010-12-07
-  term_ends: 2016
+  took_office: 2016-12-15
+  term_ends: 2020
   party: R
   branch: executive
   gender:  Male
-  birthday: 1948-10-16
-  religion: Presbyterian
+  birthday: 1956-08-01
+  religion:
   orientation: Straight
-  facebook:
-  twitter: https://twitter.com/DalrympleforGov
+  facebook: https://www.facebook.com/GovernorDougBurgum/
+  twitter: https://twitter.com/DougBurgum
   youtube:
-  wiki: http://en.wikipedia.org/wiki/Jack_Dalrymple
+  wiki: https://en.wikipedia.org/wiki/Doug_Burgum
 
 - state: OH
   title: Governor
@@ -854,25 +854,25 @@
 
 - state: SC
   title: Governor
-  first_name: Nikki
-  last_name: Haley
+  first_name: Henry
+  last_name: McMaster
   address: State House, P.O. Box 11369, Columbia, SC 29211
   fax: (803) 734-5167
   tel: (803) 734-2100 11/02
   email: governor@govoepp.state.sc.us
   web: http://www.state.sc.us/governor
-  took_office: 2011-01-12
+  took_office: 2017-01-24
   term_ends: 2019
   party: R
   branch: executive
-  gender:  Female
-  birthday: 1972-01-20
-  religion: Methodist
+  gender:  Male
+  birthday: 1947-05-27
+  religion: Presbyterian
   orientation: Straight
-  facebook: https://www.facebook.com/NikkiHaley
-  twitter: https://twitter.com/nikkihaley
+  facebook: https://www.facebook.com/HenryMcMaster/
+  twitter: https://twitter.com/henrymcmaster
   youtube:
-  wiki: http://en.wikipedia.org/wiki/Nikki_Haley
+  wiki: https://en.wikipedia.org/wiki/Henry_McMaster
 
 - state: SD
   title: Governor
@@ -964,25 +964,25 @@
 
 - state: VT
   title: Governor
-  first_name: Peter
-  last_name: Shumlin
+  first_name: Phil
+  last_name: Scott
   address: Pavilion Office Bldg. 5th Floor, 109 State St., Montpelier, VT 05609
   fax: (802) 828-3339
   tel: (802) 828-3333 11/00
-  email: pshumlin@state.vt.us
+  email: http://governor.vermont.gov/contact-us/message
   web: http://www.state.vt.us/
-  took_office: 2011-01-06
-  term_ends: 2017
-  party: D
+  took_office: 2017-01-05
+  term_ends: 2019
+  party: R
   branch: executive
   gender:  Male
-  birthday: 1956-03-24
+  birthday: 1958-08-04
   religion: Unknown
   orientation: Straight
-  facebook: https://www.facebook.com/Governor.Peter.Shumlin
-  twitter: https://twitter.com/GovPeterShumlin
+  facebook: https://www.facebook.com/PhilScottforVermont/
+  twitter: https://twitter.com/GovPhilScott
   youtube:
-  wiki: http://en.wikipedia.org/wiki/Peter_Shumlin
+  wiki: https://en.wikipedia.org/wiki/Phil_Scott_(politician)
 
 - state: VA
   title: Governor
@@ -1029,25 +1029,25 @@
 
 - state: WV
   title: Governor
-  first_name: Earl Ray
-  last_name: Tomblin
+  first_name: Jim
+  last_name: Justice
   address: State Capitol Building, Charleston, WV 25305
   fax: (304) 342-7025
   tel: (304) 558-2000
   email: governor@state.wv.us
   web: http://www.state.wv.us/governor/default.htm
-  took_office: 2010-11-15
-  term_ends: 2017
+  took_office: 2017-01-16
+  term_ends: 2021
   party: D
   branch: executive
   gender:  Male
-  birthday: 1952-03-15
-  religion: Presbyterian
+  birthday: 1951-04-27
+  religion:
   orientation: Straight
-  facebook:
-  twitter:
+  facebook: https://www.facebook.com/justiceforwv/
+  twitter: https://twitter.com/WVGovernor
   youtube:
-  wiki: http://en.wikipedia.org/wiki/Earl_Ray_Tomblin
+  wiki: https://en.wikipedia.org/wiki/Jim_Justice
 
 - state: WI
   title: Governor
