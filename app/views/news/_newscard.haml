@@ -1,10 +1,9 @@
-.newscard
-  = hidden_field_tag "article-id", article.id, id: "article-id"
+.newscard{id: article.id}
   .row
     .btn-group-vertical.news-vote-btn.pull-right
-      #upvote.btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title:"Newsworthy"}
+      .newsworthiness.btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title: "Newsworthy", type: "increase"}
       .news-vote-count= article.newsworthiness_count
-      #downvote.btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title:"Not Newsworthy"}
+      .newsworthiness.btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title: "Not Newsworthy", type: "decrease"}
     .news-title
       = link_to article.url do
         %h3= article.title

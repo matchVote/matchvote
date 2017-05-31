@@ -10,9 +10,13 @@ class Article
     @newsworthinessChange()
 
   newsworthinessChange: ->
-    $("#upvote").on "click", (event) =>
-      articleID = $("#article-id").val()
-      console.log('ArticleID', articleID)
-      # $.ajax
-      #   type: "PATCH"
-      #   url: "/articles/#{articleID}"
+    $(".newsworthiness").on "click", (event) =>
+      target = $(event.target)
+      articleID = target.closest(".newscard").attr("id")
+      $.ajax
+        type: "PATCH"
+        url: "/articles/#{articleID}/newsworthiness"
+        data:
+          type: target.attr("type")
+        success: (data) =>
+          target.siblings(".news-vote-count").text(data.count)

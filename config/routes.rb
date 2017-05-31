@@ -25,5 +25,7 @@ Rails.application.routes.draw do
   get "/directory/filter", to: "directory#filter"
 
   resources :rep_stances, only: [:index]
+
+  patch "/articles/:id/newsworthiness", to: "articles#newsworthiness"
 end
 
