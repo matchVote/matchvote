@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170511093516) do
+ActiveRecord::Schema.define(version: 20170601094222) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -189,6 +189,16 @@ ActiveRecord::Schema.define(version: 20170511093516) do
 
   add_index "statements", ["issue_category_id"], name: "index_statements_on_issue_category_id", using: :btree
   add_index "statements", ["text"], name: "statements_text_key", unique: true, using: :btree
+
+  create_table "user_article_changes", force: :cascade do |t|
+    t.integer  "article_id"
+    t.uuid     "user_id"
+    t.text     "change_type"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "user_article_changes", ["article_id", "user_id"], name: "index_user_article_changes_on_article_id_and_user_id", unique: true, using: :btree
 
   create_table "users", id: :uuid, default: "uuid_generate_v4()", force: :cascade do |t|
     t.string   "email",                  default: "",    null: false

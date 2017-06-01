@@ -20,7 +20,8 @@ class Article
         data:
           type: type
         success: (data) =>
-          if data.status == "OK"
-            count = parseInt(target.siblings(".news-vote-count").text())
-            count = if type == "increment" then count + 1 else count - 1
-            target.siblings(".news-vote-count").text(count)
+          count = parseInt(target.siblings(".news-vote-count").text())
+          count = if type == "increment" then count + 1 else count - 1
+          target.siblings(".news-vote-count").text(count)
+        error: =>
+          sweetAlert "", "You can only vote on an article once"
