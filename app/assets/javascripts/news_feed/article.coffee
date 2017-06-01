@@ -13,10 +13,14 @@ class Article
     $(".newsworthiness").on "click", (event) =>
       target = $(event.target)
       articleID = target.closest(".newscard").attr("id")
+      type = target.attr("type")
       $.ajax
         type: "PATCH"
         url: "/articles/#{articleID}/newsworthiness"
         data:
-          type: target.attr("type")
+          type: type
         success: (data) =>
-          target.siblings(".news-vote-count").text(data.count)
+          if data.status == "OK"
+            count = parseInt(target.siblings(".news-vote-count").text())
+            count = if type == "increment" then count + 1 else count - 1
+            target.siblings(".news-vote-count").text(count)
