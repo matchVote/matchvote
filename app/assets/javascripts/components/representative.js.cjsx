@@ -29,4 +29,3 @@
       <image className="verified" title="Verified Account">
         http://data.matchvote.com/images/bluecheck.png
       </image>
-

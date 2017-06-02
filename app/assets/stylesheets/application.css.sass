@@ -205,12 +205,10 @@ body
 .madein
   float: right
   font-size: 10px
-  span
-    display: none
-  &:hover
-    span
-      display: inline
-    cursor: pointer
+  img
+    width: 20px
+    height: 20px
+
 
 
 .faded
@@ -242,7 +240,7 @@ body
   &:hover
     background: #555
 
-.btn-primary, .btn-danger, .btn-info
+.btn-primary, .btn-danger, .btn-info, .btn-black, .btn-success
   text-shadow: 1px 1px 1px rgba(0,0,0,0.5)
 
 .btn-danger
@@ -250,7 +248,7 @@ body
   background: -o-linear-gradient(#dd4e4c, #b03e3c)
   background: -moz-linear-gradient(#dd4e4c, #b03e3c)
   background: linear-gradient(#dd4e4c, #b03e3c)
-  border: 0px solid #b03e3c
+  border: 0px
   &:hover
     background: #dd4e4c
 
@@ -266,6 +264,15 @@ body
   background: -o-linear-gradient(#499bea, #207ce5)
   background: -moz-linear-gradient(#499bea, #207ce5)
   background: linear-gradient(#499bea, #207ce5)
-  border: 1px solid #386d9a
+  border: 0px
   &:hover
+    background: #499bea
+
+.btn-black
+  color: #fff
+  background: #444
+  padding: 4px 8px 4px 8px
+  border: 3px solid #499bea
+  &:hover
+    color: #fff
     background: #499bea

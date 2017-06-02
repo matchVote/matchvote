@@ -77,7 +77,7 @@
             %center
               .btn.btn-sm.btn-danger
                 4 min Read
-              .btn.btn-sm.btn-default
+              .btn.btn-sm.btn-primary
                 583 Comments
               .btn.btn-sm.btn-default
                 .glyphicon.glyphicon-share{title:"Share"}
@@ -127,14 +127,16 @@
                 %li One day later, the polls will close in Montana’s special election for the state’s sole House seat, which pits Democratic musician Rob Quist against Republican businessman Greg Gianforte.
                 %li Quist, a populist who is campaigning with Sen. Bernie Sanders (I-Vt.) this weekend, has aggressively run against the AHCA, dubbing it a “tax cut for millionaires.”
             %center
-              .btn.btn-sm.btn-danger.featured_image_trigger
+              .btn.btn-sm.btn-danger
                 8 min Read
-              .btn.btn-sm.btn-default
+              .btn.btn-sm.btn-primary
                 283 Comments
               .btn.btn-sm.btn-default
                 .glyphicon.glyphicon-share{title:"Share"}
+                Share
               .btn.btn-sm.btn-default
                 .glyphicon.glyphicon-bookmark{title:"Bookmark Article"}
+                Bookmark
           .col-md-5
             .news-mentions
               %center
@@ -177,14 +179,16 @@
                 %li “We must fight them” in 2018, he said, days after the faction helped kill his health care overhaul, imperiling Mr. Trump’s other priorities.
                 %li Over the past few days, Mr. Trump has lurched between battering and buttering up conservatives who killed his health care overhaul in an agenda-scuttling insurrection that imperils his plans for tax reform and a trillion-dollar infrastructure package.
             %center
-              .btn.btn-sm.btn-danger.featured_image_trigger
+              .btn.btn-sm.btn-danger
                 6 min Read
+              .btn.btn-sm.btn-black
+                Close Comments
               .btn.btn-sm.btn-default
-                1,427 Comments
-              .btn.btn-xs.btn-default
                 .glyphicon.glyphicon-share{title:"Share"}
+                Share
               .btn.btn-sm.btn-default
                 .glyphicon.glyphicon-bookmark{title:"Bookmark Article"}
+                Bookmark
           .col-md-5
             .news-mentions
               %center
@@ -204,3 +208,105 @@
                   %a Budget
                 %li
                   %a Executive Branch
+      .news-comments
+        .well
+          .writecomment
+            .row
+              .col-md-10
+                .form-group
+                  %textarea.form-control
+                    :preserve
+                      Upgrade to matchVote Premium to Add Your Comment
+              .col-md-2
+                %center
+                  .btn.btn-sm.btn-primary.upgradebtn
+                    =link_to image_tag(current_user.profile_pic_url, title: "@#{current_user.username}"), path_for_user(current_user), id: "view_profile_link"
+                    Upgrade
+          %ul
+            %li
+              %strong
+                1,427 Comments
+            %li
+              Comments will be locked in 45 hours
+            %li
+              %select.form-control.signup-field
+                %option Sort by Most Loved
+                %option Sort by Most Replies
+                %option Sort by Newest
+          .comment
+            The Big Tent had become big enough to enclose an idealogical war zone. Now the fighting is spilling outside and everyone nearby is getting sucked into the fight and hurt in the process. All that seems to matter to many is that their side is the eventual winner. I don't know which option is worse. The government grinding to a halt as this fight plays out, or one side 'winning' and railroading their fever dreams through Congress and the White House unopposed.
+            %hr
+            .commentdetails
+              %ul
+                %li
+                  = image_tag "http://data.matchvote.com/images/2015/highprofile/Barack_Obama.png",
+                    class: "img", title: "Barack Obama"
+                %li
+                  %strong Barack Obama
+                %li from DC
+                %li
+                  = Time.now.strftime("%m/%d/%y")
+                  @
+                  = Time.now.strftime("%l:%M%p")
+                %li &nbsp
+                %li
+                  .btn.btn-xs.btn-default
+                    Report
+                  .btn.btn-xs.btn-default
+                    Hide Replies
+                  .btn.btn-xs.btn-default
+                    37
+                    .glyphicon.glyphicon-heart
+                  .btn.btn-xs.btn-primary
+                    Reply
+          .comment.reply
+            It's like the end of "Jurassic Park," when the tyrannosaurus rescues the heroes from the velociraptors.
+            %hr
+            .commentdetails
+              %ul
+                %li
+                  = image_tag "http://data.matchvote.com/images/2015/highprofile/Larry_Lessig.png",
+                    class: "img", title: "Larry Lessig"
+                %li
+                  %strong Larry Lessig
+                %li from MA
+                %li
+                  = Time.now.strftime("%m/%d/%y")
+                  @
+                  = Time.now.strftime("%l:%M%p")
+                %li &nbsp
+                %li
+                  .btn.btn-xs.btn-default
+                    Report
+                  .btn.btn-xs.btn-default
+                    4
+                    .glyphicon.glyphicon-heart
+                  .btn.btn-xs.btn-primary
+                    Reply
+          .comment.reply2
+            If the President and Mr. Ryan are serious about taking on the factions, they will have to confront gerrymandering as that is how the group exercises a disproportionate influence in the House. Good luck with that!
+            %hr
+            .commentdetails
+              %ul
+                %li
+                  = image_tag "http://data.matchvote.com/images/2015/senators/Bernard_Sanders.png",
+                    class: "img", title: "Bernie Sanders"
+                %li
+                  %strong Bernie Sanders
+                %li from VT
+                %li
+                  = Time.now.strftime("%m/%d/%y")
+                  @
+                  = Time.now.strftime("%l:%M%p")
+                %li &nbsp
+                %li
+                  .btn.btn-xs.btn-default
+                    Report
+                  .btn.btn-xs.btn-default
+                    1
+                    .glyphicon.glyphicon-heart
+                  .btn.btn-xs.btn-primary
+                    Reply
+          = render "news/comment"
+          %center
+            .btn.btn-xs.btn-link View 1,424 More Replies
