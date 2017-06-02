@@ -9,12 +9,14 @@ class ApplicationController < ActionController::Base
   rescue_from Pundit::NotAuthorizedError, with: :user_not_authorized
 
   private
-    def user_not_authorized
-      flash[:alert] = "You are not authorized to perform that action."
-      redirect_to(request.referrer || root_url)
-    end
 
-    def set_navbar
-      @navbar = NavbarPresenter.new(params[:controller])
-    end
+  def user_not_authorized
+    flash[:alert] = "You are not authorized to perform that action."
+    redirect_to(request.referrer || root_url)
+  end
+
+  def set_navbar
+    resource = params[:controller] == "articles" ? "news" : params[:controller]
+    @navbar = NavbarPresenter.new(resource)
+  end
 end

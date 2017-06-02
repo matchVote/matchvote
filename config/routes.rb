@@ -20,12 +20,12 @@ Rails.application.routes.draw do
   post "/citizens/:id/update_settings", to: "citizens#update_settings"
 
   resources :stances, only: [:index, :create, :update, :destroy]
-  resources :news, only: [:index]
   resources :elections, only: [:index]
   get "/directory/filter", to: "directory#filter"
 
   resources :rep_stances, only: [:index]
 
+  get "/news", to: "articles#index"
   patch "/articles/:id/newsworthiness", to: "articles#newsworthiness"
 end
 
