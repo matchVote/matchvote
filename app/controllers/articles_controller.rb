@@ -6,7 +6,7 @@ class ArticlesController < ApplicationController
   def newsworthiness
     if user_can_change_article?(params[:id])
       Article.send("#{params[:type]}_counter", :newsworthiness_count, params[:id])
-      create_change(params[:id], :newsworthiness)
+      create_change(params[:id], "newsworthiness #{params[:type]}")
       render text: "success"
     else
       head :forbidden
