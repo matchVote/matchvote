@@ -20,7 +20,7 @@ matchVote lets you automatically follow the political positions and news for ele
     * Comments
     * Share
     * Truncated stance questions
-    * Bookmark
+    * Bookmark Hover CSS
   * Filtering
     * Bookmark
     * Topic/Category

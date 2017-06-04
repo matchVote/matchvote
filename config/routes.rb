@@ -27,5 +27,6 @@ Rails.application.routes.draw do
 
   get "/news", to: "articles#index"
   patch "/articles/:id/newsworthiness", to: "articles#newsworthiness"
+  post "/articles/:id/bookmark", to: "articles#bookmark"
 end
 

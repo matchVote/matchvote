@@ -7,9 +7,20 @@ class ArticlesController < ApplicationController
     if user_can_change_article?(params[:id])
       Article.send("#{params[:type]}_counter", :newsworthiness_count, params[:id])
       create_change(params[:id], "newsworthiness #{params[:type]}")
-      render text: "success"
+      head :ok
     else
       head :forbidden
+    end
+  end
+
+  def bookmark
+    bookmark = Bookmark.find_by(article_id: params[:id], user_id: current_user.id)
+    if bookmark
+      bookmark.destroy
+      render json: { active: false }
+    else
+      Bookmark.create(article_id: params[:id], user_id: current_user.id)
+      render json: { active: true }
     end
   end
 

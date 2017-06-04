@@ -24,9 +24,9 @@
             .btn.btn-sm.btn-danger= article.read_time
           .btn.btn-sm.btn-default 583 Comments
           .btn.btn-sm.btn-default
-            .glyphicon.glyphicon-share{title:"Share"}
-          .btn.btn-sm.btn-default
-            .glyphicon.glyphicon-bookmark{title:"Bookmark Article"}
+            .glyphicon.glyphicon-share{title: "Share"}
+          .btn.btn-sm.btn-default.bookmark{class: ("label-info" if article.bookmarked?(current_user))}
+            .glyphicon.glyphicon-bookmark{title: "Bookmark Article"}
       .col-md-5
         .news-mentions
           %center

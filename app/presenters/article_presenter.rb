@@ -22,4 +22,8 @@ class ArticlePresenter < SimpleDelegator
   def top_keywords
     article.keywords.take(5).map { |kw| kw.capitalize }
   end
+
+  def bookmarked?(user)
+    article.bookmarks.exists?(user_id: user.id)
+  end
 end
