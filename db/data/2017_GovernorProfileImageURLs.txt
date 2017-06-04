@@ -1,3 +1,17 @@
+http://data.matchvote.com/images/2015/governors/Chris_Sununu.png
+http://data.matchvote.com/images/2015/governors/Doug_Burgum.png
+http://data.matchvote.com/images/2015/governors/Eric_Greitens.png
+http://data.matchvote.com/images/2015/governors/Eric_Holcomb.png
+http://data.matchvote.com/images/2015/governors/Henry_McMaster.png
+http://data.matchvote.com/images/2015/governors/Jim_Justice.png
+http://data.matchvote.com/images/2015/governors/John_Bel_Edwards.png
+http://data.matchvote.com/images/2015/governors/John_Carney.png
+http://data.matchvote.com/images/2015/governors/Kay_Ivey.png
+http://data.matchvote.com/images/2015/governors/Kim_Reynolds.png
+http://data.matchvote.com/images/2015/governors/Matt_Bevin.png
+http://data.matchvote.com/images/2015/governors/Phil_Scott.png
+http://data.matchvote.com/images/2015/governors/Roy_Cooper.png
+xxx
 http://data.matchvote.com/images/2015/governors/Andrew_Cuomo.png
 http://data.matchvote.com/images/2015/governors/Asa_Hutchinson.png
 http://data.matchvote.com/images/2015/governors/Bill_Haslam.png

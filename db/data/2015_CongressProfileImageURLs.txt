@@ -169,7 +169,7 @@ http://data.matchvote.com/images/2015/congress/Jackie_Speier.png
 http://data.matchvote.com/images/2015/congress/Jackie_Walorski.png
 http://data.matchvote.com/images/2015/congress/Jaime_Herrera_Beutler.png
 http://data.matchvote.com/images/2015/congress/James_Langevin.png
-http://data.matchvote.com/images/2015/congress/James_Sensenbrenner.png
+http://data.matchvote.com/images/2015/congress/Jim_Sensenbrenner.png
 http://data.matchvote.com/images/2015/congress/Jan_Schakowsky.png
 http://data.matchvote.com/images/2015/congress/Janice_Hahn.png
 http://data.matchvote.com/images/2015/congress/Jared_Huffman.png
@@ -435,5 +435,5 @@ http://data.matchvote.com/images/2015/congress/Walter_Jones.png
 http://data.matchvote.com/images/2015/congress/Will_Hurd.png
 http://data.matchvote.com/images/2015/congress/William_Lacy_Clay.png
 http://data.matchvote.com/images/2015/congress/Xavier_Becerra.png
-http://data.matchvote.com/images/2015/congress/Yvette_Clark.png
+http://data.matchvote.com/images/2015/congress/Yvette_Clarke.png
 http://data.matchvote.com/images/2015/congress/Zoe_Lofgren.png

@@ -32,7 +32,7 @@ namespace :reps do
   end
 
   task load_matchvote_files: :environment do
-    matchvote_files = ["2015_Governors.yml", "2015_HighProfile.yml"]
+    matchvote_files = ["2015_Governors.yml", "2017_Governors.yml", "2015_HighProfile.yml", "2017_Mayors.yml"]
 
     matchvote_files.each do |file|
       reps = YAML.load_file("#{Rails.root}/db/data/#{file}")
@@ -48,7 +48,9 @@ namespace :reps do
     file1 = File.readlines("#{Rails.root}/db/data/2015_SenatorProfileImageURLs.txt")
     file2 = File.readlines("#{Rails.root}/db/data/2015_CongressProfileImageURLs.txt")
     file3 = File.readlines("#{Rails.root}/db/data/2015_GovernorProfileImageURLs.txt")
-    urls = file1.concat(file2.concat(file3))
+    file4 = File.readlines("#{Rails.root}/db/data/2017_GovernorProfileImageURLs.txt")
+    file5 = File.readlines("#{Rails.root}/db/data/2017_MayorProfileImageURLs.txt")
+    urls = file1.concat(file2.concat(file3.concat(file4.concat(file5))))
     parser = ImageURLParser.new(urls.map(&:chomp))
 
     Representative.find_each do |rep|
@@ -74,19 +76,17 @@ namespace :reps do
   end
 
   task manually_load_image_urls: :environment do
-    base_uri = "http://data.matchvote.com/images/2015/"
+    base_uri = "http://data.matchvote.com/images/"
     data = [
-      { slug: "john-bel-edwards", url: "governors/John_Bel_Edwards.png" },
-      { slug: "jeff-sessions", url: "senators/Jeffery_Sessions.png" },
-      { slug: "kelly-ayotte", url: "senators/Kelley_Ayotte.png" },
-      { slug: "yvette-clarke", url: "congress/Yvette_Clark.png" },
-      { slug: "mario-diaz-balart", url: "congress/Mario_Diaz_Balart.png" },
-      { slug: "ileana-ros-lehtinen", url: "congress/Ileana_Ros_Lehtinen.png" },
-      { slug: "lucille-roybal-allard", url: "congress/Lucille_Roybal_Allard.png" },
-      { slug: "jim-sensenbrenner", url: "congress/James_Sensenbrenner.png" },
-      { slug: "beto-o-rourke", url: "congress/Beto_ORourke.png" },
-      { slug: "gk-butterfield", url: "congress/G_K_Butterfield.png" },
-      { slug: "earl-ray-tomblin", url: "governors/Earl_Ray_Tomblin.png" }
+      { slug: "george-bynum", url: "2017/mayors/GT_Bynum.png" },
+      { slug: "tomas-regalado", url: "2017/mayors/Tomas_Regalado.png" },
+      { slug: "john-bel-edwards", url: "2015/governors/John_Bel_Edwards.png" },
+      { slug: "mario-diaz-balart", url: "2015/congress/Mario_Diaz_Balart.png" },
+      { slug: "ileana-ros-lehtinen", url: "2015/congress/Ileana_Ros_Lehtinen.png" },
+      { slug: "lucille-roybal-allard", url: "2015/congress/Lucille_Roybal_Allard.png" },
+      { slug: "beto-o-rourke", url: "2015/congress/Beto_ORourke.png" },
+      { slug: "gk-butterfield", url: "2015/congress/G_K_Butterfield.png" },
+      { slug: "earl-ray-tomblin", url: "2015/governors/Earl_Ray_Tomblin.png" }
     ]
 
     data.each do |rep_data|

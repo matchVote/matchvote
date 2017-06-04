@@ -447,5 +447,5 @@ http://data.matchvote.com/images/2015/congress/Walter_Jones.png
 http://data.matchvote.com/images/2015/congress/Will_Hurd.png
 http://data.matchvote.com/images/2015/congress/William_Lacy_Clay.png
 http://data.matchvote.com/images/2015/congress/Xavier_Becerra.png
-http://data.matchvote.com/images/2015/congress/Yvette_Clark.png
+http://data.matchvote.com/images/2015/congress/Yvette_Clarke.png
 http://data.matchvote.com/images/2015/congress/Zoe_Lofgren.png

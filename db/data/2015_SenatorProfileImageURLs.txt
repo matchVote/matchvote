@@ -38,7 +38,7 @@ http://data.matchvote.com/images/2015/senators/James_Lankford.png
 http://data.matchvote.com/images/2015/senators/Jeanne_Shaheen.png
 http://data.matchvote.com/images/2015/senators/Jeff_Flake.png
 http://data.matchvote.com/images/2015/senators/Jeff_Merkley.png
-http://data.matchvote.com/images/2015/senators/Jeffery_Sessions.png
+http://data.matchvote.com/images/2015/senators/Jeff_Sessions.png
 http://data.matchvote.com/images/2015/senators/Jerry_Moran.png
 http://data.matchvote.com/images/2015/senators/Jim_Inhofe.png
 http://data.matchvote.com/images/2015/senators/Jim_Risch.png
@@ -53,7 +53,7 @@ http://data.matchvote.com/images/2015/senators/John_Thune.png
 http://data.matchvote.com/images/2015/senators/Johnny_Isakson.png
 http://data.matchvote.com/images/2015/senators/Jon_Tester.png
 http://data.matchvote.com/images/2015/senators/Joni_Ernst.png
-http://data.matchvote.com/images/2015/senators/Kelley_Ayotte.png
+http://data.matchvote.com/images/2015/senators/Kelly_Ayotte.png
 http://data.matchvote.com/images/2015/senators/Kirsten_Gillibrand.png
 http://data.matchvote.com/images/2015/senators/Lamar_Alexander.png
 http://data.matchvote.com/images/2015/senators/Lindsey_Graham.png

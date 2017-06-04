@@ -35814,8 +35814,9 @@
     house_history: 15032387385
   name:
     first: Michelle
-    last: Lujan Grisham
-    official_full: Michelle Lujan Grisham
+    middle_name: Lujan
+    last: Grisham
+    official_full: Michelle L. Grisham
   bio:
     gender: Female
     birthday: '1959-10-24'
