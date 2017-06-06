@@ -11,6 +11,7 @@ class CreateArticles < ActiveRecord::Migration
       t.string :mentioned_officials, array: true, default: '{}'
       t.integer :read_time
       t.integer :newsworthiness_count
+      t.text :top_image_url
       t.timestamps
     end
 

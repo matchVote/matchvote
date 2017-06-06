@@ -14,8 +14,7 @@
     .news-summary
       .col-md-7
         .well.featured_image_trigger
-          =image_tag "https://media3.s-nbcnews.com/j/newscms/2016_20/1541946/160518-trump-portrait-jsw-145p_1c226e6636be4572928409c157f0d50a.nbcnews-ux-2880-1000.jpg",
-            class: "article_featured_image"
+          =image_tag article.top_image_url, class: "article_featured_image"
           %ul
             - article.summary_points.each do |sp|
               %li= sp
