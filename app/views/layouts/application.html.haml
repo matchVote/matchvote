@@ -13,7 +13,7 @@
   %body{class: set_body_class(controller_name, action_name)}
     - if user_signed_in?
       = render "layouts/header"
-    .container
+    %div
       - flash.each do |key, value|
         - alert_type = flash_type(key)
         :coffee

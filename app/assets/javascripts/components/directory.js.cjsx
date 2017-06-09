@@ -16,7 +16,7 @@
     @startScrollingPagination()
 
   render: ->
-    <div className="directory_index">
+    <div className="container">
       <div className="filter_menu">
         <div className="col-md-8">
           <h2>Find elected officials to follow</h2>
