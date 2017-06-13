@@ -29,6 +29,7 @@ ActiveRecord::Schema.define(version: 20170602095228) do
     t.string   "mentioned_officials",  default: [],              array: true
     t.integer  "read_time"
     t.integer  "newsworthiness_count"
+    t.text     "top_image_url"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
