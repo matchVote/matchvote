@@ -19,14 +19,10 @@
     <div className="container">
       <div className="filter_menu">
         <div className="col-md-8">
-          <h2>Find elected officials to follow</h2>
-          <h5>
-            We'll keep you up to date with the news and political positions of the
-            those you choose to follow.
-          </h5>
+          <h3>Find elected officials to follow</h3>
           <h5>
             { @props.filterCount } elected officials meet your search criteria.
-            Add more filters to refine your search.
+            Add filters to refine your search.
           </h5>
           <div className="well well-sm filter_well">
             <a className="btn btn-default disabled">
@@ -43,7 +39,6 @@
             </a>
           </div>
         </div>
-        <div className="col-md-1"></div>
         <FilterSort filterOptions={@props.sortList} filterDirectory={@filterDirectory}/>
       </div>
       <div id="reps_container" className="row">

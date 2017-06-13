@@ -10,11 +10,11 @@
         placeholder: "Search by name"
         require: "true"
         onChange: @filterDirectory
-      React.DOM.a
-        className: "pull-right search_btn"
-        title: "Search by name"
-        React.DOM.span
-          className: "glyphicon glyphicon-search"
+#      React.DOM.a
+#        className: "pull-right search_btn"
+#        title: "Search by name"
+#        React.DOM.span
+#          className: "glyphicon glyphicon-search"
       React.DOM.br null
       React.DOM.br null
       React.DOM.strong null,
