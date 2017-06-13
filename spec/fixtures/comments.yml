@@ -1,0 +1,27 @@
+- text: The Big Tent had become big enough to enclose an idealogical war zone. Now the fighting is spilling outside and everyone nearby is getting sucked into the fight and hurt in the process. All that seems to matter to many is that their side is the eventual winner. I don't know which option is worse. The government grinding to a halt as this fight plays out, or one side 'winning' and railroading their fever dreams through Congress and the White House unopposed.
+  id: 1
+  user_id: 3
+  commentable_id: 34
+  commentable_type: Article
+  created_at: 2017-06-13 09:50:00
+
+- text: It's like the end of "Jurassic Park," when the tyrannosaurus rescues the heroes from the velociraptors.
+  id: 2
+  user_id: 4
+  commentable_id: 1
+  commentable_type: Comment
+  created_at: 2017-06-13 09:50:00
+
+- text: If the President and Mr. Ryan are serious about taking on the factions, they will have to confront gerrymandering as that is how the group exercises a disproportionate influence in the House. Good luck with that!
+  id: 3
+  user_id: 5
+  commentable_id: 2
+  commentable_type: Comment
+  created_at: 2017-06-13 09:50:00
+
+- text: If the President and Mr. Ryan are serious about taking on the factions, they will have to confront gerrymandering as that is how the group exercises a disproportionate influence in the House. Good luck with that!
+  id: 4
+  user_id: 5
+  commentable_id: 34
+  commentable_type: Article
+  created_at: 2017-06-13 09:50:00
