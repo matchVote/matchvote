@@ -21,9 +21,11 @@
         %center
           = link_to article.url, target: "_blank", style: "text-decoration: none" do
             .btn.btn-sm.btn-danger= article.read_time
-          .btn.btn-sm.btn-default
+          .show-comments.btn.btn-sm.btn-default
             = article.comments.size
             Comments
+          .hide-comments.btn.btn-sm.btn-black{style: "display:none"}
+            Close Comments
           .btn.btn-sm.btn-default
             .glyphicon.glyphicon-share{title: "Share"}
             Share
@@ -46,7 +48,7 @@
             - article.top_keywords.each do |keyword|
               %li
                 %a= keyword
-  .news-comments
+  .news-comments{style: "display:none", data: { article_id: article.id }}
     .well
       .writecomment
         .row
@@ -58,7 +60,9 @@
           .col-md-2
             %center
               .btn.btn-sm.btn-primary.upgradebtn
-                =link_to image_tag(current_user.profile_pic_url, title: "@#{current_user.username}"), path_for_user(current_user), id: "view_profile_link"
+                = link_to image_tag(current_user.profile_pic_url, title: "@#{current_user.username}"),
+                  path_for_user(current_user),
+                  id: "view_profile_link"
                 Upgrade
       %ul
         %li
@@ -69,9 +73,11 @@
           Comments will be locked in 45 hours
         %li
           %select.form-control.signup-field
+            %option Sort by Newest
             %option Sort by Most Loved
             %option Sort by Most Replies
-            %option Sort by Newest
 
       - article.comments.each do |comment|
         = render "comment", comment: comment, reply: 0
+      %center
+        .btn.btn-xs.btn-link View 1,424 More Replies

@@ -8,7 +8,12 @@ class Article
 
   bindEvents: ->
     @newsworthinessChange()
-    @bookmarkToggle()
+    @toggleBookmark()
+    @showComments()
+    @hideComments()
+
+  articleID: (event) ->
+    $(event.target).closest(".newscard").attr("id")
 
   newsworthinessChange: ->
     $(".newsworthiness").on "click", (event) =>
@@ -27,12 +32,11 @@ class Article
         error: ->
           sweetAlert "", "You can only vote once per article"
 
-  bookmarkToggle: ->
+  toggleBookmark: ->
     $(".bookmark").on "click", (event) =>
-      articleID = $(event.target).closest(".newscard").attr("id")
       $.ajax
         type: "POST"
-        url: "/articles/#{articleID}/bookmark"
+        url: "/articles/#{@articleID(event)}/bookmark"
         success: (data) ->
           button = $(event.delegateTarget)
           if data.active
@@ -40,3 +44,16 @@ class Article
           else
             button.removeClass("label-info")
 
+  showComments: ->
+    $(".show-comments").on "click", (event) =>
+      $("[data-article-id='#{@articleID(event)}']").show()
+      $button = $(event.target)
+      $button.hide()
+      $button.siblings(".hide-comments").show()
+
+  hideComments: ->
+    $(".hide-comments").on "click", (event) =>
+      $("[data-article-id='#{@articleID(event)}']").hide()
+      $button = $(event.target)
+      $button.hide()
+      $button.siblings(".show-comments").show()
