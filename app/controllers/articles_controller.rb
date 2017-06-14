@@ -1,6 +1,6 @@
 class ArticlesController < ApplicationController
   def index
-    @articles = Article.all.map { |a| ArticlePresenter.new(a) }
+    @articles = Article.includes(:comments).map { |a| ArticlePresenter.new(a) }
   end
 
   def newsworthiness

@@ -1,5 +1,5 @@
-.comment
-  I honestly don't understand why Trump is alienating Democrats AND the Freedom Caucus. He literally doesn't have enough votes to pass anything without reaching out to either group. What is his endgame here? To just fight a lot and get nothing done? Seriously, I find this baffling.
+.comment{class: (reply.zero? ? "" : "reply#{reply}")}
+  = comment.text
   %hr
   .commentdetails
     %ul
@@ -10,14 +10,17 @@
         %strong Joe Biden
       %li from DE
       %li
-        = Time.now.strftime("%m/%d/%y")
+        = comment.created_at.strftime("%m/%d/%y")
         @
-        = Time.now.strftime("%l:%M%p")
+        = comment.created_at.strftime("%l:%M%p")
       %li &nbsp
       %li
         .btn.btn-xs.btn-default
           Report
         .btn.btn-xs.btn-default
+          Hide Replies
+        .btn.btn-xs.btn-default
+          32
           .glyphicon.glyphicon-heart
         .btn.btn-xs.btn-black
           Close Reply
@@ -32,3 +35,5 @@
           %center
             .btn.btn-sm.btn-primary
               Submit
+- comment.comments.each do |comment_reply|
+  = render "comment", comment: comment_reply, reply: reply + 1

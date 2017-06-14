@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170602095228) do
+ActiveRecord::Schema.define(version: 20170614014759) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -44,6 +44,17 @@ ActiveRecord::Schema.define(version: 20170602095228) do
   end
 
   add_index "bookmarks", ["article_id", "user_id"], name: "index_bookmarks_on_article_id_and_user_id", unique: true, using: :btree
+
+  create_table "comments", force: :cascade do |t|
+    t.text     "text",             null: false
+    t.uuid     "user_id"
+    t.integer  "commentable_id"
+    t.string   "commentable_type"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "comments", ["user_id"], name: "index_comments_on_user_id", using: :btree
 
   create_table "contacts", force: :cascade do |t|
     t.text     "emails",           array: true
@@ -246,4 +257,5 @@ ActiveRecord::Schema.define(version: 20170602095228) do
   add_index "users", ["unlock_token"], name: "index_users_on_unlock_token", unique: true, using: :btree
   add_index "users", ["username"], name: "index_users_on_username", unique: true, using: :btree
 
+  add_foreign_key "comments", "users"
 end

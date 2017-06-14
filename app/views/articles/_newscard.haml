@@ -21,7 +21,9 @@
         %center
           = link_to article.url, target: "_blank", style: "text-decoration: none" do
             .btn.btn-sm.btn-danger= article.read_time
-          .btn.btn-sm.btn-default 583 Comments
+          .btn.btn-sm.btn-default
+            = article.comments.size
+            Comments
           .btn.btn-sm.btn-default
             .glyphicon.glyphicon-share{title: "Share"}
             Share
@@ -61,7 +63,8 @@
       %ul
         %li
           %strong
-            1,427 Comments
+            = article.comments.size
+            Comments
         %li
           Comments will be locked in 45 hours
         %li
@@ -69,80 +72,6 @@
             %option Sort by Most Loved
             %option Sort by Most Replies
             %option Sort by Newest
-      .comment
-        The Big Tent had become big enough to enclose an idealogical war zone. Now the fighting is spilling outside and everyone nearby is getting sucked into the fight and hurt in the process. All that seems to matter to many is that their side is the eventual winner. I don't know which option is worse. The government grinding to a halt as this fight plays out, or one side 'winning' and railroading their fever dreams through Congress and the White House unopposed.
-        %hr
-        .commentdetails
-          %ul
-            %li
-              = image_tag "http://data.matchvote.com/images/2015/highprofile/Barack_Obama.png",
-                class: "img", title: "Barack Obama"
-            %li
-              %strong Barack Obama
-            %li from DC
-            %li
-              = Time.now.strftime("%m/%d/%y")
-              @
-              = Time.now.strftime("%l:%M%p")
-            %li &nbsp
-            %li
-              .btn.btn-xs.btn-default
-                Report
-              .btn.btn-xs.btn-default
-                Hide Replies
-              .btn.btn-xs.btn-default
-                37
-                .glyphicon.glyphicon-heart
-              .btn.btn-xs.btn-primary
-                Reply
-      .comment.reply
-        It's like the end of "Jurassic Park," when the tyrannosaurus rescues the heroes from the velociraptors.
-        %hr
-        .commentdetails
-          %ul
-            %li
-              = image_tag "http://data.matchvote.com/images/2015/highprofile/Larry_Lessig.png",
-                class: "img", title: "Larry Lessig"
-            %li
-              %strong Larry Lessig
-            %li from MA
-            %li
-              = Time.now.strftime("%m/%d/%y")
-              @
-              = Time.now.strftime("%l:%M%p")
-            %li &nbsp
-            %li
-              .btn.btn-xs.btn-default
-                Report
-              .btn.btn-xs.btn-default
-                4
-                .glyphicon.glyphicon-heart
-              .btn.btn-xs.btn-primary
-                Reply
-      .comment.reply2
-        If the President and Mr. Ryan are serious about taking on the factions, they will have to confront gerrymandering as that is how the group exercises a disproportionate influence in the House. Good luck with that!
-        %hr
-        .commentdetails
-          %ul
-            %li
-              = image_tag "http://data.matchvote.com/images/2015/senators/Bernard_Sanders.png",
-                class: "img", title: "Bernie Sanders"
-            %li
-              %strong Bernie Sanders
-            %li from VT
-            %li
-              = Time.now.strftime("%m/%d/%y")
-              @
-              = Time.now.strftime("%l:%M%p")
-            %li &nbsp
-            %li
-              .btn.btn-xs.btn-default
-                Report
-              .btn.btn-xs.btn-default
-                1
-                .glyphicon.glyphicon-heart
-              .btn.btn-xs.btn-primary
-                Reply
-      = render "articles/comment"
-      %center
-        .btn.btn-xs.btn-link View 1,424 More Replies
+
+      - article.comments.each do |comment|
+        = render "comment", comment: comment, reply: 0
