@@ -1,5 +1,6 @@
 class ArticlesController < ApplicationController
   def index
+    @comment_limit = 5
     @articles = Article.includes(:comments).map { |a| ArticlePresenter.new(a) }
   end
 

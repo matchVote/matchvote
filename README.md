@@ -37,12 +37,12 @@ matchVote lets you automatically follow the political positions and news for ele
     * Most Shared
     * Most Bookmarked
   * Comments
-    * Limit number of comments shown
     * Creation
     * User linkage
     * Replies
       * Show/hide
       * Report
+      * Limit nested amount
     * View more
     * Loved
     * Locking

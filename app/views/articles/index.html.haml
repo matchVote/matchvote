@@ -54,4 +54,4 @@
     %br
     #article-list
       - @articles.each do |article|
-        = render "newscard", article: article
+        = render "newscard", article: article, comment_limit: @comment_limit

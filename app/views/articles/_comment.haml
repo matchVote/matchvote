@@ -1,4 +1,6 @@
-.comment{class: (reply.zero? ? "" : "reply#{reply}")}
+.comment{class: comment.reply_level_class(reply),
+         style: comment.displayed?(reply),
+         data: { id: comment.id }}
   = comment.text
   %hr
   .commentdetails
@@ -10,15 +12,16 @@
         %strong Joe Biden
       %li from DE
       %li
-        = comment.created_at.strftime("%m/%d/%y")
+        = comment.created_at_date
         @
-        = comment.created_at.strftime("%l:%M%p")
+        = comment.created_at_time
       %li &nbsp
       %li
         .btn.btn-xs.btn-default
           Report
-        .btn.btn-xs.btn-default
-          Hide Replies
+        - if comment.show_replies?
+          .btn.btn-xs.btn-default.show-replies
+            Show Replies
         .btn.btn-xs.btn-default
           32
           .glyphicon.glyphicon-heart
@@ -36,4 +39,6 @@
             .btn.btn-sm.btn-primary
               Submit
 - comment.comments.each do |comment_reply|
-  = render "comment", comment: comment_reply, reply: reply + 1
+  = render "comment",
+    comment: CommentPresenter.new(comment_reply),
+    reply: reply + 1

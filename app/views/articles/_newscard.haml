@@ -77,7 +77,7 @@
             %option Sort by Most Loved
             %option Sort by Most Replies
 
-      - article.comments.each do |comment|
-        = render "comment", comment: comment, reply: 0
+      - article.comments.take(comment_limit).each do |comment|
+        = render "comment", comment: CommentPresenter.new(comment), reply: 0
       %center
         .btn.btn-xs.btn-link View 1,424 More Replies

@@ -11,6 +11,7 @@ class Article
     @toggleBookmark()
     @showComments()
     @hideComments()
+    @showReplies()
 
   articleID: (event) ->
     $(event.target).closest(".newscard").attr("id")
@@ -57,3 +58,9 @@ class Article
       $button = $(event.target)
       $button.hide()
       $button.siblings(".show-comments").show()
+
+  showReplies: ->
+    $(".show-replies").on "click", (event) =>
+      commentID = $(event.target).closest(".comment").data("id")
+      console.log('Comment ID', commentID)
+
