@@ -76,5 +76,13 @@ class Article
       $button = $(event.target)
       $button.hide()
       $button.siblings(".show-replies").show()
-      for id in @replyIDs(event)
-        $(".comment[data-id='#{id}']").hide()
+      @hideNestedReplies(@replyIDs(event))
+
+  hideNestedReplies: (ids) ->
+    for id in ids
+      $reply = $(".comment[data-id='#{id}']")
+      $reply.find(".hide-replies").hide()
+      $reply.find(".show-replies").show()
+      $reply.hide()
+      @hideNestedReplies($reply.data("reply-ids"))
+

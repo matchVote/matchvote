@@ -40,7 +40,6 @@ matchVote lets you automatically follow the political positions and news for ele
     * Creation
     * User linkage
     * Replies
-      * Show/hide
       * Report
       * Limit nested amount
     * View more
