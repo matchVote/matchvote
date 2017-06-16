@@ -15,11 +15,15 @@ class CommentPresenter < SimpleDelegator
     comment.created_at.strftime("%l:%M%p")
   end
 
-  def show_replies?
+  def has_replies?
     comment.comments.size > 0
   end
 
   def displayed?(reply)
     reply == 0 ? "" : "display:none"
+  end
+
+  def reply_ids
+    comment.comments.map(&:id)
   end
 end

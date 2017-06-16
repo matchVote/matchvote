@@ -1,6 +1,6 @@
 .comment{class: comment.reply_level_class(reply),
          style: comment.displayed?(reply),
-         data: { id: comment.id }}
+         data: { id: comment.id, reply_ids: comment.reply_ids }}
   = comment.text
   %hr
   .commentdetails
@@ -19,9 +19,11 @@
       %li
         .btn.btn-xs.btn-default
           Report
-        - if comment.show_replies?
+        - if comment.has_replies?
           .btn.btn-xs.btn-default.show-replies
             Show Replies
+          .btn.btn-xs.btn-default.hide-replies{style: "display:none"}
+            Hide Replies
         .btn.btn-xs.btn-default
           32
           .glyphicon.glyphicon-heart

@@ -12,9 +12,13 @@ class Article
     @showComments()
     @hideComments()
     @showReplies()
+    @hideReplies()
 
   articleID: (event) ->
     $(event.target).closest(".newscard").attr("id")
+
+  replyIDs: (event) ->
+    $(event.target).closest(".comment").data("reply-ids")
 
   newsworthinessChange: ->
     $(".newsworthiness").on "click", (event) =>
@@ -61,6 +65,16 @@ class Article
 
   showReplies: ->
     $(".show-replies").on "click", (event) =>
-      commentID = $(event.target).closest(".comment").data("id")
-      console.log('Comment ID', commentID)
+      $button = $(event.target)
+      $button.hide()
+      $button.siblings(".hide-replies").show()
+      for id in @replyIDs(event)
+        $(".comment[data-id='#{id}']").show()
 
+  hideReplies: ->
+    $(".hide-replies").on "click", (event) =>
+      $button = $(event.target)
+      $button.hide()
+      $button.siblings(".show-replies").show()
+      for id in @replyIDs(event)
+        $(".comment[data-id='#{id}']").hide()
