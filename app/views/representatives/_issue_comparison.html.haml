@@ -1,4 +1,4 @@
-%h2 How your views compare
+%h3 How your views compare
 %br
 %table.table.table-hover
   - issues.each do |issue|
@@ -7,4 +7,4 @@
         %strong= issue.name.humanize.titleize
       %td.col-md-5= "#{Random.rand(100)}% match"
       %td
-        %button.btn.btn-xs.btn-default View Stances
+        %button.btn.btn-xs.btn-default Compare

@@ -23,7 +23,7 @@
             class: "btn btn-sm btn-default bio_btn",
             data: { behavior: "toggle_bio" }
 
-    .whitecard= render "issue_comparison", issues: @issues
+
 
     .whitecard
       %h2 Recent News
@@ -90,19 +90,4 @@
         class: "btn btn-default btn-sm"
 
 
-    .well.widget
-      %h3 Top Donors
-      %br
-      %table.table.table-striped
-        %tr
-          %td.col-md-6 Donor 1
-          %td.col-md-6 $1,500,000
-        %tr
-          %td.col-md-6 Donor 2
-          %td.col-md-6 $1,000,000
-        %tr
-          %td.col-md-6 Donor 3
-          %td.col-md-6 $750,000
-
-    .well.widget
-      %h3 Interest Group Ratings
+    .well.widget= render "issue_comparison", issues: @issues
