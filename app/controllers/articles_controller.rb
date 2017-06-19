@@ -28,7 +28,7 @@ class ArticlesController < ApplicationController
   private
 
   def user_can_change_article?(id)
-    !UserArticleChange.exists?(article_id: id, user_id: current_user.id)
+    not UserArticleChange.exists?(article_id: id, user_id: current_user.id)
   end
 
   def create_change(id, type)

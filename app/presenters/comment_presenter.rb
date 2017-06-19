@@ -26,4 +26,8 @@ class CommentPresenter < SimpleDelegator
   def reply_ids
     comment.comments.map(&:id)
   end
+
+  def liked?(user)
+    UserCommentChange.exists?(comment_id: id, user_id: user.id)
+  end
 end

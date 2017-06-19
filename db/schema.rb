@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170614014759) do
+ActiveRecord::Schema.define(version: 20170619093247) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -221,6 +221,16 @@ ActiveRecord::Schema.define(version: 20170614014759) do
   end
 
   add_index "user_article_changes", ["article_id", "user_id"], name: "index_user_article_changes_on_article_id_and_user_id", unique: true, using: :btree
+
+  create_table "user_comment_changes", force: :cascade do |t|
+    t.integer  "comment_id"
+    t.uuid     "user_id"
+    t.text     "change_type"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "user_comment_changes", ["comment_id", "user_id"], name: "index_user_comment_changes_on_comment_id_and_user_id", unique: true, using: :btree
 
   create_table "users", id: :uuid, default: "uuid_generate_v4()", force: :cascade do |t|
     t.string   "email",                  default: "",    null: false

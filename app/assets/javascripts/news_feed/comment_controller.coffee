@@ -47,8 +47,14 @@ class CommentController
       $.ajax
         type: "PATCH"
         url: "/comments/#{id}/likes"
-        success: (count) =>
+        success: (status) =>
           $button = $(event.delegateTarget)
-          count = parseInt($button.text()) + 1
+          count = parseInt($button.text())
+          if status == "liked"
+            $button.addClass("label-info")
+            count += 1
+          else
+            $button.removeClass("label-info")
+            count -= 1
           $button.html(count + @glyphiconHeart)
         error: -> console.log("No likey!")

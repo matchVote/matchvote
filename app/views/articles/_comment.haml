@@ -24,7 +24,7 @@
             Show Replies
           .btn.btn-xs.btn-default.hide-replies{style: "display:none"}
             Hide Replies
-        .btn.btn-xs.btn-default.like-button
+        .btn.btn-xs.btn-default.like-button{class: ("label-info" if comment.liked?(current_user))}
           = comment.likes
           .glyphicon.glyphicon-heart
         .btn.btn-xs.btn-black
