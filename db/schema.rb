@@ -46,10 +46,11 @@ ActiveRecord::Schema.define(version: 20170614014759) do
   add_index "bookmarks", ["article_id", "user_id"], name: "index_bookmarks_on_article_id_and_user_id", unique: true, using: :btree
 
   create_table "comments", force: :cascade do |t|
-    t.text     "text",             null: false
+    t.text     "text",                         null: false
     t.uuid     "user_id"
     t.integer  "commentable_id"
     t.string   "commentable_type"
+    t.integer  "likes",            default: 0
     t.datetime "created_at"
     t.datetime "updated_at"
   end

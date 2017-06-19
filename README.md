@@ -20,6 +20,7 @@ matchVote lets you automatically follow the political positions and news for ele
     * Share
     * Truncated stance questions
     * Bookmark Hover CSS
+    * Newsworthiness rating - disable arrows after selecting
   * Filtering
     * Bookmark
     * Topic/Category
@@ -43,7 +44,7 @@ matchVote lets you automatically follow the political positions and news for ele
       * Report
       * Limit nested amount
     * View more
-    * Loved
+    * Loved - not limited
     * Locking
     * Upgrade
     * Filter: Most loved, Most replied, Newest

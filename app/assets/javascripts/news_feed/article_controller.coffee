@@ -1,8 +1,8 @@
 $(document).on "page:change", ->
   return unless $("#article-list").length
-  new Article()
+  new ArticleController()
 
-class Article
+class ArticleController
   constructor: ->
     @bindEvents()
 
@@ -11,14 +11,9 @@ class Article
     @toggleBookmark()
     @showComments()
     @hideComments()
-    @showReplies()
-    @hideReplies()
 
   articleID: (event) ->
     $(event.target).closest(".newscard").attr("id")
-
-  replyIDs: (event) ->
-    $(event.target).closest(".comment").data("reply-ids")
 
   newsworthinessChange: ->
     $(".newsworthiness").on "click", (event) =>
@@ -62,27 +57,3 @@ class Article
       $button = $(event.target)
       $button.hide()
       $button.siblings(".show-comments").show()
-
-  showReplies: ->
-    $(".show-replies").on "click", (event) =>
-      $button = $(event.target)
-      $button.hide()
-      $button.siblings(".hide-replies").show()
-      for id in @replyIDs(event)
-        $(".comment[data-id='#{id}']").show()
-
-  hideReplies: ->
-    $(".hide-replies").on "click", (event) =>
-      $button = $(event.target)
-      $button.hide()
-      $button.siblings(".show-replies").show()
-      @hideNestedReplies(@replyIDs(event))
-
-  hideNestedReplies: (ids) ->
-    for id in ids
-      $reply = $(".comment[data-id='#{id}']")
-      $reply.find(".hide-replies").hide()
-      $reply.find(".show-replies").show()
-      $reply.hide()
-      @hideNestedReplies($reply.data("reply-ids"))
-

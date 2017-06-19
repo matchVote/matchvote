@@ -4,6 +4,7 @@ class CreateComments < ActiveRecord::Migration
       t.text :text, null: false
       t.references :user, type: :uuid, foreign_key: true, index: true
       t.references :commentable, polymorphic: true
+      t.integer :likes, default: 0
       t.timestamps
     end
   end
