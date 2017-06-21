@@ -11,6 +11,8 @@ class User < ActiveRecord::Base
   accepts_nested_attributes_for :contact, reject_if: :all_blank
   has_many :inference_opinions, dependent: :destroy
   has_many :stances, as: :opinionable
+  has_many :comments, dependent: :destroy
+
   validates :username, presence: true, uniqueness: true
   validate :username_has_no_whitespace
 
@@ -25,7 +27,7 @@ class User < ActiveRecord::Base
   def to_param
     "#{username}"
   end
-  
+
   private
     def default_values
       self.profile_type ||= "User"

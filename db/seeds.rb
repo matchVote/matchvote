@@ -13,6 +13,7 @@ if Rails.env.development?
   `psql #{conn} < #{pg_dump}`
 
   Rake::Task["app:import_stance_data"].invoke
-  Rake::Task["articles:load"].invoke
+  Rake::Task["dev:load_users"].invoke
+  Rake::Task["dev:load_fixtures"].invoke
   puts "Done!"
 end
