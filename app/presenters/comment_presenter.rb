@@ -30,4 +30,12 @@ class CommentPresenter < SimpleDelegator
   def liked?(user)
     UserCommentChange.exists?(comment_id: id, user_id: user.id)
   end
+
+  def username
+    comment.user.username
+  end
+
+  def user_profile_pic_url
+    comment.user.profile_pic_url
+  end
 end

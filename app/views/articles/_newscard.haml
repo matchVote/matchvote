@@ -80,5 +80,9 @@
       .comments-list
         - article.comments.take(comment_limit).each do |comment|
           = render "comment", comment: CommentPresenter.new(comment), reply: 0
-      %center
-        .btn.btn-xs.btn-link View 1,424 More Replies
+      - if !article.remaining_comments_count(comment_limit).zero?
+        %center
+          .btn.btn-xs.btn-link
+            View
+            = article.remaining_comments_count(comment_limit)
+            More Comments

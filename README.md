@@ -38,14 +38,13 @@ matchVote lets you automatically follow the political positions and news for ele
     * Most Bookmarked
   * Comments
     * Creation
-    * User linkage
+    * Locking
+    * Upgrade
     * Replies
       * Creation - how does that look?
       * Report
       * Limit nested amount
     * View more
-    * Locking
-    * Upgrade
     * Filter: Most loved, Most replied, Newest
   * CSS
     * Loved, Bookmark status highlight/hover

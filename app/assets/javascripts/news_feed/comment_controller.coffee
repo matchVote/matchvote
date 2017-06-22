@@ -11,6 +11,7 @@ class CommentController
     @showReplies()
     @hideReplies()
     @likeComment()
+    @reportComment()
 
   comment: (event) ->
     $(event.target).closest(".comment")
@@ -58,3 +59,7 @@ class CommentController
             count -= 1
           $button.html(count + @glyphiconHeart)
         error: -> console.log("No likey!")
+
+  reportComment: ->
+    $(".report-comment").on "click", (event) =>
+      sweetAlert "", "User's comment has been reported."

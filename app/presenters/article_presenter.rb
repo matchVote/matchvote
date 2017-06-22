@@ -26,4 +26,9 @@ class ArticlePresenter < SimpleDelegator
   def bookmarked?(user)
     article.bookmarks.exists?(user_id: user.id)
   end
+
+  def remaining_comments_count(limit)
+    num = article.comments.size - limit
+    num < 0 ? 0 : num
+  end
 end

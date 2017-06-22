@@ -6,10 +6,11 @@
   .commentdetails
     %ul
       %li
-        = image_tag "http://data.matchvote.com/images/2015/highprofile/Joe_Biden.png",
-          class: "img", title: "Joe Biden"
+        = link_to citizen_path(comment.user), style: "text-decoration:none" do
+          = image_tag comment.user_profile_pic_url,
+            class: "img", title: comment.username
       %li
-        %strong Joe Biden
+        %strong= comment.username
       %li from DE
       %li
         = comment.created_at_date
@@ -17,8 +18,7 @@
         = comment.created_at_time
       %li &nbsp
       %li
-        .btn.btn-xs.btn-default
-          Report
+        .btn.btn-xs.btn-default.report-comment Report
         - if comment.has_replies?
           .btn.btn-xs.btn-default.show-replies
             Show Replies
