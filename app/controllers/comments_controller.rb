@@ -1,4 +1,15 @@
 class CommentsController < ApplicationController
+  def index_for_article
+    comments = Comment.where(
+      commentable_id: params[:id],
+      commentable_type: params[:type]
+    ).order(created_at: :desc)
+    comments = comments
+      .take(ArticlesController::COMMENT_LIMIT)
+      .map { |c| CommentPresenter.new(c) }
+    render partial: "articles/comments/index", locals: { comments: comments }
+  end
+
   def likes
     if user_can_like?(params[:id])
       Comment.increment_counter(:likes, params[:id])

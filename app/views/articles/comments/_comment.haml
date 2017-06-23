@@ -41,6 +41,6 @@
             .btn.btn-sm.btn-primary
               Submit
 - comment.comments.each do |comment_reply|
-  = render "comment",
+  = render "articles/comments/comment",
     comment: CommentPresenter.new(comment_reply),
     reply: reply + 1

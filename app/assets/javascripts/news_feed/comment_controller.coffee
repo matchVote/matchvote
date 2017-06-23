@@ -12,6 +12,7 @@ class CommentController
     @hideReplies()
     @likeComment()
     @reportComment()
+    @sortComments()
 
   comment: (event) ->
     $(event.target).closest(".comment")
@@ -47,7 +48,7 @@ class CommentController
       id = @comment(event).data("id")
       $.ajax
         type: "PATCH"
-        url: "/comments/#{id}/likes"
+        url: "/api/comments/#{id}/likes"
         success: (status) =>
           $button = $(event.delegateTarget)
           count = parseInt($button.text())
@@ -63,3 +64,18 @@ class CommentController
   reportComment: ->
     $(".report-comment").on "click", (event) =>
       sweetAlert "", "User's comment has been reported."
+
+  sortComments: ->
+    $(".sort-comments").on "change", (event) =>
+      $selectBox = $(event.target)
+      articleID = $selectBox.closest(".newscard").attr("id")
+      $.ajax
+        type: "GET"
+        url: "/api/articles/#{articleID}/comments"
+        data:
+          type: "Article"
+          order: $selectBox.val()
+        success: (html) ->
+          console.log(html)
+          $(".comments-list[data-article-id=#{articleID}]").html(html)
+

@@ -71,15 +71,18 @@
             Comments
         %li
           Comments will be locked in 45 hours
-        %li
-          %select.form-control.signup-field
-            %option Sort by Newest
-            %option Sort by Most Loved
-            %option Sort by Most Replies
+        - if article.comments.size > 1
+          %li
+            %select.form-control.signup-field.sort-comments
+              %option{value: "newest"} Sort by Newest
+              %option{value: "likes"} Sort by Most Loved
+              %option{value: "reply_count"} Sort by Most Replies
 
-      .comments-list
+      .comments-list{data: { article_id: article.id }}
         - article.comments.take(comment_limit).each do |comment|
-          = render "comment", comment: CommentPresenter.new(comment), reply: 0
+          = render "articles/comments/comment",
+            comment: CommentPresenter.new(comment),
+            reply: 0
       - if !article.remaining_comments_count(comment_limit).zero?
         %center
           .btn.btn-xs.btn-link

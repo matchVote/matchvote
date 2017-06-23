@@ -29,6 +29,7 @@ Rails.application.routes.draw do
   patch "/articles/:id/newsworthiness", to: "articles#newsworthiness"
   post "/articles/:id/bookmark", to: "articles#bookmark"
 
-  patch "/comments/:id/likes", to: "comments#likes"
+  get "/api/articles/:id/comments", to: "comments#index_for_article"
+  patch "/api/comments/:id/likes", to: "comments#likes"
 end
 
