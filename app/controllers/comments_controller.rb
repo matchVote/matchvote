@@ -1,10 +1,6 @@
 class CommentsController < ApplicationController
   def index_for_article
-    comments = Comment.where(
-      commentable_id: params[:id],
-      commentable_type: params[:type]
-    ).order(created_at: :desc)
-    comments = comments
+    comments = retrieve_comments(params)
       .take(ArticlesController::COMMENT_LIMIT)
       .map { |c| CommentPresenter.new(c) }
     render partial: "articles/comments/index", locals: { comments: comments }
@@ -24,6 +20,17 @@ class CommentsController < ApplicationController
 
   private
 
+  def retrieve_comments(params)
+    if params[:order] == "reply_count"
+      Comment.find_by_sql(reply_count_ordered_sql(params[:id], params[:type]))
+    else
+      Comment.where(
+        commentable_id: params[:id],
+        commentable_type: params[:type]
+      ).order(params[:order] => :desc)
+    end
+  end
+
   def user_can_like?(id)
     not UserCommentChange.exists?(comment_id: id, user_id: current_user.id)
   end
@@ -37,5 +44,20 @@ class CommentsController < ApplicationController
 
   def remove_change(id)
     UserCommentChange.where(comment_id: id, user_id: current_user.id).destroy_all
+  end
+
+  def reply_count_ordered_sql(id, type)
+    <<-SQL
+      SELECT C.*
+      FROM comments C
+      LEFT JOIN (
+          SELECT commentable_id, count(*) reply_count, commentable_type
+          FROM comments
+          GROUP BY commentable_id, commentable_type
+          HAVING commentable_type = 'Comment'
+      ) R on C.id = R.commentable_id
+      WHERE C.commentable_type = '#{type}' AND C.commentable_id = '#{id}'
+      ORDER BY R.reply_count;
+    SQL
   end
 end

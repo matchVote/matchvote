@@ -21,7 +21,7 @@ class CommentController
     @comment(event).data("reply-ids")
 
   showReplies: ->
-    $(".show-replies").on "click", (event) =>
+    $(".comments-list").on "click", ".show-replies", (event) =>
       $button = $(event.target)
       $button.hide()
       $button.siblings(".hide-replies").show()
@@ -29,7 +29,7 @@ class CommentController
         $(".comment[data-id='#{id}']").show()
 
   hideReplies: ->
-    $(".hide-replies").on "click", (event) =>
+    $(".comments-list").on "click", ".hide-replies", (event) =>
       $button = $(event.target)
       $button.hide()
       $button.siblings(".show-replies").show()
@@ -44,13 +44,13 @@ class CommentController
       @hideNestedReplies($reply.data("reply-ids"))
 
   likeComment: ->
-    $(".like-button").on "click", (event) =>
+    $(".comments-list").on "click", ".like-button", (event) =>
       id = @comment(event).data("id")
       $.ajax
         type: "PATCH"
         url: "/api/comments/#{id}/likes"
         success: (status) =>
-          $button = $(event.delegateTarget)
+          $button = $(event.currentTarget)
           count = parseInt($button.text())
           if status == "liked"
             $button.addClass("label-info")
@@ -62,7 +62,7 @@ class CommentController
         error: -> console.log("No likey!")
 
   reportComment: ->
-    $(".report-comment").on "click", (event) =>
+    $(".comments-list").on "click", ".report-comment", (event) =>
       sweetAlert "", "User's comment has been reported."
 
   sortComments: ->
