@@ -59,11 +59,12 @@
                   Upgrade to matchVote Premium to add your comment
           .col-md-2
             %center
-              .btn.btn-sm.btn-primary.upgradebtn
-                = link_to image_tag(current_user.profile_pic_url, title: "@#{current_user.username}"),
-                  path_for_user(current_user),
-                  id: "view_profile_link"
-                Upgrade
+              .btn.btn-sm.btn-primary.submit-comment{data: {account_type: current_user.account_type}}
+                = link_to path_for_user(current_user), id: "view_profile_link" do
+                  = image_tag current_user.profile_pic_url,
+                    title: "@#{current_user.username}"
+                = current_user.account.standard? ? "Upgrade" : "Submit"
+
       %ul
         %li
           %strong

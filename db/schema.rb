@@ -11,12 +11,21 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170619093247) do
+ActiveRecord::Schema.define(version: 20170628093830) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
   enable_extension "hstore"
   enable_extension "uuid-ossp"
+
+  create_table "accounts", force: :cascade do |t|
+    t.text     "account_type", null: false
+    t.uuid     "user_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "accounts", ["user_id"], name: "index_accounts_on_user_id", using: :btree
 
   create_table "articles", force: :cascade do |t|
     t.text     "url",                               null: false
@@ -268,5 +277,6 @@ ActiveRecord::Schema.define(version: 20170619093247) do
   add_index "users", ["unlock_token"], name: "index_users_on_unlock_token", unique: true, using: :btree
   add_index "users", ["username"], name: "index_users_on_username", unique: true, using: :btree
 
+  add_foreign_key "accounts", "users"
   add_foreign_key "comments", "users"
 end

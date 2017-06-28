@@ -45,7 +45,6 @@ matchVote lets you automatically follow the political positions and news for ele
       * Report
       * Limit nested amount
     * View more
-    * Filter: Most loved, Most replied, Newest
   * CSS
     * Loved, Bookmark status highlight/hover
 * Directory

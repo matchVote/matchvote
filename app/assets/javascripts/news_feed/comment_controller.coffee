@@ -8,6 +8,7 @@ class CommentController
     @glyphiconHeart = '\n<div class="glyphicon glyphicon-heart" />'
 
   bindEvents: ->
+    @submitComment()
     @showReplies()
     @hideReplies()
     @likeComment()
@@ -19,6 +20,15 @@ class CommentController
 
   replyIDs: (event) ->
     @comment(event).data("reply-ids")
+
+  submitComment: ->
+    $(".submit-comment").click (event) =>
+      $button = $(event.target)
+      if $button.data("account-type") == "standard"
+        sweetAlert "", "Consider yourself upgraded"
+        $button.text('Submit')
+      else
+        console.log('Comment submitted')
 
   showReplies: ->
     $(".comments-list").on "click", ".show-replies", (event) =>
@@ -66,7 +76,7 @@ class CommentController
       sweetAlert "", "User's comment has been reported."
 
   sortComments: ->
-    $(".sort-comments").on "change", (event) =>
+    $(".sort-comments").change (event) =>
       $selectBox = $(event.target)
       articleID = $selectBox.closest(".newscard").attr("id")
       $.ajax
