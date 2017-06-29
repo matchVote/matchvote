@@ -54,16 +54,17 @@
         .row
           .col-md-10
             .form-group
-              %textarea.form-control
-                :preserve
-                  Upgrade to matchVote Premium to add your comment
+              %textarea.form-control.comment-box{placeholder: article.comment_box_text(current_user),
+                                                 data: { article_id: article.id }}
           .col-md-2
             %center
-              .btn.btn-sm.btn-primary.submit-comment{data: {account_type: current_user.account_type}}
-                = link_to path_for_user(current_user), id: "view_profile_link" do
-                  = image_tag current_user.profile_pic_url,
-                    title: "@#{current_user.username}"
-                = current_user.account.standard? ? "Upgrade" : "Submit"
+              .btn.btn-sm.btn-primary.submit-comment{data: {account_type: current_user.account_type,
+                                                            user_id: current_user.id}}
+                - if current_user.account.standard?
+                  = image_tag current_user.profile_pic_url, title: "@#{current_user.username}"
+                  Upgrade
+                - else
+                  Submit
 
       %ul
         %li

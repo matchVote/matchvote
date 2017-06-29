@@ -20,5 +20,10 @@ class CitizenUpdater
     type = settings.delete(:type).to_sym
     citizen.settings(type).update!(settings)
   end
+
+  def upgrade_account
+    citizen.account.update!(account_type: :premium)
+    :premium
+  end
 end
 

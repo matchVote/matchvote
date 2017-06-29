@@ -31,4 +31,12 @@ class ArticlePresenter < SimpleDelegator
     num = article.comments.size - limit
     num < 0 ? 0 : num
   end
+
+  def comment_box_text(user)
+    if user.account.standard?
+      "Upgrade to matchVote Premium to add your comment"
+    else
+      "Add your comment"
+    end
+  end
 end

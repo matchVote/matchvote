@@ -18,17 +18,34 @@ class CommentController
   comment: (event) ->
     $(event.target).closest(".comment")
 
+  articleID: (event) ->
+    $(event.target).closest(".newscard").attr("id")
+
   replyIDs: (event) ->
     @comment(event).data("reply-ids")
 
   submitComment: ->
     $(".submit-comment").click (event) =>
+      self = @
       $button = $(event.target)
-      if $button.data("account-type") == "standard"
-        sweetAlert "", "Consider yourself upgraded"
-        $button.text('Submit')
+      userID = $button.data("user-id")
+      $commentBox = $(".comment-box[data-article-id=#{articleID}]")
+      self.accountType = $button.data("account-type")
+      console.log("Account Type", self.accountType)
+      if self.accountType == "standard"
+        $.ajax
+          type: "PATCH"
+          url: "/api/citizens/#{userID}/upgrade_account"
+          success: (data) =>
+            sweetAlert "", "Consider yourself upgraded"
+            $button.text("Submit")
+            $commentBox.attr("placeholder", "Add your comment")
+            self.accountType = data.account_type
+            console.log("Account Type in callback", self.accountType)
+          error: -> console.log("Account upgrade error")
       else
-        console.log('Comment submitted')
+        articleID = @articleID(event)
+        console.log("Comment submitted: #{$commentBox.val()}")
 
   showReplies: ->
     $(".comments-list").on "click", ".show-replies", (event) =>
@@ -78,7 +95,7 @@ class CommentController
   sortComments: ->
     $(".sort-comments").change (event) =>
       $selectBox = $(event.target)
-      articleID = $selectBox.closest(".newscard").attr("id")
+      articleID = @articleID(event)
       $.ajax
         type: "GET"
         url: "/api/articles/#{articleID}/comments"

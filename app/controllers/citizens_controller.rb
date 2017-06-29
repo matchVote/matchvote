@@ -49,6 +49,13 @@ class CitizensController < ApplicationController
     render text: :success
   end
 
+  def upgrade_account
+    user = User.find(params[:id])
+    authorize user
+    account_type = CitizenUpdater.new(user).upgrade_account
+    render json: { account_type: account_type }
+  end
+
   private
     def citizen_params
       params.require(:user).permit(
