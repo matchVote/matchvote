@@ -1,4 +1,6 @@
-%h3 Personal Info
+%h3 Profile Info
+%span Displayed on your profile page. Read about our
+= link_to "Privacy Policy", "http://matchvote.com/privacy", target:"_blank"
 = f.fields_for :personal_info, OpenStruct.new(f.object.personal_info) do |pi|
   %div
     = pi.text_field :first_name,
@@ -9,7 +11,7 @@
       class: ["form-control", "signup-field"],
       placeholder: "Last Name"
   %div
-    = pi.text_field :birthday, 
+    = pi.text_field :birthday,
       class: ["form-control", "signup-field"],
       id: "date_picker",
       placeholder: "Birthday (mm/dd/yyyy)"
@@ -46,4 +48,3 @@
         { include_blank: "Relationship" },
         class: ["form-control", "signup-field"],
         placeholder: "Relationship"
-

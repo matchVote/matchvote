@@ -1,49 +1,41 @@
 = render "layouts/preloginheader"
-.row
+.container
   .col-md-8
     %br
-    .jumbotron
+    .landingcard
       %center
         = render "landingpics"
-        %h2 Automatically follow the political positions and news for 608 elected officials in the US
-      %p.landing_text
-        matchVote keeps you up-to-date with what's happening in politics by finding the politicians that agree and disagree with what's important to you. Get notifications when elected officials change their positions:
+        %h1 Automatically follow the political news and positions for 732 elected officials
+        %hr
+        %h4 Political news with a feedback loop
+      .landing_text
+        matchVote keeps you up-to-date with what's happening in politics by finding the elected officials and candidates who agree and disagree with what's important to you. It's a new model for civic engagement where you can reward or punish politicians for how they represent you in government.
       %center
-        %strong
-          %span 24 US Presidential Candidates  -
-          %span 535 US Senators & Representatives  -
-          %span 50 State Governors
         %br
         %br
         %a= link_to "Get Started", new_user_registration_path, class: "btn btn-lg btn-danger"
         %br
         .landing_links
-          %a= link_to "About matchVote", "/about"
-          %a= link_to "How it Works", "/about"
-          %a= link_to "Our Team", "/about"
-          %a= link_to "Investors", "/about"
-
-  .col-md-3
-    %br
-    %br
-    %br
-    %h2 Login
-    = form_for(resource, as: resource_name, url: session_path(resource_name)) do |f|
-      %div= f.email_field :email, 
-        autofocus: true, 
-        placeholder: "Email", 
-        class: "form-control"
-      %div= f.password_field :password, 
-        autocomplete: "off", 
-        placeholder: "Password", 
-        class: "form-control"
-      - if devise_mapping.rememberable?
-        %div
-          = f.check_box :remember_me
-          = f.label :remember_me
-          %a= link_to "Forgot Password?", "/users/password/new", class: "pull-right"
-      %br
-      .col-md-5
-        %div= f.submit "Sign In", class: ["btn","btn-primary"]
-      .col-md-7
-        %a= link_to "Create Account", new_user_registration_path, class: "btn btn-default"
+          %a= link_to "How it Works", "/start"
+  .col-md-4
+    .logincard
+      %h2 Login
+      = form_for(resource, as: resource_name, url: session_path(resource_name)) do |f|
+        .loginfield= f.email_field :email,
+          autofocus: true,
+          placeholder: "Email",
+          class: "form-control"
+        .loginfield= f.password_field :password,
+          autocomplete: "off",
+          placeholder: "Password",
+          class: "form-control"
+        - if devise_mapping.rememberable?
+          %div
+            = f.check_box :remember_me
+            = f.label :remember_me
+            %a= link_to "Forgot Password?", "/users/password/new", class: "pull-right"
+        %br
+        .col-md-5
+          %div= f.submit "Sign In", class: "btn btn-primary btn-block"
+        .col-md-7
+          %a= link_to "Create Account", new_user_registration_path, class: "btn btn-default btn-block"
