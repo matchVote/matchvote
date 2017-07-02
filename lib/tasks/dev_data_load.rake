@@ -7,6 +7,7 @@ namespace :dev do
         type = model.name.downcase.pluralize
         YAML.load_file("#{Rails.root}/spec/fixtures/#{type}.yml").each do |data|
           model.create(data)
+          model.connection.execute("SELECT nextval('#{type}_id_seq')")
         end
       end
     end

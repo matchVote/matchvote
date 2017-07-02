@@ -30,6 +30,7 @@ Rails.application.routes.draw do
   post "/articles/:id/bookmark", to: "articles#bookmark"
 
   scope "/api" do
+    resources :comments, only: [:create]
     get "/articles/:id/comments", to: "comments#index_for_article"
     patch "/comments/:id/likes", to: "comments#likes"
     patch "/citizens/:id/upgrade_account", to: "citizens#upgrade_account"

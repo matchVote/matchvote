@@ -6,6 +6,7 @@ class CommentController
   constructor: ->
     @bindEvents()
     @glyphiconHeart = '\n<div class="glyphicon glyphicon-heart" />'
+    @userAccountType = null
 
   bindEvents: ->
     @submitComment()
@@ -26,13 +27,13 @@ class CommentController
 
   submitComment: ->
     $(".submit-comment").click (event) =>
-      self = @
       $button = $(event.target)
       userID = $button.data("user-id")
+      articleID = $button.data("article-id")
       $commentBox = $(".comment-box[data-article-id=#{articleID}]")
-      self.accountType = $button.data("account-type")
-      console.log("Account Type", self.accountType)
-      if self.accountType == "standard"
+      @userAccountType ?= $button.data("account-type")
+      if @userAccountType == "standard"
+        # This will redirect to a payment page in the future
         $.ajax
           type: "PATCH"
           url: "/api/citizens/#{userID}/upgrade_account"
@@ -40,12 +41,25 @@ class CommentController
             sweetAlert "", "Consider yourself upgraded"
             $button.text("Submit")
             $commentBox.attr("placeholder", "Add your comment")
-            self.accountType = data.account_type
-            console.log("Account Type in callback", self.accountType)
+            @userAccountType = data.account_type
           error: -> console.log("Account upgrade error")
       else
-        articleID = @articleID(event)
-        console.log("Comment submitted: #{$commentBox.val()}")
+        $.ajax
+          type: "POST"
+          url: "/api/comments"
+          data:
+            text: $commentBox.val()
+            article_id: articleID
+            user_id: userID
+          success: (html) =>
+            commentsListSelector = ".comments-list[data-article-id=#{articleID}]"
+            $(html).hide().prependTo(commentsListSelector).fadeIn("slow")
+            $commentBox.val("")
+            $countDivs = $(".comment-count[data-article-id=#{articleID}]")
+            count = parseInt($($countDivs[0]).text()) + 1
+            $countDivs.each (index, div) ->
+              $(div).text(count)
+          error: -> console.log("Comment submission error")
 
   showReplies: ->
     $(".comments-list").on "click", ".show-replies", (event) =>
@@ -103,6 +117,5 @@ class CommentController
           type: "Article"
           order: $selectBox.val()
         success: (html) ->
-          console.log(html)
           $(".comments-list[data-article-id=#{articleID}]").html(html)
 

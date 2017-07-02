@@ -53,7 +53,7 @@ class ArticleController
 
   hideComments: ->
     $(".hide-comments").on "click", (event) =>
-      $("[data-article-id='#{@articleID(event)}']").hide()
+      $(".news-comments[data-article-id='#{@articleID(event)}']").hide()
       $button = $(event.target)
       $button.hide()
       $button.siblings(".show-comments").show()

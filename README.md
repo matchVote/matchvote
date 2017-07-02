@@ -37,9 +37,8 @@ matchVote lets you automatically follow the political positions and news for ele
     * Most Shared
     * Most Bookmarked
   * Comments
-    * Creation
     * Locking
-    * Upgrade
+    * Upgrade -- Temp implementation until Account Upgrade feature is done
     * Replies
       * Creation - how does that look?
       * Report
@@ -47,6 +46,7 @@ matchVote lets you automatically follow the political positions and news for ele
     * View more
   * CSS
     * Loved, Bookmark status highlight/hover
+* Account Upgrade (payments)
 * Directory
   * Sort: 
     * Most Similar/Least similar

@@ -22,7 +22,7 @@
           = link_to article.url, target: "_blank", style: "text-decoration: none" do
             .btn.btn-sm.btn-danger= article.read_time
           .show-comments.btn.btn-sm.btn-default
-            = article.comments.size
+            %span.comment-count{data: { article_id: article.id }}= article.comments.size
             Comments
           .hide-comments.btn.btn-sm.btn-black{style: "display:none"}
             Close Comments
@@ -58,8 +58,9 @@
                                                  data: { article_id: article.id }}
           .col-md-2
             %center
-              .btn.btn-sm.btn-primary.submit-comment{data: {account_type: current_user.account_type,
-                                                            user_id: current_user.id}}
+              .btn.btn-sm.btn-primary.submit-comment{data: { account_type: current_user.account_type,
+                                                             article_id: article.id,
+                                                             user_id: current_user.id }}
                 - if current_user.account.standard?
                   = image_tag current_user.profile_pic_url, title: "@#{current_user.username}"
                   Upgrade
@@ -69,16 +70,15 @@
       %ul
         %li
           %strong
-            = article.comments.size
+            %span.comment-count{data: { article_id: article.id }}= article.comments.size
             Comments
         %li
           Comments will be locked in 45 hours
-        - if article.comments.size > 1
-          %li
-            %select.form-control.signup-field.sort-comments
-              %option{value: "created_at"} Sort by Newest
-              %option{value: "likes"} Sort by Most Loved
-              %option{value: "reply_count"} Sort by Most Replies
+        %li
+          %select.form-control.signup-field.sort-comments
+            %option{value: "created_at"} Sort by Newest
+            %option{value: "likes"} Sort by Most Loved
+            %option{value: "reply_count"} Sort by Most Replies
 
       .comments-list{data: { article_id: article.id }}
         - article.comments.take(comment_limit).each do |comment|

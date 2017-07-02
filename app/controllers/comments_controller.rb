@@ -1,4 +1,14 @@
 class CommentsController < ApplicationController
+  def create
+    comment = Comment.create!(
+      text: params[:text],
+      user_id: params[:user_id],
+      commentable_type: 'Article',
+      commentable_id: params[:article_id])
+    render partial: "articles/comments/comment",
+      locals: { comment: CommentPresenter.new(comment), reply: 0 }
+  end
+
   def index_for_article
     comments = retrieve_comments(params)
       .take(ArticlesController::COMMENT_LIMIT)
