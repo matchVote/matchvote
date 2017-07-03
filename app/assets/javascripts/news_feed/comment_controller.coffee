@@ -15,6 +15,8 @@ class CommentController
     @likeComment()
     @reportComment()
     @sortComments()
+    @showReplyBox()
+    @hideReplyBox()
 
   comment: (event) ->
     $(event.target).closest(".comment")
@@ -119,3 +121,16 @@ class CommentController
         success: (html) ->
           $(".comments-list[data-article-id=#{articleID}]").html(html)
 
+  showReplyBox: ->
+    $(".comments-list").on "click", ".create-reply", (event) =>
+      id = @comment(event).data("id")
+      $button = $(event.target).hide()
+      $button.siblings(".close-reply").show()
+      $(".writereply[data-comment-id=#{id}]").show()
+
+  hideReplyBox: ->
+    $(".comments-list").on "click", ".close-reply", (event) =>
+      id = @comment(event).data("id")
+      $button = $(event.target).hide()
+      $button.siblings(".create-reply").show()
+      $(".writereply[data-comment-id=#{id}]").hide()
