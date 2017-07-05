@@ -1,5 +1,5 @@
-.comment{class: comment.reply_level_class(reply),
-         style: comment.displayed?(reply),
+.comment{class: comment.reply_level_class(reply_level),
+         style: comment.displayed?(reply_level),
          data: { id: comment.id, reply_ids: comment.reply_ids }}
   = comment.text
   %hr
@@ -11,7 +11,7 @@
             class: "img", title: comment.username
       %li
         %strong= comment.username
-      %li from DE
+      %li= comment.user_location
       %li
         = comment.created_at_date
         @
@@ -29,20 +29,20 @@
           .glyphicon.glyphicon-heart
         .create-reply.btn.btn-xs.btn-primary{data: { comment_id: comment.id }}
           Reply
-        .close-reply.btn.btn-xs.btn-black{style: "display:none"}
+        .close-reply.btn.btn-xs.btn-black{style: "display:none", data: { comment_id: comment.id }}
           Close Reply
     .writereply{style: "display:none", data: { comment_id: comment.id }}
       .row
         .col-md-10
           .form-group
-            %textarea.form-control
-              :preserve
-                Reply to Joe Biden
+            %textarea.form-control.comment-box{data: { ctbl_id: comment.id, ctbl_type: "Comment" },
+              placeholder: "Reply to #{comment.username}"}
+            %span.comment-box-error{style: "display:none"} Textbox cannot be blank
         .col-md-2
           %center
-            .btn.btn-sm.btn-primary
+            .btn.btn-sm.btn-primary.submit-comment{data: { ctbl_id: comment.id, ctbl_type: "Comment", reply_level: reply_level }}
               Submit
 - comment.comments.each do |comment_reply|
   = render "articles/comments/comment",
     comment: CommentPresenter.new(comment_reply),
-    reply: reply + 1
+    reply_level: reply_level + 1

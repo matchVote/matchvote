@@ -9,14 +9,15 @@ class CommentController
     @userAccountType = null
 
   bindEvents: ->
+    @typeComment()
     @submitComment()
-    @showReplies()
-    @hideReplies()
+    @showRepliesClick()
+    @hideRepliesClick()
     @likeComment()
     @reportComment()
     @sortComments()
-    @showReplyBox()
-    @hideReplyBox()
+    @createReplyButtonClick()
+    @closeReplyButtonClick()
 
   comment: (event) ->
     $(event.target).closest(".comment")
@@ -27,12 +28,22 @@ class CommentController
   replyIDs: (event) ->
     @comment(event).data("reply-ids")
 
+  ctblSelector: (root, id, type) ->
+    "#{root}[data-ctbl-id=#{id}][data-ctbl-type=#{type}]"
+
+  typeComment: ->
+    $(".news-comments").on "keypress", ".comment-box", (event) =>
+      $commentBoxError = $(event.target).siblings(".comment-box-error")
+      if $commentBoxError.is(":visible")
+        $commentBoxError.hide()
+
   submitComment: ->
-    $(".submit-comment").click (event) =>
+    $(".news-comments").on "click", ".submit-comment", (event) =>
       $button = $(event.target)
       userID = $button.data("user-id")
-      articleID = $button.data("article-id")
-      $commentBox = $(".comment-box[data-article-id=#{articleID}]")
+      ctblID = $button.data("ctbl-id")
+      ctblType = $button.data("ctbl-type")
+      $commentBox = $(@ctblSelector(".comment-box", ctblID, ctblType))
       @userAccountType ?= $button.data("account-type")
       if @userAccountType == "standard"
         # This will redirect to a payment page in the future
@@ -46,24 +57,46 @@ class CommentController
             @userAccountType = data.account_type
           error: -> console.log("Account upgrade error")
       else
-        $.ajax
-          type: "POST"
-          url: "/api/comments"
-          data:
-            text: $commentBox.val()
-            article_id: articleID
-            user_id: userID
-          success: (html) =>
-            commentsListSelector = ".comments-list[data-article-id=#{articleID}]"
-            $(html).hide().prependTo(commentsListSelector).fadeIn("slow")
-            $commentBox.val("")
-            $countDivs = $(".comment-count[data-article-id=#{articleID}]")
-            count = parseInt($($countDivs[0]).text()) + 1
-            $countDivs.each (index, div) ->
-              $(div).text(count)
-          error: -> console.log("Comment submission error")
+        text = $commentBox.val()
+        $commentBox.val("")
+        if text
+          $.ajax
+            type: "POST"
+            url: "/api/comments"
+            data:
+              text: text
+              id: ctblID
+              type: ctblType
+              reply_level: parseInt($button.data("reply-level")) + 1
+            success: (html) =>
+              if ctblType == "Article"
+                @addComment(html, ctblID)
+              else
+                $button = $(".close-reply[data-comment-id=#{ctblID}]")
+                @closeReplyBox(ctblID, $button)
+                @addReply(html, ctblID)
+            error: -> console.log("Comment submission error")
+        else
+          console.log("Textbox empty")
+          $commentBox.siblings(".comment-box-error").show()
 
-  showReplies: ->
+  addComment: (html, $commentBox, id) ->
+    commentsListSelector = ".comments-list[data-article-id=#{id}]"
+    $(html).hide().prependTo(commentsListSelector).fadeIn("slow")
+    $countDivs = $(".comment-count[data-article-id=#{id}]")
+    count = parseInt($($countDivs[0]).text()) + 1
+    $countDivs.each (index, div) ->
+      $(div).text(count)
+
+  addReply: (html, parentID) ->
+    $comment = $(".comment[data-id=#{parentID}]")
+    $reply = $(html)
+    $reply.insertAfter($comment).fadeIn("slow")
+    replyIDs = $comment.data("reply-ids")
+    replyIDs.push($reply.data("id"))
+    $comment.attr("data-reply-ids", replyIDs)
+
+  showRepliesClick: ->
     $(".comments-list").on "click", ".show-replies", (event) =>
       $button = $(event.target)
       $button.hide()
@@ -71,7 +104,7 @@ class CommentController
       for id in @replyIDs(event)
         $(".comment[data-id='#{id}']").show()
 
-  hideReplies: ->
+  hideRepliesClick: ->
     $(".comments-list").on "click", ".hide-replies", (event) =>
       $button = $(event.target)
       $button.hide()
@@ -121,16 +154,20 @@ class CommentController
         success: (html) ->
           $(".comments-list[data-article-id=#{articleID}]").html(html)
 
-  showReplyBox: ->
+  createReplyButtonClick: ->
     $(".comments-list").on "click", ".create-reply", (event) =>
       id = @comment(event).data("id")
       $button = $(event.target).hide()
       $button.siblings(".close-reply").show()
       $(".writereply[data-comment-id=#{id}]").show()
 
-  hideReplyBox: ->
+  closeReplyButtonClick: ->
     $(".comments-list").on "click", ".close-reply", (event) =>
       id = @comment(event).data("id")
-      $button = $(event.target).hide()
-      $button.siblings(".create-reply").show()
-      $(".writereply[data-comment-id=#{id}]").hide()
+      @closeReplyBox(id, $(event.target))
+
+  closeReplyBox: (commentID, $button) ->
+    $button.hide()
+    $button.siblings(".create-reply").show()
+    $(".writereply[data-comment-id=#{commentID}]").hide()
+

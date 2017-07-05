@@ -3,8 +3,12 @@ class CommentPresenter < SimpleDelegator
     @comment ||= __getobj__
   end
 
+  def user
+    @user ||= CitizenPresenter.new(comment.user)
+  end
+
   def reply_level_class(level)
-    level.zero? ? "" : "reply#{level}"
+    level.to_i.zero? ? "" : "reply#{level}"
   end
 
   def created_at_date
@@ -32,10 +36,15 @@ class CommentPresenter < SimpleDelegator
   end
 
   def username
-    comment.user.username
+    user.username
   end
 
   def user_profile_pic_url
-    comment.user.profile_pic_url
+    user.profile_pic_url
+  end
+
+  def user_location
+    state = user.address.state
+    state.blank? ? nil : "from #{state}"
   end
 end

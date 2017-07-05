@@ -55,18 +55,17 @@
           .col-md-10
             .form-group
               %textarea.form-control.comment-box{placeholder: article.comment_box_text(current_user),
-                                                 data: { article_id: article.id }}
+                data: { ctbl_id: article.id, ctbl_type: "Article" }}
+              %span.comment-box-error{style: "display:none"} Textbox cannot be blank
           .col-md-2
             %center
               .btn.btn-sm.btn-primary.submit-comment{data: { account_type: current_user.account_type,
-                                                             article_id: article.id,
-                                                             user_id: current_user.id }}
+                ctbl_id: article.id, ctbl_type: "Article", user_id: current_user.id }}
                 - if current_user.account.standard?
                   = image_tag current_user.profile_pic_url, title: "@#{current_user.username}"
                   Upgrade
                 - else
                   Submit
-
       %ul
         %li
           %strong
@@ -84,7 +83,7 @@
         - article.comments.take(comment_limit).each do |comment|
           = render "articles/comments/comment",
             comment: CommentPresenter.new(comment),
-            reply: 0
+            reply_level: 0
       - if !article.remaining_comments_count(comment_limit).zero?
         %center
           .btn.btn-xs.btn-link
