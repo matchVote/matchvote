@@ -75,12 +75,13 @@ class CommentController
                 $button = $(".close-reply[data-comment-id=#{ctblID}]")
                 @closeReplyBox(ctblID, $button)
                 @addReply(html, ctblID)
+                @updateDisplayRepliesButton(ctblID)
             error: -> console.log("Comment submission error")
         else
           console.log("Textbox empty")
           $commentBox.siblings(".comment-box-error").show()
 
-  addComment: (html, $commentBox, id) ->
+  addComment: (html, id) ->
     commentsListSelector = ".comments-list[data-article-id=#{id}]"
     $(html).hide().prependTo(commentsListSelector).fadeIn("slow")
     $countDivs = $(".comment-count[data-article-id=#{id}]")
@@ -96,8 +97,14 @@ class CommentController
     replyIDs.push($reply.data("id"))
     $comment.attr("data-reply-ids", replyIDs)
 
+  updateDisplayRepliesButton: (id) ->
+    $showRepliesButton = $(".show-replies[data-comment-id=#{id}]")
+    $hideRepliesButton = $(".hide-replies[data-comment-id=#{id}]")
+    if not $showRepliesButton.is(":visible") and not $hideRepliesButton.is(":visible")
+      $hideRepliesButton.show()
+
   showRepliesClick: ->
-    $(".comments-list").on "click", ".show-replies", (event) =>
+    $(".news-comments").on "click", ".show-replies", (event) =>
       $button = $(event.target)
       $button.hide()
       $button.siblings(".hide-replies").show()
@@ -105,22 +112,24 @@ class CommentController
         $(".comment[data-id='#{id}']").show()
 
   hideRepliesClick: ->
-    $(".comments-list").on "click", ".hide-replies", (event) =>
+    $(".news-comments").on "click", ".hide-replies", (event) =>
       $button = $(event.target)
       $button.hide()
       $button.siblings(".show-replies").show()
-      @hideNestedReplies(@replyIDs(event))
+      @hideReplies(@replyIDs(event))
 
-  hideNestedReplies: (ids) ->
+  hideReplies: (ids) ->
     for id in ids
       $reply = $(".comment[data-id='#{id}']")
-      $reply.find(".hide-replies").hide()
-      $reply.find(".show-replies").show()
+      replyIDs = $reply.data("reply-ids")
+      if replyIDs.length > 0
+        $reply.find(".hide-replies").hide()
+        $reply.find(".show-replies").show()
       $reply.hide()
-      @hideNestedReplies($reply.data("reply-ids"))
+      @hideReplies(replyIDs)
 
   likeComment: ->
-    $(".comments-list").on "click", ".like-button", (event) =>
+    $(".news-comments").on "click", ".like-button", (event) =>
       id = @comment(event).data("id")
       $.ajax
         type: "PATCH"
@@ -138,7 +147,7 @@ class CommentController
         error: -> console.log("No likey!")
 
   reportComment: ->
-    $(".comments-list").on "click", ".report-comment", (event) =>
+    $(".news-comments").on "click", ".report-comment", (event) =>
       sweetAlert "", "User's comment has been reported."
 
   sortComments: ->
@@ -155,14 +164,14 @@ class CommentController
           $(".comments-list[data-article-id=#{articleID}]").html(html)
 
   createReplyButtonClick: ->
-    $(".comments-list").on "click", ".create-reply", (event) =>
+    $(".news-comments").on "click", ".create-reply", (event) =>
       id = @comment(event).data("id")
       $button = $(event.target).hide()
       $button.siblings(".close-reply").show()
       $(".writereply[data-comment-id=#{id}]").show()
 
   closeReplyButtonClick: ->
-    $(".comments-list").on "click", ".close-reply", (event) =>
+    $(".news-comments").on "click", ".close-reply", (event) =>
       id = @comment(event).data("id")
       @closeReplyBox(id, $(event.target))
 

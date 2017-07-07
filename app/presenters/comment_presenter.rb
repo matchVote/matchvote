@@ -19,8 +19,8 @@ class CommentPresenter < SimpleDelegator
     comment.created_at.strftime("%l:%M%p")
   end
 
-  def has_replies?
-    comment.comments.size > 0
+  def has_no_replies?
+    comment.comments.size.zero?
   end
 
   def displayed?(reply)

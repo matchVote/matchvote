@@ -7,7 +7,7 @@ class CommentsController < ApplicationController
       commentable_id: params[:id])
     render partial: "articles/comments/comment",
       locals: { comment: CommentPresenter.new(comment),
-                reply_level: params[:reply_level] || 0 }
+                reply_level: params[:reply_level].to_i }
   end
 
   def index_for_article

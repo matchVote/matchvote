@@ -19,11 +19,11 @@
       %li &nbsp
       %li
         .btn.btn-xs.btn-default.report-comment Report
-        - if comment.has_replies?
-          .btn.btn-xs.btn-default.show-replies
-            Show Replies
-          .btn.btn-xs.btn-default.hide-replies{style: "display:none"}
-            Hide Replies
+        .btn.btn-xs.btn-default.show-replies{style: ("display:none" if comment.has_no_replies?),
+          data: { comment_id: comment.id }}
+          Show Replies
+        .btn.btn-xs.btn-default.hide-replies{style: "display:none", data: { comment_id: comment.id }}
+          Hide Replies
         .btn.btn-xs.btn-default.like-button{class: ("label-info" if comment.liked?(current_user))}
           = comment.likes
           .glyphicon.glyphicon-heart
