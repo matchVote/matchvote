@@ -162,6 +162,8 @@ class CommentController
           order: $selectBox.val()
         success: (html) ->
           $(".comments-list[data-article-id=#{articleID}]").html(html)
+        error: ->
+          console.log("some shit happened with the sort!")
 
   createReplyButtonClick: ->
     $(".news-comments").on "click", ".create-reply", (event) =>

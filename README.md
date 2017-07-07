@@ -37,6 +37,7 @@ matchVote lets you automatically follow the political positions and news for ele
     * Most Shared
     * Most Bookmarked
   * Comments
+    * Sorting by most replies is not working properly
     * Locking
     * Upgrade -- Temp implementation until Account Upgrade feature is done
     * Replies
