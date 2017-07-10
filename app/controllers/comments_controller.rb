@@ -62,13 +62,14 @@ class CommentsController < ApplicationController
       SELECT C.*
       FROM comments C
       LEFT JOIN (
-          SELECT commentable_id, count(*) reply_count, commentable_type
-          FROM comments
-          GROUP BY commentable_id, commentable_type
-          HAVING commentable_type = 'Comment'
+        SELECT commentable_id, commentable_type, count(*) reply_count
+        FROM comments
+        GROUP BY commentable_id, commentable_type
+        HAVING commentable_type = 'Comment'
       ) R on C.id = R.commentable_id
-      WHERE C.commentable_type = '#{type}' AND C.commentable_id = '#{id}'
-      ORDER BY R.reply_count;
+      WHERE C.commentable_type = '#{type}'
+        AND C.commentable_id = #{id}
+      ORDER BY R.reply_count DESC NULLS LAST;
     SQL
   end
 end
