@@ -4,7 +4,7 @@ class ArticlePresenter < SimpleDelegator
   end
 
   def read_time
-    "#{article.read_time} read time"
+    "#{article.read_time} min Read"
   end
 
   def authored_by
