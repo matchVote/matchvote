@@ -26,6 +26,7 @@ Rails.application.routes.draw do
   resources :rep_stances, only: [:index]
 
   get "/news", to: "articles#index"
+  resources :articles, only: [:show]
   patch "/articles/:id/newsworthiness", to: "articles#newsworthiness"
   post "/articles/:id/bookmark", to: "articles#bookmark"
 

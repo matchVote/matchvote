@@ -6,6 +6,10 @@ class ArticlesController < ApplicationController
     @articles = Article.includes(:comments).map { |a| ArticlePresenter.new(a) }
   end
 
+  def show
+    @article = ArticlePresenter.new(Article.find(params[:id]))
+  end
+
   def newsworthiness
     if user_can_change_article?(params[:id])
       Article.send("#{params[:type]}_counter", :newsworthiness_count, params[:id])
