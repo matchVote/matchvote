@@ -1,5 +1,4 @@
 .comment{class: comment.reply_level_class(reply_level),
-         style: comment.displayed?(reply_level),
          data: { id: comment.id, reply_ids: comment.reply_ids }}
   = comment.text
   %hr
@@ -19,10 +18,10 @@
       %li &nbsp
       %li
         .btn.btn-xs.btn-default.report-comment Report
-        .btn.btn-xs.btn-default.show-replies{style: ("display:none" if comment.has_no_replies?),
-          data: { comment_id: comment.id }}
+        .btn.btn-xs.btn-default.show-replies{style: "display:none", data: { comment_id: comment.id }}
           Show Replies
-        .btn.btn-xs.btn-default.hide-replies{style: "display:none", data: { comment_id: comment.id }}
+        .btn.btn-xs.btn-default.hide-replies{style: ("display:none" if comment.has_no_replies?),
+          data: { comment_id: comment.id }}
           Hide Replies
         .btn.btn-xs.like-button{class: ("like-button" if comment.liked?(current_user))}
           = comment.likes
