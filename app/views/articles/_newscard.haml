@@ -18,6 +18,13 @@
           %ul
             - article.summary_points.each do |sp|
               %li= sp
+        .news-topics
+          %ul
+            %li
+              %strong Topics:
+            - article.top_keywords.each do |keyword|
+              %li
+                %a= keyword
         %hr
         %center
           = link_to article.url, target: "_blank", style: "text-decoration: none" do
@@ -35,11 +42,6 @@
             Bookmark
       .col-md-5
         = render "articles/pulsepoll"
-        .news-topics
-          %ul
-            - article.top_keywords.each do |keyword|
-              %li
-                %a= keyword
   .news-comments{style: "display:none", data: { article_id: article.id }}
     .well
       .writecomment

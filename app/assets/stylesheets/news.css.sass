@@ -96,10 +96,9 @@
 
 .news-summary
   ul li
-    margin: 0 0 5px -30px
+    margin: 0 0 5px -20px
 
 .news-pulse-poll
-  padding-top: 30px
   hr
     margin: 20px 0 20px 0
   img
@@ -118,14 +117,34 @@
       top: -1px
       -webkit-filter: brightness(1.10)
       cursor: pointer
-  .btn
-    &:hover
-      .glyphicon-ok-sign
-        color: #138e4b
-      .glyphicon-remove-sign
-        color: #dd4e4c
+  .title
+    font-size: 10px
+    letter-spacing: 2px
+    color: #ccc
+    margin-bottom: 15px
+    position: relative
+    z-index: 1
+    &:before
+      border-top: 1px solid #dfdfdf
+      content: ""
+      margin: 0 auto
+      position: absolute
+      top: 50%
+      left: 0
+      right: 0
+      bottom: 0
+      width: 100%
+      z-index: -1
+    span
+      background: #fff
+      border: 1px solid #dfdfdf
+      padding: 3px 8px 3px 8px
+
 
 .news-topics
+  ul
+    margin: 0
+    padding: 0
   ul li
     list-style: none
     display: inline
@@ -133,8 +152,6 @@
     margin: 0px
     &:after
       content: ", "
-    &:last-child
-      content: ""
     a
       color: #999
       &:hover
@@ -144,6 +161,9 @@
         transition: .4s ease-in
         text-decoration: none
         cursor: pointer
+  ul li:first-child
+    &:after
+      content: ""
   ul li:last-child
     &:after
       content: ""

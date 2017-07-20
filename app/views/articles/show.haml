@@ -2,7 +2,7 @@
   .col-md-12
     %br
     =link_to "< Back to News", "/news", target:"_self", class:"btn btn-sm btn-default"
-    .newscard
+    .newscard.fade-in
       .row
         .btn-group-vertical.news-vote-btn.pull-right
           .newsworthiness.btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title: "Newsworthy", type: "increment"}
@@ -22,6 +22,13 @@
               %ul
                 - @article.summary_points.each do |sp|
                   %li= sp
+            .news-topics
+              %ul
+                %li
+                  %strong Topics:
+                - @article.top_keywords.each do |keyword|
+                  %li
+                    %a= keyword
             %hr
             %center
               = link_to @article.url, target: "_blank", style: "text-decoration: none" do
@@ -39,11 +46,7 @@
                 Bookmark
           .col-md-6
             = render "articles/pulsepoll"
-            .news-topics
-              %ul
-                - @article.top_keywords.each do |keyword|
-                  %li
-                    %a= keyword
+
       .news-comments
         .well
           .writecomment

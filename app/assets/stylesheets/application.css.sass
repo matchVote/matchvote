@@ -239,6 +239,52 @@ body
 .faded
   -webkit-filter: opacity(.25)
 
+@-webkit-keyframes fadeIn
+  from
+    opacity: 0
+    top: 10px
+    filter: blur(10px)
+  to
+    opacity: 1
+    top: 0px
+    filter: blur(0px)
+
+
+@-moz-keyframes fadeIn
+  from
+    opacity: 0
+    top: 10px
+    filter: blur(10px)
+  to
+    opacity: 1
+    top: 0px
+    filter: blur(0px)
+
+
+@keyframes fadeIn
+  from
+    opacity: 0
+    top: 10px
+    filter: blur(10px)
+  to
+    opacity: 1
+    top: 0px
+    filter: blur(0px)
+
+.fade-in
+  opacity: fadeIn 0
+  position: relative
+  -webkit-animation: fadeIn ease-out .5s
+  -moz-animation: fadeIn ease-out .5s
+  animation: fadeIn ease-out .5s
+  -webkit-animation-fill-mode: forwards
+  -moz-animation-fill-mode: forwards
+  animation-fill-mode: forwards
+  -webkit-animation-duration: .5s
+  -moz-animation-duration: .5s
+  animation-duration: .5s
+
+
 
 //Bootstrap Modifications
 .btn
