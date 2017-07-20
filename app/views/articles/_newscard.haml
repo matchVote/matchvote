@@ -13,11 +13,12 @@
       %hr
     .news-summary
       .col-md-7
-        .well.featured_image_trigger
+        .featured_image_trigger
           =image_tag article.top_image_url, class: "article_featured_image"
           %ul
             - article.summary_points.each do |sp|
               %li= sp
+        %hr
         %center
           = link_to article.url, target: "_blank", style: "text-decoration: none" do
             .btn.btn-sm.btn-danger= article.read_time
@@ -33,16 +34,7 @@
             .glyphicon.glyphicon-bookmark{title: "Bookmark Article"}
             Bookmark
       .col-md-5
-        .news-mentions
-          %center
-            %h5 Do you think Mike Pence would make a good President?
-            .btn.btn-default.btn-sm
-              Support
-            = image_tag "http://data.matchvote.com/images/2015/governors/Mike_Pence.png",
-              class: "img", title: "Mike Pence"
-            .btn.btn-default.btn-sm
-              Oppose
-          %hr
+        = render "articles/pulsepoll"
         .news-topics
           %ul
             - article.top_keywords.each do |keyword|
@@ -56,7 +48,7 @@
             .form-group
               %textarea.form-control.comment-box{placeholder: article.comment_box_text(current_user),
                 data: { ctbl_id: article.id, ctbl_type: "Article" }}
-              %span.comment-box-error{style: "display:none"} Textbox cannot be blank
+              %span.comment-box-error{style: "display:none"} Comment textbox cannot be blank
           .col-md-2
             %center
               .btn.btn-sm.btn-primary.submit-comment{data: { account_type: current_user.account_type,
@@ -86,7 +78,8 @@
             reply_level: 0
       - if !article.remaining_comments_count(comment_limit).zero?
         %center
-          .btn.btn-xs.btn-link
-            View
-            = article.remaining_comments_count(comment_limit)
-            More Comments
+          = link_to article.url, target: "_blank", style: "text-decoration: none" do
+            .btn.btn-xs.btn-link
+              View
+              = article.remaining_comments_count(comment_limit)
+              More Comments

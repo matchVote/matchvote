@@ -36,7 +36,7 @@
           .form-group
             %textarea.form-control.comment-box{data: { ctbl_id: comment.id, ctbl_type: "Comment" },
               placeholder: "Reply to #{comment.username}"}
-            %span.comment-box-error{style: "display:none"} Textbox cannot be blank
+            %span.comment-box-error{style: "display:none"} Comment textbox cannot be blank
         .col-md-2
           %center
             .btn.btn-sm.btn-primary.submit-comment{data: { ctbl_id: comment.id, ctbl_type: "Comment", reply_level: reply_level }}

@@ -12,7 +12,7 @@ class ArticlePresenter < SimpleDelegator
   end
 
   def published
-    "#{article.date_published} @ #{article.created_at.strftime("%I:%M:%S %p %Z")}"
+    "#{article.date_published} @ #{article.created_at.strftime("%l:%M%p")}"
   end
 
   def summary_points

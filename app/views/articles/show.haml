@@ -1,3 +1,90 @@
-%div
-  My article name is
-  = @article.title
+.container
+  .col-md-12
+    %br
+    =link_to "< Back to News", "/news", target:"_self", class:"btn btn-sm btn-default"
+    .newscard
+      .row
+        .btn-group-vertical.news-vote-btn.pull-right
+          .newsworthiness.btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title: "Newsworthy", type: "increment"}
+          .news-vote-count= @article.newsworthiness_count
+          .newsworthiness.btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title: "Not Newsworthy", type: "decrement"}
+        .news-title
+          = link_to @article.url, target: "_blank" do
+            %h3= @article.title
+          .news-author
+            = @article.authored_by
+            %span.news-date= @article.published
+          %hr
+        .news-summary
+          .col-md-6
+            .featured_image_trigger
+              =image_tag @article.top_image_url, class: "article_featured_image"
+              %ul
+                - @article.summary_points.each do |sp|
+                  %li= sp
+            %hr
+            %center
+              = link_to @article.url, target: "_blank", style: "text-decoration: none" do
+                .btn.btn-sm.btn-danger= @article.read_time
+              .show-comments.btn.btn-sm.btn-default
+                %span.comment-count= @article.comments.size
+                Comments
+              .hide-comments.btn.btn-sm.btn-black{style: "display:none"}
+                Close Comments
+              .btn.btn-sm.btn-default
+                .glyphicon.glyphicon-share{title: "Share"}
+                Share
+              .btn.btn-sm.btn-default.bookmark{class: ("label-info" if @article.bookmarked?(current_user))}
+                .glyphicon.glyphicon-bookmark{title: "Bookmark Article"}
+                Bookmark
+          .col-md-6
+            = render "articles/pulsepoll"
+            .news-topics
+              %ul
+                - @article.top_keywords.each do |keyword|
+                  %li
+                    %a= keyword
+      .news-comments
+        .well
+          .writecomment
+            .row
+              .col-md-6
+                .form-group
+                  %textarea.form-control.comment-box{placeholder: @article.comment_box_text(current_user),
+                    data: { ctbl_id: @article.id, ctbl_type: "Article" }}
+                  %span.comment-box-error{style: "display:none"} Textbox cannot be blank
+              .col-md-1
+                .btn.btn-sm.btn-primary.submit-comment{data: { account_type: current_user.account_type,
+                  ctbl_id: @article.id, ctbl_type: "Article", user_id: current_user.id }}
+                  - if current_user.account.standard?
+                    = image_tag current_user.profile_pic_url, title: "@#{current_user.username}"
+                    Upgrade
+                  - else
+                    Submit
+              .col-md-5
+                .guidelines
+                  %p
+                    %strong Forum Guidelines:
+                    No personal attacks, hate-speech, baiting, trolling, or unsubstantiated accusations. Threats of violence will result in a ban. Please report violations to forum moderators.
+                  %center
+                    =link_to "Privacy Policy", "https://matchvote.com/privacy", target:"_blank"
+                    =link_to "Terms of Service", "https://matchvote.com/tos", target:"_blank"
+          %hr
+          %ul
+            %li
+              %strong
+                %span.comment-count= @article.comments.size
+                Comments
+            %li
+              Comments will be locked in 45 hours
+            %li
+              %select.form-control.signup-field.sort-comments
+                %option{value: "created_at"} Sort by Newest
+                %option{value: "likes"} Sort by Most Loved
+                %option{value: "reply_count"} Sort by Most Replies
+
+          .comments-list
+            - @article.comments.each do |comment|
+              = render "articles/comments/comment",
+                comment: CommentPresenter.new(comment),
+                reply_level: 0
