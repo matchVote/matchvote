@@ -26,8 +26,9 @@
         .btn.btn-xs.like-button{class: ("like-button" if comment.liked?(current_user))}
           = comment.likes
           .glyphicon.glyphicon-heart
-        .create-reply.btn.btn-xs.btn-primary{data: { comment_id: comment.id }}
-          Reply
+        - if reply_level < reply_limit
+          .create-reply.btn.btn-xs.btn-primary{data: { comment_id: comment.id }}
+            Reply
         .close-reply.btn.btn-xs.btn-black{style: "display:none", data: { comment_id: comment.id }}
           Close Reply
     .writereply{style: "display:none", data: { comment_id: comment.id }}
@@ -44,4 +45,6 @@
 - comment.comments.each do |comment_reply|
   = render "articles/comments/comment",
     comment: CommentPresenter.new(comment_reply),
-    reply_level: reply_level + 1
+    reply_level: reply_level + 1,
+    reply_limit: reply_limit
+

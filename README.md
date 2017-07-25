@@ -38,10 +38,9 @@ matchVote lets you automatically follow the political positions and news for ele
     * Most Shared
     * Most Bookmarked
   * Comments
+    * Edit - talk to Brad first
     * Locking
-    * Replies
-      * Report
-      * Limit nested amount
+    * Report
     * View more
     * Change comment timestamps to reflect local time
     * Upgrade -- Temp implementation until Account Upgrade feature is done

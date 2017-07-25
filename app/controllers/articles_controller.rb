@@ -1,8 +1,10 @@
 class ArticlesController < ApplicationController
   COMMENT_LIMIT = 5
+  REPLY_LIMIT = 4
 
   def index
     @comment_limit = COMMENT_LIMIT
+    @reply_limit = REPLY_LIMIT
     @articles = Article.includes(:comments).map { |a| ArticlePresenter.new(a) }
   end
 

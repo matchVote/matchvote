@@ -77,7 +77,8 @@
         - article.comments.take(comment_limit).each do |comment|
           = render "articles/comments/comment",
             comment: CommentPresenter.new(comment),
-            reply_level: 0
+            reply_level: 0,
+            reply_limit: reply_limit
       - if !article.remaining_comments_count(comment_limit).zero?
         %center
           = link_to article.url, target: "_blank", style: "text-decoration: none" do

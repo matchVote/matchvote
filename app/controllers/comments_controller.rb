@@ -1,20 +1,30 @@
 class CommentsController < ApplicationController
   def create
-    comment = Comment.create!(
-      text: params[:text],
-      user: current_user,
-      commentable_type: params[:type],
-      commentable_id: params[:id])
-    render partial: "articles/comments/comment",
-      locals: { comment: CommentPresenter.new(comment),
-                reply_level: params[:reply_level].to_i }
+    if reply_level < ArticlesController::REPLY_LIMIT
+      comment = Comment.create!(
+        text: params[:text],
+        user: current_user,
+        commentable_type: params[:type],
+        commentable_id: params[:id])
+
+      render partial: "articles/comments/comment",
+        locals: { comment: CommentPresenter.new(comment),
+                  reply_level: reply_level,
+                  reply_limit: ArticlesController::REPLY_LIMIT }
+    else
+      head :forbidden
+    end
   end
 
   def index_for_article
     comments = retrieve_comments(params)
       .take(ArticlesController::COMMENT_LIMIT)
       .map { |c| CommentPresenter.new(c) }
-    render partial: "articles/comments/index", locals: { comments: comments }
+
+    render partial: "articles/comments/index", locals: {
+      comments: comments,
+      reply_limit: ArticlesController::REPLY_LIMIT
+    }
   end
 
   def likes
@@ -30,6 +40,10 @@ class CommentsController < ApplicationController
   end
 
   private
+
+  def reply_level
+    @reply_level ||= params[:reply_level].to_i
+  end
 
   def retrieve_comments(params)
     if params[:order] == "reply_count"
