@@ -1,5 +1,6 @@
 FROM ruby:2.2.6
-MAINTAINER matchVote <admin@matchvote.com>
+LABEL maintainer="matchVote <admin@matchvote.com>"
+LABEL version="1.0"
 
 ENV PHANTOMJS_VERSION 2.1.1
 
@@ -19,3 +20,8 @@ WORKDIR /usr/src/app
 
 COPY Gemfile* ./
 RUN bundle install
+
+RUN useradd -m container_user
+USER container_user
+
+CMD bin/start
