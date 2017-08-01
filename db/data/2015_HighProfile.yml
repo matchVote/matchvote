@@ -25,6 +25,7 @@
   youtube: https://www.youtube.com/user/BarackObamadotcom
   wiki: http://en.wikipedia.org/wiki/Barack_Obama
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Barack_Obama.png
+  name_recognition: 54815149
 
 - rep_status: In Office
   state: DC
@@ -51,6 +52,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Joe_Biden
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Joe_Biden.png
+  name_recognition: 1158612
 
 - rep_status: In Office
   state: DC
@@ -76,6 +78,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/John_Kerry
   profile_pic: http://data.matchvote.com/images/2015/highprofile/John_Kerry.png
+  name_recognition: 166875
 
 - rep_status: Running
   state: DC
@@ -101,6 +104,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Hillary_Rodham_Clinton
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Hillary_Clinton.png
+  name_recognition: 10085386
 
 - rep_status: Out of Office
   state: MA
@@ -127,6 +131,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Mitt_Romney
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Mitt_Romney.png
+  name_recognition: 10285367
 
 - rep_status: Out of Office
   state: DC
@@ -153,6 +158,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Al_Gore
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Al_Gore.png
+  name_recognition: 510760
 
 - rep_status: Out of Office
   state: DC
@@ -179,6 +185,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/George_W._Bush
   profile_pic: http://data.matchvote.com/images/2015/highprofile/George_W_Bush.png
+  name_recognition: 4949500
 
 - rep_status: Running
   state: TX
@@ -205,6 +212,7 @@
   youtube:
   wiki: https://en.wikipedia.org/wiki/Rick_Perry
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Rick_Perry.png
+  name_recognition: 1177295
 
 - rep_status: Running
   state: DC
@@ -231,6 +239,7 @@
   youtube:
   wiki: https://en.wikipedia.org/wiki/Carly_Fiorina
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Carly_Fiorina.png
+  name_recognition: 602006
 
 - rep_status: Out of Office
   state: DC
@@ -257,6 +266,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Bill_Clinton
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Bill_Clinton.png
+  name_recognition: 3988511
 
 - rep_status: Out of Office
   state: DC
@@ -283,6 +293,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Dick_Cheney
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Dick_Cheney.png
+  name_recognition: 1000000
 
 - rep_status: Out of Office
   state: AK
@@ -308,6 +319,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Sarah_Palin
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Sarah_Palin.png
+  name_recognition: 4842594
 
 - rep_status: Out of Office
   state: TX
@@ -334,6 +346,7 @@
   youtube: https://www.youtube.com/user/ronpaul
   wiki: http://en.wikipedia.org/wiki/Ron_Paul
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Ron_Paul.png
+  name_recognition: 1376268
 
 - rep_status: Running
   state:  AR
@@ -360,6 +373,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Mike_Huckabee
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Mike_Huckabee.png
+  name_recognition: 2249660
 
 - rep_status: Running
   state: RI
@@ -386,6 +400,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Lincoln_Chafee
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Lincoln_Chafee.png
+  name_recognition: 12201
 
 - rep_status: Running
   state: VA
@@ -412,6 +427,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Jim_Webb
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Jim_Webb.png
+  name_recognition: 47580
 
 - rep_status: Running
   state: DC
@@ -438,6 +454,7 @@
   youtube: https://www.youtube.com/user/realbencarson/
   wiki: http://en.wikipedia.org/wiki/Ben_Carson
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Ben_Carson.png
+  name_recognition: 5927815
 
 - rep_status: Running
   state: DC
@@ -464,6 +481,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Mark_Everson
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Mark_Everson.png
+  name_recognition: 1815
 
 - rep_status: Out of Office
   state: MD
@@ -490,6 +508,7 @@
   youtube: https://www.youtube.com/channel/UCb7eu74-_tCNLw9FfavvKnw
   wiki: http://en.wikipedia.org/wiki/Martin_O%27Malley
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Martin_OMalley.png
+  name_recognition: 118720
 
 - rep_status: Out of Office
   state: PA
@@ -516,6 +535,7 @@
   youtube: https://www.youtube.com/user/ricksantorum
   wiki: http://en.wikipedia.org/wiki/Rick_Santorum
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Rick_Santorum.png
+  name_recognition: 262219
 
 - rep_status: Running for Office
   state: DC
@@ -542,6 +562,7 @@
   youtube: https://www.youtube.com/user/trump
   wiki: https://en.wikipedia.org/wiki/Donald_Trump
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Donald_Trump.png
+  name_recognition: 22660981
 
 - rep_status: Running for Office
   state: FL
@@ -568,6 +589,7 @@
   youtube:
   wiki: http://en.wikipedia.org/wiki/Jeb_bush
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Jeb_Bush.png
+  name_recognition: 338662
 
 - rep_status: Running
   state: DC
@@ -594,6 +616,7 @@
   youtube: https://www.youtube.com/channel/UCort472K4xvh7glSQURyARA
   wiki: https://en.wikipedia.org/wiki/Lawrence_Lessig
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Larry_Lessig.png
+  name_recognition: 13034
 
 - rep_status: In Office
   state: DC
@@ -620,6 +643,7 @@
   youtube:
   wiki: https://en.wikipedia.org/wiki/John_Roberts
   profile_pic: http://data.matchvote.com/images/2015/highprofile/John_Roberts.png
+  name_recognition: 999999
 
 - rep_status: In Office
   state: DC
@@ -646,6 +670,7 @@
   youtube:
   wiki: https://en.wikipedia.org/wiki/Antonin_Scalia
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Antonin_Scalia.png
+  name_recognition: 999998
 
 - rep_status: In Office
   state: DC
@@ -672,6 +697,7 @@
   youtube:
   wiki: https://en.wikipedia.org/wiki/Anthony_Kennedy
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Anthony_Kennedy.png
+  name_recognition: 999997
 
 - rep_status: In Office
   state: DC
@@ -698,6 +724,7 @@
   youtube:
   wiki: https://en.wikipedia.org/wiki/Clarence_Thomas
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Clarence_Thomas.png
+  name_recognition: 999996
 
 - rep_status: In Office
   state: DC
@@ -724,6 +751,7 @@
   youtube:
   wiki: https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Ruth_Bader_Ginsburg.png
+  name_recognition: 999995
 
 - rep_status: In Office
   state: DC
@@ -750,6 +778,7 @@
   youtube:
   wiki: https://en.wikipedia.org/wiki/Stephen_Breyer
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Stephen_Breyer.png
+  name_recognition: 999994
 
 - rep_status: In Office
   state: DC
@@ -776,6 +805,7 @@
   youtube:
   wiki: https://en.wikipedia.org/wiki/Samuel_Alito
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Samuel_Alito.png
+  name_recognition: 999993
 
 - rep_status: In Office
   state: DC
@@ -802,29 +832,31 @@
   youtube:
   wiki: https://en.wikipedia.org/wiki/Sonia_Sotomayor
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Sonia_Sotomayor.png
+  name_recognition: 999992
 
 - rep_status: In Office
   state: DC
   title: Justice
-  first_name: Elena
-  middle_name:
-  last_name: Kagan
+  first_name: Neil
+  middle_name: McGill
+  last_name: Gorsuch
   nick_name:
   address: 1 First Street NE, Washington, DC 20543
   fax: http://www.supremecourt.gov/
   tel: 202-479-3000
   contact_form_url:
   web:
-  took_office: 2010-08-07
+  took_office: 2017-04-09
   term_ends:
-  party: D
+  party: R
   branch: judicial
-  gender: Female
-  birthday: 1960-04-28
-  religion: Judaism
+  gender: Male
+  birthday: 1967-08-29
+  religion: Episcopal
   orientation: Straight
   facebook:
   twitter:
   youtube:
-  wiki: https://en.wikipedia.org/wiki/Elena_Kagan
-  profile_pic: http://data.matchvote.com/images/2015/highprofile/Elena_Kagan.png
+  wiki: https://en.wikipedia.org/wiki/Neil_Gorsuch
+  profile_pic: http://data.matchvote.com/images/2015/highprofile/Neil_Gorsuch.png
+  name_recognition: 999991

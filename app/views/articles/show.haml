@@ -55,7 +55,7 @@
                 .form-group
                   %textarea.form-control.comment-box{placeholder: @article.comment_box_text(current_user),
                     data: { ctbl_id: @article.id, ctbl_type: "Article" }}
-                  %span.comment-box-error{style: "display:none"} Textbox cannot be blank
+                  %span.comment-box-error{style: "display:none"} Comment textbox cannot be blank
               .col-md-1
                 .btn.btn-sm.btn-primary.submit-comment{data: { account_type: current_user.account_type,
                   ctbl_id: @article.id, ctbl_type: "Article", user_id: current_user.id }}
@@ -63,7 +63,8 @@
                     = image_tag current_user.profile_pic_url, title: "@#{current_user.username}"
                     Upgrade
                   - else
-                    Submit
+                    %center
+                      Submit
               .col-md-5
                 .guidelines
                   %p

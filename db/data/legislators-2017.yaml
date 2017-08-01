@@ -24,6 +24,7 @@
     birthday: '1952-11-09'
     gender: M
     religion: Lutheran
+    name_recognition: 159954
   terms:
   - type: rep
     start: '1993-01-05'
@@ -189,6 +190,7 @@
     birthday: '1943-10-05'
     gender: M
     religion: Jewish
+    name_recognition: 29270
   terms:
   - type: rep
     start: '1987-01-06'
@@ -498,6 +500,7 @@
     birthday: '1933-06-22'
     gender: F
     religion: Jewish
+    name_recognition: 129469
   terms:
   - type: sen
     start: '1992-11-10'
@@ -570,6 +573,7 @@
     birthday: '1934-03-22'
     gender: M
     religion: Latter Day Saints
+    name_recognition: 12985
   terms:
   - type: sen
     start: '1977-01-04'
@@ -704,6 +708,7 @@
   bio:
     birthday: '1953-07-24'
     gender: F
+    name_recognition: 119078
   terms:
   - type: sen
     start: '2007-01-04'
@@ -959,6 +964,7 @@
     birthday: '1941-09-08'
     gender: M
     religion: Jewish
+    name_recognition: 7331347
   terms:
   - type: rep
     start: '1991-01-03'
@@ -2088,6 +2094,7 @@
     birthday: '1942-02-20'
     gender: M
     religion: Baptist
+    name_recognition: 167306
   leadership_roles:
   - title: Minority Leader
     chamber: senate
@@ -39708,6 +39715,7 @@
   bio:
     gender: M
     birthday: '1960-08-30'
+    name_recognition: 88562
   terms:
   - type: sen
     start: '2015-01-06'
