@@ -20,6 +20,8 @@ WORKDIR /usr/src/app
 
 COPY Gemfile* ./
 RUN bundle install
+COPY . .
+RUN rake assets:precompile
 
 RUN useradd -m container_user
 USER container_user

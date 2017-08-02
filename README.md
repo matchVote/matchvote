@@ -3,15 +3,13 @@
 
 matchVote lets you automatically follow the political positions and news for elected officials in the US
 
-#### Docker Setup
+#### Development Setup
     bin/build              # creates containers
     bin/setup              # creates DB, migrates, seeds
     docker-compose up web  # starts containers
 
 #### Deployment Process
-    bundle exec rake deploy:heroku
-    heroku run rake import:all_default_data    # Full data load
-    heroku run rake reps:import_default_data   # Just representative data
+    bin/deploy
 
 ### TODO
 * News Feed
