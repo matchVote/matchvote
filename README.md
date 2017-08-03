@@ -39,7 +39,7 @@ matchVote lets you automatically follow the political positions and news for ele
     * Edit - talk to Brad first
     * Locking
     * Report
-    * View more
+    * View more -- link to Article show page
     * Change comment timestamps to reflect local time
     * Upgrade -- Temp implementation until Account Upgrade feature is done
   * CSS
