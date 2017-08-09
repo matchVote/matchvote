@@ -1,29 +1,89 @@
 // Place all the styles related to the elections controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
-.electioncard
+.opedcard
   min-height: 200px
   background-color: #fff
-  border-radius: 6px
-  padding: 30px
-  margin-top: 10px
+  border-radius: 4px
+  font-family: Georgia
+  font-size: 18px
+  line-height: 1.6em
+  padding: 40px 60px 40px 60px
+  margin-top: 40px
   margin-bottom: 30px
-  text-align: center
   -webkit-box-shadow: 1px 1px 1px 2px rgba(0,0,0,0.1)
   -moz-box-shadow: 1px 1px 1px 2px rgba(0,0,0,0.1)
   box-shadow: 1px 1px 1px 2px rgba(0,0,0,0.1)
+  h3
+    font-family: sans-serif
+    font-weight: 600
+  span
+    font-size: 12px
+    color: #ccc
 
-.election_pic
-  height: 40px
-  width: 40px
-  border-radius: 22px
-  margin: 3px
-  -webkit-transition: .1s ease-out
+.oped-sidebar
+  margin-top: 60px
+  max-width: 230px
+  height: 100%
+  position: fixed
+  opacity: (0.4)
+  text-align: center
+  text-overflow: clip
   &:hover
-    -webkit-transform: scale(2)
-    cursor: pointer
+    opacity: (1)
+    -webkit-transition: .5s ease-out
+    -moz-transition: .5s ease-out
+    transition: .5s ease-out
+  span
+    font-size: 12px
+    font-family: Georgia
+    color: #999
+  h4
+    margin-bottom: 5px
+  h5
+    font-weight: 600
+  hr
+    margin: 20px 10px 15px 10px
+    border-top: 1px solid #ddd
 
-.election_pic_lg
-  height: 72px
-  width: 72px
-  border-radius: 36px
+.mobileoped
+  margin: 25px 0 -20px 0
+  text-align: center
+  .author-pic
+    height: 60px
+    width: 60px
+    border-radius: 30px
+  ul li
+    list-style-type: none
+    display: inline
+    &:nth-child(2)
+      margin-left: 5px
+    &:nth-child(3)
+      margin-left: 15px
+    &:nth-child(4)
+      margin-left: 40px
+
+.mobileopedtitle
+  margin-top: -20px
+  h3
+    font-family: sans-serif
+    font-weight: 600
+  span
+    font-size: 12px
+    color: #ccc
+
+.opedactions
+  margin-top: 20px
+  h6
+    margin-top: 20px
+
+.author-pic
+  height: 100px
+  width: 100px
+  border-radius: 50px
+  &:hover
+    -webkit-filter: brightness(1.1)
+    -webkit-transition: .5s ease-out
+    -moz-transition: .5s ease-out
+    transition: .5s ease-out
+    cursor: pointer

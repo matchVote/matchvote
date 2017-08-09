@@ -1,62 +1,59 @@
 .container
-  %hr
   .row
-    .col-md-3
-      %h2.pull-right US Presidency
-    .col-md-8
-      .electioncard
-        .row
-          = render "presidency"
-  .row
-    .col-md-3
-      %h2.pull-right US Senate
-    .col-md-8
-      .electioncard
-
-  .row
-    .col-md-3
-      %h2.pull-right US Congress
-    .col-md-8
-      .electioncard
-
-  .row
-    .col-md-3
-      %h2.pull-right Governorships
-    .col-md-8
-      .electioncard
-        .row
-          = render "governorships"
-        %hr
-        = image_tag "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Blank_US_Map.svg/2000px-Blank_US_Map.svg.png", class: "map faded"
-
-  .row.faded
-    .col-md-3
-      %h2.pull-right State Senates
-    .col-md-8
-      .electioncard
-        %hr
-        %h1.faded Coming Soon
-
-  .row.faded
-    .col-md-3
-      %h2.pull-right State Houses
-    .col-md-8
-      .electioncard
-        %hr
-        %h1.faded Coming Soon
-
-  .row.faded
-    .col-md-3
-      %h2.pull-right Mayorships
-    .col-md-8
-      .electioncard
-        %hr
-        %h1.faded Coming Soon
-
-  .row.faded
-    .col-md-3
-      %h2.pull-right City Councils
-    .col-md-8
-      .electioncard
-        %hr
-        %h1.faded Coming Soon
+    .visible-sm-block.visible-xs-block
+      .row
+        .mobileoped
+          %ul
+            %li
+              = image_tag "http://data.matchvote.com/images/2015/highprofile/Al_Gore.png",
+                class: "author-pic", title: "Al Gore"
+            %li
+              %strong Al Gore
+            %li
+              .btn.btn-sm.btn-primary
+                .glyphicon.glyphicon-ok-circle
+                Follow
+            %li
+              .btn.btn-sm.btn-default
+                .glyphicon.glyphicon-heart
+                172
+            %li
+              .btn.btn-sm.btn-default
+                .glyphicon.glyphicon-comment
+                215
+            %li
+              .btn.btn-sm.btn-default
+                .glyphicon.glyphicon-share
+                Share
+            %li
+              .btn.btn-sm.btn-default
+                .glyphicon.glyphicon-bookmark
+                Bookmark
+    .col-md-3.hidden-sm
+      .oped-sidebar
+        = image_tag "http://data.matchvote.com/images/2015/highprofile/Al_Gore.png",
+          class: "author-pic", title: "Al Gore"
+        %br
+        %h4 Al Gore
+        %span Father, Husband, Activist, Author, Environmentalist & Vice President - not necessarily in that order.
+        .opedactions
+          .btn.btn-sm.btn-primary.btn-block
+            .glyphicon.glyphicon-ok-circle
+            Follow
+          %hr
+          .btn.btn-sm.btn-default.btn-block
+            .glyphicon.glyphicon-comment
+            215 Comments
+          %br
+          .btn.btn-xs.btn-default
+            .glyphicon.glyphicon-heart
+            172
+          .btn.btn-xs.btn-default
+            .glyphicon.glyphicon-share
+            Share
+          .btn.btn-xs.btn-default.bookmark
+            .glyphicon.glyphicon-bookmark
+            Bookmark
+    .col-md-9
+      .opedcard.fade-in
+        = render "opedexample"

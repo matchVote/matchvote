@@ -2,7 +2,7 @@
   background-color: #fff
   border-radius: 4px
   padding: 10px 30px 30px 30px
-  margin: 20px
+  margin-top: 20px
   -webkit-box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.1)
   -moz-box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.1)
   box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.1)
@@ -181,31 +181,32 @@
 
 .news-comments
   margin-top: 20px
+  hr
+    margin: 5px 0 8px 0
+    border-top: 1px solid #ddd
   ul
     padding: 0px
     margin: 0px 0px 15px 0px
   ul li
     list-style: none
     display: inline
-  ul li:nth-child(2)
-    font-size: 11px
-    margin-left: 5px
-    margin-right: 2px
-  ul li:nth-child(3)
-    margin-right: 5px
-  ul li:nth-child(4)
-    &:hover
-      text-decoration: underline
-  ul li:last-child
-    float: right
-    select
-      height: 20px
+    &:nth-child(2)
       font-size: 11px
-      position: relative
-      top: -5px
-  hr
-    margin: 5px 0 8px 0
-    border-top: 1px solid #ddd
+      margin-left: 5px
+      margin-right: 2px
+    &:nth-child(3)
+      margin-right: 5px
+    &:nth-child(4)
+      &:hover
+        text-decoration: underline
+    &:last-child
+      float: right
+      select
+        height: 20px
+        font-size: 11px
+        position: relative
+        top: -5px
+
 
 .guidelines
   font-size: 11px
@@ -304,7 +305,7 @@
 .news-sidebar
   padding-top: 40px
   height: 100%
-  width: auto
+  max-width: 240px
   opacity: (0.4)
   position: fixed
   &:hover
