@@ -24,7 +24,7 @@ class ArticlePresenter < SimpleDelegator
   end
 
   def bookmarked?(user)
-    article.bookmarks.exists?(user_id: user.id)
+    article.bookmarks.map(&:user_id).find { |id| id == user.id }
   end
 
   def remaining_comments_count(limit)

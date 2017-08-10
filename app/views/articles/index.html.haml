@@ -55,8 +55,7 @@
       -# = render "votecard"
       %br
       #article-list
-        - @articles.each do |article|
-          = render "newscard",
-            article: article,
-            comment_limit: @comment_limit,
-            reply_limit: @reply_limit
+        - render_articles(@articles, @comment_limit, @reply_limit).each do |article|
+          = article
+
+= will_paginate @articles, style: "display:none"

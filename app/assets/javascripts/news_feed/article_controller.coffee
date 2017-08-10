@@ -11,6 +11,7 @@ class ArticleController
     @toggleBookmark()
     @showComments()
     @hideComments()
+    @scrollingPagination()
 
   articleID: (event) ->
     $(event.target).closest(".newscard").attr("id")
@@ -57,3 +58,9 @@ class ArticleController
       $button = $(event.target)
       $button.hide()
       $button.siblings(".show-comments").show()
+
+  scrollingPagination: ->
+    $(window).scroll ->
+      url = $(".pagination .next_page").attr("href")
+      if url and $(window).scrollTop() is $(document).height() - $(window).height()
+        $.getScript(url)

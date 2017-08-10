@@ -5,10 +5,19 @@ namespace :dev do
       [Article, Comment].each do |model|
         model.destroy_all
         type = model.name.downcase.pluralize
-        YAML.load_file("#{Rails.root}/spec/fixtures/#{type}.yml").each do |data|
+        articles = YAML.load_file("#{Rails.root}/spec/fixtures/#{type}.yml")
+        articles.each do |data|
           model.create(data)
           model.connection.execute("SELECT nextval('#{type}_id_seq')")
         end
+      end
+
+      article = Article.first
+      article.id = nil
+      url = article.url[0...-1]
+      (4..100).each do |num|
+        article.url = url + num.to_s
+        Article.create(article.attributes)
       end
     end
   end
