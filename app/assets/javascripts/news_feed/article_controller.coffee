@@ -4,6 +4,7 @@ $(document).on "page:change", ->
 
 class ArticleController
   constructor: ->
+    @isPaginating = false
     @bindEvents()
 
   bindEvents: ->
@@ -60,7 +61,14 @@ class ArticleController
       $button.siblings(".show-comments").show()
 
   scrollingPagination: ->
-    $(window).scroll ->
+    $(window).scroll =>
       url = $(".pagination .next_page").attr("href")
-      if url and $(window).scrollTop() is $(document).height() - $(window).height()
-        $.getScript(url)
+      if url and @isEndOfList() and not @isPaginating
+        @isPaginating = true
+        $(".spinner").show()
+        $.getScript url, =>
+          @isPaginating = false
+          $(".spinner").hide()
+
+  isEndOfList: ->
+    $(window).scrollTop() is $(document).height() - $(window).height()

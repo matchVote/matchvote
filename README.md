@@ -16,7 +16,6 @@ matchVote lets you automatically follow the political positions and news for ele
   * Articles
     * Scrolling Pagination
       * Make faster (currently >2000 ms)
-      * Spinner
     * Option to reverse newsworthiness vote
     * Topics Covered (pulled from IssueCategories:Related Keywords)
     * Share

@@ -57,5 +57,9 @@
       #article-list
         - render_articles(@articles, @comment_limit, @reply_limit).each do |article|
           = article
+      .spinner{style: "display:none"}
+        .bounce1
+        .bounce2
+        .bounce3
 
 = will_paginate @articles, style: "display:none"
