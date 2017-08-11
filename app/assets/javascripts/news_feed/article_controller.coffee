@@ -63,7 +63,7 @@ class ArticleController
   scrollingPagination: ->
     $(window).scroll =>
       url = $(".pagination .next_page").attr("href")
-      if url and @isEndOfList() and not @isPaginating
+      if url and @isHalfwayThroughList() and not @isPaginating
         @isPaginating = true
         $(".spinner").show()
         $.getScript url, =>
@@ -72,3 +72,6 @@ class ArticleController
 
   isEndOfList: ->
     $(window).scrollTop() is $(document).height() - $(window).height()
+
+  isHalfwayThroughList: ->
+    $(window).scrollTop() > $(document).height() / 2
