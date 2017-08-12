@@ -4,6 +4,7 @@ $(document).on "page:change", ->
 
 class CommentController
   constructor: ->
+    @eventHandlerElement = $("#article-list")
     @bindEvents()
     @glyphiconHeart = '\n<div class="glyphicon glyphicon-heart" />'
     @userAccountType = null
@@ -32,13 +33,13 @@ class CommentController
     "#{root}[data-ctbl-id=#{id}][data-ctbl-type=#{type}]"
 
   typeComment: ->
-    $(".news-comments").on "keypress", ".comment-box", (event) =>
+    @eventHandlerElement.on "keypress", ".comment-box", (event) =>
       $commentBoxError = $(event.target).siblings(".comment-box-error")
       if $commentBoxError.is(":visible")
         $commentBoxError.hide()
 
   submitComment: ->
-    $(".news-comments").on "click", ".submit-comment", (event) =>
+    @eventHandlerElement.on "click", ".submit-comment", (event) =>
       $button = $(event.target)
       userID = $button.data("user-id")
       ctblID = $button.data("ctbl-id")
@@ -104,7 +105,7 @@ class CommentController
       $hideRepliesButton.show()
 
   showRepliesClick: ->
-    $(".news-comments").on "click", ".show-replies", (event) =>
+    @eventHandlerElement.on "click", ".show-replies", (event) =>
       $button = $(event.target)
       $button.hide()
       $button.siblings(".hide-replies").show()
@@ -112,7 +113,7 @@ class CommentController
         $(".comment[data-id='#{id}']").show()
 
   hideRepliesClick: ->
-    $(".news-comments").on "click", ".hide-replies", (event) =>
+    @eventHandlerElement.on "click", ".hide-replies", (event) =>
       $button = $(event.target)
       $button.hide()
       $button.siblings(".show-replies").show()
@@ -129,7 +130,7 @@ class CommentController
       @hideReplies(replyIDs)
 
   likeComment: ->
-    $(".news-comments").on "click", ".like-button", (event) =>
+    @eventHandlerElement.on "click", ".like-button", (event) =>
       id = @comment(event).data("id")
       $.ajax
         type: "PATCH"
@@ -139,19 +140,21 @@ class CommentController
           count = parseInt($button.text())
           if status == "liked"
             $button.addClass("label-info")
+            $button.removeClass("btn-default")
             count += 1
           else
             $button.removeClass("label-info")
+            $button.addClass("btn-default")
             count -= 1
           $button.html(count + @glyphiconHeart)
         error: -> console.log("No likey!")
 
   reportComment: ->
-    $(".news-comments").on "click", ".report-comment", (event) =>
+    @eventHandlerElement.on "click", ".report-comment", (event) =>
       sweetAlert "", "User's comment has been reported."
 
   sortComments: ->
-    $(".sort-comments").change (event) =>
+    @eventHandlerElement.on "change", ".sort-comments", (event) =>
       $selectBox = $(event.target)
       articleID = @articleID(event)
       $.ajax
@@ -166,14 +169,14 @@ class CommentController
           console.log("some shit happened with the sort!")
 
   createReplyButtonClick: ->
-    $(".news-comments").on "click", ".create-reply", (event) =>
+    @eventHandlerElement.on "click", ".create-reply", (event) =>
       id = @comment(event).data("id")
       $button = $(event.target).hide()
       $button.siblings(".close-reply").show()
       $(".writereply[data-comment-id=#{id}]").show()
 
   closeReplyButtonClick: ->
-    $(".news-comments").on "click", ".close-reply", (event) =>
+    @eventHandlerElement.on "click", ".close-reply", (event) =>
       id = @comment(event).data("id")
       @closeReplyBox(id, $(event.target))
 

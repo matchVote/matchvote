@@ -14,6 +14,8 @@ matchVote lets you automatically follow the political positions and news for ele
 ### TODO
 * News Feed
   * Articles
+    * Pagination
+      * Buttons not working on ajaxed articles
     * Option to reverse newsworthiness vote
     * Topics Covered (pulled from IssueCategories:Related Keywords)
     * Share
@@ -42,8 +44,6 @@ matchVote lets you automatically follow the political positions and news for ele
     * View more -- link to Article show page
     * Change comment timestamps to reflect local time
     * Upgrade -- Temp implementation until Account Upgrade feature is done
-  * CSS
-    * Loved, Bookmark status highlight/hover
 * Account Upgrade (payments)
 * Directory
   * Sort: 

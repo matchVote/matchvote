@@ -18,7 +18,7 @@ class ArticleController
     $(event.target).closest(".newscard").attr("id")
 
   newsworthinessChange: ->
-    $(".newsworthiness").on "click", (event) =>
+    $("#article-list").on "click", ".newsworthiness", (event) =>
       target = $(event.target)
       articleID = target.closest(".newscard").attr("id")
       type = target.attr("type")
@@ -35,26 +35,28 @@ class ArticleController
           sweetAlert "", "You can only vote once per article"
 
   toggleBookmark: ->
-    $(".bookmark").on "click", (event) =>
+    $("#article-list").on "click", ".bookmark", (event) =>
       $.ajax
         type: "POST"
         url: "/articles/#{@articleID(event)}/bookmark"
         success: (data) ->
-          button = $(event.delegateTarget)
+          button = $(event.currentTarget)
           if data.active
             button.addClass("label-info")
+            button.removeClass("btn-default")
           else
             button.removeClass("label-info")
+            button.addClass("btn-default")
 
   showComments: ->
-    $(".show-comments").on "click", (event) =>
+    $("#article-list").on "click", ".show-comments", (event) =>
       $("[data-article-id='#{@articleID(event)}']").show()
       $button = $(event.target)
       $button.hide()
       $button.siblings(".hide-comments").show()
 
   hideComments: ->
-    $(".hide-comments").on "click", (event) =>
+    $("#article-list").on "click", ".hide-comments", (event) =>
       $(".news-comments[data-article-id='#{@articleID(event)}']").hide()
       $button = $(event.target)
       $button.hide()
