@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170628093830) do
+ActiveRecord::Schema.define(version: 20170819121458) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -41,6 +41,7 @@ ActiveRecord::Schema.define(version: 20170628093830) do
     t.text     "top_image_url"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.text     "source"
   end
 
   add_index "articles", ["url"], name: "index_articles_on_url", unique: true, using: :btree
