@@ -1,5 +1,26 @@
 .container
   .row
+    .visible-sm.visible-xs
+      .mobilenews-topbar
+        %table
+          %tr
+            %td
+              %strong
+                = Date.today.strftime("%B")
+                = Time.now.day.ordinalize + ","
+                = Time.now.year
+            %td
+              %select.form-control
+                %option Show All News
+                %option Show Only Followed News
+            %td
+              %select.form-control
+                %option Sort by Newsworthiness
+                %option Sort by Newest
+                %option Sort by Most Read
+                %option Sort by Comment Count
+
+
     .col-md-3.hidden-sm
       .news-sidebar
         .news-sort
@@ -9,14 +30,14 @@
               = Date.today.strftime("%B")
               = Time.now.day.ordinalize + ","
               = Time.now.year
-          %select.form-control.signup-field
+          %select.form-control
             %option Show All News
-            %option Show News for Followed Reps Only
-          %select.form-control.signup-field
-            %option Sort News by Highest Rank
-            %option Sort News by Newest
-            %option Sort News by Most Read
-            %option Sort News by Comment Count
+            %option Show Only Followed News
+          %select.form-control
+            %option Sort by Newsworthiness
+            %option Sort by Newest
+            %option Sort by Most Read
+            %option Sort by Comment Count
         %center
           %br
           .btn.btn-sm.btn-default

@@ -1,6 +1,6 @@
 # took_office date format: YYYY-MM-DD
 
-- rep_status: In Office
+- rep_status: Out of Office
   state: DC
   title: President
   first_name: Barack
@@ -537,14 +537,14 @@
   profile_pic: http://data.matchvote.com/images/2015/highprofile/Rick_Santorum.png
   name_recognition: 262219
 
-- rep_status: Running for Office
+- rep_status: In Office
   state: DC
-  title: Candidate
+  title: President
   first_name: Donald
   middle_name: John
   last_name: Trump
   nick_name: Donald
-  address:
+  address: The White House, 1600 Pennsylvania Avenue NW, Washington, DC 20500
   fax:
   tel:
   email: https://www.donaldjtrump.com/contact/

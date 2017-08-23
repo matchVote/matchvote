@@ -1,5 +1,5 @@
 %header
-  %nav.navbar.navbar-fixed-top
+  %nav.navbar.navbar-fixed-top.hidden-xs
     .navbar-inner
       .container
         %ul.nav.navbar-nav
@@ -18,6 +18,9 @@
                 = link_to "Editorials", elections_path
               %li
                 = link_to "Directory", root_path
+              %li
+                = link_to "Forum", root_path,
+                  class: "comingsoon", title: "Coming Soon"
               %li
                 = link_to "Townhall", root_path,
                   class: "comingsoon", title: "Coming Soon"
