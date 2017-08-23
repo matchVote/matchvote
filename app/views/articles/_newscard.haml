@@ -18,13 +18,14 @@
           %ul
             - article.summary_points.each do |sp|
               %li= sp
-        .news-topics
-          %ul
-            %li
-              %strong Topics:
-            - article.top_keywords.each do |keyword|
+        - if !article.top_keywords.empty?
+          .news-topics
+            %ul
               %li
-                %a= keyword
+                %strong Topics:
+              - article.top_keywords.each do |keyword|
+                %li
+                  %a= keyword
         %hr
         %center
           = link_to article.url, target: "_blank", style: "text-decoration: none" do

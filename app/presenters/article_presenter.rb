@@ -1,18 +1,34 @@
 class ArticlePresenter < SimpleDelegator
+  def self.to_proc
+    -> (article) { self.new(article) }
+  end
+
   def article
     @article ||= __getobj__
   end
 
   def read_time
-    "#{article.read_time} min Read"
+    String.new.tap do |time|
+      time << "#{article.read_time} min " if article.read_time
+      time << "Read"
+    end
   end
 
   def authored_by
-    "By #{article.authors.join(",")} at #{article.publisher}"
+    String.new.tap do |author_line|
+      if !article.authors.empty?
+        author_line << "By #{article.authors.join(',')} at "
+      end
+      author_line << article.publisher
+    end
   end
 
   def published
-    "#{article.date_published} @ #{article.created_at.strftime("%l:%M%p")}"
+    if article.date_published
+      date = article.date_published.strftime("%Y-%m-%d")
+      time = article.date_published.strftime("%l:%M %p %Z")
+      "#{date} @ #{time}"
+    end
   end
 
   def summary_points
