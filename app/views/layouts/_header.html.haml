@@ -15,14 +15,15 @@
               %li
                 = link_to "News", news_path
               %li
-                = link_to "Editorials", elections_path
-              %li
                 = link_to "Directory", root_path
               %li
-                = link_to "Forum", root_path,
+                = link_to "Forum", forum_path,
                   class: "comingsoon", title: "Coming Soon"
               %li
-                = link_to "Townhall", root_path,
+                = link_to "Editorials", editorials_path,
+                  class: "comingsoon", title: "Coming Soon"
+              %li
+                = link_to "Elections", elections_path,
                   class: "comingsoon", title: "Coming Soon"
               %li
                 = link_to "Stances", stances_path
