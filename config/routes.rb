@@ -36,5 +36,8 @@ Rails.application.routes.draw do
     patch "/comments/:id/likes", to: "comments#likes"
     patch "/citizens/:id/upgrade_account", to: "citizens#upgrade_account"
   end
+
+  resource :forum, only: [:show], controller: "forum"
+  resources :editorials, only: [:index, :show]
 end
 
