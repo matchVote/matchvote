@@ -14,13 +14,9 @@ matchVote lets you automatically follow the political positions and news for ele
 ### TODO
 * News Feed
   * Articles
-    * Pagination
-      * Buttons not working on ajaxed articles
-    * Option to reverse newsworthiness vote
     * Topics Covered (pulled from IssueCategories:Related Keywords)
     * Share
     * Truncated stance questions
-    * Newsworthiness rating - disable arrows after selecting
   * Filtering
     * Bookmark
     * Topic/Category
@@ -46,7 +42,7 @@ matchVote lets you automatically follow the political positions and news for ele
     * Upgrade -- Temp implementation until Account Upgrade feature is done
 * Account Upgrade (payments)
 * Directory
-  * Sort: 
+  * Sort:
     * Most Similar/Least similar
     * Approval Rating - Tied to Census Pulse
     * Name Recognition currently broken due to Virility/Facebook API deprecation:
@@ -97,7 +93,7 @@ Rep Terms?
 
 > * Statements
 >   * Declarative text (limit character count?): Limited to 256
-  
+
 >   -Citizen User Type also has
 >   * Alignment Importance with Rep (0, 1, 2, 3, 4, 5)
 >   * Agreement with Researcher Inferrence

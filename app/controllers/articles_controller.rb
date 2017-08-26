@@ -19,13 +19,14 @@ class ArticlesController < ApplicationController
   end
 
   def newsworthiness
-    if user_can_change_article?(params[:id])
-      Article.send("#{params[:type]}_counter", :newsworthiness_count, params[:id])
-      create_change(params[:id], "newsworthiness #{params[:type]}")
-      head :ok
-    else
-      head :forbidden
+    article_id = params[:id]
+    change = find_article_change(article_id)
+    type = newsworthiness_change_type(change)
+    reverse_newsworthiness_vote(change, article_id, type) if type
+    if params[:type] != type
+      create_newsworthiness_vote(change, article_id, params[:type])
     end
+    render json: { previous_type: type }
   end
 
   def bookmark
@@ -41,14 +42,34 @@ class ArticlesController < ApplicationController
 
   private
 
-  def user_can_change_article?(id)
-    not UserArticleChange.exists?(article_id: id, user_id: current_user.id)
+  def newsworthiness_change_type(change)
+    change.change_type.split(" ").last
   end
 
-  def create_change(id, type)
-    UserArticleChange.create(
-      article_id: id,
-      user_id: current_user.id,
-      change_type: type)
+  def create_newsworthiness_vote(change, article_id, type)
+    UserArticleChange.transaction do
+      Article.send("#{type}_counter", :newsworthiness_count, article_id)
+      UserArticleChange.create(
+        article_id: article_id,
+        user_id: current_user.id,
+        change_type: "newsworthiness #{type}")
+    end
+  end
+
+  def reverse_newsworthiness_vote(change, article_id, type)
+    opposite_type = UserArticleChange.opposite_newsworthiness_type(type)
+    UserArticleChange.transaction do
+      Article.send("#{opposite_type}_counter", :newsworthiness_count, article_id)
+      change.destroy
+    end
+  end
+
+  def find_article_change(id)
+    change = UserArticleChange.find_by(article_id: id, user_id: current_user.id)
+    change ? change : UserArticleChange.new(change_type: '')
+  end
+
+  def user_can_change_article?(id)
+    not UserArticleChange.exists?(article_id: id, user_id: current_user.id)
   end
 end

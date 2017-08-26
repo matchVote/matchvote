@@ -32,7 +32,7 @@ class ArticlePresenter < SimpleDelegator
   end
 
   def summary_points
-    article.summary.split("\\n")
+    (article.summary || "").split("\\n")
   end
 
   def top_keywords
@@ -54,5 +54,9 @@ class ArticlePresenter < SimpleDelegator
     else
       "Add your comment"
     end
+  end
+
+  def newsworthiness_count
+    article.newsworthiness_count || 0
   end
 end

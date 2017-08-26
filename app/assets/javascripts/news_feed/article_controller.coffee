@@ -27,12 +27,26 @@ class ArticleController
         url: "/articles/#{articleID}/newsworthiness"
         data:
           type: type
-        success: (data) ->
-          count = parseInt(target.siblings(".news-vote-count").text())
-          count = if type == "increment" then count + 1 else count - 1
-          target.siblings(".news-vote-count").text(count)
+        success: (data) =>
+          $countElement = target.siblings(".news-vote-count")
+          currentCount = parseInt($countElement.text())
+          count = @calculateCount(type, data.previous_type, currentCount)
+          $countElement.text(count)
         error: ->
-          sweetAlert "", "You can only vote once per article"
+          console.log('Error')
+
+  calculateCount: (type, previousType, currentCount) ->
+    if type == previousType
+      if type == 'increment'
+        currentCount -= 1
+      else
+        currentCount += 1
+    else
+      scale = if previousType then 2 else 1
+      if type == 'increment'
+        currentCount += scale
+      else
+        currentCount -= scale
 
   toggleBookmark: ->
     $("#article-list").on "click", ".bookmark", (event) =>
