@@ -14,6 +14,7 @@ matchVote lets you automatically follow the political positions and news for ele
 ### TODO
 * News Feed
   * Articles
+    * Newsworthiness vote doesn't visually indicate a previous vote
     * Topics Covered (pulled from IssueCategories:Related Keywords)
     * Share
     * Truncated stance questions
