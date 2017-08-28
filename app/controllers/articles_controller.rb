@@ -10,6 +10,7 @@ class ArticlesController < ApplicationController
     @reply_limit = REPLY_LIMIT
     @articles = Article
       .includes(:comments, :bookmarks)
+      .order(date_published: :desc)
       .map(&ArticlePresenter)
       .paginate(page: params[:page], per_page: PER_PAGE)
   end
