@@ -1,3 +1,9 @@
-.row
-  .col-md-6.col-md-offset-4
-    %h1 What a snazzy forum!
+.container
+  .row
+    .visible-sm-block.visible-xs-block
+      .row
+    .col-md-3.hidden-sm
+      .forum-sidebar
+        %h4 Filter Forum
+    .col-md-9
+      = render "forumexample"

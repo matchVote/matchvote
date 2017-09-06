@@ -3,6 +3,7 @@
     .btn-group-vertical.news-vote-btn.pull-right
       .newsworthiness.btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title: "Newsworthy", type: "increment"}
       .news-vote-count= article.newsworthiness_count
+      %h6 Newsworthy
       .newsworthiness.btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title: "Not Newsworthy", type: "decrement"}
     .news-title
       = link_to article.url, target: "_blank" do
