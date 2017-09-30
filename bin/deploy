@@ -8,13 +8,14 @@ if [ -z "$ENV" ]; then
   exit 1
 fi
 
-# Login to AWS EC2 Container Registry
-$(aws ecr get-login --no-include-email)
-
 TARGET_IMAGE=788332838494.dkr.ecr.$REGION.amazonaws.com/mv-web-app:latest
 SOURCE_IMAGE=matchvote:latest
 
+# Login to AWS EC2 Container Registry
+$(aws ecr get-login --no-include-email)
+
 echo "Stopping service task..."
+# This creates downtime
 aws ecs update-service --cluster $ENV --service mv-web-app --desired-count 0
 
 echo "Building image..."

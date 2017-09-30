@@ -17,3 +17,9 @@ if Rails.env.development?
   Rake::Task["dev:load_fixtures"].invoke
   puts "Done!"
 end
+
+if Rails.env.production?
+  print "Populating database with production seeds..."
+
+  Rake::Task["import:all_default_data"].invoke
+end

@@ -8,7 +8,7 @@ namespace :reps do
     Rake::Task["reps:load_profile_data"].invoke
     Rake::Task["reps:load_image_urls"].invoke
     Rake::Task["reps:load_bios"].invoke
-    Rake::Task["reps:set_name_recognition"].invoke
+    # Rake::Task["reps:set_name_recognition"].invoke
   end
 
   task load_profile_data: :environment do

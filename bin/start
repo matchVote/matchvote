@@ -3,6 +3,6 @@
 rm -f tmp/pids/server.pid
 if [ $RAILS_ENV == "production" ]; then
   rake assets:precompile
+  rake db:migrate
 fi
-rake db:migrate
 rails server -p $WEB_SERVER_PORT -b 0.0.0.0
