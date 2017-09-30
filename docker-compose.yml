@@ -3,8 +3,6 @@ services:
   web:
     build: .
     env_file: .env
-    environment:
-      PORT: "3000"
     volumes:
       - .:/usr/src/app
     ports:

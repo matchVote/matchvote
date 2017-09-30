@@ -1,18 +1,19 @@
 source "https://rubygems.org"
 
 gem "awesome_print", "~> 1.6.1"
+gem "aws-sdk-rails", "~> 2.0.0"
 gem "bcrypt", "~> 3.1.10"
 gem "bootstrap-sass", "~> 3.3.4"
-gem "carrierwave", "~> 0.10.0"
+gem "carrierwave-aws", "~> 1.3.0"
 gem "coffee-rails", "~> 4.1.0"
 gem "devise", "~> 3.4.0"
-gem "fog", "~> 1.30.0"
 gem "haml-rails", "~> 0.9"
 gem "httparty", "~> 0.13.3"
 gem "jquery-rails", "~> 4.0.3"
 gem "ledermann-rails-settings", "~> 2.4.0"
 gem "pg", "~> 0.18.1"
 gem "pg_search", "~> 0.7.9"
+gem "puma", "3.10.0"
 gem "pundit", "~> 1.0.0"
 gem "rails", "4.2.3"
 gem "rails-html-sanitizer", "~> 1.0.1"
@@ -37,7 +38,6 @@ group :development, :test do
   gem "spring", "~> 1.3.3"
   gem "spring-commands-rspec", "~> 1.0.4"
   gem "stackprof", "~> 0.2.7"
-  gem "thin", "~> 1.6.3"
   gem "web-console", "~> 2.1.2"
 end
 
@@ -52,6 +52,5 @@ group :test do
 end
 
 group :production do
-  gem "passenger", "~> 5.0.6"
   gem "rails_12factor", "~> 0.0.3"
 end

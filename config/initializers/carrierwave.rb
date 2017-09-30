@@ -1,12 +1,7 @@
 CarrierWave.configure do |config|
-  config.storage = :fog
-  config.fog_credentials = {
-    provider: "AWS",
-    aws_access_key_id: ENV["MV_AWS_ACCESS_KEY_ID"],
-    aws_secret_access_key: ENV["MV_AWS_SECRET_ACCESS_KEY"]
-  }
-  config.fog_directory = ENV["MV_PROFILE_PIC_BUCKET"]
-  config.fog_public = false
-
+  config.storage = :aws
+  config.aws_credentials = { region: ENV.fetch('AWS_REGION') }
+  config.aws_bucket = ENV.fetch('MV_PROFILE_PIC_BUCKET')
+  config.aws_acl = 'public-read'
   config.enable_processing = false if Rails.env.test?
 end
