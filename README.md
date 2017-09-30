@@ -11,6 +11,9 @@ matchVote lets you automatically follow the political positions and news for ele
 #### Deployment Process
     bin/deploy
 
+#### Updating version
+* config/application.rb `VERSION`
+
 ### TODO
 * News Feed
   * Articles
@@ -46,9 +49,7 @@ matchVote lets you automatically follow the political positions and news for ele
   * Sort:
     * Most Similar/Least similar
     * Approval Rating - Tied to Census Pulse
-    * Name Recognition currently broken due to Virility/Facebook API deprecation:
-      "REST API is deprecated for versions v2.1 and higher (12)"
-      Virility gem has been updated but not pushed to Rubygems so the update is not available
+    * Name Recognition currently broken due to Virility using ruby version 2.3
   * Filter  
     * Finalize hierarchy
 * Rep profile/admin
