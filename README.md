@@ -9,7 +9,8 @@ matchVote lets you automatically follow the political positions and news for ele
     docker-compose up web  # starts containers
 
 #### Deployment Process
-    bin/deploy
+    bin/deploy <ENV>
+Initial data population will need to happen when an environment is deployed to for the first time: `rake import:all_default_data`
 
 #### Updating version
 * config/application.rb `VERSION`
