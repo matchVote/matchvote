@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170822093330) do
+ActiveRecord::Schema.define(version: 20171016092041) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -45,6 +45,15 @@ ActiveRecord::Schema.define(version: 20170822093330) do
   end
 
   add_index "articles", ["url"], name: "index_articles_on_url", unique: true, using: :btree
+
+  create_table "articles_representatives", force: :cascade do |t|
+    t.uuid     "representative_id"
+    t.integer  "article_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "articles_representatives", ["representative_id", "article_id"], name: "idx_articles_reps_primary_key", unique: true, using: :btree
 
   create_table "bookmarks", force: :cascade do |t|
     t.integer  "article_id"
