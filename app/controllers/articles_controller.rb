@@ -41,6 +41,16 @@ class ArticlesController < ApplicationController
     end
   end
 
+  def api_index
+    @comment_limit = COMMENT_LIMIT
+    @reply_limit = REPLY_LIMIT
+    @articles = Article
+      .includes(:comments, :bookmarks)
+      .order(date_published: :desc)
+      .map(&ArticlePresenter)
+      .paginate(page: params[:page], per_page: PER_PAGE)
+  end
+
   private
 
   def newsworthiness_change_type(change)

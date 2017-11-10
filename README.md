@@ -21,7 +21,7 @@ Initial data population will need to happen when an environment is deployed to f
     * Newsworthiness vote doesn't visually indicate a previous vote
     * Topics Covered (pulled from IssueCategories:Related Keywords)
     * Share
-    * Truncated stance questions
+    * Pulse Poll
   * Filtering
     * Bookmark
     * Topic/Category

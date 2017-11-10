@@ -32,6 +32,7 @@ Rails.application.routes.draw do
 
   scope "/api" do
     resources :comments, only: [:create]
+    get "/articles", to: "articles#api_index"
     get "/articles/:id/comments", to: "comments#index_for_article"
     patch "/comments/:id/likes", to: "comments#likes"
     patch "/citizens/:id/upgrade_account", to: "citizens#upgrade_account"
@@ -40,4 +41,3 @@ Rails.application.routes.draw do
   resource :forum, only: [:show], controller: "forum"
   resources :editorials, only: [:index, :show]
 end
-

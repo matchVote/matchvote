@@ -22,7 +22,7 @@
 
 
     .col-md-3.hidden-sm
-      .news-sidebar
+      .news-sidebar#news-feed-presenter
         .news-sort
           %center
             %h5
@@ -33,18 +33,18 @@
           %select.form-control
             %option Show All News
             %option Show Only Followed News
-          %select.form-control
-            %option Sort by Newsworthiness
-            %option Sort by Newest
-            %option Sort by Most Read
-            %option Sort by Comment Count
+          %select.form-control#article-sort
+            %option{value: 'newsworthiness'} Sort by Newsworthiness
+            %option{value: 'newest'} Sort by Newest
+            %option{value: 'most_read'} Sort by Most Read
+            %option{value: 'comment_count'} Sort by Comment Count
         %center
           %br
           .btn.btn-sm.btn-default
-            .glyphicon.glyphicon-calendar{title:"View Historical News"}
+            .glyphicon.glyphicon-calendar{title: "View Historical News"}
             %strong &nbsp Past News
           .btn.btn-sm.btn-default
-            .glyphicon.glyphicon-bookmark{title:"View Your Bookmarked Articles"}
+            .glyphicon.glyphicon-bookmark{title: "View Your Bookmarked Articles"}
             %strong &nbsp Bookmarks
           %br
           %br
