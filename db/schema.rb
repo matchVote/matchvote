@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171114103245) do
+ActiveRecord::Schema.define(version: 20171114113225) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -37,7 +37,7 @@ ActiveRecord::Schema.define(version: 20171114103245) do
     t.text     "summary"
     t.string   "mentioned_officials",  default: [],              array: true
     t.integer  "read_time"
-    t.integer  "newsworthiness_count"
+    t.integer  "newsworthiness_count", default: 0
     t.text     "top_image_url"
     t.datetime "created_at"
     t.datetime "updated_at"
