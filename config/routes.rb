@@ -34,6 +34,7 @@ Rails.application.routes.draw do
     resources :comments, only: [:create]
     get "/articles", to: "articles#api_index"
     get "/articles/:id/comments", to: "comments#index_for_article"
+    patch "/articles/:id/increment_read_count", to: "articles#increment_read_count"
     patch "/comments/:id/likes", to: "comments#likes"
     patch "/citizens/:id/upgrade_account", to: "citizens#upgrade_account"
   end

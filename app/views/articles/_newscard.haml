@@ -7,7 +7,7 @@
       .newsworthiness.btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title: "Not Newsworthy", type: "decrement"}
     .news-title
       = link_to article.url, target: "_blank" do
-        %h3= article.title
+        %h3.read-article= article.title
       .news-author
         = article.authored_by
         %span.news-date= article.published
@@ -30,7 +30,7 @@
         %hr
         %center
           = link_to article.url, target: "_blank", style: "text-decoration: none" do
-            .btn.btn-sm.btn-danger= article.read_time
+            .read-article.btn.btn-sm.btn-danger= article.read_time
           .show-comments.btn.btn-sm.btn-default
             %span.comment-count{data: { article_id: article.id }}= article.comments.size
             Comments

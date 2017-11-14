@@ -13,6 +13,7 @@ class ArticleController
     @showComments()
     @hideComments()
     @scrollingPagination()
+    @incrementReadCount()
 
   articleID: (event) ->
     $(event.target).closest(".newscard").attr("id")
@@ -91,3 +92,13 @@ class ArticleController
 
   isHalfwayThroughList: ->
     $(window).scrollTop() > $(document).height() / 2
+
+  incrementReadCount: ->
+    $("#article-list").on "click", ".read-article", (event) =>
+      $.ajax
+        type: "PATCH"
+        url: "/api/articles/#{@articleID(event)}/increment_read_count"
+        success: ->
+          console.log('Read count incremented')
+        error: ->
+          console.log('Something went horribly wrong while incrementing read count')

@@ -52,10 +52,6 @@ class ArticlesController < ApplicationController
         .group('articles.id')
         .order('count(C.id) DESC')
     else
-      sort_mapping = {
-        'newest' => 'date_published',
-        'newsworthiness' => 'newsworthiness_count'
-      }
       articles = Article
         .includes(:comments, :bookmarks)
         .order(sort_mapping[params['sort']] => :desc)
@@ -66,7 +62,17 @@ class ArticlesController < ApplicationController
       .paginate(page: params[:page], per_page: PER_PAGE)
   end
 
+  def increment_read_count
+    Article.increment_counter(:read_count, params[:id])
+    head :ok
+  end
+
   private
+
+  def sort_mapping
+    { 'newest' => 'date_published',
+      'newsworthiness' => 'newsworthiness_count' }
+  end
 
   def newsworthiness_change_type(change)
     change.change_type.split(" ").last
