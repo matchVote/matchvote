@@ -15,7 +15,7 @@ Bundler.require(*Rails.groups)
 
 module MatchVote
   class Application < Rails::Application
-    VERSION = "0.3.0a"
+    VERSION = "0.3.0.1a"
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
