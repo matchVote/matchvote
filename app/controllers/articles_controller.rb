@@ -44,9 +44,24 @@ class ArticlesController < ApplicationController
   def api_index
     @comment_limit = COMMENT_LIMIT
     @reply_limit = REPLY_LIMIT
-    @articles = Article
-      .includes(:comments, :bookmarks)
-      .order(date_published: :desc)
+
+    if params['sort'] == 'comment_count'
+      articles = Article
+        .joins('LEFT JOIN comments C on C.commentable_id = articles.id')
+        .includes(:bookmarks)
+        .group('articles.id')
+        .order('count(C.id) DESC')
+    else
+      sort_mapping = {
+        'newest' => 'date_published',
+        'newsworthiness' => 'newsworthiness_count'
+      }
+      articles = Article
+        .includes(:comments, :bookmarks)
+        .order(sort_mapping[params['sort']] => :desc)
+    end
+
+    @articles = articles
       .map(&ArticlePresenter)
       .paginate(page: params[:page], per_page: PER_PAGE)
   end
