@@ -42,7 +42,7 @@ ActiveRecord::Schema.define(version: 20171114103245) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.text     "source"
-    t.integer  "read_count"
+    t.integer  "read_count",           default: 0
   end
 
   add_index "articles", ["url"], name: "index_articles_on_url", unique: true, using: :btree

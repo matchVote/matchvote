@@ -32,7 +32,6 @@ Initial data population will need to happen when an environment is deployed to f
     * Newsworthiness
     * Add filter
   * Sorting
-    * Most Read
     * Most Shared
     * Most Bookmarked
   * Comments

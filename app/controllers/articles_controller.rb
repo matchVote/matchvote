@@ -71,7 +71,8 @@ class ArticlesController < ApplicationController
 
   def sort_mapping
     { 'newest' => 'date_published',
-      'newsworthiness' => 'newsworthiness_count' }
+      'newsworthiness' => 'newsworthiness_count',
+      'most_read' => 'read_count' }
   end
 
   def newsworthiness_change_type(change)
