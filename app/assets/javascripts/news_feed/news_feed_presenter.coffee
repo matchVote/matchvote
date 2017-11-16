@@ -12,7 +12,7 @@ class NewsFeedPresenter
     @sortArticles()
 
   sortArticles: ->
-    $('#article-sort').change (event) =>
+    $('.article-sort').change (event) =>
       $selectBox = $(event.target)
       @sortType = $selectBox.val()
       @$articleList.html('Status Spinner to go here')
