@@ -1,6 +1,9 @@
 require "will_paginate/array"
+require_relative "#{Rails.root}/lib/articles/article_collection"
 
 class ArticlesController < ApplicationController
+  include ArticleCollection
+
   COMMENT_LIMIT = 5
   REPLY_LIMIT = 4
   PER_PAGE = 10
@@ -44,22 +47,10 @@ class ArticlesController < ApplicationController
   def api_index
     @comment_limit = COMMENT_LIMIT
     @reply_limit = REPLY_LIMIT
-
-    if params['sort'] == 'comment_count'
-      articles = Article
-        .joins('LEFT JOIN comments C on C.commentable_id = articles.id')
-        .includes(:bookmarks)
-        .group('articles.id')
-        .order('count(C.id) DESC')
-    else
-      articles = Article
-        .includes(:comments, :bookmarks)
-        .order(sort_mapping[params['sort']] => :desc)
-    end
-
-    @articles = articles
+    @articles = collect_articles(params, current_user)
       .map(&ArticlePresenter)
       .paginate(page: params[:page], per_page: PER_PAGE)
+    render layout: false
   end
 
   def increment_read_count
@@ -68,12 +59,6 @@ class ArticlesController < ApplicationController
   end
 
   private
-
-  def sort_mapping
-    { 'newest' => 'date_published',
-      'newsworthiness' => 'newsworthiness_count',
-      'most_read' => 'read_count' }
-  end
 
   def newsworthiness_change_type(change)
     change.change_type.split(" ").last

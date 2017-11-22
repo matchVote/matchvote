@@ -1,2 +1,3 @@
 - render_articles(@articles, @comment_limit, @reply_limit).each do |article|
   = article
+= will_paginate @articles, style: "display:none", params: { controller: 'articles', action: 'api_index' }

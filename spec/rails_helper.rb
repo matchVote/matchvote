@@ -1,6 +1,6 @@
 ENV["RAILS_ENV"] ||= 'test'
-require "simplecov"
-SimpleCov.start
+# require "simplecov"
+# SimpleCov.start
 
 require 'spec_helper'
 require File.expand_path("../../config/environment", __FILE__)
@@ -75,7 +75,9 @@ RSpec.configure do |config|
   end
 
   config.after(:suite) do
-    File.delete("#{Rails.root}/tmp/fog_creds.yml")
+    file = "#{Rails.root}/tmp/fog_creds.yml"
+    if File.exists?(file)
+      File.delete(file)
+    end
   end
 end
-

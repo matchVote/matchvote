@@ -42,7 +42,7 @@
           .btn.btn-sm.btn-default
             .glyphicon.glyphicon-calendar{title: "View Historical News"}
             %strong &nbsp Past News
-          .btn.btn-sm.btn-default
+          .btn.btn-sm.btn-default#filter-bookmarks
             .glyphicon.glyphicon-bookmark{title: "View Your Bookmarked Articles"}
             %strong &nbsp Bookmarks
           %br
@@ -77,9 +77,8 @@
       #article-list
         - render_articles(@articles, @comment_limit, @reply_limit).each do |article|
           = article
+        = will_paginate @articles, style: "display:none", params: { controller: 'articles', action: 'api_index' }
       .spinner{style: "display:none"}
         .bounce1
         .bounce2
         .bounce3
-
-= will_paginate @articles, style: "display:none"

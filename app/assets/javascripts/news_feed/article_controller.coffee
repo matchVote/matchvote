@@ -4,7 +4,6 @@ $(document).on "page:change", ->
 
 class ArticleController
   constructor: ->
-    @isPaginating = false
     @bindEvents()
 
   bindEvents: ->
@@ -12,7 +11,6 @@ class ArticleController
     @toggleBookmark()
     @showComments()
     @hideComments()
-    @scrollingPagination()
     @incrementReadCount()
 
   articleID: (event) ->
@@ -76,22 +74,6 @@ class ArticleController
       $button = $(event.target)
       $button.hide()
       $button.siblings(".show-comments").show()
-
-  scrollingPagination: ->
-    $(window).scroll =>
-      url = $(".pagination .next_page").attr("href")
-      if url and @isHalfwayThroughList() and not @isPaginating
-        @isPaginating = true
-        $(".spinner").show()
-        $.getScript url, =>
-          @isPaginating = false
-          $(".spinner").hide()
-
-  isEndOfList: ->
-    $(window).scrollTop() is $(document).height() - $(window).height()
-
-  isHalfwayThroughList: ->
-    $(window).scrollTop() > $(document).height() / 2
 
   incrementReadCount: ->
     $("#article-list").on "click", ".read-article", (event) =>
