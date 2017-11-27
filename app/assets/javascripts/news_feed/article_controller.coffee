@@ -80,7 +80,5 @@ class ArticleController
       $.ajax
         type: "PATCH"
         url: "/api/articles/#{@articleID(event)}/increment_read_count"
-        success: ->
-          console.log('Read count incremented')
         error: ->
           console.log('Something went horribly wrong while incrementing read count')

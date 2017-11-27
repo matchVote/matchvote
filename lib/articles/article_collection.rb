@@ -28,7 +28,6 @@ module ArticleCollection
     if sort == 'comment_count'
       articles.group('articles.id').order('count(C.id) DESC')
     else
-      Rails.logger.info "Sort #{sort}"
       sort = sort || 'newest'
       articles.order(sort_mapping[sort] => :desc)
     end

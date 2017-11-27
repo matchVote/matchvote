@@ -23,7 +23,6 @@ class NewsFeedPresenter
       if url and @isHalfwayThroughList() and not @isPaginating
         @isPaginating = true
         $('.spinner').show()
-        console.log("Script is being gotten, url: #{url}")
         @executeAjaxRequest url, (html) =>
           $('.pagination').remove()
           @$articleList.append(html)
