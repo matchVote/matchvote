@@ -1,0 +1,14 @@
+Viewing
+= @articles.count
+articles from
+= link_to "#{@publisher_count} sources", "https://matchvote.com/publications",
+  title: "Where we retrieve news"
+%br
+for
+= Date.today.strftime("%B")
+= Time.now.day.ordinalize + ","
+= Time.now.year
+-# Include below only on current day's news
+as of
+-# = Time.now.strftime("%l:%M%p")
+= @articles.first.date_published.strftime("%l:%M %p")

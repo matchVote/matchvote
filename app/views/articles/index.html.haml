@@ -51,17 +51,6 @@
             %h5
               Add Filters to Refine Search
             .article_count
-              Viewing 1,734 articles from
-              %a{ href: "https://matchvote.com/publications", title: "Where we retrieve news" }
-                87 sources
-              %br
-              for
-              = Date.today.strftime("%B")
-              = Time.now.day.ordinalize + ","
-              = Time.now.year
-              -# Include below only on current day's news
-              as of
-              = Time.now.strftime("%l:%M%p")
 
             %hr
             .btn.btn-sm.btn-danger

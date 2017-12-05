@@ -13,7 +13,7 @@ class ArticlesController < ApplicationController
     @reply_limit = REPLY_LIMIT
     @articles = Article
       .includes(:comments, :bookmarks)
-      .order(date_published: :desc)
+      .where('date_published > ?', Time.now.beginning_of_day)
       .map(&ArticlePresenter)
       .paginate(page: params[:page], per_page: PER_PAGE)
   end
@@ -56,6 +56,14 @@ class ArticlesController < ApplicationController
   def increment_read_count
     Article.increment_counter(:read_count, params[:id])
     head :ok
+  end
+
+  def news_feed_stats
+    @articles = Article
+      .where("date_published > ?", Time.now.beginning_of_day)
+      .order(:date_published)
+    @publisher_count = @articles.select(:publisher).distinct.count
+    render partial: "article_stats"
   end
 
   private

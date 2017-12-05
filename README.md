@@ -23,13 +23,12 @@ Initial data population will need to happen when an environment is deployed to f
     * Share
     * Pulse Poll
   * Filtering
-    * Topic/Category
-    * Mentioned Official
-    * Publisher
-    * Author (not current priority)
-    * Publish Date
-    * Newsworthiness
     * Add filter
+      * Topic/Category
+      * Mentioned Official
+      * Publisher
+      * Author (not current priority)
+      * Publish Date
   * Sorting
     * Most Shared
     * Most Bookmarked
@@ -54,8 +53,6 @@ Initial data population will need to happen when an environment is deployed to f
   * Comments
   * Recent News - Pulled from News Feeder
   * Presentation of absent contact info
-* Citizen profile/editing
-  * Profile image
 * Misc backend
   * Send email to admin if user signs up as rep/admin
   * Setup email for forgotten password
@@ -71,8 +68,6 @@ Initial data population will need to happen when an environment is deployed to f
   * Style forgot password form
   * Refine Stances/Quiz views
   * Build GUI for admins to edit Representative profiles
-* Test
-  * LegislatorsDataCompiler
 
 #### Rep Hierarchy
 All ->  

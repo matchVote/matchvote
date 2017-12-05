@@ -11,11 +11,20 @@ class NewsFeedPresenter
     @sort = 'newest'
     @filter = null
     @bindEvents()
+    @fetchStats()
 
   bindEvents: ->
     @scrollingPagination()
     @sortArticles()
     @filterBookmarks()
+
+  fetchStats: ->
+    $.ajax
+      url: 'api/news_feed_stats'
+      success: (html) =>
+        $('.article_count').html(html)
+      error: (xhr, status, error) ->
+        console.log("Fail -- status: #{status}; error #{error}")
 
   scrollingPagination: ->
     $(window).scroll =>
