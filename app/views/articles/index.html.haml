@@ -39,9 +39,10 @@
             %option{value: 'comment_count'} Sort by Comment Count
         %center
           %br
-          .btn.btn-sm.btn-default
+          .btn.btn-sm.btn-default#past-news
             .glyphicon.glyphicon-calendar{title: "View Historical News"}
             %strong &nbsp Past News
+          #newsfeed-datepicker{style: "display:none"}
           .btn.btn-sm.btn-default#filter-bookmarks
             .glyphicon.glyphicon-bookmark{title: "View Your Bookmarked Articles"}
             %strong &nbsp Bookmarks
