@@ -33,7 +33,7 @@ class NewsFeedPresenter
 
   initializeDatepicker: ->
     @$datepicker.datepicker
-      startDate: '-3d'
+      endDate: 'tomorrow'
 
   executeAjaxRequest: (url, articles_callback) ->
     $.ajax
@@ -92,6 +92,7 @@ class NewsFeedPresenter
         @$pastNewsButton.addClass('btn-default')
         @$pastNewsButton.removeClass('label-info')
         delete @filters.past_news
+        @$datepicker.datepicker('clearDates')
       else
         @$pastNewsButton.addClass('label-info')
         @$pastNewsButton.removeClass('btn-default')
