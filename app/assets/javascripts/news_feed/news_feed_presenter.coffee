@@ -11,7 +11,6 @@ class NewsFeedPresenter
     @articlesIndex = '/api/articles'
     @isPaginating = false
     @sort = 'newest'
-    @filter = null
     @filters = {}
     @bindEvents()
     @fetchStats()
@@ -34,13 +33,23 @@ class NewsFeedPresenter
   initializeDatepicker: ->
     @$datepicker.datepicker
       endDate: 'tomorrow'
+    @$datepicker.on 'changeDate', (event) =>
+      if event.date
+        @filters.date_published = event.date
+      @updateArticles()
+
+  updateArticles: ->
+    @$articleList.html('')
+    $('.spinner').show()
+    @executeAjaxRequest @articlesIndex, (html) =>
+      @$articleList.html(html)
 
   executeAjaxRequest: (url, articles_callback) ->
     $.ajax
       url: url
       data:
         sort: @sort
-        filter: @filter
+        filters: @filters
       success: (articles_html) =>
         $('.spinner').hide()
         articles_callback(articles_html)
@@ -65,36 +74,30 @@ class NewsFeedPresenter
     $('.article-sort').change (event) =>
       $selectBox = $(event.target)
       @sort = $selectBox.val()
-      @$articleList.html('')
-      $('.spinner').show()
-      @executeAjaxRequest @articlesIndex, (html) =>
-        @$articleList.html(html)
+      @updateArticles()
 
   filterBookmarks: ->
     @$filterBookmarksButton.click =>
-      if @filter is 'bookmarks'
-        @filter = null
+      if 'bookmarks' of @filters
         @$filterBookmarksButton.addClass('btn-default')
         @$filterBookmarksButton.removeClass('label-info')
+        delete @filters.bookmarks
       else
-        @filter = 'bookmarks'
         @$filterBookmarksButton.addClass('label-info')
         @$filterBookmarksButton.removeClass('btn-default')
-      @$articleList.html('')
-      $('.spinner').show()
-      @executeAjaxRequest @articlesIndex, (html) =>
-        @$articleList.html(html)
+        @filters.bookmarks = true
+      @updateArticles()
 
   filterByDate: ->
     @$pastNewsButton.click (event) =>
-      if 'past_news' of @filters
+      if 'date_published' of @filters
         @$datepicker.hide()
         @$pastNewsButton.addClass('btn-default')
         @$pastNewsButton.removeClass('label-info')
-        delete @filters.past_news
+        delete @filters.date_published
         @$datepicker.datepicker('clearDates')
       else
         @$pastNewsButton.addClass('label-info')
         @$pastNewsButton.removeClass('btn-default')
         @$datepicker.show()
-        @filters.past_news = true
+        @filters.date_published = true

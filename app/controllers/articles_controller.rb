@@ -13,7 +13,7 @@ class ArticlesController < ApplicationController
     @reply_limit = REPLY_LIMIT
     @articles = Article
       .includes(:comments, :bookmarks)
-      .where('date_published > ?', Time.now.beginning_of_day)
+      .where(date_published: Time.now.beginning_of_day...Time.now.end_of_day)
       .map(&ArticlePresenter)
       .paginate(page: params[:page], per_page: PER_PAGE)
   end
