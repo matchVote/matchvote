@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171114113225) do
+ActiveRecord::Schema.define(version: 20180305134842) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -35,7 +35,6 @@ ActiveRecord::Schema.define(version: 20171114113225) do
     t.datetime "date_published"
     t.string   "keywords",             default: [],              array: true
     t.text     "summary"
-    t.string   "mentioned_officials",  default: [],              array: true
     t.integer  "read_time"
     t.integer  "newsworthiness_count", default: 0
     t.text     "top_image_url"
@@ -45,6 +44,7 @@ ActiveRecord::Schema.define(version: 20171114113225) do
     t.integer  "read_count",           default: 0
   end
 
+  add_index "articles", ["title"], name: "index_articles_on_title", unique: true, using: :btree
   add_index "articles", ["url"], name: "index_articles_on_url", unique: true, using: :btree
 
   create_table "articles_representatives", force: :cascade do |t|

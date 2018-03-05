@@ -17,6 +17,7 @@ namespace :dev do
       url = article.url[0...-1]
       (4..100).each do |num|
         article.url = url + num.to_s
+        article.title += num.to_s
         Article.create(article.attributes)
       end
     end
