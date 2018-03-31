@@ -49,22 +49,22 @@
           %td= @rep.orientation
 
   .col-md-4
-    .well.first_widget
-      %h3
-        = "#{Random.rand(100)}%"
-        Approval Rating
-      %div
-        %i Based on #{@rep.citizen_ratings_total} citizen ratings
-      %br
-      %a.btn.btn-danger
-        Rate #{@rep.nickname_or_first_name}
-      %a.btn.btn-default
-        Read Comments
+    -# .well.first_widget
+    -#   %h3
+    -#     = "#{Random.rand(100)}%"
+    -#     Approval Rating
+    -#   %div
+    -#     %i Based on #{@rep.citizen_ratings_total} citizen ratings
+    -#   %br
+    -#   %a.btn.btn-danger
+    -#     Rate #{@rep.nickname_or_first_name}
+    -#   %a.btn.btn-default
+    -#     Read Comments
 
     -# .profile_tweet
       %span Tweet
 
-    .well.widget
+    .well.first_widget
       %h3
         Connect with #{@rep.nickname_or_first_name}
       %strong #{@rep.title} #{@rep.nickname_or_first_name} #{@rep.last_name}
@@ -89,5 +89,4 @@
       = link_to "YouTube", @rep.youtube_url, target: "_blank",
         class: "btn btn-default btn-sm"
 
-
-    .well.widget= render "issue_comparison", issues: @issues
+    -# .well.widget= render "issue_comparison", issues: @issues
