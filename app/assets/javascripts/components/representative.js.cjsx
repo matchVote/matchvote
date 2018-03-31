@@ -11,7 +11,6 @@
       </div>
       <div>
         { "#{@props.rep.government_role} | #{@props.rep.state}" }
-        <div>{@props.rep.overall_match_percent}</div>
       </div>
       <div className="directory_block_btns">
         <a href={"/representative/#{@props.rep.slug}"} className="btn btn-sm btn-default">
