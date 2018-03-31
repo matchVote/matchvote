@@ -59,4 +59,10 @@ class ArticlePresenter < SimpleDelegator
   def newsworthiness_count
     article.newsworthiness_count || 0
   end
+
+  def mentioned_reps
+    article.article_representatives.map do |article_rep|
+      RepresentativePresenter.new(article_rep.representative)
+    end
+  end
 end

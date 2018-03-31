@@ -27,6 +27,12 @@
               - article.top_keywords.each do |keyword|
                 %li
                   %a= keyword
+          .news-topics
+            %ul
+              %li
+                %strong Mentioned:
+              - article.mentioned_reps.each do |rep|
+                %li= link_to rep.full_name, "/representative/#{rep.slug}"
         %hr
         %center
           = link_to article.url, target: "_blank", style: "text-decoration: none" do
