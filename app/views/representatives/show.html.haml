@@ -8,9 +8,11 @@
       = render "edit_button", rep: @rep if policy(@rep).edit?
       %div{data: { role: "biography_container" }}
         .profile_name
-          .btn.btn-primary.pull-right
-            %span.glyphicon.glyphicon-ok-circle
-            Follow
+          .follow-button-container
+            - if current_user.following?(@rep)
+              = render "relationships/unfollow_button", followed: @rep
+            - else
+              = render "relationships/follow_button", followed: @rep
           %h2= @rep.full_name
           %hr
           #{@rep.government_role} | #{@rep.status}
@@ -22,8 +24,6 @@
           = button_tag "Read Full Bio",
             class: "btn btn-sm btn-default bio_btn",
             data: { behavior: "toggle_bio" }
-
-
 
     .whitecard
       %h2 Recent News

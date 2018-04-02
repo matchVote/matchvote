@@ -3,6 +3,8 @@ class Representative < ActiveRecord::Base
   has_one :contact, as: :contactable, dependent: :destroy
   accepts_nested_attributes_for :contact, reject_if: :all_blank
   has_many :stances, as: :opinionable
+  has_many :relationships, foreign_key: :followed_id, dependent: :destroy
+  has_many :followers, through: :relationships, source: :follower
 
   validates :first_name, :last_name, :slug, presence: true
 
@@ -21,4 +23,3 @@ class Representative < ActiveRecord::Base
     end
   end
 end
-

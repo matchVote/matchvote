@@ -38,6 +38,8 @@ Rails.application.routes.draw do
     patch "/articles/:id/increment_read_count", to: "articles#increment_read_count"
     patch "/comments/:id/likes", to: "comments#likes"
     patch "/citizens/:id/upgrade_account", to: "citizens#upgrade_account"
+    resources :relationships, only: [:create]
+    post "/relationships/unfollow", to: "relationships#unfollow"
   end
 
   resource :forum, only: [:show], controller: "forum"

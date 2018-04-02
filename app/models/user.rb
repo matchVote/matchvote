@@ -14,6 +14,8 @@ class User < ActiveRecord::Base
   has_many :stances, as: :opinionable
   has_many :comments, dependent: :destroy
   has_one :account, dependent: :destroy
+  has_many :relationships, foreign_key: :follower_id, dependent: :destroy
+  has_many :followed_reps, through: :relationships, source: :followed
 
   validates :username, presence: true, uniqueness: true
   validate :username_has_no_whitespace
@@ -32,6 +34,10 @@ class User < ActiveRecord::Base
 
   def account_type
     account.account_type
+  end
+
+  def following?(rep)
+    Relationship.exists?(follower: self, followed: rep)
   end
 
   private
