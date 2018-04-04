@@ -19,6 +19,7 @@ class NewsFeedPresenter
   bindEvents: ->
     @scrollingPagination()
     @sortArticles()
+    @filterArticles()
     @filterBookmarks()
     @filterByDate()
 
@@ -74,6 +75,17 @@ class NewsFeedPresenter
     $('.article-sort').change (event) =>
       $selectBox = $(event.target)
       @sort = $selectBox.val()
+      @updateArticles()
+
+  filterArticles: ->
+    $('.article-filter').change (event) =>
+      $selectBox = $(event.target)
+      console.log("Filtering on: #{$selectBox.val()}")
+      filter = $selectBox.val()
+      if filter is 'all'
+        delete @filters.followed
+      else
+        @filters[filter] = true
       @updateArticles()
 
   filterBookmarks: ->

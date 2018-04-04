@@ -10,9 +10,9 @@
                 = Time.now.day.ordinalize + ","
                 = Time.now.year
             %td
-              %select.form-control
-                %option Show All News
-                %option Show Only Followed News
+              %select.form-control.article-filter
+                %option{value: 'all'} Show All News
+                %option{value: 'followed'} Show Only Followed News
             %td
               %select.form-control.article-sort
                 %option{value: 'newest'} Sort by Newest
@@ -29,9 +29,9 @@
               = Date.today.strftime("%B")
               = Time.now.day.ordinalize + ","
               = Time.now.year
-          %select.form-control
-            %option Show All News
-            %option Show Only Followed News
+          %select.form-control.article-filter
+            %option{value: 'all'} Show All News
+            %option{value: 'followed'} Show Only Followed News
           %select.form-control.article-sort
             %option{value: 'newest'} Sort by Newest
             %option{value: 'newsworthiness'} Sort by Newsworthiness
