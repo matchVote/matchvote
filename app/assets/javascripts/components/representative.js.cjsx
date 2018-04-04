@@ -15,18 +15,12 @@
       @followRep()
 
   followRep: ->
-    @serverRequest(
-      '/api/relationships',
-      true,
-      'You are now following this official.')
+    @serverRequest('/api/relationships', true)
 
   unfollowRep: ->
-    @serverRequest(
-      '/api/relationships/unfollow',
-      false,
-      'You are no longer following this official.')
+    @serverRequest('/api/relationships/unfollow', false)
 
-  serverRequest: (url, following, message) ->
+  serverRequest: (url, following) ->
     $.ajax
       type: "POST",
       url: url,
@@ -36,7 +30,6 @@
       success: =>
         @setState
           following: following
-        sweetAlert '', message
       error: ->
         console.log 'serverRequest error'
 
