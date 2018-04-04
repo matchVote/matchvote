@@ -5,7 +5,7 @@ class DirectoryController < ApplicationController
     reps = Representative.includes(:stances)
     @reps = reps.map do |rep|
       calculator = MatchCalculator.new(rep.stances, current_user.stances)
-      RepresentativePresenter.new(rep, calculator.overall_percent).react_hash
+      present(rep, calculator)
     end
 
     @sort_list = DirectoryPresenter.sort_list
@@ -13,12 +13,19 @@ class DirectoryController < ApplicationController
   end
 
   private
-    def per_page
-      50
-    end
 
-    def find_reps(search)
-      search.present? ? Representative.search_by_name(search) : Representative.all
-    end
+  def per_page
+    50
+  end
+
+  def find_reps(search)
+    search.present? ? Representative.search_by_name(search) : Representative.all
+  end
+
+  def present(rep, calculator)
+    presenter = RepresentativePresenter.new(rep, calculator.overall_percent)
+    presenter.react_hash.merge(
+      { user_following: rep.followers.exists?(current_user.id) }
+    )
+  end
 end
-
