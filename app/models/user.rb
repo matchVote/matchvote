@@ -6,7 +6,8 @@ class User < ActiveRecord::Base
   # Include default devise modules. Others available are:
   # :confirmable, :timeoutable and :omniauthable
   devise :database_authenticatable, :registerable, :lockable,
-         :recoverable, :rememberable, :trackable, :validatable
+         :recoverable, :rememberable, :trackable, :validatable,
+         :omniauthable, omniauth_providers: %i[twitter]
 
   has_one :contact, as: :contactable, dependent: :destroy
   accepts_nested_attributes_for :contact, reject_if: :all_blank
@@ -22,6 +23,14 @@ class User < ActiveRecord::Base
 
   has_settings do |s|
     s.key :privacy, defaults: { display_all_stances: "true" }
+  end
+
+  def self.from_omniauth(auth)
+    where(provider: auth.provider, uid: auth.uid).first_or_create do |user|
+      user.email = auth.info.email
+      user.password = Devise.friendly_token[0, 20]
+      user.username = auth.info.name
+    end
   end
 
   def profile

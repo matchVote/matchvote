@@ -34,8 +34,24 @@
             = f.check_box :remember_me
             = f.label :remember_me
             %a= link_to "Forgot Password?", "/users/password/new", class: "pull-right"
+        .row
+          %br
+          .col-md-5
+            %div= f.submit "Sign In", class: "btn btn-primary btn-block"
+          .col-md-7
+            %a= link_to "Create Account",
+              new_user_registration_path,
+              class: "btn btn-default btn-block"
         %br
-        .col-md-5
-          %div= f.submit "Sign In", class: "btn btn-primary btn-block"
-        .col-md-7
-          %a= link_to "Create Account", new_user_registration_path, class: "btn btn-default btn-block"
+        .row
+          .col-md-12
+            %h4 Or login using:
+        .row
+          .col-md-6
+            = link_to user_omniauth_authorize_path(:twitter), class: "btn btn-info" do
+              = image_tag "twitter-icon.png", size: "30x30"
+              Twitter
+          .col-md-6
+            = link_to user_omniauth_authorize_path(:twitter), class: "btn btn-info" do
+              = image_tag "facebook-icon.png", size: "30x30"
+              Facebook

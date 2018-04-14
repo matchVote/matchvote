@@ -1,7 +1,10 @@
 Rails.application.routes.draw do
   devise_for :users,
     path: :citizens,
-    controllers: { registrations: "registrations" }
+    controllers: {
+      registrations: "registrations",
+      omniauth_callbacks: "users/omniauth_callbacks"
+    }
 
   root to: "directory#index"
 
