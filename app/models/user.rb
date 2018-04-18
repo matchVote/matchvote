@@ -7,7 +7,7 @@ class User < ActiveRecord::Base
   # :confirmable, :timeoutable and :omniauthable
   devise :database_authenticatable, :registerable, :lockable,
          :recoverable, :rememberable, :trackable, :validatable,
-         :omniauthable, omniauth_providers: %i[twitter]
+         :omniauthable, omniauth_providers: %i[twitter facebook]
 
   has_one :contact, as: :contactable, dependent: :destroy
   accepts_nested_attributes_for :contact, reject_if: :all_blank
@@ -29,7 +29,7 @@ class User < ActiveRecord::Base
     where(provider: auth.provider, uid: auth.uid).first_or_create do |user|
       user.email = auth.info.email
       user.password = Devise.friendly_token[0, 20]
-      user.username = auth.info.name
+      user.username = normalize_username(auth.info.name)
     end
   end
 
@@ -62,5 +62,9 @@ class User < ActiveRecord::Base
 
   def create_default_account
     create_account(account_type: :standard)
+  end
+
+  def normalize_username(name)
+    name.sub(" ", "_").downcase
   end
 end
