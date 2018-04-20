@@ -1,10 +1,10 @@
 .newscard.fade-in{id: article.id}
   .row
     .btn-group-vertical.news-vote-btn.pull-right
-      .newsworthiness.btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title: "Newsworthy", type: "increment"}
+      .newsworthiness-increase.btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title: "Newsworthy", class: article.newsworthiness_classes('increase') }
       .news-vote-count= article.newsworthiness_count
       %h6 Newsworthy
-      .newsworthiness.btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title: "Not Newsworthy", type: "decrement"}
+      .newsworthiness-decrease.btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title: "Not Newsworthy", class: article.newsworthiness_classes('decrease') }
     .news-title
       = link_to article.url, target: "_blank" do
         %h3.read-article= article.title

@@ -65,4 +65,27 @@ class ArticlePresenter < SimpleDelegator
       RepresentativePresenter.new(article_rep.representative)
     end
   end
+
+  def newsworthiness_increase?
+    article.user_article_changes.exists?(change_type: "newsworthiness_increment")
+  end
+
+  def newsworthiness_decrease?
+    article.user_article_changes.exists?(change_type: "newsworthiness_decrement")
+  end
+
+  def newsworthiness_classes(type)
+    classes = []
+    classes << "newsworthiness-selection" if send("newsworthiness_#{type}?")
+    if send("newsworthiness_#{opposite_type(type)}?")
+      classes << "newsworthiness-disabled nohover"
+    end
+    classes.join(" ")
+  end
+
+  private
+
+  def opposite_type(type)
+    type == 'decrease' ? 'increase' : 'decrease'
+  end
 end

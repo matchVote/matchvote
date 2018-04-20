@@ -7,7 +7,8 @@ class ArticleController
     @bindEvents()
 
   bindEvents: ->
-    @newsworthinessChange()
+    @newsworthinessIncrease()
+    @newsworthinessDecrease()
     @toggleBookmark()
     @showComments()
     @hideComments()
@@ -16,36 +17,58 @@ class ArticleController
   articleID: (event) ->
     $(event.target).closest(".newscard").attr("id")
 
-  newsworthinessChange: ->
-    $("#article-list").on "click", ".newsworthiness", (event) =>
-      target = $(event.target)
-      articleID = target.closest(".newscard").attr("id")
-      type = target.attr("type")
-      $.ajax
-        type: "PATCH"
-        url: "/articles/#{articleID}/newsworthiness"
-        data:
-          type: type
-        success: (data) =>
-          $countElement = target.siblings(".news-vote-count")
-          currentCount = parseInt($countElement.text())
-          count = @calculateCount(type, data.previous_type, currentCount)
-          $countElement.text(count)
-        error: ->
-          console.log('Error')
+  newsworthinessIncrease: ->
+    $("#article-list").on "click", ".newsworthiness-increase", (event) =>
+      $arrowButton = $(event.target)
+      if $arrowButton.hasClass("newsworthiness-disabled")
+        return
+      selected = $arrowButton.hasClass("newsworthiness-selection")
+      action = if selected then "decrease" else "increase"
+      articleID = $arrowButton.closest(".newscard").attr("id")
+      $oppositeButton = $arrowButton.siblings(".newsworthiness-decrease")
+      callback = @newsworthinessSelection(selected, $oppositeButton)
+      @newsworthinessRequest(articleID, action, $arrowButton, callback)
 
-  calculateCount: (type, previousType, currentCount) ->
-    if type == previousType
-      if type == 'increment'
-        currentCount -= 1
-      else
-        currentCount += 1
+  newsworthinessDecrease: ->
+    $("#article-list").on "click", ".newsworthiness-decrease", (event) =>
+      $arrowButton = $(event.target)
+      if $arrowButton.hasClass("newsworthiness-disabled")
+        return
+      selected = $arrowButton.hasClass("newsworthiness-selection")
+      action = if selected then "increase" else "decrease"
+      articleID = $arrowButton.closest(".newscard").attr("id")
+      $oppositeButton = $arrowButton.siblings(".newsworthiness-increase")
+      callback = @newsworthinessSelection(selected, $oppositeButton)
+      @newsworthinessRequest(articleID, action, $arrowButton, callback)
+
+  newsworthinessSelection: (selected, $oppositeButton) -> ($arrowButton) ->
+    if selected
+      $arrowButton.removeClass("newsworthiness-selection")
+      $oppositeButton.removeClass("newsworthiness-disabled")
+      $oppositeButton.removeClass("nohover")
     else
-      scale = if previousType then 2 else 1
-      if type == 'increment'
-        currentCount += scale
-      else
-        currentCount -= scale
+      $arrowButton.addClass("newsworthiness-selection")
+      $oppositeButton.addClass("newsworthiness-disabled")
+      $oppositeButton.addClass("nohover")
+
+  newsworthinessRequest: (articleID, action, $arrowButton, callback) ->
+    $.ajax
+      type: "POST"
+      url: "/api/articles/#{articleID}/#{action}_newsworthiness"
+      success: (data) =>
+        $countElement = $arrowButton.siblings(".news-vote-count")
+        currentCount = parseInt($countElement.text())
+        count = @calculateCount(action, currentCount)
+        $countElement.text(count)
+        callback($arrowButton)
+      error: ->
+        console.log('Newsworthiness update Error')
+
+  calculateCount: (type, currentCount) ->
+    if type is 'increase'
+      currentCount += 1
+    else
+      currentCount -= 1
 
   toggleBookmark: ->
     $("#article-list").on "click", ".bookmark", (event) =>

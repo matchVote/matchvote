@@ -12,7 +12,7 @@ class ArticlesController < ApplicationController
     @comment_limit = COMMENT_LIMIT
     @reply_limit = REPLY_LIMIT
     @articles = Article
-      .includes(:comments, :bookmarks)
+      .includes(:comments, :bookmarks, :user_article_changes)
       .where(date_published: Time.now.beginning_of_day...Time.now.end_of_day)
       .map(&ArticlePresenter)
       .paginate(page: params[:page], per_page: PER_PAGE)
@@ -22,15 +22,14 @@ class ArticlesController < ApplicationController
     @article = ArticlePresenter.new(Article.find(params[:id]))
   end
 
-  def newsworthiness
-    article_id = params[:id]
-    change = find_article_change(article_id)
-    type = newsworthiness_change_type(change)
-    reverse_newsworthiness_vote(change, article_id, type) if type
-    if params[:type] != type
-      create_newsworthiness_vote(change, article_id, params[:type])
-    end
-    render json: { previous_type: type }
+  def increase_newsworthiness
+    change_newsworthiness_count(params[:id], "increment")
+    render json: { status: :ok }
+  end
+
+  def decrease_newsworthiness
+    change_newsworthiness_count(params[:id], "decrement")
+    render json: { status: :ok }
   end
 
   def bookmark
@@ -68,31 +67,27 @@ class ArticlesController < ApplicationController
 
   private
 
-  def newsworthiness_change_type(change)
-    change.change_type.split(" ").last
-  end
-
-  def create_newsworthiness_vote(change, article_id, type)
-    UserArticleChange.transaction do
-      Article.send("#{type}_counter", :newsworthiness_count, article_id)
-      UserArticleChange.create(
-        article_id: article_id,
-        user_id: current_user.id,
-        change_type: "newsworthiness #{type}")
+  def change_newsworthiness_count(article_id, type)
+    user_article_params = { article_id: article_id, user_id: current_user.id }
+    change = UserArticleChange
+      .where(user_article_params)
+      .where("change_type like 'newsworthiness_%'").first
+    if change
+      UserArticleChange.transaction do
+        update_newsworthiness_count(article_id, type)
+        change.destroy
+      end
+    else
+      UserArticleChange.transaction do
+        update_newsworthiness_count(article_id, type)
+        user_article_params[:change_type] = "newsworthiness_#{type}"
+        UserArticleChange.create(user_article_params)
+      end
     end
   end
 
-  def reverse_newsworthiness_vote(change, article_id, type)
-    opposite_type = UserArticleChange.opposite_newsworthiness_type(type)
-    UserArticleChange.transaction do
-      Article.send("#{opposite_type}_counter", :newsworthiness_count, article_id)
-      change.destroy
-    end
-  end
-
-  def find_article_change(id)
-    change = UserArticleChange.find_by(article_id: id, user_id: current_user.id)
-    change ? change : UserArticleChange.new(change_type: '')
+  def update_newsworthiness_count(article_id, type)
+    Article.send("#{type}_counter", :newsworthiness_count, article_id)
   end
 
   def user_can_change_article?(id)

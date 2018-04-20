@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180407181638) do
+ActiveRecord::Schema.define(version: 20180420151842) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -251,7 +251,7 @@ ActiveRecord::Schema.define(version: 20180407181638) do
     t.datetime "updated_at"
   end
 
-  add_index "user_article_changes", ["article_id", "user_id"], name: "index_user_article_changes_on_article_id_and_user_id", unique: true, using: :btree
+  add_index "user_article_changes", ["article_id", "user_id", "change_type"], name: "article_changes_artID_userID_type_idx", unique: true, using: :btree
 
   create_table "user_comment_changes", force: :cascade do |t|
     t.integer  "comment_id"

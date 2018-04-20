@@ -30,7 +30,6 @@ Rails.application.routes.draw do
 
   get "/news", to: "articles#index"
   resources :articles, only: [:show]
-  patch "/articles/:id/newsworthiness", to: "articles#newsworthiness"
   post "/articles/:id/bookmark", to: "articles#bookmark"
 
   scope "/api" do
@@ -38,6 +37,8 @@ Rails.application.routes.draw do
     get "/news_feed_stats", to: "articles#news_feed_stats"
     get "/articles", to: "articles#api_index"
     get "/articles/:id/comments", to: "comments#index_for_article"
+    post "/articles/:id/increase_newsworthiness", to: "articles#increase_newsworthiness"
+    post "/articles/:id/decrease_newsworthiness", to: "articles#decrease_newsworthiness"
     patch "/articles/:id/increment_read_count", to: "articles#increment_read_count"
     patch "/comments/:id/likes", to: "comments#likes"
     patch "/citizens/:id/upgrade_account", to: "citizens#upgrade_account"
