@@ -25,9 +25,9 @@ class ArticlePresenter < SimpleDelegator
 
   def published
     if article.date_published
-      date = article.date_published.strftime("%Y-%m-%d")
+      date = article.date_published.strftime("%B %-d, %Y")
       time = article.date_published.strftime("%l:%M %p %Z")
-      "#{date} @ #{time}"
+      "#{date} - #{time}"
     end
   end
 
