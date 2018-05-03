@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180420151842) do
+ActiveRecord::Schema.define(version: 20180502091624) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -52,6 +52,7 @@ ActiveRecord::Schema.define(version: 20180420151842) do
     t.integer  "article_id"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "mentioned_count",   default: 0
   end
 
   add_index "articles_representatives", ["representative_id", "article_id"], name: "idx_articles_reps_primary_key", unique: true, using: :btree

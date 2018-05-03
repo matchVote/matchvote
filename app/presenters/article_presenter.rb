@@ -66,6 +66,13 @@ class ArticlePresenter < SimpleDelegator
     end
   end
 
+  def top_mentioned_rep
+    @rep ||= begin
+      reps = article.article_representatives.order(mentioned_count: :desc)
+      RepresentativePresenter.new(reps.first.representative)
+    end
+  end
+
   def newsworthiness_increase?
     article.user_article_changes.exists?(change_type: "newsworthiness_increment")
   end

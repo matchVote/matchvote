@@ -2,10 +2,11 @@
   %center
     .title
       %span PULSE POLL
-    %h5 Do you think Mike Pence would make a good President?
+    %h5
+      After reading this article, how do you feel about
+      = rep.full_name
     .btn.btn-default.btn-sm
       Support
-    = image_tag "http://data.matchvote.com/images/2015/governors/Mike_Pence.png",
-      class: "img", title: "Mike Pence"
+    = image_tag rep.profile_image_url, class: "img", title: rep.full_name
     .btn.btn-default.btn-sm
       Oppose
