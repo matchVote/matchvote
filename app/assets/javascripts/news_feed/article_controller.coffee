@@ -13,6 +13,7 @@ class ArticleController
     @showComments()
     @hideComments()
     @incrementReadCount()
+    @pulsePoll()
 
   articleID: (event) ->
     $(event.target).closest(".newscard").attr("id")
@@ -105,3 +106,17 @@ class ArticleController
         url: "/api/articles/#{@articleID(event)}/increment_read_count"
         error: ->
           console.log('Something went horribly wrong while incrementing read count')
+
+  pulsePoll: ->
+    $(".news-pulse-poll").on "click", ".poll-response", (event) =>
+      $poll = $(event.delegateTarget)
+      data = $poll.data()
+      data.response = $(event.target).data('response')
+      $.ajax
+        type: "POST"
+        url: "/api/polls"
+        data: data
+        success: ->
+          $poll.fadeOut(2500)
+        error: ->
+          console.log('Failed to create poll')

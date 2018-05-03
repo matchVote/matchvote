@@ -1,12 +1,11 @@
-.well.news-pulse-poll
+.well.news-pulse-poll{data: {rep_id: rep.id, article_id: article.id}}
   %center
     .title
       %span PULSE POLL
     %h5
-      After reading this article, how do you feel about
-      = rep.full_name
-    .btn.btn-default.btn-sm
+      After reading this article, how do you feel about #{rep.full_name}?
+    .btn.btn-default.btn-sm.poll-response{data: {response: :support}}
       Support
     = image_tag rep.profile_image_url, class: "img", title: rep.full_name
-    .btn.btn-default.btn-sm
+    .btn.btn-default.btn-sm.poll-response{data: {response: :oppose}}
       Oppose

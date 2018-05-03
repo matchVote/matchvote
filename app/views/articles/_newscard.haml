@@ -49,7 +49,7 @@
             .glyphicon.glyphicon-bookmark{title: "Bookmark Article"}
             Bookmark
       .col-md-5
-        = render "articles/pulsepoll", rep: article.top_mentioned_rep
+        = render "articles/pulsepoll", rep: article.top_mentioned_rep, article: article
   .news-comments{style: "display:none", data: { article_id: article.id }}
     .well
       .writecomment

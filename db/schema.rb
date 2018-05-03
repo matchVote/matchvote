@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180502091624) do
+ActiveRecord::Schema.define(version: 20180503025825) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -111,6 +111,15 @@ ActiveRecord::Schema.define(version: 20180502091624) do
   end
 
   add_index "issue_categories", ["name"], name: "index_issue_categories_on_name", unique: true, using: :btree
+
+  create_table "polls", force: :cascade do |t|
+    t.text    "response"
+    t.uuid    "user_id"
+    t.uuid    "representative_id"
+    t.integer "article_id"
+  end
+
+  add_index "polls", ["user_id"], name: "index_polls_on_user_id", using: :btree
 
   create_table "postal_addresses", force: :cascade do |t|
     t.text     "city"

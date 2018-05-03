@@ -44,6 +44,7 @@ Rails.application.routes.draw do
     patch "/citizens/:id/upgrade_account", to: "citizens#upgrade_account"
     resources :relationships, only: [:create]
     post "/relationships/unfollow", to: "relationships#unfollow"
+    resources :polls, only: [:create]
   end
 
   resource :forum, only: [:show], controller: "forum"
