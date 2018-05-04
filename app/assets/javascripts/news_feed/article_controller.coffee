@@ -15,6 +15,7 @@ class ArticleController
     @incrementReadCount()
     @pulsePoll()
 
+
   articleID: (event) ->
     $(event.target).closest(".newscard").attr("id")
 
@@ -116,7 +117,10 @@ class ArticleController
         type: "POST"
         url: "/api/polls"
         data: data
-        success: ->
-          $poll.fadeOut(2500)
+        success: =>
+          $button = $(event.target)
+          $button.addClass("btn-info")
+          $button.addClass("nohover")
+          $poll.fadeOut(3000)
         error: ->
           console.log('Failed to create poll')

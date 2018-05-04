@@ -112,14 +112,14 @@ ActiveRecord::Schema.define(version: 20180503025825) do
 
   add_index "issue_categories", ["name"], name: "index_issue_categories_on_name", unique: true, using: :btree
 
-  create_table "polls", force: :cascade do |t|
+  create_table "poll_responses", force: :cascade do |t|
     t.text    "response"
     t.uuid    "user_id"
     t.uuid    "representative_id"
     t.integer "article_id"
   end
 
-  add_index "polls", ["user_id"], name: "index_polls_on_user_id", using: :btree
+  add_index "poll_responses", ["user_id", "article_id"], name: "index_poll_responses_on_user_id_and_article_id", using: :btree
 
   create_table "postal_addresses", force: :cascade do |t|
     t.text     "city"

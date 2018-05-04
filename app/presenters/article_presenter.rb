@@ -90,6 +90,10 @@ class ArticlePresenter < SimpleDelegator
     classes.join(" ")
   end
 
+  def has_pulse_poll_response?(user)
+    PollResponse.exists?(user: user, article: article)
+  end
+
   private
 
   def opposite_type(type)

@@ -1,4 +1,4 @@
-class Poll < ActiveRecord::Base
+class PollResponse < ActiveRecord::Base
   belongs_to :user
   belongs_to :article
   belongs_to :representative

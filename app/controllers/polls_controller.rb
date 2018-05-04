@@ -1,6 +1,6 @@
 class PollsController < ApplicationController
   def create
-    Poll.create do |poll|
+    PollResponse.create do |poll|
       poll.user = current_user
       poll.article_id = params[:articleId]
       poll.representative_id = params[:repId]

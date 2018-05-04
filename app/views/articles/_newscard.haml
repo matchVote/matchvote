@@ -48,8 +48,9 @@
           .btn.btn-sm.btn-default.bookmark{class: ("label-info" if article.bookmarked?(current_user))}
             .glyphicon.glyphicon-bookmark{title: "Bookmark Article"}
             Bookmark
-      .col-md-5
-        = render "articles/pulsepoll", rep: article.top_mentioned_rep, article: article
+      - if !article.has_pulse_poll_response?(current_user)
+        .col-md-5
+          = render "articles/pulsepoll", rep: article.top_mentioned_rep, article: article
   .news-comments{style: "display:none", data: { article_id: article.id }}
     .well
       .writecomment
