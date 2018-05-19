@@ -121,6 +121,6 @@ class ArticleController
           $button = $(event.target)
           $button.addClass("btn-info")
           $button.addClass("nohover")
-          $poll.fadeOut(3000)
+          $poll.fadeOut(3000, -> $poll.remove())
         error: ->
           console.log('Failed to create poll')
