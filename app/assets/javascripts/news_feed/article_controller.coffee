@@ -5,6 +5,7 @@ $(document).on "page:change", ->
 class ArticleController
   constructor: ->
     @bindEvents()
+    @rootAnchor = '#article-list'
 
   bindEvents: ->
     @newsworthinessIncrease()
@@ -109,8 +110,8 @@ class ArticleController
           console.log('Something went horribly wrong while incrementing read count')
 
   pulsePoll: ->
-    $(".news-pulse-poll").on "click", ".poll-response", (event) =>
-      $poll = $(event.delegateTarget)
+    $("#article-list").on "click", ".poll-response", (event) =>
+      $poll = $(event.target).parents(".news-pulse-poll")
       data = $poll.data()
       data.response = $(event.target).data('response')
       $.ajax
