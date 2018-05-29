@@ -16,7 +16,6 @@ class ArticleController
     @incrementReadCount()
     @pulsePoll()
 
-
   articleID: (event) ->
     $(event.target).closest(".newscard").attr("id")
 
