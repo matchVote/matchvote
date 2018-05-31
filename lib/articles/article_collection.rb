@@ -45,8 +45,7 @@ module ArticleCollection
     if sort == 'comment_count'
       articles.group('articles.id').order('count(C.id) DESC')
     else
-      sort = sort || 'newest'
-      articles.order(sort_mapping[sort] => :desc)
+      articles.order(sort_mapping[sort || 'newest'] => :desc)
     end
   end
 

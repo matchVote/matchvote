@@ -14,6 +14,7 @@ class ArticlesController < ApplicationController
     @articles = Article
       .includes(:comments, :bookmarks, :user_article_changes)
       .where(date_published: Time.now.beginning_of_day...Time.now.end_of_day)
+      .order(newsworthiness_count: :desc)
       .map(&ArticlePresenter)
       .paginate(page: params[:page], per_page: PER_PAGE)
   end
