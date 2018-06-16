@@ -1,10 +1,10 @@
 .newscard.fade-in{id: article.id}
   .row
     .btn-group-vertical.news-vote-btn.pull-right
-      .newsworthiness-increase.btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title: "Newsworthy", class: article.newsworthiness_classes('increase') }
+      .newsworthiness-increase.btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title: "Newsworthy", class: article.newsworthiness_classes('increase', current_user) }
       .news-vote-count= article.newsworthiness_count
       %h6 Newsworthy
-      .newsworthiness-decrease.btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title: "Not Newsworthy", class: article.newsworthiness_classes('decrease') }
+      .newsworthiness-decrease.btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title: "Not Newsworthy", class: article.newsworthiness_classes('decrease', current_user) }
     .news-title
       = link_to article.url, target: "_blank" do
         %h3.read-article= article.title
@@ -42,7 +42,7 @@
             Comments
           .hide-comments.btn.btn-sm.btn-black{style: "display:none"}
             Close Comments
-          .btn.btn-sm.btn-default
+          .btn.btn-sm.btn-default.share-article
             .glyphicon.glyphicon-share{title: "Share"}
             Share
           .btn.btn-sm.btn-default.bookmark{class: ("label-info" if article.bookmarked?(current_user))}
@@ -62,12 +62,11 @@
               %span.comment-box-error{style: "display:none"} Comment textbox cannot be blank
           .col-md-2
             %center
-              .btn.btn-sm.btn-primary.submit-comment{data: { account_type: current_user.account_type,
-                ctbl_id: article.id, ctbl_type: "Article", user_id: current_user.id }}
-                - if current_user.account.standard?
-                  = image_tag current_user.profile_pic_url, title: "@#{current_user.username}"
-                  Upgrade
+              .btn.btn-sm.btn-primary.submit-comment{data: { ctbl_id: article.id, ctbl_type: "Article" }}
+                - if !current_user
+                  Login
                 - else
+                  = image_tag current_user.profile_pic_url, title: "@#{current_user.username}"
                   Submit
       %ul
         %li

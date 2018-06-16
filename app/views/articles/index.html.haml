@@ -31,7 +31,7 @@
               = Time.now.year
           %select.form-control.article-filter
             %option{value: 'all'} Show All News
-            %option{value: 'followed'} Show Only Followed News
+            %option{value: 'followed', disabled: !user_signed_in?} Show Only Followed News
           %select.form-control.article-sort
             %option{value: 'newsworthiness'} Sort by Newsworthiness
             %option{value: 'newest'} Sort by Newest
@@ -43,7 +43,7 @@
             .glyphicon.glyphicon-calendar{title: "View Historical News"}
             %strong &nbsp Past News
           #newsfeed-datepicker{style: "display:none"}
-          .btn.btn-sm.btn-default#filter-bookmarks
+          .btn.btn-sm.btn-default#filter-bookmarks{disabled: !user_signed_in?}
             .glyphicon.glyphicon-bookmark{title: "View Your Bookmarked Articles"}
             %strong &nbsp Bookmarks
           %br

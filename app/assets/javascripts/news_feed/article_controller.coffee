@@ -6,6 +6,7 @@ class ArticleController
   constructor: ->
     @bindEvents()
     @rootAnchor = '#article-list'
+    @sign_in_path = '/citizens/sign_in'
 
   bindEvents: ->
     @newsworthinessIncrease()
@@ -15,6 +16,7 @@ class ArticleController
     @hideComments()
     @incrementReadCount()
     @pulsePoll()
+    @shareArticle()
 
   articleID: (event) ->
     $(event.target).closest(".newscard").attr("id")
@@ -63,8 +65,9 @@ class ArticleController
         count = @calculateCount(action, currentCount)
         $countElement.text(count)
         callback($arrowButton)
-      error: ->
-        console.log('Newsworthiness update Error')
+      error: (xhr) =>
+        if xhr.status == 401
+          @sign_in_alert()
 
   calculateCount: (type, currentCount) ->
     if type is 'increase'
@@ -85,9 +88,15 @@ class ArticleController
           else
             button.removeClass("label-info")
             button.addClass("btn-default")
+        error: (xhr) =>
+          if xhr.status == 401
+            @sign_in_alert()
 
   showComments: ->
     $("#article-list").on "click", ".show-comments", (event) =>
+      if $('.glyphicon-log-in').length
+        @sign_in_alert()
+        return
       $("[data-article-id='#{@articleID(event)}']").show()
       $button = $(event.target)
       $button.hide()
@@ -122,5 +131,22 @@ class ArticleController
           $button.addClass("btn-info")
           $button.addClass("nohover")
           $poll.fadeOut(3000, -> $poll.remove())
-        error: ->
-          console.log('Failed to create poll')
+        error: (xhr) =>
+          if xhr.status == 401
+            @sign_in_alert()
+          else
+            console.log('Failed to create poll')
+
+  shareArticle: ->
+    $("#article-list").on "click", ".share-article", (event) =>
+      @sign_in_alert()
+
+  sign_in_alert: ->
+    sweetAlert {
+      title: 'Not signed in',
+      text: 'You must sign in or create an account to do that.',
+      type: 'warning',
+      confirmButtonText: 'Login or Create Account',
+      showCancelButton: true,
+      cancelButtonText: 'Cancel',
+    }, () => window.location.href = @sign_in_path

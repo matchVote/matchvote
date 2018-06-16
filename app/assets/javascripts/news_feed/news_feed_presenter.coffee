@@ -90,6 +90,9 @@ class NewsFeedPresenter
 
   filterBookmarks: ->
     @$filterBookmarksButton.click =>
+      if $('.glyphicon-log-in').length
+        @sign_in_alert()
+        return
       if 'bookmarks' of @filters
         @$filterBookmarksButton.addClass('btn-default')
         @$filterBookmarksButton.removeClass('label-info')
@@ -113,3 +116,13 @@ class NewsFeedPresenter
         @$pastNewsButton.removeClass('btn-default')
         @$datepicker.show()
         @filters.date_published = true
+
+  sign_in_alert: ->
+    sweetAlert {
+      title: 'Not signed in',
+      text: 'You must sign in or create an account to do that.',
+      type: 'warning',
+      confirmButtonText: 'Login or Create Account',
+      showCancelButton: true,
+      cancelButtonText: 'Cancel',
+    }, () => window.location.href = @sign_in_path

@@ -4,7 +4,7 @@
 //= require bootstrap-toggle.min
 //= require bootstrap-datepicker.min
 //= require jasny-bootstrap.min
-//= require sweet-alert
+//= require sweetalert
 //= require init
 //= require rep_sorter
 //= require turbolinks

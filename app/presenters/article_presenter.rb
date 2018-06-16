@@ -40,7 +40,7 @@ class ArticlePresenter < SimpleDelegator
   end
 
   def bookmarked?(user)
-    article.bookmarks.map(&:user_id).find { |id| id == user.id }
+    article.bookmarks.map(&:user_id).find { |id| id == user.id } if user
   end
 
   def remaining_comments_count(limit)
@@ -49,8 +49,8 @@ class ArticlePresenter < SimpleDelegator
   end
 
   def comment_box_text(user)
-    if user.account.standard?
-      "Upgrade to matchVote Premium to add your comment"
+    if !user
+      "Create a matchVote account to add your comment"
     else
       "Add your comment"
     end
@@ -81,17 +81,19 @@ class ArticlePresenter < SimpleDelegator
     article.user_article_changes.exists?(change_type: "newsworthiness_decrement")
   end
 
-  def newsworthiness_classes(type)
-    classes = []
-    classes << "newsworthiness-selection" if send("newsworthiness_#{type}?")
-    if send("newsworthiness_#{opposite_type(type)}?")
-      classes << "newsworthiness-disabled nohover"
+  def newsworthiness_classes(type, user)
+    if user
+      classes = []
+      classes << "newsworthiness-selection" if send("newsworthiness_#{type}?")
+      if send("newsworthiness_#{opposite_type(type)}?")
+        classes << "newsworthiness-disabled nohover"
+      end
+      classes.join(" ")
     end
-    classes.join(" ")
   end
 
   def has_pulse_poll_response?(user)
-    PollResponse.exists?(user: user, article: article)
+    PollResponse.exists?(user: user, article: article) if user
   end
 
   private

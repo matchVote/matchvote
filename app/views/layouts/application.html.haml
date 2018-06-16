@@ -11,8 +11,7 @@
         heap.load("465002012");
 
   %body{class: set_body_class(controller_name, action_name)}
-    - if user_signed_in?
-      = render "layouts/header"
+    = render "layouts/header"
     %div
       - flash.each do |key, value|
         - alert_type = flash_type(key)

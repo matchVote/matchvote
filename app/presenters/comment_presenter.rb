@@ -32,7 +32,7 @@ class CommentPresenter < SimpleDelegator
   end
 
   def liked?(user)
-    UserCommentChange.exists?(comment_id: id, user_id: user.id)
+    UserCommentChange.exists?(comment_id: id, user_id: user.id) if user
   end
 
   def username

@@ -24,7 +24,7 @@ gem "react-rails", "~> 1.1.0"
 gem "sass-rails", "~> 5.0.1"
 gem "sdoc", "~> 0.4.0", group: :doc
 gem "sprockets-coffee-react", "~> 3.0.1"
-gem "sweetalert-rails", "~> 0.5.0"
+gem "sweetalert-rails", "~> 1.1.3"
 gem "turbolinks", "~> 2.5.3"
 gem "uglifier", "~> 2.7.1"
 gem "virility", "~> 0.4.0"

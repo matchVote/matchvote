@@ -6,7 +6,7 @@ Rails.application.routes.draw do
       omniauth_callbacks: "users/omniauth_callbacks"
     }
 
-  root to: "directory#index"
+  root to: "articles#index"
 
   resources :representatives, only: [:edit, :update]
   get "/representative/:slug", to: "representatives#show", as: "rep"
