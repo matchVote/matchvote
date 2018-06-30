@@ -22,6 +22,7 @@ class NewsFeedPresenter
     @filterArticles()
     @filterBookmarks()
     @filterByDate()
+    @browseYesterday()
 
   fetchStats: ->
     $.ajax
@@ -126,3 +127,14 @@ class NewsFeedPresenter
       showCancelButton: true,
       cancelButtonText: 'Cancel',
     }, () => window.location.href = @sign_in_path
+
+  browseYesterday: ->
+    $('#browse-yesterday').click =>
+      now = new Date()
+      @filters.date_published = new Date(
+        now.getFullYear(),
+        now.getMonth(),
+        now.getDate() - 1
+      )
+      @updateArticles()
+      delete @filters.date_published

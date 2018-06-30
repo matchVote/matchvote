@@ -32,4 +32,17 @@ namespace :dev do
       end
     end
   end
+
+  desc "Creates articles to test date operations"
+  task load_dated_articles: :environment do
+    if Rails.env.development? && !Article.all.empty?
+      days = 0
+      rep = Representative.order("RANDOM()").first
+      Article.take(5).each do |a|
+        a.update(date_published: DateTime.now - days)
+        a.article_representatives.create({representative_id: rep.id})
+        days += 1
+      end
+    end
+  end
 end
