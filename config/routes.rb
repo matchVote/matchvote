@@ -8,6 +8,8 @@ Rails.application.routes.draw do
 
   root to: "articles#index"
 
+  get "/directory", to: "directory#index"
+
   resources :representatives, only: [:edit, :update]
   get "/representative/:slug", to: "representatives#show", as: "rep"
   get "/representatives/:id/edit/demographics",
