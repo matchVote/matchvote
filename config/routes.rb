@@ -25,7 +25,6 @@ Rails.application.routes.draw do
   post "/citizens/:id/update_settings", to: "citizens#update_settings"
 
   resources :stances, only: [:index, :create, :update, :destroy]
-  resources :elections, only: [:index]
   get "/directory/filter", to: "directory#filter"
 
   resources :rep_stances, only: [:index]
@@ -48,7 +47,4 @@ Rails.application.routes.draw do
     post "/relationships/unfollow", to: "relationships#unfollow"
     resources :polls, only: [:create]
   end
-
-  resource :forum, only: [:show], controller: "forum"
-  resources :editorials, only: [:index, :show]
 end
