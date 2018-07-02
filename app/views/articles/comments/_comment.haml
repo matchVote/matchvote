@@ -7,7 +7,7 @@
       %li
         = link_to citizen_path(comment.user), style: "text-decoration:none" do
           = image_tag comment.user_profile_pic_url,
-            class: "img", title: comment.username
+            class: "commnent_pic", title: comment.username
       %li
         %strong= comment.username
       %li= comment.user_location
@@ -47,4 +47,3 @@
     comment: CommentPresenter.new(comment_reply),
     reply_level: reply_level + 1,
     reply_limit: reply_limit
-
