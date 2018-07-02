@@ -17,9 +17,9 @@ class ArticlePresenter < SimpleDelegator
   def authored_by
     String.new.tap do |author_line|
       if !article.authors.empty?
-        author_line << "By #{article.authors.first} at "
+        author_line << "By #{article.authors.first}"
       end
-      author_line << article.publisher
+      author_line << " at #{article.publisher}" unless article.publisher == "Reddit Politics"
     end
   end
 
