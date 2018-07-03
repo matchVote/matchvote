@@ -5,10 +5,7 @@
         %table
           %tr
             %td
-              %strong
-                = Date.today.strftime("%B")
-                = Time.now.day.ordinalize + ","
-                = Time.now.year
+              %strong.current-date= current_date
             %td
               %select.form-control.article-filter
                 %option{value: 'all'} Show All News
@@ -26,9 +23,7 @@
           %center
             %h5
               Top News for
-              = Date.today.strftime("%B")
-              = Time.now.day.ordinalize + ","
-              = Time.now.year
+              %span.current-date= current_date
           %select.form-control.article-filter
             %option{value: 'all'} Show All News
             %option{value: 'followed', disabled: !user_signed_in?} Show Only Followed News
@@ -39,10 +34,8 @@
             %option{value: 'comment_count'} Sort by Comment Count
         %center
           %br
-          .btn.btn-sm.btn-default#past-news
-            .glyphicon.glyphicon-calendar{title: "View Historical News"}
-            %strong &nbsp Past News
-          #newsfeed-datepicker{style: "display:none"}
+          %strong &nbsp Past News
+          #newsfeed-datepicker
           .btn.btn-sm.btn-default#filter-bookmarks{disabled: !user_signed_in?}
             .glyphicon.glyphicon-bookmark{title: "View Your Bookmarked Articles"}
             %strong &nbsp Bookmarks
@@ -52,6 +45,20 @@
             %h5
               Add Filters to Refine Search
             .article_count
+              Viewing
+              %span#stats-article-count
+                = @articles.count
+              articles from
+              = link_to "#{@publisher_count} sources", "https://matchvote.com/publications",
+                title: "Where we retrieve news", id: "publishers-link"
+              %br
+              for
+              %span#stats-current-date
+                = current_date
+                -# Include below only on current day's news
+                as of
+                - if @articles.first
+                  = @articles.first.date_published.strftime("%l:%M %p")
 
             %hr
             .btn.btn-sm.btn-danger

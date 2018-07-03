@@ -13,7 +13,6 @@ class NewsFeedPresenter
     @sort = 'newest'
     @filters = {}
     @bindEvents()
-    @fetchStats()
     @initializeDatepicker()
 
   bindEvents: ->
@@ -21,16 +20,7 @@ class NewsFeedPresenter
     @sortArticles()
     @filterArticles()
     @filterBookmarks()
-    @filterByDate()
     @browseYesterday()
-
-  fetchStats: ->
-    $.ajax
-      url: 'api/news_feed_stats'
-      success: (html) =>
-        $('.article_count').html(html)
-      error: (xhr, status, error) ->
-        console.log("Fail -- status: #{status}; error #{error}")
 
   initializeDatepicker: ->
     @$datepicker.datepicker
@@ -43,8 +33,14 @@ class NewsFeedPresenter
   updateArticles: ->
     @$articleList.html('')
     $('.spinner').show()
-    @executeAjaxRequest @articlesIndex, (html) =>
-      @$articleList.html(html)
+    @executeAjaxRequest @articlesIndex, (response) =>
+      @$articleList.html(response.html)
+      $('.current-date').text(response.stats.current_date)
+      $('#stats-current-date').text(response.stats.current_date)
+      $('#stats-article-count').text(response.stats.article_count)
+      count = response.stats.publisher_count
+      text = if count == 1 then "1 source" else "#{count} sources"
+      $('#publishers-link').text(text)
 
   executeAjaxRequest: (url, articles_callback) ->
     $.ajax
@@ -103,20 +99,6 @@ class NewsFeedPresenter
         @$filterBookmarksButton.removeClass('btn-default')
         @filters.bookmarks = true
       @updateArticles()
-
-  filterByDate: ->
-    @$pastNewsButton.click (event) =>
-      if 'date_published' of @filters
-        @$datepicker.hide()
-        @$pastNewsButton.addClass('btn-default')
-        @$pastNewsButton.removeClass('label-info')
-        delete @filters.date_published
-        @$datepicker.datepicker('clearDates')
-      else
-        @$pastNewsButton.addClass('label-info')
-        @$pastNewsButton.removeClass('btn-default')
-        @$datepicker.show()
-        @filters.date_published = true
 
   sign_in_alert: ->
     sweetAlert {

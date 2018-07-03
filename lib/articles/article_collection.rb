@@ -8,6 +8,10 @@ module ArticleCollection
     order(articles, params[:sort])
   end
 
+  def normalize_date(date)
+    date ? Time.zone.parse(date) : Time.zone.now
+  end
+
   private
 
   def join_comments(articles, sort)
@@ -53,9 +57,5 @@ module ArticleCollection
     { 'newest' => 'date_published',
       'newsworthiness' => 'newsworthiness_count',
       'most_read' => 'read_count' }
-  end
-
-  def normalize_date(date)
-    date ? Time.parse(date) : Time.now
   end
 end
