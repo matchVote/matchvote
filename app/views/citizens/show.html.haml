@@ -23,16 +23,10 @@
     .col-md-4
       .well.first_widget
         %center
-          %h4 Follows 11 Public Representatives
+          %h4 Following
           %hr
-          = render "devise/sessions/landingpics"
       .well.widget
         %center
           %h4 Invite a friend to join matchVote
-        .col-md-10.col-md-offset-1
-          %input.form-control.signup-field{placeholder: "Name"}
-          %input.form-control.signup-field{placeholder: "Email"}
         %center
-          .btn.btn-primary
-            %span.glyphicon.glyphicon-share-alt
-            Invite
+          = link_to "Invite", "mailto:subject=matchVote%20Invite&body=Check%20out%20matchVote%20-%20-Political%20News%with%20a%20feedback%20loop", target:"_blank"
