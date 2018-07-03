@@ -60,7 +60,8 @@ class ArticlesController < ApplicationController
       article_count: @articles.count,
       publisher_count: publisher_count
     }
-    render json: { html: view_context.render('api_index'), stats: stats }
+    partial = filtering_followed_but_not_following? ? 'not_following' : 'api_index'
+    render json: { html: view_context.render(partial), stats: stats }
   end
 
   def increment_read_count
@@ -95,5 +96,9 @@ class ArticlesController < ApplicationController
 
   def user_can_change_article?(id)
     not UserArticleChange.exists?(article_id: id, user_id: current_user.id)
+  end
+
+  def filtering_followed_but_not_following?
+    params[:filters][:followed] == 'true' && @articles.empty?
   end
 end
