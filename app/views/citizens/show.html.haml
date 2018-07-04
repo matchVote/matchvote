@@ -29,4 +29,5 @@
         %center
           %h4 Invite a friend to join matchVote
         %center
-          = link_to "Invite", "mailto:&subject=matchVote%20Invite&body=Check%20out%20matchVote%20-%20-Political%20News%with%20a%20feedback%20loop. <a href=\"http:\/\/beta.matchvote.com\" target=\"_blank\">matchVote beta<\/a>", target:"_blank"
+          = mail_to "", "Invite", subject: "matchVote Invite",
+          body: "Check out matchVote - Political News with a feedback loop.\n\n http://beta.matchvote.com"

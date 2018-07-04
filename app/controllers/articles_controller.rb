@@ -54,7 +54,7 @@ class ArticlesController < ApplicationController
     @articles = articles
       .map(&ArticlePresenter)
       .paginate(page: params[:page], per_page: PER_PAGE)
-    date = normalize_date(params[:filters][:date_published])
+    date = normalize_date(article_filters[:date_published])
     stats = {
       current_date: ArticlesHelper.current_date(date),
       article_count: @articles.count,
@@ -70,6 +70,10 @@ class ArticlesController < ApplicationController
   end
 
   private
+
+  def article_filters
+    params[:filters] || {}
+  end
 
   def change_newsworthiness_count(article_id, type)
     user_article_params = { article_id: article_id, user_id: current_user.id }
@@ -99,6 +103,6 @@ class ArticlesController < ApplicationController
   end
 
   def filtering_followed_but_not_following?
-    params[:filters][:followed] == 'true' && @articles.empty?
+    article_filters[:followed] == 'true' && @articles.empty?
   end
 end
