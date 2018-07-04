@@ -8,7 +8,7 @@
       Support
     = link_to rep_path(rep.slug) do
       = image_tag rep.profile_image_url, class: "img", title: rep.full_name
-    .btn.btn-default.btn-xs.poll-response{data: {response: :oppose}}
+    .btn.btn-default.btn-sm.poll-response{data: {response: :oppose}}
       Oppose
     .btn.btn-link.btn-xs.poll-response{data: {response: :not_relevant}}
       Question Not Relevant
