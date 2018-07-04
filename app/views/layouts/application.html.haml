@@ -6,7 +6,7 @@
     = javascript_include_tag "application", data: { "turbolinks-track" => true }
     = csrf_meta_tags
     = favicon_link_tag "http://data.matchvote.com/images/favicon.gif"
-    %script{:async => "", :src => "https://www.googletagmanager.com/gtag/js?id=UA-2692176-16"}
+    %script{async: "", src: "https://www.googletagmanager.com/gtag/js?id=UA-2692176-16"}
     :javascript
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
