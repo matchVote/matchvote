@@ -11,10 +11,12 @@ class ArticlesController < ApplicationController
   def index
     @comment_limit = COMMENT_LIMIT
     @reply_limit = REPLY_LIMIT
-    @articles = Article
+    articles = Article
       .includes(:comments, :bookmarks, :user_article_changes)
-      .where(date_published: Time.now.beginning_of_day...Time.now.end_of_day)
+      .where(date_published: Time.zone.now.beginning_of_day...Time.zone.now.end_of_day)
       .order(newsworthiness_count: :desc)
+    @publisher_count = articles.select(:publisher).distinct.count
+    @articles = articles
       .map(&ArticlePresenter)
       .paginate(page: params[:page], per_page: PER_PAGE)
   end
@@ -47,23 +49,24 @@ class ArticlesController < ApplicationController
   def api_index
     @comment_limit = COMMENT_LIMIT
     @reply_limit = REPLY_LIMIT
-    @articles = collect_articles(params, current_user)
+    articles = collect_articles(params, current_user)
+    publisher_count = articles.select(:publisher).distinct.count
+    @articles = articles
       .map(&ArticlePresenter)
       .paginate(page: params[:page], per_page: PER_PAGE)
-    render layout: false
+    date = normalize_date(params[:filters][:date_published])
+    stats = {
+      current_date: ArticlesHelper.current_date(date),
+      article_count: @articles.count,
+      publisher_count: publisher_count
+    }
+    partial = filtering_followed_but_not_following? ? 'not_following' : 'api_index'
+    render json: { html: view_context.render(partial), stats: stats }
   end
 
   def increment_read_count
     Article.increment_counter(:read_count, params[:id])
     head :ok
-  end
-
-  def news_feed_stats
-    @articles = Article
-      .where("date_published > ?", Time.now.beginning_of_day)
-      .order(:date_published)
-    @publisher_count = @articles.select(:publisher).distinct.count
-    render partial: "article_stats"
   end
 
   private
@@ -93,5 +96,9 @@ class ArticlesController < ApplicationController
 
   def user_can_change_article?(id)
     not UserArticleChange.exists?(article_id: id, user_id: current_user.id)
+  end
+
+  def filtering_followed_but_not_following?
+    params[:filters][:followed] == 'true' && @articles.empty?
   end
 end

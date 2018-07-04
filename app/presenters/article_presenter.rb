@@ -26,9 +26,12 @@ class ArticlePresenter < SimpleDelegator
   def published
     if article.date_published
       date = article.date_published.strftime("%B %-d, %Y")
-      time = article.date_published.strftime("%l:%M %p %Z")
-      "#{date} - #{time}"
+      "#{date} - #{time_published}"
     end
+  end
+
+  def time_published
+    article.date_published.strftime("%l:%M %p %Z")
   end
 
   def summary_points
