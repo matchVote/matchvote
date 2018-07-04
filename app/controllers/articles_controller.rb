@@ -15,6 +15,7 @@ class ArticlesController < ApplicationController
       .includes(:comments, :bookmarks, :user_article_changes)
       .where(date_published: Time.zone.now.beginning_of_day...Time.zone.now.end_of_day)
       .order(newsworthiness_count: :desc)
+    @article_count = articles.count
     @publisher_count = articles.select(:publisher).distinct.count
     @articles = articles
       .map(&ArticlePresenter)
@@ -57,7 +58,7 @@ class ArticlesController < ApplicationController
     date = normalize_date(article_filters[:date_published])
     stats = {
       current_date: ArticlesHelper.current_date(date),
-      article_count: @articles.count,
+      article_count: articles.count,
       publisher_count: publisher_count
     }
     partial = filtering_followed_but_not_following? ? 'not_following' : 'api_index'
