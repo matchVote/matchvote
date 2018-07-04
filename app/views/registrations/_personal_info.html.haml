@@ -1,5 +1,5 @@
 %h3 Profile Info
-%span Displayed on your profile page. Read about our
+%span Displayed publicly on your profile page. Read about our
 = link_to "Privacy Policy", "http://matchvote.com/privacy", target:"_blank"
 = f.fields_for :personal_info, OpenStruct.new(f.object.personal_info) do |pi|
   %div
@@ -10,6 +10,8 @@
     = pi.text_field :last_name,
       class: ["form-control", "signup-field"],
       placeholder: "Last Name"
+  %h3 Demographic Info
+  %span Used to match you with candidates and representatives.
   %div
     = pi.text_field :birthday,
       class: ["form-control", "signup-field"],

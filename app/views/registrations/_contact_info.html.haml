@@ -1,4 +1,5 @@
 %h3 Contact Info
+%span Never shared for any reason without your consent.
 = f.fields_for :contact do |c|
   = c.text_field :phone_numbers,
     data: { mask: "999-999-9999" },
@@ -18,7 +19,7 @@
       placeholder: "City"
     .row
       .col-md-6
-        = a.select :state, options_for_select(form.us_states), 
+        = a.select :state, options_for_select(form.us_states),
           { include_blank: "State" },
           class: ["form-control", "signup-field"],
           placeholder: "State"
@@ -26,4 +27,3 @@
         = a.text_field :zip,
           class: ["form-control", "signup-field"],
           placeholder: "Zip Code"
-
