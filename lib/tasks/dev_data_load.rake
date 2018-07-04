@@ -45,4 +45,14 @@ namespace :dev do
       end
     end
   end
+
+  desc "Link dated articles to reps"
+  task link_articles_to_rep: :environment do
+    if Rails.env.development? && !Article.all.empty?
+      rep = Representative.order("RANDOM()").first
+      Article.where.not(date_published: nil).each do |a|
+        a.article_representatives.create({representative_id: rep.id})
+      end
+    end
+  end
 end

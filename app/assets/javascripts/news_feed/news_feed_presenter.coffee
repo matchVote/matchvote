@@ -61,9 +61,9 @@ class NewsFeedPresenter
       if url and @isHalfwayThroughList() and not @isPaginating
         @isPaginating = true
         $('.spinner').show()
-        @executeAjaxRequest url, (html) =>
+        @executeAjaxRequest url, (res) =>
           $('.pagination').remove()
-          @$articleList.append(html)
+          @$articleList.append(res.html)
 
   isHalfwayThroughList: ->
     $(window).scrollTop() > $(document).height() / 2
