@@ -1,0 +1,107 @@
+# - category: Energy
+energy:
+  - must_have:
+    cant_have:
+    should_have: "energy", "nuclear", "fossil fuel", "fossil fuels", "coal", "green energy", "renewable", "wind power", "natural gas", "gasoline", "oil"
+
+# - category: Environment
+environment:
+  - must_have:
+    cant_have:
+    should_have: "environment", "pollution,", "global warming", "epa", "environmental", "climate change", "fracking", "oil spill", "global climate", "climate", "extreme weather", "flood", "earthquake", "flooding", "floods", "ecology", "extinct", "extinction", "endangered species"
+
+# - category: Government
+government:
+  - must_have:
+    cant_have:
+    should_have: "government", "congress", "senate", "executive branch", "legislation", "law", "administration", "politics", "political science", "democracy", "constitution", "constitutional"
+
+# - category: Foreign Policy
+foreign_policy:
+  - must_have:
+    cant_have:
+    should_have: "foreign policy", "foreign aid", "state Department", "globalization", "embassy"
+
+# - category: Trade
+trade:
+  - must_have:
+    cant_have:
+    should_have: "trade", "tariff", "tariffs", "world trade organization", "international trade", "trade war"
+
+# - category: Voting
+voting:
+  - must_have:
+    cant_have:
+    should_have: "vote", "voting", "voter id", "gerrymandering", "get out the vote", "voting laws", "ballot", "poll", "polling", "election", "election law", "rigged election", "electoral", "voter", "voters"
+
+# - category: Society
+society:
+  - must_have:
+    cant_have:
+    should_have: "society", "free speech", "first amendment", "freedom of the press", "police", "freedom", "prison", "religion", "democracy", "community", "politics"
+
+# - category: Defense
+defense:
+  - must_have:
+    cant_have:
+    should_have: "defense", "dept of defense", "military", "navy", "army", "marines", "air force", "war", "lockheed", "boeing", "raytheon", "general dynamics", "northrop grumman", "bae systems", "national security", "homeland security", "terrorist", "terrorists", "bombing", "drone", "drones", "surveillance", "civil war", "military action", "peace"
+
+# - category: Healthcare
+healthcare:
+  - must_have:
+    cant_have:
+    should_have: "health", "healthcare", "affordable care act", "obamacare", "health insurance", "single payer", "private insurance", "medical coverage", "healthcare companies", "medical cost", "medical", "unitedhealth group", "wellpoint", "humana", "aetna", "cigna health", "blue cross blue shield"
+
+# - category: Abortion
+abortion:
+  - must_have:
+    cant_have:
+    should_have: "abortion", "roe vs wade", "roe v wade", "ru 486", "pregnancy", "medical abortion", "abortion rights", "mifeprex"
+
+# - category: Individual Rights
+individual_rights:
+  - must_have:
+    cant_have:
+    should_have: "individual rights", "society", "lgbt rights", "adoption", "gay rights", "disenfranchisement", "marriage"
+
+# - category: Gun Laws
+gun_control:
+  - must_have:
+    cant_have:
+    should_have: "gun", "guns", "gun control", "nra", "assault rifle", "shooting spree", "gunman", "bump stock", "2nd amendment", "second amendment", "school shooting"
+
+# - category: Drug Laws
+drug_laws:
+  - must_have:
+    cant_have:
+    should_have: "illegal drug", "illegal drugs", "cannabis", "marijuana", "cocaine", "heroin", "overdose", "drug overdose", "fentanyl", "opiod", "opiod addiction", "drug addiction", "drug addict", "meth", "methamphetamine", "smoking"
+
+# - category: Economy
+economy:
+  - must_have:
+    cant_have:
+    should_have: "economy", "stock market", "business", "fortune 500", "economic growth", "return on investment", "deregulation", "finance", "gdp", "recession", "downturn", "fiscal", "globalization", "capitalism"
+
+# - category: Taxes
+taxes:
+  - must_have:
+    cant_have:
+    should_have: "tax", "taxes", "irs", "income tax", "estate tax", "property tax", "economics", "sales tax"
+
+# - category: Immigration
+immigration:
+  - must_have:
+    cant_have:
+    should_have: "immigration", "immigrants", "green card", "border security", "deport", "work visa", "deportation", "migrant labor", "naturalization", "citizenship", "mexico border", "muslim ban"
+
+# - category: Education
+education:
+  - must_have:
+    cant_have:
+    should_have: "education", "school", "charter school", "teacher", "common core"
+
+# - category: Philosophy
+philosophy:
+  - must_have:
+    cant_have:
+    should_have: "religion"
