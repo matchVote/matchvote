@@ -1,7 +1,7 @@
 = render "layouts/preloginheader"
 .row
   .form-group.col-md-3.col-md-offset-4
-    .row.sign-up
+    .row
       %h1 Join matchVote
     = form_for(@signup_form,
       as: resource_name, url: registration_path(resource_name)) do |f|

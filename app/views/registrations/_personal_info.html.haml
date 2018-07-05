@@ -1,5 +1,5 @@
 %h3 Profile Info
-%span Displayed publicly on your profile page. Read about our
+%span Displayed publicly on your profile page. Leave this empty for an anonymous account. Read about our
 = link_to "Privacy Policy", "http://matchvote.com/privacy", target:"_blank"
 = f.fields_for :personal_info, OpenStruct.new(f.object.personal_info) do |pi|
   %div
