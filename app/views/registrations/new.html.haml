@@ -1,6 +1,6 @@
 = render "layouts/preloginheader"
 .row
-  .form-group.col-md-4.col-md-offset-4
+  .form-group.col-md-3.col-md-offset-4
     .row
       %h1 Join matchVote
     = form_for(@signup_form,
@@ -8,7 +8,7 @@
       = devise_error_messages!
       .row
         %h3 Account Info
-        %span All "Account Info" Fields Required.
+        %span These are the only required fields.
         %div= f.text_field :username,
           class: "form-control signup-field",
           autofocus: true,
