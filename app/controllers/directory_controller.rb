@@ -2,14 +2,10 @@ require "will_paginate/array"
 
 class DirectoryController < ApplicationController
   def index
-    reps = Representative.includes(:stances)
-    @reps = reps.map do |rep|
-      calculator = MatchCalculator.new(rep.stances, current_user.stances)
-      present(rep, calculator)
-    end
-
-    @sort_list = DirectoryPresenter.sort_list
+    reps = Representative.all
     @filter_count = reps.size
+    @reps = reps.map { |rep| present(rep) }
+    @sort_list = DirectoryPresenter.sort_list
   end
 
   private
@@ -22,10 +18,14 @@ class DirectoryController < ApplicationController
     search.present? ? Representative.search_by_name(search) : Representative.all
   end
 
-  def present(rep, calculator)
-    presenter = RepresentativePresenter.new(rep, calculator.overall_percent)
+  def followed_reps
+    @ids ||= current_user.followed_reps.pluck(:id)
+  end
+
+  def present(rep)
+    presenter = RepresentativePresenter.new(rep)
     presenter.react_hash.merge(
-      { user_following: rep.followers.exists?(current_user.id) }
+      { user_following: followed_reps.include?(rep.id) }
     )
   end
 end
