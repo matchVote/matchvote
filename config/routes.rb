@@ -46,4 +46,6 @@ Rails.application.routes.draw do
     post "/relationships/unfollow", to: "relationships#unfollow"
     resources :polls, only: [:create]
   end
+
+  match "*path", via: :all, to: "pages#error_404"
 end
