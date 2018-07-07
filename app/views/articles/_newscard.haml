@@ -37,10 +37,10 @@
         %center
           = link_to article.url, target: "_blank", style: "text-decoration: none" do
             .read-article.btn.btn-sm.btn-danger= article.read_time
-          .show-comments.btn.btn-sm.btn-default
+          .show-comments.btn.btn-sm.btn-default{style: article.show_comments? ? "display:none" : ""}
             %span.comment-count{data: { article_id: article.id }}= article.comments.size
             Comments
-          .hide-comments.btn.btn-sm.btn-black{style: "display:none"}
+          .hide-comments.btn.btn-sm.btn-black{style: article.show_comments? ? "" : "display:none"}
             Close Comments
           -# .btn.btn-sm.btn-default.share-article
           -#   .glyphicon.glyphicon-share{title: "Share"}
@@ -51,7 +51,7 @@
       - if !article.has_pulse_poll_response?(current_user)
         .col-md-5
           = render "articles/pulsepoll", rep: article.top_mentioned_rep, article: article
-  .news-comments{style: "display:none", data: { article_id: article.id }}
+  .news-comments{style: article.show_comments? ? "" : "display:none", data: { article_id: article.id }}
     .well
       .writecomment
         .row

@@ -94,9 +94,6 @@ class ArticleController
 
   showComments: ->
     $("#article-list").on "click", ".show-comments", (event) =>
-      if $('.glyphicon-log-in').length
-        @sign_in_alert()
-        return
       $("[data-article-id='#{@articleID(event)}']").show()
       $button = $(event.target)
       $button.hide()

@@ -99,6 +99,10 @@ class ArticlePresenter < SimpleDelegator
     PollResponse.exists?(user: user, article: article) if user
   end
 
+  def show_comments?
+    article.comments.size > 0
+  end
+
   private
 
   def opposite_type(type)
