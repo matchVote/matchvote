@@ -10,7 +10,7 @@ class NewsFeedPresenter
     @$datepicker = $('#newsfeed-datepicker')
     @articlesIndex = '/api/articles'
     @isPaginating = false
-    @sort = 'newest'
+    @sort = 'newsworthiness'
     @filters = {}
     @bindEvents()
     @initializeDatepicker()
