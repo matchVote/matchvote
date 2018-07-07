@@ -16,10 +16,10 @@
 
 <%# <%- if devise_mapping.lockable? && resource_class.unlock_strategy_enabled?(:email) && controller_name != 'unlocks' %1> %>
 <%#   <%= link_to "Didn't receive unlock instructions?", new_unlock_path(resource_name) %1><br /> %>
-<%# <% end %1> -%> 
+<%# <% end %1> -%>
 
-<%- if devise_mapping.omniauthable? %>
-  <%- resource_class.omniauth_providers.each do |provider| %>
-    <%= link_to "Sign in with #{provider.to_s.titleize}", omniauth_authorize_path(resource_name, provider) %><br />
-  <% end -%>
-<% end -%>
+<%#- if devise_mapping.omniauthable? %>
+  <%#- resource_class.omniauth_providers.each do |provider| %>
+    <%#= link_to "Sign in with #{provider.to_s.titleize}", omniauth_authorize_path(resource_name, provider) %><br />
+  <%# end -%>
+<%# end -%>
