@@ -1,6 +1,4 @@
 module ArticleCollection
-  module_function
-
   def collect_articles(params, user)
     filters = params.fetch(:filters, {})
     articles = join_comments(Article, params[:sort])
@@ -13,6 +11,8 @@ module ArticleCollection
   def normalize_date(date)
     date ? Time.zone.parse(date) : Time.zone.now
   end
+
+  private
 
   def join_comments(articles, sort)
     if sort == 'comment_count'

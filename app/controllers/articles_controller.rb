@@ -2,7 +2,8 @@ require "will_paginate/array"
 require_relative "#{Rails.root}/lib/articles/article_collection"
 
 class ArticlesController < ApplicationController
-  
+  include ArticleCollection
+
   COMMENT_LIMIT = 5
   REPLY_LIMIT = 4
   PER_PAGE = 10
@@ -49,12 +50,12 @@ class ArticlesController < ApplicationController
   def api_index
     @comment_limit = COMMENT_LIMIT
     @reply_limit = REPLY_LIMIT
-    articles = ArticleCollection.collect_articles(params, current_user)
-    publisher_count = articles.select(:publisher).distinct.count
+    articles = collect_articles(params, current_user)
+    publisher_count = articles.pluck(:publisher).uniq.count
     @articles = articles
       .map(&ArticlePresenter)
       .paginate(page: params[:page], per_page: PER_PAGE)
-    date = ArticleCollection.normalize_date(article_filters[:date_published])
+    date = normalize_date(article_filters[:date_published])
     stats = {
       current_date: ArticlesHelper.current_date(date),
       article_count: articles.count,
