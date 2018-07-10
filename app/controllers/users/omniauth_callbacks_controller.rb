@@ -1,10 +1,10 @@
 class Users::OmniauthCallbacksController < Devise::OmniauthCallbacksController
   def twitter
-    omniauth_login(error_message: "Twitter login failed.")
+    omniauth_login(error_message: "Twitter login failed")
   end
 
   def facebook
-    omniauth_login(error_message: "Facebook login failed.")
+    omniauth_login(error_message: "Facebook login failed")
   end
 
   private
@@ -14,7 +14,15 @@ class Users::OmniauthCallbacksController < Devise::OmniauthCallbacksController
     if @user.persisted?
       sign_in_and_redirect @user
     else
-      redirect_to new_user_session_path, flash: { error: error_message }
+      message = "#{error_message}: #{format_errors(@user)}"
+      redirect_to new_user_session_path, flash: { error: message }
     end
+  end
+
+  def format_errors(user)
+    errors = user.errors.messages.map do |field, error_msgs|
+      "#{field} #{error_msgs.join(',')}"
+    end
+    errors.join("\n")
   end
 end
