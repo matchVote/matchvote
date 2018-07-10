@@ -42,16 +42,20 @@
             %a= link_to "Create Account",
               new_user_registration_path,
               class: "btn btn-default btn-block"
-        %br
-        .row
-          .col-md-12
-            %h4 Or login using:
-        .row
-          .col-md-6
-            = link_to user_omniauth_authorize_path(:twitter), class: "btn btn-info" do
-              = image_tag "twitter-icon.png", size: "30x30"
-              Twitter
-          .col-md-6
-            = link_to user_omniauth_authorize_path(:facebook), class: "btn btn-info" do
-              = image_tag "facebook-icon.png", size: "30x30"
-              Facebook
+              
+        - if show_twitter_login? || show_facebook_login?
+          %br
+          .row
+            .col-md-12
+              %h4 Or login using:
+          .row
+            - if show_twitter_login?
+              .col-md-6
+                = link_to user_omniauth_authorize_path(:twitter), class: "btn btn-info" do
+                  = image_tag "twitter-icon.png", size: "30x30"
+                  Twitter
+            - if show_facebook_login?
+              .col-md-6
+                = link_to user_omniauth_authorize_path(:facebook), class: "btn btn-info" do
+                  = image_tag "facebook-icon.png", size: "30x30"
+                  Facebook
