@@ -6,7 +6,7 @@
       After reading this article, how do you feel about #{rep.full_name}?
     .btn.btn-default.btn-sm.poll-response{data: {response: :support}}
       Support
-    = link_to rep_path(rep.slug) do
+    = link_to rep_path(rep.slug), style: "text-decoration:none" do
       = image_tag rep.profile_image_url, class: "img", title: rep.full_name
     .btn.btn-default.btn-sm.poll-response{data: {response: :oppose}}
       Oppose
