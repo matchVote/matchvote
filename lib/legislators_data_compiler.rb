@@ -113,8 +113,8 @@ class LegislatorsDataCompiler
 
     def genderize(gender)
       case gender
-      when /M/i then "male"
-      when /F/i then "female"
+      when /^M/i then "male"
+      when /^F/i then "female"
       else "other"
       end
     end
@@ -130,4 +130,3 @@ class LegislatorsDataCompiler
       AddressParser.parse_attributes(address_string)
     end
 end
-
