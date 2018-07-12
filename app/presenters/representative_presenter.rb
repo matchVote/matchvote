@@ -100,6 +100,11 @@ class RepresentativePresenter < SimpleDelegator
     "https://youtube.com/#{external_ids["youtube_username"]}"
   end
 
+  def profile_image_url
+    return rep.profile_image_url if rep.profile_image_url
+    'default.png'
+  end
+
   def overall_match_percent
     (@match_percent * 100).round.to_s << "%"
   end
@@ -118,4 +123,3 @@ class RepresentativePresenter < SimpleDelegator
     rep_options.status_options
   end
 end
-
