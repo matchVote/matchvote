@@ -5,7 +5,7 @@
   verifiedAccount: ->
     if @props.rep.verified == true
       <image className="verified" title="Verified Account">
-        http://data.matchvote.com/images/bluecheck.png
+        https://data.matchvote.com/images/bluecheck.png
       </image>
 
   toggleFollowingStatus: ->

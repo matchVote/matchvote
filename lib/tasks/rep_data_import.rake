@@ -75,7 +75,7 @@ namespace :reps do
   end
 
   task manually_load_image_urls: :environment do
-    base_uri = "http://data.matchvote.com/images/"
+    base_uri = "https://data.matchvote.com/images/"
     data = [
       { slug: "george-bynum", url: "2017/mayors/GT_Bynum.png" },
       { slug: "tomas-regalado", url: "2017/mayors/Tomas_Regalado.png" },
