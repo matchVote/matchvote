@@ -45,11 +45,10 @@ namespace :reps do
 
   task load_image_urls: :environment do
     file1 = File.readlines("#{Rails.root}/db/data/2015_SenatorProfileImageURLs.txt")
-    file2 = File.readlines("#{Rails.root}/db/data/2015_CongressProfileImageURLs.txt")
-    file3 = File.readlines("#{Rails.root}/db/data/2015_GovernorProfileImageURLs.txt")
-    file4 = File.readlines("#{Rails.root}/db/data/2017_GovernorProfileImageURLs.txt")
-    file5 = File.readlines("#{Rails.root}/db/data/2017_MayorProfileImageURLs.txt")
-    urls = file1.concat(file2.concat(file3.concat(file4.concat(file5))))
+    file2 = File.readlines("#{Rails.root}/db/data/2017_CongressProfileImageURLs.txt")
+    file3 = File.readlines("#{Rails.root}/db/data/2017_GovernorProfileImageURLs.txt")
+    file4 = File.readlines("#{Rails.root}/db/data/2017_MayorProfileImageURLs.txt")
+    urls = file1.concat(file2.concat(file3.concat(file4)))
     parser = ImageURLParser.new(urls.map(&:chomp))
 
     Representative.find_each do |rep|
@@ -75,7 +74,7 @@ namespace :reps do
   end
 
   task manually_load_image_urls: :environment do
-    base_uri = "http://data.matchvote.com/images/"
+    base_uri = "https://data.matchvote.com/images/"
     data = [
       { slug: "george-bynum", url: "2017/mayors/GT_Bynum.png" },
       { slug: "tomas-regalado", url: "2017/mayors/Tomas_Regalado.png" },
