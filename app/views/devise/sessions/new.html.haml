@@ -16,7 +16,6 @@
         %a= link_to "Get Started", new_user_registration_path, class: "btn btn-lg btn-danger"
         %br
         .landing_links
-          %a= link_to "How it Works", "/start"
   .col-md-4
     .logincard
       %h2 Login
@@ -37,12 +36,12 @@
         .row
           %br
           .col-md-5
-            %div= f.submit "Sign In", class: "btn btn-primary btn-block"
+            %div= f.submit "Sign In", class: "btn btn-primary btn-block signinbutton"
           .col-md-7
             %a= link_to "Create Account",
               new_user_registration_path,
               class: "btn btn-default btn-block"
-              
+
         - if show_twitter_login? || show_facebook_login?
           %br
           .row
