@@ -6,7 +6,7 @@ matchVote lets you automatically follow the political positions and news for ele
 #### Development Setup
     bin/build              # creates containers
     bin/setup              # creates DB, migrates, seeds
-    docker-compose up web  # starts containers
+    docker-compose up      # starts containers
 
 #### Deployment Process
     bin/deploy <ENV>
