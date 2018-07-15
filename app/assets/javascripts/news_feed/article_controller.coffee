@@ -136,7 +136,9 @@ class ArticleController
 
   shareArticle: ->
     $("#article-list").on "click", ".share-article", (event) =>
-      @sign_in_alert()
+      $(event.target).fadeOut =>
+        $("[data-share-article='#{@articleID(event)}']").fadeIn()
+
 
   sign_in_alert: ->
     sweetAlert {

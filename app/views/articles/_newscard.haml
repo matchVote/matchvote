@@ -42,9 +42,11 @@
             Comments
           .hide-comments.btn.btn-sm.btn-black{style: article.show_comments? ? "" : "display:none"}
             Close Comments
-          -# .btn.btn-sm.btn-default.share-article
-          -#   .glyphicon.glyphicon-share{title: "Share"}
-            #Share
+          .btn.btn-sm.btn-default.share-article
+            .glyphicon.glyphicon-share{title: "Share"}
+            Share
+          .btn.btn-link.share-icons{style: article.share_icons_style, data: {share_article: article.id}}
+            = social_share_button_tag(article.title, desc: article.title)
           .btn.btn-sm.btn-default.bookmark{class: ("label-info" if article.bookmarked?(current_user))}
             .glyphicon.glyphicon-bookmark{title: "Bookmark Article"}
             Bookmark

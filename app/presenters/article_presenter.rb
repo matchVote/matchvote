@@ -103,6 +103,14 @@ class ArticlePresenter < SimpleDelegator
     article.comments.size > 0
   end
 
+  def share_icons_style
+    style = ""
+    style << "display: none;"
+    style << "text-decoration: none;"
+    style << "border: none;"
+    style << "padding-bottom: 0"
+  end
+
   private
 
   def opposite_type(type)
