@@ -7,6 +7,7 @@ class ArticleController
     @bindEvents()
     @rootAnchor = '#article-list'
     @sign_in_path = '/citizens/sign_in'
+    @voteLocked = false
 
   bindEvents: ->
     @newsworthinessIncrease()
@@ -23,27 +24,31 @@ class ArticleController
 
   newsworthinessIncrease: ->
     $("#article-list").on "click", ".newsworthiness-increase", (event) =>
-      $arrowButton = $(event.target)
-      if $arrowButton.hasClass("newsworthiness-disabled")
-        return
-      selected = $arrowButton.hasClass("newsworthiness-selection")
-      action = if selected then "decrease" else "increase"
-      articleID = $arrowButton.closest(".newscard").attr("id")
-      $oppositeButton = $arrowButton.siblings(".newsworthiness-decrease")
-      callback = @newsworthinessSelection(selected, $oppositeButton)
-      @newsworthinessRequest(articleID, action, $arrowButton, callback)
+      if !@voteLocked
+        @voteLocked = true
+        $arrowButton = $(event.target)
+        if $arrowButton.hasClass("newsworthiness-disabled")
+          return
+        selected = $arrowButton.hasClass("newsworthiness-selection")
+        action = if selected then "decrease" else "increase"
+        articleID = $arrowButton.closest(".newscard").attr("id")
+        $oppositeButton = $arrowButton.siblings(".newsworthiness-decrease")
+        callback = @newsworthinessSelection(selected, $oppositeButton)
+        @newsworthinessRequest(articleID, action, $arrowButton, callback)
 
   newsworthinessDecrease: ->
     $("#article-list").on "click", ".newsworthiness-decrease", (event) =>
-      $arrowButton = $(event.target)
-      if $arrowButton.hasClass("newsworthiness-disabled")
-        return
-      selected = $arrowButton.hasClass("newsworthiness-selection")
-      action = if selected then "increase" else "decrease"
-      articleID = $arrowButton.closest(".newscard").attr("id")
-      $oppositeButton = $arrowButton.siblings(".newsworthiness-increase")
-      callback = @newsworthinessSelection(selected, $oppositeButton)
-      @newsworthinessRequest(articleID, action, $arrowButton, callback)
+      if !@voteLocked
+        @voteLocked = true
+        $arrowButton = $(event.target)
+        if $arrowButton.hasClass("newsworthiness-disabled")
+          return
+        selected = $arrowButton.hasClass("newsworthiness-selection")
+        action = if selected then "increase" else "decrease"
+        articleID = $arrowButton.closest(".newscard").attr("id")
+        $oppositeButton = $arrowButton.siblings(".newsworthiness-increase")
+        callback = @newsworthinessSelection(selected, $oppositeButton)
+        @newsworthinessRequest(articleID, action, $arrowButton, callback)
 
   newsworthinessSelection: (selected, $oppositeButton) -> ($arrowButton) ->
     if selected
@@ -65,7 +70,9 @@ class ArticleController
         count = @calculateCount(action, currentCount)
         $countElement.text(count)
         callback($arrowButton)
+        @voteLocked = false
       error: (xhr) =>
+        @voteLocked = false
         if xhr.status == 401
           @sign_in_alert()
 
