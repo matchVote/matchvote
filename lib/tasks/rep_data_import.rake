@@ -76,15 +76,15 @@ namespace :reps do
   task manually_load_image_urls: :environment do
     base_uri = "https://data.matchvote.com/images/"
     data = [
-      { slug: "george-bynum", url: "2017/mayors/GT_Bynum.png" },
-      { slug: "tomas-regalado", url: "2017/mayors/Tomas_Regalado.png" },
-      { slug: "john-bel-edwards", url: "2015/governors/John_Bel_Edwards.png" },
-      { slug: "mario-diaz-balart", url: "2015/congress/Mario_Diaz_Balart.png" },
-      { slug: "ileana-ros-lehtinen", url: "2015/congress/Ileana_Ros_Lehtinen.png" },
-      { slug: "lucille-roybal-allard", url: "2015/congress/Lucille_Roybal_Allard.png" },
-      { slug: "beto-o-rourke", url: "2015/congress/Beto_ORourke.png" },
-      { slug: "gk-butterfield", url: "2015/congress/G_K_Butterfield.png" },
-      { slug: "earl-ray-tomblin", url: "2015/governors/Earl_Ray_Tomblin.png" }
+      { slug: "george-bynum", url: "2017/mayors/GT_Bynum.jpeg" },
+      { slug: "tomas-regalado", url: "2017/mayors/Tomas_Regalado.jpeg" },
+      { slug: "john-bel-edwards", url: "2015/governors/John_Bel_Edwards.jpeg" },
+      { slug: "mario-diaz-balart", url: "2015/congress/Mario_Diaz_Balart.jpeg" },
+      { slug: "ileana-ros-lehtinen", url: "2015/congress/Ileana_Ros_Lehtinen.jpeg" },
+      { slug: "lucille-roybal-allard", url: "2015/congress/Lucille_Roybal_Allard.jpeg" },
+      { slug: "beto-o-rourke", url: "2015/congress/Beto_ORourke.jpeg" },
+      { slug: "gk-butterfield", url: "2015/congress/G_K_Butterfield.jpeg" },
+      { slug: "earl-ray-tomblin", url: "2015/governors/Earl_Ray_Tomblin.jpeg" }
     ]
 
     data.each do |rep_data|
