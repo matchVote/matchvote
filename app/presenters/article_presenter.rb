@@ -111,6 +111,10 @@ class ArticlePresenter < SimpleDelegator
     style << "padding-bottom: 0"
   end
 
+  def social_share_text
+    "#{article.title} (#{article.url}) -- brought to you by"
+  end
+
   private
 
   def opposite_type(type)
