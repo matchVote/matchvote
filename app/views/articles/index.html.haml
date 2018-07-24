@@ -72,9 +72,33 @@
       %br
       %center
         %h3
-          Top News for
+          Top Political News for
           %span.current-date= current_date
-      %br
+      .hr
+        .mentions
+          %center
+            %h4 Most Mentions
+            = image_tag "https://data.matchvote.com/images/2015/highprofile/Donald_Trump.png", title: "Donald Trump", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/congress/Eric_Swalwell.png", title: "Eric Swalwell", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/congress/Adam_Schiff.png", title: "Adam Schiff", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/congress/Devin_Nunes.png", title: "Devin Nunes", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/highprofile/Hillary_Clinton.png", title: "Hillary Clinton", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/congress/Ann_Kirkpatrick.png", title: "Ann Kirkpatrick", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/highprofile/Barack_Obama.png", title: "Barack Obama", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/governors/Nathan_Deal.png", title: "Nathan Deal", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/senators/Ted_Cruz.png", title: "Ted Cruz", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/senators/Marco_Rubio.png", title: "Marco Rubio", target:"_blank", class: "mention_pic"
+          %br
+
       #article-list
         - render_articles(@articles, @comment_limit, @reply_limit).each do |article|
           = article
