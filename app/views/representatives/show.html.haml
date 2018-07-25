@@ -25,28 +25,58 @@
             class: "btn btn-sm btn-default bio_btn",
             data: { behavior: "toggle_bio" }
 
+
+    .row
+      .col-md-8
+        %h2 Recent News
+      .col-md-4
+        %br
+        .btn.btn-sm.btn-link
+          Find more news about #{@rep.full_name}
     .whitecard
-      %h2 Recent News
+      %h4
+        ‘Fox & Friends’ Books Entirely Wrong Guest, Gets Anti-Trump Rant on the Air
+      %hr
+      .div.pull-right
+        .btn.btn-xs.btn-default
+          Comments
+        .btn.btn-xs.btn-default.share-article
+          .glyphicon.glyphicon-share{title: "Share"}
+          Share
+        .btn.btn-xs.btn-default.bookmark
+          .glyphicon.glyphicon-bookmark{title: "Bookmark Article"}
+          Bookmark
+      %span By Andrew Kirell on July 23, 2018
 
     .whitecard
-      %h2 #{@rep.nickname_or_first_name}'s Demographics
-      %br
-      %table.table.table-hover
-        %tr
-          %td.col-md-3 Gender
-          %td= @rep.gender
-        %tr
-          %td.col-md-3 Age
-          %td= @rep.age
-        %tr
-          %td Birthday
-          %td= @rep.birthday_formatted
-        %tr
-          %td Religion
-          %td= @rep.religion
-        %tr
-          %td Orientation
-          %td= @rep.orientation
+      %h4
+        It’s Time for a Mass Movement to Impeach Trump
+      %hr
+      .div.pull-right
+        .btn.btn-xs.btn-default
+          Comments
+        .btn.btn-xs.btn-default.share-article
+          .glyphicon.glyphicon-share{title: "Share"}
+          Share
+        .btn.btn-xs.btn-default.bookmark
+          .glyphicon.glyphicon-bookmark{title: "Bookmark Article"}
+          Bookmark
+      %span By Miles Mogulescu on July 23, 2018
+
+    .whitecard
+      %h4
+        Donald Trump is reportedly fuming over North Korea’s failure to honor his handshake
+      %hr
+      .div.pull-right
+        .btn.btn-xs.btn-default
+          Comments
+        .btn.btn-xs.btn-default.share-article
+          .glyphicon.glyphicon-share{title: "Share"}
+          Share
+        .btn.btn-xs.btn-default.bookmark
+          .glyphicon.glyphicon-bookmark{title: "Bookmark Article"}
+          Bookmark
+      %span By Adam Peck on July 22, 2018
 
   .col-md-4
     -# .well.first_widget
@@ -88,5 +118,26 @@
         class: "btn btn-default btn-sm"
       = link_to "YouTube", @rep.youtube_url, target: "_blank",
         class: "btn btn-default btn-sm"
+
+    .well
+      %center
+        %h4 About #{@rep.full_name}
+      %br
+      %table.table.table-hover
+        %tr
+          %td.col-md-5 Gender
+          %td= @rep.gender
+        %tr
+          %td Age
+          %td= @rep.age
+        %tr
+          %td Birthday
+          %td= @rep.birthday_formatted
+        %tr
+          %td Religion
+          %td= @rep.religion
+        %tr
+          %td Orientation
+          %td= @rep.orientation
 
     -# .well.widget= render "issue_comparison", issues: @issues

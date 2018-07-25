@@ -19,11 +19,12 @@
 
     .col-md-3.hidden-sm
       .news-sidebar#news-feed-presenter
+        %br
+        %center
+          %h5
+            Top News for
+            %span.current-date= current_date
         .news-sort
-          %center
-            %h5
-              Top News for
-              %span.current-date= current_date
           %select.form-control.article-filter
             %option{value: 'all'} Show All News
             %option{value: 'followed', disabled: !user_signed_in?} Show Only Followed News
@@ -34,7 +35,6 @@
             %option{value: 'comment_count'} Sort by Comment Count
         %center
           %br
-          %strong &nbsp Past News
           #newsfeed-datepicker
           .btn.btn-sm.btn-default#filter-bookmarks{disabled: !user_signed_in?}
             .glyphicon.glyphicon-bookmark{title: "View Your Bookmarked Articles"}
@@ -70,6 +70,35 @@
 
     .col-md-9
       %br
+      %center
+        %h3
+          Top Political News for
+          %span.current-date= current_date
+      .hr
+        .mentions
+          %center
+            %h4 Most Mentions
+            = image_tag "https://data.matchvote.com/images/2015/highprofile/Donald_Trump.png", title: "Donald Trump", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/congress/Eric_Swalwell.png", title: "Eric Swalwell", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/congress/Adam_Schiff.png", title: "Adam Schiff", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/congress/Devin_Nunes.png", title: "Devin Nunes", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/highprofile/Hillary_Clinton.png", title: "Hillary Clinton", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/congress/Ann_Kirkpatrick.png", title: "Ann Kirkpatrick", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/highprofile/Barack_Obama.png", title: "Barack Obama", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/governors/Nathan_Deal.png", title: "Nathan Deal", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/senators/Ted_Cruz.png", title: "Ted Cruz", target:"_blank", class: "mention_pic"
+
+            = image_tag "https://data.matchvote.com/images/2015/senators/Marco_Rubio.png", title: "Marco Rubio", target:"_blank", class: "mention_pic"
+          %br
+
       #article-list
         - render_articles(@articles, @comment_limit, @reply_limit).each do |article|
           = article
