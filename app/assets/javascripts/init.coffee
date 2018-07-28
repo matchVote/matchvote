@@ -6,6 +6,7 @@ App.attachDatepicker = ->
   $("#newsfeed-datepicker").datepicker
     todayHighlight: true
     multidate: true
+    endDate: "0d"
 
 App.init = ->
   App.attachDatepicker()
