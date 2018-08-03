@@ -146,7 +146,6 @@ class ArticleController
       $(event.target).fadeOut =>
         $("[data-share-article='#{@articleID(event)}']").fadeIn()
 
-
   sign_in_alert: ->
     sweetAlert {
       title: 'Not signed in',

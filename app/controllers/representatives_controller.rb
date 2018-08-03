@@ -4,6 +4,13 @@ class RepresentativesController < ApplicationController
   def show
     @rep = RepresentativePresenter.new(find_rep_by_slug)
     @issues = IssueCategory.all
+    @recent_articles = Article
+      .joins(:article_representatives)
+      .includes(:comments)
+      .where("articles_representatives.representative_id = '#{@rep.id}'")
+      .order(date_published: :desc)
+      .limit(3)
+      .map(&ArticlePresenter)
   end
 
   def edit
@@ -55,7 +62,7 @@ class RepresentativesController < ApplicationController
       params.require(:representative).permit(
         :biography, :party, :state, :government_role, :status)
     end
-    
+
     def filtered_params
       formatter = DateFormatter.new(demographics_params[:birthday])
       demographics_params.merge(birthday: formatter.datepicker_to_standard)

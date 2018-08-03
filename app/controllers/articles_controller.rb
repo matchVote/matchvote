@@ -24,6 +24,7 @@ class ArticlesController < ApplicationController
 
   def show
     @article = ArticlePresenter.new(Article.find(params[:id]))
+    @reply_limit = REPLY_LIMIT
   end
 
   def increase_newsworthiness

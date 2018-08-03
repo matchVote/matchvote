@@ -45,7 +45,7 @@
                 .glyphicon.glyphicon-bookmark{title: "Bookmark Article"}
                 Bookmark
           .col-md-6
-            = render "articles/pulsepoll"
+            = render "articles/pulsepoll", rep: @article.top_mentioned_rep, article: @article
 
       .news-comments
         .well
@@ -91,4 +91,5 @@
             - @article.comments.each do |comment|
               = render "articles/comments/comment",
                 comment: CommentPresenter.new(comment),
-                reply_level: 0
+                reply_level: 0,
+                reply_limit: @reply_limit
