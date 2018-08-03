@@ -15,7 +15,6 @@ class ArticleController
     @toggleBookmark()
     @showComments()
     @hideComments()
-    @incrementReadCount()
     @pulsePoll()
     @shareArticle()
 
@@ -73,8 +72,6 @@ class ArticleController
         @voteLocked = false
       error: (xhr) =>
         @voteLocked = false
-        if xhr.status == 401
-          @sign_in_alert()
 
   calculateCount: (type, currentCount) ->
     if type is 'increase'
@@ -96,8 +93,7 @@ class ArticleController
             button.removeClass("label-info")
             button.addClass("btn-default")
         error: (xhr) =>
-          if xhr.status == 401
-            @sign_in_alert()
+          console.log('Err')
 
   showComments: ->
     $("#article-list").on "click", ".show-comments", (event) =>
@@ -112,14 +108,6 @@ class ArticleController
       $button = $(event.target)
       $button.hide()
       $button.siblings(".show-comments").show()
-
-  incrementReadCount: ->
-    $("#article-list").on "click", ".read-article", (event) =>
-      $.ajax
-        type: "PATCH"
-        url: "/api/articles/#{@articleID(event)}/increment_read_count"
-        error: ->
-          console.log('Something went horribly wrong while incrementing read count')
 
   pulsePoll: ->
     $("#article-list").on "click", ".poll-response", (event) =>
@@ -136,22 +124,9 @@ class ArticleController
           $button.addClass("nohover")
           $poll.fadeOut(3000, -> $poll.remove())
         error: (xhr) =>
-          if xhr.status == 401
-            @sign_in_alert()
-          else
-            console.log('Failed to create poll')
+          console.log('Failed to create poll')
 
   shareArticle: ->
     $("#article-list").on "click", ".share-article", (event) =>
       $(event.target).fadeOut =>
         $("[data-share-article='#{@articleID(event)}']").fadeIn()
-
-  sign_in_alert: ->
-    sweetAlert {
-      title: 'Not signed in',
-      text: 'You must sign in or create an account to do that.',
-      type: 'warning',
-      confirmButtonText: 'Login or Create Account',
-      showCancelButton: true,
-      cancelButtonText: 'Cancel',
-    }, () => window.location.href = @sign_in_path

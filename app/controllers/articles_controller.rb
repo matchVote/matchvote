@@ -25,6 +25,7 @@ class ArticlesController < ApplicationController
   def show
     @article = ArticlePresenter.new(Article.find(params[:id]))
     @reply_limit = REPLY_LIMIT
+    Article.increment_counter(:read_count, params[:id])
   end
 
   def increase_newsworthiness
@@ -64,11 +65,6 @@ class ArticlesController < ApplicationController
     }
     partial = filtering_followed_but_not_following? ? 'not_following' : 'api_index'
     render json: { html: view_context.render(partial), stats: stats }
-  end
-
-  def increment_read_count
-    Article.increment_counter(:read_count, params[:id])
-    head :ok
   end
 
   private
