@@ -19,7 +19,8 @@
         .news-summary
           .col-md-6
             .featured_image_trigger
-              =image_tag @article.top_image_url, class: "article_featured_image"
+              - if @article.image_url_safe?
+                = image_tag @article.top_image_url, class: "article_featured_image"
               %ul
                 - @article.summary_points.each do |sp|
                   %li= sp

@@ -124,6 +124,10 @@ class ArticlePresenter < SimpleDelegator
     "#{article.title} (#{article.url}) -- brought to you by"
   end
 
+  def image_url_safe?
+    article.top_image_url.downcase.start_with?('https')
+  end
+
   private
 
   def opposite_type(type)
