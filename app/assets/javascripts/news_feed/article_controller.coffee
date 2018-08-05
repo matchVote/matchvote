@@ -1,12 +1,10 @@
-$(document).on "page:change", ->
+$(document).on "page:change", =>
   return unless $("#article-list").length
-  new ArticleController()
+  new @ArticleController('#article-list')
 
-class ArticleController
-  constructor: ->
+class @ArticleController
+  constructor: (@root) ->
     @bindEvents()
-    @rootAnchor = '#article-list'
-    @sign_in_path = '/citizens/sign_in'
     @voteLocked = false
 
   bindEvents: ->
@@ -22,7 +20,7 @@ class ArticleController
     $(event.target).closest(".newscard").attr("id")
 
   newsworthinessIncrease: ->
-    $("#article-list").on "click", ".newsworthiness-increase", (event) =>
+    $(@root).on "click", ".newsworthiness-increase", (event) =>
       if !@voteLocked
         @voteLocked = true
         $arrowButton = $(event.target)
@@ -36,7 +34,7 @@ class ArticleController
         @newsworthinessRequest(articleID, action, $arrowButton, callback)
 
   newsworthinessDecrease: ->
-    $("#article-list").on "click", ".newsworthiness-decrease", (event) =>
+    $(@root).on "click", ".newsworthiness-decrease", (event) =>
       if !@voteLocked
         @voteLocked = true
         $arrowButton = $(event.target)
@@ -80,7 +78,7 @@ class ArticleController
       currentCount -= 1
 
   toggleBookmark: ->
-    $("#article-list").on "click", ".bookmark", (event) =>
+    $(@root).on "click", ".bookmark", (event) =>
       $.ajax
         type: "POST"
         url: "/articles/#{@articleID(event)}/bookmark"
@@ -96,21 +94,21 @@ class ArticleController
           console.log('Err')
 
   showComments: ->
-    $("#article-list").on "click", ".show-comments", (event) =>
+    $(@root).on "click", ".show-comments", (event) =>
       $("[data-article-id='#{@articleID(event)}']").show()
       $button = $(event.target)
       $button.hide()
       $button.siblings(".hide-comments").show()
 
   hideComments: ->
-    $("#article-list").on "click", ".hide-comments", (event) =>
+    $(@root).on "click", ".hide-comments", (event) =>
       $(".news-comments[data-article-id='#{@articleID(event)}']").hide()
       $button = $(event.target)
       $button.hide()
       $button.siblings(".show-comments").show()
 
   pulsePoll: ->
-    $("#article-list").on "click", ".poll-response", (event) =>
+    $(@root).on "click", ".poll-response", (event) =>
       $poll = $(event.target).parents(".news-pulse-poll")
       data = $poll.data()
       data.response = $(event.target).data('response')
@@ -127,6 +125,6 @@ class ArticleController
           console.log('Failed to create poll')
 
   shareArticle: ->
-    $("#article-list").on "click", ".share-article", (event) =>
+    $(@root).on "click", ".share-article", (event) =>
       $(event.target).fadeOut =>
         $("[data-share-article='#{@articleID(event)}']").fadeIn()

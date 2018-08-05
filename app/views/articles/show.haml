@@ -1,13 +1,14 @@
-.container
+.container#article-container
   .col-md-12
     %br
-    =link_to "< Back to News", "/news", target:"_self", class:"btn btn-sm btn-default"
-    .newscard.fade-in
+    = link_to "< Back to News", "/news", target: "_self", class: "btn btn-sm btn-default"
+    .newscard.fade-in{id: @article.id}
       .row
         .btn-group-vertical.news-vote-btn.pull-right
-          .newsworthiness.btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title: "Newsworthy", type: "increment"}
+          .newsworthiness-increase.btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title: "Newsworthy", class: @article.newsworthiness_classes('increase', current_user) }
           .news-vote-count= @article.newsworthiness_count
-          .newsworthiness.btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title: "Not Newsworthy", type: "decrement"}
+          %h6 Newsworthy
+          .newsworthiness-decrease.btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title: "Not Newsworthy", class: @article.newsworthiness_classes('decrease', current_user) }
         .news-title
           = link_to @article.url, target: "_blank" do
             %h3= @article.title
@@ -25,22 +26,18 @@
             .news-topics
               %ul
                 %li
-                  %strong Topics:
-                - @article.top_keywords.each do |keyword|
-                  %li
-                    %a= keyword
+                  %strong Mentioned:
+                - @article.mentioned_reps.each do |rep|
+                  %li= link_to rep.full_name, "/representative/#{rep.slug}"
             %hr
             %center
               = link_to @article.url, target: "_blank", style: "text-decoration: none" do
                 .btn.btn-sm.btn-danger= @article.read_time
-              .show-comments.btn.btn-sm.btn-default
-                %span.comment-count= @article.comments.size
-                Comments
-              .hide-comments.btn.btn-sm.btn-black{style: "display:none"}
-                Close Comments
-              .btn.btn-sm.btn-default
+              .btn.btn-sm.btn-default.share-article
                 .glyphicon.glyphicon-share{title: "Share"}
                 Share
+              .btn.btn-link.share-icons{style: @article.share_icons_style, data: {share_article: @article.id}}
+                = social_share_button_tag(@article.social_share_text, desc: @article.title)
               .btn.btn-sm.btn-default.bookmark{class: ("label-info" if @article.bookmarked?(current_user))}
                 .glyphicon.glyphicon-bookmark{title: "Bookmark Article"}
                 Bookmark
@@ -59,17 +56,18 @@
               .col-md-1
                 .btn.btn-sm.btn-primary.submit-comment{data: { account_type: current_user.account_type,
                   ctbl_id: @article.id, ctbl_type: "Article", user_id: current_user.id }}
-                  - if current_user.account.standard?
-                    = image_tag current_user.profile_pic_url, title: "@#{current_user.username}"
-                    Upgrade
+                  - if !current_user
+                    Login
                   - else
-                    %center
-                      Submit
+                    = image_tag current_user.profile_pic_url, title: "@#{current_user.username}"
+                    Submit
               .col-md-5
                 .guidelines
                   %p
                     %strong Forum Guidelines:
-                    No personal attacks, hate-speech, baiting, trolling, or unsubstantiated accusations. Threats of violence will result in a ban. Please report violations to forum moderators.
+                    No personal attacks, hate-speech, baiting, trolling, or
+                    unsubstantiated accusations. Threats of violence will result
+                    in a ban. Please report violations to forum moderators.
                   %center
                     =link_to "Privacy Policy", "https://matchvote.com/privacy", target:"_blank"
                     =link_to "Terms of Service", "https://matchvote.com/tos", target:"_blank"
@@ -87,7 +85,7 @@
                 %option{value: "likes"} Sort by Most Loved
                 %option{value: "reply_count"} Sort by Most Replies
 
-          .comments-list
+          .comments-list{data: { article_id: @article.id }}
             - @article.comments.each do |comment|
               = render "articles/comments/comment",
                 comment: CommentPresenter.new(comment),

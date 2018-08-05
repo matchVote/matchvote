@@ -24,7 +24,7 @@ class ArticlesController < ApplicationController
 
   def show
     @article = ArticlePresenter.new(Article.find(params[:id]))
-    @reply_limit = REPLY_LIMIT
+    @reply_limit = BigDecimal('Infinity')
     Article.increment_counter(:read_count, params[:id])
   end
 

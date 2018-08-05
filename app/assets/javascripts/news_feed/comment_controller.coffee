@@ -1,17 +1,17 @@
-$(document).on "page:change", ->
+$(document).on "page:change", =>
   return unless $(".comments-list").length
-  new CommentController()
+  new @CommentController("#article-list")
 
-class CommentController
-  constructor: ->
-    @eventHandlerElement = $("#article-list")
+class @CommentController
+  constructor: (root) ->
+    @eventHandlerElement = $(root)
     @bindEvents()
     @glyphiconHeart = '\n<div class="glyphicon glyphicon-heart" />'
     @userAccountType = null
 
   bindEvents: ->
     @typeComment()
-    @submitComment()
+    @submitCommentClick()
     @showRepliesClick()
     @hideRepliesClick()
     @likeComment()
@@ -38,49 +38,53 @@ class CommentController
       if $commentBoxError.is(":visible")
         $commentBoxError.hide()
 
-  submitComment: ->
+  submitCommentClick: ->
     @eventHandlerElement.on "click", ".submit-comment", (event) =>
-      $button = $(event.target)
-      userID = $button.data("user-id")
-      ctblID = $button.data("ctbl-id")
-      ctblType = $button.data("ctbl-type")
-      $commentBox = $(@ctblSelector(".comment-box", ctblID, ctblType))
-      @userAccountType ?= $button.data("account-type")
-      if @userAccountType == "standard"
-        # This will redirect to a payment page in the future
+      @submitComment(event)
+
+  submitComment: (event) ->
+    $button = $(event.target)
+    userID = $button.data("user-id")
+    ctblID = $button.data("ctbl-id")
+    ctblType = $button.data("ctbl-type")
+    $commentBox = $(@ctblSelector(".comment-box", ctblID, ctblType))
+    @userAccountType ?= $button.data("account-type")
+    if @userAccountType == "standard"
+      # This will redirect to a payment page in the future
+      $.ajax
+        type: "PATCH"
+        url: "/api/citizens/#{userID}/upgrade_account"
+        success: (data) =>
+          sweetAlert "", "Consider yourself upgraded"
+          $button.text("Submit")
+          $commentBox.attr("placeholder", "Add your comment")
+          @userAccountType = data.account_type
+        error: -> console.log("Account upgrade error")
+    else
+      text = $commentBox.val()
+      $commentBox.val("")
+      if text
         $.ajax
-          type: "PATCH"
-          url: "/api/citizens/#{userID}/upgrade_account"
-          success: (data) =>
-            sweetAlert "", "Consider yourself upgraded"
-            $button.text("Submit")
-            $commentBox.attr("placeholder", "Add your comment")
-            @userAccountType = data.account_type
-          error: -> console.log("Account upgrade error")
+          type: "POST"
+          url: "/api/comments"
+          data:
+            text: text
+            id: ctblID
+            type: ctblType
+            reply_level: parseInt($button.data("reply-level")) + 1
+          success: (html) =>
+            if ctblType == "Article"
+              @addComment(html, ctblID)
+            else
+              $button = $(".close-reply[data-comment-id=#{ctblID}]")
+              @closeReplyBox(ctblID, $button)
+              @addReply(html, ctblID)
+              @updateDisplayRepliesButton(ctblID)
+          error: ->
+            console.log("Comment submission error")
       else
-        text = $commentBox.val()
-        $commentBox.val("")
-        if text
-          $.ajax
-            type: "POST"
-            url: "/api/comments"
-            data:
-              text: text
-              id: ctblID
-              type: ctblType
-              reply_level: parseInt($button.data("reply-level")) + 1
-            success: (html) =>
-              if ctblType == "Article"
-                @addComment(html, ctblID)
-              else
-                $button = $(".close-reply[data-comment-id=#{ctblID}]")
-                @closeReplyBox(ctblID, $button)
-                @addReply(html, ctblID)
-                @updateDisplayRepliesButton(ctblID)
-            error: -> console.log("Comment submission error")
-        else
-          console.log("Textbox empty")
-          $commentBox.siblings(".comment-box-error").show()
+        console.log("Textbox empty")
+        $commentBox.siblings(".comment-box-error").show()
 
   addComment: (html, id) ->
     commentsListSelector = ".comments-list[data-article-id=#{id}]"

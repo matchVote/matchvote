@@ -19,14 +19,6 @@
           %ul
             - article.summary_points.each do |sp|
               %li= sp
-        -# - if !article.top_keywords.empty?
-          .news-topics
-            %ul
-              %li
-                %strong Topics:
-              - article.top_keywords.each do |keyword|
-                %li
-                  %a= keyword
         .news-topics
           %ul
             %li
