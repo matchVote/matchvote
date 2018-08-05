@@ -23,7 +23,7 @@
             -# .glyphicon.glyphicon-flash.menu-notify-on{title: "2 new notifications"}
             - if user_signed_in?
               = render "layouts/profile_link"
-            -#  = link_to destroy_user_session_path, method: :delete do
+              = link_to destroy_user_session_path, method: :delete do
                 .glyphicon.glyphicon-log-out.logout-button{title: "Sign Out"}
             - else
               = link_to new_user_session_path do
