@@ -34,7 +34,7 @@ class NewsFeedPresenter
     @$articleList.html('')
     $('.spinner').show()
     @executeAjaxRequest @articlesIndex, (response) =>
-      @$articleList.html(response.html)
+      @$articleList.html(response.articles)
       $('.current-date').text(response.stats.current_date)
       $('#stats-current-date').text(response.stats.current_date)
       $('#stats-article-count').text(response.stats.article_count)

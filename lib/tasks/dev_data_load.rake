@@ -1,30 +1,6 @@
 namespace :dev do
-  desc "Creates records in DB to help with development"
-  task load_fixtures: :environment do
-    if Rails.env.development?
-      [Article, Comment].each do |model|
-        model.destroy_all
-        type = model.name.downcase.pluralize
-        articles = YAML.load_file("#{Rails.root}/spec/fixtures/#{type}.yml")
-        articles.each do |data|
-          model.create(data)
-          model.connection.execute("SELECT nextval('#{type}_id_seq')")
-        end
-      end
-
-      article = Article.first
-      article.id = nil
-      url = article.url[0...-1]
-      (4..100).each do |num|
-        article.url = url + num.to_s
-        article.title += num.to_s
-        Article.create(article.attributes)
-      end
-    end
-  end
-
   desc "Creates dummy users in DB from fixtures file"
-  task load_users: :environment do
+  task create_users: :environment do
     if Rails.env.development?
       User.destroy_all
       YAML.load_file("#{Rails.root}/spec/fixtures/users.yml").each do |data|
@@ -33,25 +9,42 @@ namespace :dev do
     end
   end
 
-  desc "Creates articles to test date operations"
-  task load_dated_articles: :environment do
-    if Rails.env.development? && !Article.all.empty?
+  desc "Creates records in DB to help with development"
+  task reset_articles: :environment do
+    if Rails.env.development?
+      ARTICLE_COUNT = 100
+      COMMENT_COUNT = 200
+      Article.destroy_all
+      Comment.destroy_all
+
+      ARTICLE_COUNT.times do
+        Article.create(
+          url: Faker::Internet.url,
+          title: Faker::Lorem.sentence,
+          authors: [Faker::WorldOfWarcraft.hero, Faker::Lebowski.character],
+          publisher: Faker::Company.name,
+          date_published: DateTime.now,
+          keywords: Faker::Coffee.notes.split(', '),
+          summary: Faker::Lorem.paragraph(20),
+          read_time: Random.rand(20),
+          newsworthiness_count: Random.rand(3000),
+          top_image_url: Faker::LoremFlickr.image('200x200', ['politics']),
+        ).article_representatives.create(
+          representative: Representative.order("RANDOM()").first
+        )
+      end
       days = 0
-      rep = Representative.order("RANDOM()").first
-      Article.take(5).each do |a|
+      Article.take(10).each do |a|
         a.update(date_published: DateTime.now - days)
-        a.article_representatives.create({representative_id: rep.id})
         days += 1
       end
-    end
-  end
 
-  desc "Link dated articles to reps"
-  task link_articles_to_rep: :environment do
-    if Rails.env.development? && !Article.all.empty?
-      rep = Representative.order("RANDOM()").first
-      Article.where.not(date_published: nil).each do |a|
-        a.article_representatives.create({representative_id: rep.id})
+      COMMENT_COUNT.times do
+        Comment.create(
+          text: Faker::GameOfThrones.quote,
+          user: User.order('RANDOM()').first,
+          commentable: [Article, Comment][Random.rand(2)].order('RANDOM()').first
+        )
       end
     end
   end

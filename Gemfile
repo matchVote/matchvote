@@ -36,7 +36,7 @@ group :development, :test do
   gem "benchmark-ips", "~> 2.1.1"
   gem "byebug", "~> 4.0.2"
   gem "dotenv-rails", "~> 2.0.1"
-  gem "faker", "~> 1.4.3"
+  gem "faker", "~> 1.9.1"
   gem "flamegraph", "~> 0.1.0"
   gem "rails_db_info", "~> 0.2"
   gem "rack-mini-profiler", "~> 0.9.3"

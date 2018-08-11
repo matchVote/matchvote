@@ -1,0 +1,12 @@
+spec
+tags
+log
+coverage
+Dockerfile
+docker-compose.yml
+doc
+README.md
+.env
+.dockerignore
+.gitignore
+.git

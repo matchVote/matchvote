@@ -63,8 +63,12 @@ class ArticlesController < ApplicationController
       article_count: articles.count,
       publisher_count: publisher_count
     }
-    partial = filtering_followed_but_not_following? ? 'not_following' : 'api_index'
-    render json: { html: view_context.render(partial), stats: stats }
+    articles_view = filtering_followed_but_not_following? ? 'not_following' : 'api_index'
+    render json: {
+      articles: view_context.render(articles_view),
+      most_mentions: view_context.render('most_mentions'),
+      stats: stats
+    }
   end
 
   private
