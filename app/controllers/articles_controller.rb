@@ -1,5 +1,5 @@
 require "will_paginate/array"
-require_relative "#{Rails.root}/lib/articles/article_collection"
+require_dependency "lib/articles/article_collection"
 
 class ArticlesController < ApplicationController
   include ArticleCollection
@@ -20,6 +20,34 @@ class ArticlesController < ApplicationController
     @articles = articles
       .map(&ArticlePresenter)
       .paginate(page: params[:page], per_page: PER_PAGE)
+    @most_mentioned_reps = Representative
+      .most_mentioned(articles)
+      .map(&RepresentativePresenter)
+  end
+
+  def api_index
+    @comment_limit = COMMENT_LIMIT
+    @reply_limit = REPLY_LIMIT
+    articles = collect_articles(params, current_user)
+    publisher_count = articles.pluck(:publisher).uniq.count
+    @articles = articles
+      .map(&ArticlePresenter)
+      .paginate(page: params[:page], per_page: PER_PAGE)
+    @most_mentioned_reps = Representative
+      .most_mentioned(articles)
+      .map(&RepresentativePresenter)
+    date = normalize_date(article_filters[:date_published])
+    stats = {
+      current_date: ArticlesHelper.current_date(date),
+      article_count: articles.count,
+      publisher_count: publisher_count
+    }
+    articles_view = filtering_followed_but_not_following? ? 'not_following' : 'api_index'
+    render json: {
+      articles: view_context.render(articles_view),
+      most_mentions: view_context.render('most_mentions'),
+      stats: stats
+    }
   end
 
   def show
@@ -47,28 +75,6 @@ class ArticlesController < ApplicationController
       Bookmark.create(article_id: params[:id], user_id: current_user.id)
       render json: { active: true }
     end
-  end
-
-  def api_index
-    @comment_limit = COMMENT_LIMIT
-    @reply_limit = REPLY_LIMIT
-    articles = collect_articles(params, current_user)
-    publisher_count = articles.pluck(:publisher).uniq.count
-    @articles = articles
-      .map(&ArticlePresenter)
-      .paginate(page: params[:page], per_page: PER_PAGE)
-    date = normalize_date(article_filters[:date_published])
-    stats = {
-      current_date: ArticlesHelper.current_date(date),
-      article_count: articles.count,
-      publisher_count: publisher_count
-    }
-    articles_view = filtering_followed_but_not_following? ? 'not_following' : 'api_index'
-    render json: {
-      articles: view_context.render(articles_view),
-      most_mentions: view_context.render('most_mentions'),
-      stats: stats
-    }
   end
 
   private

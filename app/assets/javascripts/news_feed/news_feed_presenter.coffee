@@ -5,6 +5,7 @@ $(document).on 'page:change', ->
 class NewsFeedPresenter
   constructor: ->
     @$articleList = $('#article-list')
+    @$mostMentions = $('#most-mentions')
     @$filterBookmarksButton = $('#filter-bookmarks')
     @$pastNewsButton = $('#past-news')
     @$datepicker = $('#newsfeed-datepicker')
@@ -32,13 +33,18 @@ class NewsFeedPresenter
 
   updateArticles: ->
     @$articleList.html('')
+    @$mostMentions.html('')
     $('.spinner').show()
     @executeAjaxRequest @articlesIndex, (response) =>
       @$articleList.html(response.articles)
-      $('.current-date').text(response.stats.current_date)
-      $('#stats-current-date').text(response.stats.current_date)
-      $('#stats-article-count').text(response.stats.article_count)
-      count = response.stats.publisher_count
+      @updateStats(response.stats)
+      @$mostMentions.html(response.most_mentions)
+
+  updateStats: (stats) ->
+      $('.current-date').text(stats.current_date)
+      $('#stats-current-date').text(stats.current_date)
+      $('#stats-article-count').text(stats.article_count)
+      count = stats.publisher_count
       text = if count == 1 then "1 source" else "#{count} sources"
       $('#publishers-link').text(text)
 

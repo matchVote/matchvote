@@ -1,6 +1,10 @@
 class RepresentativePresenter < SimpleDelegator
   include ActionView::Helpers
 
+  def self.to_proc
+    -> (rep) { self.new(rep) }
+  end
+
   def initialize(rep, match_percent = 0)
     @match_percent = match_percent
     super(rep)

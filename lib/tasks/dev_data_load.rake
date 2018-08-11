@@ -28,7 +28,7 @@ namespace :dev do
           keywords: Faker::Coffee.notes.split(', '),
           summary: Faker::Lorem.paragraph(20),
           read_time: Random.rand(20),
-          newsworthiness_count: Random.rand(3000),
+          newsworthiness_count: Random.rand(2000),
           top_image_url: Faker::LoremFlickr.image('200x200', ['politics']),
         ).article_representatives.create(
           representative: rep_pool[Random.rand(rep_pool.size)]

@@ -3,4 +3,5 @@ class Article < ActiveRecord::Base
   has_many :comments, -> { order(created_at: :desc) }, as: :commentable
   has_many :user_article_changes, dependent: :destroy
   has_many :article_representatives, dependent: :destroy
+  has_many :reps, through: :article_representatives, source: :representative
 end

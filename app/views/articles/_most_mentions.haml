@@ -3,42 +3,7 @@
     %center
       %h4 Most Mentions
       .flex-grid
-        .col
-          = image_tag "https://data.matchvote.com/images/2015/highprofile/Donald_Trump.png", title: "Donald Trump", target:"_blank", class: "mention_pic", class: "mention_pic"
-          %p Donald Trump
-
-        .col
-          = image_tag "https://data.matchvote.com/images/2015/congress/Eric_Swalwell.png", title: "Eric Swalwell", target:"_blank", class: "mention_pic"
-          %p Eric Swalwell
-
-        .col
-          = image_tag "https://data.matchvote.com/images/2015/congress/Adam_Schiff.png", title: "Adam Schiff", target:"_blank", class: "mention_pic"
-          %p Adam Schiff
-
-        .col
-          = image_tag "https://data.matchvote.com/images/2015/congress/Devin_Nunes.png", title: "Devin Nunes", target:"_blank", class: "mention_pic"
-          %p Devin Nunes
-
-        .col
-          = image_tag "https://data.matchvote.com/images/2015/highprofile/Hillary_Clinton.png", title: "Hillary Clinton", target:"_blank", class: "mention_pic"
-          %p Hillary Clinton
-
-        .col
-          = image_tag "https://data.matchvote.com/images/2015/congress/Ann_Kirkpatrick.png", title: "Ann Kirkpatrick", target:"_blank", class: "mention_pic"
-          %p Ann Kirkpatrick
-
-        .col
-          = image_tag "https://data.matchvote.com/images/2015/highprofile/Barack_Obama.png", title: "Barack Obama", target:"_blank", class: "mention_pic"
-          %p Barack Obama
-
-        .col
-          = image_tag "https://data.matchvote.com/images/2015/governors/Nathan_Deal.png", title: "Nathan Deal", target:"_blank", class: "mention_pic"
-          %p Nathan Deal
-
-        .col
-          = image_tag "https://data.matchvote.com/images/2015/senators/Ted_Cruz.png", title: "Ted Cruz", target:"_blank", class: "mention_pic"
-          %p Ted Cruz
-
-        .col
-          = image_tag "https://data.matchvote.com/images/2015/senators/Marco_Rubio.png", title: "Marco Rubio", target:"_blank", class: "mention_pic"
-          %p Marco Rubio
+        - @most_mentioned_reps.each do |rep|
+          .col
+            = image_tag rep.profile_image_url, title: rep.full_name, class: "mention_pic"
+            %p= rep.full_name
