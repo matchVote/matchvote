@@ -5,5 +5,8 @@
       .flex-grid
         - @most_mentioned_reps.each do |rep|
           .col
-            = image_tag rep.profile_image_url, title: rep.full_name, class: "mention_pic"
+            = image_tag rep.profile_image_url,
+              title: rep.full_name,
+              class: "mention_pic",
+              data: { rep_id: rep.id }
             %p= rep.full_name

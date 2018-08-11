@@ -5,6 +5,7 @@ module ArticleCollection
     articles = join_bookmarks(articles, filters[:bookmarks], user)
     articles = filter_by_date(articles, normalize_date(filters[:date_published]))
     articles = filter_by_followed(articles, filters[:followed], user)
+    articles = filter_by_rep(articles, filters[:rep])
     order(articles, params[:sort])
   end
 
@@ -37,12 +38,24 @@ module ArticleCollection
 
   def filter_by_followed(articles, filter, user)
     if filter
-      articles
-        .joins(:article_representatives)
-        .where(articles_representatives: { representative_id: user.followed_reps })
+      filter_by_rep_ids(articles, user.followed_reps)
     else
       articles
     end
+  end
+
+  def filter_by_rep(articles, rep_id)
+    if rep_id
+      filter_by_rep_ids(articles, [rep_id])
+    else
+      articles
+    end
+  end
+
+  def filter_by_rep_ids(articles, ids)
+    articles
+      .joins(:article_representatives)
+      .where(articles_representatives: { representative_id: ids })
   end
 
   def order(articles, sort)

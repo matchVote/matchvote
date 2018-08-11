@@ -42,6 +42,7 @@ class Representative < ActiveRecord::Base
       ,R.last_name
       ,most_mentioned.count AS count
       ,R.profile_image_url
+      ,R.id
     FROM representatives R
     JOIN most_mentioned ON R.id = most_mentioned.id
     ORDER BY count DESC

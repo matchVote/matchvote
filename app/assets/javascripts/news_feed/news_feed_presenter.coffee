@@ -21,6 +21,7 @@ class NewsFeedPresenter
     @sortArticles()
     @filterArticles()
     @filterBookmarks()
+    @filterMostMentionedRep()
     @browseYesterday()
 
   initializeDatepicker: ->
@@ -82,8 +83,8 @@ class NewsFeedPresenter
 
   filterArticles: ->
     $('.article-filter').change (event) =>
+      delete @filters.rep
       $selectBox = $(event.target)
-      console.log("Filtering on: #{$selectBox.val()}")
       filter = $selectBox.val()
       if filter is 'all'
         delete @filters.followed
@@ -126,3 +127,11 @@ class NewsFeedPresenter
       )
       @updateArticles()
       delete @filters.date_published
+
+  filterMostMentionedRep: ->
+    $('#most-mentions').on 'click', '.mention_pic', (event) =>
+      repID = $(event.target).data('rep-id')
+      @filters.rep = repID
+      delete @filters.followed
+      @updateArticles()
+
