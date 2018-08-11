@@ -17,6 +17,7 @@ namespace :dev do
       Article.destroy_all
       Comment.destroy_all
 
+      rep_pool = Representative.take(15)
       ARTICLE_COUNT.times do
         Article.create(
           url: Faker::Internet.url,
@@ -30,7 +31,7 @@ namespace :dev do
           newsworthiness_count: Random.rand(3000),
           top_image_url: Faker::LoremFlickr.image('200x200', ['politics']),
         ).article_representatives.create(
-          representative: Representative.order("RANDOM()").first
+          representative: rep_pool[Random.rand(rep_pool.size)]
         )
       end
       days = 0
