@@ -106,10 +106,6 @@ class ArticlesController < ApplicationController
     Article.send("#{type}_counter", :newsworthiness_count, article_id)
   end
 
-  def user_can_change_article?(id)
-    not UserArticleChange.exists?(article_id: id, user_id: current_user.id)
-  end
-
   def filtering_followed_but_not_following?
     article_filters[:followed] == 'true' && @articles.empty?
   end
