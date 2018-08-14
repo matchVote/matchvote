@@ -5,7 +5,7 @@
         %table
           %tr
             %td
-              %strong.current-date= current_date
+              %strong.selected-dates= current_date
             %td
               %select.form-control.article-filter
                 %option{value: 'all'} Show All News
@@ -19,11 +19,6 @@
 
     .col-md-3.hidden-sm
       .news-sidebar#news-feed-presenter
-        %br
-        %center
-          %h5
-            Top News for
-            %span.current-date= current_date
         .news-sort
           %select.form-control.article-filter
             %option{value: 'all'} Show All News
@@ -53,7 +48,7 @@
                 title: "Where we retrieve news", id: "publishers-link"
               %br
               for
-              %span#stats-current-date
+              %span#stats-selected-dates
                 = current_date
                 -# Include below only on current day's news
                 as of
@@ -73,7 +68,7 @@
       %center
         %h3
           Top Political News for
-          %span.current-date= current_date
+          %span.selected-dates= current_date
           #most-mentions
             = render "most_mentions"
           %br

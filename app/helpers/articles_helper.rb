@@ -1,3 +1,5 @@
+require 'set'
+
 module ArticlesHelper
   def render_articles(articles, comment_limit, reply_limit)
     articles.map do |article|
@@ -8,11 +10,16 @@ module ArticlesHelper
     end
   end
 
-  def self.current_date(zone_time = Time.zone.now)
-    "#{zone_time.strftime("%B")} #{zone_time.day.ordinalize}, #{zone_time.year}"
+  def self.format_dates(dates)
+    initial = Hash.new { |hash, key| hash[key] = Set[] }
+    dates.reduce(initial) do |hash, date|
+      hash[date.year] << "#{date.strftime("%B")} #{date.day.ordinalize}"
+      hash
+    end
   end
 
   def current_date
-    ArticlesHelper.current_date
+    date = Time.zone.now
+    "#{date.strftime("%B")} #{date.day.ordinalize}, #{date.year}"
   end
 end

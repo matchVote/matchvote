@@ -7,12 +7,11 @@ class NewsFeedPresenter
     @$articleList = $('#article-list')
     @$mostMentions = $('#most-mentions')
     @$filterBookmarksButton = $('#filter-bookmarks')
-    @$pastNewsButton = $('#past-news')
     @$datepicker = $('#newsfeed-datepicker')
     @articlesIndex = '/api/articles'
     @isPaginating = false
     @sort = 'newsworthiness'
-    @filters = {}
+    @filters = {dates_published: [new Date()]}
     @bindEvents()
     @initializeDatepicker()
 
@@ -29,7 +28,7 @@ class NewsFeedPresenter
       endDate: 'tomorrow'
     @$datepicker.on 'changeDate', (event) =>
       if event.date
-        @filters.date_published = event.date
+        @filters.dates_published.push(event.date)
       @updateArticles()
 
   updateArticles: ->
@@ -42,12 +41,14 @@ class NewsFeedPresenter
       @$mostMentions.html(response.most_mentions)
 
   updateStats: (stats) ->
-      $('.current-date').text(stats.current_date)
-      $('#stats-current-date').text(stats.current_date)
-      $('#stats-article-count').text(stats.article_count)
-      count = stats.publisher_count
-      text = if count == 1 then "1 source" else "#{count} sources"
-      $('#publishers-link').text(text)
+    console.log(stats)
+    days = stats.selected_dates[2018].join(', ')
+    $('.selected-dates').text(days + ' 2018')
+    $('#stats-current-date').text(stats.current_date)
+    $('#stats-article-count').text(stats.article_count)
+    count = stats.publisher_count
+    text = if count == 1 then "1 source" else "#{count} sources"
+    $('#publishers-link').text(text)
 
   executeAjaxRequest: (url, articles_callback) ->
     $.ajax

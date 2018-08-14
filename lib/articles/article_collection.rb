@@ -3,14 +3,14 @@ module ArticleCollection
     filters = params.fetch(:filters, {})
     articles = join_comments(Article, params[:sort])
     articles = join_bookmarks(articles, filters[:bookmarks], user)
-    articles = filter_by_date(articles, normalize_date(filters[:date_published]))
+    articles = filter_by_dates(articles, filters[:dates_published].values)
     articles = filter_by_followed(articles, filters[:followed], user)
     articles = filter_by_rep(articles, filters[:rep])
     order(articles, params[:sort])
   end
 
-  def normalize_date(date)
-    date ? Time.zone.parse(date) : Time.zone.now
+  def normalize_dates(dates)
+    dates ? dates.map { |d| Time.zone.parse(d) } : [Time.zone.now]
   end
 
   private
@@ -32,8 +32,13 @@ module ArticleCollection
     end
   end
 
-  def filter_by_date(articles, date)
-    articles.where(date_published: date.beginning_of_day...date.end_of_day)
+  def filter_by_dates(articles, dates)
+    dates = convert_to_ranges(normalize_dates(dates))
+    articles.where(date_published: dates)
+  end
+
+  def convert_to_ranges(dates)
+    dates.map { |date| date.beginning_of_day...date.end_of_day }
   end
 
   def filter_by_followed(articles, filter, user)

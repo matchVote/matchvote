@@ -36,9 +36,9 @@ class ArticlesController < ApplicationController
     @most_mentioned_reps = Representative
       .most_mentioned(articles)
       .map(&RepresentativePresenter)
-    date = normalize_date(article_filters[:date_published])
+    dates = articles.map(&:date_published)
     stats = {
-      current_date: ArticlesHelper.current_date(date),
+      selected_dates: ArticlesHelper.format_dates(dates),
       article_count: articles.count,
       publisher_count: publisher_count
     }
