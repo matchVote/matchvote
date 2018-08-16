@@ -41,14 +41,17 @@ class NewsFeedPresenter
       @$mostMentions.html(response.most_mentions)
 
   updateStats: (stats) ->
-    console.log(stats)
-    days = stats.selected_dates[2018].join(', ')
-    $('.selected-dates').text(days + ' 2018')
-    $('#stats-current-date').text(stats.current_date)
+    days = @formatDays(stats.selected_dates)
+    $('.selected-dates').text(days)
+    $('#stats-selected-dates').text(days)
     $('#stats-article-count').text(stats.article_count)
     count = stats.publisher_count
     text = if count == 1 then "1 source" else "#{count} sources"
     $('#publishers-link').text(text)
+
+  formatDays: (dates) ->
+    days = ("#{month[0]} #{month[1].join(', ')}" for month in dates[2018])
+    days.join(', ') + ' 2018'
 
   executeAjaxRequest: (url, articles_callback) ->
     $.ajax

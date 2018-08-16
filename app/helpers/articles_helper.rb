@@ -3,7 +3,7 @@ require 'set'
 module ArticlesHelper
   def render_articles(articles, comment_limit, reply_limit)
     articles.map do |article|
-      render "newscard",
+      render 'newscard',
         article: article,
         comment_limit: comment_limit,
         reply_limit: reply_limit
@@ -11,9 +11,13 @@ module ArticlesHelper
   end
 
   def self.format_dates(dates)
-    initial = Hash.new { |hash, key| hash[key] = Set[] }
-    dates.reduce(initial) do |hash, date|
-      hash[date.year] << "#{date.strftime("%B")} #{date.day.ordinalize}"
+    years = Hash.new { |hash, key| hash[key] = [] }
+    dates.sort.reduce(years) do |hash, date|
+      months = hash[date.year]
+      month_name = date.strftime('%B')
+      month = months.find { |m| m.first == month_name }
+      months << month = [month_name, Set[]] if month.nil?
+      month.last << date.day.ordinalize
       hash
     end
   end
