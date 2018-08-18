@@ -12,7 +12,8 @@ class ArticlesController < ApplicationController
     @comment_limit = COMMENT_LIMIT
     @reply_limit = REPLY_LIMIT
     articles = Article
-      .includes(:comments, :bookmarks, :user_article_changes)
+      .includes(comments: { comments: { comments: :comments }})
+      .includes(:bookmarks, :user_article_changes, :article_representatives)
       .where(date_published: Time.zone.now.beginning_of_day...Time.zone.now.end_of_day)
       .order(newsworthiness_count: :desc)
     @article_count = articles.count
@@ -29,7 +30,6 @@ class ArticlesController < ApplicationController
     @comment_limit = COMMENT_LIMIT
     @reply_limit = REPLY_LIMIT
     articles = collect_articles(params, current_user)
-    publisher_count = articles.pluck(:publisher).uniq.count
     @articles = articles
       .map(&ArticlePresenter)
       .paginate(page: params[:page], per_page: PER_PAGE)
@@ -40,7 +40,7 @@ class ArticlesController < ApplicationController
     stats = {
       selected_dates: ArticlesHelper.format_dates(dates),
       article_count: articles.count,
-      publisher_count: publisher_count
+      publisher_count: articles.select(:publisher).distinct.count
     }
     articles_view = filtering_followed_but_not_following? ? 'not_following' : 'api_index'
     render json: {

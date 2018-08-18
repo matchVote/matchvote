@@ -19,7 +19,7 @@ module ArticleCollection
     if sort == 'comment_count'
       articles.joins('LEFT JOIN comments C on C.commentable_id = articles.id')
     else
-      articles.includes(:comments)
+      articles.includes(comments: { comments: { comments: :comments }})
     end
   end
 

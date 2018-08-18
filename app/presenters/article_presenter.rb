@@ -86,11 +86,15 @@ class ArticlePresenter < SimpleDelegator
   end
 
   def newsworthiness_increase?
-    article.user_article_changes.exists?(change_type: "newsworthiness_increment")
+    article.user_article_changes.any? do |change|
+      change.change_type == "newsworthiness_increment"
+    end
   end
 
   def newsworthiness_decrease?
-    article.user_article_changes.exists?(change_type: "newsworthiness_decrement")
+    article.user_article_changes.any? do |change|
+      change.change_type == "newsworthiness_decrement"
+    end
   end
 
   def newsworthiness_classes(type, user)
