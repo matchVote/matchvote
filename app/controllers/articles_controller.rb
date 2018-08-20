@@ -1,5 +1,5 @@
 require "will_paginate/array"
-require_dependency "lib/articles/article_collection"
+require_dependency "#{Rails.root}/lib/articles/article_collection"
 
 class ArticlesController < ApplicationController
   include ArticleCollection
