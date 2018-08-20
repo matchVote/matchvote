@@ -2,14 +2,18 @@
 
 REGION=us-east-1
 ENV=$1
+VERSION=$2
 
 if [ -z "$ENV" ]; then
   echo "Environment argument missing"
   exit 1
+elif [ -z "$VERSION" ]; then
+  echo "Version argument missing"
+  exit 1
 fi
 
-TARGET_IMAGE=788332838494.dkr.ecr.$REGION.amazonaws.com/matchvote-fargate:latest
-SOURCE_IMAGE=matchvote:latest
+TARGET_IMAGE=788332838494.dkr.ecr.$REGION.amazonaws.com/matchvote-fargate:$VERSION
+SOURCE_IMAGE=matchvote:$VERSION
 
 # Login to AWS EC2 Container Registry
 $(aws ecr get-login --no-include-email)
