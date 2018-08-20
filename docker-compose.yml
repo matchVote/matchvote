@@ -4,14 +4,25 @@ services:
     build: .
     env_file: .env
     volumes:
+      - bundle_cache:/bundle_cache
       - .:/usr/src/app
     ports:
       - "3000:3000"
     depends_on:
       - postgres
+    environment:
+      - BUNDLE_PATH=/bundle_cache
     command: bin/start
 
   postgres:
     image: postgres:9.6.1
     ports:
       - "5433:5432"
+
+  bundle_cache:
+    image: busybox
+    volumes:
+      - bundle_cache:/bundle_cache
+
+volumes:
+  bundle_cache:

@@ -9,7 +9,7 @@ gem "coffee-rails", "~> 4.1.0"
 gem "devise", "~> 3.4.0"
 gem "haml-rails", "~> 0.9"
 gem "httparty", "~> 0.13.3"
-gem "jquery-rails", "~> 4.0.3"
+gem "jquery-rails", "~> 4.0.4"
 gem "ledermann-rails-settings", "~> 2.4.0"
 gem "mailgun_rails", "~> 0.9.0"
 gem "omniauth", "~> 1.8.1"
@@ -39,11 +39,10 @@ group :development, :test do
   gem "faker", "~> 1.9.1"
   gem "flamegraph", "~> 0.1.0"
   gem "rails_db_info", "~> 0.2"
-  gem "rack-mini-profiler", "~> 0.9.3"
+  gem "rack-mini-profiler", "~> 0.10.1"
   gem "spring", "~> 1.3.3"
   gem "spring-commands-rspec", "~> 1.0.4"
   gem "stackprof", "~> 0.2.7"
-  gem "web-console", "~> 2.1.2"
 end
 
 group :test do
