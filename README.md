@@ -15,60 +15,6 @@ Initial data population will need to happen when an environment is deployed to f
 #### Updating version
 * config/application.rb `VERSION`
 
-### TODO
-* News Feed
-  * Articles
-    * Newsworthiness vote doesn't visually indicate a previous vote
-    * Topics Covered (pulled from IssueCategories:Related Keywords)
-    * Share
-    * Pulse Poll
-  * Filtering
-    * Add filter
-      * Topic/Category
-      * Mentioned Official
-      * Publisher
-      * Author (not current priority)
-      * Publish Date
-  * Sorting
-    * Most Shared
-    * Most Bookmarked
-  * Comments
-    * Edit - talk to Brad first
-    * Locking
-    * Report
-    * View more -- link to Article show page
-    * Change comment timestamps to reflect local time
-    * Upgrade -- Temp implementation until Account Upgrade feature is done
-* Account Upgrade (payments)
-* Directory
-  * Sort:
-    * Most Similar/Least similar
-    * Approval Rating - Tied to Census Pulse
-    * Name Recognition currently broken due to Virility using ruby version 2.3
-  * Filter  
-    * Finalize hierarchy
-* Rep profile/admin
-  * Follow
-  * Rate Rep / Approval Rating
-  * Comments
-  * Recent News - Pulled from News Feeder
-  * Presentation of absent contact info
-* Misc backend
-  * Send email to admin if user signs up as rep/admin
-  * Setup email for forgotten password
-  * Sign in with facebook/twitter (omniauth)
-  * Data:
-    * Matchdata Files: term_end, took_office for seniority
-    * Bio Errors: Evan Jenkins, French Hill, Luis Gutierrez
-* Misc frontend
-  * add SweetAlerts
-  * Remove social media links if reps don't have an account
-  * New styling of Rep Profile Contact Info
-  * Style create account page
-  * Style forgot password form
-  * Refine Stances/Quiz views
-  * Build GUI for admins to edit Representative profiles
-
 #### Rep Hierarchy
 All ->  
 Levels: Federal, State, Municipal ->  
