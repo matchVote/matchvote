@@ -397,7 +397,7 @@ DEPENDENCIES
   poltergeist (~> 1.6.0)
   puma (= 3.10.0)
   pundit (~> 1.0.0)
-  rack-mini-profiler (~> 0.10.1)
+  rack-mini-profiler (~> 0.10.7)
   rails (= 4.2.10)
   rails-html-sanitizer (~> 1.0.1)
   rails_12factor (~> 0.0.3)

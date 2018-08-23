@@ -11,7 +11,8 @@ class NewsFeedPresenter
     @articlesIndex = '/api/articles'
     @isPaginating = false
     @sort = 'newsworthiness'
-    @filters = {dates_published: [new Date()]}
+    @today = new Date()
+    @filters = {dates_published: [@today]}
     @bindEvents()
     @initializeDatepicker()
 
@@ -27,8 +28,8 @@ class NewsFeedPresenter
     @$datepicker.datepicker
       endDate: 'tomorrow'
     @$datepicker.on 'changeDate', (event) =>
-      if event.date
-        @filters.dates_published.push(event.date)
+      pickedDates = @$datepicker.datepicker('getDates')
+      @filters.dates_published = [@today].concat(pickedDates)
       @updateArticles()
 
   updateArticles: ->

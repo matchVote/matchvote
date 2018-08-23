@@ -39,7 +39,7 @@ group :development, :test do
   gem "faker", "~> 1.9.1"
   gem "flamegraph", "~> 0.1.0"
   gem "rails_db_info", "~> 0.2"
-  gem "rack-mini-profiler", "~> 0.10.1"
+  gem "rack-mini-profiler", "~> 0.10.7"
   gem "spring", "~> 1.3.3"
   gem "spring-commands-rspec", "~> 1.0.4"
   gem "stackprof", "~> 0.2.7"

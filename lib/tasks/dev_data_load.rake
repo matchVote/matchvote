@@ -17,13 +17,15 @@ namespace :dev do
       Article.destroy_all
       Comment.destroy_all
 
+      publishers = 20.times.map(&-> (_){ Faker::Company.name })
+
       rep_pool = Representative.take(15)
       ARTICLE_COUNT.times do
         Article.create(
           url: Faker::Internet.url,
           title: Faker::Lorem.sentence,
           authors: [Faker::WorldOfWarcraft.hero, Faker::Lebowski.character],
-          publisher: Faker::Company.name,
+          publisher: publishers[Random.rand(publishers.size)],
           date_published: DateTime.now,
           keywords: Faker::Coffee.notes.split(', '),
           summary: Faker::Lorem.paragraph(20),
