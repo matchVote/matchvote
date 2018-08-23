@@ -52,7 +52,7 @@ class NewsFeedPresenter
 
   formatDays: (dates) ->
     days = ("#{month[0]} #{month[1].join(', ')}" for month in dates[2018])
-    days.join(', ') + ' 2018'
+    days.join(', ') + ', 2018'
 
   executeAjaxRequest: (url, articles_callback) ->
     $.ajax
