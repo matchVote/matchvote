@@ -9,7 +9,7 @@ class RepresentativesController < ApplicationController
       .includes(:comments)
       .where("articles_representatives.representative_id = '#{@rep.id}'")
       .order(date_published: :desc)
-      .limit(3)
+      .limit(5)
       .map(&ArticlePresenter)
   end
 
