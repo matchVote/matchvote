@@ -40,7 +40,7 @@ class ArticlesController < ApplicationController
     stats = {
       selected_dates: ArticlesHelper.format_dates(dates),
       article_count: articles.count,
-      publisher_count: articles.select(:publisher).distinct.count
+      publisher_count: articles.pluck(:publisher).uniq.count
     }
     articles_view = filtering_followed_but_not_following? ? 'not_following' : 'api_index'
     render json: {
