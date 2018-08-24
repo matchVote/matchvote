@@ -5,10 +5,12 @@
     .newscard.fade-in{id: @article.id}
       .row
         .btn-group-vertical.news-vote-btn.pull-right
-          .newsworthiness-increase.btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title: "Newsworthy", class: @article.newsworthiness_classes('increase', current_user) }
+          .newsworthiness-increase.btn.btn-lg.glyphicon.glyphicon-circle-arrow-up{title: "Newsworthy",
+            class: @article.newsworthiness_classes('increase', current_user) }
           .news-vote-count= @article.newsworthiness_count
           %h6 Newsworthy
-          .newsworthiness-decrease.btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title: "Not Newsworthy", class: @article.newsworthiness_classes('decrease', current_user) }
+          .newsworthiness-decrease.btn.btn-lg.glyphicon.glyphicon-circle-arrow-down{title: "Not Newsworthy",
+            class: @article.newsworthiness_classes('decrease', current_user) }
         .news-title
           = link_to @article.url, target: "_blank" do
             %h3= @article.title
@@ -55,11 +57,13 @@
                     data: { ctbl_id: @article.id, ctbl_type: "Article" }}
                   %span.comment-box-error{style: "display:none"} Comment textbox cannot be blank
               .col-md-1
-                .btn.btn-sm.btn-primary.submit-comment{data: { account_type: current_user.account_type,
-                  ctbl_id: @article.id, ctbl_type: "Article", user_id: current_user.id }}
-                  - if !current_user
-                    Login
-                  - else
+                - if !current_user
+                  = link_to root_path do
+                    .btn.btn-sm.btn-primary.submit-comment
+                      Login
+                - else
+                  .btn.btn-sm.btn-primary.submit-comment{data: { account_type: current_user.account_type,
+                    ctbl_id: @article.id, ctbl_type: "Article", user_id: current_user.id }}
                     = image_tag current_user.profile_pic_url, title: "@#{current_user.username}"
                     Submit
               .col-md-5
@@ -78,8 +82,6 @@
               %strong
                 %span.comment-count= @article.comments.size
                 Comments
-            %li
-              Comments will be locked in 45 hours
             %li
               %select.form-control.signup-field.sort-comments
                 %option{value: "created_at"} Sort by Newest

@@ -69,7 +69,11 @@ class @ArticleController
         callback($arrowButton)
         @voteLocked = false
       error: (xhr) =>
-        @voteLocked = false
+        if xhr.status = 401
+          console.log('Unauthorized')
+          window.location = '/'
+        else
+          @voteLocked = false
 
   calculateCount: (type, currentCount) ->
     if type is 'increase'
@@ -91,7 +95,11 @@ class @ArticleController
             button.removeClass("label-info")
             button.addClass("btn-default")
         error: (xhr) =>
-          console.log('Err')
+          if xhr.status == 401
+            console.log('Unauthorized')
+            window.location = '/'
+          else
+            console.log('Err', xhr)
 
   showComments: ->
     $(@root).on "click", ".show-comments", (event) =>
@@ -122,7 +130,11 @@ class @ArticleController
           $button.addClass("nohover")
           $poll.fadeOut(3000, -> $poll.remove())
         error: (xhr) =>
-          console.log('Failed to create poll')
+          if xhr.status == 401
+            console.log('Unauthorized')
+            window.location = '/'
+          else
+            console.log('Failed to create poll')
 
   shareArticle: ->
     $(@root).on "click", ".share-article", (event) =>

@@ -4,6 +4,8 @@ require_dependency "#{Rails.root}/lib/articles/article_collection"
 class ArticlesController < ApplicationController
   include ArticleCollection
 
+  skip_before_action :authenticate_user!, only: [:show]
+
   COMMENT_LIMIT = 5
   REPLY_LIMIT = 4
   PER_PAGE = 10

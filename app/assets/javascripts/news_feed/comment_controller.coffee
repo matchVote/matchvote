@@ -80,8 +80,12 @@ class @CommentController
               @closeReplyBox(ctblID, $button)
               @addReply(html, ctblID)
               @updateDisplayRepliesButton(ctblID)
-          error: ->
-            console.log("Comment submission error")
+          error: (xhr) ->
+            if xhr.status == 401
+              console.log("Unauthorized")
+              window.location = "/"
+            else
+              console.log("Comment submission error")
       else
         console.log("Textbox empty")
         $commentBox.siblings(".comment-box-error").show()
@@ -151,7 +155,12 @@ class @CommentController
             $button.addClass("btn-default")
             count -= 1
           $button.html(count + @glyphiconHeart)
-        error: -> console.log("No likey!")
+        error: (xhr) ->
+          if xhr.status == 401
+            console.log("Unauthorized")
+            window.location = "/"
+          else
+            console.log("No likey!")
 
   reportComment: ->
     @eventHandlerElement.on "click", ".report-comment", (event) =>
@@ -169,8 +178,12 @@ class @CommentController
           order: $selectBox.val()
         success: (html) ->
           $(".comments-list[data-article-id=#{articleID}]").html(html)
-        error: ->
-          console.log("some shit happened with the sort!")
+        error: (xhr) ->
+          if xhr.status == 401
+            console.log("Unauthorized")
+            window.location = "/"
+          else
+            console.log("some shit happened with the sort!")
 
   createReplyButtonClick: ->
     @eventHandlerElement.on "click", ".create-reply", (event) =>
