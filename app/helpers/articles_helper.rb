@@ -11,6 +11,7 @@ module ArticlesHelper
   end
 
   def self.format_dates(dates)
+    return if dates.empty?
     years = Hash.new { |hash, key| hash[key] = [] }
     dates.sort.reduce(years) do |hash, date|
       months = hash[date.year]

@@ -32,27 +32,32 @@ class NewsFeedPresenter
       @filters.dates_published = [@today].concat(pickedDates)
       @updateArticles()
 
-  updateArticles: ->
+  updateArticles: (refreshMostMentioned = true) ->
     @$articleList.html('')
-    @$mostMentions.html('')
+    if refreshMostMentioned
+      @$mostMentions.html('')
+      delete @filters.rep
     $('.spinner').show()
     @executeAjaxRequest @articlesIndex, (response) =>
       @$articleList.html(response.articles)
       @updateStats(response.stats)
-      @$mostMentions.html(response.most_mentions)
+      @$mostMentions.html(response.most_mentions) if refreshMostMentioned
 
   updateStats: (stats) ->
     days = @formatDays(stats.selected_dates)
     $('.selected-dates').text(days)
-    $('#stats-selected-dates').text(days)
+    datesText = if days then "for #{days}" else ''
+    $('#stats-selected-dates').text(datesText)
     $('#stats-article-count').text(stats.article_count)
     count = stats.publisher_count
     text = if count == 1 then "1 source" else "#{count} sources"
     $('#publishers-link').text(text)
 
   formatDays: (dates) ->
-    days = ("#{month[0]} #{month[1].join(', ')}" for month in dates[2018])
-    days.join(', ') + ', 2018'
+    if dates
+      days = ("#{month[0]} #{month[1].join(', ')}" for month in dates[2018])
+      return days.join(', ') + ', 2018'
+    ''
 
   executeAjaxRequest: (url, articles_callback) ->
     $.ajax
@@ -99,9 +104,6 @@ class NewsFeedPresenter
 
   filterBookmarks: ->
     @$filterBookmarksButton.click =>
-      if $('.glyphicon-log-in').length
-        @sign_in_alert()
-        return
       if 'bookmarks' of @filters
         @$filterBookmarksButton.addClass('btn-default')
         @$filterBookmarksButton.removeClass('label-info')
@@ -111,16 +113,6 @@ class NewsFeedPresenter
         @$filterBookmarksButton.removeClass('btn-default')
         @filters.bookmarks = true
       @updateArticles()
-
-  sign_in_alert: ->
-    sweetAlert {
-      title: 'Not signed in',
-      text: 'You must sign in or create an account to do that.',
-      type: 'warning',
-      confirmButtonText: 'Login or Create Account',
-      showCancelButton: true,
-      cancelButtonText: 'Cancel',
-    }, () => window.location.href = @sign_in_path
 
   browseYesterday: ->
     $('#browse-yesterday').click =>
@@ -135,8 +127,19 @@ class NewsFeedPresenter
 
   filterMostMentionedRep: ->
     $('#most-mentions').on 'click', '.mention_pic', (event) =>
-      repID = $(event.target).data('rep-id')
-      @filters.rep = repID
-      delete @filters.followed
-      @updateArticles()
+      selected = $(event.target)
+      selected.parent().removeClass('faded')
+      repID = selected.data('rep-id')
+      if @filters.rep == repID
+        $('#most-mentions .col').each (_, elem) ->
+          $(elem).removeClass('faded')
+        delete @filters.rep
+      else
+        $('#most-mentions .col').each (_, elem) ->
+          rep = $(elem)
+          id = rep.children('.mention_pic').first().data('rep-id')
+          rep.addClass('faded') unless id == repID
+        @filters.rep = repID
+        delete @filters.followed
+      @updateArticles(false)
 
