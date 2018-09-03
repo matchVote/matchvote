@@ -18,6 +18,10 @@ class ArticlesController < ApplicationController
       .includes(:bookmarks, :user_article_changes, :article_representatives)
       .where(date_published: Time.zone.now.beginning_of_day...Time.zone.now.end_of_day)
       .order(newsworthiness_count: :desc)
+    if params[:rep]
+      rep = Representative.find_by(slug: params[:rep])
+      articles = articles.where(articles_representatives: { representative_id: rep.id })
+    end
     @article_count = articles.count
     @publisher_count = articles.select(:publisher).distinct.count
     @articles = articles

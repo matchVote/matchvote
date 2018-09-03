@@ -30,8 +30,8 @@
         %h2 Recent News
       .col-md-4
         %br
-        .btn.btn-sm.btn-link
-          Find more news about #{@rep.full_name}
+        = link_to "Find more news about #{@rep.full_name}", news_path(rep: @rep.slug),
+          class: 'btn btn-sm btn-link'
     #truncated-articles
       - @recent_articles.each do |article|
         = render 'truncated_article',
