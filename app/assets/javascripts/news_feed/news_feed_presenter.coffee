@@ -23,6 +23,7 @@ class NewsFeedPresenter
     @filterBookmarks()
     @filterMostMentionedRep()
     @browseYesterday()
+    @addFilterButtonClick()
 
   initializeDatepicker: ->
     @$datepicker.datepicker
@@ -142,4 +143,8 @@ class NewsFeedPresenter
         @filters.rep = repID
         delete @filters.followed
       @updateArticles(false)
+
+  addFilterButtonClick: ->
+    $('#add-filter').click (event) =>
+      swal 'Under Development', "We're currently working to implement this feature."
 

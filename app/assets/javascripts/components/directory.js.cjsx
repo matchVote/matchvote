@@ -33,7 +33,7 @@
               <span className="glyphicon glyphicon-minus-sign"></span>
               &nbsp;In Office
             </a>
-            <a className="btn btn-danger pull-right">
+            <a className="btn btn-danger pull-right" onClick={@underDevelopment}>
               <span className="glyphicon glyphicon-plus-sign"></span>
               &nbsp;Add Filter
             </a>
@@ -82,3 +82,6 @@
 
   paginate: (reps, multiplier) ->
     reps.slice(0, @increment * multiplier)
+
+  underDevelopment: ->
+    swal 'Under Development', "We're currently working to implement this feature."
