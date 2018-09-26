@@ -65,9 +65,9 @@ class NewsFeedPresenter
       data:
         sort: @sort
         filters: @filters
-      success: (articles_html) =>
+      success: (data) =>
         $('.spinner').hide()
-        articles_callback(articles_html)
+        articles_callback(data.articles)
         @isPaginating = false
       error: (xhr, status, error) ->
         console.log("Fail -- status: #{status}; error #{error}")
@@ -78,9 +78,9 @@ class NewsFeedPresenter
       if url and @isHalfwayThroughList() and not @isPaginating
         @isPaginating = true
         $('.spinner').show()
-        @executeAjaxRequest url, (res) =>
+        @executeAjaxRequest url, (articles_html) =>
           $('.pagination').remove()
-          @$articleList.append(res.html)
+          @$articleList.append(articles_html)
 
   isHalfwayThroughList: ->
     $(window).scrollTop() > $(document).height() / 2
