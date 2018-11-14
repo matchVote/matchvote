@@ -43,16 +43,15 @@ class ArticlesController < ApplicationController
       .most_mentioned(articles)
       .map(&RepresentativePresenter)
     dates = articles.map(&:date_published)
-    stats = {
-      selected_dates: ArticlesHelper.format_dates(dates),
-      article_count: articles.count,
-      publisher_count: articles.pluck(:publisher).uniq.count
-    }
     articles_view = filtering_followed_but_not_following? ? 'not_following' : 'api_index'
     render json: {
       articles: view_context.render(articles_view),
       most_mentions: view_context.render('most_mentions'),
-      stats: stats
+      stats: {
+        selected_dates: ArticlesHelper.format_dates(dates),
+        article_count: articles.count,
+        publisher_count: articles.pluck(:publisher).uniq.count
+      }
     }
   end
 
