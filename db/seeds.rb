@@ -5,14 +5,8 @@
 
 if Rails.env.development?
   print "Populating database for development..."
-
-  # Quick rep load
-  pg_dump = Rails.root.join("db/data/rep_seeds_6-20-17.dump")
-  db = Rails.configuration.database_configuration['development']
-  conn = "#{db['database']} -h #{db['host']} -p #{db['port']} -U #{db['username']}"
-  `psql #{conn} < #{pg_dump}`
-
   Rake::Task["app:import_stance_data"].invoke
+  Rake::Task["reps:import_default_data"].invoke
   Rake::Task["dev:create_users"].invoke
   Rake::Task["dev:reset_articles"].invoke
   puts "Done!"

@@ -64,7 +64,7 @@ class LegislatorsDataCompiler
           govtrack_id: rep_data["id"]["govtrack"],
           opensecrets_id: rep_data["id"]["opensecrets"],
           votesmart_id: rep_data["id"]["votesmart"],
-          fec_ids: rep_data["id"]["fec"].join(","),
+          fec_ids: rep_data["id"].fetch("fec", []).join(","),
           cspan_id: rep_data["id"]["cspan"],
           wikipedia_id: find_wikipedia_search_string,
           house_history_id: rep_data["id"]["house_history"],
