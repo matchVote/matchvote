@@ -1,4 +1,6 @@
 class CommentsController < ApplicationController
+  skip_before_action :authenticate_user!, only: [:index_for_article]
+
   def create
     if reply_level < ArticlesController::REPLY_LIMIT
       comment = Comment.create!(

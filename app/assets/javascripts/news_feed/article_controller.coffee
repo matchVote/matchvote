@@ -3,6 +3,16 @@ $(document).on "page:change", =>
   new @ArticleController('#article-list')
 
 class @ArticleController
+  @signInAlert: ->
+    sweetAlert {
+      title: 'Not signed in'
+      text: 'You must sign in or create an account to do that.'
+      type: 'warning'
+      confirmButtonText: 'Login or Create Account'
+      showCancelButton: true
+      cancelButtonText: 'Cancel'
+    }, () => window.location.href = '/citizens/sign_in'
+
   constructor: (@root) ->
     @bindEvents()
     @voteLocked = false
@@ -70,10 +80,10 @@ class @ArticleController
         @voteLocked = false
       error: (xhr) =>
         if xhr.status = 401
-          console.log('Unauthorized')
-          window.location = '/'
-        else
+          ArticleController.signInAlert()
           @voteLocked = false
+        else
+          console.log('Err', xhr)
 
   calculateCount: (type, currentCount) ->
     if type is 'increase'
@@ -96,8 +106,7 @@ class @ArticleController
             button.addClass("btn-default")
         error: (xhr) =>
           if xhr.status == 401
-            console.log('Unauthorized')
-            window.location = '/'
+            ArticleController.signInAlert()
           else
             console.log('Err', xhr)
 
@@ -131,8 +140,7 @@ class @ArticleController
           $poll.fadeOut(3000, -> $poll.remove())
         error: (xhr) =>
           if xhr.status == 401
-            console.log('Unauthorized')
-            window.location = '/'
+            ArticleController.signInAlert()
           else
             console.log('Failed to create poll')
 

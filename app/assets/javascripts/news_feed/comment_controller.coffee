@@ -80,10 +80,9 @@ class @CommentController
               @closeReplyBox(ctblID, $button)
               @addReply(html, ctblID)
               @updateDisplayRepliesButton(ctblID)
-          error: (xhr) ->
+          error: (xhr) =>
             if xhr.status == 401
-              console.log("Unauthorized")
-              window.location = "/"
+              ArticleController.signInAlert()
             else
               console.log("Comment submission error")
       else
@@ -157,8 +156,7 @@ class @CommentController
           $button.html(count + @glyphiconHeart)
         error: (xhr) ->
           if xhr.status == 401
-            console.log("Unauthorized")
-            window.location = "/"
+            ArticleController.signInAlert()
           else
             console.log("No likey!")
 
