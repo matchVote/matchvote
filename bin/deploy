@@ -16,7 +16,7 @@ TARGET_IMAGE=788332838494.dkr.ecr.$REGION.amazonaws.com/matchvote-fargate:$VERSI
 SOURCE_IMAGE=matchvote:$VERSION
 
 # Login to AWS EC2 Container Registry
-$(aws ecr get-login --no-include-email)
+$(aws --profile mv ecr get-login --no-include-email)
 
 echo "Building image..."
 docker build -t $SOURCE_IMAGE .
