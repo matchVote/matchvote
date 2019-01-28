@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180503025825) do
+ActiveRecord::Schema.define(version: 20190128102527) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -146,33 +146,35 @@ ActiveRecord::Schema.define(version: 20180503025825) do
   add_index "relationships", ["follower_id"], name: "index_relationships_on_follower_id", using: :btree
 
   create_table "representatives", id: :uuid, default: "uuid_generate_v4()", force: :cascade do |t|
-    t.text    "bioguide_id"
-    t.text    "title"
-    t.text    "first_name",                               null: false
-    t.text    "last_name",                                null: false
-    t.text    "middle_name"
-    t.text    "suffix"
-    t.text    "official_full_name"
-    t.text    "nickname"
-    t.text    "birthday"
-    t.text    "gender"
-    t.text    "orientation"
-    t.text    "government_role"
-    t.text    "state"
-    t.text    "state_rank"
-    t.text    "district"
-    t.text    "party"
-    t.text    "branch"
-    t.text    "religion"
-    t.text    "status"
-    t.boolean "verified"
-    t.text    "profile_image_url"
-    t.text    "slug",                                     null: false
-    t.text    "biography"
-    t.integer "user_id"
-    t.integer "name_recognition",   limit: 8, default: 0
-    t.text    "seniority_date"
-    t.text    "office"
+    t.text     "bioguide_id"
+    t.text     "title"
+    t.text     "first_name",                               null: false
+    t.text     "last_name",                                null: false
+    t.text     "middle_name"
+    t.text     "suffix"
+    t.text     "official_full_name"
+    t.text     "nickname"
+    t.text     "birthday"
+    t.text     "gender"
+    t.text     "orientation"
+    t.text     "government_role"
+    t.text     "state"
+    t.text     "state_rank"
+    t.text     "district"
+    t.text     "party"
+    t.text     "branch"
+    t.text     "religion"
+    t.text     "status"
+    t.boolean  "verified"
+    t.text     "profile_image_url"
+    t.text     "slug",                                     null: false
+    t.text     "biography"
+    t.integer  "user_id"
+    t.integer  "name_recognition",   limit: 8, default: 0
+    t.text     "seniority_date"
+    t.text     "office"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   add_index "representatives", ["first_name", "last_name"], name: "index_representatives_on_first_name_and_last_name", using: :btree
