@@ -14,13 +14,13 @@ environment:
 government:
   - must_have:
     cant_have:
-    should_have: "government", "congress", "senate", "executive branch", "legislation", "law", "administration", "politics", "political science", "democracy", "constitution", "constitutional"
+    should_have: "government", "congress", "senate", "executive branch", "legislation", "law", "administration", "politics", "political science", "democracy", "constitution", "constitutional", "socialism", "socialist", "democrat", "republican"
 
 # - category: Foreign Policy
 foreign_policy:
   - must_have:
     cant_have:
-    should_have: "foreign policy", "foreign aid", "state Department", "globalization", "embassy"
+    should_have: "foreign policy", "foreign aid", "state department", "globalization", "embassy"
 
 # - category: Trade
 trade:
@@ -50,7 +50,7 @@ defense:
 healthcare:
   - must_have:
     cant_have:
-    should_have: "health", "healthcare", "affordable care act", "obamacare", "health insurance", "single payer", "private insurance", "medical coverage", "healthcare companies", "medical cost", "medical", "unitedhealth group", "wellpoint", "humana", "aetna", "cigna health", "blue cross blue shield"
+    should_have: "health", "healthcare", "affordable care act", "obamacare", "health insurance", "single payer", "private insurance", "medical coverage", "healthcare companies", "medical cost", "medical", "unitedhealth group", "wellpoint", "humana", "aetna", "cigna", "blue cross blue shield"
 
 # - category: Abortion
 abortion:
@@ -62,7 +62,7 @@ abortion:
 individual_rights:
   - must_have:
     cant_have:
-    should_have: "individual rights", "society", "lgbt rights", "adoption", "gay rights", "disenfranchisement", "marriage"
+    should_have: "individual rights", "society", "lgbt rights", "adoption", "gay rights", "disenfranchisement", "marriage", "civil rights", "racism", "racist"
 
 # - category: Gun Laws
 gun_control:
@@ -74,34 +74,34 @@ gun_control:
 drug_laws:
   - must_have:
     cant_have:
-    should_have: "illegal drug", "illegal drugs", "cannabis", "marijuana", "cocaine", "heroin", "overdose", "drug overdose", "fentanyl", "opiod", "opiod addiction", "drug addiction", "drug addict", "meth", "methamphetamine", "smoking"
+    should_have: "illegal drug", "illegal drugs", "cannabis", "marijuana", "cocaine", "heroin", "overdose", "drug overdose", "fentanyl", "opiod", "opiod addiction", "drug addiction", "drug addict", "meth", "methamphetamine", "smoking", "mdma", "mushrooms", "psilocybin", "morphine", "psychadelics", "lsd"
 
 # - category: Economy
 economy:
   - must_have:
     cant_have:
-    should_have: "economy", "stock market", "business", "fortune 500", "economic growth", "return on investment", "deregulation", "finance", "gdp", "recession", "downturn", "fiscal", "globalization", "capitalism"
+    should_have: "economy", "stock market", "business", "fortune 500", "economic", "return on investment", "deregulation", "finance", "gdp", "recession", "downturn", "fiscal", "globalization", "capitalism"
 
 # - category: Taxes
 taxes:
   - must_have:
     cant_have:
-    should_have: "tax", "taxes", "irs", "income tax", "estate tax", "property tax", "economics", "sales tax"
+    should_have: "tax", "taxes", "irs", "income tax", "estate tax", "property tax", "economics", "sales tax", "tariff"
 
 # - category: Immigration
 immigration:
   - must_have:
     cant_have:
-    should_have: "immigration", "immigrants", "green card", "border security", "deport", "work visa", "deportation", "migrant labor", "naturalization", "citizenship", "mexico border", "muslim ban"
+    should_have: "immigration", "immigrants", "green card", "border security", "deport", "work visa", "deportation", "migrant labor", "naturalization", "citizenship", "mexico border", "muslim ban", "border wall"
 
 # - category: Education
 education:
   - must_have:
     cant_have:
-    should_have: "education", "school", "charter school", "teacher", "common core"
+    should_have: "education", "school", "charter school", "teacher", "common core", "curriculum", "university", "college", "tuition", "scholarship", "graduate", "student", "academic"
 
 # - category: Philosophy
 philosophy:
   - must_have:
     cant_have:
-    should_have: "religion"
+    should_have: "religion", "free speech", "personal belief", "ethics", "christian", "christianity", "bible", "jew", "judaism", "islam", "muslim", "atheism", "atheist", "hindu", "hinduism", "agnostism", "agnostic", "taoism", "protestant", "catholic", "church"
