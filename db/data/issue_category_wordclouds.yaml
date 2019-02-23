@@ -20,7 +20,7 @@ government:
 foreign_policy:
   - must_have:
     cant_have:
-    should_have: "foreign policy", "foreign aid", "state department", "globalization", "embassy"
+    should_have: "foreign policy", "foreign aid", "state department", "globalization", "embassy", "international", "diplomat", "diplomacy", "superpower", "united nations"
 
 # - category: Trade
 trade:
@@ -32,7 +32,7 @@ trade:
 voting:
   - must_have:
     cant_have:
-    should_have: "vote", "voting", "voter id", "gerrymandering", "get out the vote", "voting laws", "ballot", "poll", "polling", "election", "election law", "rigged election", "electoral", "voter", "voters"
+    should_have: "vote", "voting", "voter id", "gerrymandering", "get out the vote", "voting laws", "ballot", "poll", "polling", "election", "election law", "rigged election", "electoral", "voter", "voters", "voter suppression"
 
 # - category: Society
 society:
@@ -50,13 +50,13 @@ defense:
 healthcare:
   - must_have:
     cant_have:
-    should_have: "health", "healthcare", "affordable care act", "obamacare", "health insurance", "single payer", "private insurance", "medical coverage", "healthcare companies", "medical cost", "medical", "unitedhealth group", "wellpoint", "humana", "aetna", "cigna", "blue cross blue shield"
+    should_have: "health", "healthcare", "affordable care act", "obamacare", "health insurance", "single payer", "private insurance", "medical coverage", "medical", "unitedhealth", "wellpoint", "humana", "aetna", "cigna", "blue cross", "nurse", "doctor", "practitioner", "medicine", "prescription", "pharmacy", "pharmacists", "stem cell"
 
 # - category: Abortion
 abortion:
   - must_have:
     cant_have:
-    should_have: "abortion", "roe vs wade", "roe v wade", "ru 486", "pregnancy", "medical abortion", "abortion rights", "mifeprex"
+    should_have: "abortion", "roe vs wade", "roe v wade", "ru 486", "pregnancy", "pregnant", "mifeprex", "reproductive", "birth", "gestation", "estrogen", "menstration", "miscarriage", "planned parenthood"
 
 # - category: Individual Rights
 individual_rights:
@@ -68,7 +68,7 @@ individual_rights:
 gun_control:
   - must_have:
     cant_have:
-    should_have: "gun", "guns", "gun control", "nra", "assault rifle", "shooting spree", "gunman", "bump stock", "2nd amendment", "second amendment", "school shooting"
+    should_have: "gun", "guns", "gun control", "nra", "assault rifle", "shooting", "gunman", "bump stock", "2nd amendment", "second amendment", "fire arm", "weapon", "weapons", "ammunition", "self defense"
 
 # - category: Drug Laws
 drug_laws:
@@ -86,7 +86,7 @@ economy:
 taxes:
   - must_have:
     cant_have:
-    should_have: "tax", "taxes", "irs", "income tax", "estate tax", "property tax", "economics", "sales tax", "tariff"
+    should_have: "tax", "taxes", "irs", "income tax", "estate tax", "property tax", "economics", "sales tax", "tariff", "internal revenue service"
 
 # - category: Immigration
 immigration:
