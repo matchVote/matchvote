@@ -2,73 +2,73 @@
 energy:
   - must_have:
     cant_have:
-    should_have: "energy", "nuclear", "fossil fuel", "fossil fuels", "coal", "green energy", "renewable", "wind power", "natural gas", "gasoline", "oil"
+    should_have: "energy", "nuclear", "fossil fuel", "fossil fuels", "coal", "green energy", "renewable", "wind power", "natural gas", "gasoline", "oil", "gas"
 
 # - category: Environment
 environment:
   - must_have:
     cant_have:
-    should_have: "environment", "pollution,", "global warming", "epa", "environmental", "climate change", "fracking", "oil spill", "global climate", "climate", "extreme weather", "flood", "earthquake", "flooding", "floods", "ecology", "extinct", "extinction", "endangered species"
+    should_have: "environment", "pollution", "global warming", "epa", "environmental", "climate change", "fracking", "oil spill", "global climate", "climate", "extreme weather", "flood", "earthquake", "flooding", "floods", "ecology", "extinct", "extinction", "endangered species"
 
 # - category: Government
 government:
   - must_have:
     cant_have:
-    should_have: "government", "congress", "senate", "executive branch", "legislation", "law", "administration", "politics", "political science", "democracy", "constitution", "constitutional", "socialism", "socialist", "democrat", "republican"
+    should_have: "government", "congress", "senate", "executive branch", "legislation", "law", "administration", "politics", "political", "democracy", "constitution", "constitutional", "socialism", "socialist", "democrat", "republican", "partisan", "bipartisan", "debt limit"
 
 # - category: Foreign Policy
 foreign_policy:
   - must_have:
     cant_have:
-    should_have: "foreign policy", "foreign aid", "state department", "globalization", "embassy", "international", "diplomat", "diplomacy", "superpower", "united nations"
+    should_have: "foreign policy", "foreign aid", "state department", "embassy", "international", "diplomat", "diplomacy", "superpower", "united nations", "denuclearization", "european union", "humanitarian", "invasion"
 
 # - category: Trade
 trade:
   - must_have:
     cant_have:
-    should_have: "trade", "tariff", "tariffs", "world trade organization", "international trade", "trade war"
+    should_have: "trade", "tariff", "tariffs"
 
 # - category: Voting
 voting:
   - must_have:
     cant_have:
-    should_have: "vote", "voting", "voter id", "gerrymandering", "get out the vote", "voting laws", "ballot", "poll", "polling", "election", "election law", "rigged election", "electoral", "voter", "voters", "voter suppression"
+    should_have: "vote", "voting", "voter id", "gerrymander", "ballot", "poll", "polling", "election", "elections", "electoral", "voter", "voters", "campaign", "rally"
 
 # - category: Society
 society:
   - must_have:
     cant_have:
-    should_have: "society", "free speech", "first amendment", "freedom of the press", "police", "freedom", "prison", "religion", "democracy", "community", "politics"
+    should_have: "society", "free speech", "first amendment", "police", "freedom", "prison", "religion", "democracy", "community", "politics", "prison", "reform"
 
 # - category: Defense
 defense:
   - must_have:
     cant_have:
-    should_have: "defense", "dept of defense", "military", "navy", "army", "marines", "air force", "war", "lockheed", "boeing", "raytheon", "general dynamics", "northrop grumman", "bae systems", "national security", "homeland security", "terrorist", "terrorists", "bombing", "drone", "drones", "surveillance", "civil war", "military action", "peace"
+    should_have: "defense", "military", "navy", "army", "marines", "air force", "war", "lockheed", "boeing", "raytheon", "general dynamics", "northrop grumman", "bae systems", "national security", "homeland security", "terrorist", "terrorists", "bombing", "drone", "drones", "surveillance", "peace", "denuclearization"
 
 # - category: Healthcare
 healthcare:
   - must_have:
     cant_have:
-    should_have: "health", "healthcare", "affordable care act", "obamacare", "health insurance", "single payer", "private insurance", "medical coverage", "medical", "unitedhealth", "wellpoint", "humana", "aetna", "cigna", "blue cross", "nurse", "doctor", "practitioner", "medicine", "prescription", "pharmacy", "pharmacists", "stem cell"
+    should_have: "health", "healthcare", "affordable care act", "obamacare", "health insurance", "single payer", "private insurance", "medical coverage", "medical", "unitedhealth", "wellpoint", "humana", "aetna", "cigna", "blue cross", "nurse", "doctor", "doctors", "practitioner", "medicine", "prescription", "pharmacy", "pharmacist", "pharmacists", "stem cell"
 
 # - category: Abortion
 abortion:
   - must_have:
     cant_have:
-    should_have: "abortion", "roe vs wade", "roe v wade", "ru 486", "pregnancy", "pregnant", "mifeprex", "reproductive", "birth", "gestation", "estrogen", "menstration", "miscarriage", "planned parenthood"
+    should_have: "abortion", "roe vs wade", "roe v wade", "ru 486", "pregnancy", "pregnant", "mifeprex", "reproductive", "birth", "gestation", "estrogen", "menstration", "miscarriage", "planned parenthood", "pregnancies", "obstetrician", "trimester"
 
 # - category: Individual Rights
 individual_rights:
   - must_have:
     cant_have:
-    should_have: "individual rights", "society", "lgbt rights", "adoption", "gay rights", "disenfranchisement", "marriage", "civil rights", "racism", "racist"
+    should_have: "individual rights", "society", "lgbt rights", "adoption", "gay rights", "disenfranchisement", "marriage", "civil rights", "racism", "racist", "discrimination", "sexism", "consent"
 
 # - category: Gun Laws
 gun_control:
   - must_have:
     cant_have:
-    should_have: "gun", "guns", "gun control", "nra", "assault rifle", "shooting", "gunman", "bump stock", "2nd amendment", "second amendment", "fire arm", "weapon", "weapons", "ammunition", "self defense"
+    should_have: "gun", "guns", "gun control", "nra", "rifle", "shooting", "gunman", "bump stock", "2nd amendment", "second amendment", "fire arm", "weapon", "weapons", "ammunition", "self defense"
 
 # - category: Drug Laws
 drug_laws:
@@ -80,28 +80,28 @@ drug_laws:
 economy:
   - must_have:
     cant_have:
-    should_have: "economy", "stock market", "business", "fortune 500", "economic", "return on investment", "deregulation", "finance", "gdp", "recession", "downturn", "fiscal", "globalization", "capitalism"
+    should_have: "economy", "stock market", "business", "fortune 500", "economic", "return on investment", "deregulation", "financal", "gdp", "recession", "downturn", "fiscal", "globalization", "capitalism", "stocks", "infrastructure"
 
 # - category: Taxes
 taxes:
   - must_have:
     cant_have:
-    should_have: "tax", "taxes", "irs", "income tax", "estate tax", "property tax", "economics", "sales tax", "tariff", "internal revenue service"
-
+    should_have: "tax", "taxes", "irs", "income tax", "estate tax", "property tax", "sales tax", "internal revenue service"
+    
 # - category: Immigration
 immigration:
   - must_have:
     cant_have:
-    should_have: "immigration", "immigrants", "green card", "border security", "deport", "work visa", "deportation", "migrant labor", "naturalization", "citizenship", "mexico border", "muslim ban", "border wall"
+    should_have: "immigration", "immigrants", "green card", "border security", "deport", "visa", "deportation", "migrant", "naturalization", "citizenship", "mexico border", "muslim ban", "border wall"
 
 # - category: Education
 education:
   - must_have:
     cant_have:
-    should_have: "education", "school", "charter school", "teacher", "common core", "curriculum", "university", "college", "tuition", "scholarship", "graduate", "student", "academic"
+    should_have: "education", "school", "charter", "teacher", "common core", "curriculum", "university", "college", "tuition", "scholarship", "graduate", "student", "academy", "academic"
 
 # - category: Philosophy
 philosophy:
   - must_have:
     cant_have:
-    should_have: "religion", "free speech", "personal belief", "ethics", "christian", "christianity", "bible", "jew", "judaism", "islam", "muslim", "atheism", "atheist", "hindu", "hinduism", "agnostism", "agnostic", "taoism", "protestant", "catholic", "church"
+    should_have: "religion", "religous", "free speech", "ethics", "christian", "christianity", "bible", "jew", "judaism", "islam", "muslim", "atheism", "atheist", "hindu", "hinduism", "agnostism", "agnostic", "taoism", "protestant", "catholic", "church", "patriotic"
