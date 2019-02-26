@@ -6,6 +6,10 @@ energy:
     lean: conservative
   - statement: The United States should support coal and other fossil fuel sources.
     lean: conservative
+  - statement: The United States is too dependent on the Middle East for energy.
+    lean: liberal
+  - statement: The automobile industry should move away from combustion engines.
+    lean: liberal
 
 # - category: Environment
 environment:
@@ -106,6 +110,8 @@ society:
     lean: liberal
   - statement: The United States needs more high speed rail to promote travel and commutes.
     lean: liberal
+  - statement: Laws are necessary to keep order in society.
+    lean: conservative
 
 # - category: Defense
 defense:
@@ -280,7 +286,15 @@ education:
 philosophy:
   - statement: Evolution is scientific fact.
     lean: liberal
-  - statement: I believe in life after death.
+  - statement: Life after death exists.
     lean: conservative
   - statement: Christianity should be the official religion of the United States.
     lean: conservative
+  - statement: God ultimately determines right from wrong.
+    lean: conservative
+  - statement: Religion has too much influence on society and government.
+    lean: liberal
+  - statement: Killing one person to save two people is ethically justified.
+    lean: conservative
+  - statement: People should be willing to give up some privacy for increased safety.
+    lean: liberal
