@@ -4,6 +4,8 @@ energy:
     lean: liberal
   - statement: "Fossil fuels are a necessary part of the United States' energy mix."
     lean: conservative
+  - statement: The United States should support coal and other fossil fuel sources.
+    lean: conservative
 
 # - category: Environment
 environment:
@@ -11,6 +13,14 @@ environment:
     lean: liberal
   - statement: Businesses generally take the environment into account, so regulations are not necessary.
     lean: conservative
+  - statement: The United States should allow more offshore drilling for oil.
+    lean: conservative
+  - statement: The United States should promote renewable energy by increasing taxes on environmentally damaging energy sources.
+    lean: liberal
+  - statement: All disposable products should be required to be made from biodegradable materials.
+    lean: liberal
+  - statement: Genetically modified foods should be banned.
+    lean: liberal
 
 # - category: Government
 government:
@@ -20,6 +30,10 @@ government:
     lean: liberal
   - statement: State governments should have equal or more power than the federal government.
     lean: conservative
+  - statement: Members of Congress should have term limits, like the Presidency.
+    lean: liberal
+  - statement: Federal representatives should be prevented from becoming lobbyists following their term.
+    lean: liberal
 
 # - category: Foreign Policy
 foreign_policy:
@@ -34,7 +48,7 @@ foreign_policy:
 
 # - category: Trade
 trade:
-  - statement: The United States should remove as many taxes as possible because they slow trade.
+  - statement: The United States should remove as many tariffs as possible because they slow trade.
     lean: conservative
   - statement: Easing international trade policies leads to greater unemployment within the United States.
     lean: liberal
@@ -72,6 +86,26 @@ society:
     lean: conservative
   - statement: Burning the American flag is protected under free speech.
     lean: liberal
+  - statement: Business owners should be required to do business with all customers even if they disagree with their beliefs.
+    lean: liberal
+  - statement: The use of the death penalty is important to create justice.
+    lean: conservative
+  - statement: The Confederate flag should be allowed on government buildings and property.
+    lean: conservative
+  - statement: The Confederate flag is a symbol of racism.
+    lean: liberal
+  - statement: Conservative news sources produce more fake news.
+    lean: liberal
+  - statement: Liberal news sources produce more fake news.
+    lean: conservative
+  - statement: The United States should have programs to help minorities who were treated unfairly in the past.
+    lean: liberal
+  - statement: The government should be allowed to mandate private property for public or civic use, with appropriate payment.
+    lean: liberal
+  - statement: The federal goverment should spend more on infrastructure.
+    lean: liberal
+  - statement: The United States needs more high speed rail to promote travel and commutes.
+    lean: liberal
 
 # - category: Defense
 defense:
@@ -80,6 +114,10 @@ defense:
   - statement: Service in the military should be completely voluntary. There is never justification for a draft.
     lean: liberal
   - statement: It is sometimes justified to torture, if it helps increase our national security.
+    lean: conservative
+  - statement: The United States should end its use of drones.
+    lean: liberal
+  - statement: Women should not be allowed to serve in combat roles in the military.
     lean: conservative
 
 # - category: Healthcare
@@ -98,6 +136,14 @@ healthcare:
     lean: liberal
   - statement: Euthanasia is never morally permissible, even if the patient is terminally ill.
     lean: conservative
+  - statement: Health insurance providers should be required to provide free birth control.
+    lean: liberal
+  - statement: A person on life support should be able to choose to end that support, if mentally capable.
+    lean: liberal
+  - statement: The United States should provide more free mental health services.
+    lean: liberal
+  - statement: Citizens should have the same healthcare that is provided to members of Congress.
+    lean: liberal
 
 # - category: Abortion
 abortion:
@@ -108,6 +154,8 @@ abortion:
   - statement: The government should continue to fund Planned Parenthood.
     lean: liberal
   - statement: Roe vs. Wade should be immediately overturned.
+    lean: conservative
+  - statement: Abortion is wrong, but the government doesn't have the right to ban it.
     lean: conservative
 
 # - category: Individual Rights
@@ -120,6 +168,12 @@ individual_rights:
     lean: conservative
   - statement: Gay and lesbian couples should be allowed to adopt children.
     lean: liberal
+  - statement: A spouse cannot be raped by their spouse, because marriage eases the rules of consent.
+    lean: conservative
+  - statement: The government should do more to insure diversity in private businesses.
+    lean: liberal
+  - statement: Sexism isn't really a problem in the United States.
+    lean: conservative
 
 # - category: Gun Laws
 gun_control:
@@ -129,6 +183,10 @@ gun_control:
     lean: conservative
   - statement: Teachers should be allowed to carry guns in schools, if properly trained.
     lean: conservative
+  - statement: More psychological tests should be performed before gun ownership.
+    lean: liberal
+  - statement: People on the no-fly list should not be allowed to purchase guns or ammunition.
+    lean: liberal
 
 # - category: Drug Laws
 drug_laws:
@@ -140,16 +198,27 @@ drug_laws:
     lean: conservative
   - statement: Generally speaking, drugs should be decriminalized.
     lean: liberal
-  - statement: Drug traffickers should receive the death penalty.
+  - statement: Drug traffickers should receive more severe penalties.
     lean: conservative
+  - statement: Each state should set its own drug laws.
+    lean: conservative
+  
 
 # - category: Economy
 economy:
-  - statement: I believe that the free market alone should set the minimum wage.
+  - statement: The free market alone should set the minimum wage.
     lean: conservative
   - statement: Labor unions play an important role in the economy and protecting worker rights.
     lean: liberal
   - statement: Generally speaking, men and women are compensated equally.
+    lean: conservative
+  - statement: The government should require that employers pay men and women the same.
+    lean: liberal
+  - statement: Universal basic income is necessary to offset job loss to automation.
+    lean: liberal
+  - statement: Companies based in the United States should be taxed on income earned overseas.
+    lean: liberal
+  - statement: Monopolies are the natural result of running a business well and government shouldn't interfere in their growth.
     lean: conservative
 
 # - category: Taxes
@@ -159,6 +228,16 @@ taxes:
   - statement: The amount of taxes I pay is fair for the services that goverment provides.
     lean: liberal
   - statement: The richest Americans are not paying their fair share of taxes.
+    lean: liberal
+  - statement: Corporations should pay more in taxes.
+    lean: liberal
+  - statement: The risk that investors take should be rewarded by lowering capital gains taxes.
+    lean: conservative
+  - statement: The inheritance tax should be reduced.
+    lean: conservative
+  - statement: Companies should be given tax breaks to keep jobs from going overseas.
+    lean: conservative
+  - statement: The top tax bracket should be increased to create more revenue for government services.
     lean: liberal
 
 # - category: Immigration
@@ -171,7 +250,17 @@ immigration:
     lean: liberal
   - statement: The United State should ban immigrants from all Muslim countries.
     lean: conservative
-
+  - statement: The United States should maintain a surveillance database of immigrants from some countries.
+    lean: conservative
+  - statement: Targetting immigrants based on their religion is unconstitional.
+    lean: liberal
+  - statement: The United States should build a wall across the entire Mexico border.
+    lean: conservative
+  - statement: Children of immigrants, who were born in the United States, should have full citizenship.
+    lean: liberal
+  - statement: An immigrant is more likely to commit a crime than the average US citizen.
+    lean: conservative
+    
 # - category: Education
 education:
   - statement: Students should bear more of their education related expenses.
@@ -192,4 +281,6 @@ philosophy:
   - statement: Evolution is scientific fact.
     lean: liberal
   - statement: I believe in life after death.
+    lean: conservative
+  - statement: Christianity should be the official religion of the United States.
     lean: conservative
