@@ -8,7 +8,7 @@ Bundler.require(*Rails.groups)
 
 module MatchVote
   class Application < Rails::Application
-    VERSION = '1.0.0-beta.8'
+    VERSION = '1.0.0-beta.9'
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
