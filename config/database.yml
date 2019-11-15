@@ -2,17 +2,17 @@ default: &default
   adapter: postgresql
   encoding: unicode
   pool: 5
+  username: postgres
+  password: postgres
+  port: 5653
 
 development: &dev
   <<: *default
   database: matchvote_dev
-  host: postgres
-  port: 5432
-  username: postgres
+  host: host.docker.internal
 
 test:
-  <<: *dev
-  database: matchvote_test
-
-production:
   <<: *default
+  database: matchvote_test
+  # host: localhost
+  host: host.docker.internal

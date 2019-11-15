@@ -9,12 +9,7 @@ RUN apt-get update \
 
 WORKDIR /usr/src/app
 COPY Gemfile* ./
-RUN bundle install
+RUN bundle install --jobs 12
 COPY . .
 
-ARG AWS_REGION
-ARG MV_PROFILE_PIC_BUCKET
-RUN rake assets:precompile
-
 CMD bin/start
-

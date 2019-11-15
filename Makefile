@@ -14,5 +14,13 @@ build: ## Build the production Docker image
 	docker build \
 	  --build-arg AWS_REGION= \
 	  --build-arg MV_PROFILE_PIC_BUCKET= \
-	  -t $(APP_NAME):$(APP_VSN) \
-	  -f Dockerfile.prod .
+	  -t $(APP_NAME):$(APP_VSN) .
+
+heroku-push: ## Use Heroku to build production image and push to registry
+	heroku container:push web \
+	  --verbose \
+	  --arg APP_NAME=$(APP_NAME),APP_VSN=$(APP_VSN),MIX_ENV=prod \
+	  --app mv-matchvote
+
+heroku-release: ## Deploy container from previously pushed image
+	heroku container:release web --app mv-matchvote
