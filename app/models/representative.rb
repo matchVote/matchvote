@@ -7,7 +7,7 @@ class Representative < ActiveRecord::Base
   has_many :stances, as: :opinionable
   has_many :relationships, foreign_key: :followed_id, dependent: :destroy
   has_many :followers, through: :relationships, source: :follower
-  has_many :article_representatives
+  has_many :article_representatives, foreign_key: :official_id
   has_many :terms, foreign_key: :official_id
 
   validates :first_name, :last_name, :slug, presence: true
