@@ -1,10 +1,11 @@
 require "will_paginate/array"
+require "#{Rails.root}/app/serializers/representative_serializer"
 
 class DirectoryController < ApplicationController
   def index
     reps = Representative.all
     @filter_count = reps.size
-    @reps = reps.map { |rep| present(rep) }
+    @reps = reps.map { |rep| serialize(rep) }
     @sort_list = DirectoryPresenter.sort_list
   end
 
@@ -19,13 +20,12 @@ class DirectoryController < ApplicationController
   end
 
   def followed_reps
-    @ids ||= current_user.followed_reps.pluck(:id)
+    current_user.followed_reps.pluck(:id)
   end
 
-  def present(rep)
-    presenter = RepresentativePresenter.new(rep)
-    presenter.react_hash.merge(
-      { user_following: followed_reps.include?(rep.id) }
-    )
+  def serialize(rep)
+    RepresentativeSerializer.new(rep).add(
+      user_following: followed_reps.include?(rep.id)
+    ).as_json
   end
 end

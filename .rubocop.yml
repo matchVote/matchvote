@@ -1,0 +1,17 @@
+Layout/AlignArguments:
+  EnforcedStyle: with_fixed_indentation
+
+Metrics/LineLength:
+  Max: 100
+
+Metrics/ClassLength:
+  Enabled: false
+
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+
+Style/Documentation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false

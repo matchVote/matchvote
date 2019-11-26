@@ -1,8 +1,10 @@
 class RepresentativePresenter < SimpleDelegator
   include ActionView::Helpers
 
+  delegate :current_term, to: :rep
+
   def self.to_proc
-    -> (rep) { self.new(rep) }
+    ->(rep) { new(rep) }
   end
 
   def initialize(rep, match_percent = 0)
@@ -14,22 +16,16 @@ class RepresentativePresenter < SimpleDelegator
     @rep ||= __getobj__
   end
 
-  def react_hash
-    rep.as_json.merge(
-      full_name: full_name,
-      overall_match_percent: overall_match_percent)
-  end
-
   def non_formatted
     rep
   end
 
   def contact
-    @contact ||= ContactPresenter.new(rep.contact)
+    @contact ||= ContactPresenter.new(rep.current_term)
   end
 
-  def external_ids
-    contact.external_ids || {}
+  def identifiers
+    rep.identifiers || {}
   end
 
   def full_name
@@ -56,28 +52,32 @@ class RepresentativePresenter < SimpleDelegator
     birthday_formatter.datepicker_format
   end
 
-  def government_role
-    if rep.government_role.blank?
+  def role
+    if current_term.role.blank?
       "N/A"
     else
-      rep.government_role.split.map(&:capitalize).join(" ")
+      current_term.role.split.map(&:capitalize).join(" ")
     end
   end
 
   def branch
-    rep.branch.blank? ? "N/A" : rep.branch.capitalize
+    current_term.branch.blank? ? "N/A" : current_term.branch.capitalize
   end
 
   def party
-    rep.party.blank? ? "N/A" : rep.party.titleize
+    current_term.party.blank? ? "N/A" : current_term.party.titleize
+  end
+
+  def state
+    current_term.state
   end
 
   def status
-    rep.status.blank? ? "N/A" : rep.status.titleize
+    rep.status.blank? ? "" : rep.status.titleize
   end
 
   def orientation
-    rep.orientation.blank? ? "N/A" : rep.orientation.capitalize
+    rep.sexual_orientation.blank? ? "N/A" : rep.sexual_orientation.capitalize
   end
 
   def religion
@@ -89,24 +89,25 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def age
-    ((Date.current - Date.parse(rep.birthday)) / 365).to_i
+    return "N/A" if rep.birthday.blank?
+
+    ((Date.current - Date.parse(rep.birthday.to_s)) / 365).to_i
   end
 
   def facebook_url
-    "https://facebook.com/#{external_ids["facebook_username"]}"
+    "https://facebook.com/#{identifiers['facebook']}"
   end
 
   def twitter_url
-    "https://twitter.com/#{external_ids["twitter_username"]}"
+    "https://twitter.com/#{identifiers['twitter']}"
   end
 
   def youtube_url
-    "https://youtube.com/#{external_ids["youtube_username"]}"
+    "https://youtube.com/#{identifiers['youtube']}"
   end
 
   def profile_image_url
-    return rep.profile_image_url if rep.profile_image_url
-    'default.png'
+    rep.profile_pic || "default.png"
   end
 
   def overall_match_percent

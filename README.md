@@ -4,21 +4,23 @@
 matchVote lets you automatically follow the political positions and news for elected officials in the US
 
 #### Development Setup
-    bin/build              # creates containers
-    bin/setup              # creates DB, migrates, seeds
-    docker-compose up      # starts containers
+    docker-compose build  # builds containers
+    docker-compose up     # starts containers
 
 #### Deployment Process
-    bin/deploy <ENV>
-Initial data population will need to happen when an environment is deployed to for the first time: `rake import:all_default_data`
+    make heroku-push
+    make heroku-release
+
+#### Testing
+    bin/test  # dockerized
 
 #### Updating version
 * config/application.rb `VERSION`
 
 #### Rep Hierarchy
-All ->  
-Levels: Federal, State, Municipal ->  
-Federal Branches: Executive, Judicial, Legislative ->  
+All ->
+Levels: Federal, State, Municipal ->
+Federal Branches: Executive, Judicial, Legislative ->
 Government Role ->
 Profile
 
@@ -28,7 +30,7 @@ Profile
   * State Donor Data - http://www.followthemoney.org/our-data/apis/
 
 #### NOTES
-Rep Terms?  
+Rep Terms?
 
 > * Statements
 >   * Declarative text (limit character count?): Limited to 256

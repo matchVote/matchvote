@@ -37,8 +37,8 @@
     if @state.following then 'btn-danger' else 'btn-default'
 
   profileImageUrl: ->
-    if @props.rep.profile_image_url
-      @props.rep.profile_image_url
+    if @props.rep.profile_pic
+      @props.rep.profile_pic
     else
       '/assets/default.png'
 
@@ -53,7 +53,7 @@
         <h4 className="full_name">{@props.rep.full_name}</h4>
       </div>
       <div>
-        { "#{@props.rep.government_role} | #{@props.rep.state}" }
+        { "#{@props.rep.role} | #{@props.rep.state}" }
       </div>
       <div className="directory_block_btns">
         <a href={"/representative/#{@props.rep.slug}"} className="btn btn-sm btn-default">

@@ -1,28 +1,26 @@
 class ContactPresenter < SimpleDelegator
   include ActionView::Helpers
 
-  def contact
-    @contact ||= __getobj__
+  delegate :phone_number, to: :term
+
+  def term
+    @term ||= __getobj__
   end
 
-  def phone_numbers
-    contact.phone_numbers || []
+  def address
+    term.address || {}
   end
 
-  def external_ids
-    contact.external_ids || {}
+  def address_line1
+    address["line1"]
   end
 
-  def phone_number
-    phone_numbers.first
-  end
-
-  def twitter_username
-    external_ids["twitter_username"]
+  def address_city_state_zip
+    "#{address['city']}, #{address['state']} #{address['zip']}"
   end
 
   def contact_url
-    emails.present? ? emails.first : contact_form_url
+    emails.present? ? emails.first : contact_form
   end
 end
 

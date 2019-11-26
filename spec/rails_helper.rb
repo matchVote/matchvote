@@ -54,12 +54,12 @@ RSpec.configure do |config|
     DatabaseCleaner.clean_with(:truncation)
 
     # Mock Fog for carrierwave uploads to S3
-    Fog.mock!
-    y = YAML.load(ERB.new(IO.read("#{Rails.root}/spec/support/fog_creds.yml")).result)
-    File.open("#{Rails.root}/tmp/fog_creds.yml", "w") { |f| f.write YAML.dump(y) }
-    Fog.credentials_path = "#{Rails.root}/tmp/fog_creds.yml"
-    connection = Fog::Storage.new(provider: "AWS")
-    connection.directories.create(key: "mv-profile-pics")
+    # Fog.mock!
+    # y = YAML.load(ERB.new(IO.read("#{Rails.root}/spec/support/fog_creds.yml")).result)
+    # File.open("#{Rails.root}/tmp/fog_creds.yml", "w") { |f| f.write YAML.dump(y) }
+    # Fog.credentials_path = "#{Rails.root}/tmp/fog_creds.yml"
+    # connection = Fog::Storage.new(provider: "AWS")
+    # connection.directories.create(key: "mv-profile-pics")
   end
 
   config.before(:each) do
