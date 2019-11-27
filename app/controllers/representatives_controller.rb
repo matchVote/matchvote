@@ -7,7 +7,7 @@ class RepresentativesController < ApplicationController
     @recent_articles = Article
       .joins(:article_representatives)
       .includes(:comments)
-      .where("articles_representatives.representative_id = '#{@rep.id}'")
+      .where("articles_officials.official_id = '#{@rep.id}'")
       .order(date_published: :desc)
       .limit(5)
       .map(&ArticlePresenter)
