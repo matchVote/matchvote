@@ -1,10 +1,10 @@
 class ContactPresenter < SimpleDelegator
   include ActionView::Helpers
 
-  delegate :phone_number, to: :term
+  delegate :phone_number, :contact_form, to: :term
 
   def term
-    @term ||= __getobj__
+    @term ||= __getobj__ || NullTerm.new
   end
 
   def address
@@ -18,9 +18,18 @@ class ContactPresenter < SimpleDelegator
   def address_city_state_zip
     "#{address['city']}, #{address['state']} #{address['zip']}"
   end
-
-  def contact_url
-    emails.present? ? emails.first : contact_form
-  end
 end
 
+class NullTerm
+  def address
+    {}
+  end
+
+  def phone_number
+    nil
+  end
+
+  def contact_form
+    nil
+  end
+end

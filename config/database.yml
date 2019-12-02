@@ -14,5 +14,8 @@ development: &dev
 test:
   <<: *default
   database: matchvote_test
-  # host: localhost
   host: host.docker.internal
+
+production:
+  <<: *dev
+

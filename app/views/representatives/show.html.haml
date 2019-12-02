@@ -60,7 +60,7 @@
       - if @rep.contact.contact_form
         = button_tag id: "contact_button", class: "btn btn-link" do
           %span.glyphicon.glyphicon-send
-          = link_to "Email", @rep.contact.contact_url, target: "_blank"
+          = link_to "Contact", @rep.contact.contact_form, target: "_blank"
       %hr
       = link_to "Facebook", @rep.facebook_url, target: "_blank",
         class: "btn btn-default btn-sm"

@@ -53,7 +53,7 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def role
-    if current_term.role.blank?
+    if current_term&.role.blank?
       "N/A"
     else
       current_term.role.split.map(&:capitalize).join(" ")
@@ -61,15 +61,15 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def branch
-    current_term.branch.blank? ? "N/A" : current_term.branch.capitalize
+    current_term&.branch.blank? ? "N/A" : current_term.branch.capitalize
   end
 
   def party
-    current_term.party.blank? ? "N/A" : current_term.party.titleize
+    current_term&.party.blank? ? "N/A" : current_term.party.titleize
   end
 
   def state
-    current_term.state
+    current_term&.state
   end
 
   def status
