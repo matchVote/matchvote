@@ -2,7 +2,7 @@ spec
 tags
 log
 coverage
-Dockerfile
+Dockerfile*
 docker-compose.yml
 doc
 README.md

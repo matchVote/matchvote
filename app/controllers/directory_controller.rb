@@ -25,7 +25,7 @@ class DirectoryController < ApplicationController
 
   def serialize(rep)
     RepresentativeSerializer.new(rep).add(
-      user_following: followed_reps.include?(rep.id)
+      user_following: followed_reps.include?(rep.id),
     ).as_json
   end
 end

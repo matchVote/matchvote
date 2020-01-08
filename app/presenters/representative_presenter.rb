@@ -106,8 +106,8 @@ class RepresentativePresenter < SimpleDelegator
     "https://youtube.com/#{identifiers['youtube']}"
   end
 
-  def profile_image_url
-    rep.profile_pic || "default.png"
+  def profile_image
+    rep.profile_pic || default_image
   end
 
   def overall_match_percent
@@ -126,5 +126,11 @@ class RepresentativePresenter < SimpleDelegator
 
   def status_options
     rep_options.status_options
+  end
+
+  private
+
+  def default_image
+    ActionController::Base.helpers.asset_path("default.png")
   end
 end
