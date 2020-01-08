@@ -106,7 +106,7 @@ class RepresentativePresenter < SimpleDelegator
     "https://youtube.com/#{identifiers['youtube']}"
   end
 
-  def profile_image
+  def profile_image_url
     rep.profile_pic || default_image
   end
 

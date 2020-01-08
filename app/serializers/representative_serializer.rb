@@ -19,7 +19,7 @@ class RepresentativeSerializer
         overall_match_percent: official.overall_match_percent,
         role: official.role,
         state: official.state,
-        profile_image: official.profile_image,
+        profile_image: official.profile_image_url,
       )
   end
 
