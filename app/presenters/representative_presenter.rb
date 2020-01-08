@@ -107,7 +107,7 @@ class RepresentativePresenter < SimpleDelegator
   end
 
   def profile_image_url
-    rep.profile_pic || default_image
+    rep.profile_pic.present? ? rep.profile_pic : default_image
   end
 
   def overall_match_percent
