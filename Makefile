@@ -10,7 +10,7 @@ help:
 version: ## Show latest app version
 	@echo $(APP_VSN)
 
-hub-release: ## Build the production Docker image
+hub-release: ## Build the production Docker image and push to Docker Hub
 	docker build \
 	  --build-arg AWS_REGION= \
 	  --build-arg MV_PROFILE_PIC_BUCKET= \

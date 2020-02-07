@@ -13,3 +13,5 @@
 //= require components
 //= require social-share-button
 //= require_tree .
+
+Turbolinks.enableProgressBar();
