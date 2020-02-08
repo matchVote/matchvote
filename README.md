@@ -8,8 +8,7 @@ matchVote lets you automatically follow the political positions and news for ele
     docker-compose up     # starts containers
 
 #### Deployment Process
-    make heroku-push
-    make heroku-release
+    make hub-release ACCOUNT=<name>
 
 #### Testing
     bin/test  # dockerized
