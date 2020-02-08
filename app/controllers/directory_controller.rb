@@ -3,9 +3,9 @@ require "#{Rails.root}/app/serializers/representative_serializer"
 
 class DirectoryController < ApplicationController
   def index
-    reps = Representative.all
-    @filter_count = reps.size
-    @reps = reps.map { |rep| serialize(rep) }
+    officials = Representative.order_by_starting_term
+    @filter_count = officials.size
+    @reps = officials.map { |official| serialize(official) }
     @sort_list = DirectoryPresenter.sort_list
   end
 

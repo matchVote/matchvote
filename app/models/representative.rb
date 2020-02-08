@@ -52,7 +52,7 @@ class Representative < ActiveRecord::Base
     SQL
   end
 
-  def current_term
-    terms.order(start_date: :desc).first
+  def self.order_by_starting_term
+    includes(:terms).order("terms.start_date desc")
   end
 end

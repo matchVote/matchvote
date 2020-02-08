@@ -46,11 +46,11 @@ class RepresentativesController < ApplicationController
 
   private
     def find_rep_by_id
-      Representative.find(params[:id])
+      Representative.order_by_starting_term.find(params[:id])
     end
 
     def find_rep_by_slug
-      Representative.find_by(slug: params[:slug])
+      Representative.order_by_starting_term.find_by(slug: params[:slug])
     end
 
     def demographics_params

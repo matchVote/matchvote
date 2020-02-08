@@ -1,8 +1,6 @@
 class RepresentativePresenter < SimpleDelegator
   include ActionView::Helpers
 
-  delegate :current_term, to: :rep
-
   def self.to_proc
     ->(rep) { new(rep) }
   end
@@ -16,12 +14,17 @@ class RepresentativePresenter < SimpleDelegator
     @rep ||= __getobj__
   end
 
+  def current_term
+    # this expects terms to be orderd by start_date: :desc
+    terms.first
+  end
+
   def non_formatted
     rep
   end
 
   def contact
-    @contact ||= ContactPresenter.new(rep.current_term)
+    @contact ||= ContactPresenter.new(current_term)
   end
 
   def identifiers
