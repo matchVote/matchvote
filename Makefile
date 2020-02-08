@@ -11,11 +11,15 @@ version: ## Show latest app version
 	@echo $(APP_VSN)
 
 hub-release: ## Build the production Docker image and push to Docker Hub
+ifeq ($(origin ACCOUNT),undefined)
+	@echo "ACCOUNT= argument empty"
+else
 	docker build \
 	  --build-arg AWS_REGION= \
 	  --build-arg MV_PROFILE_PIC_BUCKET= \
 	  -t $(ACCOUNT)/$(APP_NAME):$(APP_VSN) .
 	docker push $(ACCOUNT)/$(APP_NAME):$(APP_VSN)
+endif
 
 build: ## Build the production Docker image
 	docker build \
