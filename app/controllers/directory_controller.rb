@@ -3,7 +3,7 @@ require "#{Rails.root}/app/serializers/representative_serializer"
 
 class DirectoryController < ApplicationController
   def index
-    officials = Representative.order_by_starting_term
+    officials = Representative.with_terms
     @filter_count = officials.size
     @reps = officials.map { |official| serialize(official) }
     @sort_list = DirectoryPresenter.sort_list

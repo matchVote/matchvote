@@ -55,4 +55,8 @@ class Representative < ActiveRecord::Base
   def self.order_by_starting_term
     includes(:terms).order("terms.start_date desc")
   end
+
+  def self.with_terms
+    order_by_starting_term.merge(Term.where.not(id: nil))
+  end
 end
